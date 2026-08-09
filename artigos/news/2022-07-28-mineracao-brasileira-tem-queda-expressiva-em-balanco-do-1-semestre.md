@@ -2,7 +2,7 @@
 title: Mineração brasileira tem queda expressiva em balanço do 1º semestre
 date: 2022-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

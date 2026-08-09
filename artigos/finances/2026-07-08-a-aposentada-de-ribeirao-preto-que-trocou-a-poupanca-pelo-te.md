@@ -3,7 +3,7 @@ title: "A aposentada de Ribeirão Preto que trocou a poupança pelo Tesouro Dire
 subtitle: "Com a Selic a 13,75% ao ano e a poupança rendendo menos da metade disso, milhões de brasileiros ainda deixam dinheiro parado no produto financeiro mais popular do país — mas um grupo crescente de investidores da classe média está mudando de rota com resultados documentados."
 date: 2026-07-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - finances
 description: "Enquanto a poupança rende cerca de 6,17% ao ano, o Tesouro Selic entregou mais de 13% no mesmo período — uma diferença que, em reais, separa quem planeja de quem apenas guarda. Entender essa virada não exige formação em economia: exige apenas uma decisão."

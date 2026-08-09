@@ -2,7 +2,7 @@
 title: No Acre, cidadãos já podem acessar novo RG digital
 date: 2022-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

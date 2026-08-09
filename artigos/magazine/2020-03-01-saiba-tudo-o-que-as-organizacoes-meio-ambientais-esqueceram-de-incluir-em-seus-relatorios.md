@@ -3,7 +3,7 @@ title: Saiba tudo o que as organizações meio ambientais esqueceram de incluir 
   relatórios
 date: 2020-03-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

@@ -3,7 +3,7 @@ title: Restrições na Argentina impactam exportações brasileiras, aponta pesq
   CNI
 date: 2023-06-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

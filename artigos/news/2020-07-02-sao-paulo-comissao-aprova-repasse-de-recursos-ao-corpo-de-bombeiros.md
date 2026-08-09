@@ -2,7 +2,7 @@
 title: 'São Paulo: Comissão aprova repasse de recursos ao Corpo de Bombeiros'
 date: 2020-07-02
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Boluarte enfrenta sexta renúncia de seu gabinete em menos de dois meses
 date: 2023-01-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

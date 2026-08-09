@@ -2,7 +2,7 @@
 title: Santa Rita/PB inicia flexibilização de atividades comerciais
 date: 2020-06-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

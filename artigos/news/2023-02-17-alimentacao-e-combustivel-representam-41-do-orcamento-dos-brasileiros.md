@@ -2,7 +2,7 @@
 title: Alimentação e combustível representam 41% do orçamento dos brasileiros
 date: 2023-02-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

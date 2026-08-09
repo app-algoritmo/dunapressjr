@@ -3,7 +3,7 @@ title: Governador da Paraíba anuncia instalação da maior fábrica de painel s
   América Latina na Paraíba
 date: 2021-06-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

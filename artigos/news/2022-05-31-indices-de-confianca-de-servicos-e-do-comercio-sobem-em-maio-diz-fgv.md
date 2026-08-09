@@ -2,7 +2,7 @@
 title: Índices de Confiança de Serviços e do Comércio sobem em maio, diz FGV
 date: 2022-05-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

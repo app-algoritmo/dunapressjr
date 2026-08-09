@@ -2,7 +2,7 @@
 title: Amon Göth, o açougueiro de Cracóvia
 date: 2022-12-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - History
 - Military

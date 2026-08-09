@@ -4,7 +4,7 @@ title: 2.01 O titular do recém-criado Ministério da Infraestrutura (antigo Tra
   pilares do novo governo
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

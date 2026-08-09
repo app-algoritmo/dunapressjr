@@ -2,7 +2,7 @@
 title: Setor público consolidado registra superávit de R$14,8 bilhões
 date: 2023-12-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

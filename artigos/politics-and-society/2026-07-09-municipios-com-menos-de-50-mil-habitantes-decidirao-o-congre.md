@@ -3,7 +3,7 @@ title: "Municípios com menos de 50 mil habitantes decidirão o Congresso de 202
 subtitle: "Com 70% do eleitorado brasileiro concentrado em cidades médias e pequenas, a disputa real pelo poder legislativo em outubro passa por prefeituras, associações comunitárias e igrejas, não pelas capitais."
 date: 2026-07-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - politics-and-society
 description: "A renovação do Congresso Nacional em outubro de 2026 será decidida, em grande medida, em municípios com menos de 50 mil habitantes — territórios que concentram votos, mas raramente pautas. Entender essa equação é entender quem governa o Brasil nos próximos quatro anos."

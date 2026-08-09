@@ -3,7 +3,7 @@ title: Para atividades nas feiras livres, agricultores do Rio Grande do Sul rece
   kits de proteção
 date: 2020-07-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

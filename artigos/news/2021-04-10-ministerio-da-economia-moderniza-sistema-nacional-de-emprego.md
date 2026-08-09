@@ -2,7 +2,7 @@
 title: Ministério da Economia moderniza Sistema Nacional de Emprego
 date: 2021-04-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

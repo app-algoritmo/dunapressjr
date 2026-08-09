@@ -2,7 +2,7 @@
 title: OCDE destaca esforços do Brasil na modernização do serviço público
 date: 2022-12-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

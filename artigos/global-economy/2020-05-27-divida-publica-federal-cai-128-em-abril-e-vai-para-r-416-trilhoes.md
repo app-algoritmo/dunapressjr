@@ -2,7 +2,7 @@
 title: Dívida Pública Federal cai 1,28% em abril e vai para R$ 4,16 trilhões
 date: 2020-05-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: O vídeo proibido que o petismo tenta esconder de todos
 date: 2022-11-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

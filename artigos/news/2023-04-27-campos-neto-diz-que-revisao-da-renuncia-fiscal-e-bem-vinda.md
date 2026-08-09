@@ -2,7 +2,7 @@
 title: Campos Neto diz que revisão da renúncia fiscal é bem-vinda
 date: 2023-04-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

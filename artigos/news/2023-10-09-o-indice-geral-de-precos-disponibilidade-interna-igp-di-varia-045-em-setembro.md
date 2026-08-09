@@ -3,7 +3,7 @@ title: O Índice Geral de Preços – Disponibilidade Interna (IGP-DI) varia 0,4
   setembro
 date: 2023-10-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

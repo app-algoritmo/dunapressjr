@@ -2,7 +2,7 @@
 title: Aneel mantém bandeira tarifária verde para novembro
 date: 2022-10-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

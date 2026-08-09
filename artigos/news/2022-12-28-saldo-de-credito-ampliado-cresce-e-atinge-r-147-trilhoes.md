@@ -2,7 +2,7 @@
 title: Saldo de crédito ampliado cresce e atinge R$ 14,7 trilhões
 date: 2022-12-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

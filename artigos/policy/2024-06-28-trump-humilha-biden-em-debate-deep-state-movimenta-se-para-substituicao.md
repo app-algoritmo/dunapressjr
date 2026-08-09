@@ -2,7 +2,7 @@
 title: 'Trump Humilha Biden em Debate: Deep State Movimenta-se para Substituição?'
 date: 2024-06-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 - World Affairs

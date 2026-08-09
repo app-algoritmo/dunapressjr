@@ -2,7 +2,7 @@
 title: Governo pode fechar 2022 com superávit primário, diz secretário
 date: 2022-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

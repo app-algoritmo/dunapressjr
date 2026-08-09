@@ -2,7 +2,7 @@
 title: São Paulo lidera índice de cidades empreendedoras
 date: 2023-03-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

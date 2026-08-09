@@ -3,7 +3,7 @@ title: "O telescópio que enxerga 13,8 bilhões de anos atrás acaba de fotograf
 subtitle: "Uma galáxia madura e estruturada detectada pelo James Webb a apenas 300 milhões de anos após o Big Bang desafia os modelos mais aceitos de formação estelar — e força a cosmologia a reescrever o calendário do universo."
 date: 2026-07-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - astronomy
 description: "O James Webb Space Telescope registrou estruturas galácticas complexas em épocas em que o universo tinha menos de 3% da sua idade atual — um achado que contradiz décadas de simulações computacionais. A descoberta não é apenas científica: ela redefine quando e como as condições para a existência de planetas, e talvez de vida, tornaram-se possíveis."

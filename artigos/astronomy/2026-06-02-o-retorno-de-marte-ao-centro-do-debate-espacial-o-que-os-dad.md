@@ -3,7 +3,7 @@ title: "O Retorno de Marte ao Centro do Debate Espacial: O Que os Dados de 2026 
 subtitle: "Com novas missões em órbita e sondas na superfície transmitindo dados inéditos, Marte volta a concentrar a atenção da comunidade científica global — e as descobertas recentes redesenham o que sabemos sobre a habitabilidade do planeta vermelho"
 date: 2026-06-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - astronomy
 description: "Em 2026, Marte ocupa novamente o centro das discussões astronômicas mundiais. Novas leituras de sondas em operação, aliadas ao refinamento de modelos climáticos marcianos, sugerem que o planeta pode ter abrigado condições habitáveis por períodos mais longos do que se imaginava. A análise aprofundada dos dados disponíveis revela tanto o avanço extraordinário da ciência planetária quanto os limites que ainda desafiam pesquisadores e agências espaciais."

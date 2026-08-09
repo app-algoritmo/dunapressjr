@@ -2,7 +2,7 @@
 title: Ibovespa cai 0,57% e fecha a 118.409 pontos
 date: 2026-03-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Em Rondônia agricultores recebem títulos fundiários do Programa Terra Brasil
 date: 2020-06-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

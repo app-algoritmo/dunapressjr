@@ -1,5 +1,5 @@
 ---
-title: Barack Obama, e as  palestras hipócritas do pior presidente da história dos
+title: Barack Obama, e as palestras hipócritas do pior presidente da história dos
   Estados Unidos
 date: 2020-08-20
 status: publish

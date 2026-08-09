@@ -2,7 +2,7 @@
 title: Quais são as chances de a Ucrânia aderir rapidamente à UE
 date: 2022-03-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

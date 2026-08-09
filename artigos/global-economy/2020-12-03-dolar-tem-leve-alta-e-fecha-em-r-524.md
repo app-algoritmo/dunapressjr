@@ -2,7 +2,7 @@
 title: Dólar tem leve alta e fecha em R$ 5,24
 date: 2020-12-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

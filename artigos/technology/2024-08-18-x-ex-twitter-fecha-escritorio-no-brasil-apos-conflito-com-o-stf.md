@@ -2,7 +2,7 @@
 title: X (Ex-Twitter) Fecha Escritório no Brasil Após Conflito com o STF
 date: 2024-08-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

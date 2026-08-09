@@ -2,7 +2,7 @@
 title: Contribuintes já podem iniciar a preparação para a entrega do imposto de renda
 date: 2021-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

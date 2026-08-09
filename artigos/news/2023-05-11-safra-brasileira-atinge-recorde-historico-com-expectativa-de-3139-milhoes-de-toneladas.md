@@ -3,7 +3,7 @@ title: Safra brasileira atinge recorde histórico com expectativa de 313,9 milh�
   de toneladas
 date: 2023-05-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

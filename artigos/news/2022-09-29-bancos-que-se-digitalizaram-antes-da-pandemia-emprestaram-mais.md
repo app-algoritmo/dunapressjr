@@ -2,7 +2,7 @@
 title: Bancos que se digitalizaram antes da pandemia emprestaram mais
 date: 2022-09-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

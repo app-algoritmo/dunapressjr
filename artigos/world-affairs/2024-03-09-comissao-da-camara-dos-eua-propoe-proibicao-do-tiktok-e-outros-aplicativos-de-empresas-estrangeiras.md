@@ -1,5 +1,5 @@
 ---
-title: Comissão da Câmara dos EUA Propõe Proibição do TikTok e Outros aplicativos  de
+title: Comissão da Câmara dos EUA Propõe Proibição do TikTok e Outros aplicativos de
   Empresas Estrangeiras
 date: 2024-03-09
 status: publish

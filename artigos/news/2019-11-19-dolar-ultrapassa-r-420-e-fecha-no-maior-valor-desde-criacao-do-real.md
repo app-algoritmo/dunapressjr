@@ -2,7 +2,7 @@
 title: Dólar ultrapassa R$ 4,20 e fecha no maior valor desde criação do real
 date: 2019-11-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

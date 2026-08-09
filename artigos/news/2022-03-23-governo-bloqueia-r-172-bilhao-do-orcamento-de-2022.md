@@ -2,7 +2,7 @@
 title: Governo bloqueia R$ 1,72 bilhão do Orçamento de 2022
 date: 2022-03-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: BC diz que autonomia trará benefícios importantes ao país
 date: 2021-02-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

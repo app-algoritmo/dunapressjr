@@ -3,7 +3,7 @@ title: CMO aprova parecer preliminar do Orçamento com R$ 3,8 bilhões para camp
   em 2020
 date: 2019-12-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Com maior inadimplência no cartão, crédito deve crescer menos no Brasil
 date: 2023-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'FIFA Women´s World Cup France 2019: Norway vai participar!'
 date: 2019-04-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Sports
 ---

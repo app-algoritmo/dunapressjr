@@ -3,7 +3,7 @@ title: Mercado financeiro projeta crescimento da economia brasileira e inflaçã
   da meta em 2023
 date: 2023-05-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

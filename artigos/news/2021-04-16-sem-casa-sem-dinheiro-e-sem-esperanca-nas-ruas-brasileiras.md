@@ -2,7 +2,7 @@
 title: Sem casa, sem dinheiro e sem esperança nas ruas brasileiras
 date: 2021-04-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

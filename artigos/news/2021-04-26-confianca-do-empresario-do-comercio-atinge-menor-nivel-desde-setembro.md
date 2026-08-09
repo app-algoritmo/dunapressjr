@@ -2,7 +2,7 @@
 title: Confiança do empresário do comércio atinge menor nível desde setembro
 date: 2021-04-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

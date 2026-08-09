@@ -2,7 +2,7 @@
 title: Câmara aprova MP que abre crédito extra para pagamento de benefícios
 date: 2022-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

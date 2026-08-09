@@ -2,7 +2,7 @@
 title: Plano Safra 2020/2021 lançado, mostrando papel fundamental do agro para o país
 date: 2020-06-18
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

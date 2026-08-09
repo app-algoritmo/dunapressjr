@@ -2,7 +2,7 @@
 title: A importância do Relacionamento Monogâmico
 date: 2023-09-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Lifestyle
 ---

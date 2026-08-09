@@ -2,7 +2,7 @@
 title: Pequeno produtor rural terá mais suporte, diz presidente do BB
 date: 2022-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

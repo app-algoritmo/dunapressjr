@@ -2,7 +2,7 @@
 title: Publicado pelo MEC edital para fornecer livros didáticos para alunos da pré-escola
 date: 2020-05-25
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

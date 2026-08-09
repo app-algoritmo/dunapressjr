@@ -3,7 +3,7 @@ title: "A estrela que parecia morta voltou a brilhar — e os astrônomos ainda 
 subtitle: "Uma gigante vermelha a 1.500 anos-luz da Terra exibiu em 2026 o maior ressurgimento de luminosidade já registrado em tempo real, desafiando modelos estelares que guiaram a astrofísica por quatro décadas."
 date: 2026-08-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - astronomy
 description: "A estrela V Sagittae, classificada como candidata à extinção desde os anos 1980, registrou em julho de 2026 um pico de emissão de luz 40 vezes acima do esperado, captado pelo Telescópio James Webb. O episódio reacende um debate central da astronomia moderna: até que ponto os modelos que usamos para prever o fim das estrelas — e, por extensão, o fim do Sol — são confiáveis?"

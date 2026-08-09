@@ -2,7 +2,7 @@
 title: China ameaça mercado cativo do Brasil na América do Sul
 date: 2022-08-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "Dormir menos de 7 horas por noite reduz em 26% a eficácia de vacinas �
 subtitle: "Enquanto a ciência reposiciona o sono como pilar de imunidade e longevidade, políticas públicas brasileiras seguem ignorando dados que mudariam protocolos de saúde do trabalhador."
 date: 2026-06-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - health
 description: "Pesquisas publicadas no periódico Sleep mostram que a privação de sono compromete respostas imunológicas mensuráveis, incluindo a eficácia de vacinas aplicadas após noites mal dormidas. No Brasil, onde 72% dos trabalhadores relatam sono insuficiente segundo o Ibope Inteligência, o tema ainda não entrou na agenda de saúde pública com a seriedade que os dados exigem."

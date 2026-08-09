@@ -2,7 +2,7 @@
 title: Aberto sistema para reserva técnica para pedidos de livros pelo FNDE
 date: 2020-06-12
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

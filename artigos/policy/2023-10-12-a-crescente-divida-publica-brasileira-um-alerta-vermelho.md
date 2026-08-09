@@ -2,7 +2,7 @@
 title: 'A Crescente Dívida Pública Brasileira: Um Alerta Vermelho'
 date: 2023-10-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

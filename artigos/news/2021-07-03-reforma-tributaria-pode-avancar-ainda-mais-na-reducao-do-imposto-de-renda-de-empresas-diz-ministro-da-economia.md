@@ -3,7 +3,7 @@ title: Reforma Tributária pode avançar ainda mais na redução do Imposto de R
   empresas, diz ministro da Economia
 date: 2021-07-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

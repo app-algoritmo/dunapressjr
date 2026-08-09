@@ -2,7 +2,7 @@
 title: Mais de 200 detenções em operação mundial contra lavagem de dinheiro
 date: 2019-12-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

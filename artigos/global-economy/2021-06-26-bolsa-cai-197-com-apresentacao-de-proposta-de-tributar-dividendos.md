@@ -2,7 +2,7 @@
 title: Bolsa cai 1,97% com apresentação de proposta de tributar dividendos
 date: 2021-06-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

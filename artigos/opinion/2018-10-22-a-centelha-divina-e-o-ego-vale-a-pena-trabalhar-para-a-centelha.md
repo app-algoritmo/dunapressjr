@@ -2,7 +2,7 @@
 title: A centelha divina e o ego - Vale a pena trabalhar para a centelha
 date: 2018-10-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 - Religiosity

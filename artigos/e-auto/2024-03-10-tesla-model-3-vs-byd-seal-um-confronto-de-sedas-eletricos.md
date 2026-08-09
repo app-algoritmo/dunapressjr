@@ -2,7 +2,7 @@
 title: 'Tesla Model 3 vs BYD Seal: Um Confronto de Sedãs Elétricos'
 date: 2024-03-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - E-auto
 ---

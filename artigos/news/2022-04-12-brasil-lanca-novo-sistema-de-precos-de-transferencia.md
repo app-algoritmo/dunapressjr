@@ -2,7 +2,7 @@
 title: Brasil lança novo sistema de preços de transferência
 date: 2022-04-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

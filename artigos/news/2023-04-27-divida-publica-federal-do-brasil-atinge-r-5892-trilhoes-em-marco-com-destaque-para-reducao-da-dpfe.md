@@ -3,7 +3,7 @@ title: Dívida Pública Federal do Brasil atinge R$ 5,892 trilhões em março, c
   para redução da DPFe
 date: 2023-04-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

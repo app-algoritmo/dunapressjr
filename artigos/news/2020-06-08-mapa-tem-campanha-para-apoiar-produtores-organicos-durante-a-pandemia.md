@@ -2,7 +2,7 @@
 title: Mapa tem campanha para apoiar produtores orgânicos durante a pandemia
 date: 2020-06-08
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

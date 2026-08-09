@@ -2,7 +2,7 @@
 title: 'CNC: Perspectiva de consumo das famílias é a maior desde abril de 2020'
 date: 2023-02-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

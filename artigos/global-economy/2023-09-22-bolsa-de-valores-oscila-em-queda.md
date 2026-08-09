@@ -2,7 +2,7 @@
 title: Bolsa de valores oscila em queda
 date: 2023-09-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

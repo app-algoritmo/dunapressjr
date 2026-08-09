@@ -2,7 +2,7 @@
 title: "NR-1 exige o que antes era invisível: como medir riscos psicossociais nas empresas"
 date: 2026-04-11
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - health
 tags:

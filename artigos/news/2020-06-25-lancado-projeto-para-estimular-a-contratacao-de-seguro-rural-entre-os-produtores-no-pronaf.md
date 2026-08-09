@@ -3,7 +3,7 @@ title: Lançado projeto para estimular a contratação de seguro rural entre os 
   no Pronaf
 date: 2020-06-25
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Bolsa cai com exterior e incertezas sobre o futuro da Petrobras
 date: 2023-03-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: Contribuinte Americano Desembolsará 886 Bilhões de Dólares para sua M�
   Bélica
 date: 2023-12-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

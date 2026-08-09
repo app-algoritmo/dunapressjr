@@ -2,7 +2,7 @@
 title: Mercado reduz projeção para inflação e vê mais crescimento em 2020
 date: 2020-01-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

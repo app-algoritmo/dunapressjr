@@ -2,7 +2,7 @@
 title: Bolsa fecha no menor nível desde maio em dia tenso no mercado
 date: 2021-08-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

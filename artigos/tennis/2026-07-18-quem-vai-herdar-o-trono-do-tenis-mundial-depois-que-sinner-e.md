@@ -3,7 +3,7 @@ title: "Quem vai herdar o trono do tênis mundial depois que Sinner e Alcaraz pa
 subtitle: "A geração de 19 a 22 anos que emerge nos challengers e na segunda semana dos Grand Slams em 2026 sugere que a transição de poder no circuito será menos ordeira do que a narrativa oficial quer fazer crer."
 date: 2026-07-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tennis
 description: "Em 2026, uma safra de jogadores entre 19 e 22 anos começa a pressionar Sinner e Alcaraz por dentro — não pelas manchetes, mas pelos pontos de ranking e pelos bastidores de um circuito que já prepara sua próxima reorganização. Entender quem são esses nomes e como o sistema os fabrica é entender onde o tênis estará em 2030."

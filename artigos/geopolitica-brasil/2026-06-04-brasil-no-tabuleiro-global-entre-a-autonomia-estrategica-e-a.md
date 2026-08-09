@@ -3,7 +3,7 @@ title: "Brasil no Tabuleiro Global: Entre a Autonomia Estratégica e as Pressõe
 subtitle: "Em meio à reconfiguração das alianças internacionais e à escalada das tensões entre potências, o Brasil de 2026 navega um cenário de oportunidades históricas e riscos sistêmicos que exigem escolhas que definirão décadas"
 date: 2026-06-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitica-brasil
 description: "O Brasil ocupa em 2026 uma posição geopolítica singular: potência média com ambições globais, ativo disputado por Washington e Pequim, e protagonista de um Sul Global em ebulição. Mas a janela de oportunidade é estreita e as contradições internas ameaçam comprometer o capital diplomático acumulado."

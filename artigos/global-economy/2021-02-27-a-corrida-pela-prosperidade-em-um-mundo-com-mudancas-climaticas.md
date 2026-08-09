@@ -2,7 +2,7 @@
 title: A corrida pela prosperidade em um mundo com mudanças climáticas
 date: 2021-02-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

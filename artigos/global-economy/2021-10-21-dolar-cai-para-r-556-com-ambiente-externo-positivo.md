@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,56 com ambiente externo positivo
 date: 2021-10-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

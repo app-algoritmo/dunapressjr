@@ -2,7 +2,7 @@
 title: Putin oferece um jantar a Xi Jinping com um cardápio de tradição ucraniana
 date: 2023-03-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

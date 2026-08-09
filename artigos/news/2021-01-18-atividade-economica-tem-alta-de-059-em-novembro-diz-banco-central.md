@@ -2,7 +2,7 @@
 title: Atividade econômica tem alta de 0,59% em novembro, diz Banco Central
 date: 2021-01-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

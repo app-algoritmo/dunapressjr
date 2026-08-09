@@ -2,7 +2,7 @@
 title: Programa apoia micro e pequenos empresários durante pandemia
 date: 2020-05-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

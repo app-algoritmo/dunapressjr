@@ -2,7 +2,7 @@
 title: Brasil criou 16 novas empresas por dia útil em agosto
 date: 2023-12-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

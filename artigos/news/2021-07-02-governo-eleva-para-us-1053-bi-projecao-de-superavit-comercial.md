@@ -2,7 +2,7 @@
 title: Governo eleva para US$ 105,3 bi projeção de superávit comercial
 date: 2021-07-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Semana começa com dólar em alta e Ibovespa em queda
 date: 2021-02-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

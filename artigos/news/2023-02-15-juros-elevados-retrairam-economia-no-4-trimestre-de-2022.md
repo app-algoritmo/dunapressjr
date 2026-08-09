@@ -2,7 +2,7 @@
 title: Juros elevados retraíram economia no 4º trimestre de 2022
 date: 2023-02-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

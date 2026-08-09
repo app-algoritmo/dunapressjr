@@ -2,7 +2,7 @@
 title: Como ganhar dinheiro com a rede social (X)
 date: 2024-08-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Works
 ---

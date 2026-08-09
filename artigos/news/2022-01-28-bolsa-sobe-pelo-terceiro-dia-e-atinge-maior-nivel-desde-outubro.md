@@ -2,7 +2,7 @@
 title: Bolsa sobe pelo terceiro dia e atinge maior nível desde outubro
 date: 2022-01-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

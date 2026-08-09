@@ -2,7 +2,7 @@
 title: Receita Federal lança medidas para reduzir impactos da pandemia do novo coronavírus
 date: 2020-04-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

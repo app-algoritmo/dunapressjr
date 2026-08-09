@@ -2,7 +2,7 @@
 title: Caixa e Sicoob anunciam financiamento para despesas rurais
 date: 2022-02-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

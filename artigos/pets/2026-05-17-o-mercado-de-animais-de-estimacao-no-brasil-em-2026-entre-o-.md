@@ -3,7 +3,7 @@ title: "O Mercado de Animais de Estimação no Brasil em 2026: Entre o Afeto e a
 subtitle: "Com faturamento superior a R$ 80 bilhões anuais e crescimento contínuo mesmo em períodos de instabilidade econômica, o setor pet brasileiro consolida-se como um dos mais resilientes do país — mas também um dos mais desiguais"
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - pets
 description: "O Brasil é hoje o terceiro maior mercado pet do mundo, atrás apenas dos Estados Unidos e do Reino Unido. Em 2026, o setor projeta crescimento de 12% em relação ao ano anterior, impulsionado pela humanização dos animais, pela expansão dos serviços veterinários e pelo surgimento de uma nova geração de tutores que trata seus pets como membros integrais da família. Este artigo examina as forças que moldam esse mercado, suas contradições internas e os desafios que se apresentam para os próximos anos."

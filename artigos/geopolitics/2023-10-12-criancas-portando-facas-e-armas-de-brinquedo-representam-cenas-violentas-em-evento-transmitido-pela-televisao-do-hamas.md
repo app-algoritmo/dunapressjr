@@ -3,7 +3,7 @@ title: Crianças portando facas e armas de brinquedo representam cenas violentas
   evento transmitido pela televisão do Hamas
 date: 2023-10-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

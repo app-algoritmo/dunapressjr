@@ -2,7 +2,7 @@
 title: 8 alimentos com vitamina A que você deve consumir com freqüência
 date: 2020-03-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Food
 ---

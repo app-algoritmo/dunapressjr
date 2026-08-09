@@ -3,7 +3,7 @@ title: "Você parcela o cafezinho mas investe zero: o que os dados revelam sobre
 subtitle: "Com a taxa do rotativo do cartão acima de 400% ao ano e 68 milhões de inadimplentes no país, entender por que tomamos decisões financeiras autodestrutivas deixou de ser questão de comportamento e virou urgência econômica."
 date: 2026-07-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - financial-education
 description: "O Brasil tem a segunda maior taxa de juros do cartão de crédito rotativo do mundo — 441% ao ano em junho de 2026 — e 68 milhões de pessoas com dívidas em atraso. O artigo explica os mecanismos psicológicos e estruturais que prendem consumidores no ciclo do crédito caro e aponta as saídas reais que dados e especialistas já confirmam."

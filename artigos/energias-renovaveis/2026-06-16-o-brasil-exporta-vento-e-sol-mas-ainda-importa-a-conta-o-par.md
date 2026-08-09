@@ -3,7 +3,7 @@ title: "O Brasil exporta vento e sol, mas ainda importa a conta: o paradoxo da p
 subtitle: "Com a maior matriz elétrica renovável do G20 e R$ 290 bilhões em investimentos previstos até 2030, o país lidera rankings internacionais enquanto o consumidor brasileiro paga uma das tarifas mais altas do mundo — e esse nó está prestes a ser desatado."
 date: 2026-06-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - energias-renovaveis
 description: "O Brasil concentra 88% de energia renovável em sua matriz elétrica e é o quinto maior mercado de energia solar do mundo, mas cobra do consumidor tarifas que superam as da Alemanha e do Japão. A tensão entre liderança global e custo interno define agora quem vai capturar — ou perder — os trilhões que a descarbonização global vai movimentar até 2035."

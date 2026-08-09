@@ -2,7 +2,7 @@
 title: UFPR desenvolve EPIs para crianças
 date: 2020-06-16
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

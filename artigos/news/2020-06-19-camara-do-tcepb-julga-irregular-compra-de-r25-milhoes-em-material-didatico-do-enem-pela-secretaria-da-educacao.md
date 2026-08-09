@@ -3,7 +3,7 @@ title: Câmara do TCE/PB julga irregular compra de R$2,5 milhões em material di
   do ENEM pela Secretaria da Educação
 date: 2020-06-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

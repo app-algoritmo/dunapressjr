@@ -2,7 +2,7 @@
 title: Liga Árabe traz Síria de volta após anos de isolamento diplomático
 date: 2023-05-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: Ministério pede avanço de reformas para manter fábricas no país
 date: 2021-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

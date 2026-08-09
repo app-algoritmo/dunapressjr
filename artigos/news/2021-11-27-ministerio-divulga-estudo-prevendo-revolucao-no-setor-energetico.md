@@ -2,7 +2,7 @@
 title: Ministério divulga estudo prevendo “revolução” no setor energético
 date: 2021-11-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

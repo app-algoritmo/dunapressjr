@@ -2,7 +2,7 @@
 title: 'Interview: Jeffrey Sachs Schools Piers Morgan on Geopolitical History'
 date: 2024-06-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - International Politics
 ---

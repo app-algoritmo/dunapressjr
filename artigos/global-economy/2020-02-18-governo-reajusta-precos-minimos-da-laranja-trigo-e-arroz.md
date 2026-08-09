@@ -2,7 +2,7 @@
 title: Governo reajusta preços mínimos da laranja, trigo e arroz
 date: 2020-02-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Ibovespa fechou ligeiramente em alta de 0,60%
 date: 2023-04-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

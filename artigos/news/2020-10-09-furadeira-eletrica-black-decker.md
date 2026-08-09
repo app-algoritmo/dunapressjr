@@ -2,7 +2,7 @@
 title: Furadeira elétrica Black & Decker
 date: 2020-10-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

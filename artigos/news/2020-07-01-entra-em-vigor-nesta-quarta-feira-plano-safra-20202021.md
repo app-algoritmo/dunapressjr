@@ -2,7 +2,7 @@
 title: Entra em vigor nesta quarta-feira Plano Safra 2020/2021
 date: 2020-07-01
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

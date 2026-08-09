@@ -3,7 +3,7 @@ title: Governo da Paraíba cumpre Lei que suspende cobrança de parcelas de cons
   por 120 dias
 date: 2020-06-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

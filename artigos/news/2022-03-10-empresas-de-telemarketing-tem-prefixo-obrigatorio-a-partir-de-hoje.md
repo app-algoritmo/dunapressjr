@@ -2,7 +2,7 @@
 title: Empresas de telemarketing têm prefixo obrigatório a partir de hoje
 date: 2022-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

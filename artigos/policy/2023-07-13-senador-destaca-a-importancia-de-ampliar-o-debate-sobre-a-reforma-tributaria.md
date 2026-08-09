@@ -2,7 +2,7 @@
 title: Senador destaca a importância de ampliar o debate sobre a reforma tributária
 date: 2023-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

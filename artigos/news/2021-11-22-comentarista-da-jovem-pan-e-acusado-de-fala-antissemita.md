@@ -1,5 +1,5 @@
 ---
-title: Comentarista da Jovem Pan é acusado de  fala antissemita
+title: Comentarista da Jovem Pan é acusado de fala antissemita
 date: 2021-11-22
 status: publish
 author: Joice Ferreira

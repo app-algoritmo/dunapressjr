@@ -2,7 +2,7 @@
 title: Hell recheia pizza com insetos e sofre boicote
 date: 2023-04-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Food
 ---

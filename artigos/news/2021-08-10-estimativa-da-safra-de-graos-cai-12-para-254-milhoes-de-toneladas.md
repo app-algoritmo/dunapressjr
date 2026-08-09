@@ -2,7 +2,7 @@
 title: Estimativa da safra de grãos cai 1,2%, para 254 milhões de toneladas
 date: 2021-08-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

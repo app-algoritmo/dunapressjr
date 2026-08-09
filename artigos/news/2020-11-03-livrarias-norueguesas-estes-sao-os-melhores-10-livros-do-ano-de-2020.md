@@ -2,7 +2,7 @@
 title: 'Livrarias norueguesas: Estes são os melhores 10 livros do ano de 2020'
 date: 2020-11-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

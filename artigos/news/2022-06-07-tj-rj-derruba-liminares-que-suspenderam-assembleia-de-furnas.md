@@ -2,7 +2,7 @@
 title: TJ-RJ derruba liminares que suspenderam assembleia de Furnas
 date: 2022-06-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

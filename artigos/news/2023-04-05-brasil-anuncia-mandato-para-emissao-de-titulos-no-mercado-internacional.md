@@ -2,7 +2,7 @@
 title: Brasil anuncia mandato para emissão de títulos no mercado internacional
 date: 2023-04-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

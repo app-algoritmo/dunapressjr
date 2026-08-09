@@ -2,7 +2,7 @@
 title: Receita Federal alerta sobre inconsistências nas declarações do Simples Nacional
 date: 2020-12-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

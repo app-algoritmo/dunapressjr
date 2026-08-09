@@ -2,7 +2,7 @@
 title: STF derruba prisão em segunda instância em 6x5 votos
 date: 2019-11-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

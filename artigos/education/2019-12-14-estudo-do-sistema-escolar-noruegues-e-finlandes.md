@@ -2,7 +2,7 @@
 title: Estudo do sistema escolar norueguês e finlandês
 date: 2019-12-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

@@ -2,7 +2,7 @@
 title: Fernando de Noronha vai ganhar usina solar flutuante
 date: 2022-11-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

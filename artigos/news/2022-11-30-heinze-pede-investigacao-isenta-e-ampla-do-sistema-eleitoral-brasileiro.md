@@ -2,7 +2,7 @@
 title: Heinze pede investigação isenta e ampla do sistema eleitoral brasileiro
 date: 2022-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

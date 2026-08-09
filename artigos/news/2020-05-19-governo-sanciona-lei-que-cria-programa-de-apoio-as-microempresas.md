@@ -2,7 +2,7 @@
 title: Governo sanciona lei que cria programa de apoio às microempresas
 date: 2020-05-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

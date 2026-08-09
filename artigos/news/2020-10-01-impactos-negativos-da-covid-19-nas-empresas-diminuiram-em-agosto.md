@@ -2,7 +2,7 @@
 title: Impactos negativos da covid-19 nas empresas diminuíram em agosto
 date: 2020-10-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

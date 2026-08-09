@@ -2,7 +2,7 @@
 title: Ministério da Economia entrega ao Congresso a segunda fase da Reforma Tributária
 date: 2021-06-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

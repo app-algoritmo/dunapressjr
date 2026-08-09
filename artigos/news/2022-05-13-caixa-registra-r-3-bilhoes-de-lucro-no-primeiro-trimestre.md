@@ -2,7 +2,7 @@
 title: Caixa registra R$ 3 bilhões de lucro no primeiro trimestre
 date: 2022-05-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

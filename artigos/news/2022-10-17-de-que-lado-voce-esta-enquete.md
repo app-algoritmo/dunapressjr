@@ -2,7 +2,7 @@
 title: De que lado você está? Enquete
 date: 2022-10-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Opinion

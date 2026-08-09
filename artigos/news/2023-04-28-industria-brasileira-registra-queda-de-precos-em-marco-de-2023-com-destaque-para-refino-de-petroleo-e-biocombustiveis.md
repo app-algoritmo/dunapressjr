@@ -3,7 +3,7 @@ title: Indústria brasileira registra queda de preços em março de 2023, com de
   para refino de petróleo e biocombustíveis
 date: 2023-04-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

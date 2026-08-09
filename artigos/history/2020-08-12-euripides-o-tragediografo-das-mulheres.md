@@ -2,7 +2,7 @@
 title: 'Eurípides: O Tragediógrafo das Mulheres'
 date: 2020-08-12
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

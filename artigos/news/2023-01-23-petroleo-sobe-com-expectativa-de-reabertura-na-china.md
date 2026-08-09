@@ -2,7 +2,7 @@
 title: Petróleo sobe com expectativa de reabertura na China
 date: 2023-01-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

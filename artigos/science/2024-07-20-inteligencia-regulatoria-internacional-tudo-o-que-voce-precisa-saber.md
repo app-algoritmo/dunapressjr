@@ -2,7 +2,7 @@
 title: 'Inteligência Regulatória Internacional: Tudo o que Você Precisa Saber'
 date: 2024-07-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Science
 - Technology

@@ -2,7 +2,7 @@
 title: Auxílio Brasil injetará mais de R$ 90 bilhões na economia
 date: 2022-02-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: '8 de setembro: I Encontro Monárquico de São Paulo'
 date: 2018-09-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Convocados primeiros 107 aprovados do concurso nacional da Ebserh
 date: 2020-06-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

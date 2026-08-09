@@ -3,7 +3,7 @@ title: Destaque aos hospitais da Rede Ebserh por elogios recebidos pela atuaçã
   à pandemia
 date: 2020-07-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

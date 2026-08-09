@@ -2,7 +2,7 @@
 title: Recuperação do mercado de trabalho no Brasil perde fôlego em 2023
 date: 2023-08-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

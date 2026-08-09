@@ -2,7 +2,7 @@
 title: 'Explorando o Fediverso: A Nova Fronteira das Redes Sociais'
 date: 2024-07-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

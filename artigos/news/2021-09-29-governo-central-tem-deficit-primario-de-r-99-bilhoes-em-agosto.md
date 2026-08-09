@@ -2,7 +2,7 @@
 title: Governo Central tem déficit primário de R$ 9,9 bilhões em agosto
 date: 2021-09-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

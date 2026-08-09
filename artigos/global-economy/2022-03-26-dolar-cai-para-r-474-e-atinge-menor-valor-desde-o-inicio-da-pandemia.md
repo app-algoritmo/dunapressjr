@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 4,74 e atinge menor valor desde o início da pandemia
 date: 2022-03-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

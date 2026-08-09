@@ -2,7 +2,7 @@
 title: Série de vídeos mostra Noruega vista de cima
 date: 2019-08-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Tourism and Gastronomy

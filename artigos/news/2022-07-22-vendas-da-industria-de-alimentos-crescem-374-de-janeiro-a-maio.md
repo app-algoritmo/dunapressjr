@@ -2,7 +2,7 @@
 title: Vendas da indústria de alimentos crescem 3,74% de janeiro a maio
 date: 2022-07-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

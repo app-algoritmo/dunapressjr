@@ -2,7 +2,7 @@
 title: Com Selic em queda, poupança pode passar a render menos que a inflação
 date: 2019-11-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

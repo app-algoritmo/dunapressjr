@@ -2,7 +2,7 @@
 title: 'Investidores: Perigos dos Golpes de Trading com IA e Como se Proteger'
 date: 2024-08-27
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Magazine
 ---

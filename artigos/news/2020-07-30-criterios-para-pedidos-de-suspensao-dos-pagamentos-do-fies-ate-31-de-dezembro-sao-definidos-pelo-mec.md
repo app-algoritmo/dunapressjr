@@ -3,7 +3,7 @@ title: Critérios para pedidos de suspensão dos pagamentos do Fies até 31 de d
   são definidos pelo Mec
 date: 2020-07-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

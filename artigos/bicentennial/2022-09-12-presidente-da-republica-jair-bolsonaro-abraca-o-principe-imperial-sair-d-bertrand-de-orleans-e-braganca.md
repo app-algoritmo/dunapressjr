@@ -3,7 +3,7 @@ title: Presidente da República Jair Bolsonaro abraça o Príncipe Imperial S.A.
   Bertrand de Orleans e Bragança
 date: 2022-09-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Bicentennial
 - News

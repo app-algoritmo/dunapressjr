@@ -2,7 +2,7 @@
 title: Estudo com comparativos educacionais de 18 países da América Latina e do Caribe
 date: 2020-07-28
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

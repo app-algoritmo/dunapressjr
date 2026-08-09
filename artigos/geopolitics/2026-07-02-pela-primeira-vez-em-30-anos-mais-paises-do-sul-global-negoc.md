@@ -3,7 +3,7 @@ title: "Pela primeira vez em 30 anos, mais países do Sul Global negociam fora d
 subtitle: "A reconfiguração silenciosa das alianças monetárias e comerciais entre emergentes redesenha o tabuleiro geopolítico global — e coloca o Brasil diante de uma escolha estratégica que não pode ser adiada."
 date: 2026-07-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitics
 description: "Em 2026, pela primeira vez desde o colapso da União Soviética, a maioria das transações comerciais entre países do Sul Global é liquidada em moedas alternativas ao dólar — yuan, rupia, dirham e o nascente sistema mBridge lideram essa virada. Para o Brasil, que ainda tem 86% de suas reservas em ativos denominados em dólar, o momento exige posição."

@@ -2,7 +2,7 @@
 title: Indicador Antecedente Composto da Economia fica estável em outubro
 date: 2020-11-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Monitor do PIB indica alta de 1,8% em novembro de 2021, diz FGV
 date: 2022-01-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

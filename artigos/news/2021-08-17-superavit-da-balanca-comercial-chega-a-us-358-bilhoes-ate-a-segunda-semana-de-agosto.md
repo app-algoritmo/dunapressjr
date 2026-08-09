@@ -3,7 +3,7 @@ title: Superávit da balança comercial chega a US$ 3,58 bilhões até a segunda
   de agosto
 date: 2021-08-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

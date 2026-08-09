@@ -3,7 +3,7 @@ title: "Brasileiros dormem 6h12 por noite — e o mercado de 'slow living' já f
 subtitle: "A corrida pelo descanso virou indústria: entre spas urbanos, aplicativos de pausa e a redescoberta do tédio como luxo, o Brasil debate o que significa viver bem em 2026."
 date: 2026-07-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - lifestyle
 description: "Uma pesquisa do Instituto DataSaúde revelou em junho de 2026 que o brasileiro médio dorme 6h12 por noite — 48 minutos abaixo do mínimo recomendado pela OMS. O paradoxo: o mercado de bem-estar que promete resolver esse déficit nunca faturou tanto, o que levanta uma pergunta incômoda sobre se estamos comprando descanso ou apenas uma nova forma de ansiedade."

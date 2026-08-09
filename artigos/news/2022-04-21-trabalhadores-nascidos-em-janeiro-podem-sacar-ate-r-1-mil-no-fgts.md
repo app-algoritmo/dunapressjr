@@ -2,7 +2,7 @@
 title: Trabalhadores nascidos em janeiro podem sacar até R$ 1 mil no FGTS
 date: 2022-04-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Promotor que condenou Cristina Kirchner foi atacado
 date: 2022-12-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

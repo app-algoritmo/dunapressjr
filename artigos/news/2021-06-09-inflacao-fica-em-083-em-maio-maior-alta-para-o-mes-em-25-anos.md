@@ -2,7 +2,7 @@
 title: Inflação fica em 0,83% em maio, maior alta para o mês em 25 anos
 date: 2021-06-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ibovespa sobe 0,18% e acompanha cenário externo após inflação americana
 date: 2023-09-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

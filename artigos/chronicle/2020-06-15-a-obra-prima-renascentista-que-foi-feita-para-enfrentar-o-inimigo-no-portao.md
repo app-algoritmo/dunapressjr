@@ -2,7 +2,7 @@
 title: A obra-prima renascentista que foi feita para enfrentar o inimigo no portão
 date: 2020-06-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 ---

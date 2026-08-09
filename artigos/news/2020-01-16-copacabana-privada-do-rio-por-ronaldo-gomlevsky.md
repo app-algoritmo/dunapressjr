@@ -2,7 +2,7 @@
 title: Copacabana, privada do Rio, por Ronaldo Gomlevsky
 date: 2020-01-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Produção industrial cresce em 13 dos 15 locais pesquisados em janeiro
 date: 2020-03-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

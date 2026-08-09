@@ -3,7 +3,7 @@ title: Índice de Confiança do Empresário Industrial (ICEI) aponta avanço e i
   otimismo no setor
 date: 2023-08-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

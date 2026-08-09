@@ -2,7 +2,7 @@
 title: A história dos povos Amoritas
 date: 2026-03-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - History and Philosophy
 ---

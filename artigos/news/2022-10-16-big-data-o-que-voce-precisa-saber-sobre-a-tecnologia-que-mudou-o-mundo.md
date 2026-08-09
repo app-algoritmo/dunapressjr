@@ -2,7 +2,7 @@
 title: 'Big Data: o que você precisa saber sobre a tecnologia que mudou o mundo'
 date: 2022-10-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

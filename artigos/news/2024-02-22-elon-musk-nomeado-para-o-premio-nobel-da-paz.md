@@ -2,7 +2,7 @@
 title: Elon Musk Nomeado para o Prêmio Nobel da Paz
 date: 2024-02-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

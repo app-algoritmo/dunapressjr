@@ -2,7 +2,7 @@
 title: Confiança do comércio sobe pelo segundo mês consecutivo
 date: 2022-09-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

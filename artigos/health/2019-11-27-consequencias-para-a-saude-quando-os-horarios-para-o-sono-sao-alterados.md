@@ -2,7 +2,7 @@
 title: Consequências para a saúde quando os horários para o sono são alterados
 date: 2019-11-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 ---

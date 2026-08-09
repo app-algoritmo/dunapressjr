@@ -2,7 +2,7 @@
 title: Inflação entrará em trajetória decrescente depois de maio
 date: 2022-04-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

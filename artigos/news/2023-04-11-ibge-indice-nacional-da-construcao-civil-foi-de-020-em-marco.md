@@ -2,7 +2,7 @@
 title: 'IBGE: Índice Nacional da Construção Civil foi de 0,20% em março'
 date: 2023-04-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

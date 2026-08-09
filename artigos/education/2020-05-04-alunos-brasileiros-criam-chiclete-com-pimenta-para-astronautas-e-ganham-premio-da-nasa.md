@@ -1,5 +1,5 @@
 ---
-title: Alunos  brasileiros criam chiclete com pimenta para astronautas e ganham prêmio
+title: Alunos brasileiros criam chiclete com pimenta para astronautas e ganham prêmio
   da Nasa
 date: 2020-05-04
 status: publish

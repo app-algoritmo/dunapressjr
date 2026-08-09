@@ -2,7 +2,7 @@
 title: 'Dinâmica dos Mercados: Perspectivas Globais para Agosto de 2024'
 date: 2024-08-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

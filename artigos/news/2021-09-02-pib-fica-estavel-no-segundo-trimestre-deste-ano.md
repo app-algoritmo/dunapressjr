@@ -2,7 +2,7 @@
 title: PIB fica estável no segundo trimestre deste ano
 date: 2021-09-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Coronavírus um ataque bioterrorista?
 date: 2020-03-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

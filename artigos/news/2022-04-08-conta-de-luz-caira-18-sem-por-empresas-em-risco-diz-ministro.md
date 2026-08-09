@@ -2,7 +2,7 @@
 title: Conta de luz cairá 18% sem pôr empresas em risco, diz ministro
 date: 2022-04-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

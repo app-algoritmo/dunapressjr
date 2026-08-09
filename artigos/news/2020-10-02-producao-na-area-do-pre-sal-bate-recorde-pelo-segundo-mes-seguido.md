@@ -2,7 +2,7 @@
 title: Produção na área do pré-sal bate recorde pelo segundo mês seguido
 date: 2020-10-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

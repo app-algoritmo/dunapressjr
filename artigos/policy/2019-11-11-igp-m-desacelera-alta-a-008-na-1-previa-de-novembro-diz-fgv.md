@@ -2,7 +2,7 @@
 title: IGP-M desacelera alta a 0,08% na 1ª prévia de novembro, diz FGV
 date: 2019-11-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

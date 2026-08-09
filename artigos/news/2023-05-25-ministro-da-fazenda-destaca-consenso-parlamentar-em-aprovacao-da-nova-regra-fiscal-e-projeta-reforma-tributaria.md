@@ -3,7 +3,7 @@ title: Ministro da Fazenda destaca consenso parlamentar em aprovação da Nova R
   Fiscal e projeta Reforma Tributária
 date: 2023-05-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

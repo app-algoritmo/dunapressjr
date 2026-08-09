@@ -2,7 +2,7 @@
 title: Emissões no mercado de capitais somam R$ 33,7 bilhões em abril
 date: 2020-05-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

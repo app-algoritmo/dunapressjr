@@ -2,7 +2,7 @@
 title: Giuseppe Cavo Dragone, eleito presidente da OTAN
 date: 2023-09-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - Military

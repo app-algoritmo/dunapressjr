@@ -2,7 +2,7 @@
 title: Ministro da Educação esclarece informações com relação à sua formação acadêmica
 date: 2020-06-29
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

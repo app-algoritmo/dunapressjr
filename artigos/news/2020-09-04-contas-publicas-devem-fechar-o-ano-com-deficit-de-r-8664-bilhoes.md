@@ -2,7 +2,7 @@
 title: Contas públicas devem fechar o ano com déficit de R$ 866,4 bilhões
 date: 2020-09-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

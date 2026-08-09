@@ -2,7 +2,7 @@
 title: Ciclone Mocha causa devastação e mortes em Myanmar
 date: 2023-05-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

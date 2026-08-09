@@ -2,7 +2,7 @@
 title: Abate de frangos cai, mas o de suínos e bovinos sobe no 1º trimestre
 date: 2022-05-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

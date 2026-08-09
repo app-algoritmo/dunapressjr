@@ -3,7 +3,7 @@ title: Petrobras aprova pagamento de remuneração aos acionistas e ajustes no P
   Estratégico
 date: 2023-05-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

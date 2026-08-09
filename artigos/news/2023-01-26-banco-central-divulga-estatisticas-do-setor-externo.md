@@ -2,7 +2,7 @@
 title: Banco Central divulga estatísticas do setor Externo
 date: 2023-01-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

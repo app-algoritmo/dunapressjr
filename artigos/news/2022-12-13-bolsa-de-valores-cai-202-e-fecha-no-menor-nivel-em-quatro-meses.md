@@ -2,7 +2,7 @@
 title: Bolsa de Valores cai 2,02% e fecha no menor nível em quatro meses
 date: 2022-12-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

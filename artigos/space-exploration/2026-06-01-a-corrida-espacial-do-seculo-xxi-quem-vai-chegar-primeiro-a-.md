@@ -3,7 +3,7 @@ title: "A Corrida Espacial do Século XXI: Quem Vai Chegar Primeiro a Marte — 
 subtitle: "Com SpaceX, NASA e agências asiáticas acelerando seus cronogramas, a disputa pela exploração de Marte transcende a ciência e redesenha o tabuleiro geopolítico global"
 date: 2026-06-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - space-exploration
 description: "A exploração espacial voltou ao centro do debate global em 2026, com missões tripuladas a Marte se tornando uma possibilidade concreta no horizonte da próxima década. Mas por trás dos foguetes e das janelas de lançamento, o que realmente está em jogo é poder, recursos e a definição de quem escreverá as regras do próximo grande capítulo da humanidade."

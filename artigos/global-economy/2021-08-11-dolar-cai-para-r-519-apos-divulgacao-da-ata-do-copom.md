@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,19 após divulgação da ata do Copom
 date: 2021-08-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: Crédito concedido pelo Pronampe e pelo Peac ultrapassa R$ 32 bilhões em
   meses
 date: 2022-09-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

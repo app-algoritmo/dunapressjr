@@ -2,7 +2,7 @@
 title: Documentário sobre o tratamento preventivo contra a doença chinesa
 date: 2021-03-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

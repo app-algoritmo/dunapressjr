@@ -2,7 +2,7 @@
 title: Justiça de Alagoas suspende leilão para concessão de saneamento
 date: 2020-09-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

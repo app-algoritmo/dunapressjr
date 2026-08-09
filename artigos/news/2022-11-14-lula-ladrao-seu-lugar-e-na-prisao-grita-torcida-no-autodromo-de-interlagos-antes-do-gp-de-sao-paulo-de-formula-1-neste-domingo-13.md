@@ -3,7 +3,7 @@ title: “Lula ladrão, seu lugar é na prisão”, grita torcida no Autódromo 
   antes do GP de São Paulo de Fórmula 1, neste domingo (13).
 date: 2022-11-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

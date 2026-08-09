@@ -3,7 +3,7 @@ title: "A SpaceX transportou mais carga ao espaço em 2025 do que todos os gover
 subtitle: "O monopólio silencioso da órbita baixa redefine quem controla o acesso ao espaço — e o que isso significa para soberania, defesa e ciência nos próximos dez anos."
 date: 2026-07-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - space-exploration
 description: "Em 2025, a SpaceX operou mais de 60% de toda a massa lançada à órbita terrestre, superando a soma de agências espaciais de EUA, Europa, China e Rússia. Essa concentração de poder logístico no espaço não é apenas um recorde industrial — é uma mudança estrutural que afeta contratos de defesa, política científica e a soberania digital de nações emergentes."

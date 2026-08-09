@@ -2,7 +2,7 @@
 title: "Maio Vermelho reforça alerta: casos de câncer de boca devem ultrapassar 15 mil por ano no Brasil"
 date: 2026-05-04
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - health
 tags:

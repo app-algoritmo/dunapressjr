@@ -2,7 +2,7 @@
 title: Produção animal apresenta crescimento no primeiro trimestre de 2023
 date: 2023-05-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

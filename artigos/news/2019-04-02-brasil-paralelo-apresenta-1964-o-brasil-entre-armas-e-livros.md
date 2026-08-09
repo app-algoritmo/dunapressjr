@@ -2,7 +2,7 @@
 title: Brasil Paralelo apresenta 1964 - O Brasil entre armas e livros
 date: 2019-04-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

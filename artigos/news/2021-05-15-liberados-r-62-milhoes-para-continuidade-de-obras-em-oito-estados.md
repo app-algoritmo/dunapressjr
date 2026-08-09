@@ -2,7 +2,7 @@
 title: Liberados R$ 62 milhões para continuidade de obras em oito estados
 date: 2021-05-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

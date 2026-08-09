@@ -3,7 +3,7 @@ title: Novo webinar promovido pelo Mapa sobre monitoramento e controle da praga 
   gafanhotos
 date: 2020-07-16
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

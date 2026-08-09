@@ -2,7 +2,7 @@
 title: Dólar aproxima-se de R$ 5,17 e fecha no maior valor desde março
 date: 2023-10-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

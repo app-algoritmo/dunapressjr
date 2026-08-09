@@ -3,7 +3,7 @@ title: Receita Federal abre consulta ao segundo lote de restituição do IRPF 20
   quarta-feira (23/6)
 date: 2021-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

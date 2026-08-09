@@ -2,7 +2,7 @@
 title: "Minerando os Céus: A Revolução Econômica e Geopolítica do Cinturão de Asteroides"
 date: 2026-05-06
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - global-economy
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778538135/Minerando_os_Ce%CC%81us_-_A_Revoluc%CC%A7a%CC%83o_Econo%CC%82mica_e_Geopoli%CC%81tica_do_Cintura%CC%83o_de_Asteroides_stf8ok.jpg"

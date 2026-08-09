@@ -3,7 +3,7 @@ title: Ibovespa fecha semana em alta impulsionado por resultados da Petrobras e 
   econômico
 date: 2023-05-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

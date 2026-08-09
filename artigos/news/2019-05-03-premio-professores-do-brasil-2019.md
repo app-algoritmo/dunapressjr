@@ -2,7 +2,7 @@
 title: Prêmio Professores do Brasil 2019
 date: 2019-05-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

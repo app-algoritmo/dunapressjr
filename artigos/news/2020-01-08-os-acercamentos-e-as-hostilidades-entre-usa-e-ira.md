@@ -2,7 +2,7 @@
 title: Os acercamentos e as hostilidades entre USA e Irã
 date: 2020-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Previsões econômicas de 2023 permanecem estáveis no Boletim Focus do B
   Central
 date: 2023-11-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

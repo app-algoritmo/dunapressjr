@@ -3,7 +3,7 @@ title: Ministra do Mapa participa da assinatura de acordo de cooperação entre 
   e Embrapa
 date: 2020-07-21
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

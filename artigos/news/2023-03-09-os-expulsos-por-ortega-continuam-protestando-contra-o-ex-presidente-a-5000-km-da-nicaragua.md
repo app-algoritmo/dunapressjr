@@ -3,7 +3,7 @@ title: Os expulsos por Ortega continuam protestando contra o ex-presidente a 5.0
   km da Nicarágua
 date: 2023-03-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

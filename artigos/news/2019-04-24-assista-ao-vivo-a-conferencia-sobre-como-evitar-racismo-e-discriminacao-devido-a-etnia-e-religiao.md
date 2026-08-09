@@ -3,7 +3,7 @@ title: Assista ao vivo à conferência sobre como evitar racismo e discriminaç�
   à etnia e religião
 date: 2019-04-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

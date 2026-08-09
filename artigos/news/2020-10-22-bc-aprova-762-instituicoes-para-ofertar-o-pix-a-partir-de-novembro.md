@@ -2,7 +2,7 @@
 title: BC aprova 762 instituições para ofertar o Pix a partir de novembro
 date: 2020-10-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

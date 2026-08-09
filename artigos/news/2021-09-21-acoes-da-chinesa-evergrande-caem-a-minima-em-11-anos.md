@@ -2,7 +2,7 @@
 title: Ações da chinesa Evergrande caem à mínima em 11 anos
 date: 2021-09-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

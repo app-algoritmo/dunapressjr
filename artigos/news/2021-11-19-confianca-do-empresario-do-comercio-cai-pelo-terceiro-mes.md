@@ -2,7 +2,7 @@
 title: Confiança do empresário do comércio cai pelo terceiro mês
 date: 2021-11-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

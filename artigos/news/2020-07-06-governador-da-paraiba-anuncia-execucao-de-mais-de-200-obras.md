@@ -2,7 +2,7 @@
 title: Governador da Paraíba anuncia execução de mais de 200 obras
 date: 2020-07-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

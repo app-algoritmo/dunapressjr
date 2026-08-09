@@ -2,7 +2,7 @@
 title: UFCG lança projeto para recuperar computadores para alunos da rede pública
 date: 2020-06-26
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

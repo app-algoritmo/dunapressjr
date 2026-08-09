@@ -3,7 +3,7 @@ title: Petro preso entre sua falsa promessa de austeridade e complicado perdão 
   Linha
 date: 2022-12-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

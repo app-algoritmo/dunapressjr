@@ -3,7 +3,7 @@ title: Fim de privilégios, simplificação, combate à sonegação e redução 
   são pilares da segunda fase da Reforma Tributária
 date: 2021-06-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

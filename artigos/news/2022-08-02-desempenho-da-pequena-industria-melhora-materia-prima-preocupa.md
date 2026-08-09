@@ -2,7 +2,7 @@
 title: Desempenho da pequena indústria melhora; matéria-prima preocupa
 date: 2022-08-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

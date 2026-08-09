@@ -2,7 +2,7 @@
 title: MPPB ajuíza ação contra Município de Cuité de Mamanguape por contratações irregulares
 date: 2020-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

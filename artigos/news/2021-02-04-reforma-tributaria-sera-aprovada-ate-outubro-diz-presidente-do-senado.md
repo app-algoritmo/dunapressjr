@@ -2,7 +2,7 @@
 title: Reforma tributária será aprovada até outubro, diz presidente do Senado
 date: 2021-02-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

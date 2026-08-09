@@ -2,7 +2,7 @@
 title: Safra de grãos deve subir 6,4% em 2022, estima Conab
 date: 2022-05-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

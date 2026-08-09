@@ -2,7 +2,7 @@
 title: Putin cerca o Báltico com armas nucleares e ameaça conflito mundial
 date: 2023-02-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 - World Affairs

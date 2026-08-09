@@ -2,7 +2,7 @@
 title: O acesso à Internet deve se tornar um direito humano
 date: 2023-09-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Ministério autoriza construção de 9 ferrovias pela iniciativa privada
 date: 2021-12-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Com I.V.A e I.B.S, Brasil poderá avançar 50 anos que leva de atrazo
 date: 2020-03-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

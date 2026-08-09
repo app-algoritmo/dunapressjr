@@ -2,7 +2,7 @@
 title: Economia - O suicídio econômico - 05
 date: 2018-09-18
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

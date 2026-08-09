@@ -2,7 +2,7 @@
 title: Receita atualiza regras de parcelamento para empresas em recuperação judicial
 date: 2021-04-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "Gilberto Gil assina acordo com UNESCO para transformar o Recôncavo Baia
 subtitle: "A parceria, anunciada em julho de 2026, aposta que cultura popular não é herança estática — é vetor de desenvolvimento regional mensurável."
 date: 2026-08-07
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - culture-and-history
 description: "Gilberto Gil encabeça um acordo inédito entre a UNESCO e municípios do Recôncavo Baiano para monetizar e preservar simultaneamente o patrimônio imaterial da região. O projeto recoloca o Brasil no centro do debate global sobre cultura como política econômica — e desafia a ideia de que preservar e crescer são verbos incompatíveis."

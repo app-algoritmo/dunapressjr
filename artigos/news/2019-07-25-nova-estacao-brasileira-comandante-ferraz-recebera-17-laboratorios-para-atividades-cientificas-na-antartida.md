@@ -3,7 +3,7 @@ title: Nova estação brasileira Comandante Ferraz receberá 17 laboratórios pa
   científicas na Antártida
 date: 2019-07-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

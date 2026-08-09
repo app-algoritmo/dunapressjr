@@ -2,7 +2,7 @@
 title: Governo quer reavaliar pisos para gastos com saúde e educação
 date: 2023-03-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: A dupla cidadania é uma opção para você? - novas regras de cidadania na Noruega
 date: 2019-07-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Policy

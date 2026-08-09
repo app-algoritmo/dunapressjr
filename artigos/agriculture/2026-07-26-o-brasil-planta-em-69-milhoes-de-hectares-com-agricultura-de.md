@@ -3,7 +3,7 @@ title: "O Brasil planta em 69 milhões de hectares com agricultura de precisão 
 subtitle: "Enquanto o agronegócio bate recordes de exportação e adota drones e IA no campo, a cadeia logística e a agricultura familiar seguem travadas num gargalo que custa R$ 80 bilhões por ano ao país."
 date: 2026-07-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - agriculture
 description: "O Brasil é o maior exportador global de soja, carne e café, mas perde cerca de 30% de tudo que produz entre a fazenda e a mesa — um paradoxo que a tecnologia no campo começa a atacar, mas que exige muito mais do que satélites e aplicativos. Com a safra 2025/26 projetada em 322 milhões de toneladas pela Conab, o momento é decisivo para entender onde o campo avança e onde ainda tropeça."

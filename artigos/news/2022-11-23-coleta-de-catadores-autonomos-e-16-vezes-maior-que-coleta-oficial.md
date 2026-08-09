@@ -2,7 +2,7 @@
 title: Coleta de catadores autônomos é 1,6 vezes maior que coleta oficial
 date: 2022-11-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

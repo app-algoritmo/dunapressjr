@@ -2,7 +2,7 @@
 title: Poupança tem retirada líquida de R$ 11,01 bi em outubro
 date: 2022-11-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Vida e inteligência surgindo além do nosso planeta
 date: 2020-05-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

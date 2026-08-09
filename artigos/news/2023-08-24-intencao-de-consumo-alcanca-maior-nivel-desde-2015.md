@@ -2,7 +2,7 @@
 title: Intenção de consumo alcança maior nível desde 2015
 date: 2023-08-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

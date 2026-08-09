@@ -2,7 +2,7 @@
 title: Light S.A. solicita recuperação judicial com dívida de R$ 11 bilhões
 date: 2023-05-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

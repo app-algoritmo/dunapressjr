@@ -3,7 +3,7 @@ title: "A Fragmentação da Ordem Econômica Global: Blocos, Barreiras e o Novo 
 subtitle: "Com tarifas em ascensão, cadeias de suprimentos sendo redesenhadas e moedas alternativas ganhando espaço, o mundo caminha para uma era de desglobalização estrutural — e as consequências serão sentidas por décadas"
 date: 2026-06-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-economy
 description: "A economia global atravessa uma inflexão histórica em 2026. A fragmentação em blocos econômicos rivais, o avanço de acordos bilaterais fora do arcabouço multilateral e a disputa por tecnologias estratégicas redesenham as regras do comércio e do investimento internacional. Este artigo analisa as forças por trás dessa ruptura e o que esperar nos próximos anos."

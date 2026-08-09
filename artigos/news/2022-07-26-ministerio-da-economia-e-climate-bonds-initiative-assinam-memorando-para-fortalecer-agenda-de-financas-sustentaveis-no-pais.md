@@ -3,7 +3,7 @@ title: Ministério da Economia e Climate Bonds Initiative assinam memorando para
   agenda de finanças sustentáveis no país
 date: 2022-07-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

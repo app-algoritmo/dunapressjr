@@ -3,7 +3,7 @@ title: Estimativa do IBGE aponta para safra recorde de 313,3 milhões de tonelad
   em 2023
 date: 2023-09-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

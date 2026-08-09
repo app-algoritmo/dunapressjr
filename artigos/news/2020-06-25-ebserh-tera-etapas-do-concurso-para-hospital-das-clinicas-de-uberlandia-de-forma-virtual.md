@@ -3,7 +3,7 @@ title: Ebserh terá etapas do concurso para Hospital das Clínicas de Uberlândi
   forma virtual
 date: 2020-06-25
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

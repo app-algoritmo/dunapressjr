@@ -3,7 +3,7 @@ title: "Burnout custou US$ 322 bilhões à economia global em 2025 — e as empr
 subtitle: "A ciência do comportamento organizacional acumula evidências de que programas de bem-estar isolados fracassam quando a arquitetura do trabalho permanece intacta — e algumas companhias já estão redesenhando o ambiente, não apenas oferecendo terapia."
 date: 2026-06-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - saude-mental
 description: "Relatório da Gallup publicado em março de 2026 estima que o esgotamento profissional custou US$ 322 bilhões à economia global no ano anterior — e a maior parte das empresas ainda responde ao problema com aplicativos de meditação. A fronteira entre intervenção superficial e mudança estrutural está se tornando o novo campo de batalha da saúde mental corporativa."

@@ -3,7 +3,7 @@ title: "12.000 anos sob a Serra da Capivara: o que cinco novas datações revela
 subtitle: "Pesquisas publicadas em 2026 reposicionam o Piauí como epicentro do debate global sobre a chegada humana às Américas — e a corrida contra o tempo para proteger os sítios."
 date: 2026-07-24
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - arqueologia
 description: "Cinco novas datações obtidas por luminescência ótica em sítios do Parque Nacional Serra da Capivara sugerem ocupação humana contínua há pelo menos 12.000 anos e reabrem o debate científico sobre rotas de migração pré-Clovis. O achado importa agora porque coincide com o avanço do desmatamento sobre a zona de amortecimento do parque e com o prazo de revisão do plano de manejo pela Fundarpe, marcado para setembro de 2026."

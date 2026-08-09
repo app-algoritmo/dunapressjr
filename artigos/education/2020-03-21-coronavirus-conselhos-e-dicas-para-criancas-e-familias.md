@@ -2,7 +2,7 @@
 title: 'Coronavírus: Conselhos e dicas para crianças e famílias'
 date: 2020-03-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

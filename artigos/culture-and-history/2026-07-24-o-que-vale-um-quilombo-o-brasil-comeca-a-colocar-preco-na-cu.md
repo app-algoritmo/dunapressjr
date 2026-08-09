@@ -3,7 +3,7 @@ title: "O que vale um quilombo? O Brasil começa a colocar preço na cultura que
 subtitle: "Com R$ 1,2 bilhão em disputa no novo marco do patrimônio imaterial e pressão de municípios por royalties culturais, o país enfrenta pela primeira vez a pergunta que sempre evitou: quem lucra quando a identidade brasileira vira produto?"
 date: 2026-07-24
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - culture-and-history
 description: "O Brasil movimenta pela primeira vez um debate concreto sobre a monetização do patrimônio imaterial — do carnaval ao candomblé, do forró ao artesanato quilombola — enquanto um projeto no Congresso ameaça e promete, ao mesmo tempo, redistribuir quem fica com o dinheiro gerado pela cultura popular. O momento importa porque, com o turismo cultural representando 4,7% do PIB em 2025, a omissão já tem custo mensurável."

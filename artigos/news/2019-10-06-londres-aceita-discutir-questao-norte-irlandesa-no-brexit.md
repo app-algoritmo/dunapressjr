@@ -2,7 +2,7 @@
 title: Londres aceita discutir questão norte-irlandesa no Brexit
 date: 2019-10-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

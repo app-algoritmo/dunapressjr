@@ -2,7 +2,7 @@
 title: Esclarecimentos sobre situação de cooperações internacionais pela Capes
 date: 2020-07-13
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

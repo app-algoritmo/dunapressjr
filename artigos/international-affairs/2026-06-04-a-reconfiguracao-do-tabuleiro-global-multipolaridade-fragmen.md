@@ -3,12 +3,12 @@ title: "A Reconfiguração do Tabuleiro Global: Multipolaridade, Fragmentação 
 subtitle: "Enquanto as instituições multilaterais do pós-guerra enfrentam sua maior crise de legitimidade, potências emergentes e blocos regionais redesenham silenciosamente a arquitetura da ordem internacional"
 date: 2026-06-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - international-affairs
 description: "A ordem internacional de 2026 é marcada por uma paradoxo estrutural: nunca houve tantos fóruns de diálogo e, ao mesmo tempo, tão pouca capacidade coletiva de resolver conflitos. Este artigo analisa as principais linhas de força que estão redefinindo o poder global, do impasse nas instituições de Bretton Woods à ascensão de coalizões ad hoc, passando pela militarização do espaço econômico e o papel crescente de atores não estatais."
 featuredImage: "https://images.unsplash.com/photo-1673296630925-a16a5592cc14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTA1ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA1ODUzMzd8&ixlib=rb-4.1.0&q=80&w=1080"
-photoAuthor: "Bernd 📷 Dittrich"
+photoAuthor: "Bernd Dittrich"
 photoAuthorUrl: "https://unsplash.com/@hdbernd"
 photoSource: "Unsplash"
 tags:

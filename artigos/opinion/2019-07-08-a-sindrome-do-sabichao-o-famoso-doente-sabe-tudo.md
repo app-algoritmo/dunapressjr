@@ -2,7 +2,7 @@
 title: A Síndrome do Sabichão - O famoso doente sabe tudo
 date: 2019-07-08
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

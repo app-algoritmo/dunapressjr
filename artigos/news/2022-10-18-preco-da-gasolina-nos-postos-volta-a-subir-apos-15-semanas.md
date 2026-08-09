@@ -2,7 +2,7 @@
 title: Preço da gasolina nos postos volta a subir após 15 semanas
 date: 2022-10-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

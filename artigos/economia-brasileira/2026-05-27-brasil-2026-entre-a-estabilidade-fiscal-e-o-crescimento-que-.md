@@ -3,7 +3,7 @@ title: "Brasil 2026: Entre a Estabilidade Fiscal e o Crescimento que Ainda Não 
 subtitle: "Dois anos após o Marco Fiscal, a economia brasileira exibe contas mais equilibradas, mas o crescimento do PIB frustra expectativas e a desigualdade persiste como chaga estrutural"
 date: 2026-05-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - economia-brasileira
 description: "A economia brasileira em maio de 2026 apresenta um quadro ambíguo: avanços na consolidação fiscal convivem com crescimento modesto, juros ainda elevados e uma população que não sente na pele os indicadores macroeconômicos. A Duna Press analisa os vetores que definem esse momento e o que esperar até o fim do ano."

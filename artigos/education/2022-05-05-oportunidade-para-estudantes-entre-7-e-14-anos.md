@@ -2,7 +2,7 @@
 title: Oportunidade para estudantes entre 7 e 14 anos
 date: 2022-05-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - News

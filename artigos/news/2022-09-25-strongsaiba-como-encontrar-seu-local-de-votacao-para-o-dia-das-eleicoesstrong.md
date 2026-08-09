@@ -2,7 +2,7 @@
 title: <strong>Saiba como encontrar seu local de votação para o dia das eleições</strong>
 date: 2022-09-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

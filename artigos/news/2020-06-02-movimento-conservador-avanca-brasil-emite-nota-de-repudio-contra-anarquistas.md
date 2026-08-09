@@ -1,8 +1,8 @@
 ---
-title: Movimento conservador  Avança Brasil emite nota de repudio contra anarquistas
+title: Movimento conservador Avança Brasil emite nota de repudio contra anarquistas
 date: 2020-06-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

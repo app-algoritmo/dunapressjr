@@ -2,7 +2,7 @@
 title: Eletrobras faz aporte de recursos em projetos de sustentabilidade
 date: 2023-02-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

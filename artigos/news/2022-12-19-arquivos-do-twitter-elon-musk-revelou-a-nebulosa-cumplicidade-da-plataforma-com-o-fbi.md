@@ -3,7 +3,7 @@ title: 'Arquivos do Twitter: Elon Musk revelou a nebulosa cumplicidade da plataf
   com o FBI'
 date: 2022-12-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 - Policy

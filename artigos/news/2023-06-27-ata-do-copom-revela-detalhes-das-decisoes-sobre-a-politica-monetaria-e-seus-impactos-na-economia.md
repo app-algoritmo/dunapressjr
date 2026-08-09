@@ -3,7 +3,7 @@ title: Ata do Copom revela detalhes das decisões sobre a política monetária e
   impactos na economia
 date: 2023-06-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

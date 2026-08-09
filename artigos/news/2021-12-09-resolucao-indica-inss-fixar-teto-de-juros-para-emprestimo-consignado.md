@@ -2,7 +2,7 @@
 title: Resolução indica INSS fixar teto de juros para empréstimo consignado
 date: 2021-12-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

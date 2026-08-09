@@ -3,7 +3,7 @@ title: "A floresta que queima menos parece estar morrendo mais: o paradoxo silen
 subtitle: "Dados do INPE indicam queda nos focos de incêndio, mas pesquisadores alertam que a degradação invisível — por desmatamento fragmentado e seca prolongada — avança em ritmo superior ao que as chamas mostram"
 date: 2026-06-07
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - environment
 description: "Os focos de incêndio na Amazônia caíram 18% no primeiro semestre de 2026 em relação ao mesmo período do ano anterior, segundo o INPE — mas cientistas do IPAM e do Instituto Nacional de Pesquisas da Amazônia advertem que a métrica do fogo esconde uma forma mais lenta e igualmente destrutiva de perda florestal. Entender essa distinção é decisivo para qualquer política climática brasileira que queira ser levada a sério em Belém e em Bruxelas."

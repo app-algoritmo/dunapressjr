@@ -2,7 +2,7 @@
 title: China e Indonésia habilitam frigoríficos brasileiros para exportação
 date: 2023-01-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Ministra do Mapa participa do lançamento da campanha Mulheres Rurais, mu
   com direitos
 date: 2020-07-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

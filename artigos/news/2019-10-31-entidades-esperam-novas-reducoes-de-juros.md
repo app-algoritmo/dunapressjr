@@ -2,7 +2,7 @@
 title: Entidades esperam novas reduções de juros
 date: 2019-10-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

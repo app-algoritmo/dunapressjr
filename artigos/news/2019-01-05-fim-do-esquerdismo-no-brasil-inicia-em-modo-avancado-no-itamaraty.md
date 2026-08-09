@@ -2,7 +2,7 @@
 title: Fim do esquerdismo no Brasil inicia em 'Modo Avançado' no Itamaraty
 date: 2019-01-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

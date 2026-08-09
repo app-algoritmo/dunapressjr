@@ -3,7 +3,7 @@ title: Rastro de fome deixado por Covid 19, Afeta milhares de habitantes nas rua
   de Madri
 date: 2020-05-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

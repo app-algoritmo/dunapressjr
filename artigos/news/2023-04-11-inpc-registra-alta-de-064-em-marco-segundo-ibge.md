@@ -2,7 +2,7 @@
 title: INPC registra alta de 0,64% em março, segundo IBGE
 date: 2023-04-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

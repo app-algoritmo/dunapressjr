@@ -2,7 +2,7 @@
 title: Petrobras reduz nesta quarta-feira preços da gasolina A e do diesel A
 date: 2023-02-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

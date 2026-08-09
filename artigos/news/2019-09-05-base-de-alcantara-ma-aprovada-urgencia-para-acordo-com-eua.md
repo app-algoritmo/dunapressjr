@@ -2,7 +2,7 @@
 title: 'Base de Alcântara (MA): aprovada urgência para acordo com EUA'
 date: 2019-09-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

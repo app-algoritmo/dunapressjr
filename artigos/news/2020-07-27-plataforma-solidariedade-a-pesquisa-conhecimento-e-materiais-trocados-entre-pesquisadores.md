@@ -3,7 +3,7 @@ title: 'Plataforma Solidariedade à Pesquisa: Conhecimento e materiais trocados 
   pesquisadores'
 date: 2020-07-27
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

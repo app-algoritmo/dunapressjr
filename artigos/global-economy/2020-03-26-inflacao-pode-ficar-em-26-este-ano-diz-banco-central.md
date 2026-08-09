@@ -2,7 +2,7 @@
 title: Inflação pode ficar em 2,6% este ano, diz Banco Central
 date: 2020-03-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

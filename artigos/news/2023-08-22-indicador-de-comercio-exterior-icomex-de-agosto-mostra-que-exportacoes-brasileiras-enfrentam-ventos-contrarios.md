@@ -3,7 +3,7 @@ title: Indicador de comércio exterior (ICOMEX) de agosto mostra que exportaçõ
   enfrentam ventos contrários
 date: 2023-08-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

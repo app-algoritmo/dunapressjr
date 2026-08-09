@@ -2,7 +2,7 @@
 title: Produção de veículos cai 15,8% em fevereiro
 date: 2022-03-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

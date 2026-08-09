@@ -2,7 +2,7 @@
 title: Especialistas alertam para impactos do serviço de pagamento do Whatsap
 date: 2020-06-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

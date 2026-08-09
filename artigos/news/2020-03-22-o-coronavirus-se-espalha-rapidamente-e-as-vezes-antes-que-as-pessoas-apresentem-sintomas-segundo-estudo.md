@@ -3,7 +3,7 @@ title: O coronavírus se espalha rapidamente e às vezes antes que as pessoas ap
   sintomas, segundo estudo
 date: 2020-03-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

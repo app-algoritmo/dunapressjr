@@ -3,7 +3,7 @@ title: Exportações agroalimentares dos EUA para a Venezuela no nível mais alt
   oito anos
 date: 2023-01-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 - World Affairs

@@ -2,7 +2,7 @@
 title: Dívida Pública sobe 2,51% em junho e fica em R$ 5,84 trilhões
 date: 2022-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

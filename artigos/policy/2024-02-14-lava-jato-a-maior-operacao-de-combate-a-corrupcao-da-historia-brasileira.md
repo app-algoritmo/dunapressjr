@@ -2,7 +2,7 @@
 title: 'Lava-Jato: A maior operação de combate à corrupção da história brasileira'
 date: 2024-02-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Dólar cai para menos de R$ 5,60 e fecha no menor nível do ano
 date: 2022-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

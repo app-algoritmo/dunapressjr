@@ -2,7 +2,7 @@
 title: Promulgada Emenda Constitucional da reforma da Previdência
 date: 2019-11-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

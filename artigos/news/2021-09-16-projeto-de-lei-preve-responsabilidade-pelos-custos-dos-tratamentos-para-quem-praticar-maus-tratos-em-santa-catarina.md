@@ -1,5 +1,5 @@
 ---
-title: Projeto de Lei prevê responsabilidade pelos custos dos tratamentos,  para quem
+title: Projeto de Lei prevê responsabilidade pelos custos dos tratamentos, para quem
   praticar maus tratos em Santa Catarina
 date: 2021-09-16
 status: publish

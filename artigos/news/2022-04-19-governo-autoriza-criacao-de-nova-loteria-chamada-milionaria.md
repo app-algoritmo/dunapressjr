@@ -2,7 +2,7 @@
 title: Governo autoriza criação de nova loteria chamada +Milionária
 date: 2022-04-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

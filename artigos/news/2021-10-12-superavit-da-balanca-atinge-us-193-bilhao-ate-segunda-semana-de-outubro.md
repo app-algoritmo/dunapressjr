@@ -2,7 +2,7 @@
 title: Superávit da balança atinge US$ 1,93 bilhão até segunda semana de outubro
 date: 2021-10-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

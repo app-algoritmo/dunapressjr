@@ -2,7 +2,7 @@
 title: Câmara conclui votação de MP da Liberdade Econômica; texto vai ao Senado
 date: 2019-08-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

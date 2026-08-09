@@ -3,7 +3,7 @@ title: A Busca da China pela Supremacia em IA Levanta Preocupações com Espiona
   nos EUA
 date: 2023-12-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

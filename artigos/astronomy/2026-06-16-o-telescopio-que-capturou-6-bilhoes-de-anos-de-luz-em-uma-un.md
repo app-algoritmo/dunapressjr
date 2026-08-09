@@ -3,7 +3,7 @@ title: "O telescópio que capturou 6 bilhões de anos de luz em uma única noite
 subtitle: "Novos dados do James Webb Space Telescope, divulgados em junho de 2026, aprofundam a 'tensão de Hubble' e forçam astrônomos a considerar que pode haver física ainda desconhecida operando no cosmos."
 date: 2026-06-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - astronomy
 description: "Medições inéditas do James Webb Space Telescope indicam que o universo se expande entre 8% e 10% mais rápido do que o modelo cosmológico padrão prevê. O dado não é apenas um número discrepante — é o sinal mais claro até hoje de que nossa compreensão do cosmos pode estar fundamentalmente incompleta."

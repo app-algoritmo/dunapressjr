@@ -1,8 +1,8 @@
 ---
-title: Um olhar sobre o mundo,  a volta da monarquia brasileira
+title: Um olhar sobre o mundo, a volta da monarquia brasileira
 date: 2019-12-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Bicentennial
 - News

@@ -2,7 +2,7 @@
 title: Comer em família reduz o estresse
 date: 2023-02-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Food
 ---

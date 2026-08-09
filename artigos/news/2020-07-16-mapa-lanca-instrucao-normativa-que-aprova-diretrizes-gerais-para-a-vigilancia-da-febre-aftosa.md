@@ -3,7 +3,7 @@ title: Mapa lança Instrução Normativa que aprova diretrizes gerais para a vig
   da febre aftosa
 date: 2020-07-16
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Pisa 2018: meninas têm desempenho significativamente melhor que os meni
   nas três disciplinas'
 date: 2019-12-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

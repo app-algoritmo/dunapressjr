@@ -2,7 +2,7 @@
 title: 'IBGE: setor de serviços cresce 1,7% em outubro, quinta alta seguida'
 date: 2020-12-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

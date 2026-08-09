@@ -3,7 +3,7 @@ title: Noruega pagará 250 milhões de reais ao Brasil pela redução das emiss�
   da redução do desmatamento na Amazônia em 2017
 date: 2019-05-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 - Magazine

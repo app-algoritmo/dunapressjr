@@ -3,7 +3,7 @@ title: ESocial agora requer Conta Gov.br para acesso, garantindo maior seguranç
   usuários
 date: 2023-06-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

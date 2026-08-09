@@ -2,7 +2,7 @@
 title: 'Dicas de leituras para Setembro: Os 5 Livros Que Vão Mudar a Sua Vida'
 date: 2024-09-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

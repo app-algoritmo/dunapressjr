@@ -3,7 +3,7 @@ title: "A Crise Silenciosa: Como o Esgotamento Mental Tornou-se o Maior Desafio 
 subtitle: "Dados globais apontam para uma epidemia de burnout, ansiedade e depressão que avança mais rápido do que as políticas de saúde conseguem responder — e o Brasil está no centro dessa tempestade"
 date: 2026-06-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - saude-mental
 description: "Uma análise aprofundada sobre o avanço da crise de saúde mental no Brasil e no mundo, os fatores estruturais que a alimentam e por que as respostas institucionais ainda estão longe de ser suficientes para conter uma das maiores emergências silenciosas da história recente."

@@ -1,5 +1,5 @@
 ---
-title: Destinos  de turismo brasileiros  estão entre os mais bem avaliados do mundo
+title: Destinos de turismo brasileiros estão entre os mais bem avaliados do mundo
 date: 2020-03-05
 status: publish
 author: Joice Ferreira

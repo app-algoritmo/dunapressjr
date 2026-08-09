@@ -2,7 +2,7 @@
 title: Testes do real digital devem começar em 2023, diz Banco Central
 date: 2022-05-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

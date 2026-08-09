@@ -3,7 +3,7 @@ title: Porta-voz da Presidência diz que não é possível afirmar se eventual n
   pode avançar
 date: 2019-12-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

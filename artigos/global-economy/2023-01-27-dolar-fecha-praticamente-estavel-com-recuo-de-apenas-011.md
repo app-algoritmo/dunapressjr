@@ -2,7 +2,7 @@
 title: Dólar fecha praticamente estável com recuo de apenas 0,11%
 date: 2023-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

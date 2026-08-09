@@ -3,7 +3,7 @@ title: "Quem investiu R$ 500 por mês no Tesouro Direto nos últimos 3 anos acum
 subtitle: "Com a Selic a 13,75% ao ano e o Tesouro Selic rendendo acima da poupança por margem histórica, a classe média descobriu que disciplina bate sofisticação — e os números de 2026 comprovam."
 date: 2026-07-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - finances
 description: "Um aporte mensal de R$ 500 no Tesouro Selic entre julho de 2023 e julho de 2026 renderia cerca de R$ 22 mil brutos — valor que supera em 34% o que a poupança teria gerado no mesmo período. O dado expõe uma virada silenciosa: o investidor brasileiro de renda média está migrando do comodismo para a consistência, e essa mudança tem consequências reais para o planejamento de longo prazo."

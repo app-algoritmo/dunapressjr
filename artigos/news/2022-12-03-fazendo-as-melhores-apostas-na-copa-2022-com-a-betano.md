@@ -2,7 +2,7 @@
 title: Fazendo as melhores apostas na Copa 2022 com a Betano
 date: 2022-12-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Sports

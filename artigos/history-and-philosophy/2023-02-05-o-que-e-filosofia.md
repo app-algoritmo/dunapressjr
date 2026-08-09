@@ -2,7 +2,7 @@
 title: O que é filosofia
 date: 2023-02-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - History and Philosophy
 ---

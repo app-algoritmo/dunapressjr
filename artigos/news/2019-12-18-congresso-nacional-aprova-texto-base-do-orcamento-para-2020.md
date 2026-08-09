@@ -2,7 +2,7 @@
 title: Congresso Nacional aprova texto-base do Orçamento para 2020
 date: 2019-12-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

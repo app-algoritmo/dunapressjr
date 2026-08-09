@@ -2,7 +2,7 @@
 title: Maior valor da produção agropecuária nos últimos 30 anos – R$ 697 bilhões
 date: 2020-05-23
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

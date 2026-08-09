@@ -2,7 +2,7 @@
 title: 'Educação norueguesa: a educação que o mundo inteiro gostaria de ter'
 date: 2019-05-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

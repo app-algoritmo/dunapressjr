@@ -3,7 +3,7 @@ title: 4.01 Legislação determina que as instituições de ensino devem oferece
   para a realização das atividades
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Número de investidores posicionados no Tesouro Direto continua crescendo significativamente
 date: 2021-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

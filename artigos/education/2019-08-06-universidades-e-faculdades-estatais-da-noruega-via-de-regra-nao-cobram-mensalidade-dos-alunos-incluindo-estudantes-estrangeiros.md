@@ -3,7 +3,7 @@ title: Universidades e faculdades estatais da Noruega via de regra não cobram m
   dos alunos, incluindo estudantes estrangeiros
 date: 2019-08-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Magazine

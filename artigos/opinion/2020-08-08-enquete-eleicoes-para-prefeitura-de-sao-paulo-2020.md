@@ -2,7 +2,7 @@
 title: 'Enquete: Eleições para Prefeitura de São Paulo 2020'
 date: 2020-08-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Opinion
 ---

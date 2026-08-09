@@ -2,7 +2,7 @@
 title: 'Chiara d''Offreducci Magazine at Duna Press: A New Era in Lifestyle Information'
 date: 2024-08-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Lifestyle
 ---

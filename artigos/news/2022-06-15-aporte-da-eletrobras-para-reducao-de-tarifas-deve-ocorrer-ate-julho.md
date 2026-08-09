@@ -2,7 +2,7 @@
 title: Aporte da Eletrobras para redução de tarifas deve ocorrer até julho
 date: 2022-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

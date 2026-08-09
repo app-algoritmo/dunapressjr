@@ -3,12 +3,12 @@ title: "Agricultura Brasileira em 2026: Entre a Expansão Tecnológica e os Desa
 subtitle: "Com safras recordes convivendo com secas históricas e um mercado global cada vez mais exigente, o agronegócio nacional enfrenta sua mais complexa equação em décadas"
 date: 2026-05-31
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - agriculture
 description: "O setor agrícola brasileiro atravessa em 2026 um momento de profunda transformação estrutural. A adoção acelerada de tecnologias de precisão, inteligência artificial e biotecnologia convive com pressões climáticas sem precedentes, volatilidade cambial e novas exigências de rastreabilidade impostas pelos mercados europeu e asiático. Este artigo analisa os principais vetores que estão redesenhando a agricultura nacional e o que esperar nos próximos ciclos produtivos."
 featuredImage: "https://images.unsplash.com/photo-1775931104275-1605cfc642d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTA1ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAyMjk1MjB8&ixlib=rb-4.1.0&q=80&w=1080"
-photoAuthor: "Bernd 📷 Dittrich"
+photoAuthor: "Bernd Dittrich"
 photoAuthorUrl: "https://unsplash.com/@hdbernd"
 photoSource: "Unsplash"
 tags:

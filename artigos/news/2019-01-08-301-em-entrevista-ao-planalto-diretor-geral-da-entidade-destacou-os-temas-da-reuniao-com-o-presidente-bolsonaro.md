@@ -3,7 +3,7 @@ title: 3.01 Em entrevista ao Planalto, diretor-geral da entidade destacou os tem
   da reunião com o presidente Bolsonaro
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dificuldades no acesso ao crédito afetam empresas, aponta pesquisa da CNI
 date: 2023-06-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

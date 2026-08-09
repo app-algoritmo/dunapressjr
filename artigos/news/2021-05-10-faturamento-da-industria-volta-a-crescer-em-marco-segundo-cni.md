@@ -2,7 +2,7 @@
 title: Faturamento da indústria volta a crescer em março, segundo CNI
 date: 2021-05-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

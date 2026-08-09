@@ -2,7 +2,7 @@
 title: Dispositivo para reabilitação oral desenvolvido por pesquisadora
 date: 2020-06-25
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

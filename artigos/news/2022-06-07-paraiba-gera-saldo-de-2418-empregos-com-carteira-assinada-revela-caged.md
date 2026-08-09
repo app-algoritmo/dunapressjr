@@ -2,7 +2,7 @@
 title: Paraíba gera saldo de 2.418 empregos com carteira assinada, revela Caged
 date: 2022-06-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

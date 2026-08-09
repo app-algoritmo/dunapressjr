@@ -1,9 +1,9 @@
 ---
-title: Defendido pelos Ministros da Agricultura  princípio científico na regulação
+title: Defendido pelos Ministros da Agricultura princípio científico na regulação
   do comércio internacional
 date: 2020-07-14
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

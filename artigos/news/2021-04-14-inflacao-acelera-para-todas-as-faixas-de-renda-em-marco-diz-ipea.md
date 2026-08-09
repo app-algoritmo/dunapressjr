@@ -2,7 +2,7 @@
 title: Inflação acelera para todas as faixas de renda em março, diz Ipea
 date: 2021-04-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

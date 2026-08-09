@@ -2,7 +2,7 @@
 title: ’Plano Novo Normal’ aponta 185 municípios da Paraíba com bandeira amarela
 date: 2020-07-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

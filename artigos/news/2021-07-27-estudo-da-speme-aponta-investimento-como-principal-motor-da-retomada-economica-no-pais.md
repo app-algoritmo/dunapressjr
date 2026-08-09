@@ -3,7 +3,7 @@ title: Estudo da SPE/ME aponta investimento como principal motor da retomada eco
   no país
 date: 2021-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

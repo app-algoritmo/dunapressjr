@@ -2,7 +2,7 @@
 title: Como é feita a troca de governo na Noruega?
 date: 2022-11-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 - World Affairs

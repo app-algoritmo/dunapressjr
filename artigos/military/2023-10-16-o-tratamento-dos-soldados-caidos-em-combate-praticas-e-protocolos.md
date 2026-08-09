@@ -2,7 +2,7 @@
 title: 'O Tratamento dos Soldados Caídos em Combate: Práticas e Protocolos'
 date: 2023-10-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 ---

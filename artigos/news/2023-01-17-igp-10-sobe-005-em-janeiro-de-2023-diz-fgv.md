@@ -2,7 +2,7 @@
 title: IGP-10 sobe 0,05% em janeiro de 2023, diz FGV
 date: 2023-01-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

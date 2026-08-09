@@ -2,7 +2,7 @@
 title: Leilão de energia movimenta R$ 6,5 bilhões
 date: 2022-10-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

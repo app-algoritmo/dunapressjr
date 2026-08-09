@@ -1,8 +1,8 @@
 ---
-title: Inteligência  Artificial define  'democracia charlatã'
+title: Inteligência Artificial define 'democracia charlatã'
 date: 2024-04-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

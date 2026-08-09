@@ -3,7 +3,7 @@ title: Médico enfurece Brasil ao defender pederasta que estuprou e assassinou c
   de 9 anos
 date: 2020-03-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

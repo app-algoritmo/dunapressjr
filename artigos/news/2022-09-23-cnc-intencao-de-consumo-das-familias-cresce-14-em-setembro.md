@@ -2,7 +2,7 @@
 title: 'CNC: intenção de consumo das famílias cresce 1,4% em setembro'
 date: 2022-09-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

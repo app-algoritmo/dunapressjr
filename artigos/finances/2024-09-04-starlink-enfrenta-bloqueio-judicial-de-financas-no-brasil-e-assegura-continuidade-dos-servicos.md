@@ -3,7 +3,7 @@ title: Starlink Enfrenta Bloqueio Judicial de Finanças no Brasil e Assegura Con
   dos Serviços
 date: 2024-09-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Finances
 - Technology

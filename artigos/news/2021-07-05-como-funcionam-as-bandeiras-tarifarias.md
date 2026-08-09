@@ -2,7 +2,7 @@
 title: Como funcionam as bandeiras tarifárias
 date: 2021-07-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

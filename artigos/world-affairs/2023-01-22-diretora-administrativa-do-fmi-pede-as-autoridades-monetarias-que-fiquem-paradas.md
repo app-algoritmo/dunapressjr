@@ -3,7 +3,7 @@ title: Diretora administrativa do FMI, pede às autoridades monetárias que 'fiq
   paradas'
 date: 2023-01-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

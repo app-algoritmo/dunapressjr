@@ -3,7 +3,7 @@ title: Balança tem superávit de US$ 41,79 bilhões no ano, até a terceira sem
   julho
 date: 2021-07-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

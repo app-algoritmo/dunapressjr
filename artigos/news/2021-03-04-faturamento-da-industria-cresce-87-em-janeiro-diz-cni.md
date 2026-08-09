@@ -2,7 +2,7 @@
 title: Faturamento da indústria cresce 8,7% em janeiro, diz CNI
 date: 2021-03-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

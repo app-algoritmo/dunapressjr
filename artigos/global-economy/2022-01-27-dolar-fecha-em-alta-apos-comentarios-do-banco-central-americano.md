@@ -2,7 +2,7 @@
 title: Dólar fecha em alta após comentários do Banco Central americano
 date: 2022-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: "Quem viveu no Brasil 50 mil anos antes do que a ciência oficial aceitav
 subtitle: "Novas datações em sítios arqueológicos do Piauí e Minas Gerais reabrem um dos debates mais acalorados da pré-história americana — e colocam o Brasil no centro do mapa das origens humanas."
 date: 2026-07-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - arqueologia
 description: "Datações recentes em sítios como a Toca do Boqueirão da Pedra Furada, no Piauí, sugerem presença humana nas Américas há até 50 mil anos — três vezes mais do que o modelo dominante admite. O debate científico ganhou novo fôlego em 2025 e 2026, mas os sítios que guardam essas respostas enfrentam pressão de garimpo ilegal, obras e subfinanciamento crônico."

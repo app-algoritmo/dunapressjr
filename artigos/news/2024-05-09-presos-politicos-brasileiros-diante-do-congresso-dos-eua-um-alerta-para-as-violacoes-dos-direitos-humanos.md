@@ -3,7 +3,7 @@ title: 'Presos Políticos Brasileiros Diante do Congresso dos EUA: Um Alerta par
   Violacões dos Direitos Humanos'
 date: 2024-05-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

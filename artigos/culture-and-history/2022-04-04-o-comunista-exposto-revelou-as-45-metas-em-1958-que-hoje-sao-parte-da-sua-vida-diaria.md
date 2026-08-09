@@ -3,7 +3,7 @@ title: O comunista exposto revelou as 45 metas em 1958 que hoje são parte da su
   diária
 date: 2022-04-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Culture and History
 - News

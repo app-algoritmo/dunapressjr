@@ -2,7 +2,7 @@
 title: Dólar e bolsa fecham estáveis à espera de juros no Brasil e nos EUA
 date: 2023-01-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

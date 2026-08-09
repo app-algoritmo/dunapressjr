@@ -2,7 +2,7 @@
 title: LDO 2022 é publicada no Diário Oficial da União
 date: 2021-08-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

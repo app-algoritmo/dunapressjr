@@ -3,7 +3,7 @@ title: 'Gerenciando a Imigração em Meio à Crise: Novas Medidas da Noruega em 
   ao Influxo de Refugiados Ucranianos'
 date: 2024-01-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - Tourism and Gastronomy

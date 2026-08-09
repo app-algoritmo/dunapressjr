@@ -2,7 +2,7 @@
 title: EUA e Reino Unido revogam taxas de produtos siderúrgicos do Brasil
 date: 2022-07-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

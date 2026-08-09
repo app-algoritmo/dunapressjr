@@ -3,7 +3,7 @@ title: "O diploma vale menos do que parece — e mais do que dizem os céticos"
 subtitle: "Entre a narrativa do 'aprendizado sem faculdade' e os dados reais do mercado de trabalho brasileiro, a educação superior vive sua tensão mais produtiva em décadas."
 date: 2026-07-31
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - education
 description: "Enquanto plataformas de cursos livres faturam bilhões e influenciadores declaram o fim da universidade, pesquisas do IBGE e da FGV mostram que a diferença salarial entre graduados e não-graduados no Brasil ainda chega a 148% — mas o tipo de diploma importa cada vez mais. O debate saiu do campo ideológico e entrou no campo prático: o que, onde e como se aprende define trajetórias de forma mais granular do que qualquer diploma por si só."

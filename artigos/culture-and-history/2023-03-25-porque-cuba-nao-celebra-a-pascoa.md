@@ -2,7 +2,7 @@
 title: Porque Cuba não celebra a páscoa?
 date: 2023-03-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Culture and History
 - News

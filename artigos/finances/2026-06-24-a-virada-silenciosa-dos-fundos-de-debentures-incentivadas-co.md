@@ -3,7 +3,7 @@ title: "A virada silenciosa dos Fundos de Debêntures Incentivadas: como o inves
 subtitle: "Com a Selic em 13,75% e a inflação pressionando o orçamento familiar, um instrumento antes restrito a grandes patrimônios tornou-se a aposta mais acessível de 2026 para quem quer rendimento real sem pagar IR."
 date: 2026-06-24
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - finances
 description: "Os Fundos de Debêntures Incentivadas registraram captação líquida de R$ 4,2 bilhões no primeiro semestre de 2026, o maior volume desde 2019, com cotas a partir de R$ 100 em plataformas digitais. O movimento revela uma janela rara: isenção de Imposto de Renda para pessoa física num cenário de juros ainda elevados e inflação que corrói quem fica no básico."

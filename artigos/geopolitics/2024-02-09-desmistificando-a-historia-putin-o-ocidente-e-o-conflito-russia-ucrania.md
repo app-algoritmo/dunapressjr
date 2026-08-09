@@ -2,7 +2,7 @@
 title: 'Desmistificando a História: Putin, o Ocidente e o Conflito Rússia-Ucrânia'
 date: 2024-02-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - Opinion

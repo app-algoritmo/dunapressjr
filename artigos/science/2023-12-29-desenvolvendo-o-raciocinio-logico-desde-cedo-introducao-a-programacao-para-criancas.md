@@ -3,7 +3,7 @@ title: 'Desenvolvendo o Raciocínio Lógico desde Cedo: Introdução à Programa
   Crianças'
 date: 2023-12-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Science
 - Technology

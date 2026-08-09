@@ -2,7 +2,7 @@
 title: Macron declara preocupação com a Amazônia em seu twitter
 date: 2019-08-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

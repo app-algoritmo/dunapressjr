@@ -2,7 +2,7 @@
 title: Bancos processam 2 milhões de pedidos de renegociação de dívidas
 date: 2020-04-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

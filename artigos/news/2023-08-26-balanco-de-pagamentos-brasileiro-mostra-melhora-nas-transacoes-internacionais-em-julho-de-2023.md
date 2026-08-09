@@ -3,7 +3,7 @@ title: Balanço de pagamentos brasileiro mostra melhora nas transações interna
   em julho de 2023
 date: 2023-08-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

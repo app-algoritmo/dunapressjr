@@ -3,7 +3,7 @@ title: Foi assinada ordem de serviço de R$ 92 milhões para a instalação de p
   RN
 date: 2022-06-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

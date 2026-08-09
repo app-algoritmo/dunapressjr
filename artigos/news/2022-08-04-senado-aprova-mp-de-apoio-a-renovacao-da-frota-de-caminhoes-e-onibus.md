@@ -2,7 +2,7 @@
 title: Senado aprova MP de apoio à renovação da frota de caminhões e ônibus
 date: 2022-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

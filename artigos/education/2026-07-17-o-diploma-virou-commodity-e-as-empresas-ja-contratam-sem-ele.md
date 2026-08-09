@@ -3,7 +3,7 @@ title: "O diploma virou commodity — e as empresas já contratam sem ele"
 subtitle: "Enquanto universidades brasileiras debatem currículos do século XX, um movimento silencioso de grandes empregadores começa a remover a exigência de graduação para vagas de alta remuneração — e isso muda tudo sobre o que chamamos de educação de valor."
 date: 2026-07-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - education
 description: "Empresas como Google, IBM e, no Brasil, Nubank e Mercado Livre já removeram a exigência de diploma para dezenas de cargos técnicos e de gestão — uma virada que questiona o modelo universitário tradicional e redesenha o que significa investir em educação. O movimento não é modismo: é resposta a um mercado onde habilidades certificadas por trilhas curtas superam, em alguns casos, quatro anos de graduação convencional."

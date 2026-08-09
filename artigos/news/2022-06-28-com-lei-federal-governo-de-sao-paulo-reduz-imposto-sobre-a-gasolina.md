@@ -2,7 +2,7 @@
 title: Com lei federal, governo de São Paulo reduz imposto sobre a gasolina
 date: 2022-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

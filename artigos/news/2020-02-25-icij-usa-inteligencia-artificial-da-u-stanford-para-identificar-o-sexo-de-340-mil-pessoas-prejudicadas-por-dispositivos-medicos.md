@@ -3,7 +3,7 @@ title: ICIJ usa inteligência Artificial da U Stanford para identificar o sexo d
   mil pessoas prejudicadas por dispositivos médicos
 date: 2020-02-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

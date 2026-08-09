@@ -3,7 +3,7 @@ title: FNDE vai consolidar estratégias para alimentação aos estudantes atrav�
   pesquisa
 date: 2020-06-29
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "A aposta de R$ 4,3 bilhões que vai redesenhar o ensino médio em 2.400 
 subtitle: "O Novo Ensino Médio entra em sua fase mais crítica em 2026: estados com modelos pedagógicos distintos mostram que a reforma pode tanto reduzir quanto aprofundar a desigualdade educacional, dependendo de quem executa."
 date: 2026-06-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - education
 description: "Com R$ 4,3 bilhões comprometidos pelo MEC até 2027, o Novo Ensino Médio chega a 2026 como o maior experimento pedagógico da história recente do Brasil — e os primeiros dados de implementação revelam uma divisão preocupante entre estados que transformam o modelo em oportunidade e os que repetem velhos vícios com nome novo."

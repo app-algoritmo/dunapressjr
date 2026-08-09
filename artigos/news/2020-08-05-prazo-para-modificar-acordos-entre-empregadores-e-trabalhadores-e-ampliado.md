@@ -2,7 +2,7 @@
 title: Prazo para modificar acordos entre empregadores e trabalhadores é ampliado
 date: 2020-08-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

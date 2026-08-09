@@ -3,7 +3,7 @@ title: 'IMPORTANTE: Regras para brasileiros e estrangeiros para entrar no Brasil
   na Noruega'
 date: 2022-04-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

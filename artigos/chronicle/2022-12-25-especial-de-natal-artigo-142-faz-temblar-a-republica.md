@@ -2,7 +2,7 @@
 title: Especial de natal, ARTIGO 142 faz temblar a república
 date: 2022-12-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 - News

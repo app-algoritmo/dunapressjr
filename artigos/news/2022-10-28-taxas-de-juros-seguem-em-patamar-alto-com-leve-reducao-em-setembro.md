@@ -2,7 +2,7 @@
 title: Taxas de juros seguem em patamar alto, com leve redução em setembro
 date: 2022-10-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

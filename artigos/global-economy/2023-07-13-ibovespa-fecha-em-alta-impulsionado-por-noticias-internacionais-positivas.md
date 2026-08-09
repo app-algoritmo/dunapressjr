@@ -2,7 +2,7 @@
 title: Ibovespa fecha em alta impulsionado por notícias internacionais positivas
 date: 2023-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

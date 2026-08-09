@@ -2,7 +2,7 @@
 title: Mercado financeiro aumenta previsão para a Selic
 date: 2021-06-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

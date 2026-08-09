@@ -2,7 +2,7 @@
 title: Capitalização da Eletrobras foi destaque da SEDDM em 2022
 date: 2022-12-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

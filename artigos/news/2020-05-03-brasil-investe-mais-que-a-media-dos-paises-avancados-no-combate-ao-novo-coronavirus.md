@@ -2,7 +2,7 @@
 title: Brasil investe mais que a média dos países avançados no combate ao novo coronavírus
 date: 2020-05-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

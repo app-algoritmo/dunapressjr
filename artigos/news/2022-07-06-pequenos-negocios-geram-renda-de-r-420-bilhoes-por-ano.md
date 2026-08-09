@@ -2,7 +2,7 @@
 title: Pequenos negócios geram renda de R$ 420 bilhões por ano
 date: 2022-07-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

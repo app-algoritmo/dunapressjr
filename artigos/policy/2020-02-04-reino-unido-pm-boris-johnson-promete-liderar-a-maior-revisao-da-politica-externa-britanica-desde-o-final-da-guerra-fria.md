@@ -3,7 +3,7 @@ title: 'Reino Unido: PM Boris Johnson promete liderar a maior revisão da polít
   externa britânica desde o final da Guerra Fria'
 date: 2020-02-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

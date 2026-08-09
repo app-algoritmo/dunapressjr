@@ -2,7 +2,7 @@
 title: Um balão para cada criança morta
 date: 2023-02-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

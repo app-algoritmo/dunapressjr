@@ -2,7 +2,7 @@
 title: Ministro entrega estudos de privatização da PPSA e da Petrobras
 date: 2022-05-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

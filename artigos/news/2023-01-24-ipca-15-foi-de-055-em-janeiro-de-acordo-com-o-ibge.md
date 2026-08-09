@@ -2,7 +2,7 @@
 title: IPCA-15 foi de 0,55% em janeiro, de acordo com o IBGE
 date: 2023-01-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

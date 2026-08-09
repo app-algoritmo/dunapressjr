@@ -2,7 +2,7 @@
 title: Balança comercial de janeiro registrou superávit de US$ 2,72 bilhões
 date: 2023-02-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

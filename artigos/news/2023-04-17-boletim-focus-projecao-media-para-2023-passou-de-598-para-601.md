@@ -2,7 +2,7 @@
 title: 'Boletim Focus: Projeção média para 2023 passou de 5,98 para 6,01%'
 date: 2023-04-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

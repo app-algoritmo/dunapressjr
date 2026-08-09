@@ -2,7 +2,7 @@
 title: Dólar fecha em R$ 5,11 e tem primeira queda semanal em julho
 date: 2021-07-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

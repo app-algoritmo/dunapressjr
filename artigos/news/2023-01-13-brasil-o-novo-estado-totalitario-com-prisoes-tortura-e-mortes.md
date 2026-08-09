@@ -2,7 +2,7 @@
 title: Brasil, o novo Estado totalitário com prisões, tortura e mortes
 date: 2023-01-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

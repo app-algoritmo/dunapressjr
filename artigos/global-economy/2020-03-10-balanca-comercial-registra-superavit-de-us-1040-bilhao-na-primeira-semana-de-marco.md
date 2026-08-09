@@ -3,7 +3,7 @@ title: Balança comercial registra superávit de US$ 1,040 bilhão na primeira s
   de março
 date: 2020-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

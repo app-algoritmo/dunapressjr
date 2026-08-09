@@ -3,7 +3,7 @@ title: "Itamar Vieira Junior lança romance em 14 países e reescreve o mapa da 
 subtitle: "Com 'Torto Arado' ultrapassando 800 mil exemplares vendidos e nova obra prevista para o segundo semestre de 2026, o autor baiano se torna o caso editorial mais estudado do Brasil contemporâneo."
 date: 2026-06-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - literature
 description: "Itamar Vieira Junior, autor de 'Torto Arado', consolida em 2026 uma presença internacional inédita para a literatura brasileira, com contratos em 14 países e um novo romance aguardado. O fenômeno levanta questões urgentes sobre quem financia, traduz e distribui a voz do Brasil no mundo."

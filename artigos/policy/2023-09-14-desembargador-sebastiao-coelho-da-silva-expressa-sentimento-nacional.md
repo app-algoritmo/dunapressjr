@@ -2,7 +2,7 @@
 title: Desembargador Sebastião Coelho da Silva expressa sentimento nacional
 date: 2023-09-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

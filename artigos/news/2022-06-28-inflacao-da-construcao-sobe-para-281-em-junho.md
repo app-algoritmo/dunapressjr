@@ -2,7 +2,7 @@
 title: Inflação da construção sobe para 2,81% em junho
 date: 2022-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

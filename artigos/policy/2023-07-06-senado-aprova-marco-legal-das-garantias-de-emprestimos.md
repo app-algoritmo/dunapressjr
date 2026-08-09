@@ -2,7 +2,7 @@
 title: Senado aprova Marco Legal das Garantias de Empréstimos
 date: 2023-07-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

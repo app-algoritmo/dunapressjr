@@ -2,7 +2,7 @@
 title: Taxa média de juros cai em agosto, mas segue tendência de alta
 date: 2022-09-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

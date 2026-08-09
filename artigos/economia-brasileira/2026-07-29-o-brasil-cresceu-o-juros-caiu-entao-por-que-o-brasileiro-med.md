@@ -3,7 +3,7 @@ title: "O Brasil cresceu, o juros caiu — então por que o brasileiro médio ai
 subtitle: "Com o PIB acelerando acima de 3% e o desemprego no menor nível em duas décadas, a economia brasileira de 2026 apresenta um paradoxo incômodo: os indicadores macro brilham enquanto a renda real de 60% das famílias continua estagnada."
 date: 2026-07-29
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - economia-brasileira
 description: "O Brasil fecha o primeiro semestre de 2026 com crescimento do PIB acima de 3%, desemprego em 6,2% e a Selic em 10,5% — os melhores números combinados em uma década. O paradoxo é que o consumo das famílias de renda média cresceu apenas 0,8% no mesmo período, expondo uma fratura entre o Brasil dos dados e o Brasil do bolso."

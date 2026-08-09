@@ -2,7 +2,7 @@
 title: Decreto reforça parcerias comerciais entre Brasil e EUA
 date: 2022-06-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

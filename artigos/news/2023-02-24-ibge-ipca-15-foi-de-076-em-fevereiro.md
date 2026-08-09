@@ -2,7 +2,7 @@
 title: 'IBGE: IPCA-15 foi de 0,76% em fevereiro'
 date: 2023-02-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

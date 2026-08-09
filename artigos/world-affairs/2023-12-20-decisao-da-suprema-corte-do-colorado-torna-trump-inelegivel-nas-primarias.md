@@ -2,7 +2,7 @@
 title: Decisão da Suprema Corte do Colorado torna Trump 'inelegível' nas primárias
 date: 2023-12-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

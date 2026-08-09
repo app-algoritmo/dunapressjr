@@ -2,7 +2,7 @@
 title: 'A Luta dos Agricultores na França: Resistência Contra a Agenda Globalista'
 date: 2024-01-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Agriculture
 - Policy

@@ -2,7 +2,7 @@
 title: Setor de serviços cresce 0,9% em setembro, informa IBGE
 date: 2022-11-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

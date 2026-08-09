@@ -2,7 +2,7 @@
 title: "Como Superar o Teste Projetivo: Uma Abordagem Realista e Ética"
 date: 2026-05-10
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - global-affairs
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778418702/Como_Superar_o_Teste_Projetivo_-_Uma_Abordagem_Realista_e_E%CC%81tica_apuwfr.jpg"

@@ -2,7 +2,7 @@
 title: 'CNI: 82% das pequenas indústrias já inovaram pelo menos uma vez'
 date: 2021-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

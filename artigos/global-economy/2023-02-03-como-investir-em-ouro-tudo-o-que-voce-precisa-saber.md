@@ -2,7 +2,7 @@
 title: 'Como investir em ouro: tudo o que você precisa saber'
 date: 2023-02-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

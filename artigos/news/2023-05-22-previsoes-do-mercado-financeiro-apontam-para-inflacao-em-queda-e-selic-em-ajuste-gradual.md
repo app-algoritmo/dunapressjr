@@ -3,7 +3,7 @@ title: Previsões do mercado financeiro apontam para inflação em queda e Selic
   gradual
 date: 2023-05-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

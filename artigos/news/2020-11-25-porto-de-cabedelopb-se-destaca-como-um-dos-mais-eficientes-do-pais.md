@@ -2,7 +2,7 @@
 title: Porto de Cabedelo/PB se destaca como um dos mais eficientes do país
 date: 2020-11-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

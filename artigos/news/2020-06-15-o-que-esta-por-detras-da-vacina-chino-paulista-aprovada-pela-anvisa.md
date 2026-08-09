@@ -1,8 +1,8 @@
 ---
-title: O que está por detrás da vacina chino-paulista aprovada  pela Anvisa?
+title: O que está por detrás da vacina chino-paulista aprovada pela Anvisa?
 date: 2020-06-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

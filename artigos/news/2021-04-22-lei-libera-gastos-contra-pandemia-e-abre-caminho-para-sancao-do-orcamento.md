@@ -2,7 +2,7 @@
 title: Lei libera gastos contra pandemia e abre caminho para sanção do Orçamento
 date: 2021-04-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

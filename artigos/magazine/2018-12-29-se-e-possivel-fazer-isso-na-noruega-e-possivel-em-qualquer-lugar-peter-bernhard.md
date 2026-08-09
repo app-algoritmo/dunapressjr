@@ -3,7 +3,7 @@ title: Se é possível fazer isso na Noruega, é possível em qualquer lugar - '
   Bernhard'.
 date: 2018-12-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - News

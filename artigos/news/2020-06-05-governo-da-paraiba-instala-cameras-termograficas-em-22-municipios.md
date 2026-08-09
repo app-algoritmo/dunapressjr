@@ -2,7 +2,7 @@
 title: Governo da Paraíba instala câmeras termográficas em 22 municípios
 date: 2020-06-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

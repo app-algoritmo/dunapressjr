@@ -2,7 +2,7 @@
 title: Normas Brasileiras de Contabilidade sobre perícia contábil são publicadas
 date: 2020-03-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

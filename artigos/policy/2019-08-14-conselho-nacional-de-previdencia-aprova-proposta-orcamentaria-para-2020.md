@@ -2,7 +2,7 @@
 title: Conselho Nacional de Previdência aprova proposta orçamentária para 2020
 date: 2019-08-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

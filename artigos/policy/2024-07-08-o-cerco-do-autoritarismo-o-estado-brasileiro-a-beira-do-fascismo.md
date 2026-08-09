@@ -2,7 +2,7 @@
 title: 'O Cerco do Autoritarismo: O Estado Brasileiro à Beira do Fascismo'
 date: 2024-07-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

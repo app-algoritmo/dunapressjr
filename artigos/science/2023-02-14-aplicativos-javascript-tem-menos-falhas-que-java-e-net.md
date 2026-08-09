@@ -2,7 +2,7 @@
 title: Aplicativos JavaScript têm menos falhas que Java e .NET
 date: 2023-02-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Science
 ---

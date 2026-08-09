@@ -3,7 +3,7 @@ title: 'Coronavírus: Chega ao Brasil, os aviões de resgate dos brasileiros que
   em Wuhan na China'
 date: 2020-02-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

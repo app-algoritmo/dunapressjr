@@ -3,7 +3,7 @@ title: Necessidade líquida de financiamento do Governo Geral atinge 4% do PIB n
   trimestre de 2022
 date: 2022-10-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

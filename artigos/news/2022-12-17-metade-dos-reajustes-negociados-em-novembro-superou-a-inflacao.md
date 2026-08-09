@@ -2,7 +2,7 @@
 title: Metade dos reajustes negociados em novembro superou a inflação
 date: 2022-12-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

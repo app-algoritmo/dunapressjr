@@ -3,7 +3,7 @@ title: Dólar em queda e bolsa em alta devido ao alívio nos juros dos títulos 
   dos EUA
 date: 2023-10-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

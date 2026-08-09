@@ -2,7 +2,7 @@
 title: Dólar fecha estável, mesmo com dados de inflação alta nos EUA
 date: 2022-10-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Geração de empregos formais no Brasil atinge números recordes em maio
 date: 2023-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

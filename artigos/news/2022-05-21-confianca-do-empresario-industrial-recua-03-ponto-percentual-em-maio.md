@@ -2,7 +2,7 @@
 title: Confiança do empresário industrial recua 0,3 ponto percentual em maio
 date: 2022-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ministro diz que desemprego cairá para 8% antes do fim do ano
 date: 2022-08-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

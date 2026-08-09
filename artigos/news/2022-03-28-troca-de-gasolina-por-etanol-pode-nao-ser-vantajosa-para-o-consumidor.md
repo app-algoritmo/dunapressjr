@@ -2,7 +2,7 @@
 title: Troca de gasolina por etanol pode não ser vantajosa para o consumidor
 date: 2022-03-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

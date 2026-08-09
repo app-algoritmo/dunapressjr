@@ -2,7 +2,7 @@
 title: 'Rainhas na História: Luísa de Mecklemburgo-Strelitz, Rainha da Prússia'
 date: 2020-05-24
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

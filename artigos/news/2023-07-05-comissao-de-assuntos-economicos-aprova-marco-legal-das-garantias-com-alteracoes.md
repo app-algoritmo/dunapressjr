@@ -2,7 +2,7 @@
 title: Comissão de Assuntos Econômicos aprova Marco Legal das Garantias com alterações
 date: 2023-07-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

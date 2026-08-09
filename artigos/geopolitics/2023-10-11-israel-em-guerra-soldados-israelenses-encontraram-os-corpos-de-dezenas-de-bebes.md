@@ -3,7 +3,7 @@ title: 'Israel em guerra: Soldados israelenses encontraram os corpos de dezenas 
   bebês'
 date: 2023-10-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

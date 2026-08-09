@@ -3,7 +3,7 @@ title: Receita Federal lança Manual da Malha Fina e apresenta Nova Malha Digita
   evento de orientação fiscal
 date: 2023-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

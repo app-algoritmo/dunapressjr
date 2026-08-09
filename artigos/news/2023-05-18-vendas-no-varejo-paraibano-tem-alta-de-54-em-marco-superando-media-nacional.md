@@ -2,7 +2,7 @@
 title: Vendas no varejo paraibano têm alta de 5,4% em março, superando média nacional
 date: 2023-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: O Caso Twitter Brasil e o poder judiciário
 date: 2024-04-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: PGFN regulamenta Transação Excepcional para débitos apurados na forma 
   Nacional
 date: 2020-08-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

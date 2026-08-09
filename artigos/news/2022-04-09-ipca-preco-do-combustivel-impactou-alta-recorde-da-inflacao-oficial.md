@@ -2,7 +2,7 @@
 title: 'IPCA: preço do combustível impactou alta recorde da inflação oficial'
 date: 2022-04-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

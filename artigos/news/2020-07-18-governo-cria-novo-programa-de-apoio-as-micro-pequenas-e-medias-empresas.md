@@ -2,7 +2,7 @@
 title: Governo cria novo programa de apoio às micro, pequenas e médias empresas
 date: 2020-07-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

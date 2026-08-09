@@ -2,7 +2,7 @@
 title: Inscritos no Prouni passam de 305 mil nesta quinta-feira
 date: 2020-07-17
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

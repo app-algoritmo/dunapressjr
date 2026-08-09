@@ -3,7 +3,7 @@ title: Lei amplia prazo de pagamento do Pronampe e beneficia micro e pequenas em
   durante a pandemia
 date: 2023-04-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 10 exemplos demonstram que a língua portuguesa é difícil
 date: 2023-03-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Culture and History
 - Education

@@ -2,7 +2,7 @@
 title: Restaurar a democracia e boicotar a censura desenfreada
 date: 2023-08-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Opinion
 - Policy

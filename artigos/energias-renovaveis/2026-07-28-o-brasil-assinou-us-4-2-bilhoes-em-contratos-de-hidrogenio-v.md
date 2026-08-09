@@ -3,7 +3,7 @@ title: "O Brasil assinou US$ 4,2 bilhões em contratos de hidrogênio verde com 
 subtitle: "Com a janela geopolítica aberta pela crise energética europeia e o primeiro carregamento previsto para 2027, o país enfrenta o teste real de sua ambição como potência renovável."
 date: 2026-07-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - energias-renovaveis
 description: "O Brasil acumulou US$ 4,2 bilhões em contratos de exportação de hidrogênio verde com compradores europeus — mas a infraestrutura de produção no Complexo do Pecém, no Ceará, ainda enfrenta atrasos que podem custar a janela histórica. O momento é decisivo: a Europa precisa diversificar fontes antes de 2030 e o Brasil tem os ventos, o sol e a água — falta transformar potencial em produto."

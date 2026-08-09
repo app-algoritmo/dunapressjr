@@ -2,7 +2,7 @@
 title: O Orçamento Fiscal do país com o melhor IDH do mundo
 date: 2022-06-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Magazine

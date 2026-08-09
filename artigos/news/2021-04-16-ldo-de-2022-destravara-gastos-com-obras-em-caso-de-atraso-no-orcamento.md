@@ -2,7 +2,7 @@
 title: LDO de 2022 destravará gastos com obras em caso de atraso no Orçamento
 date: 2021-04-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

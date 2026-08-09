@@ -3,7 +3,7 @@ title: Ministro de Minas e Energia não descarta intervenção federal na Light 
   pedido de recuperação judicial
 date: 2023-05-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

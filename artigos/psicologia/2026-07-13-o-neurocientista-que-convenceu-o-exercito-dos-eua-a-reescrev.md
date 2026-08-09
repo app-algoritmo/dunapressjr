@@ -3,7 +3,7 @@ title: "O neurocientista que convenceu o Exército dos EUA a reescrever seus pro
 subtitle: "Pesquisas de David Eagleman sobre como o cérebro colapsa opções em situações de alto estresse estão remodelando treinamentos militares — e levantando perguntas incômodas sobre como qualquer um de nós decide em momentos críticos."
 date: 2026-07-13
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - psicologia
 description: "O neurocientista David Eagleman apresentou ao Pentágono evidências de que sob estresse agudo o cérebro humano descarta até 70% das informações disponíveis antes de decidir — e isso tem consequências que vão muito além dos campos de batalha. Entender o mecanismo é útil para qualquer pessoa que precise decidir bem quando mais importa."

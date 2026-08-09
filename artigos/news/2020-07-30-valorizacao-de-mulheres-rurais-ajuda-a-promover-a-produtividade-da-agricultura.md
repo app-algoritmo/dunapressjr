@@ -2,7 +2,7 @@
 title: Valorização de mulheres rurais ajuda a promover a produtividade da agricultura
 date: 2020-07-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

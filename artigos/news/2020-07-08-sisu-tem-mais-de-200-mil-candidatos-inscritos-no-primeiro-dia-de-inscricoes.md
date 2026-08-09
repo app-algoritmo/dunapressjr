@@ -2,7 +2,7 @@
 title: Sisu tem mais de 200 mil candidatos inscritos no primeiro dia de inscrições
 date: 2020-07-08
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

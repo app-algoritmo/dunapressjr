@@ -2,7 +2,7 @@
 title: Dólar supera R$ 5,40 e fecha no maior valor desde junho
 date: 2020-08-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

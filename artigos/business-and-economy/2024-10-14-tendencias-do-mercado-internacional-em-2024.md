@@ -2,7 +2,7 @@
 title: Tendências do Mercado Internacional em 2024
 date: 2024-10-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Business and Economy
 - Health

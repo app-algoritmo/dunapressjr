@@ -3,7 +3,7 @@ title: Aberta consulta pública sobre o atendimento socioeducativo voltado às a
   privadas de liberdade
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

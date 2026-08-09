@@ -2,7 +2,7 @@
 title: Standard & Poor's mantém nota da dívida do governo brasileiro
 date: 2021-06-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

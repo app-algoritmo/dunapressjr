@@ -3,7 +3,7 @@ title: "Dormir pouco parece eficiência: a ciência mostra que é o maior sabota
 subtitle: "Enquanto a cultura da produtividade glorifica as madrugadas, pesquisadores de Harvard e da USP convergem para o mesmo dado incômodo: sete a nove horas de sono por noite são inegociáveis para quem quer envelhecer bem — e render mais."
 date: 2026-07-13
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - health
 description: "A privação crônica de sono está associada a risco 45% maior de doenças cardiovasculares e declínio cognitivo acelerado, segundo estudos publicados em 2025 — mas o Brasil ainda trata insônia como frescura. Entender por que dormir é política pública de saúde pode mudar a forma como empresas e governos encaram o tema."

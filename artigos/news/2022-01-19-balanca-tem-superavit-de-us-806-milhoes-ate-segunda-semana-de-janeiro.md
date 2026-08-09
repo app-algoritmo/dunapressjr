@@ -2,7 +2,7 @@
 title: Balança tem superávit de US$ 806 milhões até segunda semana de janeiro
 date: 2022-01-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

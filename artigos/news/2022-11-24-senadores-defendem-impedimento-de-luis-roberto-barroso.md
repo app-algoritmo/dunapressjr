@@ -2,7 +2,7 @@
 title: Senadores defendem impedimento de Luis Roberto Barroso
 date: 2022-11-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

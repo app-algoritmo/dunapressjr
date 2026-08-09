@@ -2,7 +2,7 @@
 title: Influenciado por exterior, dólar fecha no maior valor em duas semanas
 date: 2021-05-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

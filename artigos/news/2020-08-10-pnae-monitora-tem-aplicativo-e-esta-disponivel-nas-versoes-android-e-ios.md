@@ -2,7 +2,7 @@
 title: PNAE Monitora tem aplicativo e está disponível nas versões Android e iOS
 date: 2020-08-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

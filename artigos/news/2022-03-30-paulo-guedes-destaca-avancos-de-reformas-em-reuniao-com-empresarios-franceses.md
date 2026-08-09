@@ -2,7 +2,7 @@
 title: Paulo Guedes destaca avanços de reformas em reunião com empresários franceses
 date: 2022-03-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

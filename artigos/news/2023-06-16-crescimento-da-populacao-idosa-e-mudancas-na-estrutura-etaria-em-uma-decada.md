@@ -2,7 +2,7 @@
 title: Crescimento da população idosa e mudanças na estrutura etária em uma década
 date: 2023-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

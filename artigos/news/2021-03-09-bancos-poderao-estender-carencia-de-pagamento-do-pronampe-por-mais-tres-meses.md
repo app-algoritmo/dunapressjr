@@ -2,7 +2,7 @@
 title: Bancos poderão estender carência de pagamento do Pronampe por mais três meses
 date: 2021-03-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

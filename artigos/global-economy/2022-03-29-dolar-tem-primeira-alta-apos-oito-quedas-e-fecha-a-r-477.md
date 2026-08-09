@@ -2,7 +2,7 @@
 title: Dólar tem primeira alta após oito quedas e fecha a R$ 4,77
 date: 2022-03-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

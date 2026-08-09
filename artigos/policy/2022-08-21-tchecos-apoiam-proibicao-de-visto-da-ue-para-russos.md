@@ -2,7 +2,7 @@
 title: Tchecos apoiam proibição de visto da UE para russos
 date: 2022-08-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

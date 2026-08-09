@@ -2,7 +2,7 @@
 title: Vice-presidente destaca crescimento de comércio entre Brasil e Peru
 date: 2022-09-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

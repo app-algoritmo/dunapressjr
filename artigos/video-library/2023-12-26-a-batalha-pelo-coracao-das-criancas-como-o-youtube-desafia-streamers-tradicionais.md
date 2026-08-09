@@ -2,7 +2,7 @@
 title: 'A Batalha pelo Coração das Crianças: Como o YouTube Desafia Streamers Tradicionais'
 date: 2023-12-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Video library
 ---

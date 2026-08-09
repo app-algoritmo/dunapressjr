@@ -2,7 +2,7 @@
 title: Crise causa impacto na indústria, que precisa de mudança, diz CNI
 date: 2020-07-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

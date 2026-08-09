@@ -2,7 +2,7 @@
 title: Juizes da corte suprema do Brasil recebem 12 milhões para auxilio alimentação
 date: 2020-03-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

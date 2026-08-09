@@ -1,8 +1,8 @@
 ---
-title: Quem mandou matar Toninho do PT? -  Investigação Paralela
+title: Quem mandou matar Toninho do PT? - Investigação Paralela
 date: 2022-07-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Documentaries
 ---

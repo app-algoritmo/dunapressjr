@@ -2,7 +2,7 @@
 title: A Síndrome da Barata Tonta - cuidado, pode ser contagiosa!
 date: 2018-10-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

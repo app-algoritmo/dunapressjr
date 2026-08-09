@@ -3,7 +3,7 @@ title: 'Corrupção no Brasil: Enfraquecimento dos Sistemas de Justiça Coloca o
   em Alerta'
 date: 2024-02-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

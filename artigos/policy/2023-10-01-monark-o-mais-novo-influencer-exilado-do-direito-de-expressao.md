@@ -2,7 +2,7 @@
 title: 'Monark: O Mais Novo Influencer Exilado do direito de expressão'
 date: 2023-10-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 - Social networks

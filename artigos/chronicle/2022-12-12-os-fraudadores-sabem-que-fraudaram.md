@@ -2,7 +2,7 @@
 title: Os fraudadores sabem que fraudaram
 date: 2022-12-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 - Policy

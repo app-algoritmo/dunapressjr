@@ -3,7 +3,7 @@ title: Governo altera normas da Declaração de Débitos e Créditos Tributário
   Previdenciários e de Outras Entidades e Fundos
 date: 2023-07-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

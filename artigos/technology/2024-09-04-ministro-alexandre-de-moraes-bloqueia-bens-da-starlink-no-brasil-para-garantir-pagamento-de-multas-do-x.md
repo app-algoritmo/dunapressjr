@@ -3,7 +3,7 @@ title: Ministro Alexandre de Moraes Bloqueia Bens da Starlink no Brasil para Gar
   Pagamento de Multas do X
 date: 2024-09-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

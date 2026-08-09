@@ -2,7 +2,7 @@
 title: <strong>IGP-10 tem queda de preços de 0,69% em agosto</strong>
 date: 2022-08-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

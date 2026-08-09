@@ -3,7 +3,7 @@ title: 'Alexandre de Moraes: A Ascensão Meteórica e o Poder da Coragem na Pol�
   Brasileira'
 date: 2023-09-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

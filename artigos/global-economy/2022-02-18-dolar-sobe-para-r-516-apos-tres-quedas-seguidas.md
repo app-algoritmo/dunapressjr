@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,16 após três quedas seguidas
 date: 2022-02-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

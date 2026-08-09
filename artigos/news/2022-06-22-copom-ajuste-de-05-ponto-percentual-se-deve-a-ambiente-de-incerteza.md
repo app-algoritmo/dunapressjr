@@ -2,7 +2,7 @@
 title: 'Copom: ajuste de 0,5 ponto percentual se deve a ambiente de incerteza'
 date: 2022-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

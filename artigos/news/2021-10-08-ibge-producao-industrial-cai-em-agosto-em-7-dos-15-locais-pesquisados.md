@@ -2,7 +2,7 @@
 title: 'IBGE: produção industrial cai em agosto em 7 dos 15 locais pesquisados'
 date: 2021-10-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

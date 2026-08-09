@@ -3,7 +3,7 @@ title: "Turismo Gastronômico: Como a Mesa Virou o Principal Destino de Viagem d
 subtitle: "A gastronomia deixou de ser um atrativo secundário para se tornar o motor central das decisões de viagem — e esse fenômeno está redesenhando rotas, economias locais e identidades culturais ao redor do mundo"
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tourism-and-gastronomy
 description: "O turismo gastronômico cresceu 15% ao ano na última década e hoje movimenta mais de 150 bilhões de dólares globalmente. Este artigo analisa como a experiência à mesa tornou-se o principal motivador de viagens, os destinos que souberam capitalizar essa tendência e os desafios de autenticidade que o setor enfrenta."

@@ -2,7 +2,7 @@
 title: Prévia aponta alta de 1,89% do IGP-M em janeiro
 date: 2021-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

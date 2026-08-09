@@ -2,7 +2,7 @@
 title: Porque Snoop Dogg foi impedido de entrar na Noruega?
 date: 2024-03-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

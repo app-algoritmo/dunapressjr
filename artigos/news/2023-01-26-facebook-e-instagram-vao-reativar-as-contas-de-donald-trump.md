@@ -2,7 +2,7 @@
 title: Facebook e Instagram vão reativar as contas de Donald Trump
 date: 2023-01-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

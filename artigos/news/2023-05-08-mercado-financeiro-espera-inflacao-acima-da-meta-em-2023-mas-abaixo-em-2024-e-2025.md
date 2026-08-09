@@ -3,7 +3,7 @@ title: Mercado financeiro espera inflação acima da meta em 2023, mas abaixo em
   e 2025
 date: 2023-05-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

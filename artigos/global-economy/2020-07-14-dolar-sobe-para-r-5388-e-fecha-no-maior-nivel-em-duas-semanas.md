@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,388 e fecha no maior nível em duas semanas
 date: 2020-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

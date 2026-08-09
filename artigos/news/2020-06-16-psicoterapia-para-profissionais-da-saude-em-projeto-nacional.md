@@ -2,7 +2,7 @@
 title: Psicoterapia para profissionais da saúde em projeto nacional
 date: 2020-06-16
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

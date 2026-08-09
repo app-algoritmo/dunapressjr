@@ -2,7 +2,7 @@
 title: IPC-S recua em quatro capitais de maio para junho, diz FGV
 date: 2022-07-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

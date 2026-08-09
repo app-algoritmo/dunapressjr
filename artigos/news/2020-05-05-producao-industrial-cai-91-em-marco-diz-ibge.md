@@ -2,7 +2,7 @@
 title: Produção industrial cai 9,1% em março, diz IBGE
 date: 2020-05-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

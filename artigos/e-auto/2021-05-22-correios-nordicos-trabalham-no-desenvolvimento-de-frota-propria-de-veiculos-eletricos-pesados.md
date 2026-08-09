@@ -3,7 +3,7 @@ title: Correios nórdicos trabalham no desenvolvimento de frota própria de veí
   elétricos pesados
 date: 2021-05-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - E-auto
 ---

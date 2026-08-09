@@ -3,7 +3,7 @@ title: Corte Suprema do Brasil atende comunistas e desqualifica FFAA como poder 
   redes sociais em fúria, militares em silêncio
 date: 2020-06-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

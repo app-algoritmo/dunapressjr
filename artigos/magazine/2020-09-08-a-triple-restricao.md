@@ -2,7 +2,7 @@
 title: A triple restrição
 date: 2020-09-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

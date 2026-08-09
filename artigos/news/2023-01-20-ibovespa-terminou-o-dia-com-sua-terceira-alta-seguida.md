@@ -2,7 +2,7 @@
 title: Ibovespa terminou o dia com sua terceira alta seguida
 date: 2023-01-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

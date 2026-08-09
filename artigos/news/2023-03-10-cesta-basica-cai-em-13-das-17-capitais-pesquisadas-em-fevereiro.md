@@ -2,7 +2,7 @@
 title: Cesta básica cai em 13 das 17 capitais pesquisadas em fevereiro
 date: 2023-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

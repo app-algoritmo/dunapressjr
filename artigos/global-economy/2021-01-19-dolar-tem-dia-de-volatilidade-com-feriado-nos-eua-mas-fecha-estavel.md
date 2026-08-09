@@ -2,7 +2,7 @@
 title: Dólar tem dia de volatilidade com feriado nos EUA, mas fecha estável
 date: 2021-01-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

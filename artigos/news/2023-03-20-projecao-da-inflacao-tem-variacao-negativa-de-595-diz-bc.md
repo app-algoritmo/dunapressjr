@@ -2,7 +2,7 @@
 title: Projeção da inflação tem variação negativa de 5,95%, diz BC
 date: 2023-03-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

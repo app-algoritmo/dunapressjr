@@ -2,7 +2,7 @@
 title: Média de juro do cheque especial fecha 2019 menor que no início do ano
 date: 2019-12-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Tesouro capta US$ 3,5 bi no exterior com juros baixos
 date: 2020-06-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

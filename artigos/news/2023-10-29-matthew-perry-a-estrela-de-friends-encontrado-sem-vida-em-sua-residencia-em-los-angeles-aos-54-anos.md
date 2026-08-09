@@ -3,7 +3,7 @@ title: 'Matthew Perry: a Estrela de Friends - Encontrado Sem Vida em Sua Residê
   em Los Angeles aos 54 Anos'
 date: 2023-10-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Video library

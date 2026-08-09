@@ -2,7 +2,7 @@
 title: Governo Federal edita MP com medidas para o setor portuário
 date: 2020-04-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

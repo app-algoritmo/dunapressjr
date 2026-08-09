@@ -1,9 +1,9 @@
 ---
-title: Destaque histórico - Presidente Donald Trump declara -  Jerusalém a Capital
+title: Destaque histórico - Presidente Donald Trump declara - Jerusalém a Capital
   de Israel
 date: 2017-12-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

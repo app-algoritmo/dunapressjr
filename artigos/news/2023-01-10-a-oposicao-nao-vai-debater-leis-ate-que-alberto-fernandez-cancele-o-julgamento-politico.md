@@ -3,7 +3,7 @@ title: A oposição não vai debater leis até que Alberto Fernández cancele o 
   político
 date: 2023-01-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 - Policy

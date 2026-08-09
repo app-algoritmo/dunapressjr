@@ -2,7 +2,7 @@
 title: Dólar fecha perto da estabilidade, mas cai 4,54% na semana
 date: 2020-05-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

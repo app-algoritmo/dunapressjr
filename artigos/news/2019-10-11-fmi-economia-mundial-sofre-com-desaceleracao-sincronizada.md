@@ -2,7 +2,7 @@
 title: 'FMI: economia mundial sofre com ''desaceleração sincronizada'''
 date: 2019-10-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

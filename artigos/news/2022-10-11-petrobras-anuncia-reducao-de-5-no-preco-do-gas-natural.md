@@ -2,7 +2,7 @@
 title: Petrobras anuncia redução de 5% no preço do gás natural
 date: 2022-10-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

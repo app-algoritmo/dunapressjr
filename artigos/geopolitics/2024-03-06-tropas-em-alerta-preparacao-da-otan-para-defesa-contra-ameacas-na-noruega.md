@@ -2,7 +2,7 @@
 title: 'Tropas em Alerta: Preparação da OTAN para Defesa contra Ameaças na Noruega'
 date: 2024-03-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - Magazine

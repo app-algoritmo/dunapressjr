@@ -2,7 +2,7 @@
 title: Bolsa sobe 0,22% no dia, mas registra pior semana desde fevereiro
 date: 2021-09-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Santa Missa ao vivo com Papa Francisco em Genebra- agora!
 date: 2018-06-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

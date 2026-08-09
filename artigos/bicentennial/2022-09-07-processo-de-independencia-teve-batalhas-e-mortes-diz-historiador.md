@@ -2,7 +2,7 @@
 title: Processo de independência teve batalhas e mortes, diz historiador
 date: 2022-09-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Bicentennial
 - News

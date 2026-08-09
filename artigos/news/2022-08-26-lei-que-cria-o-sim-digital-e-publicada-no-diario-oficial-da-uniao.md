@@ -2,7 +2,7 @@
 title: Lei que cria o SIM Digital é publicada no Diário Oficial da União
 date: 2022-08-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

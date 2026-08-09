@@ -2,7 +2,7 @@
 title: Nova CBS vai ampliar produtividade e estimular crescimento econômico
 date: 2020-07-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Irmã de Kim Jong-un critica acordo militar entre EUA e Coreia do Sul
 date: 2023-04-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Geopolitics
 - World Affairs

@@ -2,7 +2,7 @@
 title: Alessandro Vieira quer R$ 70 bi fora do teto e nova regra fiscal até 2023
 date: 2022-11-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

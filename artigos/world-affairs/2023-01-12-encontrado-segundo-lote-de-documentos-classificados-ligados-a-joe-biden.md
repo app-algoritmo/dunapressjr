@@ -2,7 +2,7 @@
 title: Encontrado segundo lote de documentos classificados ligados a Joe Biden
 date: 2023-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

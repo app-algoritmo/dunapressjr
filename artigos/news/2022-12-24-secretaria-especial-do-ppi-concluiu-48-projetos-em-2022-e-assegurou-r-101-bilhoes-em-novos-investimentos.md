@@ -3,7 +3,7 @@ title: Secretaria Especial do PPI concluiu 48 projetos em 2022 e assegurou R$ 10
   bilhões em novos investimentos
 date: 2022-12-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

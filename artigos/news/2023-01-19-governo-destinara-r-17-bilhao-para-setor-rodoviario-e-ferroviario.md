@@ -2,7 +2,7 @@
 title: Governo destinará R$ 1,7 bilhão para setor rodoviário e ferroviário
 date: 2023-01-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Coronavírus no Brasil, é chamado de 'vírus do homem rico'
 date: 2020-03-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: '1000 Anos de Cristianismo na Noruega: Comemorando a Introdução da Cristandade'
 date: 2024-06-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Policy

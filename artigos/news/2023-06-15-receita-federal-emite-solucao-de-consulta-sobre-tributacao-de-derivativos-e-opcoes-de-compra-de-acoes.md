@@ -3,7 +3,7 @@ title: Receita Federal emite solução de consulta sobre tributação de derivat
   opções de compra de ações
 date: 2023-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

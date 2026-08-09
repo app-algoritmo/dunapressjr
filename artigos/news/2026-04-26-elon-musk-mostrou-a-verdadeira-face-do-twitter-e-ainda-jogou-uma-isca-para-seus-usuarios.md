@@ -3,7 +3,7 @@ title: Elon Musk mostrou a verdadeira face do twitter e ainda jogou uma isca par
   seus usuários
 date: 2026-04-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

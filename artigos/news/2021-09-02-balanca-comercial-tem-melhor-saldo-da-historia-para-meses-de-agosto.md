@@ -2,7 +2,7 @@
 title: Balança comercial tem melhor saldo da história para meses de agosto
 date: 2021-09-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

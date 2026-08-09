@@ -3,7 +3,7 @@ title: Câmara dos Deputados aprova projeto de marco temporal de terras indígen
   gerando debate sobre direitos e meio ambiente
 date: 2023-05-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

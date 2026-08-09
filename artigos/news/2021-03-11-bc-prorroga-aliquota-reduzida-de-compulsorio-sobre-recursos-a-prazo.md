@@ -2,7 +2,7 @@
 title: BC prorroga alíquota reduzida de compulsório sobre recursos a prazo
 date: 2021-03-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

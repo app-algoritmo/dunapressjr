@@ -1,5 +1,5 @@
 ---
-title: Ministério  Damares e CEF lançam parceria em Projeto Salve Uma Mulher
+title: Ministério Damares e CEF lançam parceria em Projeto Salve Uma Mulher
 date: 2020-03-05
 status: publish
 author: Joice Ferreira

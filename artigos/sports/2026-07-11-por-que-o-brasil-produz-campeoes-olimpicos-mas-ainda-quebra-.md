@@ -3,7 +3,7 @@ title: "Por que o Brasil produz campeões olímpicos mas ainda quebra seus atlet
 subtitle: "A tensão entre o modelo de alto rendimento nacional e a longevidade esportiva expõe uma contradição que custa medalhas, dinheiro e carreiras."
 date: 2026-07-11
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - sports
 description: "O Brasil figura entre os dez países que mais investem em programas olímpicos na América Latina, mas a taxa de abandono de atletas de elite antes dos 30 anos por lesões crônicas ou burnout segue acima da média global. Entender por que isso acontece — e o que algumas federações já estão mudando — é a pergunta que define o futuro do esporte nacional."

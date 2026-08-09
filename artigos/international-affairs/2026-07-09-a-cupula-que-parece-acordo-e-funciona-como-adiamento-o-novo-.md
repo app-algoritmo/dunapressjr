@@ -3,7 +3,7 @@ title: "A cúpula que parece acordo e funciona como adiamento: o novo manual da 
 subtitle: "Enquanto líderes posam para fotos em Viena e Brasília, a arquitetura real das negociações globais migrou para conversas bilaterais reservadas — e isso muda quem tem poder de verdade."
 date: 2026-07-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - international-affairs
 description: "As grandes cúpulas internacionais de 2026 produzem mais comunicados do que compromissos vinculantes — e um número crescente de diplomatas admite, em privado, que esse é exatamente o objetivo. Entender a diferença entre a encenação e a negociação real é a chave para ler o mundo que está sendo construído agora."

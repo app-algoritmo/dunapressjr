@@ -2,7 +2,7 @@
 title: 'Os Acordos de Khitomer: Paz entre a Federação e os Klingons'
 date: 2024-07-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - Video library

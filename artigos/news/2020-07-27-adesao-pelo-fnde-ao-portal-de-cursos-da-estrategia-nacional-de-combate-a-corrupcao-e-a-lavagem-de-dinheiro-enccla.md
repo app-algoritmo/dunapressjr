@@ -3,7 +3,7 @@ title: Adesão pelo FNDE ao portal de cursos da Estratégia Nacional de Combate 
   e à Lavagem de Dinheiro (ENCCLA)
 date: 2020-07-27
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

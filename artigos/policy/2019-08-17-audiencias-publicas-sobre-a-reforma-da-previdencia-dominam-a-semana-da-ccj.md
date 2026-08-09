@@ -2,7 +2,7 @@
 title: Audiências públicas sobre a reforma da Previdência dominam a semana da CCJ
 date: 2019-08-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

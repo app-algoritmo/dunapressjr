@@ -3,7 +3,7 @@ title: "O turista brasileiro gasta mais fora do que dentro — e um grupo de des
 subtitle: "Com déficit de US$ 6,1 bilhões na balança do turismo em 2025, o Brasil acelera uma aposta em destinos de interior, gastronomia regional e experiências de imersão que podem reconfigurar quem lucra com quem viaja."
 date: 2026-07-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tourism-and-gastronomy
 description: "O Brasil fechou 2025 com um déficit histórico de US$ 6,1 bilhões na balança turística, mais dinheiro saindo do país com brasileiros viajando ao exterior do que entrando com turistas estrangeiros. Mas uma nova geração de destinos nacionais — do Marajó ao Vale do Ribeira — começa a disputar esse dinheiro com algo que Miami e Lisboa não oferecem: autenticidade radical e culinária impossível de replicar."

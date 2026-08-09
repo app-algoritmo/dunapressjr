@@ -2,7 +2,7 @@
 title: Dívida bruta do governo deverá encerrar o ano em 96% do PIB
 date: 2020-10-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

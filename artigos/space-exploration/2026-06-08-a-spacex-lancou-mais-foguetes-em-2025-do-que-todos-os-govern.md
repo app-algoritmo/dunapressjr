@@ -3,7 +3,7 @@ title: "A SpaceX lançou mais foguetes em 2025 do que todos os governos do mundo
 subtitle: "O domínio comercial do espaço baixo deixou de ser tendência e virou fato consumado, forçando nações, rivais e reguladores a reescrever suas estratégias em tempo real."
 date: 2026-06-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - space-exploration
 description: "Em 2025, a SpaceX realizou 148 lançamentos orbitais — mais do que a soma de todos os programas espaciais governamentais do planeta. O feito não é apenas estatístico: ele redistribui poder, dinheiro e soberania em uma fronteira que nenhum tratado internacional ainda sabe como regular."

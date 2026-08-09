@@ -3,7 +3,7 @@ title: Micro e pequenas empresas tem até 2 de abril para inscrever-se no progra
   de apoio à inovação
 date: 2023-03-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

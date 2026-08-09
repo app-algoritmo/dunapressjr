@@ -3,7 +3,7 @@ title: "Por que o mundo esqueceu que a gripe de 1918 matou mais gente do que a P
 subtitle: "A pandemia que eliminou entre 50 e 100 milhões de pessoas em dois anos foi deliberadamente apagada da memória coletiva, e entender por que esse silêncio aconteceu revela um padrão que se repete sempre que a história incomoda o poder."
 date: 2026-06-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - history
 description: "A gripe de 1918 matou entre 50 e 100 milhões de pessoas — mais do que os quatro anos de trincheiras da Grande Guerra — e, ainda assim, desapareceu das narrativas oficiais por décadas. O silêncio não foi acidente: foi política, e compreendê-lo ajuda a ler como sociedades escolhem o que querem lembrar."

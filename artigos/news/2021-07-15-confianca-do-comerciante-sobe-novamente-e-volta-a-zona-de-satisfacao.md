@@ -2,7 +2,7 @@
 title: Confiança do comerciante sobe novamente e volta à zona de satisfação
 date: 2021-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

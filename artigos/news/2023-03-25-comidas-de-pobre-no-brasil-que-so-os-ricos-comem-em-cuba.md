@@ -2,7 +2,7 @@
 title: Comidas de pobre no Brasil que só os Ricos comem em Cuba
 date: 2023-03-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

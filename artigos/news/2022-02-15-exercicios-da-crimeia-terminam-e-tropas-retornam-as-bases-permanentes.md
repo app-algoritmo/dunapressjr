@@ -2,7 +2,7 @@
 title: Exercícios da Crimeia terminam e tropas retornam às bases permanentes
 date: 2022-02-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

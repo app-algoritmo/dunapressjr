@@ -2,7 +2,7 @@
 title: Lula oficialmente declarado Persona Non-Grata em Israel
 date: 2024-02-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

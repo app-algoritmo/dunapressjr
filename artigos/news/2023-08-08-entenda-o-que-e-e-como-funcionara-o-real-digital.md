@@ -2,7 +2,7 @@
 title: Entenda o que é e como funcionará o real digital
 date: 2023-08-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

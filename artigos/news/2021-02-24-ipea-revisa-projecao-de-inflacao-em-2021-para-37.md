@@ -2,7 +2,7 @@
 title: Ipea revisa projeção de inflação em 2021 para 3,7%
 date: 2021-02-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

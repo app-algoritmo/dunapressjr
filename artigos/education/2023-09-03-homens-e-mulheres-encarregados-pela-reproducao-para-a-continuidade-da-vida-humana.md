@@ -3,7 +3,7 @@ title: Homens e Mulheres encarregados pela Reprodução para a Continuidade da V
   Humana
 date: 2023-09-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Science

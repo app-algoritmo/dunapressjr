@@ -1,5 +1,5 @@
 ---
-title: 'Série Conheça o Sul do Brasil:  Porto Alegre/RS'
+title: 'Série Conheça o Sul do Brasil: Porto Alegre/RS'
 date: 2021-11-28
 status: publish
 author: Joice Ferreira

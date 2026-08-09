@@ -2,7 +2,7 @@
 title: Vendas da indústria de máquinas têm queda de 2,9% em fevereiro
 date: 2022-03-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

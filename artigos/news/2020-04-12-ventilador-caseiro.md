@@ -2,7 +2,7 @@
 title: Ventilador caseiro
 date: 2020-04-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Safra brasileira de grãos atinge novo recorde em 2023, impulsionada por 
   de soja, milho e trigo
 date: 2023-06-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

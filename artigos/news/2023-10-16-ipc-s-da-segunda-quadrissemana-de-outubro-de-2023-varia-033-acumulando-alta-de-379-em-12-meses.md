@@ -3,7 +3,7 @@ title: IPC-S da segunda quadrissemana de outubro de 2023 varia 0,33%, acumulando
   de 3,79% em 12 meses
 date: 2023-10-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

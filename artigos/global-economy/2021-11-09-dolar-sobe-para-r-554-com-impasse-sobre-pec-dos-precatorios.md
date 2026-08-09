@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,54 com impasse sobre PEC dos Precatórios
 date: 2021-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Dólar fecha em R$ 5,41 e tem maior ganho semanal em sete meses
 date: 2021-01-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

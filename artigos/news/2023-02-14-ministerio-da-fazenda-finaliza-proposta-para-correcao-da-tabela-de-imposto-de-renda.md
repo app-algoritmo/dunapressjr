@@ -3,7 +3,7 @@ title: Ministério da Fazenda finaliza proposta para correção da tabela de Imp
   de Renda
 date: 2023-02-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

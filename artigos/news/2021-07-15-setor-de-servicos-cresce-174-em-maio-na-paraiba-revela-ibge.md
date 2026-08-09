@@ -2,7 +2,7 @@
 title: Setor de serviços cresce 17,4% em maio na Paraíba, revela IBGE
 date: 2021-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

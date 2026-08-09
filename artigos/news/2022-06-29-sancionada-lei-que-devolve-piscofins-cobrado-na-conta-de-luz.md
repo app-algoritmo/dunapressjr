@@ -2,7 +2,7 @@
 title: Sancionada lei que devolve PIS/Cofins cobrado na conta de luz
 date: 2022-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

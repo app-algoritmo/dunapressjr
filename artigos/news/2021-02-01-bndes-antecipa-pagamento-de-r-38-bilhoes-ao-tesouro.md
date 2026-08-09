@@ -2,7 +2,7 @@
 title: BNDES antecipa pagamento de R$ 38 bilhões ao Tesouro
 date: 2021-02-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

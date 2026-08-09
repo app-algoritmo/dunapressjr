@@ -2,7 +2,7 @@
 title: Índice Ibovespa sobe pela sétima vez consecutiva
 date: 2023-06-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

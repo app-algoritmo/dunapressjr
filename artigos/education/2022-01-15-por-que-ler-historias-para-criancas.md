@@ -2,7 +2,7 @@
 title: Por que ler histórias para crianças?
 date: 2022-01-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

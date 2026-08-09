@@ -2,7 +2,7 @@
 title: Governo lança obra da Ferrovia de Integração do Centro-Oeste
 date: 2021-09-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

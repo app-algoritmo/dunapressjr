@@ -2,7 +2,7 @@
 title: Inflação de produtos na saída das fábricas fica em 1,21% em julho
 date: 2022-08-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

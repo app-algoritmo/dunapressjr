@@ -3,7 +3,7 @@ title: No acumulado de janeiro a dezembro o saldo de empregos com carteira assin
   foi positivo, com geração de 2.037.982 postos de trabalho formais no ano
 date: 2023-02-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

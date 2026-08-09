@@ -3,7 +3,7 @@ title: Aposentadoria por idade rural e salário-maternidade rural passam a ter a
   automática
 date: 2022-12-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Um público bem informado é um pré-requisito para a democracia
 date: 2021-01-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 - Social networks

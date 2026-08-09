@@ -3,7 +3,7 @@ title: Acordo comercial com Coreia do Sul terá impacto de R$ 416,8 bilhões no 
   até 2040, prevê Secex
 date: 2021-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

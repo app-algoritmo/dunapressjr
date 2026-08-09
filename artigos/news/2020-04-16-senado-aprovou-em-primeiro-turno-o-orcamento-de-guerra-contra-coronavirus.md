@@ -1,5 +1,5 @@
 ---
-title: Senado aprovou  em primeiro turno o ‘orçamento de guerra’ contra coronavírus
+title: Senado aprovou em primeiro turno o ‘orçamento de guerra’ contra coronavírus
 date: 2020-04-16
 status: publish
 author: Joice Ferreira

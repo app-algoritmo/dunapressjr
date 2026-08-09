@@ -2,7 +2,7 @@
 title: Inflação para famílias com renda mais baixa é de 0,62% em junho
 date: 2022-07-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

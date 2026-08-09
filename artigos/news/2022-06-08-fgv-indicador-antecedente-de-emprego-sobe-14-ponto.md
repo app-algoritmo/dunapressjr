@@ -2,7 +2,7 @@
 title: 'FGV: Indicador Antecedente de Emprego sobe 1,4 ponto'
 date: 2022-06-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

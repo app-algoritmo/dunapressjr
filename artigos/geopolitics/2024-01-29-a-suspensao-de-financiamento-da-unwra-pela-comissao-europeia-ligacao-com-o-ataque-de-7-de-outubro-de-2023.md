@@ -3,7 +3,7 @@ title: 'A Suspensão de Financiamento da UNWRA pela Comissão Europeia: Ligaçã
   o ataque de 7 de Outubro de 2023'
 date: 2024-01-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: Soldados russos libertam crianças escravas na Ucrânia
 date: 2023-04-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

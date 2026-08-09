@@ -2,7 +2,7 @@
 title: 'MME: acordo entre Opep e Rússia contribuirá para estabilizar o mercado'
 date: 2020-04-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Israel em guerra: mais de 700 israelenses assassinados no massacre do Hamas'
 date: 2023-10-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

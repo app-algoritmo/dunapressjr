@@ -2,7 +2,7 @@
 title: 'USA Eleições 2020: atualização 17 de novembro'
 date: 2020-11-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

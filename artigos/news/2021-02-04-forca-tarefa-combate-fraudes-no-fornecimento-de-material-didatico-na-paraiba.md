@@ -2,7 +2,7 @@
 title: Força-tarefa combate fraudes no fornecimento de material didático na Paraíba
 date: 2021-02-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

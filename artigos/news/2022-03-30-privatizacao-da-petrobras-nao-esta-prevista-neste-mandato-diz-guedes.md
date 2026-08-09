@@ -2,7 +2,7 @@
 title: Privatização da Petrobras não está prevista neste mandato, diz Guedes
 date: 2022-03-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

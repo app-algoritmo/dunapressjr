@@ -2,7 +2,7 @@
 title: 'Conab: menor oferta eleva preços de hortaliças e frutas em setembro'
 date: 2022-10-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Novo coronavírus circulou meses sem detecção antes dos primeiros casos
   em Wuhan, China
 date: 2021-03-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

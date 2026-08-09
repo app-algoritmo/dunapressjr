@@ -2,7 +2,7 @@
 title: Vendas do varejo paraibano encerram 2020 com alta de 2,4%, diz IBGE
 date: 2021-02-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

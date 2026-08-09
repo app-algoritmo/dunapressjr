@@ -3,7 +3,7 @@ title: 'Brazil''s Electoral Eclipse: Confessions of Interference and the Moral B
   of a Nation'
 date: 2025-10-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Politics and Society
 ---

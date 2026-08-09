@@ -2,7 +2,7 @@
 title: Prévia da inflação, IPCA-15 sobe 0,16% em outubro, revela IBGE
 date: 2022-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

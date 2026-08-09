@@ -2,7 +2,7 @@
 title: 'Coronavírus: MP vai detalhar quarentena de brasileiros repatriados'
 date: 2020-02-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Setor produtivo critica aumento da taxa Selic
 date: 2022-02-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

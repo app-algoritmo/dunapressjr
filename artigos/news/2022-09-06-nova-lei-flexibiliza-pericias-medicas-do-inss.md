@@ -2,7 +2,7 @@
 title: Nova lei flexibiliza perícias médicas do INSS
 date: 2022-09-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

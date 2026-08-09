@@ -2,7 +2,7 @@
 title: Congresso Nacional aprova projeto que prevê medidas de combate ao novo coronavírus
 date: 2020-02-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

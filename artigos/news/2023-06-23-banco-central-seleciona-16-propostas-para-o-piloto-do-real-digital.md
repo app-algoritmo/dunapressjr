@@ -2,7 +2,7 @@
 title: Banco Central seleciona 16 propostas para o piloto do Real Digital
 date: 2023-06-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

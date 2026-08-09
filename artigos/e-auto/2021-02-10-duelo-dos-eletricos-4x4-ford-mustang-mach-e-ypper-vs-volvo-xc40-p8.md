@@ -2,7 +2,7 @@
 title: Duelo dos elétricos 4x4 Ford Mustang Mach-E ypper vs. Volvo XC40 P8
 date: 2021-02-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - E-auto
 ---

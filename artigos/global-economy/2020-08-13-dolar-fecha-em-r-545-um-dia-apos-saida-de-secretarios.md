@@ -2,7 +2,7 @@
 title: Dólar fecha em R$ 5,45 um dia após saída de secretários
 date: 2020-08-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: SP tem interesse em aprovação da reforma tributária, diz governador
 date: 2023-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

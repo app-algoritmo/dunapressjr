@@ -3,7 +3,7 @@ title: Secretaria Especial da Cultura promove iniciativa inédita no país com o
   Nacional das Artes
 date: 2020-01-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

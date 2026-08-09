@@ -2,7 +2,7 @@
 title: Brasil passa a ser membro observador no Fórum Internacional de Transporte
 date: 2020-07-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

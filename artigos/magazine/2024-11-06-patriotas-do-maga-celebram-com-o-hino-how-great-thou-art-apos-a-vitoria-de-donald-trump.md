@@ -3,7 +3,7 @@ title: Patriotas do MAGA Celebram com o Hino 'How Great Thou Art' Após a Vitór
   Donald Trump
 date: 2024-11-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

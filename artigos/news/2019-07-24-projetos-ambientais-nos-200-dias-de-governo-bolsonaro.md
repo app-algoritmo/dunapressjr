@@ -2,7 +2,7 @@
 title: Projetos ambientais nos 200 dias de governo Bolsonaro
 date: 2019-07-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

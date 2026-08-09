@@ -2,7 +2,7 @@
 title: Ministro da Economia defende taxar super-ricos e desonerar empresas
 date: 2022-05-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

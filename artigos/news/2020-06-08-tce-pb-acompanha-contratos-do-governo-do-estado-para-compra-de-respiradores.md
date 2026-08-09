@@ -2,7 +2,7 @@
 title: TCE-PB acompanha contratos do Governo do Estado para compra de respiradores
 date: 2020-06-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

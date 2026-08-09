@@ -2,7 +2,7 @@
 title: Dólar sobe com mercado externo, mas continua abaixo de R$ 5,30
 date: 2022-02-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

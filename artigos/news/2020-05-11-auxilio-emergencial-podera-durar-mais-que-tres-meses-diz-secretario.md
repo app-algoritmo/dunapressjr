@@ -2,7 +2,7 @@
 title: Auxílio emergencial poderá durar mais que três meses, diz secretário
 date: 2020-05-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

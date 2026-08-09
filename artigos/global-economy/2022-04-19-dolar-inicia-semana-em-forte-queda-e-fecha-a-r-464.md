@@ -2,7 +2,7 @@
 title: Dólar inicia semana em forte queda e fecha a R$ 4,64
 date: 2022-04-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

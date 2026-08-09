@@ -2,7 +2,7 @@
 title: Ibovespa sobe 0,45% com ajuda de bancos e empresas de petróleo
 date: 2023-07-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

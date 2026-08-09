@@ -2,7 +2,7 @@
 title: Poupança tem retirada líquida de R$ 7,42 bilhões em novembro
 date: 2022-12-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

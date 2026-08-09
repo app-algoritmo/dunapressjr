@@ -3,7 +3,7 @@ title: Escritor norueguês Karl Ove Knausgård é agraciado com o Prêmio Hans C
   Andersen de Literatura 2020
 date: 2019-08-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 ---

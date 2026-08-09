@@ -2,7 +2,7 @@
 title: BNDES devolverá R$ 45 bilhões ao Tesouro ainda este ano
 date: 2022-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

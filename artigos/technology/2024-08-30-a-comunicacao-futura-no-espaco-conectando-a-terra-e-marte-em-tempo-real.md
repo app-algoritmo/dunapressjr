@@ -2,7 +2,7 @@
 title: 'A Comunicação Futura no Espaço: Conectando a Terra e Marte em Tempo Real'
 date: 2024-08-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

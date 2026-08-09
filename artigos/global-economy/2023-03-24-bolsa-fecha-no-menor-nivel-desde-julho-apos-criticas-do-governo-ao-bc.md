@@ -2,7 +2,7 @@
 title: Bolsa fecha no menor nível desde julho após críticas do governo ao BC
 date: 2023-03-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

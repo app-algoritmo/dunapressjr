@@ -2,7 +2,7 @@
 title: Teto do crédito consignado do INSS sobe para 1,97% ao mês
 date: 2023-03-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

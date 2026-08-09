@@ -3,7 +3,7 @@ title: Segundo o mercado financeiro agora é a vez do Deutsche Bank, depois do c
   Credit Suisse
 date: 2023-03-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

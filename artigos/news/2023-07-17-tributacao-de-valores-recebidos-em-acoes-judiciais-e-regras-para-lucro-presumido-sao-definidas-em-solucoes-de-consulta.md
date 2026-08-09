@@ -3,7 +3,7 @@ title: Tributação de valores recebidos em ações judiciais e regras para lucr
   são definidas em Soluções de Consulta
 date: 2023-07-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

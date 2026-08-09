@@ -2,7 +2,7 @@
 title: Novos contratos de aluguel de imóveis variam 9,32% em São Paulo
 date: 2022-11-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Leilão de termelétricas contrata menos da metade do previsto
 date: 2022-10-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

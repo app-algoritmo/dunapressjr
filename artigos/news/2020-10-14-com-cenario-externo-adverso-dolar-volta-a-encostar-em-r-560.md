@@ -2,7 +2,7 @@
 title: Com cenário externo adverso, dólar volta a encostar em R$ 5,60
 date: 2020-10-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

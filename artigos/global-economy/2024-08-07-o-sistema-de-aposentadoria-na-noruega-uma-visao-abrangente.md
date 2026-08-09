@@ -2,7 +2,7 @@
 title: 'O Sistema de Aposentadoria na Noruega: Uma Visão Abrangente'
 date: 2024-08-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

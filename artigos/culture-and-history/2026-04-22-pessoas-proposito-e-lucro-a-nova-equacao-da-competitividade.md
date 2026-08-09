@@ -2,7 +2,7 @@
 title: "Pessoas, propósito e lucro: a nova equação da competitividade"
 date: 2026-04-22
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - culture-and-history
 tags:

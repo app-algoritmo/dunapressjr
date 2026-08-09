@@ -3,7 +3,7 @@ title: Operação “Expresso” desmantela esquema bilionário de sonegação n
   Gerais, São Paulo e Espírito Santo
 date: 2021-03-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

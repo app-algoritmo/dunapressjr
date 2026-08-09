@@ -2,7 +2,7 @@
 title: Presidente do México admite que usa os pobres para ganhar votos
 date: 2023-01-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

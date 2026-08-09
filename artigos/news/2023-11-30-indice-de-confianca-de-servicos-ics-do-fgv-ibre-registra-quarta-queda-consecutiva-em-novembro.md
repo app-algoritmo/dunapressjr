@@ -3,7 +3,7 @@ title: Índice de Confiança de Serviços (ICS) do FGV IBRE registra quarta qued
   em novembro
 date: 2023-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

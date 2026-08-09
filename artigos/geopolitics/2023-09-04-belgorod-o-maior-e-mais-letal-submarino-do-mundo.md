@@ -2,7 +2,7 @@
 title: Belgorod, o maior e mais letal submarino do mundo
 date: 2023-09-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - Military

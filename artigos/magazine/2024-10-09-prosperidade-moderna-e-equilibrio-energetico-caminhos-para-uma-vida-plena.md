@@ -2,7 +2,7 @@
 title: 'Prosperidade Moderna e Equilíbrio Energético: Caminhos para uma Vida Plena'
 date: 2024-10-09
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Magazine
 ---

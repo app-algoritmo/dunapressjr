@@ -2,7 +2,7 @@
 title: PIB fecha 2019 com crescimento de 1,1% em relação a 2018
 date: 2020-03-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

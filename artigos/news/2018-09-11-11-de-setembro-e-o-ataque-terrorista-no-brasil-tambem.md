@@ -2,7 +2,7 @@
 title: 11 de setembro e o ataque terrorista... No Brasil também...
 date: 2018-09-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

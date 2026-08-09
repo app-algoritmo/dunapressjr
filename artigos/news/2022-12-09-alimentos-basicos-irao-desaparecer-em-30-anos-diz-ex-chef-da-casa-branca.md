@@ -2,7 +2,7 @@
 title: Alimentos básicos irão desaparecer em 30 anos, diz ex-chef da Casa Branca
 date: 2022-12-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

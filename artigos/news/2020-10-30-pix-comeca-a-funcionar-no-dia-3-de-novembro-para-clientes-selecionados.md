@@ -2,7 +2,7 @@
 title: Pix começa a funcionar no dia 3 de novembro para clientes selecionados
 date: 2020-10-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

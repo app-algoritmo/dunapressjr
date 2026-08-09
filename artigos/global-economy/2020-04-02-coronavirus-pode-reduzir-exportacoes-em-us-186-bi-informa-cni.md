@@ -2,7 +2,7 @@
 title: Coronavírus pode reduzir exportações em US$ 18,6 bi, informa CNI
 date: 2020-04-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

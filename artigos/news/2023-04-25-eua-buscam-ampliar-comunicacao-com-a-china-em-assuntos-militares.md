@@ -2,7 +2,7 @@
 title: EUA buscam ampliar comunicação com a China em assuntos militares
 date: 2023-04-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

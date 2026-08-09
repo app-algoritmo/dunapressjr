@@ -2,7 +2,7 @@
 title: "A Crise Silenciosa dos Aquíferos: Como o Esgotamento das Águas Subterrâneas Ameaça a Segurança Alimentar Global"
 date: 2026-05-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - environment
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778663234/A_Crise_Silenciosa_dos_Aqui%CC%81feros_-_Como_o_Esgotamento_das_A%CC%81guas_Subterra%CC%82neas_Ameac%CC%A7a_a_Seguranc%CC%A7a_Alimentar_Global_p6bqwc.jpg"

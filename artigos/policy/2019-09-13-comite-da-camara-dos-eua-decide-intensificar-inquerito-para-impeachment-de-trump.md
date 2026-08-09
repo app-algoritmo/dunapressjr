@@ -3,7 +3,7 @@ title: Comitê da Câmara dos EUA decide intensificar inquérito para impeachmen
   Trump
 date: 2019-09-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

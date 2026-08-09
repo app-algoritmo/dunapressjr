@@ -2,7 +2,7 @@
 title: 'Agência Brasil explica: quais são os direitos do empregado temporário?'
 date: 2022-12-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

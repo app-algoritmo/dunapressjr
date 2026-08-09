@@ -2,7 +2,7 @@
 title: <strong>Conab prevê safra de grãos superior a 271 milhões de toneladas </strong>
 date: 2022-09-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

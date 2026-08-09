@@ -2,7 +2,7 @@
 title: Redes Sociais permitem pedófilos discutirem sobre sua atração por crianças
 date: 2020-01-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

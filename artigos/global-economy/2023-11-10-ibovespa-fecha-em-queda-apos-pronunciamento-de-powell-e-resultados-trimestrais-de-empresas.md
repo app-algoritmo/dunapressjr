@@ -3,7 +3,7 @@ title: Ibovespa fecha em queda após pronunciamento de Powell e resultados trime
   de empresas
 date: 2023-11-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

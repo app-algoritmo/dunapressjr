@@ -2,7 +2,7 @@
 title: Estudo mostra que os diamantes não são para sempre
 date: 2020-06-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

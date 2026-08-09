@@ -2,7 +2,7 @@
 title: Indicador econômico global sobe com avanço das campanhas de imunização
 date: 2021-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

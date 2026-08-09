@@ -2,7 +2,7 @@
 title: Dólar fecha em R$ 5,0578, registrando forte queda nesta sexta-feira
 date: 2022-05-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

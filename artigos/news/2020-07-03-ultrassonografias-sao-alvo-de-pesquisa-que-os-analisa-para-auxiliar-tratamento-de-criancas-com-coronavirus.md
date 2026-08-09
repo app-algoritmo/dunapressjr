@@ -3,7 +3,7 @@ title: Ultrassonografias são alvo de pesquisa que os analisa para auxiliar trat
   de crianças com coronavírus
 date: 2020-07-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

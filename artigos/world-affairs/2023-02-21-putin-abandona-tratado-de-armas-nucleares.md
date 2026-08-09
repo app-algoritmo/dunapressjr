@@ -2,7 +2,7 @@
 title: Putin abandona tratado de armas nucleares
 date: 2023-02-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

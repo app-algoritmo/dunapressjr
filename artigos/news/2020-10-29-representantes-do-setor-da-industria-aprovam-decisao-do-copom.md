@@ -2,7 +2,7 @@
 title: Representantes do setor da indústria aprovam decisão do Copom
 date: 2020-10-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Senado aprova texto-base da PEC Paralela da Previdência em primeiro turno
 date: 2019-11-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

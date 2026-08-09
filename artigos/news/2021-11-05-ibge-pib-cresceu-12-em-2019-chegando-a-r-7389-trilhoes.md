@@ -2,7 +2,7 @@
 title: 'IBGE: PIB cresceu 1,2% em 2019, chegando a R$ 7,389 trilhões'
 date: 2021-11-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

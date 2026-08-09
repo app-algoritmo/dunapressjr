@@ -2,7 +2,7 @@
 title: Governador da Paraíba institui marco legal da Ciência e Tecnologia
 date: 2021-06-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

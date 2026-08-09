@@ -2,7 +2,7 @@
 title: Índice de Confiança da Indústria (ICI) cai em julho
 date: 2023-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

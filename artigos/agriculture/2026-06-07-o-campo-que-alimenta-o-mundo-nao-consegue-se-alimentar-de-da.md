@@ -3,12 +3,12 @@ title: "O campo que alimenta o mundo não consegue se alimentar de dados: a vira
 subtitle: "Enquanto o agronegócio brasileiro bate recordes de exportação, a maioria dos 3,8 milhões de agricultores familiares do país ainda toma decisões com base no instinto — e isso está começando a mudar de forma surpreendente."
 date: 2026-06-07
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - agriculture
 description: "O Brasil é o maior exportador de soja, açúcar e café do mundo, mas 67% dos agricultores familiares ainda não têm acesso regular a ferramentas digitais de gestão agrícola — uma contradição que startups, cooperativas e o próprio governo federal estão apostando corrigir até 2028. A disputa pelos dados do campo pode redefinir quem lucra, quem sobrevive e o que chega à mesa dos brasileiros."
 featuredImage: "https://images.unsplash.com/photo-1780167602648-5dbd02729f60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTA1ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA4MzQ3NTh8&ixlib=rb-4.1.0&q=80&w=1080"
-photoAuthor: "Bernd 📷 Dittrich"
+photoAuthor: "Bernd Dittrich"
 photoAuthorUrl: "https://unsplash.com/@hdbernd"
 photoSource: "Unsplash"
 tags:

@@ -2,7 +2,7 @@
 title: No Brasil, 76% das indústrias aplicam economia circular, diz pesquisa
 date: 2019-09-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

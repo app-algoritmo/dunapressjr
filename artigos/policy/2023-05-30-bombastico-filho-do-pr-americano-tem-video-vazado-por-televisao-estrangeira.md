@@ -2,7 +2,7 @@
 title: 'Bombástico: Filho do PR americano tem vídeo vazado por televisão estrangeira'
 date: 2023-05-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

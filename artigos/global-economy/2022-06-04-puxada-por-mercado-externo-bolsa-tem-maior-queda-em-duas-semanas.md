@@ -2,7 +2,7 @@
 title: Puxada por mercado externo, bolsa tem maior queda em duas semanas
 date: 2022-06-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

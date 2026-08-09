@@ -3,7 +3,7 @@ title: PR Jair Bolsonaro foi recebido com honras militares na sede do Comando Su
   nos EUA
 date: 2020-03-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

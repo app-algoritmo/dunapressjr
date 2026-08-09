@@ -2,7 +2,7 @@
 title: Taxa de desemprego cai em 16 estados, revela IBGE
 date: 2020-02-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

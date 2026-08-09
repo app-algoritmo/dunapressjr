@@ -3,7 +3,7 @@ title: "O bloco que cresceu 14% enquanto o mundo debatia tarifas: a nova geometr
 subtitle: "Enquanto EUA e China trocam restrições comerciais e a Europa tenta se reposicionar, um conjunto de economias emergentes redesenhou silenciosamente as rotas do comércio internacional — e o Brasil está no centro dessa equação."
 date: 2026-08-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-economy
 description: "O volume de comércio entre economias do Sul Global cresceu 14% no primeiro semestre de 2026, segundo dados preliminares da OMC, sinalizando uma reconfiguração estrutural das trocas mundiais que vai além da retórica geopolítica. Para o Brasil, que ocupa a presidência rotativa do G20 neste segundo semestre, o momento abre uma janela rara de protagonismo — se o país souber usá-la."

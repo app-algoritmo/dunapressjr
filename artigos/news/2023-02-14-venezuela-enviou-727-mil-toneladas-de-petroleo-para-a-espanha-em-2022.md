@@ -2,7 +2,7 @@
 title: Venezuela enviou 727 mil toneladas de petróleo para a Espanha em 2022
 date: 2023-02-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

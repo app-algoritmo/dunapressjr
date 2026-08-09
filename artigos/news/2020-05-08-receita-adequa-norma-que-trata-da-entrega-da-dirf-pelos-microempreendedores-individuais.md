@@ -3,7 +3,7 @@ title: Receita adequa norma que trata da entrega da Dirf pelos microempreendedor
   individuais
 date: 2020-05-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

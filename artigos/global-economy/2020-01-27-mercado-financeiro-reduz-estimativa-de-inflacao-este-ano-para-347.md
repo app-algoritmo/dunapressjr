@@ -2,7 +2,7 @@
 title: Mercado financeiro reduz estimativa de inflação este ano para 3,47%
 date: 2020-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

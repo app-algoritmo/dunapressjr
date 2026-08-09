@@ -3,7 +3,7 @@ title: 3.01 Diplomata Ernesto Araújo assumiu o cargo de chefe do Ministério da
   Exteriores nesta quarta-feira
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

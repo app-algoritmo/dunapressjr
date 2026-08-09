@@ -2,7 +2,7 @@
 title: Israel Remove Todas as Referências a Greta Thunberg
 date: 2023-10-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

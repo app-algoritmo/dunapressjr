@@ -1,5 +1,5 @@
 ---
-title: Fabricante de peças automotivas  Continental diz que usou trabalho escravo
+title: Fabricante de peças automotivas Continental diz que usou trabalho escravo
   para fornecer nazistas
 date: 2021-04-25
 status: publish

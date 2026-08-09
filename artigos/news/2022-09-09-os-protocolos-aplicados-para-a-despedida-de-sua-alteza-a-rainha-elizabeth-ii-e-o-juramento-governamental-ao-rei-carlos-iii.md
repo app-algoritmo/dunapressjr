@@ -3,7 +3,7 @@ title: Os protocolos aplicados para a despedida de sua Alteza a Rainha Elizabeth
   e o juramento governamental ao Rei Carlos III
 date: 2022-09-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

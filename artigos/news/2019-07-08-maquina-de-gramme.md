@@ -2,7 +2,7 @@
 title: Máquina de Gramme
 date: 2019-07-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

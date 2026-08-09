@@ -3,7 +3,7 @@ title: Brasil recebe aprovação da OCDE de novos instrumentos legais na área d
   e Tecnologia
 date: 2020-07-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

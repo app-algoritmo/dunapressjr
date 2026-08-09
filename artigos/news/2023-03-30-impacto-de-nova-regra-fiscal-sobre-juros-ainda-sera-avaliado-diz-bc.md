@@ -2,7 +2,7 @@
 title: Impacto de nova regra fiscal sobre juros ainda será avaliado, diz BC
 date: 2023-03-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

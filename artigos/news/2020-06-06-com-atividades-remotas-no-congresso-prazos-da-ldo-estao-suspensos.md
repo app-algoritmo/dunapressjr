@@ -2,7 +2,7 @@
 title: Com atividades remotas no Congresso, prazos da LDO estão suspensos
 date: 2020-06-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

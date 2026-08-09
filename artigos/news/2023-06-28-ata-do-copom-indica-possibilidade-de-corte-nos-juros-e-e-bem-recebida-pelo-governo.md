@@ -3,7 +3,7 @@ title: Ata do Copom indica possibilidade de corte nos juros e é bem recebida pe
   governo
 date: 2023-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "O telescópio que vê no passado encontrou luz de 13,4 bilhões de anos 
 subtitle: "Novas observações do James Webb reescrevem a linha do tempo da formação das primeiras galáxias e colocam em xeque modelos cosmológicos que guiaram a ciência por décadas."
 date: 2026-06-30
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - astronomy
 description: "O James Webb Space Telescope detectou galáxias massivas formadas apenas 300 milhões de anos após o Big Bang, muito antes do que os modelos padrão previam. A descoberta não desfaz décadas de cosmologia — mas exige que a ciência reescreva capítulos inteiros sobre como a matéria se organizou no universo jovem."

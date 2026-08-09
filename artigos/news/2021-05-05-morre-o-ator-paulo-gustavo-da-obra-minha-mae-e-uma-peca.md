@@ -2,7 +2,7 @@
 title: Morre o ator Paulo Gustavo da obra Minha mãe é uma peça
 date: 2021-05-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

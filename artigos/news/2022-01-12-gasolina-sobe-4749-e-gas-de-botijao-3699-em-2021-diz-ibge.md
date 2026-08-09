@@ -2,7 +2,7 @@
 title: Gasolina sobe 47,49% e gás de botijão, 36,99% em 2021, diz IBGE
 date: 2022-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

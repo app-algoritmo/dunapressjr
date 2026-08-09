@@ -2,7 +2,7 @@
 title: Receita Federal regulamenta três modalidades de adesão à transação tributária
 date: 2022-09-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

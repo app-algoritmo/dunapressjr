@@ -2,7 +2,7 @@
 title: Economia com reforma administrativa deve chegar a R$ 300 bilhões
 date: 2020-09-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

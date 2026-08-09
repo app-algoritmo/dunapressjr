@@ -2,7 +2,7 @@
 title: Não se omita - Acorde e seja patriota!
 date: 2018-10-05
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

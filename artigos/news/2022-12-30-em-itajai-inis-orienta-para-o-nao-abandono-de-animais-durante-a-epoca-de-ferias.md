@@ -1,5 +1,5 @@
 ---
-title: Em Itajaí INIS  orienta para o não abandono de animais durante a época de férias
+title: Em Itajaí INIS orienta para o não abandono de animais durante a época de férias
 date: 2022-12-30
 status: publish
 author: Joice Ferreira

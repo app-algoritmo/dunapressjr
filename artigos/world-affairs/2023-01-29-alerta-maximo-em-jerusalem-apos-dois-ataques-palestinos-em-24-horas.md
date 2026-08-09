@@ -2,7 +2,7 @@
 title: Alerta máximo em Jerusalém após dois ataques palestinos em 24 horas
 date: 2023-01-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

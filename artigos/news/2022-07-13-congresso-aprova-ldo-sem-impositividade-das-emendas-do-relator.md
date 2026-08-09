@@ -2,7 +2,7 @@
 title: Congresso aprova LDO sem impositividade das emendas do relator
 date: 2022-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Passam a ser eletrônicos certificados de estabelecimentos e produtos par
   animal
 date: 2020-08-05
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

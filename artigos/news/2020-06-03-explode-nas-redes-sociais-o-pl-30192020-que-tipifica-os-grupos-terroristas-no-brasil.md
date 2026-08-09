@@ -1,9 +1,9 @@
 ---
-title: Explode nas redes sociais o  PL 3019/2020 que tipifica os    grupos terroristas
+title: Explode nas redes sociais o PL 3019/2020 que tipifica os grupos terroristas
   no Brasil
 date: 2020-06-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

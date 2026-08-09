@@ -2,7 +2,7 @@
 title: Presidente veta fundo eleitoral de R$ 5,7 bilhões para 2022
 date: 2021-08-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

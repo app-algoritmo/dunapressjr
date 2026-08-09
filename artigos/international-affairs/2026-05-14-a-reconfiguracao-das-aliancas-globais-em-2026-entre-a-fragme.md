@@ -3,7 +3,7 @@ title: "A Reconfiguração das Alianças Globais em 2026: Entre a Fragmentação
 subtitle: "Com Washington, Pequim e Moscou redefinindo seus papéis no tabuleiro geopolítico, o mundo assiste ao surgimento de alinhamentos híbridos que desafiam as categorias tradicionais da ordem internacional"
 date: 2026-05-14
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - international-affairs
 description: "A ordem internacional de 2026 é marcada por uma fragmentação sem precedentes nas alianças tradicionais e pelo surgimento de eixos de cooperação pragmática que transcendem ideologias. Este artigo analisa as principais forças em jogo, os atores emergentes e o que esse realinhamento significa para a estabilidade global nas próximas décadas."

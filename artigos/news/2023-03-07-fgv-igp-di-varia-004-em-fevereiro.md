@@ -2,7 +2,7 @@
 title: 'FGV: IGP-DI varia 0,04% em fevereiro'
 date: 2023-03-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

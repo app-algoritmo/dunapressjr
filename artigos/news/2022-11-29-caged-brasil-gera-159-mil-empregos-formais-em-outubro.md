@@ -2,7 +2,7 @@
 title: 'Caged: Brasil gera 159 mil empregos formais em outubro'
 date: 2022-11-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

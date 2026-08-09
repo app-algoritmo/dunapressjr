@@ -2,7 +2,7 @@
 title: Dívida Pública Federal fecha setembro em R$ 4,156 trilhões
 date: 2019-10-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

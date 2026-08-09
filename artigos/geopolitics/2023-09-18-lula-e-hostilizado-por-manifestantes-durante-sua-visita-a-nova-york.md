@@ -2,7 +2,7 @@
 title: Lula é Hostilizado por Manifestantes durante Sua Visita a Nova York
 date: 2023-09-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

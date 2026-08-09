@@ -3,7 +3,7 @@ title: 'Desigualdade como diferença experimentada: uma reformulação do coefic
   de Gini'
 date: 2020-06-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

@@ -2,7 +2,7 @@
 title: Produção Industrial recua em nove dos 15 locais pesquisados, diz IBGE
 date: 2021-11-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Prorrogada promoção livro Educação, Homeschooling e Família
 date: 2020-04-16
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Education
 ---

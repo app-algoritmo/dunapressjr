@@ -2,7 +2,7 @@
 title: UE deixa decisão sobre prorrogação do Brexit para a semana que vem
 date: 2019-10-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

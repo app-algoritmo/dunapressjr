@@ -2,7 +2,7 @@
 title: 'CNC: queda na intenção de consumo das famílias desacelera'
 date: 2020-08-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

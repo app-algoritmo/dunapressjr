@@ -2,7 +2,7 @@
 title: Ingressos para show de rock no Brasil a mais de 8 mil reais já estão esgotados
 date: 2019-05-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

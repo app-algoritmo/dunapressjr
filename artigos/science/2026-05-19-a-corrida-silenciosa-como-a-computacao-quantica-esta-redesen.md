@@ -3,7 +3,7 @@ title: "A Corrida Silenciosa: Como a Computação Quântica Está Redesenhando a
 subtitle: "Longe dos holofotes das grandes conferências tecnológicas, laboratórios em três continentes aceleram experimentos que podem tornar obsoletos os supercomputadores clássicos antes do fim desta década"
 date: 2026-05-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - science
 description: "A computação quântica deixou de ser promessa de futuro distante para se tornar realidade operacional em 2026. Este artigo analisa os avanços recentes, os obstáculos que persistem e o que está em jogo para a ciência, a segurança global e a economia quando máquinas quânticas começarem a superar consistentemente seus equivalentes clássicos em tarefas do mundo real."

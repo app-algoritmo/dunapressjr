@@ -3,7 +3,7 @@ title: 'Educação para a vida profissional: expectativas e experiências dos em
   com graduados de universidades, faculdades e escolas profissionais'
 date: 2019-12-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - News

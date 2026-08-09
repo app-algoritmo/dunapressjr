@@ -2,7 +2,7 @@
 title: Balança comercial tem superávit de US$ 2,837 bi em fevereiro
 date: 2023-03-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

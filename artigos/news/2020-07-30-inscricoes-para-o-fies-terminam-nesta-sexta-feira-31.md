@@ -2,7 +2,7 @@
 title: Inscrições para o Fies terminam nesta sexta-feira (31)
 date: 2020-07-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

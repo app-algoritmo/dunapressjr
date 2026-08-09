@@ -1,9 +1,9 @@
 ---
-title: Brasil eleições 2020, aumenta indignação por urnas eletrônicas brasileiras  impossíveis
+title: Brasil eleições 2020, aumenta indignação por urnas eletrônicas brasileiras impossíveis
   de auditoria
 date: 2020-11-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

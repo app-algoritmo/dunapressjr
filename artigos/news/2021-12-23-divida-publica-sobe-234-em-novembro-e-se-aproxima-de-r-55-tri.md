@@ -2,7 +2,7 @@
 title: Dívida Pública sobe 2,34% em novembro e se aproxima de R$ 5,5 tri
 date: 2021-12-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

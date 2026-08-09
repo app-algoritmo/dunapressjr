@@ -3,7 +3,7 @@ title: Brasil alcança mais um mercado e exportará produtos termoprocessados de
   para o Egito
 date: 2020-07-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

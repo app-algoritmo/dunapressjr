@@ -2,7 +2,7 @@
 title: IGP-10 registra queda de 0,31% em outubro
 date: 2021-10-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

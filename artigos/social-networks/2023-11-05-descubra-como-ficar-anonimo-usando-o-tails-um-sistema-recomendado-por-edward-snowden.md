@@ -3,7 +3,7 @@ title: Descubra como ficar anônimo usando o Tails, um sistema recomendado por E
   Snowden
 date: 2023-11-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Social networks
 - Technology

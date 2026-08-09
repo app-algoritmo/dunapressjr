@@ -2,7 +2,7 @@
 title: Veja as mudanças nas aposentadorias em 2023
 date: 2023-01-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

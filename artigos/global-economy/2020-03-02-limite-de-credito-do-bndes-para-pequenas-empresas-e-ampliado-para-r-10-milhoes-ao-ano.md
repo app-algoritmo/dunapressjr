@@ -3,7 +3,7 @@ title: Limite de crédito do BNDES para pequenas empresas é ampliado para R$ 10
   ao ano
 date: 2020-03-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

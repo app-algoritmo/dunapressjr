@@ -2,7 +2,7 @@
 title: '15/10 - Dia dos Professores: A Essência da Educação e do Futuro'
 date: 2024-10-15
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Education
 - Future and Innovation

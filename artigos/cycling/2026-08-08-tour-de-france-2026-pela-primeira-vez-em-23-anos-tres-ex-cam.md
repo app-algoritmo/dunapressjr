@@ -3,7 +3,7 @@ title: "Tour de France 2026: pela primeira vez em 23 anos, três ex-campeões ch
 subtitle: "A edição mais equilibrada desde Armstrong dominou os Alpes transforma a Grande Boucle num laboratório de táticas — e levanta perguntas sobre o que o ciclismo profissional aprendeu (e o que ainda resiste a mudar)."
 date: 2026-08-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - cycling
 description: "O Tour de France 2026 entrou na semana decisiva com três ex-campeões separados por 38 segundos — o campo mais comprimido desde 2003 — e trouxe à tona um debate que vai além da corrida: como o ciclismo profissional e o urbano estão, paradoxalmente, se aproximando depois de décadas de mundos paralelos."

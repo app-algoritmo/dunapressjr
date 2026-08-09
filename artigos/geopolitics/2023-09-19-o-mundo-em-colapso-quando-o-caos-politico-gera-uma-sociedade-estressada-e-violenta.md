@@ -3,7 +3,7 @@ title: 'O Mundo em Colapso: Quando o Caos Político Gera uma Sociedade Estressad
   Violenta'
 date: 2023-09-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - Policy

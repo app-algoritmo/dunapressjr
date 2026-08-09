@@ -2,7 +2,7 @@
 title: O protagonismo na evolução da ciência – Dia do pesquisador
 date: 2020-07-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

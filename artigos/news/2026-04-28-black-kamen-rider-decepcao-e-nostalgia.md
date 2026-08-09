@@ -1,5 +1,5 @@
 ---
-title: 'Black Kamen Rider: Decepção e  nostalgia'
+title: 'Black Kamen Rider: Decepção e nostalgia'
 date: 2026-04-28
 status: publish
 author: Carlos Alberto

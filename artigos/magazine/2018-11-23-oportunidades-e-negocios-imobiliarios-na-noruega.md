@@ -1,8 +1,8 @@
 ---
-title: Oportunidades e  negócios imobiliários na Noruega
+title: Oportunidades e negócios imobiliários na Noruega
 date: 2018-11-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

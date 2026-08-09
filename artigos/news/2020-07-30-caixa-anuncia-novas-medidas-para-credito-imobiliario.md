@@ -2,7 +2,7 @@
 title: Caixa anuncia novas medidas para crédito imobiliário
 date: 2020-07-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

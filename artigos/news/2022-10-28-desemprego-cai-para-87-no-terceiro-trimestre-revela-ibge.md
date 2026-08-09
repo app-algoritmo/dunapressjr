@@ -2,7 +2,7 @@
 title: Desemprego cai para 8,7% no terceiro trimestre, revela IBGE
 date: 2022-10-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

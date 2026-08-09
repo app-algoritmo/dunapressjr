@@ -2,7 +2,7 @@
 title: 'MME: eólica e solar somadas têm 2ª maior posição na matriz energética'
 date: 2022-02-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

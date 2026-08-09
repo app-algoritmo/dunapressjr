@@ -3,7 +3,7 @@ title: Banco Mundial eleva previsão de crescimento do Brasil em 2023, mas reduz
   para 2024
 date: 2023-06-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

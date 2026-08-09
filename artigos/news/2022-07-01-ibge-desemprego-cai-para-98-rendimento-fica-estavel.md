@@ -2,7 +2,7 @@
 title: 'IBGE: desemprego cai para 9,8%; rendimento fica estável'
 date: 2022-07-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

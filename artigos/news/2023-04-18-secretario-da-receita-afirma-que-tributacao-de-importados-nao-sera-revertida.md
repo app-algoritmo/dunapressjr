@@ -2,7 +2,7 @@
 title: Secretário da Receita afirma que tributação de importados não será revertida
 date: 2023-04-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

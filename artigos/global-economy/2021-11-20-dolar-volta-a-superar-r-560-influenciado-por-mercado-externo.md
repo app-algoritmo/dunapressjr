@@ -2,7 +2,7 @@
 title: Dólar volta a superar R$ 5,60 influenciado por mercado externo
 date: 2021-11-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

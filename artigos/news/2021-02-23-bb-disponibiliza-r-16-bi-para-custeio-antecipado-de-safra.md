@@ -2,7 +2,7 @@
 title: BB disponibiliza R$ 16 bi para custeio antecipado de safra
 date: 2021-02-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

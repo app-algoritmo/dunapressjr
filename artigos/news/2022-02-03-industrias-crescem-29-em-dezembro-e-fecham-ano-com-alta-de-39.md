@@ -2,7 +2,7 @@
 title: Indústrias crescem 2,9% em dezembro e fecham ano com alta de 3,9%
 date: 2022-02-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

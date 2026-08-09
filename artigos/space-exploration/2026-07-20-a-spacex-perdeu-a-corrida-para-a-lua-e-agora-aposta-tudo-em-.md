@@ -3,7 +3,7 @@ title: "A SpaceX perdeu a corrida para a Lua — e agora aposta tudo em Marte an
 subtitle: "Com a NASA redefinindo parcerias e a China acelerando seu programa lunar, Elon Musk reposicionou a empresa para uma aposta ainda maior: ser a primeira a pousar humanos no planeta vermelho antes do fim da década."
 date: 2026-07-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - space-exploration
 description: "A SpaceX decidiu deixar a disputa lunar em segundo plano e concentrar recursos na missão Starship para Marte até 2029 — uma aposta que redefine os eixos da corrida espacial comercial e pressiona governos a escolherem lados. Enquanto China e Estados Unidos travam uma batalha silenciosa pela hegemonia orbital, empresas privadas passaram a ditar o ritmo e a direção da exploração humana do espaço."

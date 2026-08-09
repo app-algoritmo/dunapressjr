@@ -2,7 +2,7 @@
 title: Ministro da Economia pede que Pacheco paute votação da reforma do IR
 date: 2021-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

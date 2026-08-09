@@ -2,7 +2,7 @@
 title: Divulgadas Informações sobre mutações no SARS-CoV-2 na evolução do patógeno
 date: 2020-05-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

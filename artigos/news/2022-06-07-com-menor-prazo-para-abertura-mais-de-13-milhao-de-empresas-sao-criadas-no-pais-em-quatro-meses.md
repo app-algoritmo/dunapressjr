@@ -3,7 +3,7 @@ title: Com menor prazo para abertura, mais de 1,3 milhão de empresas são criad
   país em quatro meses
 date: 2022-06-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

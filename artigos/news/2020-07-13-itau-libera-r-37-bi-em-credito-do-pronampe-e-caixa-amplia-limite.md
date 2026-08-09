@@ -2,7 +2,7 @@
 title: Itaú libera R$ 3,7 bi em crédito do Pronampe, e Caixa amplia limite
 date: 2020-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

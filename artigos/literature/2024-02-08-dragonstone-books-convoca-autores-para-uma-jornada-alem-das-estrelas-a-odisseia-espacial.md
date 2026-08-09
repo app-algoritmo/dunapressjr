@@ -3,7 +3,7 @@ title: 'DragonStone Books convoca autores para uma jornada além das estrelas: '
   Odisseia Espacial'''
 date: 2024-02-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Literature
 ---

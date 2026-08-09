@@ -2,7 +2,7 @@
 title: 'ABRAS: Consumo nos Lares Brasileiros cresce 1,07% em janeiro'
 date: 2023-02-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

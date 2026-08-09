@@ -2,7 +2,7 @@
 title: 'Urgente: lista de brasileiros cancelados pelos tribunais do Brasil'
 date: 2022-11-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

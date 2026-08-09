@@ -2,7 +2,7 @@
 title: Poupança tem retirada líquida de R$ 19,67 bilhões em janeiro
 date: 2022-02-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

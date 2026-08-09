@@ -3,7 +3,7 @@ title: "O mundo parou de pedir licença ao Ocidente — e o Brasil ainda não de
 subtitle: "Com a ordem multipolar se consolidando em 2026, o Brasil acumula capital diplomático raro, mas segue sem uma doutrina clara para convertê-lo em poder real."
 date: 2026-07-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitics
 description: "A ordem multipolar deixou de ser teoria em 2026: blocos se reorganizam, o dólar perde espaço nas trocas Sul-Sul e o Brasil ocupa uma posição de interlocutor que nenhum outro país do hemisfério tem. O problema é que essa janela tem prazo — e Brasília ainda debate o básico sobre para qual lado virar."

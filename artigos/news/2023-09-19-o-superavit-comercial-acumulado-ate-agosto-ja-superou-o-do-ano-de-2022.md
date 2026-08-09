@@ -2,7 +2,7 @@
 title: O superávit comercial acumulado até agosto já superou o do ano de 2022
 date: 2023-09-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

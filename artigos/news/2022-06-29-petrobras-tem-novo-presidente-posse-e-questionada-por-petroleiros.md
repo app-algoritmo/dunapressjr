@@ -2,7 +2,7 @@
 title: Petrobras tem novo presidente; posse é questionada por petroleiros
 date: 2022-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

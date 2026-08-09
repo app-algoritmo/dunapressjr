@@ -2,7 +2,7 @@
 title: Caldas Aulete, o melhor da língua portuguesa
 date: 2018-08-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 ---

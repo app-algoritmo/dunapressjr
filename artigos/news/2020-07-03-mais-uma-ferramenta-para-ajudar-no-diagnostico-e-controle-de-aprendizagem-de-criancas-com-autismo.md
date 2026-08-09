@@ -3,7 +3,7 @@ title: Mais uma ferramenta para ajudar no diagnóstico e controle de aprendizage
   crianças com autismo
 date: 2020-07-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

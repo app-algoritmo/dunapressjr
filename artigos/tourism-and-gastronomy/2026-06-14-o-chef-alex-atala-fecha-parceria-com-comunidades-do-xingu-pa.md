@@ -3,7 +3,7 @@ title: "O chef Alex Atala fecha parceria com comunidades do Xingu para colocar i
 subtitle: "Enquanto o turismo gastronômico cresce 34% ao ano no Brasil, uma aposta inédita entre alta cozinha e povos indígenas redesenha quem lucra com a floresta em pé."
 date: 2026-06-14
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tourism-and-gastronomy
 description: "Alex Atala firma acordo com comunidades Kayapó do Xingu para integrar ingredientes amazônicos a roteiros turísticos voltados ao mercado internacional, garantindo royalties diretos aos produtores. O movimento chega num momento em que o turismo gastronômico é o segmento que mais cresce no país e pode redefinir o modelo de exploração sustentável da Amazônia."

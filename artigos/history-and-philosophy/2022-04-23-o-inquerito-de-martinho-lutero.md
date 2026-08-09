@@ -2,7 +2,7 @@
 title: O inquérito de Martinho Lutero
 date: 2022-04-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - History and Philosophy
 ---

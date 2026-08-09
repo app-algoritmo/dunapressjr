@@ -3,7 +3,7 @@ title: "A Ilusão da Produtividade: Por Que Fazer Mais Não Significa Crescer Ma
 subtitle: "Em um mundo obcecado por otimização e rendimento, o verdadeiro desenvolvimento pessoal exige uma ruptura com a lógica do acúmulo — e uma reconciliação honesta com o que realmente importa."
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - personal-development
 description: "A cultura da produtividade transformou o desenvolvimento pessoal em mais uma lista de tarefas a cumprir. Este artigo analisa como a obsessão pelo fazer constante pode ser o principal obstáculo ao crescimento genuíno — e propõe uma reavaliação crítica dos pilares que sustentam uma vida com mais sentido e menos ruído."

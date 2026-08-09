@@ -3,7 +3,7 @@ title: Investidos R$ 3,8 milhões no Hospital da Universidade Federal do Triâng
   Mineiro
 date: 2020-05-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

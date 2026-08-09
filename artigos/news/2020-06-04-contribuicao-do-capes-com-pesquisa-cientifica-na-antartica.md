@@ -2,7 +2,7 @@
 title: Contribuição do Capes com pesquisa científica na Antártica
 date: 2020-06-04
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

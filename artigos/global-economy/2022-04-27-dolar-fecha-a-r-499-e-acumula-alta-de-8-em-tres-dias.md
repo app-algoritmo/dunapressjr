@@ -2,7 +2,7 @@
 title: Dólar fecha a R$ 4,99 e acumula alta de 8% em três dias
 date: 2022-04-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

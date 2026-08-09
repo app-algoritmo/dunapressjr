@@ -3,7 +3,7 @@ title: Preços da indústria têm terceiro resultado negativo consecutivo em abr
   2023
 date: 2023-05-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

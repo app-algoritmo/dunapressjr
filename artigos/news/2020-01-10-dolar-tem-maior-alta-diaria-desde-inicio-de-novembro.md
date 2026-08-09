@@ -2,7 +2,7 @@
 title: Dólar tem maior alta diária desde início de novembro
 date: 2020-01-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

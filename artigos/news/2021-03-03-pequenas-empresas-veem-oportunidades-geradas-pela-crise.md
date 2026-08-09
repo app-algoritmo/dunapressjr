@@ -2,7 +2,7 @@
 title: Pequenas empresas veem oportunidades geradas pela crise
 date: 2021-03-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

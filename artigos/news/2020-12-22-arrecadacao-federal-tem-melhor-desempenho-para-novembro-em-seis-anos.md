@@ -2,7 +2,7 @@
 title: Arrecadação federal tem melhor desempenho para novembro em seis anos
 date: 2020-12-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

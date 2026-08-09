@@ -3,7 +3,7 @@ title: Ibovespa fecha em queda de 0,37% enquanto investidores aguardam decisões
   Copom e Fomc
 date: 2023-09-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

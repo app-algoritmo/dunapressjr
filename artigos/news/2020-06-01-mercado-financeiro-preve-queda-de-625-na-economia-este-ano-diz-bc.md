@@ -2,7 +2,7 @@
 title: Mercado financeiro prevê queda de 6,25% na economia este ano, diz BC
 date: 2020-06-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

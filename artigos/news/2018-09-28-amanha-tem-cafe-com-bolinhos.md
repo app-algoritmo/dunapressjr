@@ -2,7 +2,7 @@
 title: Amanhã tem Café com Bolinhos!
 date: 2018-09-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

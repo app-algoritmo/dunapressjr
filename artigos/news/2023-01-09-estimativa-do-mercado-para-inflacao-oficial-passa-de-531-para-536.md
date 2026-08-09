@@ -2,7 +2,7 @@
 title: Estimativa do mercado para inflação oficial passa de 5,31% para 5,36%
 date: 2023-01-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

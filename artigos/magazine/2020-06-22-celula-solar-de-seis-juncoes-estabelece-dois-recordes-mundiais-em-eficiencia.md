@@ -2,7 +2,7 @@
 title: Célula solar de seis junções estabelece dois recordes mundiais em eficiência
 date: 2020-06-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

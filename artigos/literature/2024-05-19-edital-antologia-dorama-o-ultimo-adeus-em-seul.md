@@ -2,7 +2,7 @@
 title: 'Edital - Antologia Dorama: O último adeus em Seul'
 date: 2024-05-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Literature
 ---

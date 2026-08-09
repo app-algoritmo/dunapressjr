@@ -2,7 +2,7 @@
 title: A importância da leitura com a criança - MEC fomenta a alfabetização
 date: 2020-05-14
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

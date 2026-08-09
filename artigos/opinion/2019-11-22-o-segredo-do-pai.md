@@ -2,7 +2,7 @@
 title: O segredo do Pai
 date: 2019-11-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

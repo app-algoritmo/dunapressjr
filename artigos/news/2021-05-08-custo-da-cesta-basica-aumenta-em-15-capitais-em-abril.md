@@ -2,7 +2,7 @@
 title: Custo da cesta básica aumenta em 15 capitais em abril
 date: 2021-05-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

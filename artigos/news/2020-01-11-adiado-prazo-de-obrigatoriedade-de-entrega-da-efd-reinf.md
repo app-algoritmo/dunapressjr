@@ -2,7 +2,7 @@
 title: Adiado prazo de obrigatoriedade de entrega da EFD-Reinf
 date: 2020-01-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

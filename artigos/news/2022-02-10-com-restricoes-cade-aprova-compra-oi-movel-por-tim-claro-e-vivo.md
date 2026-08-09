@@ -2,7 +2,7 @@
 title: Com restrições, Cade aprova compra Oi Móvel por Tim, Claro e Vivo
 date: 2022-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

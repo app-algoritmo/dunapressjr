@@ -2,7 +2,7 @@
 title: Inflação medida pelo INPC avança para 0,77% em fevereiro
 date: 2023-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

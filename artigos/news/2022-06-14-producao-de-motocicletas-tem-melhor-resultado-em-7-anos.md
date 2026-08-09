@@ -2,7 +2,7 @@
 title: Produção de motocicletas tem melhor resultado em 7 anos
 date: 2022-06-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

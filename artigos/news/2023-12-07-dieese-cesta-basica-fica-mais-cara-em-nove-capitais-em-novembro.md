@@ -2,7 +2,7 @@
 title: 'Dieese: cesta básica fica mais cara em nove capitais em novembro'
 date: 2023-12-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

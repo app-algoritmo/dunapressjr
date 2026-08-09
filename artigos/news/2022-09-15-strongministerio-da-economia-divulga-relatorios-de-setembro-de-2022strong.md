@@ -2,7 +2,7 @@
 title: <strong>Ministério da Economia divulga relatórios de setembro de 2022</strong>
 date: 2022-09-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

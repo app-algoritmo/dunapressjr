@@ -2,7 +2,7 @@
 title: 'FGV: IGP-DI varia 0,06% em janeiro de 2023'
 date: 2023-02-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

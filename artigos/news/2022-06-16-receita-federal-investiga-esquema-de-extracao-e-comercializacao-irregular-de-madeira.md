@@ -3,7 +3,7 @@ title: Receita Federal investiga esquema de extração e comercialização irreg
   madeira
 date: 2022-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Nascidos em junho podem sacar 4ª parcela do auxílio emergencial
 date: 2021-08-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

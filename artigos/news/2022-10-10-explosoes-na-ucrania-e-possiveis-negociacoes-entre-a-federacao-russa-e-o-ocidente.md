@@ -2,7 +2,7 @@
 title: Explosões na Ucrânia e possíveis negociações entre a Federação Russa e o Ocidente
 date: 2022-10-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

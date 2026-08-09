@@ -2,7 +2,7 @@
 title: Governo anuncia ferramenta para quem teve auxílio emergencial negado
 date: 2020-06-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

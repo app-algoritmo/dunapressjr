@@ -2,7 +2,7 @@
 title: A dopamina nos fisgou com tecnologia?
 date: 2021-01-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

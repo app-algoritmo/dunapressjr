@@ -2,7 +2,7 @@
 title: Dólar registra leve alta após decisão do Copom e contexto incerto
 date: 2023-06-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

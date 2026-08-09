@@ -2,7 +2,7 @@
 title: Decreto prevê licitações para concessão de transmissão de energia
 date: 2022-12-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

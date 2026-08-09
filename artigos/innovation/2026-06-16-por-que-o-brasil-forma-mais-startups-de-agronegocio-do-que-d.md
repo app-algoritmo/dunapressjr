@@ -3,7 +3,7 @@ title: "Por que o Brasil forma mais startups de agronegócio do que de fintechs 
 subtitle: "Uma virada silenciosa no ecossistema brasileiro de inovação reposiciona o agro como o novo epicentro de capital de risco, dados e disrupção tecnológica no país."
 date: 2026-06-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - innovation
 description: "O Brasil registrou em 2025 mais rodadas de investimento em agtechs do que em fintechs pela primeira vez em uma década, segundo levantamento da ABStartups — um sinal de que o capital inteligente está seguindo a cadeia produtiva mais competitiva do país, e não mais o hype urbano. Entender essa migração é entender onde a próxima geração de grandes empresas brasileiras vai nascer."

@@ -2,7 +2,7 @@
 title: Justiça Eleitoral recebeu 28 mil registros de candidatura às eleições
 date: 2022-08-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

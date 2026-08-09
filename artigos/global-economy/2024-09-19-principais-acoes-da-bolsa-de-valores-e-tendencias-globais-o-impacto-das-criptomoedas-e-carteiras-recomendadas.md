@@ -3,7 +3,7 @@ title: 'Principais Ações da Bolsa de Valores e Tendências Globais: O Impacto 
   e Carteiras Recomendadas'
 date: 2024-09-19
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Global Economy
 ---

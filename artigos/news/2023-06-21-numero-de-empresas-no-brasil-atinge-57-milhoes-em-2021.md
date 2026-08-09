@@ -2,7 +2,7 @@
 title: Número de empresas no Brasil atinge 5,7 milhões em 2021
 date: 2023-06-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "Parecer ocupado ficou mais fácil do que ser produtivo — e a ciência 
 subtitle: "Pesquisas recentes sobre comportamento cognitivo revelam que o cérebro moderno aprendeu a confundir movimento com progresso, criando uma geração de profissionais exaustos e pouco realizados."
 date: 2026-06-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - personal-development
 description: "Um estudo da Universidade de Columbia publicado em abril de 2026 identificou que 71% dos trabalhadores de alta performance relatam sensação de improdutividade crônica apesar de agendas lotadas. Entender a diferença entre atividade e avanço real pode ser o divisor de carreiras nesta década."

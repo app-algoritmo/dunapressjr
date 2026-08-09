@@ -2,7 +2,7 @@
 title: "A Reconfiguração do Tabuleiro Global: Potências Emergentes e o Fim da Ordem Unipolar"
 date: 2026-05-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitics
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778600127/A_Reconfigurac%CC%A7a%CC%83o_do_Tabuleiro_Global-_Pote%CC%82ncias_Emergentes_e_o_Fim_da_Ordem_Unipolar_buxs22.jpg"

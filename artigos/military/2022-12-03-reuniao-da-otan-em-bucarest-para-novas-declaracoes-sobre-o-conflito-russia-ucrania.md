@@ -2,7 +2,7 @@
 title: Reunião da OTAN em Bucarest para novas declarações sobre o conflito Rússia-Ucrânia
 date: 2022-12-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 - Policy

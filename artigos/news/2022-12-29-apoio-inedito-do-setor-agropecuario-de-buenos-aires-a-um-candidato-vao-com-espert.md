@@ -3,7 +3,7 @@ title: 'Apoio inédito do setor agropecuário de Buenos Aires a um candidato: v�
   Espert'
 date: 2022-12-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

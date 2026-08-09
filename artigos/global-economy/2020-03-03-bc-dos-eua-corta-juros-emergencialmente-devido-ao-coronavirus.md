@@ -2,7 +2,7 @@
 title: BC dos EUA corta juros emergencialmente devido ao coronavírus
 date: 2020-03-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

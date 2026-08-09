@@ -2,7 +2,7 @@
 title: O ÚLTIMO ATO DE MEDEIA
 date: 2021-04-05
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

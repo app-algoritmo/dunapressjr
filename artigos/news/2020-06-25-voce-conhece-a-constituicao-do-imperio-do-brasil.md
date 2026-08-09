@@ -2,7 +2,7 @@
 title: Você conhece a constituição do Império do Brasil?
 date: 2020-06-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

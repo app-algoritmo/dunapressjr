@@ -2,7 +2,7 @@
 title: O fim das faculdades de filosofia? por Professora Paula Marisa
 date: 2019-05-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

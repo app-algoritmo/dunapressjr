@@ -3,7 +3,7 @@ title: 'OPERAÇÃO “TRIUNO”: Receita Federal e Polícia Federal deflagram ma
   (8ª, 9ª e 10ª) da Operação Descarte'
 date: 2020-10-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

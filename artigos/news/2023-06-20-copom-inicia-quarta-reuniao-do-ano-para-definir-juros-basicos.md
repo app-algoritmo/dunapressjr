@@ -2,7 +2,7 @@
 title: Copom inicia quarta reunião do ano para definir juros básicos
 date: 2023-06-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

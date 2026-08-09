@@ -3,7 +3,7 @@ title: Mais de R$ 25,2 bilhões esquecidos por trabalhadores e herdeiros retorna
   ao Tesouro Nacional
 date: 2023-06-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

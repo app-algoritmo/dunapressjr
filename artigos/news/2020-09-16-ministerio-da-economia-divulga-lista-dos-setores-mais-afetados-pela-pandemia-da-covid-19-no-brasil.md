@@ -3,7 +3,7 @@ title: Ministério da Economia divulga lista dos setores mais afetados pela pand
   da Covid-19 no Brasil
 date: 2020-09-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

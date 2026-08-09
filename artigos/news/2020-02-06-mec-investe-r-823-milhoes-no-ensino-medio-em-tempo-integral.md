@@ -2,7 +2,7 @@
 title: MEC investe R$ 82,3 milhões no ensino médio em tempo integral
 date: 2020-02-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

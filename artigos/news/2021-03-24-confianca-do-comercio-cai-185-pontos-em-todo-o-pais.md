@@ -2,7 +2,7 @@
 title: Confiança do comércio cai 18,5 pontos em todo o país
 date: 2021-03-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

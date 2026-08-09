@@ -2,7 +2,7 @@
 title: Dia mundial da alimentação - Todos podem e devem ajudar a erradicar a fome
 date: 2018-10-16
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Health
 ---

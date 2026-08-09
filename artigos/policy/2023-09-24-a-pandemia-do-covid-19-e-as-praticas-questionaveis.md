@@ -2,7 +2,7 @@
 title: A Pandemia do COVID-19 e as Práticas Questionáveis
 date: 2023-09-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

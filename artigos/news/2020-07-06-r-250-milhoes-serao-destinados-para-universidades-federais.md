@@ -2,7 +2,7 @@
 title: R$ 250 milhões serão destinados para universidades federais
 date: 2020-07-06
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

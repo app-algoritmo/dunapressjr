@@ -2,7 +2,7 @@
 title: Bolsonaro defende cobrança de ICMS nas refinarias
 date: 2020-01-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

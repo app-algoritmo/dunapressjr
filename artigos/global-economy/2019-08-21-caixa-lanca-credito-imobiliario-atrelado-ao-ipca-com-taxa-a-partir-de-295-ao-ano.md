@@ -3,7 +3,7 @@ title: Caixa lança crédito imobiliário atrelado ao IPCA com taxa a partir de 
   ao ano
 date: 2019-08-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

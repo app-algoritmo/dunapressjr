@@ -2,7 +2,7 @@
 title: Receita alerta para retorno de obrigações adiadas na pandemia
 date: 2020-07-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ministro diz preferir não ter reforma tributária se sistema piorar
 date: 2021-08-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

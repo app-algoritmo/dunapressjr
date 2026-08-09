@@ -2,7 +2,7 @@
 title: Tecnologia 5G estreia no Brasil nesta quarta-feira
 date: 2022-07-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

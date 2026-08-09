@@ -1,8 +1,8 @@
 ---
-title: Manifesto Monárquico de  Itu – 2019 “Amplior et liberior per me Brasilia”
+title: Manifesto Monárquico de Itu – 2019 “Amplior et liberior per me Brasilia”
 date: 2019-11-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

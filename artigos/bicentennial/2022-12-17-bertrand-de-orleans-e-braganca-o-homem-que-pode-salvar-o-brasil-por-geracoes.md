@@ -2,7 +2,7 @@
 title: Bertrand de Orléans e Bragança, o homem que pode salvar o Brasil por gerações
 date: 2022-12-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Bicentennial
 - Policy

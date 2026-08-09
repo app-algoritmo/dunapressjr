@@ -2,7 +2,7 @@
 title: CMN aprova novo reajuste no teto de financiamento para cooperativas do Pronaf
 date: 2023-04-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

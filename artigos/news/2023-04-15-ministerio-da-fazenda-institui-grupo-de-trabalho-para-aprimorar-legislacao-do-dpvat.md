@@ -3,7 +3,7 @@ title: Ministério da Fazenda institui Grupo de Trabalho para aprimorar legisla�
   do DPVAT
 date: 2023-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

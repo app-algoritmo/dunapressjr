@@ -2,7 +2,7 @@
 title: BC aumenta projeção de crescimento do PIB de 2% para 2,9%
 date: 2023-09-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

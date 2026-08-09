@@ -2,7 +2,7 @@
 title: Noruega toma iniciativa para novo fundo de coronavírus na ONU
 date: 2020-04-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

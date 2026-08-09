@@ -2,7 +2,7 @@
 title: Entenda as novidades na declaração do Imposto de Renda 2023
 date: 2023-03-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

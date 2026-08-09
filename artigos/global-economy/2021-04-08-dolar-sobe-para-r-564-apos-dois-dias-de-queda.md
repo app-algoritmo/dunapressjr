@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,64 após dois dias de queda
 date: 2021-04-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

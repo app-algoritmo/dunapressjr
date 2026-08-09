@@ -2,7 +2,7 @@
 title: A era da robótica vs Renda Universal e o fim das aposentadorias
 date: 2024-07-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

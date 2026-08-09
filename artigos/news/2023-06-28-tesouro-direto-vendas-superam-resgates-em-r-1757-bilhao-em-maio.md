@@ -2,7 +2,7 @@
 title: 'Tesouro Direto: Vendas superam resgates em R$ 1,757 bilhão em maio'
 date: 2023-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

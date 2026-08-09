@@ -2,7 +2,7 @@
 title: Copom reduz juros básicos para 5% ao ano, o menor nível da história
 date: 2019-10-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

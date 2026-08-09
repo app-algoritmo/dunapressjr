@@ -2,7 +2,7 @@
 title: 'Brasil: O Pária - Uma Análise da Reportagem de Capa da Revista Oeste'
 date: 2024-02-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

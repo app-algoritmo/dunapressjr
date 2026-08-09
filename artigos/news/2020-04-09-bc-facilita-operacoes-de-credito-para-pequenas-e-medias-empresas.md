@@ -2,7 +2,7 @@
 title: BC facilita operações de crédito para pequenas e médias empresas
 date: 2020-04-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

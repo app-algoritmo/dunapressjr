@@ -2,7 +2,7 @@
 title: Quase 4 milhões de novos negócios foram abertos em 2021
 date: 2022-02-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

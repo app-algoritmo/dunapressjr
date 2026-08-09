@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,17, mas fecha julho em baixa de 1,16%
 date: 2022-07-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

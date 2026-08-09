@@ -1,9 +1,9 @@
 ---
-title: Allan dos Santos,  jornalista perseguido por juízes do mecanismo, tem prisão,
+title: Allan dos Santos, jornalista perseguido por juízes do mecanismo, tem prisão,
   captura e pedido de extradição decretados
 date: 2021-10-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

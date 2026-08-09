@@ -2,7 +2,7 @@
 title: Volume de serviços cresce 0,2% de março para abril, diz IBGE
 date: 2022-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "Simone Weil previu em 1943 o trabalhador que não sabe por que trabalha 
 subtitle: "A filósofa francesa que morreu aos 34 anos deixou um diagnóstico sobre o esvaziamento do trabalho que a era da hiperconectividade transformou em profecia cotidiana."
 date: 2026-06-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - philosophy
 description: "Em 1943, Simone Weil escreveu que o trabalho destituído de sentido fabrica almas fragmentadas — não corpos exaustos. Oitenta e três anos depois, pesquisas globais sobre 'quiet quitting' e burnout sugerem que ela estava descrevendo exatamente o escritório aberto de 2026."

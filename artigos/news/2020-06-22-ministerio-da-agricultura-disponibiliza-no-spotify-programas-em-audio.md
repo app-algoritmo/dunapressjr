@@ -2,7 +2,7 @@
 title: Ministério da Agricultura disponibiliza no Spotify programas em áudio
 date: 2020-06-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

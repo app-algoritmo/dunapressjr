@@ -2,7 +2,7 @@
 title: 'Campos Neto: metas de inflação estão em linha com as de outros países'
 date: 2023-04-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

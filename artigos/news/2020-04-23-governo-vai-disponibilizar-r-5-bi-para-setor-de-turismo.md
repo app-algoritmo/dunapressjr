@@ -2,7 +2,7 @@
 title: Governo vai disponibilizar R$ 5 bi para setor de turismo
 date: 2020-04-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

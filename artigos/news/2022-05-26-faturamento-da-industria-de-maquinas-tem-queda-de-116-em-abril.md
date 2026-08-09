@@ -2,7 +2,7 @@
 title: Faturamento da indústria de máquinas tem queda de 11,6% em abril
 date: 2022-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

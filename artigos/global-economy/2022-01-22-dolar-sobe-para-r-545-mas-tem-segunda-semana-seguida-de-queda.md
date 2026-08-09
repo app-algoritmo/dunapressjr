@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,45, mas tem segunda semana seguida de queda
 date: 2022-01-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

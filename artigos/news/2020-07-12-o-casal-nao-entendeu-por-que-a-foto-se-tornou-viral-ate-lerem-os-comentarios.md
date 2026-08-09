@@ -2,7 +2,7 @@
 title: O casal não entendeu por que a foto se tornou viral até lerem os comentários
 date: 2020-07-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Guerra Híbrida – Novas Ameaças, Complexidade e 'Confiança' como Antídoto
 date: 2022-11-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

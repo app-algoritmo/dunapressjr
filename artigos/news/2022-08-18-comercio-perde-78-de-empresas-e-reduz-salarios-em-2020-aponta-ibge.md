@@ -2,7 +2,7 @@
 title: Comércio perde 7,8% de empresas e reduz salários em 2020, aponta IBGE
 date: 2022-08-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

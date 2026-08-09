@@ -2,7 +2,7 @@
 title: Senado aprova regras que podem dispensar perícia médica do INSS
 date: 2022-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

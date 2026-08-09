@@ -2,7 +2,7 @@
 title: EUA e China redefinem relação comercial com 'Fase 1' de acordo
 date: 2020-01-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

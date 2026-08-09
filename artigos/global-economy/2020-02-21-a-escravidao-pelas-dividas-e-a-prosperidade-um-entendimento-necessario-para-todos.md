@@ -3,7 +3,7 @@ title: A Escravidão pelas Dívidas e a Prosperidade – Um entendimento necess�
   todos
 date: 2020-02-21
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Debêntures incentivadas captam R$ 1,5 bilhão em setembro
 date: 2021-11-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

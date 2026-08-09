@@ -2,7 +2,7 @@
 title: Brexit é tema de reunião entre líderes da França e Alemanha
 date: 2019-10-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

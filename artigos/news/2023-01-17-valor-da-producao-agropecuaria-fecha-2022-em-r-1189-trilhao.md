@@ -2,7 +2,7 @@
 title: Valor da Produção Agropecuária fecha 2022 em R$ 1,189 trilhão
 date: 2023-01-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

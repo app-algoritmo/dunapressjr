@@ -1,5 +1,5 @@
 ---
-title: Pesquisadores da Universidade de Tel Aviv  descobriram o primeiro animal vivo
+title: Pesquisadores da Universidade de Tel Aviv descobriram o primeiro animal vivo
   sem oxigênio
 date: 2020-02-27
 status: publish

@@ -3,7 +3,7 @@ title: Operação Sangradouro desmantela esquema de fraudes previdenciárias em 
   ilegais de indígenas
 date: 2023-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

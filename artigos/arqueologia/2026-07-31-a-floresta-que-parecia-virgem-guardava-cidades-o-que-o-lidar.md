@@ -3,7 +3,7 @@ title: "A floresta que parecia virgem guardava cidades: o que o LiDAR está reve
 subtitle: "Novas varreduras a laser sobre o Mato Grosso e o Acre estão derrubando a ideia de que a Amazônia era um vazio humano antes de 1500 — e colocando em xeque projetos de infraestrutura aprovados sobre sítios ainda não escavados."
 date: 2026-07-31
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - arqueologia
 description: "Tecnologia de varredura a laser identificou mais de 24 sítios arqueológicos inéditos em áreas da Amazônia brasileira consideradas intocadas, incluindo estruturas que sugerem populações de até 50 mil pessoas vivendo em rede urbana antes da chegada europeia. A descoberta ocorre no momento em que licenças para obras de rodovias e ramais elétricos avançam sobre as mesmas coordenadas, tornando urgente um debate que o Brasil ainda não teve."

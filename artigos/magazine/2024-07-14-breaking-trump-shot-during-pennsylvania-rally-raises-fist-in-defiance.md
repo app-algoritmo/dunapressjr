@@ -2,7 +2,7 @@
 title: 'BREAKING: Trump Shot During Pennsylvania Rally - Raises Fist in Defiance'
 date: 2024-07-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

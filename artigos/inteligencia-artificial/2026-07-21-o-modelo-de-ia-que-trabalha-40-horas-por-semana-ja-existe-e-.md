@@ -3,7 +3,7 @@ title: "O modelo de IA que trabalha 40 horas por semana já existe — e nenhuma
 subtitle: "Agentes autônomos de IA operam tarefas complexas sem supervisão humana contínua, e o vácuo regulatório global expõe empresas, trabalhadores e governos a uma corrida cujas regras ainda não foram escritas."
 date: 2026-07-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - inteligencia-artificial
 description: "Agentes de IA capazes de executar fluxos de trabalho inteiros — sem aprovação humana a cada passo — já estão sendo implantados por empresas no Brasil e no mundo. O problema: nenhuma das grandes estruturas regulatórias em vigor, nem o AI Act europeu nem o Executive Order americano, foi desenhada para lidar com sistemas que tomam decisões encadeadas de forma autônoma."

@@ -3,7 +3,7 @@ title: Comitê técnico do TCE-PB mostra que despesas do Estado no combate à co
   chegam a R$ 121,6 milhões
 date: 2020-07-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

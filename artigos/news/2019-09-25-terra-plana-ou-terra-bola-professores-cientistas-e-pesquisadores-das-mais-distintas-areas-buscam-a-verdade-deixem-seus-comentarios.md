@@ -3,7 +3,7 @@ title: Terra Plana ou Terra Bola?, professores, cientistas e pesquisadores das m
   distintas áreas buscam a verdade, deixem seus comentários!
 date: 2019-09-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Ibovespa encerra em queda pelo segundo dia seguido, com destaque para Val
   e Petrobras
 date: 2023-05-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

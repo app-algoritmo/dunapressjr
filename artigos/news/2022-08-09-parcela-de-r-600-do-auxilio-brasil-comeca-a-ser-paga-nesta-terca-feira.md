@@ -2,7 +2,7 @@
 title: Parcela de R$ 600 do Auxílio Brasil começa a ser paga nesta terça-feira
 date: 2022-08-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

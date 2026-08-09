@@ -3,7 +3,7 @@ title: Mais 207 cursos técnicos em instituições privadas de ensino superior a
   pelo MEC
 date: 2020-06-23
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

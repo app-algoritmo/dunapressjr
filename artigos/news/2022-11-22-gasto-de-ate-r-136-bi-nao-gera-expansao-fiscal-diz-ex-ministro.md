@@ -2,7 +2,7 @@
 title: Gasto de até R$ 136 bi não gera expansão fiscal, diz ex-ministro
 date: 2022-11-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

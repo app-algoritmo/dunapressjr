@@ -2,7 +2,7 @@
 title: Governo Federal oficializa valor no salário
 date: 2023-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

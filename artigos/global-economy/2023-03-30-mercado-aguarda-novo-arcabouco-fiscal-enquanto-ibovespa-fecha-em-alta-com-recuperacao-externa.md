@@ -3,7 +3,7 @@ title: Mercado aguarda novo arcabouço fiscal enquanto Ibovespa fecha em alta co
   externa
 date: 2023-03-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

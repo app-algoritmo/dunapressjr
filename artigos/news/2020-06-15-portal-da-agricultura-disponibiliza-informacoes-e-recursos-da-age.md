@@ -2,7 +2,7 @@
 title: Portal da Agricultura disponibiliza informações e recursos da AGE
 date: 2020-06-15
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

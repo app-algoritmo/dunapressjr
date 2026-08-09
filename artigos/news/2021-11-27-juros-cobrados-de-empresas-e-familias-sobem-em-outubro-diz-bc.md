@@ -2,7 +2,7 @@
 title: Juros cobrados de empresas e famílias sobem em outubro, diz BC
 date: 2021-11-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

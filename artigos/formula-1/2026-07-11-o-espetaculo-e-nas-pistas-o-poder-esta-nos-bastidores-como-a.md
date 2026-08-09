@@ -3,7 +3,7 @@ title: "O espetáculo é nas pistas, o poder está nos bastidores: como a F1 vir
 subtitle: "Enquanto pilotos disputam décimos de segundo, governos, fundos soberanos e montadoras reescrevem as regras do automobilismo global — e o Brasil ocupa um lugar estratégico nesse jogo."
 date: 2026-07-11
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - formula-1
 description: "A Fórmula 1 movimenta US$ 13 bilhões por ano e atrai fundos soberanos do Golfo, montadoras europeias em crise e governos dispostos a pagar caro por um calendário cada vez mais disputado. Entender quem controla a F1 hoje é entender onde o dinheiro, a tecnologia e a influência global se cruzam nos próximos dez anos."

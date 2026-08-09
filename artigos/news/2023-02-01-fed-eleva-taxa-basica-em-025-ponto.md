@@ -2,7 +2,7 @@
 title: Fed eleva taxa básica em 0,25 ponto
 date: 2023-02-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

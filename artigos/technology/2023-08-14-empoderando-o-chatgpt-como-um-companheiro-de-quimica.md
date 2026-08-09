@@ -2,7 +2,7 @@
 title: Empoderando o ChatGPT como um 'Companheiro de Química'
 date: 2023-08-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

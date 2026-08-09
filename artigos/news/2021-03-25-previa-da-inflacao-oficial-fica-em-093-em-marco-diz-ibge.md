@@ -2,7 +2,7 @@
 title: Prévia da inflação oficial fica em 0,93% em março, diz IBGE
 date: 2021-03-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

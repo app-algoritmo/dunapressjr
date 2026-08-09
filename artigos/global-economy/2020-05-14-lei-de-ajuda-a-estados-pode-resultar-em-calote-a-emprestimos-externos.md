@@ -2,7 +2,7 @@
 title: Lei de ajuda a estados pode resultar em calote a empréstimos externos
 date: 2020-05-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

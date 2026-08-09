@@ -2,7 +2,7 @@
 title: Reforma tributária é uma necessidade urgente, concordam debatedores
 date: 2019-08-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

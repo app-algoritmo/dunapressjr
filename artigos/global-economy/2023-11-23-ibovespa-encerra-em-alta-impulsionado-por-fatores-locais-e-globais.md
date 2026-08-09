@@ -2,7 +2,7 @@
 title: Ibovespa encerra em alta impulsionado por fatores locais e globais
 date: 2023-11-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

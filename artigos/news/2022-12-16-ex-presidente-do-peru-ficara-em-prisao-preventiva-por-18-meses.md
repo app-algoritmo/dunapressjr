@@ -2,7 +2,7 @@
 title: Ex-Presidente do Peru ficará em prisão preventiva por 18 meses
 date: 2022-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

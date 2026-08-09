@@ -2,7 +2,7 @@
 title: Recuperação do Índice Nikkei Após Colapso Histórico
 date: 2024-08-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

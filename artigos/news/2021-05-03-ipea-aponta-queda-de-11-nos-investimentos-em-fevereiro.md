@@ -2,7 +2,7 @@
 title: Ipea aponta queda de 1,1% nos investimentos em fevereiro
 date: 2021-05-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

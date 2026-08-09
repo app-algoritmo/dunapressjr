@@ -3,7 +3,7 @@ title: Situação atual dos hospitais universitários federais – Uma parceria 
   e Ministérios para enfrentamento da epidemia
 date: 2020-05-18
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

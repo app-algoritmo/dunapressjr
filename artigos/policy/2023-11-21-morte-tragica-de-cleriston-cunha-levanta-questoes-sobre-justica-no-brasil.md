@@ -2,7 +2,7 @@
 title: Morte trágica de Cleriston Cunha levanta questões sobre justiça no Brasil
 date: 2023-11-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Orçamento 2021 é sancionado; Educação, Economia e Defesa têm maiores cortes
 date: 2021-04-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

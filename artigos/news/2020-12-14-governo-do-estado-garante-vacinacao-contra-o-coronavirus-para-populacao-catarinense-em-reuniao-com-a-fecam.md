@@ -1,5 +1,5 @@
 ---
-title: Governo do Estado  garante vacinação contra o coronavírus para população catarinense
+title: Governo do Estado garante vacinação contra o coronavírus para população catarinense
   em reunião com a Fecam
 date: 2020-12-14
 status: publish

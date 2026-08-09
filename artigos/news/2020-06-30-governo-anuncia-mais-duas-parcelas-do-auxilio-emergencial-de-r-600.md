@@ -2,7 +2,7 @@
 title: Governo anuncia mais duas parcelas do auxílio emergencial de R$ 600
 date: 2020-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

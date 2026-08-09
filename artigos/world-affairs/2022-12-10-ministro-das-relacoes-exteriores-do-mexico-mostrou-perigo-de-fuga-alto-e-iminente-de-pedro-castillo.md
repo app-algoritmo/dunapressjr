@@ -3,7 +3,7 @@ title: Ministro das Relações Exteriores do México mostrou perigo de fuga 'alt
   de Pedro Castillo
 date: 2022-12-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

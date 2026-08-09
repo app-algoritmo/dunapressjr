@@ -3,7 +3,7 @@ title: Prazos para comunicados de sinistros e agendamento de vistorias no Progra
   de Seguro Rural definidos pelo Mapa
 date: 2020-07-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

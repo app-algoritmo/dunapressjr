@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,42 com pessimismo no exterior
 date: 2022-07-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

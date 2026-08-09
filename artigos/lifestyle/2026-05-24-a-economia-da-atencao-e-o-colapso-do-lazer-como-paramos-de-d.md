@@ -3,7 +3,7 @@ title: "A Economia da Atenção e o Colapso do Lazer: Como Paramos de Descansar 
 subtitle: "Em um mundo onde cada momento livre virou oportunidade de consumo ou produção de conteúdo, a capacidade humana de simplesmente existir sem propósito está se tornando um privilégio raro — e uma forma silenciosa de resistência"
 date: 2026-05-24
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - lifestyle
 description: "A cultura contemporânea transformou o lazer em mais uma categoria de desempenho. Este artigo analisa como a economia da atenção colonizou o tempo livre, o que isso significa para a saúde mental coletiva e por que recuperar o ócio genuíno pode ser o ato político mais subversivo do nosso tempo."

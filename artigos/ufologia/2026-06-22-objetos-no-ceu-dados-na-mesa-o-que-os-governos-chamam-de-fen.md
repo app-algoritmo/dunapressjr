@@ -3,7 +3,7 @@ title: "Objetos no céu, dados na mesa: o que os governos chamam de 'fenômeno' 
 subtitle: "Após três anos de audiências no Congresso americano e a criação de um escritório permanente de monitoramento pelo Pentágono, o debate sobre fenômenos aéreos não identificados saiu das margens da cultura pop e entrou nos orçamentos militares e nas revistas científicas revisadas por pares."
 date: 2026-06-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - ufologia
 description: "O Pentágono registrou oficialmente mais de 800 casos de fenômenos aéreos não identificados entre 2021 e 2025, e pela primeira vez pesquisadores de universidades como Stanford e Harvard publicaram estudos sobre o tema em periódicos indexados. O debate saiu do nicho e virou questão de segurança nacional, política científica e, no Brasil, de transparência institucional."

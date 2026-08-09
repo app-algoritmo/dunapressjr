@@ -2,7 +2,7 @@
 title: 'Brasil da Monarquia para a República: Revolução ou Golpe de Estado?'
 date: 2023-11-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 - Policy

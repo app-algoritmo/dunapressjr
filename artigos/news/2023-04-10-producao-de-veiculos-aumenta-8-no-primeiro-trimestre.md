@@ -2,7 +2,7 @@
 title: Produção de veículos aumenta 8% no primeiro trimestre
 date: 2023-04-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

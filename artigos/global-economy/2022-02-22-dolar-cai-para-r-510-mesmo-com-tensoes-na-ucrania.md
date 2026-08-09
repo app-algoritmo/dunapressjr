@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,10, mesmo com tensões na Ucrânia
 date: 2022-02-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

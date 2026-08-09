@@ -2,7 +2,7 @@
 title: Ciência e Tecnologia e Educação lideram bloqueio orçamentário
 date: 2022-06-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

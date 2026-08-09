@@ -3,7 +3,7 @@ title: Comitê Gestor aprova prorrogação de prazos dos parcelamentos com venci
   em maio, junho e julho
 date: 2020-05-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

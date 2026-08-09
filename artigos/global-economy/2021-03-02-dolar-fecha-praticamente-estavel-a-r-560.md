@@ -2,7 +2,7 @@
 title: Dólar fecha praticamente estável a R$ 5,60
 date: 2021-03-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

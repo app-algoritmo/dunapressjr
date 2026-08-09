@@ -2,7 +2,7 @@
 title: Mercado Financeiro enfrenta turbulência com alta do dólar
 date: 2023-07-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

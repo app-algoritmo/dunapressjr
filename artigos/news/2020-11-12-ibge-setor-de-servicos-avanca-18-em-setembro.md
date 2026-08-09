@@ -2,7 +2,7 @@
 title: 'IBGE: setor de serviços avança 1,8% em setembro'
 date: 2020-11-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

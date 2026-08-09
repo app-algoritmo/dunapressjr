@@ -2,7 +2,7 @@
 title: Senado conclui votação da reforma da Previdência
 date: 2019-10-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Reação da política internacional ao atentado contra Trump
 date: 2024-07-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - World Affairs

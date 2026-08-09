@@ -3,7 +3,7 @@ title: "A fazendeira de 34 anos que ensina algoritmos a farejar seca no Cerrado"
 subtitle: "Bruna Lacerda transformou sua propriedade em Unaí (MG) num laboratório de IA agrícola — e o modelo já interessa a cooperativas que respondem por 12% da soja brasileira."
 date: 2026-06-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - agriculture
 description: "Uma produtora rural do noroeste mineiro desenvolveu um sistema de monitoramento hídrico com IA que reduziu em 31% o uso de água na irrigação sem queda de produtividade. O modelo, testado em 480 hectares, entra agora em fase de licenciamento pela Embrapa e pode redefinir como o Brasil usa seus aquíferos no campo."

@@ -3,7 +3,7 @@ title: "Parece especulação, mas é infraestrutura: como o blockchain silencios
 subtitle: "Enquanto o debate público ainda orbita volatilidade de preços, bancos centrais, tesourarias corporativas e governos já constroem sobre trilhos cripto — e o Brasil está no meio dessa virada."
 date: 2026-06-24
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - criptomoedas
 description: "A narrativa de que criptomoedas são apenas ativo especulativo perdeu sustentação empírica em 2026: stablecoins já movimentam mais de US$ 27 trilhões anuais em liquidações, superando redes de cartão de crédito tradicionais. O Brasil, com o Drex em fase piloto avançada e nova regulação da CVM em vigor desde março, está posicionado para ser protagonista — ou para perder a janela."

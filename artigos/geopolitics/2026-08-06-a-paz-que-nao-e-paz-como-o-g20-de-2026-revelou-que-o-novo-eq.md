@@ -3,7 +3,7 @@ title: "A paz que não é paz: como o G20 de 2026 revelou que o novo equilíbrio
 subtitle: "Enquanto diplomatas debatem regras para um mundo multipolar, empresas, rotas e moedas já reescreveram o mapa do poder sem pedir permissão"
 date: 2026-08-06
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitics
 description: "A cúpula do G20 de julho de 2026 expôs uma contradição central da ordem global: os Estados ainda negociam como se houvesse um centro de poder, enquanto o mundo real já opera em múltiplos eixos simultâneos. Para o Brasil, que preside o bloco até dezembro, essa janela é rara — e tem prazo de validade."

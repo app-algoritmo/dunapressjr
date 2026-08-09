@@ -2,7 +2,7 @@
 title: As pessoas preferem interagir com robôs femininos
 date: 2023-03-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

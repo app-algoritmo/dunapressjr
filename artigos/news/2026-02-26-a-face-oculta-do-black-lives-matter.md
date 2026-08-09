@@ -2,7 +2,7 @@
 title: A face oculta do Black Lives Matter
 date: 2026-02-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ministro diz que mercado digital é importante para modernizar Mercosul
 date: 2021-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

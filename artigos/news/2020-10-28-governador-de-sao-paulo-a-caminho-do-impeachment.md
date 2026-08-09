@@ -2,7 +2,7 @@
 title: Governador de São Paulo a caminho do impeachment
 date: 2020-10-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

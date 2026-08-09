@@ -2,7 +2,7 @@
 title: "O Empreendedor de 2026: Navegar a Incerteza Virou o Principal Ativo de Mercado"
 date: 2026-05-13
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - entrepreneurship
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778712217/O_Empreendedor_de_2026-_Navegar_a_Incerteza_Virou_o_Principal_Ativo_de_Mercado_n9chai.jpg"

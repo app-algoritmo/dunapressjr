@@ -2,7 +2,7 @@
 title: <strong>Indicador Antecedente de Emprego sobe 1,5 ponto</strong>
 date: 2022-10-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

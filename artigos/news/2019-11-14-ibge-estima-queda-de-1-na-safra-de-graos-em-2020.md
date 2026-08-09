@@ -2,7 +2,7 @@
 title: IBGE estima queda de 1% na safra de grãos em 2020
 date: 2019-11-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

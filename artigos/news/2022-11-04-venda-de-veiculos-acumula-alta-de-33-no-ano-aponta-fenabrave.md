@@ -2,7 +2,7 @@
 title: Venda de veículos acumula alta de 3,3% no ano, aponta Fenabrave
 date: 2022-11-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

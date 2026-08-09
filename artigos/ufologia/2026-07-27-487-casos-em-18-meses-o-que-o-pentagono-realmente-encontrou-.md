@@ -3,7 +3,7 @@ title: "487 casos em 18 meses: o que o Pentágono realmente encontrou — e o qu
 subtitle: "O mais recente relatório do AARO, publicado em junho de 2026, dobrou o número de fenômenos aéreos não identificados catalogados desde 2021, mas abre mais perguntas do que fecha respostas — e o debate científico começa a sair das margens."
 date: 2026-07-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - ufologia
 description: "O escritório americano responsável por investigar fenômenos aéreos não identificados divulgou em junho de 2026 seu maior banco de dados público até hoje — 487 casos com dados de sensores múltiplos. O que estava restrito a audiências fechadas do Congresso agora alimenta um debate científico que o Brasil, com seu próprio histórico de registros militares, não pode mais ignorar."

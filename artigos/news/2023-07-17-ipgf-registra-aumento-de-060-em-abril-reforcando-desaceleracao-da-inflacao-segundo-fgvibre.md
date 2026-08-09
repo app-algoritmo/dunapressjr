@@ -3,7 +3,7 @@ title: IPGF registra aumento de 0,60% em abril, reforçando desaceleração da i
   segundo FGV/Ibre
 date: 2023-07-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

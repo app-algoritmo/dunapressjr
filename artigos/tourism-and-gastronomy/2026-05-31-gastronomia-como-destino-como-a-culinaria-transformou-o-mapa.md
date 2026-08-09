@@ -3,7 +3,7 @@ title: "Gastronomia como Destino: Como a Culinária Transformou o Mapa do Turism
 subtitle: "Da mesa ao roteiro, o turismo gastronômico cresce a taxas superiores ao setor tradicional e redesenha estratégias de destinos que antes apostavam apenas em praias e monumentos"
 date: 2026-05-31
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tourism-and-gastronomy
 description: "O turismo gastronômico deixou de ser nicho para se tornar um dos vetores mais robustos de crescimento no setor de viagens. Análise da Duna Press examina como destinos ao redor do mundo reposicionaram suas marcas turísticas a partir da identidade culinária, os números que sustentam essa tendência e o que esperar dos próximos anos."

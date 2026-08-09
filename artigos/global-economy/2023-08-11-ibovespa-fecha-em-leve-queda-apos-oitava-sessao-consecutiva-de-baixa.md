@@ -2,7 +2,7 @@
 title: Ibovespa fecha em leve queda após oitava sessão consecutiva de baixa
 date: 2023-08-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: 'Reforma da Previdência: os senadores poderão, em sessão deliberativa,
   início à tramitação da matéria'
 date: 2019-09-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

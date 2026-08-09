@@ -2,7 +2,7 @@
 title: 17 de maio no país mais feliz do mundo!
 date: 2018-05-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Tourism and Gastronomy
 ---

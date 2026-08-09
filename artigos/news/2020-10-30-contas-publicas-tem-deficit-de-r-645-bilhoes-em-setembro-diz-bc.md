@@ -2,7 +2,7 @@
 title: Contas públicas têm déficit de R$ 64,5 bilhões em setembro, diz BC
 date: 2020-10-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

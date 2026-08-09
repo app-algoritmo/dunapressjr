@@ -2,7 +2,7 @@
 title: Como é ensinada a democracia nas escolas escandinavas
 date: 2020-06-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

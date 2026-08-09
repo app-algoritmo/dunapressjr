@@ -2,7 +2,7 @@
 title: Curso Tempo de Aprender, do MEC, alcança mais dois milhões de acessos
 date: 2020-06-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Índice Nacional de Custo da Construção apresenta desaceleração em ju
   2023
 date: 2023-07-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

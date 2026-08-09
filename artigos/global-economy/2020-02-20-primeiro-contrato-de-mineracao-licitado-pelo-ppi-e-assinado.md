@@ -2,7 +2,7 @@
 title: Primeiro contrato de mineração licitado pelo PPI é assinado
 date: 2020-02-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: "O Colapso dos Impérios e a Ilusão da Permanência: Lições que a Hist
 subtitle: "Da queda de Roma ao desmembramento soviético, os grandes impérios carregam em seu DNA as sementes de sua própria dissolução — e os padrões são perturbadoramente familiares"
 date: 2026-05-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - history
 description: "Uma análise histórica comparativa sobre os ciclos de ascensão e queda dos grandes impérios da humanidade, identificando padrões estruturais — econômicos, militares e culturais — que se repetem com notável consistência ao longo dos séculos, e o que esses padrões podem nos dizer sobre o mundo contemporâneo."

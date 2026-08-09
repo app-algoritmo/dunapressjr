@@ -2,7 +2,7 @@
 title: Bolsa sobe 2,24% e fecha no nível mais alto em quatro meses
 date: 2020-07-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Isenção de IR a aposentado com doença grave pode ser ampliada a trabalhadores
 date: 2019-08-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

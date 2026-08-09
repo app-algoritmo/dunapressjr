@@ -2,7 +2,7 @@
 title: Entrega de tablets pela Campanha UnB Solidária para hospitais públicos do DF
 date: 2020-08-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

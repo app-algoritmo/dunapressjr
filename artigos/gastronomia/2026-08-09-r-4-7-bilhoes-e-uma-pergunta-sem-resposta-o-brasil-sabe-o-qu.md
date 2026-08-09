@@ -3,7 +3,7 @@ title: "R$ 4,7 bilhões e uma pergunta sem resposta: o Brasil sabe o que é cozi
 subtitle: "Com o mercado de gastronomia autoral crescendo 23% ao ano e chefs disputando espaço em guias internacionais, o país ainda não decidiu qual narrativa alimentar quer contar ao mundo."
 date: 2026-08-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - gastronomia
 description: "O setor de gastronomia autoral brasileiro movimentou R$ 4,7 bilhões em 2025 e coleciona menções em guias como o 50 Best, mas ainda carece de uma identidade consolidada que vá além do acarajé e da feijoada. Entender esse paradoxo é entender um dos debates mais estratégicos da economia criativa nacional."

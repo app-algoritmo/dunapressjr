@@ -2,7 +2,7 @@
 title: Petrobras informa ter atingido meta de produção anual em 2022
 date: 2023-01-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

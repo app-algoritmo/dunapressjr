@@ -2,7 +2,7 @@
 title: Governo destina R$ 10 bilhões para micro e pequenos empresários
 date: 2020-09-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

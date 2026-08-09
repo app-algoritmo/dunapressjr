@@ -2,7 +2,7 @@
 title: Macron promulga PL que autoriza o governo espiar todas as pessoas na França
 date: 2023-10-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 - Social networks

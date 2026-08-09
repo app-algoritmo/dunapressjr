@@ -3,7 +3,7 @@ title: "Tour de France 2026: 17 equipes trocaram de patrocinador em 24 meses e o
 subtitle: "A maior corrida do mundo chega à sua 123ª edição em meio a uma virada econômica silenciosa: o ciclismo profissional atrai capital como nunca, enquanto cidades europeias e brasileiras apostam na bicicleta para resolver o que o carro não conseguiu."
 date: 2026-07-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - cycling
 description: "O Tour de France 2026 reúne neste sábado, 18 de julho, o maior orçamento agregado de equipes da história da prova — e o movimento não é por acaso. O ciclismo virou aposta estratégica de marcas globais e prefeituras ao mesmo tempo, conectando asfalto profissional e rua urbana de um jeito que nenhum outro esporte faz."

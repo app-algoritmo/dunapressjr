@@ -2,7 +2,7 @@
 title: Em mais uma semana, boletim Focus aponta previsão de alta da inflação
 date: 2022-11-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

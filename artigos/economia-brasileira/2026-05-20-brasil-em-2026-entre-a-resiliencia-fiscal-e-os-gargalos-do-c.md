@@ -3,7 +3,7 @@ title: "Brasil em 2026: Entre a Resiliência Fiscal e os Gargalos do Crescimento
 subtitle: "Com inflação pressionada, juros ainda elevados e um ambiente externo adverso, a economia brasileira navega por um momento de redefinição estrutural que exigirá escolhas difíceis do governo e do mercado"
 date: 2026-05-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - economia-brasileira
 description: "A economia brasileira em maio de 2026 apresenta um quadro de contradições produtivas: indicadores de emprego relativamente sólidos convivem com juros reais entre os mais altos do mundo, enquanto o governo tenta equilibrar compromissos fiscais com demandas por investimento. A Duna Press analisa os vetores centrais que definirão os próximos trimestres."

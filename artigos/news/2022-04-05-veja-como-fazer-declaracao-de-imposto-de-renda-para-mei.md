@@ -2,7 +2,7 @@
 title: Veja como fazer declaração de Imposto de Renda para MEI
 date: 2022-04-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

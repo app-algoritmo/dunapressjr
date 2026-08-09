@@ -2,7 +2,7 @@
 title: Dólar aproxima-se de R$ 5,30 e fecha no menor valor em oito dias
 date: 2020-07-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: 3.01 Preenchimento de vagas para os segundo e terceiro escalões vai segu
   critérios técnicos e afinação com projeto do governo
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

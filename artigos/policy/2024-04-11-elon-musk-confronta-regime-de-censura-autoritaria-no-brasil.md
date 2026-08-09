@@ -2,7 +2,7 @@
 title: Elon Musk Confronta Regime de Censura Autoritária no Brasil
 date: 2024-04-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: "O campo brasileiro planta mais com menos gente: isso é progresso ou arm
 subtitle: "A mecanização acelerada e a inteligência artificial chegam às lavouras enquanto o Brasil debate se tecnologia no campo resolve ou aprofunda a desigualdade entre o agronegócio e a agricultura familiar."
 date: 2026-07-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - agriculture
 description: "O Brasil colheu safra recorde de 322 milhões de toneladas em 2025, mas 60% dos alimentos na mesa do brasileiro ainda vêm de pequenas propriedades que mal acessam crédito rural. A pergunta que o setor não quer responder: para quem, afinal, o campo está avançando?"

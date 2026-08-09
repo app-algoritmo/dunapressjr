@@ -2,7 +2,7 @@
 title: 1050 mísseis são lançados desde Gaza contra território Israelense e IDF retalia
 date: 2021-05-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

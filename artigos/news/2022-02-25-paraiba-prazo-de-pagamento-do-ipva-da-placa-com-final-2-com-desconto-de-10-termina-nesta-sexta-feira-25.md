@@ -3,7 +3,7 @@ title: 'Paraíba: Prazo de pagamento do IPVA da placa com final 2 com desconto d
   termina nesta sexta-feira (25)'
 date: 2022-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

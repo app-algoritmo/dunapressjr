@@ -2,7 +2,7 @@
 title: Míssil Balístico V2
 date: 2022-11-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "O Brasil cresceu 3,2% em 2025 e os juros continuam nos 13,75% — esse p
 subtitle: "Com o mercado de trabalho no melhor momento em uma década e a inflação abaixo da meta, o país enfrenta a contradição mais cara de sua história recente: por que o crédito ainda sufoca quem mais produz?"
 date: 2026-06-24
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - economia-brasileira
 description: "O Brasil entrou em 2026 com crescimento robusto, desemprego abaixo de 6% e inflação controlada — mas a taxa de juros mais alta entre as grandes economias do mundo segue comprimindo investimentos e o bolso do trabalhador médio. Entender por que o Banco Central mantém o freio apertado mesmo com boas notícias é a pergunta que define o próximo capítulo da economia brasileira."

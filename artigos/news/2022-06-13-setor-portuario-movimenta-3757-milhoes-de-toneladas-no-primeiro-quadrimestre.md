@@ -2,7 +2,7 @@
 title: Setor portuário movimenta 375,7 milhões de toneladas no primeiro quadrimestre
 date: 2022-06-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Guerras Econômicas: Explorando a Moralidade da Busca pelo Lucro a Qualq
   Custo'
 date: 2024-02-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

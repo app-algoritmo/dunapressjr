@@ -2,7 +2,7 @@
 title: Bolsa cai 0,78% em meio a tensões internas
 date: 2021-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

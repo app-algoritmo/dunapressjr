@@ -2,7 +2,7 @@
 title: Fernández recua e agora diz que vai acatar a decisão da Corte
 date: 2022-12-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

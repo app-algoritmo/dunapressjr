@@ -2,7 +2,7 @@
 title: Covid-19 faz economia dos EUA despencar mais de 30% no 2º trimestre
 date: 2020-07-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

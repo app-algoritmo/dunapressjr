@@ -2,7 +2,7 @@
 title: PTB oficializa candidatura de Roberto Jefferson à Presidência
 date: 2022-08-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "O Momento de Virada na Ufologia: Como 2025 Redesenhou o Debate sobre Fen
 subtitle: "Entre audiências no Congresso americano, programas de vigilância espacial e a crescente pressão por transparência institucional, o fenômeno OVNI deixou definitivamente os tabloides e migrou para o centro do debate científico e geopolítico global"
 date: 2026-06-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - ufologia
 description: "Uma análise aprofundada sobre como o ano de 2025 consolidou uma transformação histórica no tratamento institucional dos Fenômenos Aéreos Não Identificados, com implicações científicas, militares e políticas que redefinem o campo da ufologia contemporânea."

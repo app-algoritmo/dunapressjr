@@ -2,7 +2,7 @@
 title: 'IBGE: Vendas no varejo no Brasil mostram estabilidade em junho de 2023'
 date: 2023-08-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

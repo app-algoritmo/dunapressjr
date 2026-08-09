@@ -2,7 +2,7 @@
 title: Saiba como vai funcionar o vale-gás
 date: 2021-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

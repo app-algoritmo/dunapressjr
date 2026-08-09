@@ -2,7 +2,7 @@
 title: Debêntures incentivadas captam R$ 280 milhões em fevereiro
 date: 2022-04-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

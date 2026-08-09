@@ -2,7 +2,7 @@
 title: Prosperidade e economia – 02 - Fluir da prosperidade financeira/dinheiro
 date: 2018-11-05
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Jornalista é presa no Brasil
 date: 2023-07-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Social networks
 ---

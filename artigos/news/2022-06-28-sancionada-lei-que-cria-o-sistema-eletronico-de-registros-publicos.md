@@ -2,7 +2,7 @@
 title: Sancionada lei que cria o Sistema Eletrônico de Registros Públicos
 date: 2022-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

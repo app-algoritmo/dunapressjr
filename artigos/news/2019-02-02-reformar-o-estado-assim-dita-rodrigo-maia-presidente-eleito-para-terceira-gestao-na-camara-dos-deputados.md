@@ -3,7 +3,7 @@ title: '''Reformar o Estado'' assim dita Rodrigo Maia - presidente eleito para t
   gestão na câmara dos deputados'
 date: 2019-02-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

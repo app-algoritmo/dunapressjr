@@ -2,7 +2,7 @@
 title: Senado aprova PEC com pacote de auxílios a carentes e a caminhoneiros
 date: 2022-07-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

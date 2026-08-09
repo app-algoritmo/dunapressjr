@@ -2,7 +2,7 @@
 title: 'CNI: redução de tarifa do Mercosul deve ser acompanhada de reformas'
 date: 2021-11-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

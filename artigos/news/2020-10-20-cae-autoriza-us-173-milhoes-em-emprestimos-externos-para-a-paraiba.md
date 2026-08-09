@@ -2,7 +2,7 @@
 title: CAE autoriza US$ 173 milhões em empréstimos externos para a Paraíba
 date: 2020-10-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

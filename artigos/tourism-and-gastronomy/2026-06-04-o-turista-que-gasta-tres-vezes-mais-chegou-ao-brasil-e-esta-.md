@@ -3,7 +3,7 @@ title: "O turista que gasta três vezes mais chegou ao Brasil — e está indo p
 subtitle: "O turismo de experiência avança sobre destinos fora do eixo Rio-São Paulo, e municípios com menos de 50 mil habitantes estão capturando uma fatia crescente dos US$ 8,4 bilhões que estrangeiros deixaram no país em 2025."
 date: 2026-06-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tourism-and-gastronomy
 description: "Dados do Ministério do Turismo apontam que municípios fora dos grandes centros concentraram 34% do crescimento de receita turística em 2025. Entender quem são esses viajantes e o que buscam é a chave para a próxima onda do turismo brasileiro."

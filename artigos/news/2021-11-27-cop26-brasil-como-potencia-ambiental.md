@@ -2,7 +2,7 @@
 title: 'COP26: Brasil como potência ambiental'
 date: 2021-11-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

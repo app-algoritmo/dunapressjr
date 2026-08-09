@@ -2,7 +2,7 @@
 title: Auxílio Brasil terá reajuste de 20% em relação ao Bolsa Família
 date: 2021-10-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

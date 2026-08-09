@@ -3,7 +3,7 @@ title: Após a condenação Cristina Kirchner fez uma live e garantiu que não s
   em 2023 'por nada'
 date: 2022-12-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

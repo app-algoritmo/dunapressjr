@@ -2,7 +2,7 @@
 title: Confiança da indústria atinge menor nível desde julho de 2020
 date: 2022-03-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

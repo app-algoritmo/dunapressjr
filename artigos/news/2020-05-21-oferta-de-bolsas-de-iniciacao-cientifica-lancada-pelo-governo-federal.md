@@ -2,7 +2,7 @@
 title: Oferta de bolsas de iniciação científica lançada pelo governo federal
 date: 2020-05-21
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

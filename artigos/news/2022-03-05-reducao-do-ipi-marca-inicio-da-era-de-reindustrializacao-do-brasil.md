@@ -2,7 +2,7 @@
 title: Redução do IPI marca início da era de reindustrialização do Brasil
 date: 2022-03-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

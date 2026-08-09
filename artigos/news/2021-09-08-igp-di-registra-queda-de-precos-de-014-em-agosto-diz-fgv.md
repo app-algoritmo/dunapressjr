@@ -2,7 +2,7 @@
 title: IGP-DI registra queda de preços de 0,14% em agosto, diz FGV
 date: 2021-09-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

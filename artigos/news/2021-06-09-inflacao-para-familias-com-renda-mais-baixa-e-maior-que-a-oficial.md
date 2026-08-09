@@ -2,7 +2,7 @@
 title: Inflação para famílias com renda mais baixa é maior que a oficial
 date: 2021-06-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

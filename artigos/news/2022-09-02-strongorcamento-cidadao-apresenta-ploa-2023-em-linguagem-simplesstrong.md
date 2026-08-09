@@ -2,7 +2,7 @@
 title: <strong>Orçamento Cidadão apresenta PLOA 2023 em linguagem simples</strong>
 date: 2022-09-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

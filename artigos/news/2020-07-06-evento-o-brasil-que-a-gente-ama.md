@@ -2,7 +2,7 @@
 title: 'Evento: O Brasil que a Gente Ama'
 date: 2020-07-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

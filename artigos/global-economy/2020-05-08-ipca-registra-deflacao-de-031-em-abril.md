@@ -2,7 +2,7 @@
 title: IPCA registra deflação de 0,31% em abril
 date: 2020-05-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

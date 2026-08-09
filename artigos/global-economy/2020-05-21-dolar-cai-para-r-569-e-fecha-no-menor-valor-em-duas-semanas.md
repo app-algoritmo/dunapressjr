@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,69 e fecha no menor valor em duas semanas
 date: 2020-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

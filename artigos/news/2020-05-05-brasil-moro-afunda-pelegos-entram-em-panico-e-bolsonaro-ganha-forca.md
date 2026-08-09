@@ -2,7 +2,7 @@
 title: 'Brasil: Moro afunda, pelegos entram em pânico e Bolsonaro ganha força'
 date: 2020-05-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

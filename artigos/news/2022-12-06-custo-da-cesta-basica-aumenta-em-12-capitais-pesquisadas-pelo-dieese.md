@@ -2,7 +2,7 @@
 title: Custo da cesta básica aumenta em 12 capitais pesquisadas pelo Dieese
 date: 2022-12-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

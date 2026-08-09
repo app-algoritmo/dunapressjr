@@ -2,7 +2,7 @@
 title: CGU, PCDF e MPDFT combatem irregularidades com recursos da educação
 date: 2020-09-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

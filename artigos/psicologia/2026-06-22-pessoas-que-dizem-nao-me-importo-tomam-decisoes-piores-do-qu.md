@@ -3,7 +3,7 @@ title: "Pessoas que dizem 'não me importo' tomam decisões piores do que as que
 subtitle: "Pesquisas em neurociência afetiva revelam que a supressão emocional — e não a ausência de emoção — é o principal sabotador de escolhas racionais em ambientes de pressão."
 date: 2026-06-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - psicologia
 description: "Estudos conduzidos na Universidade de Stanford e replicados no Brasil mostram que suprimir emoções antes de decidir aumenta em até 34% a taxa de arrependimento pós-decisão. Entender por que 'fingir indiferença' é uma armadilha cognitiva pode mudar a forma como líderes, pais e profissionais fazem escolhas que importam."

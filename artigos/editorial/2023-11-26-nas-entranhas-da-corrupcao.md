@@ -2,7 +2,7 @@
 title: Nas entranhas da Corrupção
 date: 2023-11-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Editorial
 ---

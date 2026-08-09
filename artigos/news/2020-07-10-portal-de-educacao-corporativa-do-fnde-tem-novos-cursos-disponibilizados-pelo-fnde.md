@@ -3,7 +3,7 @@ title: Portal de Educação Corporativa do FNDE tem novos cursos disponibilizado
   FNDE
 date: 2020-07-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Empreendedores do Norte e Nordeste contam com linha de crédito emergenci
   durante pandemia
 date: 2020-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

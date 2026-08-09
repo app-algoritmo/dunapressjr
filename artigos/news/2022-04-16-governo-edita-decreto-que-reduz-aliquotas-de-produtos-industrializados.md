@@ -2,7 +2,7 @@
 title: Governo edita decreto que reduz alíquotas de produtos industrializados
 date: 2022-04-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Plano Marshall, a reconstrução da Europa
 date: 2020-03-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

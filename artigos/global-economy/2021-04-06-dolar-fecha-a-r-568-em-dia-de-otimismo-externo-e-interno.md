@@ -2,7 +2,7 @@
 title: Dólar fecha a R$ 5,68 em dia de otimismo externo e interno
 date: 2021-04-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

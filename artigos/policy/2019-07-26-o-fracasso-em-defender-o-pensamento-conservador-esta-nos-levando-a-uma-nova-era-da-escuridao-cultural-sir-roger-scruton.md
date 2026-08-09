@@ -3,7 +3,7 @@ title: O fracasso em defender o pensamento conservador está nos levando a uma n
   era da escuridão cultural, Sir Roger Scruton
 date: 2019-07-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: IGP-10 tem inflação de 0,36% em dezembro
 date: 2022-12-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

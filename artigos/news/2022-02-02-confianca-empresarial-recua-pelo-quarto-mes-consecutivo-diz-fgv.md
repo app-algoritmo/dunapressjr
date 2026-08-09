@@ -2,7 +2,7 @@
 title: Confiança empresarial recua pelo quarto mês consecutivo, diz FGV
 date: 2022-02-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

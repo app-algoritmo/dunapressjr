@@ -3,7 +3,7 @@ title: 'Prêmio Nobel Alerta: Confisco de Bens Russos Pode Desencadear Desdolari
   Global'
 date: 2023-12-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

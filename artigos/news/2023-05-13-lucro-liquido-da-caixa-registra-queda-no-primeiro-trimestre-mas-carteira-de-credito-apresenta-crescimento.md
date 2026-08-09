@@ -3,7 +3,7 @@ title: Lucro líquido da Caixa registra queda no primeiro trimestre, mas carteir
   crédito apresenta crescimento
 date: 2023-05-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

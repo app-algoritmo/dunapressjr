@@ -2,7 +2,7 @@
 title: Recuperação fiscal reúne ministro e governador do Rio
 date: 2022-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

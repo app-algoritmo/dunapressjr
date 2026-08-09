@@ -3,7 +3,7 @@ title: Lote residual de restituição do IRPF de novembro de estará disponível
   das 10 Horas desta quinta-feira
 date: 2023-11-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

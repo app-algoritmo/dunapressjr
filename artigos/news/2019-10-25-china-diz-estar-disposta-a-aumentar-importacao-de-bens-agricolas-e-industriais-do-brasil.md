@@ -3,7 +3,7 @@ title: China diz estar disposta a aumentar importação de bens agrícolas e ind
   do Brasil
 date: 2019-10-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Oriovisto quer retirar da pauta PEC que reestrutura carreira do Judiciário
 date: 2022-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

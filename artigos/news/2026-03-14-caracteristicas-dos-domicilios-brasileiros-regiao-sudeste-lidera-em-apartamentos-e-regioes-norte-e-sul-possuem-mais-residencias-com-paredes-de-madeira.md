@@ -3,7 +3,7 @@ title: 'Características dos Domicílios Brasileiros: Região Sudeste lidera em 
   e regiões Norte e Sul possuem mais residências com paredes de madeira'
 date: 2026-03-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

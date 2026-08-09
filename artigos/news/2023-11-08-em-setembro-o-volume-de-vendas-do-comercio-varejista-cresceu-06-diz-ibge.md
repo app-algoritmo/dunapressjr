@@ -2,7 +2,7 @@
 title: Em setembro o volume de vendas do comércio varejista cresceu 0,6%, diz IBGE
 date: 2023-11-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

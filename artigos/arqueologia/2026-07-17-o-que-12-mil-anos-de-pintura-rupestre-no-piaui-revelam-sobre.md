@@ -3,7 +3,7 @@ title: "O que 12 mil anos de pintura rupestre no Piauí revelam sobre um Brasil 
 subtitle: "Novas datações na Serra da Capivara reposicionam a pré-história brasileira no mapa global da arqueologia — e expõem a fragilidade de um acervo que o Estado ainda não decidiu preservar de verdade."
 date: 2026-07-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - arqueologia
 description: "Datações recentes em sítios da Serra da Capivara indicam presença humana no Brasil há pelo menos 12 mil anos, desafiando modelos consagrados de povoamento das Américas. O achado renova o debate científico internacional — mas encontra um parque nacional com orçamento cortado e equipe reduzida a um terço."

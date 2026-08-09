@@ -2,7 +2,7 @@
 title: Receita abre prazo de adesão a parcelamento especial do Simples
 date: 2022-04-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

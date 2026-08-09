@@ -3,7 +3,7 @@ title: 'Dia Mundial da Água: o desafio da Noruega para colocar em prática aç�
   combate ao lixo marinho'
 date: 2019-03-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Policy

@@ -2,7 +2,7 @@
 title: 'Imposto de Renda: 27% dos contribuintes ainda não enviaram declaração'
 date: 2022-05-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

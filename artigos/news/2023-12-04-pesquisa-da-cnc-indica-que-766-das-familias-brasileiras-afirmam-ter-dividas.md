@@ -2,7 +2,7 @@
 title: Pesquisa da CNC indica que 76,6% das famílias brasileiras afirmam ter dívidas
 date: 2023-12-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

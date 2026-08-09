@@ -2,7 +2,7 @@
 title: Guedes representará governo em Davos com agenda cheia e encontros com CEOs
 date: 2020-01-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

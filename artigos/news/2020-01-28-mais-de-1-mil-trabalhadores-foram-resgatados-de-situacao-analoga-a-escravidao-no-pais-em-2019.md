@@ -3,7 +3,7 @@ title: Mais de 1 mil trabalhadores foram resgatados de situação análoga à es
   no país em 2019
 date: 2020-01-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

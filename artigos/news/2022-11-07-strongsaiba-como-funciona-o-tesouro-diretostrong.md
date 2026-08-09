@@ -2,7 +2,7 @@
 title: <strong>Saiba como funciona o Tesouro Direto</strong>
 date: 2022-11-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "O Brasil parece neutro, mas escolheu um lado — só ainda não disse qu
 subtitle: "Entre a cúpula do BRICS em Joanesburgo e a renegociação do acordo Mercosul-UE, Brasília acumula apostas simultâneas que, em 2026, começam a cobrar uma resposta de coerência."
 date: 2026-07-23
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitica-brasil
 description: "O Brasil coleciona parcerias estratégicas em direções opostas — BRICS, UE, EUA, China — como se a multipolaridade fosse uma identidade, não uma escolha. O problema é que 2026 chegou com prazos reais e os sócios querem saber em quem Brasília aposta de verdade."

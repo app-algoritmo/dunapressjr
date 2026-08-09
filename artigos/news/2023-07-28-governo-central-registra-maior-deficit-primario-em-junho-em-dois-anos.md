@@ -2,7 +2,7 @@
 title: Governo Central registra maior déficit primário em junho em dois anos
 date: 2023-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

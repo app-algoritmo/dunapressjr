@@ -2,7 +2,7 @@
 title: Número de mortos na Türkiye ultrapassa 6.000
 date: 2023-02-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

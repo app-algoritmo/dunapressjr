@@ -3,7 +3,7 @@ title: "O Brasil parece neutro: na prática, está escolhendo dois times ao mesm
 subtitle: "Entre BRICS e Mercosul, a diplomacia brasileira acumula apostas contraditórias que podem render dividendos históricos — ou deixar o país sem aliados no momento errado."
 date: 2026-07-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitica-brasil
 description: "O Brasil preside o BRICS em 2025 e negocia o acordo Mercosul-União Europeia há 25 anos — dois projetos com lógicas geopolíticas opostas. A questão não é se Brasília consegue sentar nas duas cadeiras, mas por quanto tempo o mundo vai deixar."

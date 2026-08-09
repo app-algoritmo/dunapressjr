@@ -2,7 +2,7 @@
 title: Dólar fecha em leve alta, apesar de intervenção do BC
 date: 2021-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

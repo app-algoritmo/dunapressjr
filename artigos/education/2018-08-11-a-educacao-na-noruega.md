@@ -2,7 +2,7 @@
 title: A educação na Noruega
 date: 2018-08-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Magazine

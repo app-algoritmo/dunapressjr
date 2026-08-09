@@ -3,7 +3,7 @@ title: 'Brazil Military Coup Convictions: High-Ranking Officials Sentenced in Hi
   Ruling'
 date: 2025-11-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Politics and Society
 ---

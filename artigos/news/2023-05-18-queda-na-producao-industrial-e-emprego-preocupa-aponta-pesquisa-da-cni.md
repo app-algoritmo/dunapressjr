@@ -2,7 +2,7 @@
 title: Queda na produção industrial e emprego preocupa, aponta pesquisa da CNI
 date: 2023-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

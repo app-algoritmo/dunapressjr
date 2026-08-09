@@ -2,7 +2,7 @@
 title: Registro nacional de equipamentos agrícolas tem sistema finalizado pelo Mapa
 date: 2020-07-01
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

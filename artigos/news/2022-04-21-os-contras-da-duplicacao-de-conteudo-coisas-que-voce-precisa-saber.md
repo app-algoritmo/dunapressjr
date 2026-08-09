@@ -2,7 +2,7 @@
 title: 'Os contras da duplicação de conteúdo: coisas que você precisa saber'
 date: 2022-04-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

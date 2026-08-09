@@ -3,7 +3,7 @@ title: "Não são extraterrestres — e talvez seja isso o mais perturbador"
 subtitle: "A nova onda de divulgação governamental sobre fenômenos aéreos não identificados revela menos sobre origens alienígenas e mais sobre os limites do que Estados soberanos conseguem rastrear em seus próprios céus."
 date: 2026-08-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - ufologia
 description: "Entre 2023 e 2026, governos de oito países — incluindo o Brasil, via CEMADEN e Força Aérea Brasileira — publicaram relatórios formais sobre Fenômenos Aéreos Não Identificados (FANIs), sem chegar a qualquer consenso sobre origem ou natureza. O debate real não é sobre vida extraterrestre: é sobre soberania aérea, lacunas tecnológicas e o que acontece quando o método científico encontra dados que não cabem nas categorias existentes."

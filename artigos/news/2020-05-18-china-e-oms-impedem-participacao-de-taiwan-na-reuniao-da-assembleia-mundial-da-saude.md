@@ -3,7 +3,7 @@ title: China e OMS impedem participação de Taiwan na reunião da Assembléia M
   da Saúde
 date: 2020-05-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

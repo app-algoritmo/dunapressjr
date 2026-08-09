@@ -2,7 +2,7 @@
 title: 7 mil formaturas antecipadas de cursos de saúde pelo MEC
 date: 2020-06-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

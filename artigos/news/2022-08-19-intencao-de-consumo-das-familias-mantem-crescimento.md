@@ -2,7 +2,7 @@
 title: Intenção de consumo das famílias mantém crescimento
 date: 2022-08-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

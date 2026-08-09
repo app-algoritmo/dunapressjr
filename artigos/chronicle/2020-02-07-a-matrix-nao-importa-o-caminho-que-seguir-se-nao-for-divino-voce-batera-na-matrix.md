@@ -3,7 +3,7 @@ title: A MATRIX – Não importa o caminho que seguir, se não for Divino você 
   na Matrix
 date: 2020-02-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Chronicle
 ---

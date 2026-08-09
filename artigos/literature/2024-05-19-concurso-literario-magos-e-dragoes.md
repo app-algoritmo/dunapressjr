@@ -2,7 +2,7 @@
 title: Concurso literário 'Magos e Dragões'
 date: 2024-05-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Literature
 ---

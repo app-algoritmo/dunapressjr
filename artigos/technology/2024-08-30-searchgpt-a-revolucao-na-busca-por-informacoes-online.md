@@ -2,7 +2,7 @@
 title: 'SearchGPT: A Revolução na Busca por Informações Online'
 date: 2024-08-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

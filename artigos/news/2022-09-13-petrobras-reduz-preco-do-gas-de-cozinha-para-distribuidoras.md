@@ -2,7 +2,7 @@
 title: Petrobras reduz preço do gás de cozinha para distribuidoras
 date: 2022-09-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

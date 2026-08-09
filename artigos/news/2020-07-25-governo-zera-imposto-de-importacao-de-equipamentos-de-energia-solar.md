@@ -2,7 +2,7 @@
 title: Governo zera imposto de importação de equipamentos de energia solar
 date: 2020-07-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

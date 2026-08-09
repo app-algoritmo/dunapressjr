@@ -3,7 +3,7 @@ title: <strong>Sancionada lei que autoriza uso de drawback suspensão para compr
   serviços</strong>
 date: 2022-09-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

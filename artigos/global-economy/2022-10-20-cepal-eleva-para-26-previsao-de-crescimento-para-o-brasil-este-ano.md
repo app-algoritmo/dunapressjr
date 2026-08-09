@@ -2,7 +2,7 @@
 title: Cepal eleva para 2,6% previsão de crescimento para o Brasil este ano
 date: 2022-10-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

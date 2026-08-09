@@ -3,7 +3,7 @@ title: "O Brasil exporta mais energia limpa do que petróleo — e quase ningué
 subtitle: "Com 94% da matriz elétrica de fontes renováveis e US$ 12 bilhões em contratos internacionais assinados só no primeiro semestre de 2026, o país virou peça-chave da geopolítica verde global antes de construir a narrativa sobre isso."
 date: 2026-07-14
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - energias-renovaveis
 description: "O Brasil ultrapassou em 2026 um marco silencioso: a receita com exportação de energia limpa — hidrogênio verde, etanol e créditos de carbono — superou a de petróleo bruto no primeiro semestre. O paradoxo é que o país ainda não tem uma estratégia diplomática à altura da posição que já ocupa."

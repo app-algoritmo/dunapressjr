@@ -2,7 +2,7 @@
 title: 'FGV: confiança da indústria sobe 0,8 ponto em agosto'
 date: 2022-08-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

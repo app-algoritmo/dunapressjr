@@ -2,7 +2,7 @@
 title: Canal Opinião Conservadora
 date: 2018-11-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

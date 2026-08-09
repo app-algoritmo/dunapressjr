@@ -2,7 +2,7 @@
 title: Vendas do varejo tiveram queda de 0,1% em dezembro de 2021
 date: 2022-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

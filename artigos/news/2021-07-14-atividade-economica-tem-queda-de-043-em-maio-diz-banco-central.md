@@ -2,7 +2,7 @@
 title: Atividade econômica tem queda de 0,43% em maio, diz Banco Central
 date: 2021-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

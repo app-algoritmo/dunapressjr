@@ -2,7 +2,7 @@
 title: Breve Relato - Walt Disney
 date: 2018-03-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

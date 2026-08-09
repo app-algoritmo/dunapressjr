@@ -3,7 +3,7 @@ title: "O Brasil parece neutro: na prática, está escolhendo lados em câmera l
 subtitle: "A diplomacia brasileira acumula assentos em todos os blocos — BRICS, Mercosul, G20, acordos com a UE — mas a multiplicação de frentes começa a exigir coerência que o país ainda não entregou."
 date: 2026-06-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitica-brasil
 description: "O Brasil opera simultaneamente no BRICS ampliado, no acordo Mercosul-UE e nas articulações do Sul Global, postura que foi lida como trunfo estratégico mas começa a produzir contradições concretas. Com a presidência brasileira do G20 encerrada e o país prestes a assumir a presidência pro tempore do Mercosul em julho de 2026, a conta da ambiguidade está chegando."

@@ -3,7 +3,7 @@ title: "A globalização não morreu: ela trocou de endereço"
 subtitle: "Enquanto o Ocidente debate desglobalização, o comércio Sul-Sul bate recordes e redesenha silenciosamente quem manda nas cadeias produtivas do século XXI."
 date: 2026-07-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-economy
 description: "O volume de comércio entre países em desenvolvimento superou US$ 4,6 trilhões em 2025, enquanto analistas ocidentais ainda decretavam o fim da globalização. Entender essa virada é entender quem vai ditar as regras do próximo ciclo econômico mundial."

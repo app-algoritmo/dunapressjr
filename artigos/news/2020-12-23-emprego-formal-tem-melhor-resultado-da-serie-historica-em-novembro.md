@@ -2,7 +2,7 @@
 title: Emprego formal tem melhor resultado da série histórica em novembro
 date: 2020-12-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

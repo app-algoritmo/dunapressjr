@@ -3,7 +3,7 @@ title: Ibovespa encerra semana com nova máxima após acordo China-EUA; Petrobra
   forte
 date: 2019-12-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

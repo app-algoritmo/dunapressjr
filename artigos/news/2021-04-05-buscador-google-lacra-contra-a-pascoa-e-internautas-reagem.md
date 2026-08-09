@@ -2,7 +2,7 @@
 title: Buscador google lacra contra a páscoa e internautas reagem
 date: 2021-04-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

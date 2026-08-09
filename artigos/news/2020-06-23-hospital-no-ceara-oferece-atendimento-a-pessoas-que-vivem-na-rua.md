@@ -2,7 +2,7 @@
 title: Hospital no Ceará oferece atendimento a pessoas que vivem na rua
 date: 2020-06-23
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

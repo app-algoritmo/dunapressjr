@@ -2,7 +2,7 @@
 title: Ibovespa recua com Petrobras e fiscal em dia de alívio externo
 date: 2023-03-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

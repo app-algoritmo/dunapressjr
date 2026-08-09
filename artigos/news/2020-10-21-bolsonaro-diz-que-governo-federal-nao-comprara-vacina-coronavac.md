@@ -2,7 +2,7 @@
 title: Bolsonaro diz que governo federal não comprará vacina CoronaVac
 date: 2020-10-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

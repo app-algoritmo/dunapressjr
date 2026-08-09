@@ -3,7 +3,7 @@ title: Pesquisa global de percepção aponta Brasil como a segunda nação mais 
   realidade em  todo o mundo
 date: 2020-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

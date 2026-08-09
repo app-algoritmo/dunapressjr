@@ -2,7 +2,7 @@
 title: CGU, PF e MPF combatem má aplicação de recursos da saúde em Guajará-Mirim (RO)
 date: 2020-07-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

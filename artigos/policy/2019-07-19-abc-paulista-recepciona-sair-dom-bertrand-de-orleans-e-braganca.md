@@ -2,7 +2,7 @@
 title: ABC Paulista recepciona S.A.I.R Dom Bertrand de Orleans e Bragança
 date: 2019-07-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

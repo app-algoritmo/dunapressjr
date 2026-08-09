@@ -2,7 +2,7 @@
 title: Banco Central corrige dados cambiais e país fecha 2022 no negativo
 date: 2023-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

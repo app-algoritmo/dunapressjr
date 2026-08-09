@@ -2,7 +2,7 @@
 title: Ibovespa encerra com valorização de 1,36%
 date: 2023-09-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

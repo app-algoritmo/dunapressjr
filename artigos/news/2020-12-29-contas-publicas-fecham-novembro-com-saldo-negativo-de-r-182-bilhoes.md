@@ -2,7 +2,7 @@
 title: Contas públicas fecham novembro com saldo negativo de R$ 18,2 bilhões
 date: 2020-12-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

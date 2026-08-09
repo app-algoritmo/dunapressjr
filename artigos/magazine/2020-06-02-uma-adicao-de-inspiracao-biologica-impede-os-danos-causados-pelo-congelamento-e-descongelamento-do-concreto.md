@@ -3,7 +3,7 @@ title: Uma adição de inspiração biológica impede os danos causados ​​pe
   e descongelamento do concreto
 date: 2020-06-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

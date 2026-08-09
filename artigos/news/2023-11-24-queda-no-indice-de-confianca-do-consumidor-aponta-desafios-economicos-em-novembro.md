@@ -2,7 +2,7 @@
 title: Queda no Índice de Confiança do Consumidor aponta desafios econômicos em novembro
 date: 2023-11-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

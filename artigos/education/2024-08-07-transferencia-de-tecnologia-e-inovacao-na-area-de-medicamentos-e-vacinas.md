@@ -2,7 +2,7 @@
 title: Transferência de Tecnologia e Inovação na Área de Medicamentos e Vacinas.
 date: 2024-08-07
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Education
 - Science

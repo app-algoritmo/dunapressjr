@@ -2,7 +2,7 @@
 title: Dólar aproxima-se de R$ 5,20 e fecha no menor nível do ano
 date: 2021-01-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

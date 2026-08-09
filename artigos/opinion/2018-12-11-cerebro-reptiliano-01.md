@@ -2,7 +2,7 @@
 title: Cérebro Reptiliano - 01
 date: 2018-12-11
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

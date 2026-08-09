@@ -2,7 +2,7 @@
 title: Governo Central tem déficit primário de R$ 19,8 bilhões em julho
 date: 2021-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

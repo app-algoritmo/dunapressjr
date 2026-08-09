@@ -2,7 +2,7 @@
 title: Dólar sobe 4% e fecha a R$ 4,80 em dia de tensão externa e interna
 date: 2022-04-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

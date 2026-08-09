@@ -3,7 +3,7 @@ title: Desempenho econômico chinês em julho desperta preocupações, aponta Bl
   FGV/Ibre
 date: 2023-09-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

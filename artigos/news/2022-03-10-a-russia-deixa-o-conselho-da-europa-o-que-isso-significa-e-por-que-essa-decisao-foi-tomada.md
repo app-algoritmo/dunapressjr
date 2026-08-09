@@ -3,7 +3,7 @@ title: A Rússia deixa o Conselho da Europa. O que isso significa e por que essa
   foi tomada?
 date: 2022-03-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

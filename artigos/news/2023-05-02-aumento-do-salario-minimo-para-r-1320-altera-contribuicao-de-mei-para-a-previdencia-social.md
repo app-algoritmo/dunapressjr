@@ -3,7 +3,7 @@ title: Aumento do salário mínimo para R$ 1.320 altera contribuição de MEI pa
   Social
 date: 2023-05-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "Quanto vale um ano a mais de escola? A resposta que está mudando onde o
 subtitle: "Novas evidências sobre retorno educacional forçam governos e empresas a rever onde colocam dinheiro — e o Brasil aparece num cruzamento delicado."
 date: 2026-07-10
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - education
 description: "Pesquisas recentes do Banco Mundial e do OCDE quantificam com precisão inédita o retorno econômico de cada ano adicional de escolaridade — e os números estão redesenhando prioridades orçamentárias globais. Para o Brasil, que combina alta evasão no ensino médio com um mercado de trabalho em transformação acelerada, o momento é de escolha: investir antes que o custo de não investir se torne impagável."

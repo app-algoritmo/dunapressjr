@@ -2,7 +2,7 @@
 title: Caixa oferece R$ 6,3 bilhões em novas operações de crédito do Pronampe
 date: 2021-07-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

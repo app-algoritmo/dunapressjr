@@ -2,7 +2,7 @@
 title: Brasil deve acelerar entrada na economia digital, diz especialista
 date: 2022-07-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

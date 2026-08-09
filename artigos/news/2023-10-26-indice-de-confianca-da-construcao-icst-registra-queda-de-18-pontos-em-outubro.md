@@ -2,7 +2,7 @@
 title: Índice de confiança da construção (ICST) registra queda de 1,8 pontos em outubro
 date: 2023-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

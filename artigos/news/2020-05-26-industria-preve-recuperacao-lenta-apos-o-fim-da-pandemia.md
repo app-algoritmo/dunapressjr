@@ -2,7 +2,7 @@
 title: Indústria prevê recuperação lenta após o fim da pandemia
 date: 2020-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Produção industrial cresce 8,9% de maio para junho
 date: 2020-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "Parece renovação, mas é uma ruptura: como os jovens do tênis estão 
 subtitle: "Uma geração de tenistas nascidos depois de 2002 não está apenas vencendo torneios — está mudando a lógica de como se chega ao topo, com trajetórias que desafiam décadas de ortodoxia do circuito profissional."
 date: 2026-08-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tennis
 description: "Jogadores com menos de 22 anos ocupam, em agosto de 2026, seis das vinte primeiras posições do ranking ATP — um fenômeno sem precedente desde a era Agassi-Sampras nos anos 1990. O dado não é cosmético: revela uma mudança estrutural na formação, no financiamento e na mentalidade competitiva do tênis mundial."

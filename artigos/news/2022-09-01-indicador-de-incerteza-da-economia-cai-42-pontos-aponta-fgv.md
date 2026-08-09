@@ -2,7 +2,7 @@
 title: Indicador de Incerteza da Economia cai 4,2 pontos, aponta FGV
 date: 2022-09-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

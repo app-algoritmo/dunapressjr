@@ -3,7 +3,7 @@ title: Este é o incentivo em dinheiro que a Noruega está oferecendo para que o
   nações protejam suas florestas
 date: 2021-04-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

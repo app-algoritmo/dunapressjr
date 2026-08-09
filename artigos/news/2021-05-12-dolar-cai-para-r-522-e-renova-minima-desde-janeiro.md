@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,22 e renova mínima desde janeiro
 date: 2021-05-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

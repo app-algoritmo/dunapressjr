@@ -3,7 +3,7 @@ title: Oxford publica estudo dos fatores de risco em idosos em comparação entr
   e Brasil
 date: 2020-10-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

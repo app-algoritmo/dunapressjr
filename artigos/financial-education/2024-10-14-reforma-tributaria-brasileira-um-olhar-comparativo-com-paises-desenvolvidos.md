@@ -2,7 +2,7 @@
 title: 'Reforma Tributária Brasileira: Um Olhar Comparativo com Países Desenvolvidos'
 date: 2024-10-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Financial Education
 - Future and Innovation

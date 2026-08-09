@@ -2,7 +2,7 @@
 title: Reclassificação de países em desenvolvimento por EUA é ilegal, diz CNI
 date: 2020-02-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

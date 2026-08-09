@@ -3,7 +3,7 @@ title: Juiz brasileiro adiou interrogatório de Lula da Silva para que possa via
   a Itália
 date: 2020-02-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

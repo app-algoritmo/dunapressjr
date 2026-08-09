@@ -3,7 +3,7 @@ title: Governadores do Nordeste apresentam proposta para aquisição de 39,6 mil
   de doses da vacina Sputnik ao ministro da Saúde
 date: 2021-03-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

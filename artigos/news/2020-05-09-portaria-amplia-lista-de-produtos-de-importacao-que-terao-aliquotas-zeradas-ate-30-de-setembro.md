@@ -3,7 +3,7 @@ title: Portaria amplia lista de produtos de Importação que terão alíquotas z
   até 30 de setembro
 date: 2020-05-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

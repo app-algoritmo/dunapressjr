@@ -3,7 +3,7 @@ title: YouTube remove declaração de abertura de audiência do Comitê do Senad
   alegando que os resultados da eleição de 3.11 ainda são inconclusivos
 date: 2020-12-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

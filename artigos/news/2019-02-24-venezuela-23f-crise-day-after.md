@@ -2,7 +2,7 @@
 title: Venezuela 23F - crise day after
 date: 2019-02-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

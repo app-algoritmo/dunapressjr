@@ -2,7 +2,7 @@
 title: O depoimento do QG de Brasília que está emocionando o Brasil
 date: 2022-12-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

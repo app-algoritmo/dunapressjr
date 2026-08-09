@@ -2,7 +2,7 @@
 title: Congresso promulga piso salarial dos profissionais de enfermagem
 date: 2022-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: "Crise Hídrica Global: O Colapso Silencioso Que Redesenha Fronteiras e Economias"
 date: 2026-05-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - environment
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778600441/Crise_Hi%CC%81drica_Global-_O_Colapso_Silencioso_Que_Redesenha_Fronteiras_e_Economias_adjfgu.jpg"

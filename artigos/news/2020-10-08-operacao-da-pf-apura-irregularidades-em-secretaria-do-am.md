@@ -2,7 +2,7 @@
 title: Operação da PF apura irregularidades em secretaria do AM
 date: 2020-10-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: "Duna Science: A Nova Plataforma de Divulgação Científica para Pesquisadores"
 date: 2024-11-06
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
   - headlines
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778615243/Duna_Science_A_Nova_Plataforma_de_Divulgac%CC%A7a%CC%83o_Cienti%CC%81fica_para_Pesquisadores_rc8nmw.jpg"

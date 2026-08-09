@@ -3,7 +3,7 @@ title: Receita prorroga para setembro prazo para entrega da Escrituração Cont�
   Fiscal
 date: 2020-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

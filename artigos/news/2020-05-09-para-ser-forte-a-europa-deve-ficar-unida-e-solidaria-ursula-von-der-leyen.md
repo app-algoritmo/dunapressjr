@@ -2,7 +2,7 @@
 title: Para ser forte, a Europa deve ficar unida e solidária, Ursula von der Leyen
 date: 2020-05-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: IPC-S de setembro de 2023 mantém estabilidade
 date: 2023-10-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

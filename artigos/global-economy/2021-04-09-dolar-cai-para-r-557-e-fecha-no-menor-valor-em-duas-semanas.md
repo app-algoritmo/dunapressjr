@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,57 e fecha no menor valor em duas semanas
 date: 2021-04-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

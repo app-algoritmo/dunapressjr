@@ -2,7 +2,7 @@
 title: Guerra na Ucrânia afeta preços de commodities agrícolas, segundo Ipea
 date: 2022-04-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

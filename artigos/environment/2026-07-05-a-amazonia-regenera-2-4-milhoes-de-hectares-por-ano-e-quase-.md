@@ -3,7 +3,7 @@ title: "A Amazônia regenera 2,4 milhões de hectares por ano — e quase ningu�
 subtitle: "Enquanto o desmatamento domina o debate público, dados recentes revelam que a floresta amazônica tem capacidade de autorrecuperação surpreendente — e cientistas brasileiros estão aprendendo a acelerá-la."
 date: 2026-07-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - environment
 description: "Pesquisas publicadas em 2025 e 2026 mostram que florestas secundárias amazônicas recuperam até 80% da biomassa original em menos de duas décadas em condições favoráveis. O dado reposiciona o debate ambiental: além de frear a destruição, o Brasil pode liderar um modelo global de restauração ativa."

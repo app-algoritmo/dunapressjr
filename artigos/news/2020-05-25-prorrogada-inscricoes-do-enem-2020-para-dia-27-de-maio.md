@@ -2,7 +2,7 @@
 title: Prorrogada inscrições do Enem 2020 para dia 27 de Maio
 date: 2020-05-25
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Nova linha de crédito para empresas depende de regulamentação do CMN
 date: 2020-07-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

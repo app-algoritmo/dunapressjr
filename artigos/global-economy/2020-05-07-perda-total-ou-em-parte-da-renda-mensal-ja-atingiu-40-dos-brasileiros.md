@@ -2,7 +2,7 @@
 title: Perda total ou em parte da renda mensal já atingiu 40% dos brasileiros
 date: 2020-05-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Balança comercial tem superávit de US$ 5,47 bilhões no mês de outubro
 date: 2020-11-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

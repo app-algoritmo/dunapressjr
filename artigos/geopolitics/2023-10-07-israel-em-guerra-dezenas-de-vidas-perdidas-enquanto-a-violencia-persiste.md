@@ -2,7 +2,7 @@
 title: 'Israel em Guerra: Dezenas de Vidas Perdidas Enquanto a Violência Persiste'
 date: 2023-10-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: Beneficiários de programas sociais poderão fazer empréstimo consignado
 date: 2022-03-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

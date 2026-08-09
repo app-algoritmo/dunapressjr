@@ -2,7 +2,7 @@
 title: CAE aprova autonomia do Banco Central com novos objetivos
 date: 2020-02-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

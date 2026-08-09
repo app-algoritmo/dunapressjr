@@ -3,7 +3,7 @@ title: "Los Angeles 2028: A Olimpíada que Vai Redefinir o Modelo dos Jogos para
 subtitle: "Com dois anos de antecedência, a edição californiana já acumula decisões estruturais que prometem transformar permanentemente o formato, o financiamento e o legado dos Jogos Olímpicos modernos"
 date: 2026-05-23
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - olympic-games
 description: "A edição de Los Angeles 2028 não é apenas mais uma etapa no calendário olímpico. As decisões tomadas pelo COI e pelo comitê organizador LA28 apontam para uma ruptura deliberada com o modelo tradicional dos Jogos, com impactos que vão desde a estrutura de custos até a programação esportiva e a relação com patrocinadores privados. A Duna Press analisa o que está em jogo."

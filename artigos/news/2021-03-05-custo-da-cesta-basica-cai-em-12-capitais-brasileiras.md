@@ -2,7 +2,7 @@
 title: Custo da cesta básica cai em 12 capitais brasileiras
 date: 2021-03-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

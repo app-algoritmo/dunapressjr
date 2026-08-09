@@ -3,7 +3,7 @@ title: Deputado Luiz Philippe de Orleans e Bragança denuncia falta de debates e
   do Congresso brasileiro
 date: 2023-07-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

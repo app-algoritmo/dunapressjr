@@ -3,7 +3,7 @@ title: 4.01 Lei sancionada por Jair Bolsonaro prevê a realização na semana do
   1º de fevereiro de cada ano
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

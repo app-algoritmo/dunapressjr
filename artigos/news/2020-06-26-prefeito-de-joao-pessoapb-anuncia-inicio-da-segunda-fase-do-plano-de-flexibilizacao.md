@@ -2,7 +2,7 @@
 title: Prefeito de João Pessoa/PB anuncia início da segunda fase do Plano de Flexibilização
 date: 2020-06-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

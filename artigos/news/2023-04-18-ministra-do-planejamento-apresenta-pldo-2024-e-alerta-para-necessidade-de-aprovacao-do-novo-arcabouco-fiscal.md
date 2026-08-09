@@ -3,7 +3,7 @@ title: Ministra do Planejamento apresenta PLDO 2024 e alerta para necessidade de
   do novo arcabouço fiscal
 date: 2023-04-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

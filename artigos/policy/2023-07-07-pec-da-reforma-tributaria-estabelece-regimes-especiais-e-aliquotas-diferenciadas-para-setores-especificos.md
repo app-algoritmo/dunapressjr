@@ -3,7 +3,7 @@ title: PEC da reforma tributária estabelece regimes especiais e alíquotas dife
   para setores específicos
 date: 2023-07-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

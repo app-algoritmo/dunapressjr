@@ -2,7 +2,7 @@
 title: Diretor-geral da PF detalha mudanças no passaporte brasileiro
 date: 2022-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

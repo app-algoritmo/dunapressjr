@@ -2,7 +2,7 @@
 title: Governo liberou em maio mais de R$ 30 milhões para obras de saneamento
 date: 2020-05-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

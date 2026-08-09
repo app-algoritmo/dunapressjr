@@ -2,7 +2,7 @@
 title: 'IBGE: Volume de serviços recua em janeiro de 2023'
 date: 2023-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

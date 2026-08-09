@@ -3,7 +3,7 @@ title: Regulamentada por decreto equipe para a realização da inspeção ante e
   mortem de animais em estabelecimentos
 date: 2020-07-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

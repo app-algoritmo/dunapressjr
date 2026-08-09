@@ -2,7 +2,7 @@
 title: Gastos do governo contra pandemia somaram R$ 620,5 bi, diz ministério
 date: 2020-12-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

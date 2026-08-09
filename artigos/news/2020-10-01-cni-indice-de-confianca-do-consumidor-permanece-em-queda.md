@@ -2,7 +2,7 @@
 title: 'CNI: índice de confiança do consumidor permanece em queda'
 date: 2020-10-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

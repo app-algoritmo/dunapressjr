@@ -3,7 +3,7 @@ title: "A floresta que parecia vazia guardava 1.200 anos de história: o que o C
 subtitle: "Novas escavações em Mato Grosso e Goiás estão reescrevendo a ocupação humana do interior brasileiro — e pressionando o tempo contra o avanço do agronegócio sobre sítios ainda não mapeados."
 date: 2026-06-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - arqueologia
 description: "Pesquisas recentes no Cerrado identificaram mais de 400 sítios arqueológicos em regiões consideradas 'vazias' até a colonização portuguesa, revelando sociedades complexas que floresceram entre os séculos VIII e XVI. O paradoxo é que justo agora, quando a ciência começa a decifrar essa história, o ritmo de conversão do bioma em lavoura ameaça enterrar — ou destruir — o que ainda não foi encontrado."

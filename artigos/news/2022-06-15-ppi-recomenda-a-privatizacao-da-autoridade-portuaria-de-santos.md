@@ -2,7 +2,7 @@
 title: PPI recomenda a privatização da Autoridade Portuária de Santos
 date: 2022-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

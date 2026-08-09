@@ -3,7 +3,7 @@ title: Ministério da Economia aprova financiamento externo de US$ 230 milhões 
   AgroNordeste
 date: 2020-08-05
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

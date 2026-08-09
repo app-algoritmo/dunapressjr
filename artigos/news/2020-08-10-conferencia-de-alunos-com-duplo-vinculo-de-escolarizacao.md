@@ -2,7 +2,7 @@
 title: Conferência de alunos com duplo vínculo de escolarização
 date: 2020-08-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

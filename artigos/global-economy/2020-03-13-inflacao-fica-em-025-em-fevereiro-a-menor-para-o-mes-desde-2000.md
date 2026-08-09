@@ -2,7 +2,7 @@
 title: Inflação fica em 0,25% em fevereiro, a menor para o mês desde 2000
 date: 2020-03-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

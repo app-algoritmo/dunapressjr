@@ -3,7 +3,7 @@ title: Balança Comercial registra superávit de US$ 1,160 bilhão na primeira s
   de fevereiro
 date: 2020-02-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

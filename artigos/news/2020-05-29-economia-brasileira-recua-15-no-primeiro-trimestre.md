@@ -2,7 +2,7 @@
 title: Economia brasileira recua 1,5% no primeiro trimestre
 date: 2020-05-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

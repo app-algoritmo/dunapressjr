@@ -3,7 +3,7 @@ title: "A floresta que se regenera sozinha: cientistas descobrem que 78% do desm
 subtitle: "Novos dados de sensoriamento remoto desafiam a narrativa do ponto de não-retorno e abrem um debate urgente sobre onde e como proteger o que ainda resta"
 date: 2026-06-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - environment
 description: "Pesquisa publicada na revista Science em junho de 2026 mostra que áreas desmatadas na Amazônia recuperam até 78% da biomassa original em duas décadas quando o solo não é exaurido por pastagem intensiva. O dado não cancela o alarme — mas muda radicalmente a conversa sobre onde investir os próximos R$ 19 bilhões do Fundo Amazônia."

@@ -2,7 +2,7 @@
 title: Copom reduz juros básicos da economia para 2% ao ano
 date: 2020-08-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

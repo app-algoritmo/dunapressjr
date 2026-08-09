@@ -3,7 +3,7 @@ title: Desembargador ordena sequestro de R$ 134,2 milhões de 30 denunciados da 
   Calvário
 date: 2020-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Câmara aprova MP que aumenta margem do crédito consignado
 date: 2022-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

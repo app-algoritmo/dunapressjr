@@ -2,7 +2,7 @@
 title: Governo da Paraíba abre edital de credenciamento para profissionais da saúde
 date: 2020-06-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

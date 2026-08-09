@@ -2,7 +2,7 @@
 title: 'Silvio Santos: The Icon of Brazilian Television and Successful Entrepreneur'
 date: 2024-08-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Entrepreneurship
 - Motivational

@@ -2,7 +2,7 @@
 title: 'Coronavírus: voos são vistoriados pela Anvisa em SP'
 date: 2020-01-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

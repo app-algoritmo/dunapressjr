@@ -2,7 +2,7 @@
 title: 'Morte de Alexei Navalny na Rússia: Um Alerta para Bolsonaro no Brasil'
 date: 2024-02-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

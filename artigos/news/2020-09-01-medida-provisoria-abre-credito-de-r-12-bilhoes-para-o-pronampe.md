@@ -2,7 +2,7 @@
 title: Medida provisória abre crédito de R$ 12 bilhões para o Pronampe
 date: 2020-09-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

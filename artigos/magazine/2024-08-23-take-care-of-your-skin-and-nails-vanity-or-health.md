@@ -2,7 +2,7 @@
 title: 'Take care of your skin and nails: Vanity or Health?'
 date: 2024-08-23
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Magazine
 ---

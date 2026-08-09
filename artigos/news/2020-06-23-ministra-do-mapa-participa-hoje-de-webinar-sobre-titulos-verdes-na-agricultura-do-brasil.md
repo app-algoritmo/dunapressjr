@@ -3,7 +3,7 @@ title: Ministra do Mapa participa, hoje, de webinar sobre títulos verdes na agr
   do Brasil
 date: 2020-06-23
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

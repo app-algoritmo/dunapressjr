@@ -3,7 +3,7 @@ title: Coordenada pelo MAPA última etapa técnica para novas três áreas livre
   sem vacinação
 date: 2020-05-27
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Decreto presidencial cria RG com número único para todo o país
 date: 2022-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

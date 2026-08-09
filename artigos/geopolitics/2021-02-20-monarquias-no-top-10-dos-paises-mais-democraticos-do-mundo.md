@@ -2,7 +2,7 @@
 title: Monarquias no top 10 dos países mais democráticos do mundo
 date: 2021-02-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - World Affairs

@@ -2,7 +2,7 @@
 title: Crédito rural da safra 2019/2020 fecharam em R$ 225 bilhões em contratações
 date: 2020-07-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

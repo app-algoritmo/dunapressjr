@@ -3,7 +3,7 @@ title: Panamá Papers, o maior cartel de desvios econômicos do mundo, relaciona
   de empresas e brasileiros
 date: 2020-02-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

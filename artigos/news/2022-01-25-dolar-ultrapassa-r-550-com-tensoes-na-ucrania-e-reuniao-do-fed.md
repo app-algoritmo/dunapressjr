@@ -2,7 +2,7 @@
 title: Dólar ultrapassa R$ 5,50 com tensões na Ucrânia e reunião do Fed
 date: 2022-01-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

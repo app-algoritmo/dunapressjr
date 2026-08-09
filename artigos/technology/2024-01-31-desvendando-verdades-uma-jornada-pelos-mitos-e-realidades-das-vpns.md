@@ -2,7 +2,7 @@
 title: 'Desvendando Verdades: Uma Jornada pelos Mitos e Realidades das VPNs'
 date: 2024-01-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

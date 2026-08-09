@@ -2,7 +2,7 @@
 title: 'Tartária: O Enigma do Império Perdido'
 date: 2024-03-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - History
 ---

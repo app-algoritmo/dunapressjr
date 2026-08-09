@@ -2,7 +2,7 @@
 title: Caixa Econômica Federal inicia cobrança de tarifas para PJ no Pix
 date: 2023-06-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

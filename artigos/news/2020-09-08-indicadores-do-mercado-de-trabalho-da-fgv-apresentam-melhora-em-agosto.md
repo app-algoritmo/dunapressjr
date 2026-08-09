@@ -2,7 +2,7 @@
 title: Indicadores do mercado de trabalho da FGV apresentam melhora em agosto
 date: 2020-09-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

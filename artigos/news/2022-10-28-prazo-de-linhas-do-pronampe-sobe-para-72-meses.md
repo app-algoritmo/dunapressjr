@@ -2,7 +2,7 @@
 title: Prazo de linhas do Pronampe sobe para 72 meses
 date: 2022-10-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

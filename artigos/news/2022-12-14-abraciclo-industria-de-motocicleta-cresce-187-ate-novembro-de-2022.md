@@ -2,7 +2,7 @@
 title: 'Abraciclo: indústria de motocicleta cresce 18,7% até novembro de 2022'
 date: 2022-12-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

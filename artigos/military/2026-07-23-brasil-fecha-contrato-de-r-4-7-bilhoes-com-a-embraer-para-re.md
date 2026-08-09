@@ -3,7 +3,7 @@ title: "Brasil fecha contrato de R$ 4,7 bilhões com a Embraer para renovar a fr
 subtitle: "A compra de 24 novos Gripen NG configura a maior aposta da Força Aérea Brasileira em capacidade de combate desde os anos 1980 — e reposiciona o Brasil no tabuleiro militar sul-americano."
 date: 2026-07-23
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - military
 description: "O Brasil assinou em julho de 2026 um contrato de R$ 4,7 bilhões com a Embraer e a Saab para a aquisição de 24 caças Gripen NG adicionais, ampliando para 60 o total da frota modernizada da FAB. A decisão não é apenas operacional: ela sinaliza uma doutrina de defesa mais assertiva e reconfigura as relações de poder militar em uma América do Sul crescentemente dividida."

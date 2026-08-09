@@ -3,7 +3,7 @@ title: Petrobras anuncia redução média de 7,1% no preço do gás natural a pa
   agosto
 date: 2023-07-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

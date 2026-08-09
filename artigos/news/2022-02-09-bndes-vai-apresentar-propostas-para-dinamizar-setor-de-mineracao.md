@@ -2,7 +2,7 @@
 title: BNDES vai apresentar propostas para dinamizar setor de mineração
 date: 2022-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

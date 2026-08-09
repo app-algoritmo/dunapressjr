@@ -3,7 +3,7 @@ title: "A farmacêutica dinamarquesa que convenceu o SUS a repensar o tratamento
 subtitle: "A incorporação dos análogos de GLP-1 ao protocolo público brasileiro marca uma virada silenciosa na forma como o Estado trata doenças crônicas — e coloca o Brasil em rota de colisão com décadas de abordagem punitiva ao peso."
 date: 2026-08-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - health
 description: "O Ministério da Saúde abriu em julho de 2026 consulta pública para incluir semaglutida no rol de medicamentos fornecidos pelo SUS a pacientes com obesidade grau II e comorbidades — uma decisão pressionada por dados clínicos robustos e pelo lobby discreto da Novo Nordisk, que investiu R$ 340 milhões em capacidade produtiva no Brasil desde 2024. O movimento reacende o debate sobre o que custa mais ao Estado: tratar a obesidade como doença ou arcar com suas consequências cardiovasculares."

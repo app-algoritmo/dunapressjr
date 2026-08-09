@@ -2,7 +2,7 @@
 title: Sobe para 21 número de estados com nota A e B do Tesouro
 date: 2022-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

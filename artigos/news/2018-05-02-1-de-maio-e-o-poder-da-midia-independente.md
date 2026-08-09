@@ -2,7 +2,7 @@
 title: 1 de maio e o poder da mídia independente
 date: 2018-05-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

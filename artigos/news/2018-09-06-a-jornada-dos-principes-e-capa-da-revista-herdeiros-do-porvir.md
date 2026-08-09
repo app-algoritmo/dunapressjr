@@ -2,7 +2,7 @@
 title: A Jornada dos Príncipes é capa da Revista Herdeiros do Porvir
 date: 2018-09-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: <strong>Receita Federal assina acordo com a Noruega para a eliminação d
   tributação</strong>
 date: 2022-11-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

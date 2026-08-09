@@ -3,7 +3,7 @@ title: Acordo entre governo e oposição suspende decretos do Marco Legal do San
   Básico
 date: 2023-07-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

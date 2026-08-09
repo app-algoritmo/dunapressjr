@@ -1,8 +1,8 @@
 ---
-title: 'Microquimerismo: A Presença de Células distintas  no Corpo Humano'
+title: 'Microquimerismo: A Presença de Células distintas no Corpo Humano'
 date: 2024-08-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Science
 ---

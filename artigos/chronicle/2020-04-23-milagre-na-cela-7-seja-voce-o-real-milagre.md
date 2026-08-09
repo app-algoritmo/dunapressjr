@@ -1,5 +1,5 @@
 ---
-title: 'Milagre na cela 7:  Seja você o real milagre'
+title: 'Milagre na cela 7: Seja você o real milagre'
 date: 2020-04-23
 status: publish
 author: Carlos Alberto

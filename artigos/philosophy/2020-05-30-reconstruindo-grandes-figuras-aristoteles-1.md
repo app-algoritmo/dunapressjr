@@ -2,7 +2,7 @@
 title: 'Reconstruindo Grandes Figuras: Aristóteles #1'
 date: 2020-05-30
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - Philosophy
 ---

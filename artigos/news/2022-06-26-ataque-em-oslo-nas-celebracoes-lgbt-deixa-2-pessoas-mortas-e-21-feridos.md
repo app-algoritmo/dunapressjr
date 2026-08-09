@@ -2,7 +2,7 @@
 title: Ataque em Oslo nas celebrações LGBT deixa 2 pessoas mortas e 21 feridos
 date: 2022-06-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

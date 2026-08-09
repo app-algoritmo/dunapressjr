@@ -2,7 +2,7 @@
 title: Energia Eólica será expandida gerando oportunidades e trabalho
 date: 2018-10-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

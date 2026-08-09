@@ -2,7 +2,7 @@
 title: 'FGV/IBRE: INCC-M varia 0,20% em outubro'
 date: 2023-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

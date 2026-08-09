@@ -2,7 +2,7 @@
 title: Executivo usa R$ 140,9 bilhões do Tesouro para abater juros da dívida pública
 date: 2021-03-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

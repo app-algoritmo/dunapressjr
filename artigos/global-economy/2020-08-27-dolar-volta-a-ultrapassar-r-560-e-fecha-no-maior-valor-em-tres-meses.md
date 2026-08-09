@@ -2,7 +2,7 @@
 title: Dólar volta a ultrapassar R$ 5,60 e fecha no maior valor em três meses
 date: 2020-08-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

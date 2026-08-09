@@ -2,7 +2,7 @@
 title: Regime comunista chinês condena cardeal por apoiar manifestantes
 date: 2022-11-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,23 e fecha no maior valor em duas semanas
 date: 2021-08-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

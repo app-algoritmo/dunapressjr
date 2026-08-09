@@ -2,7 +2,7 @@
 title: Guedes diz que governo vai manter teto de gastos
 date: 2020-04-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

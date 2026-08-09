@@ -2,7 +2,7 @@
 title: Por que os comunistas querem acabar com as Forças Armadas?
 date: 2022-12-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

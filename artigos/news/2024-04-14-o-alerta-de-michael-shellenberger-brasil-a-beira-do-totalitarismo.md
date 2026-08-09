@@ -2,7 +2,7 @@
 title: 'O Alerta de Michael Shellenberger: Brasil à Beira do Totalitarismo'
 date: 2024-04-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

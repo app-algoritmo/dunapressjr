@@ -2,7 +2,7 @@
 title: Regras e novidades do Imposto de Renda 2021
 date: 2021-03-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

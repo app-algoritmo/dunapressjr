@@ -2,7 +2,7 @@
 title: Como funciona a economia?
 date: 2022-01-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

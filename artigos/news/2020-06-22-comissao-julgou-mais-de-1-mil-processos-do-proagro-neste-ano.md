@@ -2,7 +2,7 @@
 title: Comissão julgou mais de 1 mil processos do Proagro neste ano
 date: 2020-06-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

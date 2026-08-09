@@ -2,7 +2,7 @@
 title: Pará pede a Sergio Moro por reforço da Força Nacional
 date: 2019-01-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

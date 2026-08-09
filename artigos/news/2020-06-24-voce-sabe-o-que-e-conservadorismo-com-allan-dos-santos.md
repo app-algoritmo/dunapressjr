@@ -2,7 +2,7 @@
 title: Você sabe o que é conservadorismo? com Allan dos Santos
 date: 2020-06-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

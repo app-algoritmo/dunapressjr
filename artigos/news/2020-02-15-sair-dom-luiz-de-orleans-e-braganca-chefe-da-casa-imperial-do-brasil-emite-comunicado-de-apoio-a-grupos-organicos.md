@@ -3,7 +3,7 @@ title: S.A.I.R Dom Luiz de Orleans e Bragança, chefe da casa imperial do Brasil
   comunicado de apoio à grupos orgânicos
 date: 2020-02-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

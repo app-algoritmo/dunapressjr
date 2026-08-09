@@ -2,7 +2,7 @@
 title: PIB do primeiro trimestre mostra recuperação econômica, diz SPE
 date: 2021-06-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

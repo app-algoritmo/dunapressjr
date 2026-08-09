@@ -2,7 +2,7 @@
 title: Medidas Eficazes para Eliminar as Apologias ao Consumo e ao Tráfico de Drogas
 date: 2024-03-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

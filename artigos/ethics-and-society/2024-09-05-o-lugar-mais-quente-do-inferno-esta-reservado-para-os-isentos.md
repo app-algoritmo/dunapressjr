@@ -2,7 +2,7 @@
 title: O Lugar Mais Quente do Inferno Está Reservado para os Isentos
 date: 2024-09-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Ethics and Society
 ---

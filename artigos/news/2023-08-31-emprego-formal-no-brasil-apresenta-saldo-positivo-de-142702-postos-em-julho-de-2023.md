@@ -3,7 +3,7 @@ title: Emprego formal no Brasil apresenta saldo positivo de 142.702 postos em ju
   de 2023
 date: 2023-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

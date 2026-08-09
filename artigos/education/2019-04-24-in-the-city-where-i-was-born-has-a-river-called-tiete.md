@@ -2,7 +2,7 @@
 title: In the city where I was born has a river called Tietê
 date: 2019-04-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

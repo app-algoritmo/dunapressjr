@@ -1,8 +1,8 @@
 ---
-title: Em busca de protagonismo,  jornal 'o antagonista' produz Fake News
+title: Em busca de protagonismo, jornal 'o antagonista' produz Fake News
 date: 2018-11-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

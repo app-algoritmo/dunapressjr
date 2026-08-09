@@ -2,7 +2,7 @@
 title: IPCA-15 varia 0,09% em outubro
 date: 2019-10-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

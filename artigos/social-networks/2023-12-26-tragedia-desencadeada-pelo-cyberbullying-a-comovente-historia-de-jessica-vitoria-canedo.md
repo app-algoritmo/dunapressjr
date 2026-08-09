@@ -3,7 +3,7 @@ title: 'Tragédia Desencadeada pelo Cyberbullying: A Comovente História de Jess
   Vitória Canedo'
 date: 2023-12-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Social networks
 ---

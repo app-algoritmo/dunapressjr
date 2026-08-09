@@ -2,7 +2,7 @@
 title: Twitter diz que demitiu 50% da equipe; rede tranquiliza sobre conteúdo
 date: 2022-11-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Senado aprova negociação de dívidas de micro e pequenas empresas
 date: 2020-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

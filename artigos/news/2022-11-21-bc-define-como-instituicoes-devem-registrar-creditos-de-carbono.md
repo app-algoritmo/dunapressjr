@@ -2,7 +2,7 @@
 title: BC define como instituições devem registrar créditos de carbono
 date: 2022-11-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

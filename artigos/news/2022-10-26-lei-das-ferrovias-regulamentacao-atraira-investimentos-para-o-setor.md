@@ -2,7 +2,7 @@
 title: 'Lei das Ferrovias: regulamentação atrairá investimentos para o setor'
 date: 2022-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

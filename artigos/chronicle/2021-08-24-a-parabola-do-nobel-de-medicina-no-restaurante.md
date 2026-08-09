@@ -1,5 +1,5 @@
 ---
-title: A parábola do Nobel de Medicina  no restaurante
+title: A parábola do Nobel de Medicina no restaurante
 date: 2021-08-24
 status: publish
 author: Dan Berg

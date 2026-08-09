@@ -2,7 +2,7 @@
 title: Fernando Cerimedo explica sobre as consultas de votos por CPF
 date: 2022-12-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

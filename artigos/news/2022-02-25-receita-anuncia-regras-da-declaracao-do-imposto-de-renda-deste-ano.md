@@ -2,7 +2,7 @@
 title: Receita anuncia regras da Declaração do Imposto de Renda deste ano
 date: 2022-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Taxa de desocupação no Brasil recua para 8,0% no trimestre abril a junh
   2023
 date: 2026-03-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

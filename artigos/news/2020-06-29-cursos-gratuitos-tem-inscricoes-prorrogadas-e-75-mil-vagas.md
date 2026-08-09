@@ -2,7 +2,7 @@
 title: Cursos gratuitos tem inscrições prorrogadas e 75 mil vagas
 date: 2020-06-29
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

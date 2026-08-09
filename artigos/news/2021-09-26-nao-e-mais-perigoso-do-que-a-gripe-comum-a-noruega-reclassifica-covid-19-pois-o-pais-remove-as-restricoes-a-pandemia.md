@@ -3,7 +3,7 @@ title: 'Não é mais perigoso do que a gripe comum: a Noruega reclassifica COVID
   pois o país remove as restrições à pandemia'
 date: 2021-09-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

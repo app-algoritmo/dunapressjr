@@ -3,7 +3,7 @@ title: "Lula assina decreto que redesenha o financiamento de campanhas municipai
 subtitle: "Com o Fundo Eleitoral sob escrutínio do Congresso e eleições municipais de outubro se aproximando, a decisão presidencial reacende o debate sobre quem, afinal, paga a democracia brasileira."
 date: 2026-07-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - politics-and-society
 description: "O governo federal alterou por decreto as regras de distribuição do Fundo Especial de Financiamento de Campanha, mexendo em R$ 4,9 bilhões alocados para as eleições municipais de outubro. A mudança chega em momento crítico: partidos pequenos e movimentos sociais organizados disputam espaço com legendas do Centrão que dominam os repasses há três ciclos eleitorais consecutivos."

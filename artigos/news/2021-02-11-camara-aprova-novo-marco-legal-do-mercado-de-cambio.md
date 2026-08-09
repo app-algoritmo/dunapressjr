@@ -2,7 +2,7 @@
 title: Câmara aprova novo Marco Legal do Mercado de Câmbio
 date: 2021-02-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

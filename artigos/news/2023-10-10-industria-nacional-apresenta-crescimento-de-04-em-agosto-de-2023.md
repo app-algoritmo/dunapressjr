@@ -2,7 +2,7 @@
 title: Indústria nacional apresenta crescimento de 0,4% em agosto de 2023
 date: 2023-10-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

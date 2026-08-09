@@ -3,7 +3,7 @@ title: Inflação na Argentina é a terceira pior do mundo, segundo levantamento
   Oeste
 date: 2023-04-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

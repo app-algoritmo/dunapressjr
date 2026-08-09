@@ -1,8 +1,8 @@
 ---
-title: Doenças e vacinas, avances científicos e  revelações
+title: Doenças e vacinas, avances científicos e revelações
 date: 2020-01-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 ---

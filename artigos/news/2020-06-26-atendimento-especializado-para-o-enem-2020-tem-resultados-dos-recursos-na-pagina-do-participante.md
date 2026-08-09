@@ -3,7 +3,7 @@ title: Atendimento especializado para o Enem 2020 tem resultados dos recursos na
   do Participante
 date: 2020-06-26
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: '''Tecnologia 5G será o assunto de 2021”, afirma Fábio Faria'
 date: 2020-07-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

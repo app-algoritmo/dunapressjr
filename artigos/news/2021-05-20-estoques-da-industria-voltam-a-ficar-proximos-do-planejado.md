@@ -2,7 +2,7 @@
 title: Estoques da indústria voltam a ficar próximos do planejado
 date: 2021-05-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

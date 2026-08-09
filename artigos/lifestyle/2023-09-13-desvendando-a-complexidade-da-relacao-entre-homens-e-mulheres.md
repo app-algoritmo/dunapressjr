@@ -2,7 +2,7 @@
 title: Desvendando a Complexidade da Relação entre Homens e Mulheres
 date: 2023-09-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Lifestyle
 - Video library

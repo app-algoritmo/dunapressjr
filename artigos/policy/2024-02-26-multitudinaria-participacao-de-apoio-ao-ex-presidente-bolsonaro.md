@@ -2,7 +2,7 @@
 title: Multitudinária participação de apoio ao ex-presidente Bolsonaro
 date: 2024-02-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

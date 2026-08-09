@@ -2,7 +2,7 @@
 title: Google bloqueia tradução português-inglês com palavra Bolsonaro
 date: 2022-12-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

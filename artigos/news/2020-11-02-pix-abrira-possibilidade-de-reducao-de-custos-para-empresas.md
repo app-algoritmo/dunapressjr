@@ -2,7 +2,7 @@
 title: Pix abrirá possibilidade de redução de custos para empresas
 date: 2020-11-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

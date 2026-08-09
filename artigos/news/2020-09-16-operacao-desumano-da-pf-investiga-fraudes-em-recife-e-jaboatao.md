@@ -2,7 +2,7 @@
 title: Operação Desumano da PF investiga fraudes em Recife e Jaboatão
 date: 2020-09-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

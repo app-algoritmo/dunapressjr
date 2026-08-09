@@ -2,7 +2,7 @@
 title: Deputados adiam votação do projeto que altera regras do Imposto de Renda
 date: 2021-08-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

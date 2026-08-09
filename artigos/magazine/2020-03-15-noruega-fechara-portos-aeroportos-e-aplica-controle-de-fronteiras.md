@@ -2,7 +2,7 @@
 title: Noruega fechará portos, aeroportos e aplica controle de fronteiras
 date: 2020-03-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

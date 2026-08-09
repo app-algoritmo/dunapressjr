@@ -3,7 +3,7 @@ title: "O Colapso dos Impérios e a Geometria do Poder: Lições que o Século X
 subtitle: "Da queda de Roma ao desmoronamento da ordem bipolar, a história dos grandes impérios revela padrões recorrentes de ascensão e declínio que continuam a moldar — e a desafiar — a arquitetura geopolítica contemporânea."
 date: 2026-05-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - history
 description: "Uma análise aprofundada sobre os ciclos de colapso imperial ao longo da história, identificando os vetores estruturais — econômicos, militares, culturais e institucionais — que determinam a longevidade ou a ruína das grandes potências, e como esses padrões se manifestam no cenário global de 2026."

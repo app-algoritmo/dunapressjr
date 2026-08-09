@@ -3,7 +3,7 @@ title: "A Convergência Silenciosa: Como a Inteligência Artificial e a Biotecno
 subtitle: "Além do hype tecnológico, uma transformação estrutural e irreversível está em curso — e as instituições humanas ainda não encontraram respostas à altura da velocidade das mudanças"
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - future-and-innovation
 description: "A fusão entre inteligência artificial e biotecnologia não é apenas uma fronteira científica — é um ponto de inflexão civilizatório. Este artigo analisa como essa convergência tecnológica está redesenhando relações de trabalho, saúde, poder e identidade, e por que as respostas institucionais seguem perigosamente atrasadas."

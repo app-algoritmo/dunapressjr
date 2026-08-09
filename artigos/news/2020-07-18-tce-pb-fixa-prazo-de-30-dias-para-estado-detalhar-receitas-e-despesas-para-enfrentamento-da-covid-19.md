@@ -3,7 +3,7 @@ title: TCE-PB fixa prazo de 30 dias para Estado detalhar receitas e despesas par
   enfrentamento da COVID-19
 date: 2020-07-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

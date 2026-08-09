@@ -2,7 +2,7 @@
 title: Ibovespa fecha com leve baixa e volume reduzido de negociação
 date: 2022-12-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: "O que acontece com o seu cérebro depois de 30 dias sem dormir direito �
 subtitle: "Nova pesquisa publicada em junho de 2026 na revista Nature Neuroscience revela que a privação crônica de sono reorganiza circuitos cerebrais de forma mensurável em menos de quatro semanas — e o Brasil, com 65% da população adulta dormindo abaixo do mínimo recomendado, está no centro desse debate."
 date: 2026-06-30
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - science
 description: "Um estudo publicado na Nature Neuroscience em junho de 2026 demonstrou que 30 dias de sono insuficiente alteram estruturalmente conexões no córtex pré-frontal, região ligada a decisão e memória. Com dois terços dos brasileiros dormindo menos de seis horas por noite, os achados deixam de ser curiosidade científica e passam a ter implicações diretas para produtividade, saúde e política pública."

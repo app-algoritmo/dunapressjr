@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,20 e fecha no menor valor do ano
 date: 2023-01-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

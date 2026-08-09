@@ -2,7 +2,7 @@
 title: 'FGV: IGP-10 varia 0,02% em fevereiro'
 date: 2023-02-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

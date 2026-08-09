@@ -3,7 +3,7 @@ title: Como fiscalizar os quase 90 bilhões que o Governo Federal vai transferir
   Estados e Municípios?
 date: 2020-04-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

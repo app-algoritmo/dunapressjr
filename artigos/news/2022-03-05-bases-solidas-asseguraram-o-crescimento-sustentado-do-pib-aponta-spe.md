@@ -2,7 +2,7 @@
 title: Bases sólidas asseguraram o crescimento sustentado do PIB, aponta SPE
 date: 2022-03-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

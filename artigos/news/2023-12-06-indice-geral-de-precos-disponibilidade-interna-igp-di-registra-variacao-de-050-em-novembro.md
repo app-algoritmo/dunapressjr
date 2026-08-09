@@ -3,7 +3,7 @@ title: Índice Geral de Preços – Disponibilidade Interna (IGP-DI) registra va
   de 0,50% em novembro
 date: 2023-12-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

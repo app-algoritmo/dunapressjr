@@ -2,7 +2,7 @@
 title: Bolsa se recupera e fecha no maior nível em quatro meses
 date: 2020-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

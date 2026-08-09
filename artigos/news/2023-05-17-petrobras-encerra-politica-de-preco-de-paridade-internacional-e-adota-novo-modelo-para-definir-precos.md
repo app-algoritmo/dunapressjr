@@ -3,7 +3,7 @@ title: Petrobras encerra política de Preço de Paridade Internacional e adota n
   modelo para definir preços
 date: 2023-05-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

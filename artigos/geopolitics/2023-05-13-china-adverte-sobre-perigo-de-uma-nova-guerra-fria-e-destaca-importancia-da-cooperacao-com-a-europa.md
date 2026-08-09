@@ -3,7 +3,7 @@ title: China adverte sobre perigo de uma 'nova' Guerra Fria e destaca importânc
   da cooperação com a Europa
 date: 2023-05-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Geopolitics
 ---

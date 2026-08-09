@@ -3,7 +3,7 @@ title: Em reunião com parlamentares, Luiz Philippe defende liberdade tributári
   estados e municípios
 date: 2020-08-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

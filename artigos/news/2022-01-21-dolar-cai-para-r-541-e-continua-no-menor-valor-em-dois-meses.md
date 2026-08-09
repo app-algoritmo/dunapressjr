@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,41 e continua no menor valor em dois meses
 date: 2022-01-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

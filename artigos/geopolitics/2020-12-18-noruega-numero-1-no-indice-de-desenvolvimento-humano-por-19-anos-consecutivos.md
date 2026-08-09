@@ -2,7 +2,7 @@
 title: Noruega número 1 no Índice de Desenvolvimento Humano por 19 anos consecutivos
 date: 2020-12-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - World Affairs

@@ -2,7 +2,7 @@
 title: Empresa automotiva chinesa anuncia fábrica no interior de São Paulo
 date: 2022-01-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

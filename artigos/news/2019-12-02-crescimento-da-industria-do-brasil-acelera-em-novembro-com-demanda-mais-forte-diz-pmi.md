@@ -3,7 +3,7 @@ title: Crescimento da indústria do Brasil acelera em novembro com demanda mais 
   diz PMI
 date: 2019-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

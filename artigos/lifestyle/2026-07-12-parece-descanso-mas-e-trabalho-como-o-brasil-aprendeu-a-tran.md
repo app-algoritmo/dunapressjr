@@ -3,7 +3,7 @@ title: "Parece descanso, mas é trabalho: como o Brasil aprendeu a transformar o
 subtitle: "Quando relaxar virou performance, o país que mais sofre de burnout na América Latina começa a questionar o que significa, de fato, parar."
 date: 2026-07-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - lifestyle
 description: "O Brasil lidera o ranking de burnout na América Latina e, paradoxalmente, transformou o próprio descanso em mais uma obrigação de alto desempenho. Entender essa armadilha é o primeiro passo para sair dela — e algumas cidades e empresas brasileiras já estão tentando."

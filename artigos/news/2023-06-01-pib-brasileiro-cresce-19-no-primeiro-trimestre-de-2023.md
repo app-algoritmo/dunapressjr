@@ -2,7 +2,7 @@
 title: PIB brasileiro cresce 1,9% no primeiro trimestre de 2023
 date: 2023-06-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

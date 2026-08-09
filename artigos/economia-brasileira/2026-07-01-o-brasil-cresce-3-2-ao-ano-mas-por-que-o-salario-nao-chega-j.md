@@ -3,7 +3,7 @@ title: "O Brasil cresce 3,2% ao ano — mas por que o salário não chega junto?
 subtitle: "A economia brasileira acumula sequência rara de expansão, mas a distância entre o PIB no papel e o poder de compra real expõe uma estrutura que distribui crescimento de forma desigual e lenta."
 date: 2026-07-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - economia-brasileira
 description: "O Brasil encerra o primeiro semestre de 2026 com crescimento acima de 3% ao ano e desemprego na casa de 6,8%, números que seriam motivo de celebração em qualquer economia emergente. O paradoxo é que a maioria dos brasileiros ainda não sente essa expansão no orçamento — e entender por que isso acontece é a chave para saber o que vem a seguir."

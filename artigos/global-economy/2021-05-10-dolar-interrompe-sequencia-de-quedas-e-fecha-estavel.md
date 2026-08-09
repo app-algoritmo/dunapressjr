@@ -2,7 +2,7 @@
 title: Dólar interrompe sequência de quedas e fecha estável
 date: 2021-05-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

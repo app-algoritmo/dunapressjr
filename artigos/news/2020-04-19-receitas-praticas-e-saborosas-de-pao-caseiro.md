@@ -1,5 +1,5 @@
 ---
-title: Receitas  práticas e saborosas de Pão Caseiro
+title: Receitas práticas e saborosas de Pão Caseiro
 date: 2020-04-19
 status: publish
 author: Joice Ferreira

@@ -2,7 +2,7 @@
 title: A velocidade da Internet mais rápida do mundo a partir de um único chip óptico
 date: 2020-05-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

@@ -2,7 +2,7 @@
 title: Bolsa brasileira fecha em alta impulsionada por dados de inflação nos EUA
 date: 2023-04-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

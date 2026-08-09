@@ -2,7 +2,7 @@
 title: Dólar chega a R$ 5,80, mas reduz alta no fim da tarde
 date: 2021-03-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

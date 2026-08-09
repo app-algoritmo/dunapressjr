@@ -2,7 +2,7 @@
 title: Faturas de cartão com linguagem simples podem reduzir endividamento
 date: 2022-10-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

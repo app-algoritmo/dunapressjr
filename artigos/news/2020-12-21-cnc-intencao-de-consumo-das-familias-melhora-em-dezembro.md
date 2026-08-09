@@ -2,7 +2,7 @@
 title: 'CNC: Intenção de Consumo das Famílias melhora em dezembro'
 date: 2020-12-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

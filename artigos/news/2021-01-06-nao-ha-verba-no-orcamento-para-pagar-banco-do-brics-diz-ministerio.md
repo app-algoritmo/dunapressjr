@@ -2,7 +2,7 @@
 title: Não há verba no orçamento para pagar Banco do Brics, diz ministério
 date: 2021-01-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

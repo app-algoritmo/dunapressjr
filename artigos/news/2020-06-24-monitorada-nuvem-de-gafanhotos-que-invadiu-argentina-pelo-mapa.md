@@ -2,7 +2,7 @@
 title: Monitorada nuvem de gafanhotos que invadiu Argentina pelo Mapa
 date: 2020-06-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

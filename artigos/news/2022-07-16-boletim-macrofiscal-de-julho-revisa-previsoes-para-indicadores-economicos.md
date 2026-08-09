@@ -2,7 +2,7 @@
 title: Boletim Macrofiscal de julho revisa previsões para indicadores econômicos
 date: 2022-07-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

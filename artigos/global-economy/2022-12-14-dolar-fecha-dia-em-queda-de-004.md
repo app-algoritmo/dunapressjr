@@ -2,7 +2,7 @@
 title: Dólar fecha dia em queda de 0,04%
 date: 2022-12-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

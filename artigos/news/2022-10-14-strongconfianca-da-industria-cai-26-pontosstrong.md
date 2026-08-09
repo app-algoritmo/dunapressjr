@@ -2,7 +2,7 @@
 title: <strong>Confiança da indústria cai 2,6 pontos</strong>
 date: 2022-10-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

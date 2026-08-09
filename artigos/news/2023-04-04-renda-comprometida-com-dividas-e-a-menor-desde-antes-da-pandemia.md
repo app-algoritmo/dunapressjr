@@ -2,7 +2,7 @@
 title: Renda comprometida com dívidas é a menor desde antes da pandemia
 date: 2023-04-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: IPC-S da quarta quadrissemana de outubro de 2023 sobe 0,45%
 date: 2023-11-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

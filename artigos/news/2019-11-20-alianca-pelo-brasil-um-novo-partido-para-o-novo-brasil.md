@@ -2,7 +2,7 @@
 title: Aliança pelo Brasil, um novo partido para o novo Brasil
 date: 2019-11-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

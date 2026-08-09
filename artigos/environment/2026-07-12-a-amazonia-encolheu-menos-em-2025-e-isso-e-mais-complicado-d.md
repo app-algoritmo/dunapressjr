@@ -3,7 +3,7 @@ title: "A Amazônia encolheu menos em 2025 — e isso é mais complicado do que 
 subtitle: "Os dados do INPE apontam queda no desmatamento, mas pesquisadores alertam que a floresta em pé pode estar funcionando de forma diferente do que imaginávamos."
 date: 2026-07-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - environment
 description: "O desmatamento da Amazônia recuou 32% em 2025 segundo o INPE — o menor índice em 17 anos —, mas novos estudos mostram que florestas aparentemente intactas estão perdendo capacidade de absorver carbono. O paradoxo entre as boas notícias do satélite e os alertas da ciência define o debate ambiental mais urgente do Brasil em 2026."

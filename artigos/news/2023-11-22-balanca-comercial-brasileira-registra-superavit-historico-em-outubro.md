@@ -2,7 +2,7 @@
 title: Balança comercial brasileira registra superávit histórico em outubro
 date: 2023-11-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

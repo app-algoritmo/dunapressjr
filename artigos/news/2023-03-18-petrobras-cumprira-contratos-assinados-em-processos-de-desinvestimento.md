@@ -2,7 +2,7 @@
 title: Petrobras cumprirá contratos assinados em processos de desinvestimento
 date: 2023-03-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

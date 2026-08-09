@@ -3,7 +3,7 @@ title: "A Honda volta pela porta da frente: como o motor japonês pode redesenha
 subtitle: "Com fornecimento confirmado para a Aston Martin a partir da nova era de regulamentos, a montadora de Tóquio aposta em soberania tecnológica — e coloca em xeque a hegemonia de Mercedes e Ferrari na guerra das unidades de potência."
 date: 2026-06-13
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - formula-1
 description: "A Honda retorna à Fórmula 1 como fornecedora independente de motores a partir de 2026, encerrando o arranjo técnico com a Red Bull e firmando parceria com a Aston Martin — uma virada que reorganiza o mapa de poder no automobilismo mundial. O movimento não é apenas esportivo: ele reflete a disputa global por liderança em propulsão híbrida de alta performance em um setor que vale bilhões."

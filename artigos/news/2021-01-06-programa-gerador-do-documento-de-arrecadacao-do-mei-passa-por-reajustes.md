@@ -2,7 +2,7 @@
 title: Programa gerador do Documento de Arrecadação do MEI passa por reajustes
 date: 2021-01-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

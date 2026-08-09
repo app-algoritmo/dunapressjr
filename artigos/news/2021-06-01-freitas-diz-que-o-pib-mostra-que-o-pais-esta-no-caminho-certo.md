@@ -2,7 +2,7 @@
 title: Freitas diz que o PIB mostra que o país está no caminho certo
 date: 2021-06-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

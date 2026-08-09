@@ -2,7 +2,7 @@
 title: FMI anuncia fechamento do escritório no Brasil
 date: 2021-12-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

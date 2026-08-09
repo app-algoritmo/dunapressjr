@@ -2,7 +2,7 @@
 title: Dólar alcança maior alta em dois meses
 date: 2023-12-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

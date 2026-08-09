@@ -2,7 +2,7 @@
 title: SOS Rio Grande Do Sul
 date: 2024-05-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Headlines
 ---

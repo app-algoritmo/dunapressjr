@@ -2,7 +2,7 @@
 title: Presidente do BC cita previsões de que PIB pode crescer de 1% a 2%
 date: 2022-06-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

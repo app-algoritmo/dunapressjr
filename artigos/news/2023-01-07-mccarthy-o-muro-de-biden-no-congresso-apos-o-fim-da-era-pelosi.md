@@ -2,7 +2,7 @@
 title: 'McCarthy: o muro de Biden no Congresso após o fim da era Pelosi'
 date: 2023-01-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 - World Affairs

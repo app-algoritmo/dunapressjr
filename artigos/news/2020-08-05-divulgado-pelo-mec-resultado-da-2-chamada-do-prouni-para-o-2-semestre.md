@@ -2,7 +2,7 @@
 title: Divulgado pelo Mec resultado da 2ª chamada do Prouni para o 2º semestre
 date: 2020-08-05
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

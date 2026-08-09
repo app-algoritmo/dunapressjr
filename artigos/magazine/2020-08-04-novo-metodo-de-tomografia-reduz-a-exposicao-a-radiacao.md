@@ -2,7 +2,7 @@
 title: Novo método de tomografia reduz a exposição à radiação
 date: 2020-08-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

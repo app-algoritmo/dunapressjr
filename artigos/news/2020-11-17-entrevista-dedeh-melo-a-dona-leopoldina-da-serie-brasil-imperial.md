@@ -2,7 +2,7 @@
 title: Entrevista Dedeh Melo, a Dona Leopoldina, da série Brasil imperial
 date: 2020-11-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

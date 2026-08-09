@@ -2,7 +2,7 @@
 title: Convite: Junte-se a duas conversas inspiradoras relacionadas a religião e ética
 date: 2022-06-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

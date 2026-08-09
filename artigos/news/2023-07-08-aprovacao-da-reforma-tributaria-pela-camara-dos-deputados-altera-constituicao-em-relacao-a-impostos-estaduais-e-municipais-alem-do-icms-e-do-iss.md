@@ -3,7 +3,7 @@ title: Aprovação da reforma tributária pela Câmara dos Deputados altera Cons
   em relação a impostos estaduais e municipais além do ICMS e do ISS
 date: 2023-07-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

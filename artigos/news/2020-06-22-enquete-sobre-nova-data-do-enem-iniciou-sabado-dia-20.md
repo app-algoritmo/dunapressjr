@@ -2,7 +2,7 @@
 title: Enquete sobre nova data do Enem iniciou sábado, dia 20
 date: 2020-06-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

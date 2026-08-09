@@ -2,7 +2,7 @@
 title: Dólar fecha em leve alta com expectativas sobre reunião do Fed
 date: 2021-04-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

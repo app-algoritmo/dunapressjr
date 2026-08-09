@@ -3,7 +3,7 @@ title: "O clube vale mais parado do que jogando: como as franquias de futebol vi
 subtitle: "Enquanto torcedores debatem escalações, gestores de fundos negociam fatias de clubes como se fossem ETFs — e essa lógica está redesenhando quem manda no futebol global."
 date: 2026-06-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - soccer
 description: "O futebol global vive uma virada silenciosa: fundos de private equity e conglomerados soberanos transformaram clubes em instrumentos financeiros cujo valor sobe independentemente dos resultados em campo. Entender essa dinâmica é entender quem vai decidir o futuro do esporte mais assistido do planeta."

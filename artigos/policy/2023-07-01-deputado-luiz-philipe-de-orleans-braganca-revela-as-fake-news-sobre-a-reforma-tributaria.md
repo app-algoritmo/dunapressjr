@@ -3,7 +3,7 @@ title: Deputado Luiz Philipe de Orleans Bragança revela as Fake News sobre a Re
   Tributária
 date: 2023-07-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

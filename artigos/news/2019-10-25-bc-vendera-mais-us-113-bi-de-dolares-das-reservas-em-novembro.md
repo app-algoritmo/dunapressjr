@@ -2,7 +2,7 @@
 title: BC venderá mais US$ 11,3 bi de dólares das reservas em novembro
 date: 2019-10-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Rússia promete vingança após ataque terrorista em sala de concertos
 date: 2024-03-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

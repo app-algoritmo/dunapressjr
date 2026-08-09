@@ -2,7 +2,7 @@
 title: A Noruega sobe ao pódio nos campeonatos de digitalização da UE
 date: 2020-06-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

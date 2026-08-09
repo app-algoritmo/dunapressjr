@@ -2,7 +2,7 @@
 title: Presidente da Eletrobras diz estar confiante em desestatização
 date: 2022-03-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

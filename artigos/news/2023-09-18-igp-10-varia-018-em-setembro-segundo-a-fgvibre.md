@@ -2,7 +2,7 @@
 title: IGP-10 varia 0,18% em setembro, segundo a FGV/IBRE
 date: 2023-09-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

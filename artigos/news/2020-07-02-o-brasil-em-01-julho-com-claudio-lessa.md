@@ -2,7 +2,7 @@
 title: O Brasil em 01 Julho com Claudio Lessa
 date: 2020-07-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

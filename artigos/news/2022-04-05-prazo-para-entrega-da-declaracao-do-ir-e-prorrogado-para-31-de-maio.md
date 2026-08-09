@@ -2,7 +2,7 @@
 title: Prazo para entrega da declaração do IR é prorrogado para 31 de maio
 date: 2022-04-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

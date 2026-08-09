@@ -2,7 +2,7 @@
 title: Copom reduz Selic para 3% ao ano para conter impacto de pandemia
 date: 2020-05-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

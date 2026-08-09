@@ -2,7 +2,7 @@
 title: O Prêmio Nobel da Paz
 date: 2018-12-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

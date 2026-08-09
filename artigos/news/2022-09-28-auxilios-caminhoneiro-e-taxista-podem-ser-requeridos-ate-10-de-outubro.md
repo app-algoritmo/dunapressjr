@@ -2,7 +2,7 @@
 title: Auxílios Caminhoneiro e Taxista podem ser requeridos até 10 de outubro
 date: 2022-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

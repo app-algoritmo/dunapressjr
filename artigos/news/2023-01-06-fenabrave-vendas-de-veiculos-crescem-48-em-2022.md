@@ -2,7 +2,7 @@
 title: 'Fenabrave: vendas de veículos crescem 4,8% em 2022'
 date: 2023-01-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

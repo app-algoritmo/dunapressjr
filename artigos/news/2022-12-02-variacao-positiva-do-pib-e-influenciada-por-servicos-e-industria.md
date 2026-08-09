@@ -2,7 +2,7 @@
 title: Variação positiva do PIB é influenciada por serviços e indústria
 date: 2022-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

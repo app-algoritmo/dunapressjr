@@ -2,7 +2,7 @@
 title: Ibovespa fecha em queda com guerra e desaceleração do crescimento do Brasil
 date: 2023-10-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

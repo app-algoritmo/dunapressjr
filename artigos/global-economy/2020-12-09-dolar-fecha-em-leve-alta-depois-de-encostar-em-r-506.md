@@ -2,7 +2,7 @@
 title: Dólar fecha em leve alta depois de encostar em R$ 5,06
 date: 2020-12-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

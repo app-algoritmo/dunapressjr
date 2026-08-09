@@ -3,7 +3,7 @@ title: 'Orleans e Bragança: ''Precisamos reconhecer que estamos vivendo em um E
   totalmente arbitrário'''
 date: 2022-12-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

@@ -2,7 +2,7 @@
 title: 'Noruega: Informações sobre viagens e coronavírus - perguntas e respostas'
 date: 2020-05-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

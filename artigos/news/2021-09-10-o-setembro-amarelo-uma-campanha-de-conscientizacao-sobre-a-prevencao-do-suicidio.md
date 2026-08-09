@@ -1,5 +1,5 @@
 ---
-title: 'O Setembro Amarelo:  Uma campanha de conscientização sobre a prevenção do
+title: 'O Setembro Amarelo: Uma campanha de conscientização sobre a prevenção do
   suicídio'
 date: 2021-09-10
 status: publish

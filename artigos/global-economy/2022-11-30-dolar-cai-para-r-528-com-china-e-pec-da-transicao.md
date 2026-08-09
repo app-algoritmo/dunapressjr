@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,28 com China e PEC da Transição
 date: 2022-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

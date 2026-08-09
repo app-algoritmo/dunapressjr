@@ -2,7 +2,7 @@
 title: Fim do auxílio emergencial ajudará a controlar inflação, diz Guedes
 date: 2020-12-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

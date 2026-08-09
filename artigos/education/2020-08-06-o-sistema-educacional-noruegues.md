@@ -2,7 +2,7 @@
 title: O sistema educacional norueguês
 date: 2020-08-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

@@ -2,7 +2,7 @@
 title: Pré-sal produzirá 7,7 bilhões de barris de óleo em partilha até 2032
 date: 2022-11-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

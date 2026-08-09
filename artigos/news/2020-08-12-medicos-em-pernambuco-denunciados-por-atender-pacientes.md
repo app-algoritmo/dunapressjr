@@ -2,7 +2,7 @@
 title: Médicos em Pernambuco denunciados por atender pacientes
 date: 2020-08-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

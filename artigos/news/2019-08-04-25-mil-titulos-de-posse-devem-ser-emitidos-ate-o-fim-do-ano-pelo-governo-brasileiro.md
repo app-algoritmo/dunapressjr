@@ -2,7 +2,7 @@
 title: 25 mil títulos de posse devem ser emitidos até o fim do ano pelo governo brasileiro
 date: 2019-08-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Tecnologia da Informação na Indústria Farmacêutica: O Papel da Intel
   Regulatória'
 date: 2024-07-26
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Technology
 ---

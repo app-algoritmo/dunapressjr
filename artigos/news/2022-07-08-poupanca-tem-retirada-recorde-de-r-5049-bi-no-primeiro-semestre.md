@@ -2,7 +2,7 @@
 title: Poupança tem retirada recorde de R$ 50,49 bi no primeiro semestre
 date: 2022-07-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

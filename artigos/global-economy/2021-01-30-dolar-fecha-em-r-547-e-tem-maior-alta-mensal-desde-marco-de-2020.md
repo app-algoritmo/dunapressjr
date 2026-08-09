@@ -2,7 +2,7 @@
 title: Dólar fecha em R$ 5,47 e tem maior alta mensal desde março de 2020
 date: 2021-01-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

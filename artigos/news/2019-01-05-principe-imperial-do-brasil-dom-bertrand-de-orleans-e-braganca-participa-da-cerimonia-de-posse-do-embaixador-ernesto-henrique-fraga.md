@@ -3,7 +3,7 @@ title: Príncipe Imperial do Brasil, Dom Bertrand de Orleans e Bragança, partic
   da cerimônia de posse do Embaixador Ernesto Henrique Fraga
 date: 2019-01-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

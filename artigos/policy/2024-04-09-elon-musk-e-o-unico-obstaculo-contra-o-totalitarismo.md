@@ -2,7 +2,7 @@
 title: Elon Musk é o Único Obstáculo Contra o Totalitarismo
 date: 2024-04-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 - Technology

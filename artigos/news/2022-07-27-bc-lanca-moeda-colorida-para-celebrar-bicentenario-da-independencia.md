@@ -2,7 +2,7 @@
 title: BC lança moeda colorida para celebrar bicentenário da Independência
 date: 2022-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

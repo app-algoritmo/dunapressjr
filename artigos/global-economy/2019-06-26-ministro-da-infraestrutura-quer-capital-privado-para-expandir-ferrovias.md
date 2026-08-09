@@ -2,7 +2,7 @@
 title: Ministro da Infraestrutura quer capital privado para expandir ferrovias
 date: 2019-06-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

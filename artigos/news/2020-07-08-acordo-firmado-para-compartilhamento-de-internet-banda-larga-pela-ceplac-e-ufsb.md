@@ -3,7 +3,7 @@ title: Acordo firmado para compartilhamento de internet banda larga pela Ceplac 
   UFSB
 date: 2020-07-08
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

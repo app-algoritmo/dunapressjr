@@ -2,7 +2,7 @@
 title: Serviços registram crescimento de 3,7% em fevereiro, diz IBGE
 date: 2021-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

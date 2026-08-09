@@ -3,7 +3,7 @@ title: Indicada ao Prêmio Nobel 2019 é candidata nas eleições 2020 para pref
   de cabedelo na Paraíba
 date: 2020-10-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

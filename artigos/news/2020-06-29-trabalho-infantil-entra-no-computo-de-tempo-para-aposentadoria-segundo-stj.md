@@ -2,7 +2,7 @@
 title: Trabalho infantil entra no cômputo de tempo para aposentadoria, segundo STJ
 date: 2020-06-29
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: SEFAZ deflagra a 4ª etapa da “Operação Concorrência Legal” nas ro
   Estado
 date: 2020-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

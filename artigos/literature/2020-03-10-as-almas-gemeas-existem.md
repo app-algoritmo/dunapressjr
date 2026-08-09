@@ -2,7 +2,7 @@
 title: As almas gêmeas existem?
 date: 2020-03-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Literature
 ---

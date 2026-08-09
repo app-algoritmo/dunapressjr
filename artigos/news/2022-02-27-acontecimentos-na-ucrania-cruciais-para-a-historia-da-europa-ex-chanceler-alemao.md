@@ -3,7 +3,7 @@ title: Acontecimentos na Ucrânia cruciais para a história da Europa — ex-cha
   alemão
 date: 2022-02-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

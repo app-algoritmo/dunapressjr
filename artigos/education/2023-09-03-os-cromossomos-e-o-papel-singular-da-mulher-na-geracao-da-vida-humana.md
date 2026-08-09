@@ -2,7 +2,7 @@
 title: Os Cromossomos e o Papel Singular da Mulher na Geração da Vida Humana
 date: 2023-09-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

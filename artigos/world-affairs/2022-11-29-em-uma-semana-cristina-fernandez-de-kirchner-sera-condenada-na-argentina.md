@@ -2,7 +2,7 @@
 title: Em uma semana, Cristina Fernández de Kirchner será condenada na Argentina
 date: 2022-11-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

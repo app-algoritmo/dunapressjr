@@ -3,7 +3,7 @@ title: "A derrota que fundou o Brasil: o dia em que Holanda perdeu Pernambuco e 
 subtitle: "Em 1654, a expulsão dos holandeses do Nordeste não foi apenas uma vitória militar — foi o momento em que o açúcar, a escravidão e a geopolítica atlântica redesenharam o destino de três continentes."
 date: 2026-07-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - history
 description: "A capitulação holandesa em Pernambuco, em janeiro de 1654, é ensinada como um episódio regional — mas historiadores recentes revelam que ela reconfigurou rotas de escravizados, acelerou o domínio inglês no Caribe e plantou a semente do que hoje chamamos de economia-mundo. Entender essa derrota é entender por que o Brasil existe como existe."

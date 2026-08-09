@@ -2,7 +2,7 @@
 title: Ministério prevê etanol R$ 0,19 mais barato na bomba
 date: 2022-07-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

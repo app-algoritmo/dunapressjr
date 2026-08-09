@@ -2,7 +2,7 @@
 title: Revelada Base Militar do Hamas Sob a Sede da Agência da ONU em Gaza
 date: 2024-02-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

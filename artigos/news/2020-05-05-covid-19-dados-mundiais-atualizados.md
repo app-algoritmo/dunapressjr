@@ -1,5 +1,5 @@
 ---
-title: 'COVID-19:  Dados mundiais atualizados'
+title: 'COVID-19: Dados mundiais atualizados'
 date: 2020-05-05
 status: publish
 author: Joice Ferreira

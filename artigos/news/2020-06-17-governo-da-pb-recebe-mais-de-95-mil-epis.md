@@ -2,7 +2,7 @@
 title: Governo da PB recebe mais de 95 mil EPIs
 date: 2020-06-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

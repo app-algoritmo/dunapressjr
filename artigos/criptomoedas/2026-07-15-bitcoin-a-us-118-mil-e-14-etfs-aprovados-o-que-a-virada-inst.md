@@ -3,7 +3,7 @@ title: "Bitcoin a US$ 118 mil e 14 ETFs aprovados: o que a virada institucional 
 subtitle: "Com o mercado cripto atingindo capitalização de US$ 4,2 trilhões em julho de 2026, a pergunta já não é se instituições vão entrar — é o que acontece quando elas dominam."
 date: 2026-07-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - criptomoedas
 description: "O bitcoin superou US$ 118 mil em julho de 2026 e 14 ETFs de criptoativos já operam nos EUA, Europa e Brasil, marcando uma virada estrutural no mercado. Para o investidor brasileiro, isso representa tanto novas rotas de acesso quanto riscos que a euforia tende a obscurecer."

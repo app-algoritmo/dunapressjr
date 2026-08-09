@@ -2,7 +2,7 @@
 title: Dólar tem maior queda em duas semanas e fecha a R$ 5,66
 date: 2021-12-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

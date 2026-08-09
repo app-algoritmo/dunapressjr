@@ -3,7 +3,7 @@ title: 'As gigantes da tecnologia: uma análise dos resultados de Meta, Google, 
   Microsoft e Apple'
 date: 2024-02-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

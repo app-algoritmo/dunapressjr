@@ -3,7 +3,7 @@ title: "Juros em Queda, Mas Crédito Ainda Caro: O Paradoxo que Trava a Recupera
 subtitle: "Mesmo com a Selic em trajetória de redução, o spread bancário brasileiro permanece entre os mais elevados do mundo, revelando estruturas que vão muito além da política monetária"
 date: 2026-05-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - finances
 description: "A queda da taxa Selic não se traduziu em crédito mais barato para famílias e empresas. O spread bancário brasileiro, um dos maiores do planeta, expõe um sistema financeiro marcado por concentração, inadimplência estrutural e custos tributários que resistem a qualquer ciclo de afrouxamento monetário."

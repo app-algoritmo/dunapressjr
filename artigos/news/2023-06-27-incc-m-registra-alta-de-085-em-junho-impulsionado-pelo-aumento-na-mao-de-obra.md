@@ -3,7 +3,7 @@ title: INCC-M registra alta de 0,85% em junho, impulsionado pelo aumento na mão
   obra
 date: 2023-06-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

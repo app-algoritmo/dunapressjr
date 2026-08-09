@@ -2,7 +2,7 @@
 title: Inflação pelo IPC-S acelera em sete capitais em novembro
 date: 2020-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

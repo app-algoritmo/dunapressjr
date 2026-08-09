@@ -3,7 +3,7 @@ title: "Pedalar parece esporte de rico — mas os dados mostram que virou polít
 subtitle: "Em 2026, o ciclismo urbano e as grandes voltas europeias convergem num mesmo debate: quem financia a bicicleta decide quem tem direito à cidade."
 date: 2026-06-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - cycling
 description: "O ciclismo mundial vive uma bifurcação curiosa: enquanto o Tour de France 2026 atrai R$ 4,2 bilhões em patrocínios corporativos, cidades como São Paulo e Bogotá ampliam ciclovias com financiamento climático do BID. A bicicleta deixou de ser símbolo de lazer ou pobreza — e passou a ser instrumento de disputa urbana."

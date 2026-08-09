@@ -2,7 +2,7 @@
 title: Campanha Nacional de Combate à Erosão será escolhido pelo público
 date: 2020-06-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

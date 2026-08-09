@@ -2,7 +2,7 @@
 title: IGP-M acumula taxa de inflação de 6,89% em 12 meses, diz FGV
 date: 2020-04-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

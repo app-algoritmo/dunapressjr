@@ -2,7 +2,7 @@
 title: Pesquisa para imunização contra o coronavírus
 date: 2020-08-04
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

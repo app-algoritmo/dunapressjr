@@ -3,7 +3,7 @@ title: 'Venezuela: Operação liberdade avança e ditador Maduro investe contra 
   com carros de combate'
 date: 2019-05-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

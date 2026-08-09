@@ -2,7 +2,7 @@
 title: Dólar encosta em R$ 5,50 após alta dos juros na zona do euro
 date: 2022-07-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

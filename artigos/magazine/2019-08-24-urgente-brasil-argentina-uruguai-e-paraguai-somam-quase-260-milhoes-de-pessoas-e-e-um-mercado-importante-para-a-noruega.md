@@ -3,7 +3,7 @@ title: 'URGENTE: Brasil, Argentina, Uruguai e Paraguai somam quase 260 milhões 
   pessoas e é um mercado importante para a Noruega'
 date: 2019-08-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

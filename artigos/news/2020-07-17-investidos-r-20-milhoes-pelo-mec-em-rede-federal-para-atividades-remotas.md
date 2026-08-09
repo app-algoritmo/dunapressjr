@@ -2,7 +2,7 @@
 title: Investidos R$ 20 milhões pelo Mec em Rede Federal para atividades remotas
 date: 2020-07-17
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

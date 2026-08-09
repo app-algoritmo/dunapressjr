@@ -2,7 +2,7 @@
 title: Artigo 142 da constituição coloca STF na mira das Forças Armadas do Brasil
 date: 2020-05-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

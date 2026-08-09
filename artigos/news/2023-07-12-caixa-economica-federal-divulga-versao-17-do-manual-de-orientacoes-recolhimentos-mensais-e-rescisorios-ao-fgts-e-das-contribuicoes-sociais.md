@@ -3,7 +3,7 @@ title: Caixa Econômica Federal divulga Versão 17 do Manual de Orientações Re
   Mensais e Rescisórios ao FGTS e das Contribuições Sociais
 date: 2023-07-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

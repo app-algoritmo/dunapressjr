@@ -2,7 +2,7 @@
 title: Mercado financeiro eleva projeção da inflação para 9,33%
 date: 2021-11-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

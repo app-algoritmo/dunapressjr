@@ -3,7 +3,7 @@ title: "O romance brasileiro vendeu mais no exterior do que no Brasil em 2025 �
 subtitle: "Pela primeira vez em décadas, autores nacionais faturam mais em traduções estrangeiras do que nas livrarias do país de origem, sinalizando uma virada estrutural no mapa da literatura contemporânea."
 date: 2026-06-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - literature
 description: "Em 2025, as receitas de direitos autorais de obras brasileiras traduzidas para outros idiomas superaram pela primeira vez as vendas domésticas em valor por título — um fenômeno que revela tanto a força criativa do país quanto a fragilidade do leitor local. O paradoxo importa porque redesenha quem financia, quem lê e quem define o cânone da nossa ficção."

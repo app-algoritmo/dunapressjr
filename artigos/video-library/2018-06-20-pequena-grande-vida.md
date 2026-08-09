@@ -2,7 +2,7 @@
 title: Pequena Grande Vida
 date: 2018-06-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Video library
 ---

@@ -3,7 +3,7 @@ title: "Juros a 13,25% e emprego em alta: o paradoxo que define a economia brasi
 subtitle: "Com a Selic em patamar restritivo e o mercado de trabalho no melhor momento em uma década, o Brasil vive uma tensão inédita entre crescimento real e custo do dinheiro — e a resposta pode vir das reformas ainda na gaveta."
 date: 2026-06-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - economia-brasileira
 description: "O Brasil de junho de 2026 apresenta um paradoxo raro: desemprego na casa de 6,1%, o menor desde 2012, convivendo com juros reais acima de 7% ao ano. Entender por que isso acontece — e o que pode romper esse equilíbrio instável — é a questão econômica mais urgente do segundo semestre."

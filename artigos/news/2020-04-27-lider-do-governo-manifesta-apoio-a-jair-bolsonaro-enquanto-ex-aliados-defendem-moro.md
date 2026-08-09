@@ -1,5 +1,5 @@
 ---
-title: Líder do governo manifesta apoio a  Jair Bolsonaro, enquanto ex-aliados defendem
+title: Líder do governo manifesta apoio a Jair Bolsonaro, enquanto ex-aliados defendem
   Moro
 date: 2020-04-27
 status: publish

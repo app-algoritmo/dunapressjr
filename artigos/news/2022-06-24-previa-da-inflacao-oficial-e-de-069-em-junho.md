@@ -2,7 +2,7 @@
 title: Prévia da inflação oficial é de 0,69% em junho
 date: 2022-06-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

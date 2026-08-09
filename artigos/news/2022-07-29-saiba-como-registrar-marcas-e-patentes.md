@@ -2,7 +2,7 @@
 title: Saiba como registrar marcas e patentes
 date: 2022-07-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

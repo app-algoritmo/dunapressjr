@@ -3,7 +3,7 @@ title: "Conceição Evaristo assina contrato com editora alemã e reescreve o ma
 subtitle: "A tradução de 'Ponciá Vicêncio' para o alemão, prevista para 2027, marca a primeira grande aposta de uma grande casa europeia continental na prosa afro-brasileira contemporânea — e abre uma disputa silenciosa por quem define o cânone global."
 date: 2026-07-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - literature
 description: "Conceição Evaristo fechou acordo com a S. Fischer Verlag, uma das mais antigas editoras da Alemanha, para traduzir 'Ponciá Vicêncio' ao alemão — movimento que projeta a literatura afro-brasileira em um mercado que movimenta €2,1 bilhões por ano. O que parece notícia cultural é, na verdade, uma disputa sobre quais vozes do Sul Global chegam ao centro do sistema literário mundial."

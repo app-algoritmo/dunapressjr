@@ -2,7 +2,7 @@
 title: FGTS vai reduzir descontos no financiamento da casa própria em 2021
 date: 2020-02-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

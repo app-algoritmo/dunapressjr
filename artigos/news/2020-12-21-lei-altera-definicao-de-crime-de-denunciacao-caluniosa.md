@@ -2,7 +2,7 @@
 title: Lei altera definição de crime de denunciação caluniosa
 date: 2020-12-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

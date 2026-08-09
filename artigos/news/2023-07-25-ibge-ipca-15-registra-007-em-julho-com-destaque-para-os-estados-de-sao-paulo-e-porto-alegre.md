@@ -3,7 +3,7 @@ title: 'IBGE: IPCA-15 registra -0,07% em Julho, com destaque para os estados de 
   Paulo e Porto Alegre'
 date: 2023-07-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Nova regra fiscal combinará meta de superávit e controle de gastos
 date: 2023-03-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

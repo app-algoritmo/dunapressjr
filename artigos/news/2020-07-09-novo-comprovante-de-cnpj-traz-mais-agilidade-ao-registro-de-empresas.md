@@ -2,7 +2,7 @@
 title: Novo comprovante de CNPJ traz mais agilidade ao registro de empresas
 date: 2020-07-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

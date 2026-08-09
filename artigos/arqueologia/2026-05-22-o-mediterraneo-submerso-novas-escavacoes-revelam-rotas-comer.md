@@ -3,7 +3,7 @@ title: "O Mediterrâneo Submerso: Novas Escavações Revelam Rotas Comerciais De
 subtitle: "Campanhas arqueológicas submarinas conduzidas entre a Sicília e o norte da África identificam vestígios de uma rede de trocas que redesenha o mapa econômico do mundo antigo"
 date: 2026-05-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - arqueologia
 description: "Escavações submarinas recentes no Canal de Sicília trouxeram à tona âncoras, fragmentos de ânforas e restos de cascos de embarcações datados entre os séculos VIII e III a.C., sugerindo uma intensidade de tráfego marítimo muito superior ao que os registros históricos conhecidos indicavam. A descoberta obriga os especialistas a revisitar premissas consolidadas sobre o alcance e a sofisticação do comércio pré-romano no Mediterrâneo central."

@@ -3,7 +3,7 @@ title: MPF busca solucionar problema de 61 famílias em Monteiro (PB) prejudicad
   com a transposição do São Francisco
 date: 2019-03-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

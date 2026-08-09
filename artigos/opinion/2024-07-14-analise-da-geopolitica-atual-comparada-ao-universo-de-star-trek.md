@@ -2,7 +2,7 @@
 title: Análise da Geopolítica Atual Comparada ao Universo de Star Trek
 date: 2024-07-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Opinion
 ---

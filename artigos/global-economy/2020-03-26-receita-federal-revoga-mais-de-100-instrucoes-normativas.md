@@ -2,7 +2,7 @@
 title: Receita Federal revoga mais de 100 instruções normativas
 date: 2020-03-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

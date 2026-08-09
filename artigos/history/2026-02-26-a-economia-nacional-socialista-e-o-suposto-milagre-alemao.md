@@ -2,7 +2,7 @@
 title: A economia nacional-socialista e o suposto milagre alemão
 date: 2026-02-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - History
 ---

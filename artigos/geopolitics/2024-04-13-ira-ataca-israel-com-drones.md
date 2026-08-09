@@ -2,7 +2,7 @@
 title: Irã ataca Israel com drones
 date: 2024-04-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

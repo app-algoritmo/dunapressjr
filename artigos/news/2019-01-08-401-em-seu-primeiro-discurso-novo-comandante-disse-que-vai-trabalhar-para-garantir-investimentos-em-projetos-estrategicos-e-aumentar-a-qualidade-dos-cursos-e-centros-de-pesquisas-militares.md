@@ -4,7 +4,7 @@ title: 4.01 Em seu primeiro discurso, novo comandante disse que vai trabalhar pa
   e centros de pesquisas militares
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

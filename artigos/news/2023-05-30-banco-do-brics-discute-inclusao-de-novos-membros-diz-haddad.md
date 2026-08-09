@@ -2,7 +2,7 @@
 title: Banco do Brics discute inclusão de novos membros, diz Haddad
 date: 2023-05-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

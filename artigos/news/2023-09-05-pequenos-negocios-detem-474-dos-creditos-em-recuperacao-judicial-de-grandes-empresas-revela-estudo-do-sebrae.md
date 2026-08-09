@@ -3,7 +3,7 @@ title: Pequenos negócios detêm 47,4% dos créditos em recuperação judicial d
   empresas, revela estudo do Sebrae
 date: 2023-09-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

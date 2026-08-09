@@ -3,7 +3,7 @@ title: "A economia cresce 3,2% ao ano, mas por que o brasileiro médio não sent
 subtitle: "Com o PIB em expansão pelo terceiro ano consecutivo e o desemprego no menor nível desde 2012, a distância entre os indicadores macroeconômicos e a percepção cotidiana revela uma fissura estrutural que nenhum boletim do Banco Central consegue fechar sozinho."
 date: 2026-08-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - economia-brasileira
 description: "O Brasil fecha o primeiro semestre de 2026 com crescimento do PIB de 3,2% e desemprego abaixo de 7%, números que seriam motivo de celebração em qualquer manual de macroeconomia. O paradoxo é que a maioria dos trabalhadores formais ainda gasta mais do que ganha ao fim do mês — e entender por que isso acontece é a pergunta mais honesta que a economia brasileira precisa responder agora."

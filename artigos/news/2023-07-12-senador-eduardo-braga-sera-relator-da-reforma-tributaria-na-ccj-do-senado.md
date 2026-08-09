@@ -2,7 +2,7 @@
 title: Senador Eduardo Braga será relator da Reforma Tributária na CCJ do Senado
 date: 2023-07-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

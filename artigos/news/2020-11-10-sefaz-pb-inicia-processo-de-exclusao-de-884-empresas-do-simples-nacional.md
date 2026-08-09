@@ -2,7 +2,7 @@
 title: SEFAZ-PB inicia processo de exclusão de 884 empresas do Simples Nacional
 date: 2020-11-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Mais 8 leitos de UTI e 10 de enfermaria para pacientes com Covid-19 dispo
   pelo HUB
 date: 2020-07-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

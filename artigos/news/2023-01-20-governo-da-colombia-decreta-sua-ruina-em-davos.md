@@ -2,7 +2,7 @@
 title: Governo da Colômbia decreta sua ruína em Davos
 date: 2023-01-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

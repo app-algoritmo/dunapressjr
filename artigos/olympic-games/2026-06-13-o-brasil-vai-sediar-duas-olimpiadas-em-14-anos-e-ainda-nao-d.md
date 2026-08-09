@@ -3,7 +3,7 @@ title: "O Brasil vai sediar duas Olimpíadas em 14 anos — e ainda não decidiu
 subtitle: "Com Los Angeles 2028 na fila e Brisbane 2032 no horizonte, o país que organizou o Rio 2016 acumula medalhas de gestão mal-aproveitadas e uma janela rara para redefinir seu papel no olimpismo global."
 date: 2026-06-13
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - olympic-games
 description: "O Brasil saiu do Rio 2016 com infraestrutura, experiência e capital político no olimpismo — e uma década depois ainda não transformou esse legado em estratégia. Com LA 2028 e Brisbane 2032 chegando, o momento de decidir o papel brasileiro no cenário olímpico global é agora, não depois."

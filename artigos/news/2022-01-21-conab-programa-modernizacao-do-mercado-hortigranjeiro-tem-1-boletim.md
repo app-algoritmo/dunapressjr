@@ -2,7 +2,7 @@
 title: 'Conab: Programa Modernização do Mercado Hortigranjeiro tem 1º boletim'
 date: 2022-01-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

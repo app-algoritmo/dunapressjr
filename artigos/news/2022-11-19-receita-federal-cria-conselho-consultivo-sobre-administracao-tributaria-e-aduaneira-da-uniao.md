@@ -3,7 +3,7 @@ title: Receita Federal cria Conselho Consultivo sobre Administração Tributári
   da União
 date: 2022-11-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

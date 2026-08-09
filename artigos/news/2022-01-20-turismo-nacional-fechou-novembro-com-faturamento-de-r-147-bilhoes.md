@@ -2,7 +2,7 @@
 title: Turismo nacional fechou novembro com faturamento de R$ 14,7 bilhões
 date: 2022-01-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

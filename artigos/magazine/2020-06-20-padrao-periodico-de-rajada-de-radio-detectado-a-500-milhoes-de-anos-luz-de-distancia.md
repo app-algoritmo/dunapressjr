@@ -3,7 +3,7 @@ title: Padrão periódico de rajada de rádio detectado a 500 milhões de anos-l
   distância
 date: 2020-06-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

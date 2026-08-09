@@ -2,7 +2,7 @@
 title: China retoma importação de carne brasileira
 date: 2021-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

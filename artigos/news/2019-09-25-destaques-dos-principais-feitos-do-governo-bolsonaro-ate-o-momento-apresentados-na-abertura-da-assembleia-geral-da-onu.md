@@ -3,7 +3,7 @@ title: Destaques dos principais feitos do governo Bolsonaro até o momento apres
   na abertura da Assembleia Geral da ONU
 date: 2019-09-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

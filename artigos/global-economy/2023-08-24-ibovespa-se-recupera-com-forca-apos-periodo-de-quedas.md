@@ -2,7 +2,7 @@
 title: Ibovespa se recupera com força após período de quedas
 date: 2023-08-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

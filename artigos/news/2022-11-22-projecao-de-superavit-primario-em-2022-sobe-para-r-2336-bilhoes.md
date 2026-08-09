@@ -2,7 +2,7 @@
 title: Projeção de superávit primário em 2022 sobe para R$ 23,36 bilhões
 date: 2022-11-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

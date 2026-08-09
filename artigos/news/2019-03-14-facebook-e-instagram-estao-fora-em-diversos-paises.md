@@ -2,7 +2,7 @@
 title: Facebook e Instagram estão fora em diversos países
 date: 2019-03-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

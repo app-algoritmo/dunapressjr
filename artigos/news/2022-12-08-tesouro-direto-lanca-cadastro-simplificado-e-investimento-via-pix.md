@@ -2,7 +2,7 @@
 title: Tesouro Direto lança cadastro simplificado e investimento via Pix
 date: 2022-12-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

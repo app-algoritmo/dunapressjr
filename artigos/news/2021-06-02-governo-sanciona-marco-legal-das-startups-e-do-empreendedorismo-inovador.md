@@ -2,7 +2,7 @@
 title: Governo sanciona Marco Legal das Startups e do Empreendedorismo Inovador
 date: 2021-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

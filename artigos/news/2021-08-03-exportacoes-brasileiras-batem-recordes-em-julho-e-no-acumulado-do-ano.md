@@ -2,7 +2,7 @@
 title: Exportações brasileiras batem recordes em julho e no acumulado do ano
 date: 2021-08-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

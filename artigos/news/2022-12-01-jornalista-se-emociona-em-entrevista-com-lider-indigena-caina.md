@@ -2,7 +2,7 @@
 title: Jornalista se emociona em entrevista com líder indígena Cainá
 date: 2022-12-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

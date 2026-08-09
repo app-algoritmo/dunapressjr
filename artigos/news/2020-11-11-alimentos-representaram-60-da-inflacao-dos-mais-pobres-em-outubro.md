@@ -2,7 +2,7 @@
 title: Alimentos representaram 60% da inflação dos mais pobres em outubro
 date: 2020-11-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Urgente: Comunicado da casa Imperial do Brasil sobre conta no twitter censurada'
 date: 2022-12-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

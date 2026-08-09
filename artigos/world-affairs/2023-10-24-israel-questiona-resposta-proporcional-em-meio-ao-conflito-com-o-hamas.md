@@ -2,7 +2,7 @@
 title: Israel Questiona Resposta Proporcional em Meio ao Conflito com o Hamas
 date: 2023-10-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

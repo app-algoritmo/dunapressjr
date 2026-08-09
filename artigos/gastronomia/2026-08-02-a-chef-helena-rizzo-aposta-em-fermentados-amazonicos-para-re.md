@@ -3,7 +3,7 @@ title: "A chef Helena Rizzo aposta em fermentados amazônicos para reposicionar 
 subtitle: "Com um laboratório de fermentação inaugurado em junho de 2026 no interior do Pará, a chef paulistana transforma ingredientes ignorados pela alta gastronomia em ativos econômicos e culturais de escala internacional."
 date: 2026-08-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - gastronomia
 description: "Helena Rizzo abriu em junho de 2026 um laboratório de fermentação no Pará para mapear e transformar ingredientes amazônicos esquecidos em protagonistas da alta gastronomia mundial. A iniciativa conecta ciência, economia local e diplomacia cultural num momento em que o Brasil disputa espaço no circuito gastronômico de maior influência global."

@@ -2,7 +2,7 @@
 title: Rio Grande do Sul credencia laboratório para análise de azeites
 date: 2020-05-12
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

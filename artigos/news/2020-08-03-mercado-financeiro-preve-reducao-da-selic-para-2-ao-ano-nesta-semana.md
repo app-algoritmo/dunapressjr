@@ -2,7 +2,7 @@
 title: Mercado financeiro prevê redução da Selic para 2% ao ano nesta semana
 date: 2020-08-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

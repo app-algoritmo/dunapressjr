@@ -2,7 +2,7 @@
 title: Reforma do IR provocará perda de R$ 20 bi para União, diz secretário
 date: 2021-09-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

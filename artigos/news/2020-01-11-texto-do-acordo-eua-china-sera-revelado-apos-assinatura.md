@@ -2,7 +2,7 @@
 title: Texto do acordo EUA-China será revelado após assinatura
 date: 2020-01-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

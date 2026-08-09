@@ -2,7 +2,7 @@
 title: Dólar tem leve alta e sobe para R$ 5,30 após decisões do STF
 date: 2022-12-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

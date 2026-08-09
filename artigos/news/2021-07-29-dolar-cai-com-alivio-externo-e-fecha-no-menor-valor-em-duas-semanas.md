@@ -2,7 +2,7 @@
 title: Dólar cai com alívio externo e fecha no menor valor em duas semanas
 date: 2021-07-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

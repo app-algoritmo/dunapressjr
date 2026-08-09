@@ -3,7 +3,7 @@ title: Internautas debatem Pena de Morte na Europa para políticos e meios envol
   em desinformação sobre a COVID-19
 date: 2024-03-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 - Social networks

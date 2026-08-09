@@ -2,7 +2,7 @@
 title: Brasil gerou 218.902 empregos formais em julho
 date: 2022-08-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

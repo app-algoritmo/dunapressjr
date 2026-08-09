@@ -2,7 +2,7 @@
 title: Governo vai criar programa de renda mínima após a pandemia, diz Guedes
 date: 2020-06-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

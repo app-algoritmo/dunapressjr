@@ -2,7 +2,7 @@
 title: 'FGV: indicadores de mercado de trabalho apresentam melhora em dezembro'
 date: 2020-01-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

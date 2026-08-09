@@ -2,7 +2,7 @@
 title: Brasil registra maior gasto de turistas estrangeiros desde 2016
 date: 2022-10-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

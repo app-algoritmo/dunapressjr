@@ -2,7 +2,7 @@
 title: 'Caged: Brasil gera 309 mil empregos formais em junho'
 date: 2021-07-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

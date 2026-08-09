@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,25 e tem quarta semana seguida de alta
 date: 2022-06-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

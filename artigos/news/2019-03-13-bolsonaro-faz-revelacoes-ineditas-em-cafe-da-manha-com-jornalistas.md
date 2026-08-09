@@ -2,7 +2,7 @@
 title: Bolsonaro faz revelações inéditas em café da manhã com jornalistas
 date: 2019-03-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

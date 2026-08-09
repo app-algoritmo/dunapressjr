@@ -2,7 +2,7 @@
 title: IPC-S registra inflação de 1% em março, diz FGV
 date: 2021-04-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

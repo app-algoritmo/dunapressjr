@@ -2,7 +2,7 @@
 title: O modelo econômico mundial fracassou
 date: 2020-04-14
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Global Economy
 ---

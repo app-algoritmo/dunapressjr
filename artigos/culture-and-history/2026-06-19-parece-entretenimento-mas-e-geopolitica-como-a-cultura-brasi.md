@@ -3,7 +3,7 @@ title: "Parece entretenimento, mas é geopolítica: como a cultura brasileira vi
 subtitle: "Enquanto o debate público ainda trata cultura como gasto, governos, fundos de investimento e potências estrangeiras já a contabilizam como poder — e o Brasil acaba de perceber que está sentado sobre uma reserva inexplorada."
 date: 2026-06-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - culture-and-history
 description: "A economia criativa brasileira movimentou R$ 220 bilhões em 2025 e responde por 2,6% do PIB — mais do que o agronegócio de algumas regiões — mas ainda opera sem política industrial coordenada. O momento é decisivo: com a presidência brasileira do G20 Cultural em curso e novos marcos regulatórios em debate no Congresso, o país tem uma janela rara para transformar soft power em hard cash."

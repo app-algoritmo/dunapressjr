@@ -2,7 +2,7 @@
 title: Ministro diz que governo não conseguirá dar reajuste a servidores
 date: 2022-06-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

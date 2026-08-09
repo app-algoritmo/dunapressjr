@@ -3,7 +3,7 @@ title: Ex-ministro Aldo Rebelo critica atuação das ONGs na Amazônia e defende
   no uso de recursos do Fundo Amazônia
 date: 2023-07-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

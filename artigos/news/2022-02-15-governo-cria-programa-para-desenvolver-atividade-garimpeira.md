@@ -2,7 +2,7 @@
 title: Governo cria programa para desenvolver atividade garimpeira
 date: 2022-02-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

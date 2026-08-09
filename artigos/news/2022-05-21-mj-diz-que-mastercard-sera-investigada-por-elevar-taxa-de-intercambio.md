@@ -2,7 +2,7 @@
 title: MJ diz que Mastercard será investigada por elevar taxa de intercâmbio
 date: 2022-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

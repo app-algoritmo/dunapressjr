@@ -1,8 +1,8 @@
 ---
-title: Bolsonaro quer prioridade do homeschooling  para combater doutrina marxista
+title: Bolsonaro quer prioridade do homeschooling para combater doutrina marxista
 date: 2020-08-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

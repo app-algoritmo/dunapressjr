@@ -2,7 +2,7 @@
 title: Metrô de BH é concedido à iniciativa privada por R$ 25,7 milhões
 date: 2022-12-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

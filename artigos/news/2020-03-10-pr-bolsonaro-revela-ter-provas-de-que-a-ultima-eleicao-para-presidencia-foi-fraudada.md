@@ -3,7 +3,7 @@ title: PR Bolsonaro revela ter provas de que a última eleição para presidênc
   fraudada
 date: 2020-03-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

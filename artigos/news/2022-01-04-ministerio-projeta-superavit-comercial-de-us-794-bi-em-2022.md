@@ -2,7 +2,7 @@
 title: Ministério projeta superávit comercial de US$ 79,4 bi em 2022
 date: 2022-01-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

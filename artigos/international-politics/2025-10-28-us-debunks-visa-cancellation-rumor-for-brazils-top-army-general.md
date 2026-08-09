@@ -2,7 +2,7 @@
 title: US Debunks Visa Cancellation Rumor for Brazil's Top Army General
 date: 2025-10-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - International Politics
 ---

@@ -3,7 +3,7 @@ title: "Por que profissionais de alta performance trabalham menos horas do que v
 subtitle: "Pesquisas recentes derrubam o mito da exaustão como símbolo de competência — e apontam o que realmente separa quem avança de quem apenas se mantém ocupado."
 date: 2026-06-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - personal-development
 description: "Um levantamento da Microsoft com 20 mil trabalhadores em 11 países, publicado em março de 2026, revelou que os profissionais mais reconhecidos em suas organizações trabalham, em média, 11% menos horas semanais do que a média de suas equipes. O dado inverte uma crença ainda dominante no mercado brasileiro — e tem implicações concretas para quem quer crescer sem se destruir."

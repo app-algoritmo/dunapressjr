@@ -3,7 +3,7 @@ title: CEO da Pfizer é desmarcarado pelo regulador britânico por fazer declara
   'enganosas' sobre vacinas infantis
 date: 2022-11-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 - News

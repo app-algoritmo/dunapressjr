@@ -2,7 +2,7 @@
 title: Prognóstico indica queda na produção agrícola brasileira de grãos em 2024
 date: 2023-12-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

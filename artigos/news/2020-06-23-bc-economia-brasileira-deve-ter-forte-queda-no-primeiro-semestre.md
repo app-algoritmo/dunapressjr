@@ -2,7 +2,7 @@
 title: 'BC: economia brasileira deve ter forte queda no primeiro semestre'
 date: 2020-06-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

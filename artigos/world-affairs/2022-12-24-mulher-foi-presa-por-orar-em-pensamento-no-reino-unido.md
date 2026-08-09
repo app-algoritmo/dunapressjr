@@ -2,7 +2,7 @@
 title: Mulher foi presa por orar em pensamento no Reino Unido
 date: 2022-12-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

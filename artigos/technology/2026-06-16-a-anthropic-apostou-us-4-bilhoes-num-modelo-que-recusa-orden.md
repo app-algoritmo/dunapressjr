@@ -3,7 +3,7 @@ title: "A Anthropic apostou US$ 4 bilhões num modelo que recusa ordens — e o 
 subtitle: "A decisão da startup de IA de embutir limites éticos hardcoded no Claude 3.5 virou referência silenciosa para concorrentes e reguladores em 2026."
 date: 2026-06-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - technology
 description: "A Anthropic transformou restrições éticas em diferencial comercial ao lançar o Claude 3.5 com recusas programadas para determinadas instruções corporativas — e o movimento está forçando OpenAI, Google e reguladores europeus a rever suas próprias apostas. O timing importa: o Parlamento Europeu vota em julho as cláusulas de 'valores inegociáveis' da AI Act, e o modelo da Anthropic virou estudo de caso central no debate."

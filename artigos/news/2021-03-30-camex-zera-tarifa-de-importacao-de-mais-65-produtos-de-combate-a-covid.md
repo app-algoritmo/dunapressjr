@@ -2,7 +2,7 @@
 title: Camex zera tarifa de importação de mais 65 produtos de combate à covid
 date: 2021-03-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

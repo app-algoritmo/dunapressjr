@@ -2,7 +2,7 @@
 title: Campos Neto diz que meta de inflação não foi abandonada
 date: 2020-06-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

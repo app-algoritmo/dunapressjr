@@ -2,7 +2,7 @@
 title: Juros para famílias e empresas sobem em junho, diz Banco Central
 date: 2022-08-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

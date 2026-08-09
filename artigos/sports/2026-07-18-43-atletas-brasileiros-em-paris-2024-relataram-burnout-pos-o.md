@@ -3,7 +3,7 @@ title: "43 atletas brasileiros em Paris 2024 relataram burnout pós-Olimpíada �
 subtitle: "Um levantamento inédito do Comitê Olímpico Brasileiro expõe a tensão entre a máquina de medalhas e a saúde mental dos atletas, abrindo um debate que pode redesenhar como o Brasil forma seus campeões."
 date: 2026-07-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - sports
 description: "Um estudo interno do COB revelou que 43 atletas da delegação brasileira em Paris 2024 apresentaram sintomas clínicos de burnout nos seis meses seguintes aos Jogos, um número que finalmente forçou federações e patrocinadores a sentar à mesma mesa. O debate agora não é se o problema existe — é quem vai pagar para resolvê-lo."

@@ -2,7 +2,7 @@
 title: Petrobras tem lucro líquido de US$ 8,8 bilhões no 3º trimestre
 date: 2022-11-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

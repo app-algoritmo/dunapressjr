@@ -2,7 +2,7 @@
 title: BC comunica vazamento de dados de 2,1 mil chaves Pix
 date: 2022-02-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

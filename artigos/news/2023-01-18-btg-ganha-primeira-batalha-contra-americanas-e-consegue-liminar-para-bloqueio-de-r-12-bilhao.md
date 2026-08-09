@@ -3,7 +3,7 @@ title: BTG ganha primeira batalha contra Americanas e consegue liminar para bloq
   de R$ 1,2 bilhão
 date: 2023-01-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

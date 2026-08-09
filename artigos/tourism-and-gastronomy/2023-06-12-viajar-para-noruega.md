@@ -2,7 +2,7 @@
 title: Viajar para Noruega
 date: 2023-06-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Tourism and Gastronomy
 ---

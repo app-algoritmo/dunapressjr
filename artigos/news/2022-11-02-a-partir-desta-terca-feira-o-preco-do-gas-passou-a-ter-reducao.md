@@ -2,7 +2,7 @@
 title: A partir desta terça-feira o preço do gás passou a ter redução
 date: 2022-11-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

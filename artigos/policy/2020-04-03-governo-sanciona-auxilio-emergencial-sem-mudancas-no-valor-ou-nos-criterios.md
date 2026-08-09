@@ -2,7 +2,7 @@
 title: Governo sanciona auxílio emergencial sem mudanças no valor ou nos critérios
 date: 2020-04-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

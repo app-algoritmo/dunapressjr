@@ -2,7 +2,7 @@
 title: Consumo das famílias tem a queda mais intensa desde 2001, diz IBGE
 date: 2020-05-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

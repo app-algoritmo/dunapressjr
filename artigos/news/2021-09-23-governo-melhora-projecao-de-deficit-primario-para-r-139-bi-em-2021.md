@@ -2,7 +2,7 @@
 title: Governo melhora projeção de déficit primário para R$ 139 bi em 2021
 date: 2021-09-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

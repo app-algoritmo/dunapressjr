@@ -2,7 +2,7 @@
 title: Em coletiva de imprensa MEC divulga ações de enfrentamento à epidemia
 date: 2020-07-02
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Mercado imobiliário tem redução de 9,5% nas vendas no 3º trimestre
 date: 2021-11-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

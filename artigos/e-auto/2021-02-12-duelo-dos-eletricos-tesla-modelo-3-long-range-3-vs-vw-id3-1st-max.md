@@ -2,7 +2,7 @@
 title: Duelo dos elétricos Tesla Modelo 3 Long Range 3 vs. VW ID.3 1st Max
 date: 2021-02-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - E-auto
 ---

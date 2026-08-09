@@ -3,7 +3,7 @@ title: Ministro da Economia destaca nova regra fiscal limitando crescimento das 
   em relação à receita
 date: 2023-05-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

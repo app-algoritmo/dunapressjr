@@ -2,7 +2,7 @@
 title: <strong>Quase 40% das indústrias trocariam rodovias por outro modal</strong>
 date: 2022-10-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

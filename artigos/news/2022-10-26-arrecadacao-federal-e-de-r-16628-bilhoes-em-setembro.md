@@ -2,7 +2,7 @@
 title: Arrecadação federal é de R$ 166,28 bilhões em setembro
 date: 2022-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

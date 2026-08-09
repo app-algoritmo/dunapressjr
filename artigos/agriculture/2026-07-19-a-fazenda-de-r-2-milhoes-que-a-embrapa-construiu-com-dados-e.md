@@ -3,7 +3,7 @@ title: "A fazenda de R$ 2 milhões que a Embrapa construiu com dados e nenhum fu
 subtitle: "Como a agricultura de precisão está redefinindo o custo de produção no Cerrado brasileiro — e por que isso muda o cálculo de quem ainda hesita em adotar tecnologia no campo"
 date: 2026-07-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - agriculture
 description: "Uma unidade experimental da Embrapa em Planaltina (DF) opera com sensores, drones e inteligência artificial para reduzir custos de produção em até 23% por hectare — resultado que começa a influenciar políticas públicas e decisões de crédito rural para 2027. O dado importa agora porque o Congresso vota em agosto o novo Marco do Agro Digital, que definirá quem terá acesso subsidiado a essas ferramentas."

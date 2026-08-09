@@ -2,7 +2,7 @@
 title: 'Vídeo: Bolsonaro diz adeus'
 date: 2022-12-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

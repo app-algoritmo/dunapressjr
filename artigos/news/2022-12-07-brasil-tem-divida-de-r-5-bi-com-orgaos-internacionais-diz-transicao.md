@@ -2,7 +2,7 @@
 title: Brasil tem dívida de R$ 5 bi com órgãos internacionais, diz transição
 date: 2022-12-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Coronavírus: O número de mortos sobe para 564, com mais de 28.000 infectados'
 date: 2020-02-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

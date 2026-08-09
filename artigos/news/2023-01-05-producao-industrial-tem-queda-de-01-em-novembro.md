@@ -2,7 +2,7 @@
 title: Produção industrial tem queda de 0,1% em novembro
 date: 2023-01-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

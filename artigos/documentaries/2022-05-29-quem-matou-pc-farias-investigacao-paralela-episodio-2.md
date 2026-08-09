@@ -2,7 +2,7 @@
 title: Quem matou PC Farias? - Investigação Paralela - Episódio 2
 date: 2022-05-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Documentaries
 ---

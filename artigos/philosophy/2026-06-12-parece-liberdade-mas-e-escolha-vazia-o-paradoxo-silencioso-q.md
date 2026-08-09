@@ -3,7 +3,7 @@ title: "Parece liberdade, mas é escolha vazia: o paradoxo silencioso que Sartre
 subtitle: "Quando as plataformas digitais entregam infinitas opções e zero responsabilidade, a filosofia existencialista ganha uma dimensão que nem seu criador antecipou."
 date: 2026-06-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - philosophy
 description: "A abundância de escolhas nas plataformas digitais cria uma ilusão de autonomia que, paradoxalmente, enfraquece a responsabilidade — o núcleo do existencialismo sartreano. Entender esse mecanismo é urgente porque ele está redesenhando silenciosamente como tomamos decisões políticas, afetivas e econômicas em 2026."

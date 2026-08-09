@@ -2,7 +2,7 @@
 title: A agricultura é vital para evitar as mudanças climáticas catastróficas
 date: 2024-02-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

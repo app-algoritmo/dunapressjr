@@ -3,7 +3,7 @@ title: Governo Federal lança Plano Nacional de Fertilizantes para reduzir depen
   do produto importado
 date: 2022-03-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

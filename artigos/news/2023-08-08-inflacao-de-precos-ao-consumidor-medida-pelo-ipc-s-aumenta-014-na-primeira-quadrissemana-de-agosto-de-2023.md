@@ -3,7 +3,7 @@ title: Inflação de preços ao consumidor medida pelo IPC-S aumenta 0,14% na pr
   quadrissemana de agosto de 2023
 date: 2023-08-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

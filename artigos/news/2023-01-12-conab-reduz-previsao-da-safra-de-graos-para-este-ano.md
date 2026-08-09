@@ -2,7 +2,7 @@
 title: Conab reduz previsão da safra de grãos para este ano
 date: 2023-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

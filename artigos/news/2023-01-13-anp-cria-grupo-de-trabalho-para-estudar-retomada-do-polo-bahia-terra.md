@@ -2,7 +2,7 @@
 title: ANP cria grupo de trabalho para estudar retomada do Polo Bahia Terra
 date: 2023-01-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

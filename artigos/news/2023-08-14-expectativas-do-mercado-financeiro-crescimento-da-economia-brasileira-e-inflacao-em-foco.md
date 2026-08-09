@@ -3,7 +3,7 @@ title: 'Expectativas do Mercado Financeiro: Crescimento da economia brasileira e
   em foco'
 date: 2023-08-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

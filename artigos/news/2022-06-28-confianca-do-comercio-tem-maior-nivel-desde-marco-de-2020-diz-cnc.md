@@ -2,7 +2,7 @@
 title: Confiança do comércio tem maior nível desde março de 2020, diz CNC
 date: 2022-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

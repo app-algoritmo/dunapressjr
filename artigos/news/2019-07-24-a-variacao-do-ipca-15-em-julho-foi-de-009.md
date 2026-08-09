@@ -2,7 +2,7 @@
 title: A variação do IPCA-15 em julho foi de 0,09%
 date: 2019-07-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

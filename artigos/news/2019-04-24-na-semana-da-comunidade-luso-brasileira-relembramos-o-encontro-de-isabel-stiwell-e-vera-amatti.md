@@ -3,7 +3,7 @@ title: Na semana da Comunidade Luso-Brasileira relembramos o encontro de Isabel 
   e Vera Amatti
 date: 2019-04-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

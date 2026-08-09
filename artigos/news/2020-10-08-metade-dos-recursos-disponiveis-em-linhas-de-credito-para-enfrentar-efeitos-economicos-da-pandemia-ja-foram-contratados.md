@@ -3,7 +3,7 @@ title: Metade dos recursos disponíveis em linhas de crédito para enfrentar efe
   econômicos da pandemia já foram contratados
 date: 2020-10-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

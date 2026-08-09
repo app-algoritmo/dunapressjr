@@ -3,7 +3,7 @@ title: Governador da Paraíba assina protocolo de intenções para instalação 
   de Distribuição de fabricante da Brastemp e Consul na Paraíba
 date: 2021-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

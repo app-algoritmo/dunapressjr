@@ -3,7 +3,7 @@ title: Processo de US $ 20 trilhões de dólares contra a China, Grupo dos EUA d
   o coronavírus é uma arma biológica
 date: 2020-04-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

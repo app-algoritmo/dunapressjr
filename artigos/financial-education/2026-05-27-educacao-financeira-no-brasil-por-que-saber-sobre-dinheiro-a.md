@@ -3,7 +3,7 @@ title: "Educação Financeira no Brasil: Por Que Saber Sobre Dinheiro Ainda é P
 subtitle: "Apesar de avanços regulatórios e do crescimento das fintechs, o acesso ao conhecimento financeiro de qualidade permanece concentrado nas mãos de uma minoria — e isso tem custo social mensurável"
 date: 2026-05-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - financial-education
 description: "O Brasil avançou na regulação e na digitalização do sistema financeiro, mas a educação financeira ainda não chegou de forma equitativa à maior parte da população. Este artigo analisa os desafios estruturais, os dados mais recentes sobre endividamento e analfabetismo financeiro, e aponta caminhos concretos para democratizar o conhecimento sobre dinheiro no país."

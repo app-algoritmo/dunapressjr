@@ -1,8 +1,8 @@
 ---
-title: Thorvald,  o robô autônomo que mudará o futuro da agricultura
+title: Thorvald, o robô autônomo que mudará o futuro da agricultura
 date: 2020-03-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

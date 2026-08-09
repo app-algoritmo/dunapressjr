@@ -3,7 +3,7 @@ title: Parceria para promover ambientes de inovação na Rede Federal realizada 
   Mec
 date: 2020-08-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

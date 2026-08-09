@@ -2,7 +2,7 @@
 title: Mercado financeiro reduz projeção de queda da economia para 5,05%
 date: 2020-09-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

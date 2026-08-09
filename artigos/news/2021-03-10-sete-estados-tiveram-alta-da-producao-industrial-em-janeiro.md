@@ -2,7 +2,7 @@
 title: Sete estados tiveram alta da produção industrial em janeiro
 date: 2021-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

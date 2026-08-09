@@ -2,7 +2,7 @@
 title: Dom Pedro II, o último imperador do Brasil, é destaque na TV pública francesa
 date: 2019-08-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

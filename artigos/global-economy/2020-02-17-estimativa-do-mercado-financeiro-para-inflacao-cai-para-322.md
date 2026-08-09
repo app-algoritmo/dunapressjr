@@ -2,7 +2,7 @@
 title: Estimativa do mercado financeiro para inflação cai para 3,22%
 date: 2020-02-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

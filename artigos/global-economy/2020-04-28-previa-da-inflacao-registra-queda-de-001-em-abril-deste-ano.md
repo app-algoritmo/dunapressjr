@@ -2,7 +2,7 @@
 title: Prévia da inflação registra queda de 0,01% em abril deste ano
 date: 2020-04-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

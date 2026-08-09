@@ -2,7 +2,7 @@
 title: Projeções subestimam crescimento do PIB, diz assessor da Economia
 date: 2022-09-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

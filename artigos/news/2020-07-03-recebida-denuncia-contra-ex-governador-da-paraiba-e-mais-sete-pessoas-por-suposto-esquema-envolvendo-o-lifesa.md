@@ -3,7 +3,7 @@ title: Recebida denúncia contra ex-governador da Paraíba e mais sete pessoas p
   esquema envolvendo o Lifesa
 date: 2020-07-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Governador da Paraíba pleiteia em Brasília obras hídricas e assegura i
   em habitação em reunião com ministro do Desenvolvimento Regional
 date: 2020-10-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

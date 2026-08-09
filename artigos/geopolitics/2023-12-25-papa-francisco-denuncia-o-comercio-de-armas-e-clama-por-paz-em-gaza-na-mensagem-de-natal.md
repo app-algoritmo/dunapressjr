@@ -3,7 +3,7 @@ title: Papa Francisco Denuncia o Comércio de Armas e Clama por Paz em Gaza na M
   de Natal
 date: 2023-12-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

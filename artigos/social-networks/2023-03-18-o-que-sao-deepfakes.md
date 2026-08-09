@@ -2,7 +2,7 @@
 title: O que são deepfakes?
 date: 2023-03-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Social networks
 ---

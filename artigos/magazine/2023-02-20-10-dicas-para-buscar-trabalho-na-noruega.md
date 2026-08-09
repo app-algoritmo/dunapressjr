@@ -2,7 +2,7 @@
 title: 10 dicas para buscar trabalho na Noruega
 date: 2023-02-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

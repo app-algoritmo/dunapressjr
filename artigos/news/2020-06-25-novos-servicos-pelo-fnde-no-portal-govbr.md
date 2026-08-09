@@ -2,7 +2,7 @@
 title: Novos serviços pelo FNDE no portal gov.br
 date: 2020-06-25
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

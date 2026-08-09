@@ -2,7 +2,7 @@
 title: Ministro diz que governo dá resposta certa a aumento de combustíveis
 date: 2022-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

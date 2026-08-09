@@ -2,7 +2,7 @@
 title: BNDES lança edital de seleção de startups de impacto socioambiental
 date: 2022-05-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

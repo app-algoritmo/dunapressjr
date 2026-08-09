@@ -3,7 +3,7 @@ title: "A fazenda de Seu Raimundo virou laboratório: como um produtor do Piauí
 subtitle: "A parceria entre agricultura familiar e pesquisa científica no Nordeste brasileiro está redefinindo o que é possível cultivar com 400 mm de chuva por ano — e atraindo atenção de fundos de impacto internacionais."
 date: 2026-08-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - agriculture
 description: "Raimundo Nonato da Silva, produtor familiar de Pio IX (PI), cultiva sorgo biofortificado e feijão-caupi em consórcio usando um sistema de captação de água desenvolvido em parceria com a Embrapa Semiárido desde 2023 — com produtividade 38% acima da média regional. O modelo interessa porque, com o El Niño de 2024 tendo reduzido em 22% a oferta de grãos no Nordeste, o país precisa de respostas que não dependam só de irrigação de grande escala."

@@ -2,7 +2,7 @@
 title: Os Degraus de Maslow - Parte 02
 date: 2019-08-08
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Architecture and Art
 - Education

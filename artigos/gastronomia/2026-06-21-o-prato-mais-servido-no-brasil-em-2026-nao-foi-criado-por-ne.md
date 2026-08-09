@@ -3,7 +3,7 @@ title: "O prato mais servido no Brasil em 2026 não foi criado por nenhum chef e
 subtitle: "A ascensão da cozinha periférica ao centro do debate gastronômico revela uma virada econômica e cultural que os grandes restaurantes ainda tentam entender."
 date: 2026-06-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - gastronomia
 description: "Pela primeira vez, um levantamento da Associação Brasileira de Bares e Restaurantes (Abrasel) registrou que pratos oriundos de cozinheiras comunitárias e mercados populares respondem por 38% do faturamento do setor informal de alimentação no país. O dado reposiciona o debate sobre o que é — e quem define — a alta gastronomia brasileira."

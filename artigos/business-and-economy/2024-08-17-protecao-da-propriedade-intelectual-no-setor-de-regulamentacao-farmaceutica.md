@@ -2,7 +2,7 @@
 title: Proteção da Propriedade Intelectual no Setor de Regulamentação Farmacêutica
 date: 2024-08-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Business and Economy
 - Courses and Careers

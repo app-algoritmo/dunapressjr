@@ -2,7 +2,7 @@
 title: Economia recua 0,8% de julho para agosto, revela a FGV
 date: 2022-10-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

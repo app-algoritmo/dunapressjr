@@ -3,7 +3,7 @@ title: Isolamento social mudou o padrão de sono dos estudantes; saiba como isso
   nos estudos
 date: 2020-10-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

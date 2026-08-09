@@ -2,7 +2,7 @@
 title: A face oculta de Nelson Mandela
 date: 2023-11-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Cerca de 60 empresas foram abertas no primeiro mês do Inova Simples
 date: 2022-02-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

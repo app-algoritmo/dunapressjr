@@ -2,7 +2,7 @@
 title: CFC envia ofício à Receita Federal solicitando alterações no programa Gfip/Sefip
 date: 2021-01-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

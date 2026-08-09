@@ -2,7 +2,7 @@
 title: IA pode detectar os primeiros sinais da doença de Alzheimer
 date: 2023-02-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

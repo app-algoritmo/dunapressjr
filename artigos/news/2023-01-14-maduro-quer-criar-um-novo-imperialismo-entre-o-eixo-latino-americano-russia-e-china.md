@@ -3,7 +3,7 @@ title: Maduro quer criar um novo 'imperialismo' entre o eixo latino-americano, R
   e China
 date: 2023-01-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 - Policy

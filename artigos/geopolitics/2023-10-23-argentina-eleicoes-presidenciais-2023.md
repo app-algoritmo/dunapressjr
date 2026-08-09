@@ -2,7 +2,7 @@
 title: 'Argentina: Eleições Presidenciais 2023'
 date: 2023-10-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - World Affairs

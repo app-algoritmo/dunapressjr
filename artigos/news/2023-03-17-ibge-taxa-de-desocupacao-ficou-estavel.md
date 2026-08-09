@@ -2,7 +2,7 @@
 title: 'IBGE: Taxa de desocupação ficou estável'
 date: 2023-03-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

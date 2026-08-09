@@ -2,7 +2,7 @@
 title: 'IBGE: IPCA-15 de outubro registra queda para 0,21%'
 date: 2023-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

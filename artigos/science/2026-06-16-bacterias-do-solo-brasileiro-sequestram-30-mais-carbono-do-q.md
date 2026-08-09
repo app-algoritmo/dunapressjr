@@ -3,7 +3,7 @@ title: "Bactérias do solo brasileiro sequestram 30% mais carbono do que os mode
 subtitle: "Um estudo publicado em maio de 2026 por pesquisadores da USP e do Inpa reescreve o papel do microbioma amazônico nas contas globais do clima — e abre disputa sobre como esse dado entra nas negociações de crédito de carbono."
 date: 2026-06-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - science
 description: "Pesquisadores brasileiros identificaram que comunidades microbianas do solo amazônico fixam carbono em taxas 30% superiores ao previsto pelos principais modelos do IPCC, alterando estimativas sobre o potencial de mitigação climática da floresta. O achado chega em momento-chave: o Brasil negocia regras para seu mercado regulado de carbono, e esse número pode mudar o valor de milhões de hectares."

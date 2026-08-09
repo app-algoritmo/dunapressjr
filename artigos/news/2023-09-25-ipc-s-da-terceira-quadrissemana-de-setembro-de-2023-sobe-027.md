@@ -2,7 +2,7 @@
 title: IPC-S da terceira quadrissemana de setembro de 2023 sobe 0,27%
 date: 2023-09-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Princípio da Insignificância ou Bagatela
 date: 2026-04-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Brasil: O Golpe Republicano de 15 de Novembro nas Palavras da Princesa Isabel'
 date: 2021-11-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

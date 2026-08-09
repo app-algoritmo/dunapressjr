@@ -2,7 +2,7 @@
 title: 'Missa com Papa Francisco: acompanhe agora os bastidores em Facebook live!'
 date: 2018-06-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

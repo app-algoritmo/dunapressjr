@@ -2,7 +2,7 @@
 title: 'OMS: próximas semanas serão cruciais no combate ao coronavírus'
 date: 2020-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

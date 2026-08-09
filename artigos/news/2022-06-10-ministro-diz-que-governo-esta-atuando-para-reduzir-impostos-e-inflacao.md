@@ -2,7 +2,7 @@
 title: Ministro diz que governo está atuando para reduzir impostos e inflação
 date: 2022-06-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

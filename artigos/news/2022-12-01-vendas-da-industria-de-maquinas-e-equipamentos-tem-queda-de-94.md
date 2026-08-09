@@ -2,7 +2,7 @@
 title: Vendas da indústria de máquinas e equipamentos têm queda de 9,4%
 date: 2022-12-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

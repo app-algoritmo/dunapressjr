@@ -2,7 +2,7 @@
 title: Dólar tem maior queda semanal desde início de junho
 date: 2020-07-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

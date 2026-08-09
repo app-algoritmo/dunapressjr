@@ -2,7 +2,7 @@
 title: Desemprego na Argentina fica em 9,7% no terceiro trimestre de 2019
 date: 2019-12-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

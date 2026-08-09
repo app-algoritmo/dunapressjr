@@ -2,7 +2,7 @@
 title: Noruega bate recorde e registra mais de 200.000 carros elétricos em 2018
 date: 2020-02-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

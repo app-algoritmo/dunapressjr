@@ -2,7 +2,7 @@
 title: Brasil quer agregar valor a exportações à China, diz vice-presidente
 date: 2022-05-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

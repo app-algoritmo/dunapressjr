@@ -2,7 +2,7 @@
 title: Como a Noruega reage à segunda onda da Covid?
 date: 2020-10-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

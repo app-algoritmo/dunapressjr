@@ -2,7 +2,7 @@
 title: 'IBGE: setor de serviços tem crescimento de 2,6% em julho'
 date: 2020-09-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

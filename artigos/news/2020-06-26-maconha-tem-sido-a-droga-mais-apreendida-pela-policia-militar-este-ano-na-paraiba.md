@@ -2,7 +2,7 @@
 title: Maconha tem sido a droga mais apreendida pela Polícia Militar este ano na Paraíba
 date: 2020-06-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Elon Musk e a Defesa da Liberdade de Expressão: Uma Luta Vital para a Democracia'
 date: 2024-08-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: EUA espera fechar acordo comercial com Reino Unido este ano
 date: 2020-01-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

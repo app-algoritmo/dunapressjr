@@ -2,7 +2,7 @@
 title: Indústria prevê alta de 10% na venda de máquinas agrícolas em 2020
 date: 2020-10-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'FGV: INCC-M apresenta variação de 0,23% em abril e acumula alta de 7,4
   12 meses'
 date: 2023-04-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

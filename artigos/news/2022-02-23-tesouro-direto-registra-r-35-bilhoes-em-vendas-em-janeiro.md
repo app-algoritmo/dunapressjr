@@ -2,7 +2,7 @@
 title: Tesouro Direto registra R$ 3,5 bilhões em vendas em janeiro
 date: 2022-02-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

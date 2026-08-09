@@ -3,7 +3,7 @@ title: "Pequim aposta US$ 47 bilhões em semicondutores para romper o cerco de W
 subtitle: "O maior pacote de investimento estatal chinês em chips desde 2014 redefine fronteiras tecnológicas e força empresas europeias e asiáticas a escolher lados num mercado que movimenta US$ 600 bilhões por ano."
 date: 2026-07-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-economy
 description: "A China anunciou em julho de 2026 um fundo estatal de US$ 47 bilhões exclusivo para semicondutores, o maior movimento do gênero desde a criação do 'Big Fund' em 2014. A aposta força parceiros comerciais de Pequim — da Europa à Coreia do Sul — a recalibrar alianças num setor que está no centro da rivalidade econômica do século."

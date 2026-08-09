@@ -2,7 +2,7 @@
 title: Atividade econômica cresce 0,44% em abril, diz BC
 date: 2021-06-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: FGTS poderá ser usado para quitar até seis prestações da casa própria
 date: 2022-12-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

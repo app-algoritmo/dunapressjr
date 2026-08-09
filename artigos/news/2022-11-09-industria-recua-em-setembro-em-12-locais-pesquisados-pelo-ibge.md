@@ -2,7 +2,7 @@
 title: Indústria recua em setembro em 12 locais pesquisados pelo IBGE
 date: 2022-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

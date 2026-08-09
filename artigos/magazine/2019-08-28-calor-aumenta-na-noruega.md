@@ -2,7 +2,7 @@
 title: Calor aumenta na Noruega
 date: 2019-08-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

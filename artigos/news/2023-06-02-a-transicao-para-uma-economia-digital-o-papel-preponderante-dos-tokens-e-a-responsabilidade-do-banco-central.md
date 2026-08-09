@@ -3,7 +3,7 @@ title: 'A Transição para uma Economia Digital: O Papel Preponderante dos Token
   a Responsabilidade do Banco Central'
 date: 2023-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

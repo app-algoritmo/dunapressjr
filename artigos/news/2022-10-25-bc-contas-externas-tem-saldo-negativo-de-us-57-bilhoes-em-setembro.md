@@ -2,7 +2,7 @@
 title: 'BC: contas externas têm saldo negativo de US$ 5,7 bilhões em setembro'
 date: 2022-10-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

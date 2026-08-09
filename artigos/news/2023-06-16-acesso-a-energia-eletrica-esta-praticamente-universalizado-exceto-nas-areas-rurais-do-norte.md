@@ -3,7 +3,7 @@ title: Acesso à energia elétrica está praticamente universalizado, exceto nas
   rurais do Norte
 date: 2023-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

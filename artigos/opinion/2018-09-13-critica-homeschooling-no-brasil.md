@@ -2,7 +2,7 @@
 title: 'Crítica: Homeschooling no Brasil'
 date: 2018-09-13
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

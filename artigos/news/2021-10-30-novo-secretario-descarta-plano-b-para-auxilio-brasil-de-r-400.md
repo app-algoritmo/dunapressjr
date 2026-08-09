@@ -2,7 +2,7 @@
 title: Novo secretário descarta Plano B para Auxílio Brasil de R$ 400
 date: 2021-10-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

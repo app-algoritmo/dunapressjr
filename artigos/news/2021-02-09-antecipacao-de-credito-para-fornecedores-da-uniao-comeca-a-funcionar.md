@@ -2,7 +2,7 @@
 title: Antecipação de crédito para fornecedores da União começa a funcionar
 date: 2021-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

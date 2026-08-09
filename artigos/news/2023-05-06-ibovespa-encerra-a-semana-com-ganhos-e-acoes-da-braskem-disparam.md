@@ -2,7 +2,7 @@
 title: Ibovespa encerra a semana com ganhos e ações da Braskem disparam
 date: 2023-05-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

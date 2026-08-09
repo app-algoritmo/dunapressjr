@@ -3,7 +3,7 @@ title: 'IBGE: IPCA-15 de junho registra baixa de 0,04%, impactando a inflação 
   e anual'
 date: 2023-06-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

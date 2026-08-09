@@ -2,7 +2,7 @@
 title: 'Atas do Copom: Redução da Taxa Selic e desafios na economia brasileira'
 date: 2023-09-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Investimentos no Tesouro Direto superaram resgates em R$ 330 milhões
 date: 2020-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

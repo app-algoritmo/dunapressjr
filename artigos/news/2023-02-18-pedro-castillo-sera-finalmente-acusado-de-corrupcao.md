@@ -2,7 +2,7 @@
 title: Pedro Castillo será finalmente acusado de corrupção
 date: 2023-02-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

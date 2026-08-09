@@ -3,7 +3,7 @@ title: IPC-S registra queda de 0,10% na quarta quadrissemana de junho de 2023, a
   FGV/IBRE
 date: 2023-07-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

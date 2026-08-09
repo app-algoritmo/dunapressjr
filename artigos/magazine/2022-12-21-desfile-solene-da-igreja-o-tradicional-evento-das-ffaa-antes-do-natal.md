@@ -2,7 +2,7 @@
 title: Desfile solene da igreja, o tradicional evento das FFAA antes do natal
 date: 2022-12-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - News

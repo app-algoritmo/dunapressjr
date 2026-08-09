@@ -2,7 +2,7 @@
 title: Aneel mantém bandeira tarifária verde para março
 date: 2023-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

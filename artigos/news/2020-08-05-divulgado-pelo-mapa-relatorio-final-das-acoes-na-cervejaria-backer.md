@@ -2,7 +2,7 @@
 title: Divulgado pelo Mapa relatório final das ações na Cervejaria Backer
 date: 2020-08-05
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

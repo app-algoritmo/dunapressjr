@@ -3,7 +3,7 @@ title: "Por que um romance nigeriano de 1958 está moldando o debate sobre ident
 subtitle: "A reentrada de 'O Mundo Se Despedaça', de Chinua Achebe, nas listas de leitura universitárias e nos círculos literários brasileiros revela uma convergência incomum entre colonialismo, pertencimento e a busca por narrativas próprias."
 date: 2026-07-24
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - literature
 description: "Sessenta e oito anos após sua publicação original, 'O Mundo Se Despedaça' de Chinua Achebe vive um segundo fôlego surpreendente no Brasil, aparecendo em listas de adoção de ao menos 14 universidades públicas em 2026. O fenômeno não é nostalgia — é um sinal de que o país está relendo a si mesmo através de outras civilizações que também foram partidas ao meio."

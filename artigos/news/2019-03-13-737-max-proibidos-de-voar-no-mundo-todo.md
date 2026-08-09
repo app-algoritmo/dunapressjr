@@ -2,7 +2,7 @@
 title: 737 Max Proibidos De Voar No Mundo Todo
 date: 2019-03-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

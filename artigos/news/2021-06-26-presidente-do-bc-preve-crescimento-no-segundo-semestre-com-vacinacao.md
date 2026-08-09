@@ -2,7 +2,7 @@
 title: Presidente do BC prevê crescimento no segundo semestre com vacinação
 date: 2021-06-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

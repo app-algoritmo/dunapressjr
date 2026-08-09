@@ -3,7 +3,7 @@ title: 'Boletim Focus: Mercado financeiro eleva expectativa de crescimento do PI
   em 2023 e inflação acima da meta'
 date: 2023-04-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Noruega desaconselha viagens para República Tcheca, França, Mônaco e Suíça
 date: 2020-08-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

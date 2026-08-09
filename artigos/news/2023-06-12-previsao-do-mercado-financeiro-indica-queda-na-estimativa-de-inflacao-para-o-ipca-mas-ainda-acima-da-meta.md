@@ -3,7 +3,7 @@ title: Previsão do mercado financeiro indica queda na estimativa de inflação 
   o IPCA, mas ainda acima da meta
 date: 2023-06-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

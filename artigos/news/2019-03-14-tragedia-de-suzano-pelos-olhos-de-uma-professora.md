@@ -1,5 +1,5 @@
 ---
-title: Tragédia de Suzano,  pelos olhos de uma professora
+title: Tragédia de Suzano, pelos olhos de uma professora
 date: 2019-03-14
 status: publish
 author: Vera Amatti

@@ -3,7 +3,7 @@ title: Online inscrição de veterinários no programa de combate à brucelose e
   animal
 date: 2020-05-23
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Inflação pelo IPCA sobe 0,96% em julho. INPC acelera para 1,02%
 date: 2021-08-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

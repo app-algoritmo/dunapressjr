@@ -2,7 +2,7 @@
 title: Receita prorroga até 31 de agosto suspensão das ações de cobrança
 date: 2020-07-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

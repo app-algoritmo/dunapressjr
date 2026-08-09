@@ -2,7 +2,7 @@
 title: 'Covid-19: Ipea revê previsão e diz que inflação deve fechar em 1,8%'
 date: 2020-06-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

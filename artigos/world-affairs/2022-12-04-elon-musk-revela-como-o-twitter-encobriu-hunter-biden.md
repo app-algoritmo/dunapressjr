@@ -2,7 +2,7 @@
 title: Elon Musk revela como o Twitter encobriu Hunter Biden
 date: 2022-12-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

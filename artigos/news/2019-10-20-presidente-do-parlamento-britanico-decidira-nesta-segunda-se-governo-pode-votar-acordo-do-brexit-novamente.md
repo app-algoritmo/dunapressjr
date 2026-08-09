@@ -3,7 +3,7 @@ title: Presidente do Parlamento britânico decidirá nesta segunda se governo po
   acordo do Brexit novamente
 date: 2019-10-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

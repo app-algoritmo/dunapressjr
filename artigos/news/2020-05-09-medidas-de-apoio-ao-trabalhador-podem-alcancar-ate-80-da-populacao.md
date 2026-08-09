@@ -2,7 +2,7 @@
 title: Medidas de apoio ao trabalhador podem alcançar até 80% da população
 date: 2020-05-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

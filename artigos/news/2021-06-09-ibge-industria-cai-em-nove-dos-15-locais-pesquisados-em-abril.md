@@ -2,7 +2,7 @@
 title: 'IBGE: indústria cai em nove dos 15 locais pesquisados em abril'
 date: 2021-06-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

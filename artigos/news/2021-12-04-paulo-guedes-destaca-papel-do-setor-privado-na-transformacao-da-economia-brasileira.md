@@ -2,7 +2,7 @@
 title: Paulo Guedes destaca papel do setor privado na transformação da economia brasileira
 date: 2021-12-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

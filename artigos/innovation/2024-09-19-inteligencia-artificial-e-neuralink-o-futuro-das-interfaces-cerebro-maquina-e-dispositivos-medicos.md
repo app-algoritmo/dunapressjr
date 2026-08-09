@@ -3,7 +3,7 @@ title: 'Inteligência Artificial e Neuralink: O Futuro das Interfaces Cérebro-M
   e Dispositivos Médicos'
 date: 2024-09-19
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Innovation
 - Technology

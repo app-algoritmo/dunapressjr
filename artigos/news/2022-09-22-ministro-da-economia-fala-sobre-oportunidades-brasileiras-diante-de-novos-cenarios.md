@@ -2,7 +2,7 @@
 title: Ministro da Economia fala sobre oportunidades brasileiras diante de novos cenários
 date: 2022-09-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Lingokids: plataforma digital interativa para crianças (com Oxford Univ
   Press)'
 date: 2017-12-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

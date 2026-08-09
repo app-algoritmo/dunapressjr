@@ -3,7 +3,7 @@ title: Plenário aprova projeto que define rateio entre estados e municípios do
   do pré-sal
 date: 2019-10-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

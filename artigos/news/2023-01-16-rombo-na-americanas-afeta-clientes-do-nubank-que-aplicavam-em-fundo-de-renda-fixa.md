@@ -3,7 +3,7 @@ title: Rombo na Americanas afeta clientes do Nubank que aplicavam em fundo de re
   fixa
 date: 2023-01-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Inflação acelerou em todas as faixas de renda em dezembro
 date: 2023-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

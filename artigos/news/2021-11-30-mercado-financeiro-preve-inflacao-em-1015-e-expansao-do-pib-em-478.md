@@ -2,7 +2,7 @@
 title: Mercado financeiro prevê inflação em 10,15% e expansão do PIB em 4,78%
 date: 2021-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

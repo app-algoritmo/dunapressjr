@@ -3,7 +3,7 @@ title: Dívida Pública Federal cai levemente em maio devido ao alto volume de v
   de títulos vinculados à inflação
 date: 2023-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Macron pede ao governo chinês maior abertura às empresas estrangeiras
 date: 2019-11-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

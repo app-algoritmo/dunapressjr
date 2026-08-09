@@ -2,7 +2,7 @@
 title: Copom diz que “não hesitará” em elevar juros caso não haja desinflação
 date: 2022-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

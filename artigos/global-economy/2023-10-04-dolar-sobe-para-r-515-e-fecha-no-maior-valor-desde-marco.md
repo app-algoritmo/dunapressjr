@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,15 e fecha no maior valor desde março
 date: 2023-10-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: "O Colapso da Certeza: Como a Filosofia Contemporânea Enfrenta a Era da 
 subtitle: "Em um mundo saturado de narrativas conflitantes e verdades negociadas, o pensamento filosófico ressurge não como disciplina acadêmica, mas como ferramenta de sobrevivência intelectual"
 date: 2026-05-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - philosophy
 description: "A filosofia contemporânea enfrenta seu momento mais relevante em décadas ao confrontar diretamente a crise epistêmica global. Da epistemologia clássica ao pragmatismo digital, este artigo analisa como os grandes marcos do pensamento filosófico oferecem instrumentos concretos para navegar um mundo onde a distinção entre fato e ficção tornou-se o principal campo de batalha civilizacional."

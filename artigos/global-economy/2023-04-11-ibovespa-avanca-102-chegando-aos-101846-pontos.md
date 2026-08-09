@@ -2,7 +2,7 @@
 title: Ibovespa avança 1,02%, chegando aos 101.846 pontos
 date: 2023-04-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

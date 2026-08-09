@@ -2,7 +2,7 @@
 title: PR do Brasil, Jair Bolsonaro visitará instalações militares dos EUA
 date: 2020-03-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

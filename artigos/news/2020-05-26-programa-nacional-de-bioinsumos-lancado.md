@@ -2,7 +2,7 @@
 title: Programa Nacional de Bioinsumos lançado
 date: 2020-05-26
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

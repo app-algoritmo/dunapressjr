@@ -3,7 +3,7 @@ title: Atividade comercial no Brasil apresenta leve recuperação no segundo ano
   pandemia, com diferenças regionais
 date: 2023-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

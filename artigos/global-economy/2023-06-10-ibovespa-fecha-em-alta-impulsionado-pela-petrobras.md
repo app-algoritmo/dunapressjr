@@ -2,7 +2,7 @@
 title: Ibovespa fecha em alta impulsionado pela Petrobras
 date: 2023-06-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

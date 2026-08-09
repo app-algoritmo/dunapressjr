@@ -2,7 +2,7 @@
 title: Preço da cesta básica de alimentos sobe em nove cidades
 date: 2021-12-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Lula defende Maduro e destaca a importância de eleições livres na Vene
   sob sua responsabilidade
 date: 2023-05-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

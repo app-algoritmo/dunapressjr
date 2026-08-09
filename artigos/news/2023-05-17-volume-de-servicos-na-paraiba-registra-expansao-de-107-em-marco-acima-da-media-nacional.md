@@ -3,7 +3,7 @@ title: Volume de serviços na Paraíba registra expansão de 10,7% em março, ac
   média nacional
 date: 2023-05-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

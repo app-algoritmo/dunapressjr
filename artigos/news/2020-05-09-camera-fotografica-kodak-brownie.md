@@ -2,7 +2,7 @@
 title: Câmera Fotográfica Kodak Brownie
 date: 2020-05-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

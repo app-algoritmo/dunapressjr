@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,02 após Fed aumentar juros nos Estados Unidos
 date: 2022-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

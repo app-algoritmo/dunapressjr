@@ -3,7 +3,7 @@ title: Ministro anuncia investimento de R$ 56 bilhões em transmissão de energi
   no Nordeste
 date: 2023-05-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

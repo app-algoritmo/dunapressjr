@@ -2,7 +2,7 @@
 title: Dia Internacional do Idoso
 date: 2019-10-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

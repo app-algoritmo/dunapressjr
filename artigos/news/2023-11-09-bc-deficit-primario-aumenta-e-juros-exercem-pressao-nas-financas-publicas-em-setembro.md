@@ -3,7 +3,7 @@ title: 'BC: Déficit primário aumenta e juros exercem pressão nas finanças p�
   em setembro'
 date: 2023-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

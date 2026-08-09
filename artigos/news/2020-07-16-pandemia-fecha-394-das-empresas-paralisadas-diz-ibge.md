@@ -2,7 +2,7 @@
 title: Pandemia fecha 39,4% das empresas paralisadas, diz IBGE
 date: 2020-07-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Jair Bolsonaro e Amazônia são destaques em jornal norueguês
 date: 2018-11-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

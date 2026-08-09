@@ -2,7 +2,7 @@
 title: <strong>Pedra na água, hora de rever caminhos</strong>
 date: 2022-10-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Opinion
 ---

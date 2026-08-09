@@ -2,7 +2,7 @@
 title: 'Covid-19: CGU e PF combatem desvios de recursos no Rio de Janeiro'
 date: 2021-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

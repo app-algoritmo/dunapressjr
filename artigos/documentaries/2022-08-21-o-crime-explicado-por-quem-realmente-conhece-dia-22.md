@@ -2,7 +2,7 @@
 title: O crime explicado por quem realmente conhece – dia 2/2
 date: 2022-08-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Documentaries
 ---

@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,20 e fecha agosto com alta de 0,53%
 date: 2022-09-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

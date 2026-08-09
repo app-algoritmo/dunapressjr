@@ -3,7 +3,7 @@ title: "Parece ficção científica, mas é audiência no Congresso: o que mudou
 subtitle: "Após décadas de silêncio institucional, Estados Unidos, Brasil e União Europeia abriram arquivos e criaram comissões formais para investigar Fenômenos Aéreos Não Identificados — e o debate científico finalmente saiu da margem."
 date: 2026-07-06
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - ufologia
 description: "Governos dos Estados Unidos, Brasil e países europeus aceleraram a abertura de arquivos e a criação de órgãos formais para investigar Fenômenos Aéreos Não Identificados entre 2023 e 2026. O que antes era tabu institucional tornou-se pauta de segurança nacional e, agora, de pesquisa científica séria — e entender essa virada importa para além do debate sobre vida extraterrestre."

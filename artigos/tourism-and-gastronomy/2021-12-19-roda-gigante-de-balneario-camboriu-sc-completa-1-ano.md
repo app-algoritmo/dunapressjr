@@ -1,5 +1,5 @@
 ---
-title: Roda-gigante de Balneário Camboriú (SC)  completa 1 ano
+title: Roda-gigante de Balneário Camboriú (SC) completa 1 ano
 date: 2021-12-19
 status: publish
 author: Joice Ferreira

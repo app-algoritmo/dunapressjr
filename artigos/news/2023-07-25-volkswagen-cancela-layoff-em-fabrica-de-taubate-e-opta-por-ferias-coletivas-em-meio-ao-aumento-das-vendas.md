@@ -3,7 +3,7 @@ title: Volkswagen cancela layoff em fábrica de Taubaté e opta por férias cole
   em meio ao aumento das vendas
 date: 2023-07-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

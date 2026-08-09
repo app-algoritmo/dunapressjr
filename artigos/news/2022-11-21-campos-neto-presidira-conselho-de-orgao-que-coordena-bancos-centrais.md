@@ -2,7 +2,7 @@
 title: Campos Neto presidirá conselho de órgão que coordena bancos centrais
 date: 2022-11-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

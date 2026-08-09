@@ -2,7 +2,7 @@
 title: Amor e casamento na tradição judaica
 date: 2020-03-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Culture and History
 ---

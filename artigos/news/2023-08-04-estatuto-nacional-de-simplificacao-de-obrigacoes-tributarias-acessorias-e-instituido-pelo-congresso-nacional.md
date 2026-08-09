@@ -3,7 +3,7 @@ title: Estatuto nacional de simplificação de obrigações tributárias acessó
   pelo Congresso Nacional
 date: 2023-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

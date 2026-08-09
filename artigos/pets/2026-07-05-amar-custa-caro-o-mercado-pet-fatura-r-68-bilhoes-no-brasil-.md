@@ -3,7 +3,7 @@ title: "Amar custa caro: o mercado pet fatura R$ 68 bilhões no Brasil, mas a ci
 subtitle: "Enquanto o setor pet se torna o quinto maior do mundo e cresce 12% ao ano no Brasil, pesquisadores do bem-estar animal questionam se a abundância de produtos representa cuidado real ou projeção humana disfarçada de amor."
 date: 2026-07-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - pets
 description: "O Brasil é o segundo maior mercado pet do planeta, com R$ 68 bilhões movimentados em 2025 — mas estudos publicados em 2026 sugerem que parte desse gasto financia ansiedade humana, não saúde animal. Entender essa distinção pode mudar a forma como o país trata seus 168 milhões de animais de estimação."

@@ -3,7 +3,7 @@ title: Unesco lança o programa Jornalismo com manual educativo de combate ao Fa
   News e à Desinformação
 date: 2019-08-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Education
 - News

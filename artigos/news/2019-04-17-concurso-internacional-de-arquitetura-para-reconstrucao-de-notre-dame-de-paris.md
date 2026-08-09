@@ -2,7 +2,7 @@
 title: Concurso internacional de arquitetura para reconstrução de Notre-Dame de Paris
 date: 2019-04-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

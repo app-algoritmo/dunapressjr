@@ -2,7 +2,7 @@
 title: Apresentada pós-graduação oferecida no Programa Novos Caminhos
 date: 2020-07-28
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

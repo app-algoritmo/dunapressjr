@@ -3,7 +3,7 @@ title: Equipamentos recebidos pelo HU-UFSCar para diagnóstico rápido da Covid-
   de outras doenças
 date: 2020-07-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

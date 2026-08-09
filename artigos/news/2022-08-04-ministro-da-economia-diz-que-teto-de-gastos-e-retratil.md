@@ -2,7 +2,7 @@
 title: Ministro da Economia diz que teto de gastos é 'retrátil
 date: 2022-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

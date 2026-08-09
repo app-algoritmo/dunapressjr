@@ -1,5 +1,5 @@
 ---
-title: Ford  patrocina exposição de Auschwitz
+title: Ford patrocina exposição de Auschwitz
 date: 2020-02-11
 status: publish
 author: Joice Ferreira

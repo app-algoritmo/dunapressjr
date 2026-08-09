@@ -3,7 +3,7 @@ title: Governo do Estado apresenta plano de retomada gradual e segura das ativid
   na Paraíba
 date: 2020-06-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

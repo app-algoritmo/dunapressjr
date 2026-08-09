@@ -3,7 +3,7 @@ title: "Parece corrida tecnológica, mas é disputa por quem define as regras do
 subtitle: "Enquanto EUA e China aceleram investimentos em IA, a batalha decisiva de 2026 não é técnica — é regulatória, e o Brasil está mais próximo do centro do que imagina."
 date: 2026-08-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - inteligencia-artificial
 description: "A corrida pela liderança em inteligência artificial chegou a um ponto de inflexão em 2026: não é mais quem treina o modelo mais potente, mas quem consegue impor sua arquitetura regulatória ao resto do mundo. O Brasil, com seu projeto de lei de IA em votação final no Congresso, tem uma janela rara para escolher — ou ser escolhido."

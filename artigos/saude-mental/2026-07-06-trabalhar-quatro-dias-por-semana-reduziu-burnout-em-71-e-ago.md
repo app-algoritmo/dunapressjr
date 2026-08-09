@@ -3,7 +3,7 @@ title: "Trabalhar quatro dias por semana reduziu burnout em 71% — e agora os c
 subtitle: "Ensaios clínicos em 24 países estão forçando a psiquiatria ocupacional a rever o que considera 'normal' numa semana de trabalho — e o Brasil assiste de fora ao debate mais importante sobre produtividade e saúde mental da última década."
 date: 2026-07-06
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - saude-mental
 description: "Dados de ensaios controlados em países como Reino Unido, Islândia e Japão mostram que a semana de quatro dias reduz sintomas de burnout em até 71% sem queda de produtividade. O Brasil, com a maior taxa de burnout da América Latina segundo a Isma-BR, ainda não tem política pública ou marco regulatório que endereçe o fenômeno."

@@ -2,7 +2,7 @@
 title: A arte de soltar
 date: 2018-07-20
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 - Religiosity

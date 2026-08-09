@@ -3,7 +3,7 @@ title: "Por que o mundo está redesenhando suas cadeias produtivas ao redor de p
 subtitle: "A reconfiguração silenciosa do comércio global em 2026 coloca Vietnã, Indonésia, Marrocos e México no centro de uma disputa que vai muito além de tarifas."
 date: 2026-06-24
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-economy
 description: "Enquanto EUA e China travam sua guerra comercial em manchetes, uma silenciosa revolução logística redesenha o mapa da produção global — e países como Vietnã, Marrocos e México estão capturando investimentos que antes jamais imaginaram receber. Entender quem ganha e quem perde nessa virada é a chave para antecipar os próximos movimentos do capitalismo do século XXI."

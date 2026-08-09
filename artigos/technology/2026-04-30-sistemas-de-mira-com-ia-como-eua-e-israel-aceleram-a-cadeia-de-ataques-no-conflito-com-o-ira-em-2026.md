@@ -2,7 +2,7 @@
 title: "Sistemas de Mira com IA: Como EUA e Israel Aceleram a Cadeia de Ataques no Conflito com o Irã em 2026"
 date: 2026-04-30
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - technology
 tags:

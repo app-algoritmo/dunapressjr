@@ -2,7 +2,7 @@
 title: Governo gaúcho faz leilão na B3 para alienação de ações da Corsan
 date: 2022-12-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Bolsa sobe 0,89% em dia de alívio global
 date: 2021-09-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -1,5 +1,5 @@
 ---
-title: Banco Central anuncia  medidas para liberar R$ 1,2 trilhão para a economia
+title: Banco Central anuncia medidas para liberar R$ 1,2 trilhão para a economia
 date: 2020-03-24
 status: publish
 author: Joice Ferreira

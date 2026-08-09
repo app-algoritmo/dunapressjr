@@ -2,7 +2,7 @@
 title: BC tem R$ 4,6 bilhões esquecidos em bancos a serem devolvidos
 date: 2022-12-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

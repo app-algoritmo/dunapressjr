@@ -2,7 +2,7 @@
 title: Sefaz-PB publica 6ª edição do ‘Boletim Informativo dos Impactos da Covid-19’
 date: 2020-06-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

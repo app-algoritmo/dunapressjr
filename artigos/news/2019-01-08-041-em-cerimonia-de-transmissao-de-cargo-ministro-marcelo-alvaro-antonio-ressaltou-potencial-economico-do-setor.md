@@ -3,7 +3,7 @@ title: 04.1 Em cerimônia de transmissão de cargo, ministro Marcelo Álvaro Ant
   ressaltou potencial econômico do setor
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

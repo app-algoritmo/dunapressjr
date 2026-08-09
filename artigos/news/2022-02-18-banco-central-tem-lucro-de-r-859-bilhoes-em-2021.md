@@ -2,7 +2,7 @@
 title: Banco Central tem lucro de R$ 85,9 bilhões em 2021
 date: 2022-02-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

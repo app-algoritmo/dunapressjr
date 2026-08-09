@@ -2,7 +2,7 @@
 title: Rússia e China passam a pagar pelo fornecimento de energia em moedas nacionais
 date: 2022-11-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

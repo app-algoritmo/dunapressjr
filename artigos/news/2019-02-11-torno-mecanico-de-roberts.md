@@ -2,7 +2,7 @@
 title: Torno mecânico de Roberts
 date: 2019-02-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

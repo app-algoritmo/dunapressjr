@@ -2,7 +2,7 @@
 title: Norwegian Air Shuttle deseja operar no Brasil
 date: 2018-08-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

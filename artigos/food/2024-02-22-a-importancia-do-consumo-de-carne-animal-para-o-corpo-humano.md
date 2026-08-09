@@ -2,7 +2,7 @@
 title: A Importância do Consumo de Carne Animal para o Corpo Humano
 date: 2024-02-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Food
 - Science

@@ -3,7 +3,7 @@ title: Destinado R$ 39,7 milhões pelo Mec para universidades federais com campu
   hospital próprio
 date: 2020-08-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Desemprego no país cai para 11,1% no quarto trimestre de 2021
 date: 2022-02-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

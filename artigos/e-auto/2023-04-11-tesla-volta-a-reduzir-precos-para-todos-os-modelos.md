@@ -2,7 +2,7 @@
 title: Tesla volta a reduzir preços para todos os modelos
 date: 2023-04-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - E-auto
 - Geopolitics

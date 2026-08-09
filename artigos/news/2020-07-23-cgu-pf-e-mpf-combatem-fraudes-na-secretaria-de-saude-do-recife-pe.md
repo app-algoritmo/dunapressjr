@@ -2,7 +2,7 @@
 title: CGU, PF e MPF combatem fraudes na Secretaria de Saúde do Recife (PE)
 date: 2020-07-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

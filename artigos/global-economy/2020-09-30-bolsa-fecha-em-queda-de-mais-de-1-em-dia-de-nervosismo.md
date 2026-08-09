@@ -2,7 +2,7 @@
 title: Bolsa fecha em queda de mais de 1% em dia de nervosismo
 date: 2020-09-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

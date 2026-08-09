@@ -2,7 +2,7 @@
 title: Aspectos técnicos e políticos marcam reunião do Aliança em São Paulo
 date: 2020-02-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

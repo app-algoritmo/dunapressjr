@@ -2,7 +2,7 @@
 title: Queda no Ibovespa é liderada por ações da Petrobras após divulgação de resultados
 date: 2023-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

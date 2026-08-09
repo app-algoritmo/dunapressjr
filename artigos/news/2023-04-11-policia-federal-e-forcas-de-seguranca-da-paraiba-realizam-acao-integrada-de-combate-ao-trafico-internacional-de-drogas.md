@@ -3,7 +3,7 @@ title: Polícia Federal e Forças de Segurança da Paraíba realizam ação inte
   combate ao tráfico internacional de drogas
 date: 2023-04-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

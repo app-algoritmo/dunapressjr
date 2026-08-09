@@ -3,7 +3,7 @@ title: "A Batalha pelos Décimos: Como a Guerra de Atualizações Está Redefini
 subtitle: "Com o novo ciclo regulatório em plena ebulição, as equipes travam uma corrida invisível nos bastidores que pode ser mais decisiva do que qualquer ultrapassagem em pista"
 date: 2026-05-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - formula-1
 description: "A temporada 2026 da Fórmula 1 entrou em sua fase mais crítica. Com o novo pacote regulatório de motores e aerodinâmica em vigor, as equipes enfrentam um dilema estratégico sem precedentes: investir pesado em atualizações imediatas ou preservar recursos para a segunda metade do campeonato. Uma análise das dinâmicas técnicas e políticas que estão moldando o grid mais competitivo dos últimos anos."

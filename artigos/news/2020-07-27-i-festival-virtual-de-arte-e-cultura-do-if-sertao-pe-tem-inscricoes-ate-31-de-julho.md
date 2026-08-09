@@ -3,7 +3,7 @@ title: I Festival Virtual de Arte e Cultura do IF Sertão-PE têm inscrições a
   de julho
 date: 2020-07-27
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

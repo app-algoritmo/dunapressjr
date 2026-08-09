@@ -3,7 +3,7 @@ title: Em uma semana, mais de 195 mil empresários já pediram adesão ao Simple
   2022
 date: 2022-01-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

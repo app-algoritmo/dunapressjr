@@ -2,7 +2,7 @@
 title: 'Coronavírus: Senado aprova auxílio emergencial de R$ 600'
 date: 2020-03-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

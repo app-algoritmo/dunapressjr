@@ -3,7 +3,7 @@ title: Estamos vivendo aberrações jurídicas e econômicas de toda ordem – E
   e justiça pedem socorro
 date: 2020-05-31
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

@@ -2,7 +2,7 @@
 title: Conselho regulamenta uso do FGTS futuro em financiamentos imobiliários
 date: 2022-10-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

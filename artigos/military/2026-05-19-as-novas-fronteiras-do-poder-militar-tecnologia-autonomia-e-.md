@@ -3,7 +3,7 @@ title: "As Novas Fronteiras do Poder Militar: Tecnologia, Autonomia e os Dilemas
 subtitle: "A corrida armamentista digital está redefinindo doutrinas de combate, cadeias de comando e os próprios limites éticos do uso da força — e os países que não se adaptarem pagarão um preço geopolítico elevado"
 date: 2026-05-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - military
 description: "A transformação das forças armadas modernas vai muito além da aquisição de novos equipamentos. A integração de inteligência artificial, sistemas autônomos e guerra cibernética está forçando uma revisão profunda das doutrinas militares, das estruturas de comando e das próprias convenções internacionais que regulam o conflito armado. Este artigo analisa os vetores dessa transformação e suas implicações estratégicas."

@@ -2,7 +2,7 @@
 title: Ministério orienta Procons sobre forma de tributação de combustíveis
 date: 2022-04-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

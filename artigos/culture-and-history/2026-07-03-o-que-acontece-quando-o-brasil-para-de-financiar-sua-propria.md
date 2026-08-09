@@ -3,7 +3,7 @@ title: "O que acontece quando o Brasil para de financiar sua própria memória?"
 subtitle: "Com o Fundo Nacional de Cultura em disputa no Congresso e R$ 1,2 bilhão em projetos culturais paralisados desde 2023, o país enfrenta uma escolha que vai muito além da arte: quem controla a narrativa de uma nação controla seu futuro."
 date: 2026-07-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - culture-and-history
 description: "O Fundo Nacional de Cultura acumula R$ 1,2 bilhão em projetos paralisados enquanto o Congresso debate sua reformulação — a disputa revela que financiar memória e identidade não é gasto supérfluo, mas decisão geopolítica e econômica de primeira ordem. O Brasil que não financia sua própria narrativa entrega esse espaço a outras forças."

@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,30 com alívio no Brasil e no exterior
 date: 2022-10-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

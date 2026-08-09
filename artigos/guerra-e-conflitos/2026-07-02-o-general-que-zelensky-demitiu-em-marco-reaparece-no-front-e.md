@@ -3,7 +3,7 @@ title: "O general que Zelensky demitiu em março reaparece no front — e muda o
 subtitle: "A reintegração silenciosa de Valerii Zaluzhnyi ao comando operacional ucraniano expõe a tensão entre estratégia militar e diplomacia de cessar-fogo que divide Bruxelas e Washington neste julho."
 date: 2026-07-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - guerra-e-conflitos
 description: "O retorno de Valerii Zaluzhnyi a funções operacionais na Ucrânia, confirmado por fontes da inteligência britânica em 30 de junho, reacende o debate interno sobre quem de fato comanda a estratégia militar ucraniana. O movimento ocorre a menos de três semanas da cúpula da OTAN em Haia, onde o plano de transição para 2027 será votado — e onde Kiev precisa aparecer com uma voz única."

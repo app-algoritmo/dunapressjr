@@ -3,7 +3,7 @@ title: Governador da Paraíba se reúne com cônsul francês e discute possibili
   de cooperação entre a Paraíba e França
 date: 2021-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

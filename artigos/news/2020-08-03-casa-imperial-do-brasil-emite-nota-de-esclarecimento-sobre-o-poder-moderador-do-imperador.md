@@ -3,7 +3,7 @@ title: Casa Imperial do Brasil emite nota de esclarecimento sobre o poder modera
   do Imperador
 date: 2020-08-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

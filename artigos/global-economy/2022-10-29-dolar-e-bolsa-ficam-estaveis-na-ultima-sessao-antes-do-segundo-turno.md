@@ -2,7 +2,7 @@
 title: Dólar e bolsa ficam estáveis na última sessão antes do segundo turno
 date: 2022-10-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

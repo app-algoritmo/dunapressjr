@@ -2,7 +2,7 @@
 title: Certidão para saque de PIS/PASEP/FGTS agora está disponível no Meu INSS
 date: 2022-12-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

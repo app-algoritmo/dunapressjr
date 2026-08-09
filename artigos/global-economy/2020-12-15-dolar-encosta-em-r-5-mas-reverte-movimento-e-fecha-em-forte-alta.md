@@ -2,7 +2,7 @@
 title: Dólar encosta em R$ 5, mas reverte movimento e fecha em forte alta
 date: 2020-12-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: IGP-M varia 0,48% em janeiro de 2020
 date: 2020-01-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Parque da Chapada dos Guimarães é privatizado
 date: 2022-12-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

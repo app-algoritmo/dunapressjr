@@ -3,7 +3,7 @@ title: Confiança Empresarial registra queda em julho, afastando possibilidade d
   contínua
 date: 2023-08-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

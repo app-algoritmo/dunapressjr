@@ -2,7 +2,7 @@
 title: Extraterrestrial gods, angels or demons? What the Bible says?
 date: 2018-07-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

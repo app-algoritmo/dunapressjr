@@ -2,7 +2,7 @@
 title: A Vital Importância da Agricultura para a Vida Humana
 date: 2024-02-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Agriculture
 ---

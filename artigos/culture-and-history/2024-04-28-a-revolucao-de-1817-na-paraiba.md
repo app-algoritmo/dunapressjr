@@ -2,7 +2,7 @@
 title: "A revolução de 1817 na Paraíba"
 date: 2024-04-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
   - culture-and-history
 ---

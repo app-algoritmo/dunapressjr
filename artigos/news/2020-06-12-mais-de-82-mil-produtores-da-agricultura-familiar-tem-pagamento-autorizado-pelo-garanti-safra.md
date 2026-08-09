@@ -3,7 +3,7 @@ title: Mais de 82 mil produtores da agricultura familiar tem pagamento autorizad
   pelo Garanti-Safra
 date: 2020-06-12
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

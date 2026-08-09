@@ -2,7 +2,7 @@
 title: CMN revoga normas de antigo fundo do Pasep
 date: 2022-07-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

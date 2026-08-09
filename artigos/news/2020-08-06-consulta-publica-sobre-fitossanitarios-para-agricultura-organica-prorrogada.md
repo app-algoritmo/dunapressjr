@@ -2,7 +2,7 @@
 title: Consulta pública sobre fitossanitários para agricultura orgânica prorrogada
 date: 2020-08-06
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

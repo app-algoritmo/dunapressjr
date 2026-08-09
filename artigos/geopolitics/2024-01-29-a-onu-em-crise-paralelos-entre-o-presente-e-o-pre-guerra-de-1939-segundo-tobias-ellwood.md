@@ -3,7 +3,7 @@ title: 'A ONU em Crise: Paralelos entre o Presente e o Pré-Guerra de 1939, segu
   Tobias Ellwood'
 date: 2024-01-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

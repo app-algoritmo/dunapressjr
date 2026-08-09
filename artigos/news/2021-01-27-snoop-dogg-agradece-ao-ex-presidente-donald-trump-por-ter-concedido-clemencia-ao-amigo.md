@@ -1,9 +1,9 @@
 ---
-title: Snoop Dogg agradece ao ex Presidente  Donald Trump por ter concedido clemência
+title: Snoop Dogg agradece ao ex Presidente Donald Trump por ter concedido clemência
   ao amigo
 date: 2021-01-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

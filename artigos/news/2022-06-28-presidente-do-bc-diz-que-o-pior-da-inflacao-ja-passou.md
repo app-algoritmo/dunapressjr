@@ -2,7 +2,7 @@
 title: Presidente do BC diz que o pior da inflação já passou
 date: 2022-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

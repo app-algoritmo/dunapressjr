@@ -2,7 +2,7 @@
 title: Emissão de debêntures incentivadas de infraestrutura chega a R$ 3,8 bi
 date: 2020-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

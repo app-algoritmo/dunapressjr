@@ -2,7 +2,7 @@
 title: <strong>Comércio varejista tem queda de 0,1% em agosto, diz IBGE</strong>
 date: 2022-10-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

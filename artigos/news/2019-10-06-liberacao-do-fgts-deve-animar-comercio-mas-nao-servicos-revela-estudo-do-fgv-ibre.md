@@ -3,7 +3,7 @@ title: Liberação do FGTS deve animar Comércio, mas não Serviços, revela est
   FGV IBRE
 date: 2019-10-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

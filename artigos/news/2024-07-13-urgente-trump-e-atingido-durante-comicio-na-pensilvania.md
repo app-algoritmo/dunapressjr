@@ -2,7 +2,7 @@
 title: 'URGENTE: Trump é Atingido Durante Comício na Pensilvânia'
 date: 2024-07-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

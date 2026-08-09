@@ -2,7 +2,7 @@
 title: Crédito rural compartilhará dados como no open banking
 date: 2022-03-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

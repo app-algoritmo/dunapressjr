@@ -3,7 +3,7 @@ title: Instituto Pirbright, desenvolvedor das vacinas contra o coronavírus rece
   doação de US$ 5.5 mil.
 date: 2020-01-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

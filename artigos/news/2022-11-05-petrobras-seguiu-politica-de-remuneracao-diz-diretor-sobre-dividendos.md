@@ -2,7 +2,7 @@
 title: Petrobras seguiu política de remuneração, diz diretor sobre dividendos
 date: 2022-11-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

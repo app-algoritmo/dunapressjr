@@ -3,7 +3,7 @@ title: 'Caos de Neve no sul da Noruega: Queda Inesperada de Neve Coloca a Regiã
   Estado de Alerta'
 date: 2024-01-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

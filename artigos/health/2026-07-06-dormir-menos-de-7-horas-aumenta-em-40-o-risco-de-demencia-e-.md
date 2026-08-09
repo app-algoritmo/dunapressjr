@@ -3,7 +3,7 @@ title: "Dormir menos de 7 horas aumenta em 40% o risco de demência — e o Bras
 subtitle: "Novas evidências científicas consolidam o sono como o maior fator modificável de saúde cognitiva na vida adulta, mas políticas públicas e cultura corporativa brasileira seguem na contramão dos dados."
 date: 2026-07-06
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - health
 description: "Pesquisas publicadas em 2025 e 2026 consolidam o sono como o principal fator modificável para prevenção de demência, superando dieta e exercício. Enquanto o mundo reorganiza protocolos clínicos em torno dessa evidência, o Brasil ainda carece de resposta institucional à altura."

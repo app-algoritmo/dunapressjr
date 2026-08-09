@@ -2,7 +2,7 @@
 title: Cade mantém aval para venda da Oi Móvel, mas insere pontos no acordo
 date: 2022-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

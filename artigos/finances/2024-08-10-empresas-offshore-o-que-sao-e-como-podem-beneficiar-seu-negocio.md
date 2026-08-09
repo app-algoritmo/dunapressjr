@@ -2,7 +2,7 @@
 title: 'Empresas Offshore: O Que São e Como Podem Beneficiar Seu Negócio'
 date: 2024-08-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Finances
 ---

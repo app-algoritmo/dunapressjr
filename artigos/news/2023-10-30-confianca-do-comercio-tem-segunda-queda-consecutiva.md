@@ -2,7 +2,7 @@
 title: Confiança do comércio tem segunda queda consecutiva
 date: 2023-10-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

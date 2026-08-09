@@ -2,7 +2,7 @@
 title: Pesca ilegal liderada pela China ameaça Oceanos do mundo
 date: 2023-01-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

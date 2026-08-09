@@ -2,7 +2,7 @@
 title: Dólar fecha praticamente estável depois de chegar a R$ 5,87
 date: 2021-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Senado aprova MP que reduz imposto para remessas ao exterior
 date: 2023-03-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

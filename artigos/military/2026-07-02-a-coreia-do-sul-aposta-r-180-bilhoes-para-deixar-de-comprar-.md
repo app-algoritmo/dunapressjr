@@ -3,7 +3,7 @@ title: "A Coreia do Sul aposta R$ 180 bilhões para deixar de comprar armas e pa
 subtitle: "Seul transformou sua indústria de defesa em máquina de exportação em menos de uma década — e o modelo interessa ao Brasil."
 date: 2026-07-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - military
 description: "A Coreia do Sul fechou 2025 como o quarto maior exportador de armamentos do mundo, ultrapassando França e Alemanha com contratos de US$ 17,3 bilhões — uma virada que levou 12 anos e um plano de Estado deliberado. O caso sul-coreano reacende o debate sobre soberania industrial em defesa e oferece lições diretas para países como o Brasil, que ainda importa mais de 70% do equipamento militar que consome."

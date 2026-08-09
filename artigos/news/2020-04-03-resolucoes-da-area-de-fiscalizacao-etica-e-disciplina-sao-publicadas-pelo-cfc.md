@@ -3,7 +3,7 @@ title: Resoluções da área de Fiscalização, Ética e Disciplina são publica
   CFC
 date: 2020-04-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

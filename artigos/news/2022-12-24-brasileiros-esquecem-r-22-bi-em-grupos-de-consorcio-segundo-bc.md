@@ -2,7 +2,7 @@
 title: Brasileiros esquecem R$ 2,2 bi em grupos de consórcio, segundo BC
 date: 2022-12-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

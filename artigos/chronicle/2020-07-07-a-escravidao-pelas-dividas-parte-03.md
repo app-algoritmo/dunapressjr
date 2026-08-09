@@ -2,7 +2,7 @@
 title: A escravidão pelas dívidas - parte 03
 date: 2020-07-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Chronicle
 ---

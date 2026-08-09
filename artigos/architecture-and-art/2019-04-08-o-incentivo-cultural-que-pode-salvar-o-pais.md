@@ -2,7 +2,7 @@
 title: O incentivo cultural que pode salvar o país
 date: 2019-04-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 ---

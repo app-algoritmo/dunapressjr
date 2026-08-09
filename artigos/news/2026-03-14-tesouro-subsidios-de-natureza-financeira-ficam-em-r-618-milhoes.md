@@ -2,7 +2,7 @@
 title: Tesouro: subsídios de natureza financeira ficam em R$ 618 milhões
 date: 2026-03-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

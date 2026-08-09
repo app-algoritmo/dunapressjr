@@ -2,7 +2,7 @@
 title: <strong>Preocupação com sustentabilidade está presente em 60% das indústrias</strong>
 date: 2022-11-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

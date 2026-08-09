@@ -3,7 +3,7 @@ title: "Dormir menos de 7 horas aumenta em 33% o risco de infarto — e o Brasil
 subtitle: "Novo relatório da Fiocruz revela que 72 milhões de brasileiros dormem mal de forma crônica, enquanto a ciência do sono deixa de ser nicho e entra na agenda da saúde pública."
 date: 2026-06-29
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - health
 description: "Um levantamento da Fiocruz publicado em junho de 2026 aponta que 72 milhões de brasileiros têm privação crônica de sono — condição associada a 33% mais risco cardiovascular segundo metanálise da European Heart Journal. O debate não é mais sobre hábito individual: é sobre política pública, produtividade e custo bilionário ao SUS."

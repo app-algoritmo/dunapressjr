@@ -3,7 +3,7 @@ title: O Conselho de Segurança da ONU Homenageia Ditador Conhecido como 'Carnic
   de Teerã'
 date: 2024-05-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

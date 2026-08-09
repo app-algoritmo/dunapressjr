@@ -2,7 +2,7 @@
 title: Governo Central tem superávit primário recorde para junho
 date: 2022-07-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

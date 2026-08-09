@@ -2,7 +2,7 @@
 title: Bolsa fecha no menor nível em um ano com aprovação de PEC
 date: 2021-11-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

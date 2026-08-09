@@ -2,7 +2,7 @@
 title: Previsão do mercado financeiro aponta queda na projeção da inflação para 2023
 date: 2023-07-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

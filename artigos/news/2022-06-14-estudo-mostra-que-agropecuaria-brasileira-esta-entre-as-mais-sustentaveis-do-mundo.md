@@ -3,7 +3,7 @@ title: Estudo mostra que agropecuária brasileira está entre as mais sustentáv
   mundo
 date: 2022-06-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

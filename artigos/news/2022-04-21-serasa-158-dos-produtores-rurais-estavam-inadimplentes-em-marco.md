@@ -2,7 +2,7 @@
 title: 'Serasa: 15,8% dos produtores rurais estavam inadimplentes em março'
 date: 2022-04-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

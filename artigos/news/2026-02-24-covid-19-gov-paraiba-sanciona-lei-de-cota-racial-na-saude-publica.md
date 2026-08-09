@@ -2,7 +2,7 @@
 title: 'Covid-19: Gov Paraíba sanciona lei de cota racial na saúde pública'
 date: 2026-02-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

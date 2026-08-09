@@ -3,7 +3,7 @@ title: Desaceleração econômica e queda na taxa de natalidade desaceleram expa
   chinesa
 date: 2023-01-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

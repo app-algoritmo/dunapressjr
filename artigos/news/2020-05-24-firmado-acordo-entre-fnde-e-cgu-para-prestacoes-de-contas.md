@@ -2,7 +2,7 @@
 title: Firmado acordo entre FNDE e CGU para prestações de contas
 date: 2020-05-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

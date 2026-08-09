@@ -3,7 +3,7 @@ title: "O aluno que aprende mais rápido com IA ainda precisa de um professor �
 subtitle: "Enquanto ferramentas de inteligência artificial reduzem em até 40% o tempo de assimilação de conteúdo em escolas-piloto brasileiras, cresce o debate sobre o que, afinal, a tecnologia não consegue ensinar."
 date: 2026-08-07
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - education
 description: "Programas com tutoria adaptativa por IA mostram ganhos expressivos de aprendizagem em escolas brasileiras, mas pesquisadores alertam que a tecnologia amplia a desigualdade quando aplicada sem estrutura docente adequada. O debate chegou ao MEC e define a agenda educacional para os próximos quatro anos."

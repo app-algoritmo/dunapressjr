@@ -2,7 +2,7 @@
 title: Consumo de bens industriais cai 2,3% em janeiro, diz Ipea
 date: 2022-03-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

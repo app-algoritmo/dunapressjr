@@ -2,7 +2,7 @@
 title: Governo do Piauí apresenta PPP da Nova Ceasa na ONU
 date: 2021-04-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

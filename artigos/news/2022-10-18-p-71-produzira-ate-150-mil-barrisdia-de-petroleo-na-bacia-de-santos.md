@@ -2,7 +2,7 @@
 title: P-71 produzirá até 150 mil barris/dia de petróleo na Bacia de Santos
 date: 2022-10-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

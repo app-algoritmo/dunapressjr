@@ -3,7 +3,7 @@ title: 'Espanha: Exigências da esquerda radical Podemos são inadmissíveis, di
   Pedro Sánchez PM eleito'
 date: 2019-07-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

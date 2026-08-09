@@ -2,7 +2,7 @@
 title: Taxa de Desocupação no Brasil atinge menor nível em oito anos
 date: 2023-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Capacidade de pagamento de famílias e microempresas piorou, diz BC
 date: 2022-11-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

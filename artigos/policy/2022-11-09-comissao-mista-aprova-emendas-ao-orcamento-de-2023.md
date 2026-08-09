@@ -2,7 +2,7 @@
 title: Comissão Mista aprova emendas ao Orçamento de 2023
 date: 2022-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

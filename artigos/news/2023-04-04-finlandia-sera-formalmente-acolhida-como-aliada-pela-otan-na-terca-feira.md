@@ -2,7 +2,7 @@
 title: Finlândia será formalmente acolhida como aliada pela OTAN na terça-feira
 date: 2023-04-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

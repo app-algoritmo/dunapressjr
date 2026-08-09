@@ -3,7 +3,7 @@ title: Pescador artesanal poderá buscar financiamento com protocolo de requerim
   do registro
 date: 2020-06-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

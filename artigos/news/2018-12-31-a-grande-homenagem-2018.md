@@ -2,7 +2,7 @@
 title: A grande homenagem 2018
 date: 2018-12-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

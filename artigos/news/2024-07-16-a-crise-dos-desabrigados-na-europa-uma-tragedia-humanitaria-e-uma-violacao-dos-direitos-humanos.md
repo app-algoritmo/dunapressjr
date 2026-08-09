@@ -3,7 +3,7 @@ title: 'A Crise dos Desabrigados na Europa: Uma Tragédia Humanitária e uma Vio
   dos Direitos Humanos'
 date: 2024-07-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

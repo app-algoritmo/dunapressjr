@@ -2,7 +2,7 @@
 title: Está em apuros? Chama o Batman!
 date: 2019-10-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

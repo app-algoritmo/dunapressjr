@@ -2,7 +2,7 @@
 title: 'CAGED: Brasil gera 135 mil novos postos de trabalho em novembro'
 date: 2022-12-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

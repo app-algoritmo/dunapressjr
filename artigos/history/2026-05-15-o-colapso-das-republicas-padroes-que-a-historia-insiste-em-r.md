@@ -3,12 +3,12 @@ title: "O Colapso das Repúblicas: Padrões que a História Insiste em Repetir"
 subtitle: "Da Roma Antiga às democracias contemporâneas, os mecanismos que destroem sistemas republicanos seguem uma lógica perturbadoramente familiar — e compreendê-los pode ser a única defesa real contra sua recorrência"
 date: 2026-05-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - history
 description: "Uma análise histórica dos padrões estruturais que levaram ao colapso de grandes repúblicas ao longo dos séculos, desde Roma até os regimes democráticos do século XX, identificando as variáveis comuns que tornam sistemas políticos vulneráveis à erosão interna."
 featuredImage: "https://images.unsplash.com/photo-1771098302913-d85d6e2a1ff5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTA1ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg4NDQzMTd8&ixlib=rb-4.1.0&q=80&w=1080"
-photoAuthor: "Bernd 📷 Dittrich"
+photoAuthor: "Bernd Dittrich"
 photoAuthorUrl: "https://unsplash.com/@hdbernd"
 photoSource: "Unsplash"
 tags:

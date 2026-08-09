@@ -2,7 +2,7 @@
 title: BNDES seleciona fundos de crédito não bancário para pequenas empresas
 date: 2020-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

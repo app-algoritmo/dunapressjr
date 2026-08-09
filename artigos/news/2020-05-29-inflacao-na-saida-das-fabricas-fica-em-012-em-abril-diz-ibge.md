@@ -2,7 +2,7 @@
 title: Inflação na saída das fábricas fica em 0,12% em abril, diz IBGE
 date: 2020-05-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

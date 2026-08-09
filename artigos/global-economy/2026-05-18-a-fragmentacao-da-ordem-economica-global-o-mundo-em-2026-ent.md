@@ -3,7 +3,7 @@ title: "A Fragmentação da Ordem Econômica Global: O Mundo em 2026 Entre Bloco
 subtitle: "A economia mundial atravessa uma reconfiguração estrutural sem precedentes desde Bretton Woods, com potências emergentes desafiando a hegemonia do dólar e cadeias de suprimentos sendo redesenhadas sob pressão geopolítica"
 date: 2026-05-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-economy
 description: "Em maio de 2026, a economia global opera sob uma lógica de fragmentação acelerada. A rivalidade entre Estados Unidos e China aprofundou-se em dimensões tecnológica, comercial e financeira. O BRICS ampliado articula alternativas ao sistema dólar-centrico. A Europa tenta preservar autonomia estratégica enquanto enfrenta estagnação produtiva. Este artigo analisa os vetores centrais que definem a nova arquitetura econômica mundial e seus impactos para países em desenvolvimento."

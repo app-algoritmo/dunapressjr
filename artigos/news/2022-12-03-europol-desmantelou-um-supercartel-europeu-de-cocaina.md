@@ -2,7 +2,7 @@
 title: Europol desmantelou um supercartel europeu de cocaína
 date: 2022-12-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,16 após ata do Banco Central americano
 date: 2022-08-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

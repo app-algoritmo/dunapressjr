@@ -3,7 +3,7 @@ title: Estudo mostra que uma combinação de jejum e vitamina C é eficaz para c
   de difícil tratamento
 date: 2020-05-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

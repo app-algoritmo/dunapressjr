@@ -3,7 +3,7 @@ title: "O Pentágono catalogou 757 casos de FANIs em 2025 — e agora exige prot
 subtitle: "Depois de décadas de negação institucional, o debate sobre Fenômenos Aéreos Não Identificados chegou às revistas científicas revisadas por pares e aos orçamentos de defesa — e o Brasil ainda não tem política pública sobre o tema."
 date: 2026-06-29
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - ufologia
 description: "O escritório AARO do Pentágono divulgou em 2025 o maior relatório público sobre Fenômenos Aéreos Não Identificados da história americana, com 757 casos documentados e metodologia científica formal. O dado muda o eixo do debate: não se trata mais de acreditar ou não — trata-se de governança, segurança e epistemologia."

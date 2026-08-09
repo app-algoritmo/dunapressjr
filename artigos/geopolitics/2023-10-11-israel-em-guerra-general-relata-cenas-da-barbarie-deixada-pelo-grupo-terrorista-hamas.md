@@ -3,7 +3,7 @@ title: 'Israel em guerra: General relata cenas da barbarie deixada pelo grupo te
   Hamas'
 date: 2023-10-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: Mercado prevê que taxa básica de juros feche o ano em 8,75%
 date: 2021-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

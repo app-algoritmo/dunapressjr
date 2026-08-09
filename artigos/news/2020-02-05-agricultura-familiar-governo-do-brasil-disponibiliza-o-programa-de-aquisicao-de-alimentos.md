@@ -3,7 +3,7 @@ title: 'Agricultura familiar: Governo do Brasil disponibiliza o programa de aqui
   de alimentos'
 date: 2020-02-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

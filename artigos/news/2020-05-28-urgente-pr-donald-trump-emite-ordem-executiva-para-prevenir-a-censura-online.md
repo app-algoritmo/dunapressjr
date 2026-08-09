@@ -2,7 +2,7 @@
 title: 'Urgente: PR Donald Trump emite Ordem Executiva para Prevenir a Censura Online'
 date: 2020-05-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

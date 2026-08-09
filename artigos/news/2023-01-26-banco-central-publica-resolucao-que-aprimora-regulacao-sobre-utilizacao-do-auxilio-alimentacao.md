@@ -3,7 +3,7 @@ title: Banco Central publica resolução que aprimora regulação sobre utiliza�
   auxílio alimentação
 date: 2023-01-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

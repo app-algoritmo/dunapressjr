@@ -2,7 +2,7 @@
 title: BC e Febraban lançam plataforma de planejamento financeiro
 date: 2021-11-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

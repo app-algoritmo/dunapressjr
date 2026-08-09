@@ -2,7 +2,7 @@
 title: MP limita a 10,06% o reajuste das taxas de ocupação dos terrenos da União
 date: 2022-07-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

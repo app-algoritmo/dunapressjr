@@ -2,7 +2,7 @@
 title: País registra criação de 394,9 mil vagas de emprego em outubro
 date: 2020-11-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

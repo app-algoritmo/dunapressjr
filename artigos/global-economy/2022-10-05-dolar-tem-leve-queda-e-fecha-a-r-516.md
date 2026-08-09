@@ -2,7 +2,7 @@
 title: Dólar tem leve queda e fecha a R$ 5,16
 date: 2022-10-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Pix terá medidas de segurança para coibir sequestros e roubos
 date: 2021-08-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'CNC: após período de quedas, confiança do comércio volta a subir'
 date: 2021-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

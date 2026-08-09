@@ -2,7 +2,7 @@
 title: CMN aumenta prazo para análise de pedidos ao Proagro
 date: 2022-09-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

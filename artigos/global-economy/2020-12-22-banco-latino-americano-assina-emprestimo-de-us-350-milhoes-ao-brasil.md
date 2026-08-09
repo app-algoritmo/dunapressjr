@@ -2,7 +2,7 @@
 title: Banco latino-americano assina empréstimo de US$ 350 milhões ao Brasil
 date: 2020-12-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: Conselho do PPI qualifica 21 novos projetos no âmbito do Programa durant
   Reunião
 date: 2021-04-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

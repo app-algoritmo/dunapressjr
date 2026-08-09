@@ -2,7 +2,7 @@
 title: Câmara aprova PL que obriga planos de saúde a ampliar tratamentos
 date: 2022-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

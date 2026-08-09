@@ -2,7 +2,7 @@
 title: Bolsa fecha no maior nível em mais de quatro meses
 date: 2020-07-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

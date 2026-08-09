@@ -2,7 +2,7 @@
 title: Micro e pequenos empresários mantêm otimismo pelo quarto mês seguido
 date: 2022-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

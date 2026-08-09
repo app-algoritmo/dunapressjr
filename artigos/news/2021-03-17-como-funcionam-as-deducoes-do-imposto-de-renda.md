@@ -2,7 +2,7 @@
 title: Como funcionam as deduções do Imposto de Renda
 date: 2021-03-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

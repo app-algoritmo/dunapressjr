@@ -3,7 +3,7 @@ title: 'Cimeira do G20 na Índia: Desafios, Prioridades e Esperanças em Meio a 
   Políticas'
 date: 2023-09-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

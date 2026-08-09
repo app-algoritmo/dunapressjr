@@ -2,7 +2,7 @@
 title: Barômetros Globais registram alta em novembro
 date: 2023-11-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

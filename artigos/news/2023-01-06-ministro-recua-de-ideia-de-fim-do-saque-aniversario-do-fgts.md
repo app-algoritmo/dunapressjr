@@ -2,7 +2,7 @@
 title: Ministro recua de ideia de fim do saque-aniversário do FGTS
 date: 2023-01-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

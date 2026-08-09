@@ -3,7 +3,7 @@ title: "Bitcoin Acima de US$ 100 Mil: O Que Mudou no Mercado Cripto em 2026"
 subtitle: "Após anos de volatilidade extrema, o mercado de criptomoedas encontra novos alicerces institucionais — mas os riscos estruturais permanecem latentes para investidores desavisados"
 date: 2026-05-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - criptomoedas
 description: "O mercado cripto em maio de 2026 apresenta uma maturidade inédita, impulsionada pela adoção institucional em massa, aprovação de ETFs spot em múltiplas jurisdições e marcos regulatórios que finalmente deram contornos legais ao setor. No entanto, analistas alertam que a euforia atual pode estar obscurecendo vulnerabilidades sistêmicas que ainda precisam ser endereçadas."

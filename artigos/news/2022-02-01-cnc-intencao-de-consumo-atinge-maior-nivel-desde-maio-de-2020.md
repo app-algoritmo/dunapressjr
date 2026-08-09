@@ -2,7 +2,7 @@
 title: 'CNC: intenção de consumo atinge maior nível desde maio de 2020'
 date: 2022-02-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

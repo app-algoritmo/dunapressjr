@@ -2,7 +2,7 @@
 title: BC terá site exclusivo para consulta ao sistema de valores a receber
 date: 2022-02-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

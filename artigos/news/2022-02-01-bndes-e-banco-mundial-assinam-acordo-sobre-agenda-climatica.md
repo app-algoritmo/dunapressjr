@@ -2,7 +2,7 @@
 title: BNDES e Banco Mundial assinam acordo sobre agenda climática
 date: 2022-02-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

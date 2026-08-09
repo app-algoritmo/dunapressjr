@@ -2,7 +2,7 @@
 title: Portaria revoga normas referentes à mercadorias apreendidas pela Receita Federal
 date: 2020-11-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

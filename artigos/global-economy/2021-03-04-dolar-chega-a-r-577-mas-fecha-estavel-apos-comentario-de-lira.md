@@ -2,7 +2,7 @@
 title: Dólar chega a R$ 5,77, mas fecha estável após comentário de Lira
 date: 2021-03-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

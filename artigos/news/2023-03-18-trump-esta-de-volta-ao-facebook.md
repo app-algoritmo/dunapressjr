@@ -2,7 +2,7 @@
 title: Trump está de volta ao Facebook
 date: 2023-03-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

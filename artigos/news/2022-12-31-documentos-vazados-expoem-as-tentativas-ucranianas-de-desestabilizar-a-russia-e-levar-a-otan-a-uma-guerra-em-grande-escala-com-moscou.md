@@ -3,7 +3,7 @@ title: Documentos vazados expõem as tentativas ucranianas de desestabilizar a R
   e levar a OTAN a uma guerra em grande escala com Moscou
 date: 2022-12-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

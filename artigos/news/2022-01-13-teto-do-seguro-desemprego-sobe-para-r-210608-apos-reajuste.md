@@ -2,7 +2,7 @@
 title: Teto do seguro-desemprego sobe para R$ 2.106,08 após reajuste
 date: 2022-01-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

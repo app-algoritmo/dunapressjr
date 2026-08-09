@@ -2,7 +2,7 @@
 title: O dia em que a democracia foi assassinada
 date: 2023-04-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - History

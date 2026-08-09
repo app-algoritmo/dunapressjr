@@ -2,7 +2,7 @@
 title: 'Desdobramentos da Operação Tempus Veritatis: O Dia que Abalou a Política Brasileira'
 date: 2024-02-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 - Social networks

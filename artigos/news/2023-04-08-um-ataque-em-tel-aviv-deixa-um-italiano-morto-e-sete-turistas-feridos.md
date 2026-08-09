@@ -2,7 +2,7 @@
 title: Um ataque em Tel Aviv deixa um italiano morto e sete turistas feridos
 date: 2023-04-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

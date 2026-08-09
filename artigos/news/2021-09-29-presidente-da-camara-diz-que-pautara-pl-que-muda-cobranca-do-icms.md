@@ -2,7 +2,7 @@
 title: Presidente da Câmara diz que pautará PL que muda cobrança do ICMS
 date: 2021-09-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

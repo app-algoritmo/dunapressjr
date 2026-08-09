@@ -2,7 +2,7 @@
 title: 'IBGE: desemprego cai para 13,7% no trimestre encerrado em julho'
 date: 2021-09-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

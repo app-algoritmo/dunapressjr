@@ -2,7 +2,7 @@
 title: 'O Eclipse Total do Sol de 8 de Abril de 2024: Um Espetáculo Celestial Raro'
 date: 2024-04-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Science
 ---

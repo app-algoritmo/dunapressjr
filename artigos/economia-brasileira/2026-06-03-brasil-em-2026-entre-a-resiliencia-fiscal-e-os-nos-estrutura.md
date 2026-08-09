@@ -3,7 +3,7 @@ title: "Brasil em 2026: Entre a Resiliência Fiscal e os Nós Estruturais que Tr
 subtitle: "Com inflação sob pressão, juros ainda elevados e um mercado de trabalho surpreendentemente aquecido, a economia brasileira navega em águas turbulentas — mas não sem direção"
 date: 2026-06-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - economia-brasileira
 description: "A economia brasileira em meados de 2026 apresenta um quadro ambíguo: indicadores de emprego e consumo surpreendem positivamente, mas a combinação de juros estruturalmente altos, desequilíbrio fiscal persistente e baixa produtividade mantém o país distante de seu potencial de crescimento. A Duna Press analisa os principais vetores que moldam o cenário econômico nacional."

@@ -2,7 +2,7 @@
 title: Brasileiro sofre perseguição por denunciar rede criminosa em Portugal
 date: 2022-12-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Tourism and Gastronomy

@@ -2,7 +2,7 @@
 title: Infraestrutura dos Emirados Árabes pode atrair empresas brasileiras
 date: 2022-02-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

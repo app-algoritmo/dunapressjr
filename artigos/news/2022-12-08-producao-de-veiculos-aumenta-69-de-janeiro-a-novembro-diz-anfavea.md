@@ -2,7 +2,7 @@
 title: Produção de veículos aumenta 6,9% de janeiro a novembro, diz Anfavea
 date: 2022-12-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

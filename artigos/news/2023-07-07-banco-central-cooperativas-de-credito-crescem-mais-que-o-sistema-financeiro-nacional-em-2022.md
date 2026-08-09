@@ -3,7 +3,7 @@ title: 'Banco Central: Cooperativas de crédito crescem mais que o Sistema Finan
   Nacional em 2022'
 date: 2023-07-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

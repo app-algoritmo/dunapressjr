@@ -3,7 +3,7 @@ title: Produtores de algodão, milho e soja têm maiores valores do Produto Inte
   Bruto por habitante
 date: 2020-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

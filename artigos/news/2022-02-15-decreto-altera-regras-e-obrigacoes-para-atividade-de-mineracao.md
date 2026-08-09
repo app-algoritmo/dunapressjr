@@ -2,7 +2,7 @@
 title: Decreto altera regras e obrigações para atividade de mineração
 date: 2022-02-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

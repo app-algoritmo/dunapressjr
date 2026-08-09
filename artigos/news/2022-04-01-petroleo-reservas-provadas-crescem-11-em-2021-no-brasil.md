@@ -2,7 +2,7 @@
 title: 'Petróleo: reservas provadas crescem 11% em 2021 no Brasil'
 date: 2022-04-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

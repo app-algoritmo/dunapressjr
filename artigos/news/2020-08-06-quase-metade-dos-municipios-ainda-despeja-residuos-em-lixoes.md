@@ -2,7 +2,7 @@
 title: Quase metade dos municípios ainda despeja resíduos em lixões
 date: 2020-08-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

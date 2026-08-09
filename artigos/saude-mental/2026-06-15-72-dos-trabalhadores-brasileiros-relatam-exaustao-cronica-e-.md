@@ -3,7 +3,7 @@ title: "72% dos trabalhadores brasileiros relatam exaustão crônica — e a psi
 subtitle: "Novas diretrizes clínicas e dados inéditos do mercado de trabalho nacional forçam uma revisão do conceito de burnout: o que era visto como fraqueza individual começa a ser tratado como falha sistêmica mensurável."
 date: 2026-06-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - saude-mental
 description: "Uma pesquisa divulgada em junho de 2026 pela Associação Brasileira de Psiquiatria aponta que 72% dos trabalhadores formais relatam sintomas persistentes de exaustão emocional — número que pressiona empresas, clínicos e legisladores a abandonar explicações individuais para o problema. O debate agora é sobre quem, de fato, tem a responsabilidade de tratar o que o ambiente de trabalho produz."

@@ -2,7 +2,7 @@
 title: Dream Team Norway na UEFA EURO
 date: 2019-03-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Sports
 ---

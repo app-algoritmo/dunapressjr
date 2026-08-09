@@ -2,7 +2,7 @@
 title: Vários países não querem o Rei Charles como chefe de Estado
 date: 2023-05-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: 'Proton Mail: O Serviço de E-mail Focado em Segurança e Privacidade'
 date: 2024-07-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

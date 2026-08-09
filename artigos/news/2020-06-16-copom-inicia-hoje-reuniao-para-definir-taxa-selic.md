@@ -2,7 +2,7 @@
 title: Copom inicia hoje reunião para definir taxa Selic
 date: 2020-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

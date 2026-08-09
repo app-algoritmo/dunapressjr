@@ -2,7 +2,7 @@
 title: Setor de serviços no Brasil registra terceira queda consecutiva em outubro
 date: 2023-12-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

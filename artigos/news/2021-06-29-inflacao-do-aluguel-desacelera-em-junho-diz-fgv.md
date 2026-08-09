@@ -2,7 +2,7 @@
 title: Inflação do aluguel desacelera em junho, diz FGV
 date: 2021-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Duna enquete presidenciáveis 2018, participe
 date: 2018-06-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

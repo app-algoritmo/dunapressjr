@@ -2,7 +2,7 @@
 title: 'Meta anuncia nova onda de demissões: afetará mais 10 mil funcionários'
 date: 2023-03-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

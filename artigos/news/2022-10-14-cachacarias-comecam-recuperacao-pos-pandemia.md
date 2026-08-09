@@ -2,7 +2,7 @@
 title: Cachaçarias começam recuperação pós-pandemia
 date: 2022-10-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

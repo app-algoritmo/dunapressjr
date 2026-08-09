@@ -2,7 +2,7 @@
 title: Exportação de café deve bater novo recorde em 2020, projeta setor
 date: 2020-01-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

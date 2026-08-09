@@ -1,5 +1,5 @@
 ---
-title: Governo divulga dados atualizados  sobre população carcerária no Brasil
+title: Governo divulga dados atualizados sobre população carcerária no Brasil
 date: 2020-03-12
 status: publish
 author: Joice Ferreira

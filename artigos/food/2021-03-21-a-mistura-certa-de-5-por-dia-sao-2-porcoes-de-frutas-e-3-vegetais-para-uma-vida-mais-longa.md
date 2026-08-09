@@ -3,7 +3,7 @@ title: A mistura certa de '5 por dia' são 2 porções de frutas e 3 vegetais pa
   vida mais longa
 date: 2021-03-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Food
 ---

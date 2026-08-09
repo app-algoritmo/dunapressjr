@@ -2,7 +2,7 @@
 title: Aneel mantém bandeira tarifária verde para outubro
 date: 2022-10-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

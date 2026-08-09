@@ -2,7 +2,7 @@
 title: PIB recua 9,7% no segundo trimestre
 date: 2020-09-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

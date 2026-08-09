@@ -2,7 +2,7 @@
 title: Bolsa tem maior queda do ano puxada por petróleo e inflação
 date: 2022-03-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

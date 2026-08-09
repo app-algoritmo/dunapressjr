@@ -2,7 +2,7 @@
 title: Produção de motocicletas passa de 139 mil em setembro
 date: 2022-10-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

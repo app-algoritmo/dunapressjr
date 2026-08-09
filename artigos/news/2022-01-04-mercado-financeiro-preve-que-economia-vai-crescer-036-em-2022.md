@@ -2,7 +2,7 @@
 title: Mercado financeiro prevê que economia vai crescer 0,36% em 2022
 date: 2022-01-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

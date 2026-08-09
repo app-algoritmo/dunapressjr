@@ -2,7 +2,7 @@
 title: 600 alunos do ensino médio criam escultura de gelo com 50 metros de comprimento
 date: 2020-02-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 ---

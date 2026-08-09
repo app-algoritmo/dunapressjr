@@ -2,7 +2,7 @@
 title: 'FGV: IGP-M varia 0,05% em março de 2023'
 date: 2023-03-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

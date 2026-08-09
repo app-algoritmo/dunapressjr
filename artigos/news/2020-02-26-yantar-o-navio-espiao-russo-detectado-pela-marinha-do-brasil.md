@@ -2,7 +2,7 @@
 title: Yantar, o navio espião Russo detectado pela Marinha do Brasil
 date: 2020-02-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

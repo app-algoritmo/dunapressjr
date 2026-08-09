@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,67 com intervenções do Banco Central
 date: 2021-12-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

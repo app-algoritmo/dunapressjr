@@ -2,7 +2,7 @@
 title: Produção de aço bruto do Brasil cresce 24% no primeiro semestre
 date: 2021-07-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Sistema Enade disponibiliza classificação final dos cursos superiores de 2019
 date: 2020-07-20
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

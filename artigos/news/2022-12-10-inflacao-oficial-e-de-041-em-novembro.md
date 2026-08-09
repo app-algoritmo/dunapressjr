@@ -2,7 +2,7 @@
 title: Inflação oficial é de 0,41% em novembro
 date: 2022-12-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

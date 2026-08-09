@@ -2,7 +2,7 @@
 title: 'Empréstimo do Auxílio Brasil: 60 empresas financeiras se apresentaram'
 date: 2022-09-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

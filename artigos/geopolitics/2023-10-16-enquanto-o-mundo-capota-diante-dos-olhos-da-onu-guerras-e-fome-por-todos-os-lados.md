@@ -3,7 +3,7 @@ title: 'Enquanto o Mundo Capota Diante dos Olhos da ONU: Guerras e Fome por Todo
   os Lados'
 date: 2023-10-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

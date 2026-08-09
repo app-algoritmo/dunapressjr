@@ -2,7 +2,7 @@
 title: Setor de serviços na cidade de SP cresce 11,1% no primeiro semestre
 date: 2022-10-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Noruega entra em campo daqui a pouco pela UEFA Euro com esse time
 date: 2019-03-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Sports

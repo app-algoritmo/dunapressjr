@@ -2,7 +2,7 @@
 title: Estudante paranaense participa da Olimpíada Brasileira de Química
 date: 2021-02-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

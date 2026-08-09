@@ -2,7 +2,7 @@
 title: Aprovado crédito suplementar para o Plano Safra 2020/2021
 date: 2020-05-26
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

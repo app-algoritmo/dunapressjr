@@ -3,7 +3,7 @@ title: A Importância do Homeschooling em casos de pandêmias, crises, catástro
   situações de força maior
 date: 2020-03-18
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Education
 ---

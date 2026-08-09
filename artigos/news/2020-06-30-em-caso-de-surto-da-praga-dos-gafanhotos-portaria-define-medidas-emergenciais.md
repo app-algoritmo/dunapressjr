@@ -2,7 +2,7 @@
 title: Em caso de surto da praga dos gafanhotos, portaria define medidas emergenciais
 date: 2020-06-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

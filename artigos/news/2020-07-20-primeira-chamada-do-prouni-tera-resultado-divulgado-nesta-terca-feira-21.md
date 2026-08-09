@@ -2,7 +2,7 @@
 title: Primeira chamada do Prouni terá resultado divulgado nesta terça-feira (21)
 date: 2020-07-20
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

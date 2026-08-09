@@ -2,7 +2,7 @@
 title: Jogos VR usados ​​como ferramenta na avaliação pessoal
 date: 2023-04-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Courses and Careers
 - Personal Development

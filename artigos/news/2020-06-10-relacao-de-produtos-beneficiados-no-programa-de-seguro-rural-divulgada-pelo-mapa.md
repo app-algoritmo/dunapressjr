@@ -3,7 +3,7 @@ title: Relação de produtos beneficiados no Programa de Seguro Rural divulgada 
   Mapa
 date: 2020-06-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

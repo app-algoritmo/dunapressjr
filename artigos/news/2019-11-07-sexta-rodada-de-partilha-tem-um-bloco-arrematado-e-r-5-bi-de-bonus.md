@@ -2,7 +2,7 @@
 title: Sexta Rodada de Partilha tem um bloco arrematado e R$ 5 bi de bônus
 date: 2019-11-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

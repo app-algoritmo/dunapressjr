@@ -2,7 +2,7 @@
 title: Confaz publica nova tabela para preço médio ponderado de combustíveis
 date: 2023-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

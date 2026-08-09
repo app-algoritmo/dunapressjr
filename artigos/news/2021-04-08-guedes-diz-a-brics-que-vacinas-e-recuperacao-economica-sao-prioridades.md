@@ -2,7 +2,7 @@
 title: Guedes diz a Brics que vacinas e recuperação econômica são prioridades
 date: 2021-04-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

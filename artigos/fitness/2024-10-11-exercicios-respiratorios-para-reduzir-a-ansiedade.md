@@ -2,7 +2,7 @@
 title: Exercícios Respiratórios para Reduzir a Ansiedade
 date: 2024-10-11
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Fitness
 - Lifestyle

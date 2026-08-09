@@ -3,7 +3,7 @@ title: CNI projeta crescimento de 2,1% na economia brasileira em 2023, com desaf
   para a indústria
 date: 2023-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Preocupações com compartilhamento de dados financeiros diminuem no Bras
   avanço do Open Finance
 date: 2023-08-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

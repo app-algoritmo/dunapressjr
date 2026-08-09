@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,50 após intervenção do Banco Central
 date: 2021-10-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

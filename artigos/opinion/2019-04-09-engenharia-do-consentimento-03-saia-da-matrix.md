@@ -2,7 +2,7 @@
 title: Engenharia do Consentimento - 03 - Saia da matrix
 date: 2019-04-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

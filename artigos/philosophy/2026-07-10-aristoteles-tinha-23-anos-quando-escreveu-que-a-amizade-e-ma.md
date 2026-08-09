@@ -3,7 +3,7 @@ title: "Aristóteles tinha 23 anos quando escreveu que a amizade é mais necess�
 subtitle: "Enquanto algoritmos de recomendação aprofundam a solidão estrutural e pesquisas indicam queda de 40% nas amizades próximas desde 2003, a filosofia clássica oferece um diagnóstico surpreendentemente preciso para o mal-estar democrático do presente."
 date: 2026-07-10
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - philosophy
 description: "A queda documentada das amizades profundas nas últimas duas décadas não é apenas um dado sociológico — é uma crise política que Aristóteles descreveu há 2.300 anos na Ética a Nicômaco. Entender por que ele colocou a philia acima da justiça pode ser o ângulo filosófico mais útil para decifrar a fragmentação cívica de 2026."

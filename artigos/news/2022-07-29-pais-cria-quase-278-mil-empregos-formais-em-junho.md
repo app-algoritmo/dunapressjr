@@ -2,7 +2,7 @@
 title: País cria quase 278 mil empregos formais em junho
 date: 2022-07-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

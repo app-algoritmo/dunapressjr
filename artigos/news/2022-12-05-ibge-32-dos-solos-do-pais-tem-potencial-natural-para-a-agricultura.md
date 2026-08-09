@@ -2,7 +2,7 @@
 title: 'IBGE: 32% dos solos do país têm potencial natural para a agricultura'
 date: 2022-12-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

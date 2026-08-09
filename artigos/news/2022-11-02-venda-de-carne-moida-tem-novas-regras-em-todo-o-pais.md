@@ -2,7 +2,7 @@
 title: Venda de carne moída tem novas regras em todo o país
 date: 2022-11-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

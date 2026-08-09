@@ -2,7 +2,7 @@
 title: Shopping Center JK em São Paulo proíbe o uso da bandeira do Brasil
 date: 2022-11-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Superávit da balança comercial bate recorde em 2021
 date: 2022-01-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

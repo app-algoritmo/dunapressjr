@@ -2,7 +2,7 @@
 title: Conab reafirma que não há indícios de desabastecimento no país
 date: 2020-04-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Limite de juros para cheque especial começa a valer no dia 6
 date: 2019-12-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

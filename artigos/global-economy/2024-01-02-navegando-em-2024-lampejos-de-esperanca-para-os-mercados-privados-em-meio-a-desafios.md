@@ -3,7 +3,7 @@ title: 'Navegando em 2024: Lampejos de Esperança para os Mercados Privados em M
   a Desafios'
 date: 2024-01-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

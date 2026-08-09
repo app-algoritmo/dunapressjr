@@ -2,7 +2,7 @@
 title: 'Urgente: povos indígenas se unem às manifestações do QG Brasília'
 date: 2022-11-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

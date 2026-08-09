@@ -2,7 +2,7 @@
 title: Mercado financeiro espera queda da Selic para 2,25% ao ano
 date: 2020-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

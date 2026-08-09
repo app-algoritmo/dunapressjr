@@ -3,7 +3,7 @@ title: "47 incidentes em 18 meses: o que os novos relatórios do Pentágono real
 subtitle: "A divulgação sistemática de dados sobre Fenômenos Aéreos Não Identificados pelos governos dos EUA e do Brasil abre uma janela rara para entender o que a ciência aceita, o que ignora e onde está o debate legítimo."
 date: 2026-06-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - ufologia
 description: "O escritório americano AARO registrou 47 novos incidentes aéreos não identificados entre janeiro de 2024 e junho de 2025, e pela primeira vez o Brasil publicou dados próprios de detecção radar — sinais de que o tema saiu das margens e entrou na agenda de segurança e ciência. O debate agora não é sobre extraterrestres: é sobre o que os Estados admitem não saber e por que isso importa para aviação, defesa e epistemologia."

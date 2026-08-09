@@ -3,7 +3,7 @@ title: Ibovespa acumula quarta semana consecutiva de ganhos impulsionado por per
   econômicas
 date: 2023-05-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: Audiência Pública no Brasil discutirá revogação do Acordo Ortográfi
   (AO/90)
 date: 2019-09-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

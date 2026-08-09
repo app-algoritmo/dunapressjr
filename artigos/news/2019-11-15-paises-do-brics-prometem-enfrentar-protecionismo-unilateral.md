@@ -2,7 +2,7 @@
 title: Países do Brics prometem enfrentar protecionismo unilateral
 date: 2019-11-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

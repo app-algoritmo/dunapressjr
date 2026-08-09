@@ -1,5 +1,5 @@
 ---
-title: Três motivos para as  mulheres cristãs terem interesse por política
+title: Três motivos para as mulheres cristãs terem interesse por política
 date: 2019-02-04
 status: publish
 author: Joice Ferreira

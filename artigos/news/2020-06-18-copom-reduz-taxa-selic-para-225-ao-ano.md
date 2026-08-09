@@ -2,7 +2,7 @@
 title: Copom reduz taxa Selic para 2,25% ao ano
 date: 2020-06-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

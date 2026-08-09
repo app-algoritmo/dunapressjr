@@ -3,7 +3,7 @@ title: Receita Federal inicia na quarta-feira consulta ao primeiro lote de resti
   do IRPF 2023
 date: 2023-05-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Cuidados contra Táticas de Manipulação de Massas
 date: 2023-11-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 - Policy

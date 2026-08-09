@@ -2,7 +2,7 @@
 title: Associação norueguesa alerta para a caça descontrolada de lobos
 date: 2021-12-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

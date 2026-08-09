@@ -3,7 +3,7 @@ title: "Dormir menos de 7 horas por noite aumenta em 34% o risco de demência �
 subtitle: "Enquanto a ciência consolida o sono como pilar central da longevidade saudável, políticas públicas brasileiras e cultura corporativa seguem ignorando uma das intervenções mais baratas e eficazes da medicina moderna."
 date: 2026-07-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - health
 description: "Estudos publicados em 2025 e 2026 nas revistas Nature Aging e The Lancet consolidam o sono como fator determinante na prevenção de Alzheimer, doenças cardiovasculares e obesidade. No Brasil, onde 65% dos adultos dormem menos do que o recomendado, o tema ainda é tratado como comportamento individual — não como questão de saúde pública."

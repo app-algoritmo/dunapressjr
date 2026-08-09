@@ -3,7 +3,7 @@ title: Mercado financeiro eleva previsão de crescimento econômico do Brasil, m
   alerta para inflação
 date: 2023-06-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

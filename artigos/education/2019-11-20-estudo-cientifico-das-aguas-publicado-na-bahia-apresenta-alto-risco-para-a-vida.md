@@ -3,7 +3,7 @@ title: Estudo científico das águas publicado na Bahia apresenta alto risco par
   vida
 date: 2019-11-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - News

@@ -2,7 +2,7 @@
 title: 'IBGE: vendas no comércio têm redução de 1,3% em setembro'
 date: 2021-11-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

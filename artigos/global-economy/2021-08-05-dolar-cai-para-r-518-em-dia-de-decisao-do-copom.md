@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,18 em dia de decisão do Copom
 date: 2021-08-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

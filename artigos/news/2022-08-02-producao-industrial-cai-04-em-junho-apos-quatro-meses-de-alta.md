@@ -2,7 +2,7 @@
 title: Produção industrial cai 0,4% em junho após quatro meses de alta
 date: 2022-08-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

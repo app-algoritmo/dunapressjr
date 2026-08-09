@@ -2,7 +2,7 @@
 title: The Great Reset - 'O Grande Reinício'
 date: 2020-06-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

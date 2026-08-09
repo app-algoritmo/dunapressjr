@@ -2,7 +2,7 @@
 title: CNI eleva para 3,1% projeção de crescimento do PIB em 2022
 date: 2022-10-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

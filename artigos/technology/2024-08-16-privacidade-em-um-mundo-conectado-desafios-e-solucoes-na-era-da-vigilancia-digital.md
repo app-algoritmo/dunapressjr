@@ -3,7 +3,7 @@ title: 'Privacidade em um Mundo Conectado: Desafios e Soluções na Era da Vigil
   Digital'
 date: 2024-08-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

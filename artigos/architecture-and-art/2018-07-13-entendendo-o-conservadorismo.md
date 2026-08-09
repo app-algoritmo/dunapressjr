@@ -2,7 +2,7 @@
 title: Entendendo o Conservadorismo
 date: 2018-07-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 ---

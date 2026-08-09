@@ -3,7 +3,7 @@ title: "O eleitor que mudou de lado três vezes em dois anos está definindo 202
 subtitle: "Pesquisas de rastreamento eleitoral mostram que um grupo de cerca de 14 milhões de brasileiros oscilou entre campos opostos desde 2024 — e é exatamente esse segmento que os principais candidatos à Presidência ainda não sabem como falar."
 date: 2026-07-23
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - politics-and-society
 description: "Um grupo de 14 milhões de eleitores brasileiros trocou de preferência política pelo menos três vezes desde 2024, segundo dados de rastreamento eleitoral longitudinal. Entender quem são e o que querem pode decidir a eleição presidencial de outubro de 2026."

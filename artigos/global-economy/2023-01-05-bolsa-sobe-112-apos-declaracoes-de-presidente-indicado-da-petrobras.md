@@ -2,7 +2,7 @@
 title: Bolsa sobe 1,12% após declarações de presidente indicado da Petrobras
 date: 2023-01-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

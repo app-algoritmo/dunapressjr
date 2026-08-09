@@ -2,7 +2,7 @@
 title: CCT teve alta produtividade no primeiro semestre, avalia Vanderlan Cardoso
 date: 2019-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

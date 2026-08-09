@@ -2,7 +2,7 @@
 title: <strong>Saiba como usar a autenticação para proteger suas compras na internet</strong>
 date: 2022-11-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

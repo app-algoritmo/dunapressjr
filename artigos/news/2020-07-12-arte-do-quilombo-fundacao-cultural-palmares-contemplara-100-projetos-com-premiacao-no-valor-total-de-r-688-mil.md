@@ -1,5 +1,5 @@
 ---
-title: 'Arte do Quilombo: Fundação Cultural Palmares contemplará 100 projetos,  com
+title: 'Arte do Quilombo: Fundação Cultural Palmares contemplará 100 projetos, com
   premiação no valor total de R$ 688 mil'
 date: 2020-07-12
 status: publish

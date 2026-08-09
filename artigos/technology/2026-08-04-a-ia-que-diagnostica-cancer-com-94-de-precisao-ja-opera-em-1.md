@@ -3,7 +3,7 @@ title: "A IA que diagnostica câncer com 94% de precisão já opera em 12 hospit
 subtitle: "Ferramentas de inteligência artificial para diagnóstico oncológico estão em uso clínico real no Brasil antes de qualquer marco regulatório consolidado, criando um paradoxo que desafia médicos, gestores e o próprio sistema de saúde."
 date: 2026-08-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - technology
 description: "Algoritmos de IA para detecção precoce de câncer já operam em hospitais brasileiros com índices de acerto superiores a radiologistas humanos em estudos controlados, mas a Anvisa ainda não concluiu o marco regulatório específico para dispositivos de IA médica. O debate em torno dessa lacuna legal revela como a velocidade da inovação tecnológica está redesenhando os limites entre avanço clínico e segurança institucional."

@@ -3,7 +3,7 @@ title: 'A Luta Contra o Ódio: Novo Curso Explora Laços Entre Comunidades Negra
   Judeus nas Universidades'
 date: 2024-08-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

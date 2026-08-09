@@ -3,7 +3,7 @@ title: Ministro da Fazenda brasileiro participa do G7 e busca fortalecer a econo
   e relações internacionais
 date: 2023-05-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

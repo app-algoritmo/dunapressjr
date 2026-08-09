@@ -2,7 +2,7 @@
 title: Profissionais ligados ao meio ambiente podem evitar próximas pandemias
 date: 2020-10-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -1,5 +1,5 @@
 ---
-title: Governo Bolsonaro destaca medidas para ampliar  acesso à internet
+title: Governo Bolsonaro destaca medidas para ampliar acesso à internet
 date: 2020-08-24
 status: publish
 author: Joice Ferreira

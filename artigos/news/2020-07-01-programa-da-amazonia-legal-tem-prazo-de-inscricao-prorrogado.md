@@ -2,7 +2,7 @@
 title: Programa da Amazônia Legal tem prazo de inscrição prorrogado
 date: 2020-07-01
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

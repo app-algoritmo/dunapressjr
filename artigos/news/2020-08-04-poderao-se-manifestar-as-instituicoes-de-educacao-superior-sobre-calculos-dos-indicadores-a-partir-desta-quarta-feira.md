@@ -3,7 +3,7 @@ title: Poderão se manifestar as instituições de educação superior sobre cá
   indicadores a partir desta quarta-feira
 date: 2020-08-04
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

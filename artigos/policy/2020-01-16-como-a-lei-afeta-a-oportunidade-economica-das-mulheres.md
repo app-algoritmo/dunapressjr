@@ -2,7 +2,7 @@
 title: Como a lei afeta a oportunidade econômica das mulheres
 date: 2020-01-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

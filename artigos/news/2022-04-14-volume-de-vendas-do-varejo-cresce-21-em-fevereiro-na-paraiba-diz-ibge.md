@@ -2,7 +2,7 @@
 title: Volume de vendas do varejo cresce 2,1% em fevereiro na Paraíba, diz IBGE
 date: 2022-04-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

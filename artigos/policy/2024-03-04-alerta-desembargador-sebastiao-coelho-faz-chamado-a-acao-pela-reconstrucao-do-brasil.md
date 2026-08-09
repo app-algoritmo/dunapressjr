@@ -3,7 +3,7 @@ title: 'Alerta: Desembargador Sebastião Coelho faz Chamado à Ação pela Recon
   do Brasil'
 date: 2024-03-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

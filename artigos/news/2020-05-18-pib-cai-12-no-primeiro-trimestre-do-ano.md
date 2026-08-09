@@ -2,7 +2,7 @@
 title: PIB cai 1,2% no primeiro trimestre do ano
 date: 2020-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

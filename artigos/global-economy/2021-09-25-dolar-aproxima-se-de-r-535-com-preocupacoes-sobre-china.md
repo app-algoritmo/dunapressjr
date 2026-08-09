@@ -2,7 +2,7 @@
 title: Dólar aproxima-se de R$ 5,35 com preocupações sobre China
 date: 2021-09-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

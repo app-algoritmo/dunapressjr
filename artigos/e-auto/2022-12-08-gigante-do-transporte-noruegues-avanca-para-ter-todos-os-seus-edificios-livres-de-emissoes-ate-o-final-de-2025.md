@@ -3,7 +3,7 @@ title: Gigante do transporte norueguês, avança para ter todos os seus edifíci
   de emissões até o final de 2025
 date: 2022-12-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - E-auto
 - Magazine

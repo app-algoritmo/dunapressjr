@@ -2,7 +2,7 @@
 title: Atividade econômica vai desacelerar em 2022, diz Guedes
 date: 2021-12-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

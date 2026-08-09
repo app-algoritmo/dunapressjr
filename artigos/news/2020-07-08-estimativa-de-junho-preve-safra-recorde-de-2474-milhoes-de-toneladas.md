@@ -2,7 +2,7 @@
 title: Estimativa de junho prevê safra recorde de 247,4 milhões de toneladas
 date: 2020-07-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

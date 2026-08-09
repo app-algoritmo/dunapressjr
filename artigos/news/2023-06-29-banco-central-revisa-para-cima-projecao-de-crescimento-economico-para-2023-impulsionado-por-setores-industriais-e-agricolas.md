@@ -3,7 +3,7 @@ title: Banco Central revisa para cima projeção de crescimento econômico para 
   impulsionado por setores industriais e agrícolas
 date: 2023-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

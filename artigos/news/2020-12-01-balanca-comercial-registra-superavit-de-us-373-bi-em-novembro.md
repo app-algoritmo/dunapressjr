@@ -2,7 +2,7 @@
 title: Balança comercial registra superávit de US$ 3,73 bi em novembro
 date: 2020-12-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

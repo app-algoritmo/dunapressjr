@@ -2,7 +2,7 @@
 title: Ipea revela déficit primário de R$ 25,7 bilhões em agosto no governo central
 date: 2023-09-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

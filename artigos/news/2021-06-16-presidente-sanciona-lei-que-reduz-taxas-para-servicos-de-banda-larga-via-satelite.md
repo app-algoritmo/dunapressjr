@@ -2,7 +2,7 @@
 title: Presidente sanciona lei que reduz taxas para serviços de banda larga via satélite
 date: 2021-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

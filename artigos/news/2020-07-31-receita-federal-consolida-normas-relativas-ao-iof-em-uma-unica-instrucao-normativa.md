@@ -2,7 +2,7 @@
 title: Receita Federal consolida normas relativas ao IOF em uma única instrução normativa
 date: 2020-07-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

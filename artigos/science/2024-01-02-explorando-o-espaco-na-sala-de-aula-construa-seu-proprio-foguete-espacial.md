@@ -2,7 +2,7 @@
 title: 'Explorando o Espaço na Sala de Aula: Construa Seu Próprio Foguete Espacial!'
 date: 2024-01-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Science
 - Technology

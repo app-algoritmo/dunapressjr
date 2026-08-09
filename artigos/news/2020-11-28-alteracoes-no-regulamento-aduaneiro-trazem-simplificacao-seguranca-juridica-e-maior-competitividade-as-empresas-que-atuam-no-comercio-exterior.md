@@ -3,7 +3,7 @@ title: Alterações no Regulamento Aduaneiro trazem simplificação, segurança 
   e maior competitividade às empresas que atuam no comércio exterior
 date: 2020-11-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

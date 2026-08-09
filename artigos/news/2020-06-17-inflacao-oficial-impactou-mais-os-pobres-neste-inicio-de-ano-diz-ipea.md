@@ -2,7 +2,7 @@
 title: Inflação oficial impactou mais os pobres neste início de ano, diz Ipea
 date: 2020-06-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Vinde a mim as criancinhas
 date: 2020-01-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

@@ -2,7 +2,7 @@
 title: Vendas de veículos novos crescem 0,22% no país
 date: 2022-07-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

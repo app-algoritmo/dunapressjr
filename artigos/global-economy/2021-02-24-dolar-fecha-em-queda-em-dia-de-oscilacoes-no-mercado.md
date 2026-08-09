@@ -2,7 +2,7 @@
 title: Dólar fecha em queda em dia de oscilações no mercado
 date: 2021-02-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

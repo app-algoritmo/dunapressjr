@@ -2,7 +2,7 @@
 title: Acampamentos completam 57 dias de manifestações nos QGs do Brasil
 date: 2022-12-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

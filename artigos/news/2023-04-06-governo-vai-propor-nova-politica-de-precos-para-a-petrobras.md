@@ -2,7 +2,7 @@
 title: Governo vai propor nova política de preços para a Petrobras
 date: 2023-04-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

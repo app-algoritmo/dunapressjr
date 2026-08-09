@@ -2,7 +2,7 @@
 title: Brasil ultrapassa US$ 300 bi em exportações pelo segundo ano consecutivo
 date: 2023-11-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

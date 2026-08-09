@@ -3,7 +3,7 @@ title: <strong>PIB sistematicamente acima das previsões sugere maior potencial 
   crescimento</strong>
 date: 2022-11-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

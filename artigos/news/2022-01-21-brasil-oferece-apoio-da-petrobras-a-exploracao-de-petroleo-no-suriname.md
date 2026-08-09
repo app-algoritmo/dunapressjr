@@ -2,7 +2,7 @@
 title: Brasil oferece apoio da Petrobras à exploração de petróleo no Suriname
 date: 2022-01-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: O Impacto Geopolítico da Vitória de Donald Trump nas Eleições de 2024
 date: 2024-11-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

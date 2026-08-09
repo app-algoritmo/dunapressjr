@@ -2,7 +2,7 @@
 title: Governo anuncia nova redução de 10% no Imposto de Importação de bens comercializados
 date: 2022-05-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

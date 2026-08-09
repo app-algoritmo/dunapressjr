@@ -2,7 +2,7 @@
 title: O vírus chinês sofre mutação e ameaça um mundo com mais restrições
 date: 2020-12-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

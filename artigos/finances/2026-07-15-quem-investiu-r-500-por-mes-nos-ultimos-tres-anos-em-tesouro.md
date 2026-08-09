@@ -3,7 +3,7 @@ title: "Quem investiu R$ 500 por mês nos últimos três anos em Tesouro IPCA+ a
 subtitle: "Com a Selic em 10,5% ao ano e a inflação projetada em 4,2% para 2026, o investidor de classe média tem hoje uma janela rara para travar rentabilidade real acima de 6% — mas ela pode se fechar antes do fim do ano."
 date: 2026-07-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - finances
 description: "Um estudo da Anbima divulgado em junho de 2026 mostra que investidores pessoas físicas com aportes mensais modestos em títulos indexados à inflação superaram, em rentabilidade líquida, a maioria dos fundos de investimento do país nos últimos 36 meses. Com juros reais ainda elevados, entender por que isso acontece — e por quanto tempo vai durar — é a decisão financeira mais relevante do segundo semestre."

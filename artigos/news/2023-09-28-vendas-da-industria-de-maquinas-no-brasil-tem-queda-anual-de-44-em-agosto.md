@@ -2,7 +2,7 @@
 title: Vendas da indústria de máquinas no Brasil têm queda anual de 4,4% em agosto
 date: 2023-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

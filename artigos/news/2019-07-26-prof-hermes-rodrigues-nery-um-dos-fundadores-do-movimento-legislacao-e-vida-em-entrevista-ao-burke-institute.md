@@ -3,7 +3,7 @@ title: Prof. Hermes Rodrigues Nery, um dos fundadores do Movimento Legislação 
   em entrevista ao Burke Institute
 date: 2019-07-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

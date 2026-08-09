@@ -2,7 +2,7 @@
 title: Governo amplia isenção do Imposto de Renda para trabalhadores formais
 date: 2023-04-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Terceira semana de fevereiro registra superavit de US$ 520 milhões na ba
   comercial
 date: 2020-02-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

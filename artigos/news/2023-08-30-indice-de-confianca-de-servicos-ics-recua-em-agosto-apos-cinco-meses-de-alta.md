@@ -2,7 +2,7 @@
 title: Índice de Confiança de Serviços (ICS) recua em agosto após cinco meses de alta
 date: 2023-08-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

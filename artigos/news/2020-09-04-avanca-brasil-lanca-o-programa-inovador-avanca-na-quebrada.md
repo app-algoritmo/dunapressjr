@@ -2,7 +2,7 @@
 title: Avança Brasil lança o Programa Inovador 'Avança na Quebrada'
 date: 2020-09-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Por que escolher o cão certo para você é importante
 date: 2020-11-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Pets
 ---

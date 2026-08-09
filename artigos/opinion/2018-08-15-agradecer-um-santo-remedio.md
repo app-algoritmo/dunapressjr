@@ -2,7 +2,7 @@
 title: Agradecer, um santo remédio!
 date: 2018-08-15
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 - Religiosity

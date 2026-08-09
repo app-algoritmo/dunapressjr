@@ -2,7 +2,7 @@
 title: Bolsa de Valores atinge maior nível desde agosto de 2021
 date: 2023-07-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

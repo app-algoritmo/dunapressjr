@@ -2,7 +2,7 @@
 title: Ibovespa fecha em queda em dia de menor liquidez por conta do feriado nos EUA
 date: 2023-05-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

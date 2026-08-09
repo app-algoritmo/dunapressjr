@@ -2,7 +2,7 @@
 title: Presidente de El Salvador, Nayib Bukele mobiliza exército contra criminosos
 date: 2022-12-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 - News

@@ -2,7 +2,7 @@
 title: Puxada pelos combustíveis, inflação oficial fecha agosto em 0,87%
 date: 2021-09-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

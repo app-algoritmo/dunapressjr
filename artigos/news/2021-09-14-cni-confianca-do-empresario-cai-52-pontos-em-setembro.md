@@ -2,7 +2,7 @@
 title: 'CNI: confiança do empresário cai 5,2 pontos em setembro'
 date: 2021-09-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

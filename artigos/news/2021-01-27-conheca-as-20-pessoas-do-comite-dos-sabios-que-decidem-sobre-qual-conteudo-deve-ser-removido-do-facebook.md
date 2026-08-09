@@ -3,7 +3,7 @@ title: Conheça as 20 pessoas do 'Comitê dos Sábios' que decidem sobre qual co
   deve ser removido do Facebook
 date: 2021-01-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

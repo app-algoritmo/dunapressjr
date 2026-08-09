@@ -2,7 +2,7 @@
 title: Indicador de produtividade da indústria cai 1,3%, no 3º trimestre
 date: 2021-12-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

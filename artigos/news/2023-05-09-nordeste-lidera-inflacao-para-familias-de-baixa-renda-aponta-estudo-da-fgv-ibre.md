@@ -3,7 +3,7 @@ title: Nordeste lidera inflação para famílias de baixa renda, aponta estudo d
   IBRE
 date: 2023-05-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

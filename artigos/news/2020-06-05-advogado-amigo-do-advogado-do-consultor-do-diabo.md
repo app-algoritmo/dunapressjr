@@ -2,7 +2,7 @@
 title: Advogado amigo do advogado do consultor do diabo
 date: 2020-06-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

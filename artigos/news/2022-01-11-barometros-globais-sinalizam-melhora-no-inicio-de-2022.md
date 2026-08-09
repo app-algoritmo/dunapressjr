@@ -2,7 +2,7 @@
 title: Barômetros Globais sinalizam melhora no início de 2022
 date: 2022-01-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

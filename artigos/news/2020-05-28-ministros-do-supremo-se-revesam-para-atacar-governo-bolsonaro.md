@@ -2,7 +2,7 @@
 title: Ministros do supremo se revesam para atacar governo Bolsonaro
 date: 2020-05-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

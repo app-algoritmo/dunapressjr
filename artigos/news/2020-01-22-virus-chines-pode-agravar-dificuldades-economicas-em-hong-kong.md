@@ -2,7 +2,7 @@
 title: Vírus chinês pode agravar dificuldades econômicas em Hong Kong
 date: 2020-01-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

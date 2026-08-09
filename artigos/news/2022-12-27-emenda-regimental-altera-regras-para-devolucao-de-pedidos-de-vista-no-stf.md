@@ -2,7 +2,7 @@
 title: Emenda regimental altera regras para devolução de pedidos de vista no STF
 date: 2022-12-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

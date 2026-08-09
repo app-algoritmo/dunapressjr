@@ -2,7 +2,7 @@
 title: Resolução da CMED define regras para preços de medicamentos partir desta sexta-feira
 date: 2023-03-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

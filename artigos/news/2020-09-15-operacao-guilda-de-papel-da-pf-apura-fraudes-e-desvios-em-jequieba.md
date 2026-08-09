@@ -2,7 +2,7 @@
 title: Operação Guilda de Papel da PF apura fraudes e desvios em Jequié/BA
 date: 2020-09-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

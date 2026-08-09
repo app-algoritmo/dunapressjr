@@ -2,7 +2,7 @@
 title: Oposição venezuelana insiste em primárias com CNE ajoelhada ao regime
 date: 2023-02-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

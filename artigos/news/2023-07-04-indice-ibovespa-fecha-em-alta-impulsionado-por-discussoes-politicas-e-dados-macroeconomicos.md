@@ -3,7 +3,7 @@ title: Índice Ibovespa fecha em alta impulsionado por discussões políticas e 
   macroeconômicos
 date: 2023-07-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

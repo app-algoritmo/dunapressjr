@@ -2,7 +2,7 @@
 title: 'Nasa ao vivo: lançamento da Starship'
 date: 2023-04-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Technology

@@ -2,7 +2,7 @@
 title: Congresso recebe projeto da Lei de Diretrizes Orçamentárias de 2023
 date: 2022-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

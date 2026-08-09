@@ -2,7 +2,7 @@
 title: ONU e OMS publicam manual para ensinar crianças pequenas a fazer sexo?
 date: 2023-05-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Policy

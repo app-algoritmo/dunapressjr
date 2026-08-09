@@ -3,7 +3,7 @@ title: Três mortos e vários feridos em ataque terrorista na Basílica de Notre
   na França
 date: 2020-10-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

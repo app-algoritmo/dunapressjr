@@ -2,7 +2,7 @@
 title: Dólar encosta em R$ 5,80 e fecha no maior valor em 10 meses
 date: 2021-03-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

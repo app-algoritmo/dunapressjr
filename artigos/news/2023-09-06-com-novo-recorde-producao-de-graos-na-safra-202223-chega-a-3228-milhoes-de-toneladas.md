@@ -3,7 +3,7 @@ title: Com novo recorde, produção de grãos na safra 2022/23 chega a 322,8 mil
   de toneladas
 date: 2023-09-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

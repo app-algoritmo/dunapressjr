@@ -2,7 +2,7 @@
 title: 'Dia Internacional em Memória do Tráfico de Escravos: História e Abolição'
 date: 2024-08-23
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - History
 ---

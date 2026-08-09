@@ -2,7 +2,7 @@
 title: China simula um bloqueio de Taiwan no último dia de suas manobras militares
 date: 2023-04-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

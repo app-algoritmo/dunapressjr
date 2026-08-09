@@ -2,7 +2,7 @@
 title: "Bitcoin: O Que os Dados On-Chain Revelam Sobre a Sustentabilidade do Rali"
 date: 2026-06-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-affairs
 featuredImage: "https://images.unsplash.com/photo-1620778187368-30aa2f6e7755?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTA1ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA1MTIyMjN8&ixlib=rb-4.1.0&q=80&w=1080"

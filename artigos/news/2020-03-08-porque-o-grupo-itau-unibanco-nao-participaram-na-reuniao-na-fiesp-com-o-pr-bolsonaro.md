@@ -3,7 +3,7 @@ title: Porque o grupo Itau-Unibanco não participaram na reunião na Fiesp com o
   Bolsonaro
 date: 2020-03-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

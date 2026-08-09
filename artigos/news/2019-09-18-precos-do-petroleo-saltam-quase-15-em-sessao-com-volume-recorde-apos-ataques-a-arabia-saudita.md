@@ -3,7 +3,7 @@ title: Preços do petróleo saltam quase 15% em sessão com volume recorde após
   à Arábia Saudita
 date: 2019-09-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

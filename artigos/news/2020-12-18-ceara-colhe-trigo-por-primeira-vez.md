@@ -2,7 +2,7 @@
 title: Ceará colhe trigo por primeira vez
 date: 2020-12-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Confiança do empresário do comércio registra queda pelo segundo mês c
   aponta índice da CNC
 date: 2023-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

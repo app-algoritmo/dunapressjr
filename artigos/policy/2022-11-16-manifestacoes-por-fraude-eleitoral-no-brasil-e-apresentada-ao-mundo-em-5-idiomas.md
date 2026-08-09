@@ -2,7 +2,7 @@
 title: Manifestacões por fraude eleitoral no Brasil é apresentada ao mundo em 5 idiomas
 date: 2022-11-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

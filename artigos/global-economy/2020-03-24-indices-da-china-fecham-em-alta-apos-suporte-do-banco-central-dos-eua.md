@@ -2,7 +2,7 @@
 title: Índices da China fecham em alta após suporte do Banco Central dos EUA
 date: 2020-03-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: Petrobras busca reconsideração do Ibama para perfuração na Foz do Rio
   reforçando compromisso ambiental
 date: 2023-05-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

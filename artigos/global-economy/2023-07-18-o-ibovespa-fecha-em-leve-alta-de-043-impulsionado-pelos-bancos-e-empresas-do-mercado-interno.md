@@ -3,7 +3,7 @@ title: O Ibovespa fecha em leve alta de 0,43% impulsionado pelos bancos e empres
   do mercado interno
 date: 2023-07-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Cade aprova com restrições compra do Grupo Big Brasil pelo Carrefour
 date: 2022-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

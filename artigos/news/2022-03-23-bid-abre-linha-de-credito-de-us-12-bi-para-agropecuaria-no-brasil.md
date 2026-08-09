@@ -2,7 +2,7 @@
 title: BID abre linha de crédito de US$ 1,2 bi para agropecuária no Brasil
 date: 2022-03-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

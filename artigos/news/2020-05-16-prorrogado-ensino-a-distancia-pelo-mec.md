@@ -2,7 +2,7 @@
 title: Prorrogado ensino à distância pelo MEC
 date: 2020-05-16
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

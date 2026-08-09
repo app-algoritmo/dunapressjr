@@ -3,7 +3,7 @@ title: Ucrânia Desfere Golpe na Frota Russa na Crimeia, Sinalizando Avanço Mil
   Notável
 date: 2023-12-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

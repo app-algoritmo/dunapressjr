@@ -3,7 +3,7 @@ title: 'Brasil Presidenciáveis: Jair Messias Bolsonaro lidera ranking com 87,7%
   intenções de voto'
 date: 2018-06-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

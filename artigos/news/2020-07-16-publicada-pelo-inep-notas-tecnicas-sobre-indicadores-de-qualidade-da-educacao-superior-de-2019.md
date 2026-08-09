@@ -3,7 +3,7 @@ title: Publicada pelo Inep notas técnicas sobre Indicadores de Qualidade da Edu
   Superior de 2019
 date: 2020-07-16
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

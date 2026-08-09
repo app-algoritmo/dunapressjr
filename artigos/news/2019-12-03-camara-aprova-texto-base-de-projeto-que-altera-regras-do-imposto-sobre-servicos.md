@@ -2,7 +2,7 @@
 title: Câmara aprova texto-base de projeto que altera regras do Imposto sobre Serviços
 date: 2019-12-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

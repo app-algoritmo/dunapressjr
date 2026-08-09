@@ -2,7 +2,7 @@
 title: Brasil terá trajetória sustentável de crescimento, diz Campos Neto
 date: 2022-11-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

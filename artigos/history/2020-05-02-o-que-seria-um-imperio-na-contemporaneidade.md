@@ -2,7 +2,7 @@
 title: O que seria um império na contemporaneidade?
 date: 2020-05-02
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

@@ -2,7 +2,7 @@
 title: Bolsa de Valores acumula ganhos na semana, mas fecha dia em queda
 date: 2023-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

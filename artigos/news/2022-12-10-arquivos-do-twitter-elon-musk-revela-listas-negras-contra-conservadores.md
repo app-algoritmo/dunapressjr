@@ -2,7 +2,7 @@
 title: 'Arquivos do Twitter: Elon Musk revela ''listas negras'' contra conservadores'
 date: 2022-12-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

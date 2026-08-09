@@ -2,7 +2,7 @@
 title: 'BC: economia recua quase 1% em janeiro'
 date: 2022-03-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

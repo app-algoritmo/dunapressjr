@@ -3,7 +3,7 @@ title: "O neurocientista que convenceu o Exército americano a repensar como sol
 subtitle: "Pesquisas do psicólogo Gary Klein sobre cognição em campo de batalha estão sendo adaptadas por corporações brasileiras para treinar lideranças em ambientes de alta incerteza."
 date: 2026-07-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - psicologia
 description: "O modelo de tomada de decisão naturalista, desenvolvido por Gary Klein nos anos 1990 para o Exército dos EUA, está sendo adotado por empresas brasileiras de médio porte para reduzir erros em contextos de pressão extrema. Entender como experientes tomam decisões sem comparar opções — e por que isso funciona — é o debate que está mudando o treinamento executivo em 2026."

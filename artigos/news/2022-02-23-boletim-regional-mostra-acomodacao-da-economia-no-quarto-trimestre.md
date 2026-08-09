@@ -2,7 +2,7 @@
 title: Boletim Regional mostra acomodação da economia no quarto trimestre
 date: 2022-02-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

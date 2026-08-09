@@ -3,7 +3,7 @@ title: "Quem são os cinco jogadores abaixo dos 22 anos que podem redefinir o te
 subtitle: "Com Alcaraz consolidado e Sinner dominante, o circuito ATP vive um paradoxo raro: a próxima geração já chegou, mas ainda não sabemos quem vai liderar."
 date: 2026-07-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tennis
 description: "Cinco tenistas com menos de 22 anos acumularam resultados expressivos no primeiro semestre de 2026 e ameaçam reorganizar a hierarquia do circuito antes do fim do ano. Entender quem são e como chegaram até aqui é entender para onde vai o tenis profissional."

@@ -2,7 +2,7 @@
 title: Grupo Pátria vence leilão e assume trecho rodoviário estratégico no Paraná
 date: 2023-08-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,15 na véspera de reunião do Copom
 date: 2022-09-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

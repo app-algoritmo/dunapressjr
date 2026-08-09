@@ -2,7 +2,7 @@
 title: Capes apoiará novos pesquisadores para estudos avançados na Alemanha
 date: 2020-07-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

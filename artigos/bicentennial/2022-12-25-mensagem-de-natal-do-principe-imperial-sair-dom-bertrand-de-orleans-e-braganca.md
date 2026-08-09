@@ -2,7 +2,7 @@
 title: Mensagem de Natal do príncipe Imperial S.A.I.R Dom Bertrand de Orleáns e Bragança
 date: 2022-12-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Bicentennial
 - News

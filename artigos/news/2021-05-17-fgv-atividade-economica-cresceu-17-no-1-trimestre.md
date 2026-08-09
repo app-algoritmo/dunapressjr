@@ -2,7 +2,7 @@
 title: 'FGV: atividade econômica cresceu 1,7% no 1º trimestre'
 date: 2021-05-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

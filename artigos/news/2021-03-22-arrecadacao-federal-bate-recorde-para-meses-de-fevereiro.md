@@ -2,7 +2,7 @@
 title: Arrecadação federal bate recorde para meses de fevereiro
 date: 2021-03-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

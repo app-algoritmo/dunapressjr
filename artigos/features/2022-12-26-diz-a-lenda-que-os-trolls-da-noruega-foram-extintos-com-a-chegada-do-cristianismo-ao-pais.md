@@ -3,7 +3,7 @@ title: Diz a lenda que os Trolls da Noruega foram extintos com a chegada do cris
   ao país
 date: 2022-12-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Features
 - Literature

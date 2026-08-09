@@ -2,7 +2,7 @@
 title: Novo clássico da literatura fantástica é publicado no Brasil
 date: 2019-05-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

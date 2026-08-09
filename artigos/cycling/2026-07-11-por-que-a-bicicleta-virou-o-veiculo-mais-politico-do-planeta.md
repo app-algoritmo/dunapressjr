@@ -3,7 +3,7 @@ title: "Por que a bicicleta virou o veículo mais político do planeta em 2026?"
 subtitle: "Do Tour de France às ciclovias de São Paulo, o ciclismo deixou de ser esporte ou transporte e tornou-se o campo de batalha onde se decide quem controla o espaço urbano, a agenda climática e o bilhão de dólares que circula nas grandes voltas."
 date: 2026-07-11
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - cycling
 description: "Em julho de 2026, enquanto o Tour de France atrai 12 milhões de espectadores nas estradas francesas e o ciclismo profissional movimenta € 2,1 bilhões por temporada, cidades como São Paulo, Bogotá e Amsterdã travam disputas reais sobre quem tem direito à rua. Entender o que acontece nas duas pontas — o pelotão de elite e o ciclista urbano anônimo — é entender uma das maiores apostas de transformação do século."

@@ -3,7 +3,7 @@ title: "A Nova Geometria do Capital: Como as Economias Emergentes Estão Redesen
 subtitle: "Com o dólar sob pressão estrutural e os mercados ocidentais em fase de desaceleração, o capital internacional acelera sua migração para economias do Sul Global — e o Brasil ocupa posição estratégica nessa reconfiguração."
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - business-and-economy
 description: "A arquitetura financeira global passa por uma transformação silenciosa mas profunda. Em 2026, fluxos de capital antes concentrados nos mercados desenvolvidos estão sendo redistribuídos em direção às economias emergentes, impulsionados pela desaceleração europeia, pelo teto fiscal americano e pela consolidação de novas rotas comerciais. O Brasil, com sua matriz energética, seus recursos naturais e uma agenda de reformas em curso, emerge como um dos destinos mais disputados nessa nova geometria do dinheiro."

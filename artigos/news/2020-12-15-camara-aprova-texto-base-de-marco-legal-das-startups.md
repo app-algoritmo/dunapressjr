@@ -2,7 +2,7 @@
 title: Câmara aprova texto-base de marco legal das startups
 date: 2020-12-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

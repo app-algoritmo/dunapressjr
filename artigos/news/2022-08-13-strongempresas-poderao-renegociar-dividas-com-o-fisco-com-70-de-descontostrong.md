@@ -2,7 +2,7 @@
 title: <strong>Empresas poderão renegociar dívidas com o Fisco com 70% de desconto</strong>
 date: 2022-08-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

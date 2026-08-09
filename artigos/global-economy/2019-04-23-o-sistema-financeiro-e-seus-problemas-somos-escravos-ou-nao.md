@@ -2,7 +2,7 @@
 title: O Sistema Financeiro e seus problemas – Somos escravos ou não?
 date: 2019-04-23
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Global Economy
 ---

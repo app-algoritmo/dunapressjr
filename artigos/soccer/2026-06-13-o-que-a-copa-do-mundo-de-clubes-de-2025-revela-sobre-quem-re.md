@@ -3,7 +3,7 @@ title: "O que a Copa do Mundo de Clubes de 2025 revela sobre quem realmente mand
 subtitle: "O torneio de 32 clubes que a FIFA lança nos Estados Unidos em junho de 2025 não é apenas uma competição — é o mapa mais honesto do poder econômico e político que redesenha o esporte mais popular do planeta."
 date: 2026-06-13
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - soccer
 description: "A Copa do Mundo de Clubes de 2025, com prêmio total de US$ 1 bilhão distribuído entre 32 equipes, reorganiza as hierarquias do futebol mundial e expõe as tensões entre FIFA, ligas europeias e o capital do Oriente Médio. Entender o torneio é entender quem financia, quem decide e quem fica de fora do futebol que vem aí."

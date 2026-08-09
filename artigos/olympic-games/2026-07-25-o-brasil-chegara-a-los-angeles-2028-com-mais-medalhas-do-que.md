@@ -3,7 +3,7 @@ title: "O Brasil chegará a Los Angeles 2028 com mais medalhas do que atletas pa
 subtitle: "Enquanto o COB redefine sua estratégia de financiamento após Paris 2024, um modelo híbrido entre capital privado e política pública começa a ganhar forma antes que a tocha acenda na Califórnia."
 date: 2026-07-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - olympic-games
 description: "O Brasil encerrou Paris 2024 com 20 medalhas e um problema estrutural exposto: menos de 40% dos atletas do pódio tinham contratos de patrocínio privado ativos durante toda a preparação. Com Los Angeles 2028 a 730 dias, o Comitê Olímpico do Brasil desenha um novo arranjo financeiro — e o modelo que emergir pode redefinir o esporte de alto rendimento no país."

@@ -2,7 +2,7 @@
 title: Petrobras e BNDES firmam acordo para transição energética e reindustrialização
 date: 2023-06-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

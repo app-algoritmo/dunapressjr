@@ -3,7 +3,7 @@ title: Declaração Conjunta Reforça Cooperação para Segurança da Infraestru
   Crítica no Mar do Norte
 date: 2024-04-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 ---

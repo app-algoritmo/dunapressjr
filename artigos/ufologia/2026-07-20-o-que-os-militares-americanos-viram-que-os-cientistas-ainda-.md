@@ -3,7 +3,7 @@ title: "O que os militares americanos viram que os cientistas ainda não consegu
 subtitle: "Com a criação do AARO em 2022 e a audiência histórica no Congresso dos EUA em julho de 2023, os Fenômenos Aéreos Não Identificados deixaram de ser tabu institucional e entraram na agenda científica global — inclusive no Brasil."
 date: 2026-07-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - ufologia
 description: "Após décadas de silêncio oficial, governos e instituições científicas estão formalizando a investigação de Fenômenos Aéreos Não Identificados com dados, audições públicas e financiamento real. O Brasil, com histórico próprio no tema, ainda não tem política pública equivalente — mas o debate chegou às universidades."

@@ -3,7 +3,7 @@ title: <strong>PagTesouro possibilita pagamento de serviços públicos via Pix e
   de crédito</strong>
 date: 2022-08-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

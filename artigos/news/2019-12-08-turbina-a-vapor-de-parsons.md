@@ -2,7 +2,7 @@
 title: Turbina a Vapor de Parsons
 date: 2019-12-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

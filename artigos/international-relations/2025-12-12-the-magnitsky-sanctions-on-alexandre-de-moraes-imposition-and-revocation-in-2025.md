@@ -3,7 +3,7 @@ title: 'The Magnitsky Sanctions on Alexandre de Moraes: Imposition and Revocatio
   in 2025'
 date: 2025-12-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - International Relations
 ---

@@ -2,7 +2,7 @@
 title: 'Narcogovernos: O vídeo que o PT tenta eliminar da internet'
 date: 2022-11-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

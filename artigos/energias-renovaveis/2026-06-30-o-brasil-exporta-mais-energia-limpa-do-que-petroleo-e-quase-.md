@@ -3,7 +3,7 @@ title: "O Brasil exporta mais energia limpa do que petróleo — e quase ningué
 subtitle: "Com 93% da matriz elétrica renovável e R$ 412 bilhões em investimentos previstos até 2030, o país deixou de ser apenas produtor de commodities verdes para se tornar arquiteto silencioso da nova geopolítica energética global."
 date: 2026-06-30
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - energias-renovaveis
 description: "O Brasil ultrapassou em 2025 a marca de 93% de geração elétrica renovável e hoje negocia contratos de hidrogênio verde com Alemanha, Japão e Coreia do Sul que superam em valor os acordos de petróleo assinados na última década. Entender esse movimento é entender quem vai sentar à mesa das grandes decisões climáticas e econômicas dos próximos vinte anos."

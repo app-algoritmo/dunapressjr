@@ -2,7 +2,7 @@
 title: 'CNI: produtividade do trabalho na indústria cresce 8% no 3º trimestre'
 date: 2020-12-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

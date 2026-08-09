@@ -2,7 +2,7 @@
 title: Balança comercial registra superávit de US$ 6,6 bilhões em agosto
 date: 2020-09-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

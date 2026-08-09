@@ -2,7 +2,7 @@
 title: Índices de confiança do comércio e serviços sobem em junho, diz FGV
 date: 2021-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

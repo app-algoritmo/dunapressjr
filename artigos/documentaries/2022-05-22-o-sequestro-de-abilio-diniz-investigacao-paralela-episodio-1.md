@@ -2,7 +2,7 @@
 title: O sequestro de Abílio Diniz - Investigação Paralela - Episódio 1
 date: 2022-05-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Documentaries
 ---

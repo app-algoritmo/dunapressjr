@@ -2,7 +2,7 @@
 title: 'STF: maioria vota contra aval de sindicatos para suspensão de contrato'
 date: 2020-04-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

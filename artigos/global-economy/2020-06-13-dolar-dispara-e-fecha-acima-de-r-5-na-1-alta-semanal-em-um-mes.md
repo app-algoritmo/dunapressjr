@@ -2,7 +2,7 @@
 title: Dólar dispara e fecha acima de R$ 5, na 1ª alta semanal em um mês
 date: 2020-06-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

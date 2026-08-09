@@ -2,7 +2,7 @@
 title: Piloto Tessa Naran, incentiva nova geração à profissão
 date: 2020-03-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

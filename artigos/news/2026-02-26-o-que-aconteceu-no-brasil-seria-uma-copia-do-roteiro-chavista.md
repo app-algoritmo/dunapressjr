@@ -2,7 +2,7 @@
 title: O que aconteceu no Brasil seria uma cópia do roteiro chavista?
 date: 2026-02-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

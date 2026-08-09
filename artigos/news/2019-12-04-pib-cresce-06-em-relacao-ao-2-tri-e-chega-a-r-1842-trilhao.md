@@ -2,7 +2,7 @@
 title: PIB cresce 0,6% em relação ao 2º tri e chega a R$ 1,842 trilhão
 date: 2019-12-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

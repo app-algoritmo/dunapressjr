@@ -2,7 +2,7 @@
 title: 'Construção: INCC-M sobe 0,56% em setembro'
 date: 2021-09-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

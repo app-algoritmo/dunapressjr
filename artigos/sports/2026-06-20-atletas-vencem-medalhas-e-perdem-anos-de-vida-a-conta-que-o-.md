@@ -3,7 +3,7 @@ title: "Atletas vencem medalhas e perdem anos de vida: a conta que o esporte de 
 subtitle: "Enquanto o mercado global de patrocínio esportivo ultrapassa US$ 100 bilhões, cresce o debate sobre o preço biológico pago por quem produz o espetáculo — e o Brasil está no centro dessa tensão."
 date: 2026-06-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - sports
 description: "O esporte de alto rendimento movimenta fortunas e fabrica heróis nacionais, mas um conjunto crescente de estudos e relatos de atletas expõe os danos físicos e psicológicos invisibilizados pela lógica do espetáculo. Com os Jogos de Los Angeles 2028 no horizonte e o Brasil investindo pesado na formação de talentos, a pergunta que poucos ousam fazer em voz alta é: a que custo?"

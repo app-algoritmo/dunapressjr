@@ -3,7 +3,7 @@ title: Ibovespa fecha em alta impulsionado por ações de companhias aéreas e o
   externo
 date: 2023-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

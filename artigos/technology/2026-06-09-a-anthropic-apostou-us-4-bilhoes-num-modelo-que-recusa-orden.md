@@ -3,7 +3,7 @@ title: "A Anthropic apostou US$ 4 bilhões num modelo que recusa ordens — e o 
 subtitle: "Claude 4, lançado em maio de 2026, introduz 'limites negociáveis' no comportamento de IAs empresariais e força uma reconfiguração silenciosa nas estratégias de adoção de grandes corporações."
 date: 2026-06-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - technology
 description: "A Anthropic lançou o Claude 4 com uma arquitetura de 'recusa calibrada' que permite ao modelo contestar instruções de operadores em situações de risco ético — o que parecia um obstáculo virou argumento de venda para Fortune 500. A decisão redefine o que o mercado corporativo espera de uma IA confiável em 2026."

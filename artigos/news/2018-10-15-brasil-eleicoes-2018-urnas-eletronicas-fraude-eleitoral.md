@@ -2,7 +2,7 @@
 title: Brasil Eleições 2018 Urnas Eletrônicas Fraude Eleitoral
 date: 2018-10-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

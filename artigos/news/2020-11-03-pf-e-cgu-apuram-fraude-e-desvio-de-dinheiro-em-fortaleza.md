@@ -2,7 +2,7 @@
 title: PF e CGU apuram fraude e desvio de dinheiro em Fortaleza
 date: 2020-11-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

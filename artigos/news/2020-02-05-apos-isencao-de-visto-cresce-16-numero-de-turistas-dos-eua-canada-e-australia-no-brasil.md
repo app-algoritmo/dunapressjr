@@ -3,7 +3,7 @@ title: Após isenção de visto, cresce 16% número de turistas dos EUA, Canadá
   no Brasil
 date: 2020-02-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

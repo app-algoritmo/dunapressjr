@@ -2,7 +2,7 @@
 title: Procura das empresas por crédito cresce 12,7% em fevereiro
 date: 2021-03-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

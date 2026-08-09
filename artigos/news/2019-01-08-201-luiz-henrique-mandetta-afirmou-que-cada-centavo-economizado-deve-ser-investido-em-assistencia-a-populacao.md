@@ -3,7 +3,7 @@ title: 2.01 Luiz Henrique Mandetta afirmou que cada centavo economizado deve ser
   em assistência à população
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

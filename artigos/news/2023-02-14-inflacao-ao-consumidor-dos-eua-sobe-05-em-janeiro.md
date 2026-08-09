@@ -2,7 +2,7 @@
 title: Inflação ao consumidor dos EUA sobe 0,5% em janeiro
 date: 2023-02-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

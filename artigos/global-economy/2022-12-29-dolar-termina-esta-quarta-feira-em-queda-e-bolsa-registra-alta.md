@@ -2,7 +2,7 @@
 title: Dólar termina esta quarta-feira em queda e bolsa registra alta
 date: 2022-12-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

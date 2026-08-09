@@ -2,7 +2,7 @@
 title: 'Ministro: privatização pode aumentar recursos para infraestrutura'
 date: 2022-05-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'CNC: cai para 65,3% o número de brasileiros endividados em janeiro'
 date: 2020-02-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: 'Conflito em Gaza: Israel e Hamas em Escalada de Violência'
 date: 2023-10-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

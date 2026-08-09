@@ -2,7 +2,7 @@
 title: O interesse da China na água, o Brasil está em perigo?
 date: 2020-06-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Divulgado hoje (04) resultado do Fies
 date: 2020-08-04
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

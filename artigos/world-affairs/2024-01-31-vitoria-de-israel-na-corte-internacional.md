@@ -2,7 +2,7 @@
 title: Vitória de Israel na Corte Internacional
 date: 2024-01-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

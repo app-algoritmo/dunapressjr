@@ -2,7 +2,7 @@
 title: IGP-10 acumula inflação de 31,74% em 12 meses, diz FGV
 date: 2021-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

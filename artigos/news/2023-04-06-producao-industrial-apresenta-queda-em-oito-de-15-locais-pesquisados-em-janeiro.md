@@ -2,7 +2,7 @@
 title: Produção industrial apresenta queda em oito de 15 locais pesquisados em janeiro
 date: 2023-04-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

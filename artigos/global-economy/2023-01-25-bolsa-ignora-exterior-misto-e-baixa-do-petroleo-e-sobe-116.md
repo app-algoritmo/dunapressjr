@@ -2,7 +2,7 @@
 title: Bolsa ignora exterior misto e baixa do petróleo e sobe 1,16%
 date: 2023-01-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

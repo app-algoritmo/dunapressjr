@@ -3,7 +3,7 @@ title: Passam de 3 mil estudantes de Itararé/SP os que recebem kits da alimenta
   escolar
 date: 2020-07-27
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

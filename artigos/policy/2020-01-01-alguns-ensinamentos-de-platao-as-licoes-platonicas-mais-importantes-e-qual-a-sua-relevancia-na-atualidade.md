@@ -3,7 +3,7 @@ title: Alguns ensinamentos de Platão, as lições platônicas mais importantes 
   a sua relevância na atualidade
 date: 2020-01-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

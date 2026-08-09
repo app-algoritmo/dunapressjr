@@ -2,7 +2,7 @@
 title: 'IBGE: inflação da indústria tem alta de 1,86% em agosto'
 date: 2021-09-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

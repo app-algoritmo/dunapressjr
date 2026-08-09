@@ -3,7 +3,7 @@ title: 'Tragédia Abala Israel: Encontrada a Menina de 12 Anos, Viral na Interne
   Morta junto à Avó'
 date: 2023-10-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Agronegócio tem superávit de US$ 7,7 bilhões em janeiro deste ano
 date: 2022-02-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

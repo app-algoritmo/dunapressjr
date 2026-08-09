@@ -2,7 +2,7 @@
 title: Balança comercial de abril tem superávit de US$ 8,225 bilhões
 date: 2023-05-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

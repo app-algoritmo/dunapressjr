@@ -3,7 +3,7 @@ title: Universidade Federal do Ceará desenvolve equipamentos de proteção para
   e pacientes da pandemia
 date: 2020-05-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

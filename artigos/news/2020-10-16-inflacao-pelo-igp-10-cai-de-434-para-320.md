@@ -2,7 +2,7 @@
 title: Inflação pelo IGP-10 cai de 4,34% para 3,20%
 date: 2020-10-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

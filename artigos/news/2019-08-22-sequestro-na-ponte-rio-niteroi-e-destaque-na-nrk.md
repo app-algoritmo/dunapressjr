@@ -2,7 +2,7 @@
 title: Sequestro na ponte Rio-Niterói é destaque na NRK
 date: 2019-08-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

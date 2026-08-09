@@ -2,7 +2,7 @@
 title: Veja direitos do cliente na hora de trocar produto
 date: 2022-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

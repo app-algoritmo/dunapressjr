@@ -2,7 +2,7 @@
 title: Venda de veículos tem queda de 7,5% em abril, diz Anfavea
 date: 2021-05-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

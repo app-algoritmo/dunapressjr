@@ -3,7 +3,7 @@ title: Governador da Paraíba assina protocolo de intenções para instalação 
   solares em São José de Lagoa Tapada
 date: 2020-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

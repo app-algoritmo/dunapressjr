@@ -2,7 +2,7 @@
 title: Pequenos negócios geram 70% das novas vagas de empregos em julho
 date: 2022-09-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

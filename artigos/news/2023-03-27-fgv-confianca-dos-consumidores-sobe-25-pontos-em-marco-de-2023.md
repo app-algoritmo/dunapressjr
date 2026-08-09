@@ -2,7 +2,7 @@
 title: 'FGV: Confiança dos consumidores sobe 2,5 pontos em março de 2023'
 date: 2023-03-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

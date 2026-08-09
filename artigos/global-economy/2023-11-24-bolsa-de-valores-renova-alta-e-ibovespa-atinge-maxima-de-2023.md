@@ -2,7 +2,7 @@
 title: Bolsa de valores renova alta e Ibovespa atinge máxima de 2023
 date: 2023-11-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

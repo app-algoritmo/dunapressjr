@@ -2,7 +2,7 @@
 title: Juiz que mantém presos políticos no Brasil pode ser o primeiro da fila
 date: 2021-03-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

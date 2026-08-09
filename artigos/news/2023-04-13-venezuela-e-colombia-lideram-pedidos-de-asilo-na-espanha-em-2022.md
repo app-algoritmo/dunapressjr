@@ -2,7 +2,7 @@
 title: Venezuela e Colômbia lideram pedidos de asilo na Espanha em 2022
 date: 2023-04-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

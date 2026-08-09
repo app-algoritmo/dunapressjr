@@ -3,7 +3,7 @@ title: Estados Unidos mantêm Cuba na lista de países que não colaboram na lut
   o terrorismo
 date: 2023-05-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Geopolitics
 ---

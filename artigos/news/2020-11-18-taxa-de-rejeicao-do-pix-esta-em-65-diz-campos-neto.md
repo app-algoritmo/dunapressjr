@@ -2,7 +2,7 @@
 title: Taxa de rejeição do Pix está em 6,5%, diz Campos Neto
 date: 2020-11-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

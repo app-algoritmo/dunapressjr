@@ -2,7 +2,7 @@
 title: CGU e Economia publicam portaria de análise paramétrica de orçamento de obras
 date: 2020-06-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

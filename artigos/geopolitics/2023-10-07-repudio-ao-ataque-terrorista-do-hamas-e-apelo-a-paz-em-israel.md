@@ -2,7 +2,7 @@
 title: Repúdio ao Ataque Terrorista do Hamas e Apelo à Paz em Israel
 date: 2023-10-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

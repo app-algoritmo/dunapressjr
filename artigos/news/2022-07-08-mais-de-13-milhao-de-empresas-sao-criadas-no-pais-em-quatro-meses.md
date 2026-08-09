@@ -2,7 +2,7 @@
 title: Mais de 1,3 milhão de empresas são criadas no país em quatro meses
 date: 2022-07-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

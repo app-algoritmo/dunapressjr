@@ -3,7 +3,7 @@ title: "O general que Zelensky demitiu em abril agora comanda a linha mais dispu
 subtitle: "A reintegração silenciosa de Mykhailo Drapatyi ao front de Pokrovsk revela como Kiev está reescrevendo sua doutrina militar em tempo real — e o que isso significa para o ritmo da guerra no verão europeu."
 date: 2026-07-23
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - guerra-e-conflitos
 description: "O general Mykhailo Drapatyi, afastado por Zelensky em abril após perdas em Kurakhove, foi reposicionado para liderar a defesa de Pokrovsk, o nó logístico mais pressionado do Donbas. A decisão expõe uma tensão real dentro do comando ucraniano: entre punição simbólica e pragmatismo tático, Kiev está escolhendo sobreviver."

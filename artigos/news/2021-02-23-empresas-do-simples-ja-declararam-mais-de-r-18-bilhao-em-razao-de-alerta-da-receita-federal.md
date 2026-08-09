@@ -3,7 +3,7 @@ title: Empresas do Simples já declararam mais de R$ 1,8 bilhão em razão de al
   da Receita Federal
 date: 2021-02-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

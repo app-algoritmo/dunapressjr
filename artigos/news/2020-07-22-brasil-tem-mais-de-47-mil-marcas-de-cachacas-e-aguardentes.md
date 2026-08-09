@@ -2,7 +2,7 @@
 title: Brasil tem mais de 4,7 mil marcas de cachaças e aguardentes
 date: 2020-07-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

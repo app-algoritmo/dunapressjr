@@ -3,7 +3,7 @@ title: "Brasileiros dormem 47 minutos a menos do que há uma década — e as em
 subtitle: "A privação de sono deixou de ser questão individual para se tornar variável econômica mensurável: produtividade, turnover e saúde mental corporativa estão sendo recalculados a partir de um dado que sempre esteve à vista."
 date: 2026-06-14
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - lifestyle
 description: "Pesquisa da Universidade Federal de São Paulo divulgada em maio de 2026 aponta que o brasileiro urbano dorme, em média, 6h12 por noite — 47 minutos a menos do que registrava o mesmo levantamento em 2016. O dado reposicionou o sono como tema de gestão, investimento e política pública, desencadeando uma virada silenciosa no comportamento de consumo e no desenho das cidades."

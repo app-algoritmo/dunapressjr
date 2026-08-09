@@ -2,7 +2,7 @@
 title: Chefes de Defesa da OTAN Reúnem-se na Noruega para Conferência Anual
 date: 2023-09-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - Military

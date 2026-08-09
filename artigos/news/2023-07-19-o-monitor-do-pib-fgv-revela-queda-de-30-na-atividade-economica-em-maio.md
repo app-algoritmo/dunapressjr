@@ -2,7 +2,7 @@
 title: O Monitor do PIB-FGV revela queda de 3,0% na atividade econômica em maio
 date: 2023-07-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

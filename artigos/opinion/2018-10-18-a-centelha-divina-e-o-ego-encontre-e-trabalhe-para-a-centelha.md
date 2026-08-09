@@ -2,7 +2,7 @@
 title: A centelha divina e o Ego - Encontre e trabalhe para a centelha
 date: 2018-10-18
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 - Religiosity

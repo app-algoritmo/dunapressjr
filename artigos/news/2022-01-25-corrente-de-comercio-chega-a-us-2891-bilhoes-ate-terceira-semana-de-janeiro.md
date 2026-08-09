@@ -2,7 +2,7 @@
 title: Corrente de comércio chega a US$ 28,91 bilhões até terceira semana de janeiro
 date: 2022-01-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

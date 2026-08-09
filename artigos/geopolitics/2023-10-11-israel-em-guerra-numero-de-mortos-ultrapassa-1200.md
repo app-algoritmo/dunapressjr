@@ -2,7 +2,7 @@
 title: 'Israel em guerra: número de mortos ultrapassa 1.200'
 date: 2023-10-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

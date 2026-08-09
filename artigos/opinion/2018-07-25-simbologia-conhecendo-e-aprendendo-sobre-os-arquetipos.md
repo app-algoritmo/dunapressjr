@@ -2,7 +2,7 @@
 title: Simbologia – Conhecendo e aprendendo sobre os arquétipos
 date: 2018-07-25
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

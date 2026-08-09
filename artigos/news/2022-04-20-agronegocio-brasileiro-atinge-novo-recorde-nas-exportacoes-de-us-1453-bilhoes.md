@@ -2,7 +2,7 @@
 title: Agronegócio brasileiro atinge novo recorde nas exportações de US$ 14,53 bilhões
 date: 2022-04-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

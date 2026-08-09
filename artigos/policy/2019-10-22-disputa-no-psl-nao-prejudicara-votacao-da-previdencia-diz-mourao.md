@@ -2,7 +2,7 @@
 title: Disputa no PSL não prejudicará votação da Previdência, diz Mourão
 date: 2019-10-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

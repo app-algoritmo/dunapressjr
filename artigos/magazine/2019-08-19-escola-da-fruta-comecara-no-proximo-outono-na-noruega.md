@@ -2,7 +2,7 @@
 title: '''Escola da fruta'' começará no próximo outono na Noruega'
 date: 2019-08-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

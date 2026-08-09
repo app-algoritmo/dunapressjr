@@ -3,7 +3,7 @@ title: O Brasil vai 'surpreender o mundo' e sairá da crise causada pela pandemi
   novo coronavírus 'muito brevemente'
 date: 2020-04-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

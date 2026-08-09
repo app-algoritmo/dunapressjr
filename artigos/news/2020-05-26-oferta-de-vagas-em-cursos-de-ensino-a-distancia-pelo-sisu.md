@@ -2,7 +2,7 @@
 title: Oferta de vagas em cursos de ensino a distância pelo Sisu
 date: 2020-05-26
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

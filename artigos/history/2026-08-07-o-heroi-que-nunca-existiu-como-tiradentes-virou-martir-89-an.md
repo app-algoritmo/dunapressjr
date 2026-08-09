@@ -3,7 +3,7 @@ title: "O herói que nunca existiu: como Tiradentes virou mártir 89 anos depois
 subtitle: "A canonização política de Joaquim José da Silva Xavier revela menos sobre 1792 e mais sobre os interesses de quem precisava de um símbolo em 1881."
 date: 2026-08-07
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - history
 description: "Tiradentes foi enforcado em 1792 como um réu comum, quase esquecido por décadas — sua transformação em símbolo nacional foi uma operação política deliberada dos republicanos do século XIX. Entender como heróis são fabricados é entender como o poder escreve o presente através do passado."

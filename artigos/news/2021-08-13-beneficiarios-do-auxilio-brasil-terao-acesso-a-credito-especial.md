@@ -2,7 +2,7 @@
 title: Beneficiários do Auxílio Brasil terão acesso a crédito especial
 date: 2021-08-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

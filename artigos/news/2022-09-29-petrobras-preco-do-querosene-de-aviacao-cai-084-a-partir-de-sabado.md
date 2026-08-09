@@ -2,7 +2,7 @@
 title: 'Petrobras: preço do querosene de aviação cai 0,84% a partir de sábado'
 date: 2022-09-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

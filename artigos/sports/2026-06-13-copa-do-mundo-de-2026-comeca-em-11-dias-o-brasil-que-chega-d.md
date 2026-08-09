@@ -3,7 +3,7 @@ title: "Copa do Mundo de 2026 começa em 11 dias: o Brasil que chega diferente �
 subtitle: "A seleção masculina embarca para os Estados Unidos carregando a maior pressão de geração desde 2014, mas desta vez há algo estruturalmente novo nos bastidores do futebol brasileiro — e ele pode mudar o jogo além do campo."
 date: 2026-06-13
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - sports
 description: "A Copa do Mundo começa em 11 dias e o Brasil chega com um modelo de preparação física redesenhado após os desastres de 2014 e 2022, ao mesmo tempo em que o torneio movimenta R$ 4,2 bilhões em contratos publicitários ligados à marca Brasil. O que acontecer entre 24 de junho e 19 de julho pode redefinir não apenas um título, mas o valor comercial do futebol nacional pela próxima década."

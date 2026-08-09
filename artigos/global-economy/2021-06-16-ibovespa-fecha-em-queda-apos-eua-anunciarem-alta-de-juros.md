@@ -2,7 +2,7 @@
 title: Ibovespa fecha em queda após EUA anunciarem alta de juros
 date: 2021-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

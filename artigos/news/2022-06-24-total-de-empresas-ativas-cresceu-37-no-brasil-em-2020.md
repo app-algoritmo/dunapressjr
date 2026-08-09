@@ -2,7 +2,7 @@
 title: Total de empresas ativas cresceu 3,7% no Brasil em 2020
 date: 2022-06-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

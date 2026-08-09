@@ -2,7 +2,7 @@
 title: Consumo nos lares cresce 3,02% até outubro
 date: 2022-12-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

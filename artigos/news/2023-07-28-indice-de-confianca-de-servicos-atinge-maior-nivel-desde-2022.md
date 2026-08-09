@@ -2,7 +2,7 @@
 title: Índice de Confiança de Serviços atinge maior nível desde 2022
 date: 2023-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

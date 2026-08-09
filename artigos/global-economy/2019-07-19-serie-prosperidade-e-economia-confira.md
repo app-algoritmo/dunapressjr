@@ -2,7 +2,7 @@
 title: Série Prosperidade e Economia. Confira!
 date: 2019-07-19
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Avião do Juízo Final do Governo Israelense Decola em Meio a Tensões com o Irã
 date: 2024-04-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

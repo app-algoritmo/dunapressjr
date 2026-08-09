@@ -2,7 +2,7 @@
 title: 'FMI: retomada econômica mais ágil pode somar US$ 9 tri à renda global'
 date: 2020-10-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

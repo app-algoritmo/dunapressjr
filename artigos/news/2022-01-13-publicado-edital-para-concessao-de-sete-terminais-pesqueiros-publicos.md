@@ -2,7 +2,7 @@
 title: Publicado edital para concessão de sete terminais pesqueiros públicos
 date: 2022-01-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

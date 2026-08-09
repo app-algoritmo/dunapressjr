@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,30 com alívio no cenário externo
 date: 2022-10-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

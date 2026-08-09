@@ -2,7 +2,7 @@
 title: Bolsa tem forte alta e fecha no segundo melhor nível do ano
 date: 2021-05-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: <strong>Poupança deixa de perder para inflação após dois anos</strong>
 date: 2022-10-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Novas regras do cheque especial facilitarão controle de gastos de correntistas
 date: 2020-02-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

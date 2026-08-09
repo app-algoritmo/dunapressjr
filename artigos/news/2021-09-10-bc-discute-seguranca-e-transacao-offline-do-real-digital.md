@@ -2,7 +2,7 @@
 title: BC discute segurança e transação offline do real digital
 date: 2021-09-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Biden vence no Texas e em mais 9 estados nas primárias da 'Super Terça'
 date: 2020-03-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

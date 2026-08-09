@@ -3,7 +3,7 @@ title: "Educação Financeira no Brasil: Por Que Saber o Básico Ainda É um Pri
 subtitle: "Décadas após os primeiros programas de alfabetização financeira, o país ainda convive com um paradoxo cruel: cresce o acesso ao crédito enquanto encolhe a capacidade de gerenciá-lo"
 date: 2026-06-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - financial-education
 description: "O Brasil avançou nas últimas décadas em inclusão financeira, mas o fosso entre ter acesso a produtos financeiros e saber usá-los permanece alarmante. Uma análise sobre as causas estruturais desse atraso, seus custos reais para famílias e para a economia, e o que pode — de fato — mudar esse cenário."

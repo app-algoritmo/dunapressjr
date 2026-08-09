@@ -2,7 +2,7 @@
 title: O presidente colombiano, Gustavo Petro, tem sua primeira derrota no congresso
 date: 2023-03-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

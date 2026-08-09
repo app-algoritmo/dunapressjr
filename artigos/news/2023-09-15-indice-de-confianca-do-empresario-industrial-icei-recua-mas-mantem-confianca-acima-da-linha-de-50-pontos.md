@@ -3,7 +3,7 @@ title: Índice de Confiança do Empresário Industrial (ICEI) recua, mas mantém
   acima da linha de 50 pontos
 date: 2023-09-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

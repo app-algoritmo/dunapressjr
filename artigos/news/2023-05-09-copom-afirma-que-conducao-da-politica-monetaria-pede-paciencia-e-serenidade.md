@@ -2,7 +2,7 @@
 title: Copom afirma que condução da política monetária pede 'paciência e serenidade'
 date: 2023-05-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

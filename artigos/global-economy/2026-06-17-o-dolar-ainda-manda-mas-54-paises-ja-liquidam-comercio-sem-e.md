@@ -3,7 +3,7 @@ title: "O dólar ainda manda, mas 54 países já liquidam comércio sem ele"
 subtitle: "A desdolarização avança em silêncio nos mercados emergentes — e o dado mais revelador não está em Moscou nem em Pequim, mas nas câmaras de compensação de Nova Délhi e Jacarta."
 date: 2026-06-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-economy
 description: "Cinquenta e quatro países já realizam transações bilaterais relevantes fora do dólar americano, segundo levantamento do BIS divulgado em maio de 2026 — a maior marca desde o fim de Bretton Woods. O movimento não é ideológico: é pragmático, e está redesenhando as regras do comércio global antes que qualquer cúpula diplomática decida isso formalmente."

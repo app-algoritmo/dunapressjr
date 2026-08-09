@@ -2,7 +2,7 @@
 title: Monitor do PIB sinaliza que economia teve retração de 4% em 2020
 date: 2021-02-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

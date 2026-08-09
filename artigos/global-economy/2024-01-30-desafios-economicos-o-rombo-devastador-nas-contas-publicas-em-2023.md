@@ -2,7 +2,7 @@
 title: 'Desafios Econômicos: O Rombo Devastador nas Contas Públicas em 2023'
 date: 2024-01-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Transação extraordinária e transação por adesão são prorrogadas
 date: 2020-07-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

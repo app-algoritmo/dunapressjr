@@ -3,7 +3,7 @@ title: Tesouro honra em dezembro R$ 1,08 bilhão em dívidas garantidas pela Uni
   totalizando R$ 9,78 bilhões em 2022
 date: 2023-01-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

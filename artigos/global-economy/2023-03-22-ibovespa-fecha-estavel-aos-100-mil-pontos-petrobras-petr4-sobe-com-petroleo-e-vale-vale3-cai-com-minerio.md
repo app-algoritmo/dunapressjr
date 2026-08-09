@@ -3,7 +3,7 @@ title: Ibovespa fecha estável aos 100 mil pontos; Petrobras (PETR4) sobe com pe
   e Vale (VALE3) caí com minério
 date: 2023-03-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

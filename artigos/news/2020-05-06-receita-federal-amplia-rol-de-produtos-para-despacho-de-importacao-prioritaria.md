@@ -2,7 +2,7 @@
 title: Receita Federal amplia rol de produtos para despacho de importação prioritária
 date: 2020-05-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

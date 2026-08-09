@@ -2,7 +2,7 @@
 title: Regulamentado Programa de Capital de Giro para Preservação de Empresas
 date: 2020-07-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

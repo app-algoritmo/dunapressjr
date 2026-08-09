@@ -4,7 +4,7 @@ title: VocÃª pode ter Defeitos, ser Ansioso, e viver alguma vez Irritado, mas NÃ
   Papa Francisco
 date: 2019-01-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

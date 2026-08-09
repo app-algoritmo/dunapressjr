@@ -3,7 +3,7 @@ title: A Importância da Pureza Hídrica e do Saneamento Básico para o Desenvol
   Sustentável
 date: 2020-02-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Environment
 - Magazine

@@ -2,7 +2,7 @@
 title: 'Putin exige território da Noruega: A disputa por Svalbard no Ártico'
 date: 2024-02-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

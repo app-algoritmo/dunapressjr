@@ -2,7 +2,7 @@
 title: Novo ano, aproveite!
 date: 2019-01-02
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

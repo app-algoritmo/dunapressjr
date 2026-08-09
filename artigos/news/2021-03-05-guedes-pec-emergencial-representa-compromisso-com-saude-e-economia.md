@@ -2,7 +2,7 @@
 title: 'Guedes: PEC Emergencial representa compromisso com saúde e economia'
 date: 2021-03-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

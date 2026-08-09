@@ -2,7 +2,7 @@
 title: Agronegócio registra superávit de US$ 43,7 bilhões até abril
 date: 2022-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

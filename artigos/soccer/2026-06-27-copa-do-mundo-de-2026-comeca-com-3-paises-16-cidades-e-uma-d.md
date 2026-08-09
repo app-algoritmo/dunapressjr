@@ -3,7 +3,7 @@ title: "Copa do Mundo de 2026 começa com 3 países, 16 cidades e uma dúvida de
 subtitle: "O torneio mais caro da história abre nesta semana com um formato inédito de 48 seleções que promete ampliar o alcance global do esporte — mas também expõe as tensões entre negócio, qualidade técnica e identidade cultural do futebol."
 date: 2026-06-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - soccer
 description: "A Copa do Mundo de 2026, realizada nos Estados Unidos, Canadá e México, estreia com 48 seleções e promessas de receita recorde de US$ 11 bilhões para a FIFA. O que está realmente em jogo vai muito além do campo: é um experimento sobre como o futebol se reinventa — ou se dilui — para conquistar o maior mercado ainda resistente ao esporte."

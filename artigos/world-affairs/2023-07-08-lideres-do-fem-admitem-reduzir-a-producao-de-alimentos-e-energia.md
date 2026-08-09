@@ -1,5 +1,5 @@
 ---
-title: Líderes do FEM admitem  reduzir a produção de alimentos e energia
+title: Líderes do FEM admitem reduzir a produção de alimentos e energia
 date: 2023-07-08
 status: publish
 author: Edicleia Alves Lima

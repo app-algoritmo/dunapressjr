@@ -3,7 +3,7 @@ title: Jornalista Alexandre Garcia fala sobre as oportunidades do Brasil e dispa
   no top trends
 date: 2020-02-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

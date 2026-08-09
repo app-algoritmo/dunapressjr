@@ -3,7 +3,7 @@ title: Publicação do ‘Boletim Covid-19’ chega à 10ª edição com dados a
   julho
 date: 2020-07-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

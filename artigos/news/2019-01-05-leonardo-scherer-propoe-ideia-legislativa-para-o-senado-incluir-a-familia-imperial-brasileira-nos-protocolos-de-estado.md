@@ -3,7 +3,7 @@ title: 'Leonardo Scherer propõe ideia legislativa para o senado: “Incluir a F
   Imperial Brasileira nos protocolos de Estado”'
 date: 2019-01-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

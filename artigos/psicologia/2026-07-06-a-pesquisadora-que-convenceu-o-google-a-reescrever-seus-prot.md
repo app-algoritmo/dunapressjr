@@ -3,7 +3,7 @@ title: "A pesquisadora que convenceu o Google a reescrever seus protocolos de re
 subtitle: "Um estudo de dez anos conduzido por Amy Edmondson em Harvard documentou como o medo de falar em grupo reduz a inteligência coletiva de equipes de alta performance — e empresas do Vale do Silício finalmente começaram a medir isso."
 date: 2026-07-06
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - psicologia
 description: "A psicóloga Amy Edmondson identificou que equipes inteligentes falham não por falta de talento, mas por medo de represália ao discordar — e o Google gastou dois anos e milhões de dólares para confirmar essa hipótese dentro de casa. O debate sobre segurança psicológica saiu dos laboratórios acadêmicos e entrou nos protocolos de contratação das maiores empresas do mundo."

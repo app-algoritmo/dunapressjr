@@ -3,7 +3,7 @@ title: "A Coreia do Sul decidiu que estudar menos pode render mais — e os dado
 subtitle: "Seul reduziu a carga de memorização nas escolas públicas e viu os índices de engajamento juvenil subirem 18% em dois anos — um experimento que desafia o modelo de educação por exaustão dominante no mundo em desenvolvimento."
 date: 2026-06-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - education
 description: "A Coreia do Sul, símbolo global do ensino de alta pressão, está reformulando seu currículo para priorizar pensamento crítico sobre decoreba — e os resultados preliminares desafiam décadas de dogma pedagógico. Para o Brasil, que debate a reforma do Ensino Médio em 2026, o experimento coreano chega na hora certa."

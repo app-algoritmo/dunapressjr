@@ -2,7 +2,7 @@
 title: 'Urgente: Televisão americana denuncia fraude eleitoral no Brasil'
 date: 2022-11-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

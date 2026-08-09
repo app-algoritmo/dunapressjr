@@ -2,7 +2,7 @@
 title: Autônomo pode baixar aplicativo a partir de hoje para renda de R$ 600
 date: 2020-04-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

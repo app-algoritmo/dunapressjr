@@ -2,7 +2,7 @@
 title: TCU aprova modelagem financeira da privatização da Eletrobras
 date: 2022-02-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

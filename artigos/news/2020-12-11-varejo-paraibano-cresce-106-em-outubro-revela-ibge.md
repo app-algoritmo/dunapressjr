@@ -2,7 +2,7 @@
 title: Varejo paraibano cresce 10,6% em outubro, revela IBGE
 date: 2020-12-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

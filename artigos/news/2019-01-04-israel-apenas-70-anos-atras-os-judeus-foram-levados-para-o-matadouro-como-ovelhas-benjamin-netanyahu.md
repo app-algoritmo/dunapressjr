@@ -3,7 +3,7 @@ title: Israel, 'Apenas 70 anos atrás os judeus foram levados para o matadouro c
   ovelhas”. Benjamin Netanyahu
 date: 2019-01-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

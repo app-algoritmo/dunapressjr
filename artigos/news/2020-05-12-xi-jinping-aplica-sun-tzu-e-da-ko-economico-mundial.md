@@ -2,7 +2,7 @@
 title: Xi Jinping aplica Sun Tzu e da K.O. econômico mundial
 date: 2020-05-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

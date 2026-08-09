@@ -2,7 +2,7 @@
 title: Seminário no Rio de Janeiro debate futuro da energia nuclear
 date: 2022-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

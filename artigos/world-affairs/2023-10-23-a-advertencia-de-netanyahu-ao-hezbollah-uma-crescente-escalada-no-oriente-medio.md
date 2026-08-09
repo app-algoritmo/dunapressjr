@@ -3,7 +3,7 @@ title: 'A Advertência de Netanyahu ao Hezbollah: Uma Crescente Escalada no Orie
   Médio'
 date: 2023-10-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

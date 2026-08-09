@@ -2,7 +2,7 @@
 title: Países da África coagidos por Washington, Brasil no caminho do modus operandi
 date: 2022-07-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 - News

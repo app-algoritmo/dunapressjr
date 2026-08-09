@@ -2,7 +2,7 @@
 title: Bolsas da China fecham em baixa, mas perdas são limitadas
 date: 2020-03-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Auxílio para taxistas e caminhoneiros começa a ser pago em agosto
 date: 2022-07-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

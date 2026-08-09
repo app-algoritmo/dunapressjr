@@ -2,7 +2,7 @@
 title: Ar condicionado “Cool Wave” Philco-York
 date: 2021-06-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Irã lança ataque com drones contra Israel
 date: 2024-04-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Headlines
 ---

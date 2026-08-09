@@ -3,7 +3,7 @@ title: Saldo das garantias concedidas pela União atinge R$ 264,94 bilhões no p
   quadrimestre de 2023
 date: 2023-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

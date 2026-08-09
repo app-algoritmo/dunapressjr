@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,10 com avanço das commodities
 date: 2022-03-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

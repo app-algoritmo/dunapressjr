@@ -2,7 +2,7 @@
 title: Salário mínimo sobe para R$ 1.302 em 1º de janeiro
 date: 2022-12-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

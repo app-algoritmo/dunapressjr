@@ -2,7 +2,7 @@
 title: Noruega, o Brasil é o candidato natural à maior economia do continente, mas...
 date: 2020-03-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

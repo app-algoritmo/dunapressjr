@@ -2,7 +2,7 @@
 title: Dólar cai após cinco altas seguidas e fecha abaixo de R$ 5,60
 date: 2021-11-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Projeto ABC Cerrado, parceria entre MAPA e Embrapa, planta boas sementes
 date: 2020-06-01
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Synchron: Concorrente da Neuralink de Elon Musk Prepara-se para Teste Clínico'
 date: 2024-04-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Headlines
 ---

@@ -3,7 +3,7 @@ title: Tatuagem militar norueguesa com apresentação de exércitos de vários p
   do mundo
 date: 2019-08-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

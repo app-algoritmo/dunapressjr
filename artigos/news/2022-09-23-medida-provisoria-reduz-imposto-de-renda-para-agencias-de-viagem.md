@@ -2,7 +2,7 @@
 title: Medida provisória reduz Imposto de Renda para agências de viagem
 date: 2022-09-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

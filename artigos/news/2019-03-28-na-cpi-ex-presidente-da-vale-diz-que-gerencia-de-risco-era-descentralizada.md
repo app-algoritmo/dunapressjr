@@ -2,7 +2,7 @@
 title: Na CPI, ex-presidente da Vale diz que gerência de risco era descentralizada
 date: 2019-03-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

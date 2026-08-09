@@ -1,5 +1,5 @@
 ---
-title: Complexo Portuário de Itajaí registra aumento de quase 10%  na movimentação
+title: Complexo Portuário de Itajaí registra aumento de quase 10% na movimentação
   de cargas
 date: 2022-12-01
 status: publish

@@ -2,7 +2,7 @@
 title: 'Desfile da Vitória na Praça Vermelha: Comemorando o Sacrifício e a União'
 date: 2024-05-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

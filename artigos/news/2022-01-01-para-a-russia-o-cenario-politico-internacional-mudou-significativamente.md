@@ -2,7 +2,7 @@
 title: Para a Russia o cenário político internacional mudou significativamente
 date: 2022-01-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

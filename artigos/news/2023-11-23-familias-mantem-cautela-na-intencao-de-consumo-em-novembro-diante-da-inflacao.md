@@ -2,7 +2,7 @@
 title: Famílias mantêm cautela na intenção de consumo em novembro diante da inflação
 date: 2023-11-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

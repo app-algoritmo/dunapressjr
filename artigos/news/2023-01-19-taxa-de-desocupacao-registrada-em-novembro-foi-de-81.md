@@ -2,7 +2,7 @@
 title: Taxa de desocupação registrada em novembro foi de 8,1%
 date: 2023-01-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Mercado financeiro projeta inflação de 5,44% para este ano
 date: 2022-02-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

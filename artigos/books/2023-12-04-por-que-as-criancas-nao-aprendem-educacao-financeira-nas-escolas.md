@@ -2,7 +2,7 @@
 title: Por que as Crianças não Aprendem Educação Financeira nas Escolas
 date: 2023-12-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 - Financial Education

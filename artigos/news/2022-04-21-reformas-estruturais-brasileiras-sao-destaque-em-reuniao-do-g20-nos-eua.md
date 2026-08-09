@@ -2,7 +2,7 @@
 title: Reformas estruturais brasileiras são destaque em reunião do G20, nos EUA
 date: 2022-04-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

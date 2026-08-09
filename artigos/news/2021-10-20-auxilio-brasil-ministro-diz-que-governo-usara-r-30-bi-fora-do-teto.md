@@ -2,7 +2,7 @@
 title: 'Auxílio Brasil: ministro diz que governo usará R$ 30 bi fora do teto'
 date: 2021-10-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

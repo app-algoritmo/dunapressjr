@@ -2,7 +2,7 @@
 title: Dólar cai pela primeira vez em três sessões e fecha a R$ 5,425
 date: 2020-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

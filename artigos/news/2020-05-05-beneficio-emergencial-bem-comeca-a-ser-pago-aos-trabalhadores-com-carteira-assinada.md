@@ -3,7 +3,7 @@ title: Benefício Emergencial (BEm) começa a ser pago aos trabalhadores com car
   assinada
 date: 2020-05-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

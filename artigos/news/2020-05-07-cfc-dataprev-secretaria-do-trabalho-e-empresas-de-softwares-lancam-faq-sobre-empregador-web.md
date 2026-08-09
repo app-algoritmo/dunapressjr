@@ -3,7 +3,7 @@ title: CFC, Dataprev, Secretaria do Trabalho e empresas de softwares lançam FAQ
   Empregador Web
 date: 2020-05-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

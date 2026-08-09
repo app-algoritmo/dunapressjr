@@ -2,7 +2,7 @@
 title: Pelo menos 4 esfaqueados e 23 presos após confronto de manifestantes em Washington
 date: 2020-12-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

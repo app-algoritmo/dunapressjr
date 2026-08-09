@@ -2,7 +2,7 @@
 title: Mariana Bigolin Groff, medalha de ouro na Olimpíada de Matemática na Europa
 date: 2020-01-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

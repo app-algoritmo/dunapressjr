@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 4,78 após aumento de ataques russos
 date: 2022-03-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

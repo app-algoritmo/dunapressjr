@@ -3,7 +3,7 @@ title: A vitamina D determina a gravidade do COVID-19, portanto, os conselhos go
   precisam mudar, recomendam os especialistas
 date: 2020-05-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'IBGE: Produção industrial avança em maio de 2023, impulsionada por di
   estados brasileiros'
 date: 2023-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

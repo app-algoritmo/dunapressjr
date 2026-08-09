@@ -2,7 +2,7 @@
 title: Polícia federal do Brasil vai a caça de pedófilos
 date: 2020-03-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

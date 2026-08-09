@@ -2,7 +2,7 @@
 title: <strong>Lei de Diretrizes Orçamentárias prevê mínimo de R$ 1.294 em 2023</strong>
 date: 2022-08-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: "Alianças Globais de IA: Como Estados do Golfo, Gigantes de Tecnologia dos EUA e Israel Colaboram no Conflito com o Irã em 2026"
 date: 2026-04-30
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - technology
 tags:

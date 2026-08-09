@@ -2,7 +2,7 @@
 title: 'Biblioteca Nacional da Noruega: mais de 250 000 livros para ler online'
 date: 2018-07-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 ---

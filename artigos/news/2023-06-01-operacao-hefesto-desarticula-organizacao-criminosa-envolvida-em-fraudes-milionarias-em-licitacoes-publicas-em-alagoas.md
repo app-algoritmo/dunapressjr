@@ -3,7 +3,7 @@ title: Operação Hefesto desarticula organização criminosa envolvida em fraud
   em licitações públicas em Alagoas
 date: 2023-06-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

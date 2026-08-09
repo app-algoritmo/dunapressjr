@@ -3,7 +3,7 @@ title: O governo Bolsonaro, para mim, é um governo genocida assim declara a esc
   Eliane Potiguara  em entrevista à Euronews TV
 date: 2019-08-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

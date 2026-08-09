@@ -2,7 +2,7 @@
 title: 'Economia à Beira do Abismo: A Mega-Crise na Alemanha'
 date: 2024-01-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Business and Economy
 - Finances

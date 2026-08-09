@@ -3,7 +3,7 @@ title: Ministério da Justiça conhece de perto o processo de compras governamen
   do FNDE
 date: 2020-07-31
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

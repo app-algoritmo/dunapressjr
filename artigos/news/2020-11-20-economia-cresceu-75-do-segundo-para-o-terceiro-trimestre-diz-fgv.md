@@ -2,7 +2,7 @@
 title: Economia cresceu 7,5% do segundo para o terceiro trimestre, diz FGV
 date: 2020-11-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

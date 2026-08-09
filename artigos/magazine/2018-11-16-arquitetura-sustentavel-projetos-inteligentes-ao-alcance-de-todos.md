@@ -2,7 +2,7 @@
 title: Arquitetura sustentável, projetos inteligentes ao alcance de todos
 date: 2018-11-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

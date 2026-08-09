@@ -3,7 +3,7 @@ title: "A Corrida pelo Computador Quântico Tolerante a Falhas: O Que Está em J
 subtitle: "Após décadas de promessas, a computação quântica entra em sua fase mais crítica — e as decisões tomadas agora definirão quem controlará a próxima infraestrutura tecnológica global"
 date: 2026-06-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - science
 description: "Em 2026, a computação quântica deixou de ser uma promessa de laboratório para se tornar uma disputa geopolítica e industrial de primeira ordem. Este artigo analisa o estado atual da tecnologia, os principais atores em competição e os desafios reais que separam os sistemas experimentais de uma máquina quântica verdadeiramente tolerante a falhas."

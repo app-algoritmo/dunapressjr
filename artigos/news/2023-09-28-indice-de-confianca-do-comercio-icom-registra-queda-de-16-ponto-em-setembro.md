@@ -2,7 +2,7 @@
 title: Índice de Confiança do Comércio (ICOM) registra queda de 1,6 ponto em setembro
 date: 2023-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

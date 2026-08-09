@@ -2,7 +2,7 @@
 title: Tesla com motor V8, insano
 date: 2022-12-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - E-auto
 - News

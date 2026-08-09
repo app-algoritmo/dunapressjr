@@ -2,7 +2,7 @@
 title: O melhor material para máscaras caseiras pode ser uma combinação de dois tecidos
 date: 2020-05-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ministério da Economia realiza audiência pública para a privatização da Ceasaminas
 date: 2021-10-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

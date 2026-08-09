@@ -3,7 +3,7 @@ title: "Dormir mal não é frescura: a ciência que transformou o sono em priori
 subtitle: "Enquanto o Brasil ainda trata insônia como fraqueza individual, pesquisadores de 14 países mapearam como a privação de sono custa mais ao PIB do que a maioria das doenças crônicas — e governos começam a agir."
 date: 2026-06-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - health
 description: "Uma onda de estudos publicados entre 2024 e 2026 consolidou o sono como variável central de saúde pública, longevidade e produtividade econômica — e não apenas como questão de hábito pessoal. O Brasil, onde 72% dos adultos dormem menos de sete horas por noite, ainda não tem nenhuma política nacional estruturada sobre o tema, enquanto Reino Unido, Japão e Austrália já destinam verbas específicas para programas de medicina do sono."

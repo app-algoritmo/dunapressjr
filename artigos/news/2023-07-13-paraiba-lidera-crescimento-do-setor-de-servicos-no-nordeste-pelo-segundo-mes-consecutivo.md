@@ -3,7 +3,7 @@ title: Paraíba lidera crescimento do setor de serviços no Nordeste pelo segund
   consecutivo
 date: 2023-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

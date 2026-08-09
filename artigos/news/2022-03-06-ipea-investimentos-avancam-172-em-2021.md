@@ -2,7 +2,7 @@
 title: 'Ipea: Investimentos avançam 17,2% em 2021'
 date: 2022-03-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

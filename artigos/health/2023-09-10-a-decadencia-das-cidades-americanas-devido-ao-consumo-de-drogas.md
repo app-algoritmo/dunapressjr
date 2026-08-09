@@ -2,7 +2,7 @@
 title: A decadência das cidades americanas devido ao consumo de drogas
 date: 2023-09-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 - Policy

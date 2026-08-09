@@ -3,7 +3,7 @@ title: Instrução Normativa altera normas para concessão e extinção de regim
   aduaneiros
 date: 2020-05-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Conselho aprova plano de recuperação de reservatórios de hidrelétricas
 date: 2022-07-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

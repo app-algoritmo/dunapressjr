@@ -2,7 +2,7 @@
 title: 'Documentário: Comer bem, viver e viajar, Toscana a mais bela região da Itália'
 date: 2020-02-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Video library
 ---

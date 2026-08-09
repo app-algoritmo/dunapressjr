@@ -2,7 +2,7 @@
 title: Brasil se recupera mesmo com turbulência internacional, diz ministro
 date: 2022-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

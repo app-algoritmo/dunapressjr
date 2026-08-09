@@ -2,7 +2,7 @@
 title: Equador declara estado de emergência após assassinato de candidato presidencial
 date: 2023-08-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

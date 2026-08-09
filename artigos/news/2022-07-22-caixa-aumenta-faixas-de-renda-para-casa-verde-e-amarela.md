@@ -2,7 +2,7 @@
 title: Caixa aumenta faixas de renda para Casa Verde e Amarela
 date: 2022-07-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

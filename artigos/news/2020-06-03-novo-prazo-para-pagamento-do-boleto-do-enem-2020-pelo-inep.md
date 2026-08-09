@@ -2,7 +2,7 @@
 title: Novo prazo para pagamento do boleto do Enem 2020 pelo Inep
 date: 2020-06-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

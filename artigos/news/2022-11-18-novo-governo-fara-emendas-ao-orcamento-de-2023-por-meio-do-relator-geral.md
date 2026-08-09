@@ -2,7 +2,7 @@
 title: Novo governo fará emendas ao Orçamento de 2023 por meio do relator-geral
 date: 2022-11-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Bolsonaro: falta orçamento para repor perdas de estados e municípios'
 date: 2020-04-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

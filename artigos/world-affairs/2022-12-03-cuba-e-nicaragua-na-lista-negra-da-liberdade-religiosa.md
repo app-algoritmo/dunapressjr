@@ -2,7 +2,7 @@
 title: Cuba e Nicarágua na lista negra da liberdade religiosa
 date: 2022-12-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

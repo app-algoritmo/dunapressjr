@@ -2,7 +2,7 @@
 title: 'Minas Gerais em chamas e bombeiros preveem: vai piorar'
 date: 2019-08-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

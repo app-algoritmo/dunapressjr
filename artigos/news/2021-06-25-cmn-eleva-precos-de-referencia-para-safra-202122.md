@@ -2,7 +2,7 @@
 title: CMN eleva preços de referência para safra 2021/22
 date: 2021-06-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

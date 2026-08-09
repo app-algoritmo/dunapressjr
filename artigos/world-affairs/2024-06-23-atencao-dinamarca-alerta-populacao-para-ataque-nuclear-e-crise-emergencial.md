@@ -2,7 +2,7 @@
 title: 'Atenção: Dinamarca alerta população para ataque nuclear e crise emergencial'
 date: 2024-06-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: 7.01 Com o texto, é possível garantir recursos, a longo prazo, em área
   de interesse público
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

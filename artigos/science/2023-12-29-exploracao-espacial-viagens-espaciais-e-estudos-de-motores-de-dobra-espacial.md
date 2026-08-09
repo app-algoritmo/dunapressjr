@@ -2,7 +2,7 @@
 title: 'Exploração Espacial: Viagens Espaciais e Estudos de Motores de Dobra Espacial'
 date: 2023-12-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Science
 ---

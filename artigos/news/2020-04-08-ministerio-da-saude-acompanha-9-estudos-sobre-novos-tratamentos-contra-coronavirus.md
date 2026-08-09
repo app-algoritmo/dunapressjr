@@ -1,5 +1,5 @@
 ---
-title: Ministério da Saúde acompanha 9 estudos sobre  novos tratamentos contra coronavírus
+title: Ministério da Saúde acompanha 9 estudos sobre novos tratamentos contra coronavírus
 date: 2020-04-08
 status: publish
 author: Joice Ferreira

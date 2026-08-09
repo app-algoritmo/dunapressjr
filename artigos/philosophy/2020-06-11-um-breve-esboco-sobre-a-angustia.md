@@ -2,7 +2,7 @@
 title: Um Breve Esboço Sobre a Angústia
 date: 2020-06-11
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - Philosophy
 ---

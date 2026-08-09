@@ -2,7 +2,7 @@
 title: Rio vai propor adoção de tax free para turistas estrangeiros
 date: 2022-09-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

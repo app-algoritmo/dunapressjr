@@ -2,7 +2,7 @@
 title: BNDES tem lucro líquido de R$ 12,9 bi no primeiro trimestre de 2022
 date: 2022-05-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

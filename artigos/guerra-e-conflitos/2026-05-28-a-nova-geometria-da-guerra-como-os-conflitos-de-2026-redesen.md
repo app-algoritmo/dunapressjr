@@ -3,7 +3,7 @@ title: "A Nova Geometria da Guerra: Como os Conflitos de 2026 Redesenham as Fron
 subtitle: "Da Ucrânia ao Oriente Médio, passando pelo Mar do Sul da China, os teatros de operações militares contemporâneos revelam uma transformação estrutural na natureza dos conflitos armados — e os velhos manuais estratégicos já não são suficientes para compreendê-los"
 date: 2026-05-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - guerra-e-conflitos
 description: "Em maio de 2026, o mundo assiste a uma convergência inédita de conflitos armados que transcendem a lógica tradicional da guerra. Drones autônomos, desinformação sistematizada, proxies regionais e a fragmentação das alianças históricas configuram um cenário onde vencer no campo de batalha já não garante vitória estratégica. A Duna Press analisa as linhas de força que estão redesenhando a geopolítica global."

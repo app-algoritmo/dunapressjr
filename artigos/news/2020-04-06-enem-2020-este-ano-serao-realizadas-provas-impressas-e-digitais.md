@@ -1,5 +1,5 @@
 ---
-title: 'Enem 2020: Este ano serão realizadas  provas impressas e digitais'
+title: 'Enem 2020: Este ano serão realizadas provas impressas e digitais'
 date: 2020-04-06
 status: publish
 author: Joice Ferreira

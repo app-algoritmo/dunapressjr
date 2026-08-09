@@ -3,7 +3,7 @@ title: 4.01 Logomarca foi divulgada nas redes do presidente Jair Bolsonaro. Estr
   representou economia R$ 1,4 milhão com publicidade
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

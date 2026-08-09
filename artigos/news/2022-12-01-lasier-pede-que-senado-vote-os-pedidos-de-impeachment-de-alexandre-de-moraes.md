@@ -2,7 +2,7 @@
 title: Lasier pede que Senado vote os pedidos de impeachment de Alexandre de Moraes
 date: 2022-12-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

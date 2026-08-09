@@ -2,7 +2,7 @@
 title: Com nova revisão da balança comercial, exportações sobem US$ 6,4 bi
 date: 2019-12-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

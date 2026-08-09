@@ -2,7 +2,7 @@
 title: Monitor do PIB aponta crescimento de 1,5% no primeiro trimestre
 date: 2022-05-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

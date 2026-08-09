@@ -2,7 +2,7 @@
 title: Bolsa de Valores tem queda acentuada
 date: 2026-03-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

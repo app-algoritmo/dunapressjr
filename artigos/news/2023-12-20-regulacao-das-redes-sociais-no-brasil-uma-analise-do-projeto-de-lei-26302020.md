@@ -2,7 +2,7 @@
 title: 'Regulação das Redes Sociais no Brasil: Uma Análise do Projeto de Lei 2630/2020'
 date: 2023-12-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

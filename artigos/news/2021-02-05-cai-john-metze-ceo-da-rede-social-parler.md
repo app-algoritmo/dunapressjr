@@ -2,7 +2,7 @@
 title: Cai John Metze, CEO da rede social Parler
 date: 2021-02-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

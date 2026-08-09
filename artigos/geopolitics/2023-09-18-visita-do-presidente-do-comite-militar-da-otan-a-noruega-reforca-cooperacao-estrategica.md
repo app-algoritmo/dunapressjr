@@ -3,7 +3,7 @@ title: Visita do Presidente do Comité Militar da OTAN à Noruega reforça coope
   estratégica
 date: 2023-09-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - Military

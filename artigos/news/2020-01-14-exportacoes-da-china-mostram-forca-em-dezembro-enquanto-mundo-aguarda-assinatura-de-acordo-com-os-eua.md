@@ -3,7 +3,7 @@ title: Exportações da China mostram força em dezembro enquanto mundo aguarda 
   de acordo com os EUA
 date: 2020-01-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

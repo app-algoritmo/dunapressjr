@@ -2,7 +2,7 @@
 title: Aposentados e pensionistas terão décimo terceiro antecipado
 date: 2022-03-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

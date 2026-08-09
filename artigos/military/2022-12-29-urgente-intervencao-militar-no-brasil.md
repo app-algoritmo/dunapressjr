@@ -2,7 +2,7 @@
 title: 'Urgente: Intervenção militar no Brasil'
 date: 2022-12-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 - News

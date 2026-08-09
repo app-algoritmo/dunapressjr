@@ -2,7 +2,7 @@
 title: STF interfere a favor de diplomatas venezuelanos e investe contra governo Bolsonaro
 date: 2020-05-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

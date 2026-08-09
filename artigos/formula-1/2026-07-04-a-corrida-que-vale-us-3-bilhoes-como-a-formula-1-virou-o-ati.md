@@ -3,7 +3,7 @@ title: "A corrida que vale US$ 3 bilhões: como a Fórmula 1 virou o ativo geopo
 subtitle: "Com seis novos contratos de Grande Prêmio em negociação simultânea e países do Golfo, Ásia e América do Sul disputando calendário, a F1 deixou de ser esporte para se tornar instrumento de projeção de poder nacional."
 date: 2026-07-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - formula-1
 description: "A Fórmula 1 negocia simultaneamente contratos com seis países — incluindo Índia, África do Sul e Tailândia — enquanto o valor de uma sede de Grande Prêmio ultrapassou US$ 500 milhões. O que parece calendário esportivo é, na prática, disputa por soft power, infraestrutura e bilhões em turismo."

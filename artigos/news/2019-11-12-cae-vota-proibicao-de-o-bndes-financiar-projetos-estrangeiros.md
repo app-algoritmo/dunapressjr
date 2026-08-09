@@ -2,7 +2,7 @@
 title: CAE vota proibição de o BNDES financiar projetos estrangeiros
 date: 2019-11-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

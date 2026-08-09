@@ -3,7 +3,7 @@ title: 'Business Connections Brazil: Food e Beverage nesta segunda – Participa
   do Mapa'
 date: 2020-06-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

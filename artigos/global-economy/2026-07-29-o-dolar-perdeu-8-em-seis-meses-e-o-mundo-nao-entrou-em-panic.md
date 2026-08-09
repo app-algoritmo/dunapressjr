@@ -3,7 +3,7 @@ title: "O dólar perdeu 8% em seis meses e o mundo não entrou em pânico — is
 subtitle: "A desvalorização silenciosa da moeda americana em 2026 não é sinal de fraqueza americana, mas o primeiro capítulo de uma reconfiguração monetária que nenhum bloco econômico ainda sabe como terminar."
 date: 2026-07-29
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-economy
 description: "O dólar acumula queda de 8% frente a uma cesta de moedas entre janeiro e julho de 2026, mas mercados globais reagiram com estabilidade incomum — sinal de que o sistema monetário internacional está se reorganizando, não se desfazendo. Entender quem ganha, quem perde e onde o Brasil se posiciona nessa transição é a pergunta mais estratégica do segundo semestre."

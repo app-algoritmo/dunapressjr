@@ -3,7 +3,7 @@ title: Acervo do Mapa reúne curiosidades e memórias de celebridades que passar
   ministério
 date: 2020-07-28
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

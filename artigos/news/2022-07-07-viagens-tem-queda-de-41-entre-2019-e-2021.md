@@ -2,7 +2,7 @@
 title: Viagens têm queda de 41% entre 2019 e 2021
 date: 2022-07-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

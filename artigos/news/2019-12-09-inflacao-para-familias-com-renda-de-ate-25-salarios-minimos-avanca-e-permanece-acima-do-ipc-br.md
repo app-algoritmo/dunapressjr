@@ -3,7 +3,7 @@ title: Inflação para famílias com renda de até 2,5 salários mínimos avanç
   acima do IPC-BR
 date: 2019-12-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

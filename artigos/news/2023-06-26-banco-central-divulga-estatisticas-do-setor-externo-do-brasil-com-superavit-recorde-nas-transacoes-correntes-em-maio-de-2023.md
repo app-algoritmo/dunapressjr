@@ -3,7 +3,7 @@ title: Banco Central divulga estatísticas do setor externo do Brasil com super�
   recorde nas transações correntes em maio de 2023
 date: 2023-06-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

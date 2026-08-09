@@ -3,7 +3,7 @@ title: Para Chico Rodrigues, Brasil deve estreitar relações comerciais bilater
   com China
 date: 2019-10-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: "A Convergência Silenciosa: Como Inteligência Artificial e Biotecnologi
 subtitle: "Enquanto o debate público ainda se concentra em chatbots e automação de empregos, a fusão entre IA e ciências da vida avança em velocidade assimétrica — e suas implicações para governança, identidade e equidade global exigem atenção imediata"
 date: 2026-05-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - future-and-innovation
 description: "A intersecção entre inteligência artificial e biotecnologia representa muito mais do que um avanço científico: é uma ruptura civilizatória que está sendo conduzida, em grande parte, fora do alcance das instituições democráticas. Este artigo analisa os vetores dessa convergência, os atores que a lideram e os dilemas que ela impõe para sociedades que ainda não terminaram de processar a primeira onda da revolução digital."

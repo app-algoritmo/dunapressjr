@@ -2,7 +2,7 @@
 title: Empréstimo no Bolsa Família é retomado, mas com novas regras
 date: 2023-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

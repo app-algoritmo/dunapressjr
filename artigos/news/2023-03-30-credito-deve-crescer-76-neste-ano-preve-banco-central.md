@@ -2,7 +2,7 @@
 title: Crédito deve crescer 7,6% neste ano, prevê Banco Central
 date: 2023-03-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

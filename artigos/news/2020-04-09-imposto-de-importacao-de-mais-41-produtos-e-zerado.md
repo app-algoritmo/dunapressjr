@@ -2,7 +2,7 @@
 title: Imposto de Importação de mais 41 produtos é zerado
 date: 2020-04-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

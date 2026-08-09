@@ -2,7 +2,7 @@
 title: AEB estima queda na balança comercial no próximo ano
 date: 2022-12-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

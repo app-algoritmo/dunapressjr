@@ -2,7 +2,7 @@
 title: Vazamentos no PIX ocorrerão com alguma frequência, diz Campos Neto
 date: 2022-02-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

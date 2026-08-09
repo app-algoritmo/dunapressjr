@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 4,89 e bolsa tem maior alta em 6 meses
 date: 2023-11-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

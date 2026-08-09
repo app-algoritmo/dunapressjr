@@ -2,7 +2,7 @@
 title: Índice da Confiança da Construção cresce 3,5 pontos em setembro
 date: 2022-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

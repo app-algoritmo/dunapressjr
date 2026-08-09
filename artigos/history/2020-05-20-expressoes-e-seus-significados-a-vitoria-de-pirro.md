@@ -2,7 +2,7 @@
 title: 'Expressões e seus significados: A vitória de Pirro'
 date: 2020-05-20
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

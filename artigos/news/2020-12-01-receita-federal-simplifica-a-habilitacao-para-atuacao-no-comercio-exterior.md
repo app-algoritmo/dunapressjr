@@ -2,7 +2,7 @@
 title: Receita Federal simplifica a habilitação para atuação no comércio exterior
 date: 2020-12-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Acionistas das Americanas propõem aporte de R$ 7 bilhões
 date: 2026-03-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

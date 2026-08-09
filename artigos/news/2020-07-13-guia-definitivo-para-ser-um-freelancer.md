@@ -2,7 +2,7 @@
 title: Guia definitivo para ser um Freelancer
 date: 2020-07-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Gasolina subirá até R$ 0,34 e etanol, R$ 0,02 com reoneração parcial
 date: 2023-03-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

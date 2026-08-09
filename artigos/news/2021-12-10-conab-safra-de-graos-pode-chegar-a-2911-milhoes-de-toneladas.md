@@ -2,7 +2,7 @@
 title: 'Conab: safra de grãos pode chegar a 291,1 milhões de toneladas'
 date: 2021-12-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

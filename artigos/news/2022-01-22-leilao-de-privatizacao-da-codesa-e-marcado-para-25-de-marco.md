@@ -2,7 +2,7 @@
 title: Leilão de privatização da Codesa é marcado para 25 de março
 date: 2022-01-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

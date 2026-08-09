@@ -3,7 +3,7 @@ title: "Copa do Mundo de 2026 começa em 20 dias e ainda há 12 estádios sem li
 subtitle: "A maior Copa da história — 48 seleções, 3 países, US$ 11 bilhões em receita projetada — entra na reta final com gargalos logísticos que revelam a tensão entre o modelo de negócio da FIFA e a realidade das cidades-sede."
 date: 2026-06-06
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - soccer
 description: "Com abertura marcada para 26 de junho em Cidade do México, a Copa do Mundo de 2026 chega à véspera com pendências operacionais em estádios americanos e um modelo comercial inédito que distribui — e concentra — poder de formas ainda pouco discutidas. Entender o que está em jogo vai muito além do campo."

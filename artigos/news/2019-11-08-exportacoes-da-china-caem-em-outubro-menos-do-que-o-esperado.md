@@ -2,7 +2,7 @@
 title: Exportações da China caem em outubro menos do que o esperado
 date: 2019-11-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Noruega é o novo Fornecedor de Gás para Europa
 date: 2023-12-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

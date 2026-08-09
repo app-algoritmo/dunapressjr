@@ -2,7 +2,7 @@
 title: Tear de Jacquard
 date: 2019-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

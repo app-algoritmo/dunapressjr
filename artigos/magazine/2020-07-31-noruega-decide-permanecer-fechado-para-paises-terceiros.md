@@ -2,7 +2,7 @@
 title: Noruega decide permanecer fechado para países terceiros
 date: 2020-07-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

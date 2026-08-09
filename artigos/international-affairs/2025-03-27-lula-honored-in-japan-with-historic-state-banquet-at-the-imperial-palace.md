@@ -2,7 +2,7 @@
 title: Lula Honored in Japan with Historic State Banquet at the Imperial Palace
 date: 2025-03-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - International Affairs
 ---

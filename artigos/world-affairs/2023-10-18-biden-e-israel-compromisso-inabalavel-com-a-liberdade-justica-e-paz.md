@@ -2,7 +2,7 @@
 title: 'Biden e Israel: Compromisso Inabalável com a Liberdade, Justiça e Paz'
 date: 2023-10-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

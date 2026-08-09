@@ -2,7 +2,7 @@
 title: Ministério reduz para US$ 81,5 bilhões projeção de superávit comercial
 date: 2022-07-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

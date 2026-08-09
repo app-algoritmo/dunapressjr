@@ -3,7 +3,7 @@ title: "Por que o Brasil forma mais startups de impacto do que unicórnios — e
 subtitle: "Enquanto o Vale do Silício ainda persegue bilhões em valuation, um grupo crescente de fundadores brasileiros aposta que resolver problemas reais de baixa renda é o negócio mais sustentável da próxima década."
 date: 2026-07-07
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - innovation
 description: "O Brasil lidera na América Latina em número de startups voltadas a impacto socioambiental, com mais de 1.200 empresas mapeadas pela Pipe.Social em 2025 — e investidores globais estão começando a notar. Entender por que esse modelo pode superar a corrida por unicórnios é a aposta editorial desta semana."

@@ -3,7 +3,7 @@ title: 'Desafios na Harvard: Pressão sobre Presidente, Críticas ao Conselho e 
   em Cascata'
 date: 2023-12-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

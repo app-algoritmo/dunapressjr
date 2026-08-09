@@ -2,7 +2,7 @@
 title: 'Guedes: Banco do Brics transferirá US$ 3 bi a Brasil em até três meses'
 date: 2020-11-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

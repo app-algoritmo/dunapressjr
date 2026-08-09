@@ -2,7 +2,7 @@
 title: Ditadura do Brasil é destaque na plataforma norueguesa Document.no
 date: 2023-02-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

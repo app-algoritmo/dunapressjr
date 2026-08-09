@@ -2,7 +2,7 @@
 title: Brasil ampliou em 3% sua capacidade de armazenagem agrícola
 date: 2022-11-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

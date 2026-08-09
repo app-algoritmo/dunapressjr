@@ -2,7 +2,7 @@
 title: Conheça as Ordens Dinásticas da Casa Imperial do Brasil
 date: 2020-10-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Banco Central vê com preocupação piora das expectativas de inflação
 date: 2023-02-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

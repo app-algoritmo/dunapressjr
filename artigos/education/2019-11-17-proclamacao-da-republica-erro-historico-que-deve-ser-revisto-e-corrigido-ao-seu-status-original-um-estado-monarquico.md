@@ -3,7 +3,7 @@ title: Proclamação da República, erro histórico que deve ser revisto e corri
   seu status original, um Estado Monárquico
 date: 2019-11-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

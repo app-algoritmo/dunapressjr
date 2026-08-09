@@ -3,7 +3,7 @@ title: Presidente da CAE destaca papel fundamental na reforma tributária e ante
   pontos polêmicos
 date: 2023-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

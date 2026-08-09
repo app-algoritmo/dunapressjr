@@ -3,7 +3,7 @@ title: Reunido com militares de todo o país, Bolsonaro alertou sobre todas as f
   de ataques do patógeno
 date: 2020-03-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

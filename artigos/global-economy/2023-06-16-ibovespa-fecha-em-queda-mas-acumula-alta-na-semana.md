@@ -2,7 +2,7 @@
 title: Ibovespa fecha em queda, mas acumula alta na semana
 date: 2023-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

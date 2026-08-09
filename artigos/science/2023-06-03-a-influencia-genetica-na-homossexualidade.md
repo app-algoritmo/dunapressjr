@@ -2,7 +2,7 @@
 title: A Influência Genética na Homossexualidade
 date: 2023-06-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Science
 ---

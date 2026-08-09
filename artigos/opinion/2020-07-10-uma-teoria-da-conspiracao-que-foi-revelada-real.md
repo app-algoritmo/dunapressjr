@@ -2,7 +2,7 @@
 title: Uma teoria da conspiração que foi revelada real
 date: 2020-07-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Opinion
 ---

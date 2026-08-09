@@ -2,7 +2,7 @@
 title: Apesar da derrota para Espanha a Noruega segue na UEFA EURO
 date: 2019-03-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Sports

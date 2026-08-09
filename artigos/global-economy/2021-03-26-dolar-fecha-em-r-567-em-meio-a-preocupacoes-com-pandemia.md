@@ -2,7 +2,7 @@
 title: Dólar fecha em R$ 5,67 em meio a preocupações com pandemia
 date: 2021-03-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

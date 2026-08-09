@@ -2,7 +2,7 @@
 title: Atividade econômica tem alta de 3,32% em fevereiro, informa BC
 date: 2023-04-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

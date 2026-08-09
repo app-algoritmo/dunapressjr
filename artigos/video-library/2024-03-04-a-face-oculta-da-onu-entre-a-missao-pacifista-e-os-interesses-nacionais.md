@@ -2,7 +2,7 @@
 title: 'A face oculta da ONU: Entre a Missão Pacifista e os Interesses Nacionais'
 date: 2024-03-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Video library
 ---

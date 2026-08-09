@@ -3,7 +3,7 @@ title: "Quem domina o 'não' estratégico avança mais rápido do que quem domin
 subtitle: "Pesquisas em neurociência organizacional e dados de performance de executivos mostram que a capacidade de recusar tarefas e projetos é o diferencial silencioso de quem mais cresce nas organizações modernas."
 date: 2026-06-29
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - personal-development
 description: "Dizer 'não' com método é a habilidade mais subestimada da carreira profissional — e os dados de desempenho em empresas da Fortune 500 mostram que profissionais de alta performance recusam, em média, 3 vezes mais solicitações do que seus pares. Num mercado que celebra o 'sempre disponível', entender o paradoxo do recuo deliberado pode ser a virada mais concreta de 2026."

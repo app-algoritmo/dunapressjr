@@ -2,7 +2,7 @@
 title: Petrobras reajusta gás natural em 19% no domingo
 date: 2022-04-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar fecha praticamente estável após intervenção do Banco Central
 date: 2021-12-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

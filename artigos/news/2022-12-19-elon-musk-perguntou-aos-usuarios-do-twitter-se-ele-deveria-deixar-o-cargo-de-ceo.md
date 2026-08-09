@@ -3,7 +3,7 @@ title: Elon Musk perguntou aos usuários do Twitter se ele deveria deixar o carg
   CEO
 date: 2022-12-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

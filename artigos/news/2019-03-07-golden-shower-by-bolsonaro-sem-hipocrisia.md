@@ -2,7 +2,7 @@
 title: Golden Shower by Bolsonaro sem hipocrisia!
 date: 2019-03-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

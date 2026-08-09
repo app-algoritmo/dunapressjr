@@ -2,7 +2,7 @@
 title: 'Urgente: Lula será diplomado dia 12'
 date: 2022-11-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

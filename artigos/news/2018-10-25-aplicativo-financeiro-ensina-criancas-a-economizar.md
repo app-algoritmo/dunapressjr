@@ -2,7 +2,7 @@
 title: Aplicativo financeiro ensina crianças a economizar
 date: 2018-10-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

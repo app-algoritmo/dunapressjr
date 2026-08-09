@@ -2,7 +2,7 @@
 title: Capacitação para forças armadas anunciada pelo MEC – atuação nas escolas cívico-militares
 date: 2020-05-27
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

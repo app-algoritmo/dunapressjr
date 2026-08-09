@@ -2,7 +2,7 @@
 title: Governo anuncia desbloqueio adicional de R$7,3 bi no Orçamento
 date: 2019-10-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

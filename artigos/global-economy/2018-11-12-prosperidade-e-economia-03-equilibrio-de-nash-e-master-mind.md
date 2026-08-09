@@ -2,7 +2,7 @@
 title: Prosperidade e economia - 03 - Equilíbrio de Nash e Master Mind
 date: 2018-11-12
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Global Economy
 ---

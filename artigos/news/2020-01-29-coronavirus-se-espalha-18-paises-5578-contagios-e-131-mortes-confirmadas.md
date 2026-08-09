@@ -2,7 +2,7 @@
 title: Coronavírus se espalha, 18 países, 5.578 contágios e 131 mortes confirmadas
 date: 2020-01-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

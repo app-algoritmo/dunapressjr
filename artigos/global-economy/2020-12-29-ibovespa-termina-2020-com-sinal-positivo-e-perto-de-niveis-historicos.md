@@ -2,7 +2,7 @@
 title: Ibovespa termina 2020 com sinal positivo e perto de níveis históricos
 date: 2020-12-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

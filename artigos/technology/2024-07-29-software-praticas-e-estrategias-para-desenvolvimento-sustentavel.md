@@ -2,7 +2,7 @@
 title: 'Software: Práticas e Estratégias para Desenvolvimento Sustentável'
 date: 2024-07-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

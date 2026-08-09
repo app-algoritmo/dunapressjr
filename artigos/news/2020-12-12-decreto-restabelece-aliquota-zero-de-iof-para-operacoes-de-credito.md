@@ -2,7 +2,7 @@
 title: Decreto restabelece alíquota zero de IOF para operações de crédito
 date: 2020-12-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

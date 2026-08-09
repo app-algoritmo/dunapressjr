@@ -2,7 +2,7 @@
 title: Contas externas têm saldo positivo de US$ 1,684 bilhão em agosto
 date: 2021-09-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

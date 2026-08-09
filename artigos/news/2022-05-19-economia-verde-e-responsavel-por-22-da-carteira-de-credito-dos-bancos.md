@@ -2,7 +2,7 @@
 title: Economia verde é responsável por 22% da carteira de crédito dos bancos
 date: 2022-05-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

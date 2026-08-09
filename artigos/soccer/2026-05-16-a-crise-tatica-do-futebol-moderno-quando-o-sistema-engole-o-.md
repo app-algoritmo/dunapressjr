@@ -3,7 +3,7 @@ title: "A Crise Tática do Futebol Moderno: Quando o Sistema Engole o Talento"
 subtitle: "A obsessão por esquemas rígidos e métricas de desempenho está sufocando a criatividade individual e transformando o futebol numa equação sem alma"
 date: 2026-05-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - soccer
 description: "Uma análise aprofundada sobre como a hiperotimização tática no futebol contemporâneo está criando jogadores tecnicamente competentes, mas criativamente vazios, e o que isso significa para o futuro do esporte mais popular do planeta."

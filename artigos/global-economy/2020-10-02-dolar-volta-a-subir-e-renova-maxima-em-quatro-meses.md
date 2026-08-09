@@ -2,7 +2,7 @@
 title: Dólar volta a subir e renova máxima em quatro meses
 date: 2020-10-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

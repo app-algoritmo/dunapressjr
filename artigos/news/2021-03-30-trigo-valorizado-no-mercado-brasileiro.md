@@ -2,7 +2,7 @@
 title: Trigo valorizado no mercado brasileiro
 date: 2021-03-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

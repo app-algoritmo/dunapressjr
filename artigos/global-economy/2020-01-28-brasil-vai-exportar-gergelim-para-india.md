@@ -2,7 +2,7 @@
 title: Brasil vai exportar gergelim para Índia
 date: 2020-01-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

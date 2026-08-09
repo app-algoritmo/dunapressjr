@@ -2,7 +2,7 @@
 title: Congresso derruba vetos e retoma 18 itens sobre abuso de autoridade
 date: 2019-09-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

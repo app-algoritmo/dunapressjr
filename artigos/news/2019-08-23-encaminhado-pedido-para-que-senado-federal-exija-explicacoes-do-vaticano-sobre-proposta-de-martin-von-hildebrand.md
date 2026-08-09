@@ -3,7 +3,7 @@ title: Encaminhado pedido para que Senado Federal exija explicações do Vatican
   proposta de Martín Von Hildebrand
 date: 2019-08-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

@@ -3,7 +3,7 @@ title: Governo federal leiloará 1,1 mil quilômetros de rodovias no Paraná par
   privada
 date: 2023-05-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

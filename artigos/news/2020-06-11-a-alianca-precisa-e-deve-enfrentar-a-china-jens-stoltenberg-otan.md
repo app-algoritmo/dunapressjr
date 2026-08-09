@@ -2,7 +2,7 @@
 title: A aliança precisa e deve enfrentar a China!, Jens Stoltenberg - OTAN
 date: 2020-06-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

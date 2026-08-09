@@ -3,7 +3,7 @@ title: "A F1 tem 10 equipes, mas apenas 3 países controlam 78% do dinheiro que 
 subtitle: "A concentração de poder econômico e tecnológico na Fórmula 1 redesenha alianças, ameaça a paridade competitiva e levanta uma questão que o paddock prefere não responder em voz alta: quem, afinal, governa o esporte mais caro do mundo?"
 date: 2026-07-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - formula-1
 description: "Três países — Reino Unido, Estados Unidos e Itália — concentram a maior fatia da cadeia produtiva, dos investimentos e das decisões estratégicas da Fórmula 1 em 2026. Entender essa geometria de poder explica por que o regulamento técnico deste ano foi o mais disputado da história recente do esporte."

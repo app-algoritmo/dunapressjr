@@ -3,7 +3,7 @@ title: Presidente Lula se compromete a articular ajuda da Argentina com o Brics 
   o FMI
 date: 2023-05-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Geopolitics
 ---

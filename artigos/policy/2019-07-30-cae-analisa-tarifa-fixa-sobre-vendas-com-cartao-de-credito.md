@@ -2,7 +2,7 @@
 title: CAE analisa tarifa fixa sobre vendas com cartão de crédito
 date: 2019-07-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

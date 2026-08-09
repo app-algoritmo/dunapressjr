@@ -2,7 +2,7 @@
 title: 'Urgente: Brasil e UK vão desenvolver a vacina para a Covid-19'
 date: 2020-06-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Noruega, um Estado 'Não Laico', aberto a todas as religiões
 date: 2020-02-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

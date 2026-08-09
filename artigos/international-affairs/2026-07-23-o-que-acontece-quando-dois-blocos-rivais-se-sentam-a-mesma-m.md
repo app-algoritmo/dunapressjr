@@ -3,7 +3,7 @@ title: "O que acontece quando dois blocos rivais se sentam à mesma mesa — e n
 subtitle: "A cúpula informal entre representantes da OTAN e da Organização de Cooperação de Xangai, realizada em Genebra na semana passada, revelou menos sobre acordos e mais sobre a arquitetura de poder que vai definir a próxima década."
 date: 2026-07-23
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - international-affairs
 description: "Em julho de 2026, representantes da OTAN e da Organização de Cooperação de Xangai se reuniram informalmente em Genebra pela primeira vez em formato ampliado — sem pauta fechada, sem comunicado conjunto. O encontro não produziu acordos, mas revelou que a disputa pelo protagonismo global agora acontece nos corredores, não nos plenários."

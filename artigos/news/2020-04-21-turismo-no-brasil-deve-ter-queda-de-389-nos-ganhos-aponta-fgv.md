@@ -2,7 +2,7 @@
 title: Turismo no Brasil deve ter queda de 38,9% nos ganhos, aponta FGV
 date: 2020-04-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

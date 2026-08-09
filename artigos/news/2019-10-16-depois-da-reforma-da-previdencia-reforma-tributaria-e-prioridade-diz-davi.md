@@ -2,7 +2,7 @@
 title: Depois da reforma da Previdência, reforma tributária é prioridade, diz Davi
 date: 2019-10-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

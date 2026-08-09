@@ -2,7 +2,7 @@
 title: Confiança de serviços sobe 0,4 ponto em junho
 date: 2022-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

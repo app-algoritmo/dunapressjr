@@ -2,7 +2,7 @@
 title: Aneel aprova revisão tarifária que reduz tarifas de 10 distribuidoras
 date: 2022-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

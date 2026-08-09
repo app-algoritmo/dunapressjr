@@ -2,7 +2,7 @@
 title: País gerou 241.785 postos de trabalho formais em fevereiro
 date: 2023-03-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Secretário promete liberar verba para retomar emissão de passaportes
 date: 2022-11-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

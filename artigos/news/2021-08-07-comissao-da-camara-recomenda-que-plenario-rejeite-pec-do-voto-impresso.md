@@ -2,7 +2,7 @@
 title: Comissão da Câmara recomenda que plenário rejeite PEC do Voto Impresso
 date: 2021-08-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

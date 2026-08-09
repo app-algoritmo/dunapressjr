@@ -3,7 +3,7 @@ title: 'Evacuação de Cidadãos Americanos de Israel: Uma Resposta à Crescente
   na Região'
 date: 2023-10-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

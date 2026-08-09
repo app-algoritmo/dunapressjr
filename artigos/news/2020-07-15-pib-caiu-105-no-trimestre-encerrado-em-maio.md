@@ -2,7 +2,7 @@
 title: PIB caiu 10,5% no trimestre encerrado em maio
 date: 2020-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

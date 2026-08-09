@@ -2,7 +2,7 @@
 title: BC divulga passo a passo para sacar dinheiro esquecido
 date: 2022-03-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Coronavírus: Brasil em estado de alerta - transmissão ao vivo do minis
   da saúde'
 date: 2020-01-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

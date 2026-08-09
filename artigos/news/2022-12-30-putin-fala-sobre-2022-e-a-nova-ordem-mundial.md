@@ -2,7 +2,7 @@
 title: Putin fala sobre 2022 e a Nova Ordem Mundial
 date: 2022-12-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

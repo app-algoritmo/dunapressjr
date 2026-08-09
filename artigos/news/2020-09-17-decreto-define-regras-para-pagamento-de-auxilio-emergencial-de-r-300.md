@@ -2,7 +2,7 @@
 title: Decreto define regras para pagamento de auxílio emergencial de R$ 300
 date: 2020-09-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

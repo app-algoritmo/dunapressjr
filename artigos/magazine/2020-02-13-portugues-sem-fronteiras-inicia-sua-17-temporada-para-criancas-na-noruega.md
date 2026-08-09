@@ -2,7 +2,7 @@
 title: Português sem fronteiras inicia sua 17 temporada para crianças na Noruega
 date: 2020-02-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

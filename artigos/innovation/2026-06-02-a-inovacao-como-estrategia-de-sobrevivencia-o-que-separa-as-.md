@@ -3,7 +3,7 @@ title: "A Inovação Como Estratégia de Sobrevivência: O Que Separa as Empresa
 subtitle: "Em um cenário de transformação acelerada, inovar deixou de ser diferencial competitivo para se tornar condição básica de existência. Mas o que significa, de fato, inovar em 2026?"
 date: 2026-06-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - innovation
 description: "A inovação nunca foi tão urgente — nem tão mal compreendida. Este artigo analisa os padrões que distinguem organizações genuinamente inovadoras daquelas que apenas simulam transformação, e por que essa diferença determina quem sobreviverá à próxima década."

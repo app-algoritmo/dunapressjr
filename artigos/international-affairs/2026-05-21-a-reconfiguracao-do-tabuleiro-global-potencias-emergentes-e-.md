@@ -3,12 +3,12 @@ title: "A Reconfiguração do Tabuleiro Global: Potências Emergentes e o Fim da
 subtitle: "Com Washington em retração estratégica e Pequim consolidando alianças no Sul Global, o sistema internacional de 2026 exige uma leitura que vai além das categorias da Guerra Fria"
 date: 2026-05-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - international-affairs
 description: "A ordem internacional de 2026 não colapsa — ela se fragmenta. Entre a hesitação estratégica americana, a expansão silenciosa da influência chinesa e o protagonismo crescente de potências regionais como Índia, Turquia e Brasil, o mundo assiste ao nascimento de um sistema multipolar ainda sem regras definidas. Esta análise examina as forças que estão redesenhando o mapa do poder global."
 featuredImage: "https://images.unsplash.com/photo-1673296630925-a16a5592cc14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTA1ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkzNzcxNjR8&ixlib=rb-4.1.0&q=80&w=1080"
-photoAuthor: "Bernd 📷 Dittrich"
+photoAuthor: "Bernd Dittrich"
 photoAuthorUrl: "https://unsplash.com/@hdbernd"
 photoSource: "Unsplash"
 tags:

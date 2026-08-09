@@ -3,7 +3,7 @@ title: 'Rússia Lidera Iniciativa para Disruptar o Mercado de Cereais Global: O 
   da Bolsa dos BRICS'
 date: 2024-04-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

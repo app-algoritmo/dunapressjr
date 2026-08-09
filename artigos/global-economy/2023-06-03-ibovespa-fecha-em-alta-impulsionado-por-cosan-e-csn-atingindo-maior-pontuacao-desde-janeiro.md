@@ -3,7 +3,7 @@ title: Ibovespa fecha em alta impulsionado por Cosan e CSN, atingindo maior pont
   desde janeiro
 date: 2023-06-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

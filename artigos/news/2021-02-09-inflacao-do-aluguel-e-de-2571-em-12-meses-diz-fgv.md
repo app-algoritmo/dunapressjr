@@ -2,7 +2,7 @@
 title: Inflação do aluguel é de 25,71% em 12 meses, diz FGV
 date: 2021-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

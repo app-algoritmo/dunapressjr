@@ -2,7 +2,7 @@
 title: Em queda pela sexta sessão, dólar fecha em R$ 5,28
 date: 2020-05-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

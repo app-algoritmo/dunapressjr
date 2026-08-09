@@ -2,7 +2,7 @@
 title: Contas públicas fecham junho com déficit recorde de R$ 194,7 bilhões
 date: 2020-07-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

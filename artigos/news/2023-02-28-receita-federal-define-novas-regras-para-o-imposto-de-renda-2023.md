@@ -2,7 +2,7 @@
 title: Receita Federal define novas regras para o imposto de renda 2023
 date: 2023-02-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

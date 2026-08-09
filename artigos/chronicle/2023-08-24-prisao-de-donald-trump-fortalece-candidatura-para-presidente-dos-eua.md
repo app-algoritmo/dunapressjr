@@ -2,7 +2,7 @@
 title: Prisão de Donald Trump fortalece candidatura para presidente dos EUA
 date: 2023-08-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 ---

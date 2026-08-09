@@ -2,7 +2,7 @@
 title: Evento na Indonésia debate a monetização e gestão de ativos do Estado
 date: 2022-12-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

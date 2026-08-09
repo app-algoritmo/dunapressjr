@@ -3,7 +3,7 @@ title: "O clube vale mais parado do que jogando: como o futebol virou ativo fina
 subtitle: "Enquanto torcedores debatem escalações, fundos de investimento disputam fatias de clubes europeus e sul-americanos num mercado que movimentou US$ 4,7 bilhões em 2025 — e o Brasil ainda hesita em entrar nesse jogo."
 date: 2026-08-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - soccer
 description: "O futebol global vive uma transformação silenciosa: clubes deixaram de ser entidades esportivas para se tornar portfólios de ativos, e quem controla essa lógica não veste camisa. Para o Brasil, que aprovou a Lei das SAFs em 2021 e ainda tateia sua aplicação, a janela de oportunidade começa a se fechar."

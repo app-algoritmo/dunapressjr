@@ -2,7 +2,7 @@
 title: Prorrogado até 30 de junho adesão ao programa Tempo de Aprender do MEC
 date: 2020-06-02
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

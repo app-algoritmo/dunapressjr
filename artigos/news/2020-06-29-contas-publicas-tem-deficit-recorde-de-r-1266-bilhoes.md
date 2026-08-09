@@ -2,7 +2,7 @@
 title: Contas públicas têm déficit recorde de R$ 126,6 bilhões
 date: 2020-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

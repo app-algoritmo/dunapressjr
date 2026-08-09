@@ -2,7 +2,7 @@
 title: Renegociação de dívidas do Fies já pode ser feita em novo aplicativo
 date: 2022-09-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

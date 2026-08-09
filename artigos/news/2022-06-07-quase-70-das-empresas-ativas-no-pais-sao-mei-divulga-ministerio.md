@@ -2,7 +2,7 @@
 title: Quase 70% das empresas ativas no país são MEI, divulga ministério
 date: 2022-06-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

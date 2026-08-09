@@ -2,7 +2,7 @@
 title: 'USA: Tudo preparado para o show de Truman, o engodo coletivo'
 date: 2021-01-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

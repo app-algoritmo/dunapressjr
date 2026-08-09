@@ -2,7 +2,7 @@
 title: A história e arquitetura do Palácio Real de Oslo
 date: 2020-08-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

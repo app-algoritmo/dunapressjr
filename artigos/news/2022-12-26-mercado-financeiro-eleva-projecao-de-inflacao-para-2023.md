@@ -2,7 +2,7 @@
 title: Mercado financeiro eleva projeção de inflação para 2023
 date: 2022-12-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

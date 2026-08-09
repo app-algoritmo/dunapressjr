@@ -2,7 +2,7 @@
 title: Joe Biden alivia sanções da Venezuela e beneficia Maduro
 date: 2022-12-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dia do Jornalista
 date: 2018-04-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

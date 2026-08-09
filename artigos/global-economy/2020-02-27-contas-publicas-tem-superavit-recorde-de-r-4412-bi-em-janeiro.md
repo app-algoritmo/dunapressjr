@@ -2,7 +2,7 @@
 title: Contas públicas tem superávit recorde de R$ 44,12 bi em janeiro
 date: 2020-02-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

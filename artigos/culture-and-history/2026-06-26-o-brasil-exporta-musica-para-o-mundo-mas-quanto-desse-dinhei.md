@@ -3,7 +3,7 @@ title: "O Brasil exporta música para o mundo, mas quanto desse dinheiro volta p
 subtitle: "A economia criativa brasileira movimenta US$ 67 bilhões ao ano, mas a maior fatia do que é gerado digitalmente ainda fica em plataformas estrangeiras — e um novo marco regulatório pode mudar esse jogo."
 date: 2026-06-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - culture-and-history
 description: "O Brasil é o 10º maior mercado fonográfico do mundo e um dos maiores exportadores de ritmo do planeta, mas a cadeia econômica da música brasileira ainda repassa a maior parte de seus lucros digitais a intermediários com sede fora do país. Um projeto de lei em tramitação no Congresso desde março de 2026 tenta reequilibrar essa equação — e sua aprovação pode redesenhar quem lucra com o próximo hit global."

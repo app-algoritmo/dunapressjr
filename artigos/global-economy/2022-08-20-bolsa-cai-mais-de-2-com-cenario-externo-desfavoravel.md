@@ -2,7 +2,7 @@
 title: Bolsa cai mais de 2% com cenário externo desfavorável
 date: 2022-08-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

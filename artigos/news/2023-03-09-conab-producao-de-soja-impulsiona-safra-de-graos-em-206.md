@@ -2,7 +2,7 @@
 title: 'CONAB: Produção de soja impulsiona safra de grãos em 20,6%'
 date: 2023-03-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

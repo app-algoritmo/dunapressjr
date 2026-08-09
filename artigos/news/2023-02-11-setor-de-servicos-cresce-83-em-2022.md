@@ -2,7 +2,7 @@
 title: Setor de serviços cresce 8,3% em 2022
 date: 2023-02-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

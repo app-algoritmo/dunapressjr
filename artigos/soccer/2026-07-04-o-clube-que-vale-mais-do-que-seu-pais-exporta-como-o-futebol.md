@@ -3,7 +3,7 @@ title: "O clube que vale mais do que seu país exporta: como o futebol virou a n
 subtitle: "Com o Real Madrid avaliado em US$ 6,6 bilhões e receitas de franquias superando PIBs de nações inteiras, o futebol de 2026 é menos sobre bola e mais sobre capital, geopolítica e identidade à venda."
 date: 2026-07-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - soccer
 description: "O futebol global ultrapassou US$ 45 bilhões em receitas anuais em 2025, transformando clubes em ativos financeiros que rivalizam com empresas listadas em bolsa. Entender essa virada é entender quem, de fato, controla o esporte mais assistido do planeta — e o que isso significa para o Brasil, país que exporta talento mas importa a lógica do negócio."

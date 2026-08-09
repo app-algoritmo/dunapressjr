@@ -2,7 +2,7 @@
 title: Produção agrícola deve atingir 269,3 milhões de toneladas, diz Conab
 date: 2022-04-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

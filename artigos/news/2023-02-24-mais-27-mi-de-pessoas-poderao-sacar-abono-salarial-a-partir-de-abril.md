@@ -2,7 +2,7 @@
 title: Mais 2,7 mi de pessoas poderão sacar abono salarial a partir de abril
 date: 2023-02-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: <br>Os britânicos e o resto do mundo se despediram hoje da rainha Elizab
   II
 date: 2022-09-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

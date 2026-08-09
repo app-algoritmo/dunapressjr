@@ -2,7 +2,7 @@
 title: No Dia do Dentista Dr. Luis Gustavo Lintz comenta a importância da data
 date: 2018-10-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

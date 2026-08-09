@@ -2,7 +2,7 @@
 title: Bolsonaro chega ao Japão para giro por Asia e Oriente Médio
 date: 2019-10-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

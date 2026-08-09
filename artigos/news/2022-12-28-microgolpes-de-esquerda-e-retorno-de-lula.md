@@ -2,7 +2,7 @@
 title: Microgolpes de esquerda e retorno de Lula
 date: 2022-12-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

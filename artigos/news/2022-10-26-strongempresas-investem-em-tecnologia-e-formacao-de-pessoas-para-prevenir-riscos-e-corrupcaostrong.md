@@ -3,7 +3,7 @@ title: <strong>Empresas investem em tecnologia e formação de pessoas para prev
   riscos e corrupção</strong>
 date: 2022-10-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

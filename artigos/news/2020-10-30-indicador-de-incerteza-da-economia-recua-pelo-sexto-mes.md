@@ -2,7 +2,7 @@
 title: Indicador de incerteza da economia recua pelo sexto mês
 date: 2020-10-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: OMS falhou no mundo com a pandemia de COVID-19, senador Rick Scoth
 date: 2020-05-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

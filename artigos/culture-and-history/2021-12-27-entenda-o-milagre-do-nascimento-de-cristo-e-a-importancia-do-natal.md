@@ -2,7 +2,7 @@
 title: Entenda o milagre do nascimento de Cristo e a importância do Natal
 date: 2021-12-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Culture and History
 - Events

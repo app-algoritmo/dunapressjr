@@ -2,7 +2,7 @@
 title: Painéis solares transparentes com tecnologia que utiliza moléculas orgânicas
 date: 2019-11-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Julgados 875 processos do Proagro em 2020
 date: 2020-05-28
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Petrobras finaliza venda de três campos de petróleo na Bacia de Campos
 date: 2019-10-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

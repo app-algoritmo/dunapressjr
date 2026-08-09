@@ -2,7 +2,7 @@
 title: Visão de Robótica de IA de Elon Musk e Perspectiva de Investimento de Vettafi
 date: 2024-07-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

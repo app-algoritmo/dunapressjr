@@ -2,7 +2,7 @@
 title: Dólar sobe pela terceira sessão seguida e fecha a R$ 5,34
 date: 2021-01-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

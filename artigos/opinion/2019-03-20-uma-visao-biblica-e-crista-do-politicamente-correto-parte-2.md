@@ -2,7 +2,7 @@
 title: Uma visão bíblica e cristã do politicamente correto - parte 2
 date: 2019-03-20
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

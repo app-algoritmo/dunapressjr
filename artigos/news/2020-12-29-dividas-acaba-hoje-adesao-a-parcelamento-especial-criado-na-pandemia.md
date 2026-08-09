@@ -2,7 +2,7 @@
 title: 'Dívidas: acaba hoje adesão a parcelamento especial criado na pandemia'
 date: 2020-12-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

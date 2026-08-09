@@ -2,7 +2,7 @@
 title: 'CNC: Índice de Confiança do Empresário do Comércio tem queda de 3,6%'
 date: 2023-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

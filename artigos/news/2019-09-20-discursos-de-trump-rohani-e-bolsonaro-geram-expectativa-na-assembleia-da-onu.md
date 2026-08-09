@@ -2,7 +2,7 @@
 title: Discursos de Trump, Rohani e Bolsonaro geram expectativa na Assembleia da ONU
 date: 2019-09-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

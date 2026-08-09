@@ -2,7 +2,7 @@
 title: Atividade econômica tem alta de 0,05% em setembro
 date: 2022-11-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

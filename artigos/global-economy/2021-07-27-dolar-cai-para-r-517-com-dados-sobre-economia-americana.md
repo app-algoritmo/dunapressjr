@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,17 com dados sobre economia americana
 date: 2021-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

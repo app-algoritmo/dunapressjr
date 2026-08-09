@@ -2,7 +2,7 @@
 title: Fertilidade aumentada para mulheres com gene neandertal
 date: 2020-06-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

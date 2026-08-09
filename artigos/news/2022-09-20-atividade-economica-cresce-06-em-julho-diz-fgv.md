@@ -2,7 +2,7 @@
 title: Atividade econômica cresce 0,6% em julho, diz FGV
 date: 2022-09-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

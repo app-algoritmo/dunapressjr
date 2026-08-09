@@ -2,7 +2,7 @@
 title: Conferência Conservadora do Sul do Brasil Reúne Líderes Internacionais
 date: 2024-07-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

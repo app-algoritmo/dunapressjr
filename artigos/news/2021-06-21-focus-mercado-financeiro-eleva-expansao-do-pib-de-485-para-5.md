@@ -2,7 +2,7 @@
 title: 'Focus: mercado financeiro eleva expansão do PIB de 4,85% para 5%'
 date: 2021-06-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

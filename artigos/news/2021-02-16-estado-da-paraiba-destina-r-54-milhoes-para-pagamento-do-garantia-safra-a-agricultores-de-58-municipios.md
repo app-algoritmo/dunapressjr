@@ -3,7 +3,7 @@ title: Estado da Paraíba destina R$ 5,4 milhões para pagamento do Garantia-Saf
   agricultores de 58 municípios
 date: 2021-02-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

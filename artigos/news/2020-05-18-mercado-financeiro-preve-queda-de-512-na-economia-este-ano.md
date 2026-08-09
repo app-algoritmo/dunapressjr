@@ -2,7 +2,7 @@
 title: Mercado financeiro prevê queda de 5,12% na economia este ano
 date: 2020-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

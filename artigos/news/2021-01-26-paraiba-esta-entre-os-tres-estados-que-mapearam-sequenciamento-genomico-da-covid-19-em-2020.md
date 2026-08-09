@@ -3,7 +3,7 @@ title: Paraíba está entre os três estados que mapearam sequenciamento genômi
   Covid-19 em 2020
 date: 2021-01-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

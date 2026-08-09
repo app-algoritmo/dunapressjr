@@ -2,7 +2,7 @@
 title: Dólar cai para abaixo de R$ 5,40 com expectativa de vitória de Biden
 date: 2020-11-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

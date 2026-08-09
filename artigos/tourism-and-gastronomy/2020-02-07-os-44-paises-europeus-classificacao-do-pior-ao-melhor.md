@@ -2,7 +2,7 @@
 title: Os 44 Países europeus, classificação do pior ao melhor
 date: 2020-02-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Tourism and Gastronomy
 ---

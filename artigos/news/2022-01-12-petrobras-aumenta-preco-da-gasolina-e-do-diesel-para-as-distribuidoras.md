@@ -2,7 +2,7 @@
 title: Petrobras aumenta preço da gasolina e do diesel para as distribuidoras
 date: 2022-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

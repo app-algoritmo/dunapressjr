@@ -3,7 +3,7 @@ title: 'Paraíba: Prazo final de regularização de empresas do Simples Nacional
   até 21 de dezembro'
 date: 2021-12-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Programa de redução de salários preserva mais de 500 mil empregos
 date: 2021-05-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

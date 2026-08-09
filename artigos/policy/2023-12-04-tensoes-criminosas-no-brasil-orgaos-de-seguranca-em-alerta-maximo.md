@@ -2,7 +2,7 @@
 title: 'Tensões Criminosas no Brasil: Órgãos de Segurança em Alerta Máximo'
 date: 2023-12-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: MEC emite nota de esclarecimento sobre o ENEM 2020
 date: 2020-05-18
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Abertura de empresas cai 29,5% em abril, mostra Ministério da Economia
 date: 2020-06-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

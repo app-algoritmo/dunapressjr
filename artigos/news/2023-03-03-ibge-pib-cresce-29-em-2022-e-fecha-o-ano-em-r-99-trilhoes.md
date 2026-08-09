@@ -2,7 +2,7 @@
 title: 'IBGE: PIB cresce 2,9% em 2022 e fecha o ano em R$ 9,9 trilhões'
 date: 2023-03-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

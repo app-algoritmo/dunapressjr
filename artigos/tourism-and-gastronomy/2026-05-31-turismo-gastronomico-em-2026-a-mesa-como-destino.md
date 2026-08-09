@@ -3,7 +3,7 @@ title: "Turismo Gastronômico em 2026: A Mesa Como Destino"
 subtitle: "Quando o prato principal deixa de ser um complemento da viagem e passa a ser o próprio motivo de partir, o setor turístico global enfrenta uma reconfiguração profunda de seus modelos de negócio e experiência"
 date: 2026-05-31
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tourism-and-gastronomy
 description: "O turismo gastronômico consolidou-se em 2026 como um dos segmentos de maior crescimento no setor de viagens global. Viajantes de alta renda e de perfil cultural buscam cada vez mais destinos a partir da culinária local, transformando restaurantes, mercados e produtores rurais em atrativos primários. Esta análise examina as forças que moldam esse fenômeno, seus impactos econômicos e os desafios de sustentabilidade que emergem com ele."

@@ -3,7 +3,7 @@ title: Microempresas (ME) e Empresas de Pequeno Porte (EPP) podem acessar inform
   sobre a receita bruta
 date: 2020-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

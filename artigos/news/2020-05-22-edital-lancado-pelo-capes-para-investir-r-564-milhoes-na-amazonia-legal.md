@@ -2,7 +2,7 @@
 title: Edital lançado pelo Capes para investir R$ 56,4 milhões na Amazônia Legal
 date: 2020-05-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

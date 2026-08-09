@@ -3,7 +3,7 @@ title: Consumo aparente de bens industriais no Brasil registra queda de 2,5% em 
   Informa Ipea
 date: 2023-09-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

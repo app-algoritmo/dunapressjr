@@ -3,7 +3,7 @@ title: Ministro da Fazenda defende proposta de não punir autoridades por descum
   de metas fiscais e critica incentivos para custeio
 date: 2023-04-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

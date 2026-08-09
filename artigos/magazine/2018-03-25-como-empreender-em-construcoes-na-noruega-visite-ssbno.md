@@ -2,7 +2,7 @@
 title: 'Como empreender em construções na Noruega - visite: ssb.no'
 date: 2018-03-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

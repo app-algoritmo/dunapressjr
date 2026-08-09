@@ -2,7 +2,7 @@
 title: Dia da Batalha Final! Trump vs Harris
 date: 2024-11-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

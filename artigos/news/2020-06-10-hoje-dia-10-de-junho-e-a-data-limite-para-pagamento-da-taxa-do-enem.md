@@ -2,7 +2,7 @@
 title: Hoje, dia 10 de junho, é a data limite para pagamento da taxa do Enem
 date: 2020-06-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

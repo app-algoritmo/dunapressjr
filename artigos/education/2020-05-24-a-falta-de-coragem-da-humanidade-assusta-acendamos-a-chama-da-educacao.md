@@ -2,7 +2,7 @@
 title: A falta de coragem da humanidade assusta - Acendamos a chama da educação
 date: 2020-05-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Education
 ---

@@ -3,7 +3,7 @@ title: Paulo Guedes reitera na Espanha compromisso com a atração de investimen
   externos
 date: 2022-04-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

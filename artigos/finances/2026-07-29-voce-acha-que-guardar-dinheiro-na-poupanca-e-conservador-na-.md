@@ -3,7 +3,7 @@ title: "Você acha que guardar dinheiro na poupança é conservador — na verda
 subtitle: "Com a Selic a 10,5% ao ano e a inflação oficial acumulando 4,8% em 12 meses até junho de 2026, a poupança continua rendendo abaixo do necessário para preservar poder de compra — e a classe média brasileira ainda deposita R$ 1,06 trilhão nela."
 date: 2026-07-29
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - finances
 description: "A poupança ainda concentra mais de R$ 1 trilhão de brasileiros, mas seu rendimento real em 2026 é negativo na prática para quem paga IR sobre outros produtos — entender essa diferença pode mudar o destino do dinheiro de milhões de famílias. O momento é agora porque o ciclo de juros altos não vai durar para sempre, e sair da poupança com planejamento é diferente de sair com pressa."

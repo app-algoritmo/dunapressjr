@@ -2,7 +2,7 @@
 title: Vendas do varejo crescem 0,8% de dezembro para janeiro, diz IBGE
 date: 2022-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

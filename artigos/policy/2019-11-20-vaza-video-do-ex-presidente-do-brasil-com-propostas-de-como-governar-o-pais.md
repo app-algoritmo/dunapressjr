@@ -2,7 +2,7 @@
 title: Vaza vídeo do Ex Presidente do Brasil com propostas de como governar o país
 date: 2019-11-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

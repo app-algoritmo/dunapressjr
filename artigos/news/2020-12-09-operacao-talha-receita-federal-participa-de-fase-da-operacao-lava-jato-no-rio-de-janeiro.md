@@ -3,7 +3,7 @@ title: OPERAÇÃO “TALHA” – Receita Federal participa de fase da Operaçã
   no Rio de Janeiro
 date: 2020-12-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

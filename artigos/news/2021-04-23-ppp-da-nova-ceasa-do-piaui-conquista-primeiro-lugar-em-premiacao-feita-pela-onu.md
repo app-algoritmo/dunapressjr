@@ -3,7 +3,7 @@ title: PPP da Nova Ceasa do Piauí conquista primeiro lugar em premiação feita
   ONU
 date: 2021-04-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

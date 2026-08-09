@@ -1,5 +1,5 @@
 ---
-title: 'Coronavírus Israel: 150 mortos e 12.855 infecções,  2.967 recuperados'
+title: 'Coronavírus Israel: 150 mortos e 12.855 infecções, 2.967 recuperados'
 date: 2020-04-17
 status: publish
 author: Joice Ferreira

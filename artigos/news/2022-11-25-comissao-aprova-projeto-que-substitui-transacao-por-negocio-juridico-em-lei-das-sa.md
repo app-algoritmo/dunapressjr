@@ -3,7 +3,7 @@ title: Comissão aprova projeto que substitui ‘transação’ por ‘negócio 
   Lei das S/A
 date: 2022-11-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

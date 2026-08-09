@@ -2,7 +2,7 @@
 title: IPC-S da segunda quadrissemana de setembro de 2023 sobe 0,16%
 date: 2023-09-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

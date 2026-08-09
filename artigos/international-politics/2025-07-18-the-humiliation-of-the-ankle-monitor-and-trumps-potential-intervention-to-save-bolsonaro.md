@@ -3,7 +3,7 @@ title: The Humiliation of the Ankle Monitor and Trump’s Potential Intervention
   Save Bolsonaro
 date: 2025-07-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - International Politics
 ---

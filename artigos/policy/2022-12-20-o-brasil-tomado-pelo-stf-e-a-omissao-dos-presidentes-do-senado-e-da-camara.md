@@ -2,7 +2,7 @@
 title: O Brasil tomado pelo STF e a omissão dos presidentes do Senado e da Câmara
 date: 2022-12-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

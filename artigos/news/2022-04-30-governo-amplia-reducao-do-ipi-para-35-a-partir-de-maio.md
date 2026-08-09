@@ -2,7 +2,7 @@
 title: Governo amplia redução do IPI para 35% a partir de maio
 date: 2022-04-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

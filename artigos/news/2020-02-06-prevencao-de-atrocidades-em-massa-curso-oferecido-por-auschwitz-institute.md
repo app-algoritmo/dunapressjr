@@ -2,7 +2,7 @@
 title: Prevenção de atrocidades em massa, curso oferecido por Auschwitz Institute
 date: 2020-02-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

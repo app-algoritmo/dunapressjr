@@ -2,7 +2,7 @@
 title: Iniciado cronograma de reuniões de validação do Zarc pela Embrapa
 date: 2020-06-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

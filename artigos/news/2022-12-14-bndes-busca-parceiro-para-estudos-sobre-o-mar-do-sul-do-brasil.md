@@ -2,7 +2,7 @@
 title: BNDES busca parceiro para estudos sobre o mar do Sul do Brasil
 date: 2022-12-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

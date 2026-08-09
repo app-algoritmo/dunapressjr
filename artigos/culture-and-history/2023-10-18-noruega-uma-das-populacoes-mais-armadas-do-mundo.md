@@ -2,7 +2,7 @@
 title: 'Noruega: Uma das Populações Mais Armadas do Mundo'
 date: 2023-10-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Culture and History
 - Policy

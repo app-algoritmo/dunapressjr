@@ -2,7 +2,7 @@
 title: Celpe-Bras tem edital 2020 que define inscrições em agosto e aplicação em dezembro
 date: 2020-07-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

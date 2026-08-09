@@ -3,7 +3,7 @@ title: '15M20: O Brasil vai as ruas contra o pão e circo em apoio ao governo do
   Bolsonaro'
 date: 2020-02-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

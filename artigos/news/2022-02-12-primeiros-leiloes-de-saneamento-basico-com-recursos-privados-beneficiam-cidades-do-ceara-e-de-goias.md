@@ -3,7 +3,7 @@ title: Primeiros leilões de saneamento básico com recursos privados beneficiam
   do Ceará e de Goiás
 date: 2022-02-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

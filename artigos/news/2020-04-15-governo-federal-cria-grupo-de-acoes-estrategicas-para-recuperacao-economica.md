@@ -2,7 +2,7 @@
 title: Governo Federal cria grupo de ações estratégicas para recuperação econômica
 date: 2020-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

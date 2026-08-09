@@ -3,7 +3,7 @@ title: Palestinian Education - Teaching Peace or War? / Educação Palestina - E
   a paz ou a guerra?
 date: 2021-05-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Geopolitics

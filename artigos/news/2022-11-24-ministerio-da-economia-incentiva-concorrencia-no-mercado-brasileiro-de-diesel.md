@@ -2,7 +2,7 @@
 title: Ministério da Economia incentiva concorrência no mercado brasileiro de diesel
 date: 2022-11-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

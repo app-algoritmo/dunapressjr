@@ -2,7 +2,7 @@
 title: '1# O que é Filosofia: Uma breve introdução'
 date: 2020-05-17
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - Philosophy
 ---

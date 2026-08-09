@@ -2,7 +2,7 @@
 title: Produção de petróleo, em maio, é de 2,879 milhões de barris por dia
 date: 2022-07-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

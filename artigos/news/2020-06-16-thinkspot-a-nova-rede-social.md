@@ -2,7 +2,7 @@
 title: Thinkspot a nova rede social
 date: 2020-06-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Petrobras reduz em 8,1% o preço do gás natural nesta segunda-feira
 date: 2023-05-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

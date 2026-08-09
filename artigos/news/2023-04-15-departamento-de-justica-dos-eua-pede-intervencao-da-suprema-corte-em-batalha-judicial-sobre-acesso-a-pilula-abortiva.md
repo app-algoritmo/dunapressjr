@@ -3,7 +3,7 @@ title: Departamento de Justiça dos EUA pede intervenção da Suprema Corte em b
   judicial sobre acesso à pílula abortiva
 date: 2023-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

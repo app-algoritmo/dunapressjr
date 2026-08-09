@@ -3,7 +3,7 @@ title: INSS anuncia alterações nas regras previdenciárias por meio da Instru�
   PRES/INSS nº 151/2023
 date: 2023-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -1,8 +1,8 @@
 ---
-title: 'Covid-19, o vírus chinês de ameaça  pandêmica: recomendações e cuidados'
+title: 'Covid-19, o vírus chinês de ameaça pandêmica: recomendações e cuidados'
 date: 2020-01-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

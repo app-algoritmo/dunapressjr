@@ -2,7 +2,7 @@
 title: Geração de energia eólica no mar pode ser oportunidade para estaleiros
 date: 2022-11-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

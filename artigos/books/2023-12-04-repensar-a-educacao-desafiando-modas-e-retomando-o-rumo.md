@@ -2,7 +2,7 @@
 title: 'Repensar a Educação: Desafiando Modas e Retomando o Rumo'
 date: 2023-12-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 - Policy

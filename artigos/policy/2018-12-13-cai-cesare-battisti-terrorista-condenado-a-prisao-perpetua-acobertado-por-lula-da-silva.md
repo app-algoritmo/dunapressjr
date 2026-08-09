@@ -3,7 +3,7 @@ title: Cai Cesare Battisti, terrorista condenado à prisão perpétua acobertado
   Lula da Silva
 date: 2018-12-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

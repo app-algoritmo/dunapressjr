@@ -3,7 +3,7 @@ title: "O Brasil tem o maior território da América do Sul — então por que s
 subtitle: "Com o programa F-X2 finalmente avançando e a Embraer negociando transferência de tecnologia com a Saab, o país enfrenta uma escolha estratégica que vai muito além de comprar caças: define que tipo de potência regional quer ser até 2040."
 date: 2026-06-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - military
 description: "A Força Aérea Brasileira opera hoje com uma frota envelhecida enquanto o programa de modernização com os caças Gripen NG encontra novos obstáculos logísticos e orçamentários em 2026. O debate importa agora porque as decisões dos próximos 18 meses vão determinar a capacidade soberana do Brasil de proteger 8,5 milhões de km² de território — incluindo o pré-sal e o arco norte da Amazônia."

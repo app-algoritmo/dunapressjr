@@ -3,7 +3,7 @@ title: Sociedades limitadas de grande porte estão desobrigadas de publicar demo
   financeiras no DOU ou em jornais
 date: 2022-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

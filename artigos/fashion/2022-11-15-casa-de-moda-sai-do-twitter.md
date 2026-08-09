@@ -2,7 +2,7 @@
 title: Casa de moda sai do Twitter
 date: 2022-11-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Fashion
 - Features

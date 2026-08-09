@@ -3,7 +3,7 @@ title: 'O Grande Reset Atualizado: Você pode não ter ouvido falar de NGFS, mas
   tem um plano para você'
 date: 2021-02-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

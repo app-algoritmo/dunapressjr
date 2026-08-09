@@ -2,7 +2,7 @@
 title: Auxílio Gás será de R$ 112 em dezembro, informa Caixa
 date: 2022-12-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

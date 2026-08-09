@@ -2,7 +2,7 @@
 title: Lula abrirá as portas do Mercosul para Maduro voltar ao bloco
 date: 2022-12-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

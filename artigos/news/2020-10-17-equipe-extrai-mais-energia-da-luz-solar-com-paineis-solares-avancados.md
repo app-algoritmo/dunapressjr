@@ -2,7 +2,7 @@
 title: Equipe extrai mais energia da luz solar com painéis solares avançados
 date: 2020-10-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

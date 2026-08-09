@@ -3,7 +3,7 @@ title: Registrados pelo Mapa 38 defensivos agrícolas genéricos, incluindo prod
   biológicos
 date: 2020-07-31
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

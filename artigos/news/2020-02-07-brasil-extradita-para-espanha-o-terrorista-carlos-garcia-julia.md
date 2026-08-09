@@ -2,7 +2,7 @@
 title: Brasil extradita para Espanha, o terrorista Carlos García Juliá
 date: 2020-02-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

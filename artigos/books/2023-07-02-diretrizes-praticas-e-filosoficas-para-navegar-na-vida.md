@@ -2,7 +2,7 @@
 title: Diretrizes práticas e filosóficas para navegar na vida
 date: 2023-07-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

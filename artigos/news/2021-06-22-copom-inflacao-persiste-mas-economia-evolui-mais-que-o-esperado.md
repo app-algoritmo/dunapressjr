@@ -2,7 +2,7 @@
 title: 'Copom: Inflação persiste, mas economia evolui mais que o esperado'
 date: 2021-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

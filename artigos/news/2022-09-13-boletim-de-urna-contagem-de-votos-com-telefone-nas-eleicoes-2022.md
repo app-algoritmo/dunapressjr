@@ -2,7 +2,7 @@
 title: 'Boletim de urna: Contagem de votos com telefone nas eleições 2022'
 date: 2022-09-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

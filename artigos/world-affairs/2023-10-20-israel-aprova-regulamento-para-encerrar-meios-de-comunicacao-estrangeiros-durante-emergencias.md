@@ -3,7 +3,7 @@ title: Israel Aprova Regulamento para Encerrar Meios de Comunicação Estrangeir
   Emergências
 date: 2023-10-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

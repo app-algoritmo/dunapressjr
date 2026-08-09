@@ -2,7 +2,7 @@
 title: Concurso de Dissertações e Teses sobre Defesa Nacional
 date: 2020-06-17
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

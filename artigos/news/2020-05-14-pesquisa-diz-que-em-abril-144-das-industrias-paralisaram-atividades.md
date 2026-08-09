@@ -2,7 +2,7 @@
 title: Pesquisa diz que em abril 14,4% das indústrias paralisaram atividades
 date: 2020-05-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

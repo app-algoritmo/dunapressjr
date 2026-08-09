@@ -2,7 +2,7 @@
 title: Defesa da Noruega alerta que atividade russa está se aproximando
 date: 2020-03-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

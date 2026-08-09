@@ -3,7 +3,7 @@ title: "Soja a R$ 142 a saca e tecnologia embarcada: o campo brasileiro redescob
 subtitle: "Com preços pressionados e custo de produção ainda elevado, produtores rurais apostam em precisão digital e agricultura regenerativa para recuperar margens — e o modelo começa a mostrar resultados concretos."
 date: 2026-06-14
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - agriculture
 description: "A soja brasileira fechou a semana cotada a R$ 142 a saca em Mato Grosso, enquanto o custo médio de produção por hectare segue acima de R$ 6.800 — a equação pressionada está forçando uma virada tecnológica e regenerativa no campo que pode redesenhar a agricultura nacional. O momento é decisivo: quem adaptar o modelo agora herda vantagem competitiva na janela 2026-2030."

@@ -2,7 +2,7 @@
 title: Petrobras reajusta preços da gasolina e diesel para as distribuidoras
 date: 2022-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

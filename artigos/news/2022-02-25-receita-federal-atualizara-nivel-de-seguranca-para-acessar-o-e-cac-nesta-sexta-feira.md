@@ -2,7 +2,7 @@
 title: Receita Federal atualizará nível de segurança para acessar o e-CAC nesta sexta-feira
 date: 2022-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

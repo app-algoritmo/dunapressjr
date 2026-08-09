@@ -3,7 +3,7 @@ title: Após acusações de pedofilia, policiais de Delaware encaminham caso de 
   de Hunter Biden ao FBI
 date: 2020-10-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

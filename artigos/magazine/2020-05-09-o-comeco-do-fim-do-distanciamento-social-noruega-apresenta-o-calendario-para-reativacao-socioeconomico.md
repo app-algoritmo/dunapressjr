@@ -3,7 +3,7 @@ title: O começo do fim do distanciamento social, Noruega apresenta o calendári
   reativação socioeconômico
 date: 2020-05-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

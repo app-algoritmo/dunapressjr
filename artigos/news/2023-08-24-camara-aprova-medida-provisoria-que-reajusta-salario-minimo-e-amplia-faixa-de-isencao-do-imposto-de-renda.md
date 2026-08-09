@@ -3,7 +3,7 @@ title: Câmara aprova medida provisória que reajusta salário mínimo e amplia 
   de isenção do imposto de renda
 date: 2023-08-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

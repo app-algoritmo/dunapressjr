@@ -2,7 +2,7 @@
 title: Indicadores da indústria de transformação apontam perda de dinamismo
 date: 2023-10-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

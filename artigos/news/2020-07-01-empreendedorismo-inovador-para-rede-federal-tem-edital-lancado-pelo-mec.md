@@ -2,7 +2,7 @@
 title: Empreendedorismo inovador para rede Federal tem edital lançado pelo MEC
 date: 2020-07-01
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

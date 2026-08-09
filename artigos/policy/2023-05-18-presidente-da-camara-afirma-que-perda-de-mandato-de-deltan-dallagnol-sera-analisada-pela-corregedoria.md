@@ -3,7 +3,7 @@ title: Presidente da Câmara afirma que perda de mandato de Deltan Dallagnol ser
   pela Corregedoria
 date: 2023-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

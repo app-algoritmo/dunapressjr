@@ -2,7 +2,7 @@
 title: Caixa suspende operações consignadas no Auxílio Brasil
 date: 2022-10-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: '<strong>Bolsonaro não desiste: o plano seria enfrentar Lula com um ''ga
   paralelo''</strong>'
 date: 2022-11-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

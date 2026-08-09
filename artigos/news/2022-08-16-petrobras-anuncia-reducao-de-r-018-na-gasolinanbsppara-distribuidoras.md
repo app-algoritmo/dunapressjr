@@ -2,7 +2,7 @@
 title: Petrobras anuncia redução de R$ 0,18 na gasolina&nbsp;para distribuidoras
 date: 2022-08-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

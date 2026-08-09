@@ -2,7 +2,7 @@
 title: Receita adia o prazo de entrega da Declaração de Imposto de Renda
 date: 2021-04-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

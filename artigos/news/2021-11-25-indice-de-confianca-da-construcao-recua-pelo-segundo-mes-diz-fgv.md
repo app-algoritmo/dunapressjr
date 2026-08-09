@@ -2,7 +2,7 @@
 title: Índice de Confiança da Construção recua pelo segundo mês, diz FGV
 date: 2021-11-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

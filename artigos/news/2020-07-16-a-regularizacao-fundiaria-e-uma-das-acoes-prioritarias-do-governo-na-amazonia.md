@@ -2,7 +2,7 @@
 title: A regularização fundiária é uma das ações prioritárias do governo na Amazônia
 date: 2020-07-16
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

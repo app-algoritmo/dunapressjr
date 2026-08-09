@@ -2,7 +2,7 @@
 title: Europa aponta para Argélia em busca de gás extra mesmo com vazamento catastrófico
 date: 2022-07-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

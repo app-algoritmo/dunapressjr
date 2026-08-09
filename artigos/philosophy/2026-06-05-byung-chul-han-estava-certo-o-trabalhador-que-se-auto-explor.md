@@ -3,7 +3,7 @@ title: "Byung-Chul Han estava certo: o trabalhador que se auto-explora é o maio
 subtitle: "O filósofo coreano-alemão, cujo livro 'Sociedade do Cansaço' completa 15 anos em 2025, antecipou com precisão cirúrgica o esgotamento que hoje paralisa gerações inteiras — e a questão não é mais se ele acertou, mas o que fazemos com isso."
 date: 2026-06-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - philosophy
 description: "Byung-Chul Han descreveu em 2010 um sujeito que não precisa de opressor porque se oprime sozinho — e em 2026, com burnout afetando 23% da força de trabalho brasileira segundo dados da FGV, a teoria virou diagnóstico clínico. Entender por que o filósofo acertou é o primeiro passo para sair da armadilha."

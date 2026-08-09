@@ -2,7 +2,7 @@
 title: Bolsa fecha acima dos 104 mil pontos pela primeira vez desde março
 date: 2020-07-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

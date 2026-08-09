@@ -3,7 +3,7 @@ title: 21 militares sauditas expulsos dos EUA por compartilharem conteúdo jihad
   e pedófilo
 date: 2020-01-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

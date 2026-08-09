@@ -1,5 +1,5 @@
 ---
-title: Premiada Cientista  brasileira, defende que a matemática deve ser estimulada
+title: Premiada Cientista brasileira, defende que a matemática deve ser estimulada
   entre mulheres desde cedo
 date: 2020-04-19
 status: publish

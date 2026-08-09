@@ -2,7 +2,7 @@
 title: Massa salarial aumenta 0,3%, mas salário médio recua 2,6%
 date: 2023-06-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

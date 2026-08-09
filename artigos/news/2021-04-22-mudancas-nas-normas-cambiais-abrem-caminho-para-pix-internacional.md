@@ -2,7 +2,7 @@
 title: Mudanças nas normas cambiais abrem caminho para Pix internacional
 date: 2021-04-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Pagamento do abono salarial de 2020 é adiado para 2022
 date: 2021-03-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

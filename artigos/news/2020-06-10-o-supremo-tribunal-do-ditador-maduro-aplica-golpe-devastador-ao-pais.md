@@ -2,7 +2,7 @@
 title: O Supremo Tribunal do ditador Maduro aplica golpe devastador ao país
 date: 2020-06-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

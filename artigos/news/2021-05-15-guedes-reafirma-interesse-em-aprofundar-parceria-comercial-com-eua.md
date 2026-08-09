@@ -2,7 +2,7 @@
 title: Guedes reafirma interesse em aprofundar parceria comercial com EUA
 date: 2021-05-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

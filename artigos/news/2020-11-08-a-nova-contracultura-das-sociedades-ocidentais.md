@@ -2,7 +2,7 @@
 title: A nova contracultura das sociedades ocidentais
 date: 2020-11-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

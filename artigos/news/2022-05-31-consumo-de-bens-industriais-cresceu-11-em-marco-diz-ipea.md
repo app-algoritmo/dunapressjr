@@ -2,7 +2,7 @@
 title: Consumo de bens industriais cresceu 1,1% em março, diz Ipea
 date: 2022-05-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

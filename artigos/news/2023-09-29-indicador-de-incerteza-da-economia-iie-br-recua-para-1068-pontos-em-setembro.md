@@ -2,7 +2,7 @@
 title: Indicador de Incerteza da Economia (IIE-Br) recua para 106,8 pontos em setembro
 date: 2023-09-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

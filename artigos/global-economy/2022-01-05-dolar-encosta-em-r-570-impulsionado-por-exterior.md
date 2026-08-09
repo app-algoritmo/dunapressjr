@@ -2,7 +2,7 @@
 title: Dólar encosta em R$ 5,70, impulsionado por exterior
 date: 2022-01-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

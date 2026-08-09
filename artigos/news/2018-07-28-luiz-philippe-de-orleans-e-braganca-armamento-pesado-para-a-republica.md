@@ -2,7 +2,7 @@
 title: Luiz Philippe de Orleans e Bragança - Armamento pesado para a república
 date: 2018-07-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

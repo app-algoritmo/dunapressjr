@@ -3,7 +3,7 @@ title: Até 24 de julho para Instituições de educação superior se manifestar
   classificação de cursos
 date: 2020-07-13
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

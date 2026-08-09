@@ -2,7 +2,7 @@
 title: Inflação dos aluguéis fica em 3,23% em outubro, diz FGV
 date: 2020-10-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

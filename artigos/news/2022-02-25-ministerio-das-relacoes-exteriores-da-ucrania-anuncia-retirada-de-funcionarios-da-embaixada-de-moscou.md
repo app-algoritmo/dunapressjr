@@ -3,7 +3,7 @@ title: Ministério das Relações Exteriores da Ucrânia anuncia retirada de fun
   da embaixada de Moscou
 date: 2022-02-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Story

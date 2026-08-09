@@ -3,7 +3,7 @@ title: Instituto Federal de Pernambuco confeccionará 10 mil máscaras e capacit
   profissionais
 date: 2020-05-27
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

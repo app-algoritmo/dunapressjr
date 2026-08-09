@@ -2,7 +2,7 @@
 title: A história da filosofia
 date: 2023-02-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - History and Philosophy
 ---

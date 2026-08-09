@@ -2,7 +2,7 @@
 title: 'São Paulo: O mundo paralelo dos governadores'
 date: 2020-05-22
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - Opinion
 ---

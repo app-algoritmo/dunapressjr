@@ -3,7 +3,7 @@ title: "Você acha que decidiu por conta própria — a neurociência diz que n�
 subtitle: "Pesquisas recentes sobre autonomia percebida revelam que a maioria das escolhas cotidianas é moldada por estruturas invisíveis antes de chegar à consciência — e entender esse mecanismo muda a forma como líderes, consumidores e cidadãos se posicionam."
 date: 2026-06-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - psicologia
 description: "A sensação de livre-arbítrio é real, mas a ciência mostra que até 95% das decisões cotidianas são processadas antes da consciência entrar em cena — e quem projeta ambientes, plataformas e organizações já sabe disso. Compreender essa assimetria é o primeiro passo para recuperar alguma agência real sobre a própria vida."

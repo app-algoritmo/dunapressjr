@@ -2,7 +2,7 @@
 title: Estimativa para inflação sobe para 3,84% este ano
 date: 2019-12-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

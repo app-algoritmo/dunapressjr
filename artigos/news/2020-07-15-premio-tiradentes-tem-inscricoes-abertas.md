@@ -2,7 +2,7 @@
 title: Prêmio Tiradentes tem inscrições abertas
 date: 2020-07-15
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

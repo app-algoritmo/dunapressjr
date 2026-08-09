@@ -3,7 +3,7 @@ title: Presidente do Banco Central prevê inflação negativa em junho e melhora
   semestre
 date: 2023-06-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

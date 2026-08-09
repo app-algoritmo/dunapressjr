@@ -3,7 +3,7 @@ title: "Por que o empreendedor brasileiro capta menos com mais empresa do que um
 subtitle: "A distância entre criar um negócio no Brasil e acessar capital real revela um ecossistema que amadureceu na superfície, mas ainda tropeça nas fundações — e alguns fundadores estão encontrando atalhos inesperados."
 date: 2026-07-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - entrepreneurship
 description: "O Brasil tem mais de 21 milhões de empresas ativas e um ecossistema de venture capital que movimentou R$ 8,4 bilhões em 2024 — mas a maior parte desse dinheiro vai para menos de 200 startups por ano. Entender por que essa concentração persiste, e quem está quebrando essa lógica, é a questão mais urgente do empreendedorismo nacional em 2026."

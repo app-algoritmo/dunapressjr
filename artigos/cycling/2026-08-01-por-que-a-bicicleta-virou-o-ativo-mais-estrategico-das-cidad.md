@@ -3,7 +3,7 @@ title: "Por que a bicicleta virou o ativo mais estratégico das cidades que quer
 subtitle: "Do Tour de France às ciclovias de São Paulo, o ciclismo atravessa em 2026 uma inflexão rara: deixou de ser nicho esportivo para se tornar variável central de mobilidade, saúde pública e geopolítica urbana."
 date: 2026-08-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - cycling
 description: "Em 2026, o ciclismo profissional e o urbano convergem como nunca antes: cidades investem bilhões em infraestrutura e as grandes voltas europeias batem recordes de audiência global. Entender essa fusão é entender onde as próximas décadas vão apostar em movimento, saúde e economia."

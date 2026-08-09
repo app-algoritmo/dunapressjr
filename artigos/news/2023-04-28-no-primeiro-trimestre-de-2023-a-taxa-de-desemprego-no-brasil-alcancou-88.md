@@ -2,7 +2,7 @@
 title: No primeiro trimestre de 2023, a taxa de desemprego no Brasil alcançou 8,8%
 date: 2023-04-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

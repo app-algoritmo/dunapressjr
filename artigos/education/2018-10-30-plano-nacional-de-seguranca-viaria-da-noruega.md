@@ -2,7 +2,7 @@
 title: Plano Nacional de Segurança Viária da Noruega
 date: 2018-10-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

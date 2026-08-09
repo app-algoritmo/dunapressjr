@@ -2,7 +2,7 @@
 title: AS SOMBRAS DA BARBÁRIE IDEOLÓGICA NO CONTINENTE EUROPEU
 date: 2019-05-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

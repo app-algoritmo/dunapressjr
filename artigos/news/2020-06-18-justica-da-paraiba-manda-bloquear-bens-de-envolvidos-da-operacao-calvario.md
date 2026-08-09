@@ -2,7 +2,7 @@
 title: Justiça da Paraíba manda bloquear bens de envolvidos da Operação Calvário
 date: 2020-06-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: A violência institucional contra a criança
 date: 2023-05-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Policy

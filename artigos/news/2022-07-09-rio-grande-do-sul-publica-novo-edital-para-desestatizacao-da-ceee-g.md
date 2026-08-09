@@ -2,7 +2,7 @@
 title: Rio Grande do Sul publica novo edital para desestatização da CEEE-G
 date: 2022-07-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

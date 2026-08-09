@@ -2,7 +2,7 @@
 title: Entrevista de Tucker Carlson a Vladimir Putin. DUBLAGEM em português
 date: 2024-02-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

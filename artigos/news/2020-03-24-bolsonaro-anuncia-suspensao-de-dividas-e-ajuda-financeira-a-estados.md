@@ -2,7 +2,7 @@
 title: Bolsonaro anuncia suspensão de dívidas e ajuda financeira a estados
 date: 2020-03-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

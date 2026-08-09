@@ -3,7 +3,7 @@ title: 2.01 Presidente da República participou de cerimônia de transferência 
   de Ministro da Defesa
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Câmara dos Deputados aprova regime de urgência para substituir o teto de gastos
 date: 2023-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

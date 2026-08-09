@@ -2,7 +2,7 @@
 title: Kim Kataguiri expõe estratégia petista de ataque ao governo Bolsonaro
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

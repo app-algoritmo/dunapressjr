@@ -2,7 +2,7 @@
 title: Campanha nacional de amamentação reforça importância da rede de apoio
 date: 2019-08-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 ---

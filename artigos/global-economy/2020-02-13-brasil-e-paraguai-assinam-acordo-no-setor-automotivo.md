@@ -2,7 +2,7 @@
 title: Brasil e Paraguai assinam acordo no setor automotivo
 date: 2020-02-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

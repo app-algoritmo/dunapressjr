@@ -3,7 +3,7 @@ title: Receita Federal prorroga o início de obrigatoriedade dos eventos da EFD-
   referentes às retenções de IRPF, CSLL, PIS e Cofins
 date: 2023-03-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

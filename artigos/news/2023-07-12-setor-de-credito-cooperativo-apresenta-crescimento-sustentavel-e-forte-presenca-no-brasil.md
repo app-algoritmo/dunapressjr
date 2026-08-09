@@ -3,7 +3,7 @@ title: Setor de crédito cooperativo apresenta crescimento sustentável e forte 
   no Brasil
 date: 2023-07-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

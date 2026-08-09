@@ -2,7 +2,7 @@
 title: Parar o comunismo chinês é prioridade para os republicanos no Congresso americano
 date: 2023-01-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

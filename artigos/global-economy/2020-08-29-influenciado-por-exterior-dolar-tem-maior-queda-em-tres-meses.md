@@ -2,7 +2,7 @@
 title: Influenciado por exterior, dólar tem maior queda em três meses
 date: 2020-08-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

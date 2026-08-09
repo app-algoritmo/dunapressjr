@@ -2,7 +2,7 @@
 title: Ibovespa fecha em leve alta sustentado pela vale
 date: 2023-11-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

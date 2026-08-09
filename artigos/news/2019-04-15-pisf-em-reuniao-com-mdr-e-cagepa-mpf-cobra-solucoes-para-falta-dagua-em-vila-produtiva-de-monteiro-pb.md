@@ -3,7 +3,7 @@ title: 'Pisf: em reunião com MDR e Cagepa, MPF cobra soluções para falta d''�
   vila produtiva de Monteiro (PB)'
 date: 2019-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

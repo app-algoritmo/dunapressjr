@@ -2,7 +2,7 @@
 title: 'Israel em Alerta: Mísseis Balísticos do Irã Disparam Sirenes em Todo o País'
 date: 2024-04-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

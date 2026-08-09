@@ -3,7 +3,7 @@ title: Atingindo as expectativas em 10 milhões de empregos, o retorno do mercad
   trabalho começou
 date: 2020-06-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

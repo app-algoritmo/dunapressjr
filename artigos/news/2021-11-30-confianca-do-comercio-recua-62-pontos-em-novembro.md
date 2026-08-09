@@ -2,7 +2,7 @@
 title: Confiança do comércio recua 6,2 pontos em novembro
 date: 2021-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

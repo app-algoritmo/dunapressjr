@@ -2,7 +2,7 @@
 title: Dólar aproxima-se de R$ 5,70 e fecha no maior nível em cinco meses
 date: 2020-10-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

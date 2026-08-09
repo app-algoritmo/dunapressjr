@@ -3,7 +3,7 @@ title: "Mil dias de guerra na Ucrânia: o que os mapas escondem sobre quem está
 subtitle: "Com a linha de frente praticamente congelada há seis meses e a Rússia avançando menos de 200 km² por semana, a guerra de atrito revela uma lógica econômica e demográfica que os boletins militares raramente mostram."
 date: 2026-08-06
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - guerra-e-conflitos
 description: "A guerra na Ucrânia completa mais de mil dias com avanços territoriais russos inferiores a 200 km² semanais e custos que já consomem 7% do PIB de Moscou. Entender quem está vencendo exige olhar além dos mapas — e o cenário é mais ambíguo do que qualquer lado admite."

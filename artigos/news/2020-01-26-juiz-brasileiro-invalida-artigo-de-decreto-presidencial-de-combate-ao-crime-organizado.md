@@ -3,7 +3,7 @@ title: Juiz brasileiro inválida artigo de decreto presidencial de combate ao cr
   organizado
 date: 2020-01-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

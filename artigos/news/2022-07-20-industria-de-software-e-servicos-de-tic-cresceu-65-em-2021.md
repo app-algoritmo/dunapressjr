@@ -2,7 +2,7 @@
 title: Indústria de Software e Serviços de TIC cresceu 6,5% em 2021
 date: 2022-07-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Bolsa sobe 2,2% no último pregão antes do primeiro turno
 date: 2022-10-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

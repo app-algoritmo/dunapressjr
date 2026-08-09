@@ -3,7 +3,7 @@ title: Governo da Paraíba publica decreto do parcelamento do ICMS-Fronteira do 
   Nacional
 date: 2020-07-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

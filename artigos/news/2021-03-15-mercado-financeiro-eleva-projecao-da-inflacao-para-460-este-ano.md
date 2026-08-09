@@ -2,7 +2,7 @@
 title: Mercado financeiro eleva projeção da inflação para 4,60% este ano
 date: 2021-03-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

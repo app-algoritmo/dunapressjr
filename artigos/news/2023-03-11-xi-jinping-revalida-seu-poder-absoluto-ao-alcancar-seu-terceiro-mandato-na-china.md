@@ -3,7 +3,7 @@ title: Xi Jinping revalida seu poder absoluto ao alcançar seu terceiro mandato 
   China
 date: 2023-03-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

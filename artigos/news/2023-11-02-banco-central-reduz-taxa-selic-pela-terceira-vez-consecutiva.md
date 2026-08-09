@@ -2,7 +2,7 @@
 title: Banco central reduz taxa selic pela terceira vez consecutiva
 date: 2023-11-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

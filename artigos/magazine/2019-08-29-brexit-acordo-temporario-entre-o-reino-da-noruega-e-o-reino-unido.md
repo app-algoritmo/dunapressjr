@@ -2,7 +2,7 @@
 title: 'Brexit: acordo temporário entre o Reino da Noruega e o Reino Unido'
 date: 2019-08-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

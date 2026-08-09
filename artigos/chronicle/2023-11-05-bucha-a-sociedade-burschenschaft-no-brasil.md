@@ -2,7 +2,7 @@
 title: 'Bucha: A Sociedade Burschenschaft no Brasil'
 date: 2023-11-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 - Policy

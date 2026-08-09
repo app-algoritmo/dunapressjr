@@ -2,7 +2,7 @@
 title: Homeschooling - A salvação para sair do sistema
 date: 2018-11-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

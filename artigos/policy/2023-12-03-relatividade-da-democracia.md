@@ -2,7 +2,7 @@
 title: Relatividade da Democracia
 date: 2023-12-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 - World Affairs

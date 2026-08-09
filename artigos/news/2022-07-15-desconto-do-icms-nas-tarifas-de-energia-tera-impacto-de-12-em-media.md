@@ -2,7 +2,7 @@
 title: Desconto do ICMS nas tarifas de energia terá impacto de 12% em média
 date: 2022-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

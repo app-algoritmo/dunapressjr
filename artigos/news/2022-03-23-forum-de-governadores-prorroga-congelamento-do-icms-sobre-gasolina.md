@@ -2,7 +2,7 @@
 title: Fórum de Governadores prorroga congelamento do ICMS sobre gasolina
 date: 2022-03-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

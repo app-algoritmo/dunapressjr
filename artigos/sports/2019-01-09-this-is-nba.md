@@ -2,7 +2,7 @@
 title: This is NBA!
 date: 2019-01-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Sports
 ---

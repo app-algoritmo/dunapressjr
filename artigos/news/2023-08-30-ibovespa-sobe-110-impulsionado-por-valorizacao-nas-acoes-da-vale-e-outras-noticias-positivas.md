@@ -3,7 +3,7 @@ title: Ibovespa sobe 1,10% impulsionado por valorização nas ações da vale e 
   notícias positivas
 date: 2023-08-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

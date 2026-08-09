@@ -2,7 +2,7 @@
 title: Arrecadação federal atinge R$ 205,47 bilhões em outubro
 date: 2022-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

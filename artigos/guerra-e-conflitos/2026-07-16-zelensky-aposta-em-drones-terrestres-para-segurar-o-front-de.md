@@ -3,7 +3,7 @@ title: "Zelensky aposta em drones terrestres para segurar o front de Zaporizhzhi
 subtitle: "Com munição de artilharia em queda e aliados ocidentais relutantes em acelerar a adesão ucraniana, Kiev está mudando a equação militar com tecnologia autônoma produzida em solo próprio — e o resultado pode redesenhar o que os próximos 18 meses de guerra parecem."
 date: 2026-07-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - guerra-e-conflitos
 description: "A Ucrânia está escalando a produção de drones terrestres autônomos para compensar a queda no fornecimento de munição ocidental, enquanto a OTAN sinaliza que a adesão formal pode escorregar de 2028 para além de 2030. A virada tecnológica em Zaporizhzhia não é só militar — ela redefine quem financia, quem decide e quem sobrevive nessa guerra."

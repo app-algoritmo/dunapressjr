@@ -2,7 +2,7 @@
 title: Indicadores de emprego apontam percepção negativa sobre mercado
 date: 2020-10-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

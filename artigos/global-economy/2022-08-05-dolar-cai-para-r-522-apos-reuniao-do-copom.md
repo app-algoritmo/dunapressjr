@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,22 após reunião do Copom
 date: 2022-08-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Confiança do consumidor recua 3,1 pontos em março
 date: 2022-03-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

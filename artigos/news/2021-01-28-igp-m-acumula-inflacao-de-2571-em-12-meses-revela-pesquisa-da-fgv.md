@@ -2,7 +2,7 @@
 title: IGP-M acumula inflação de 25,71% em 12 meses, revela pesquisa da FGV
 date: 2021-01-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Elon Musk questiona usuários do Twitter sobre possível compra da Rede 
   ''Quanto custaria?'
 date: 2024-04-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Headlines
 ---

@@ -2,7 +2,7 @@
 title: Haddad discute com Campos Neto parcelamento de dívidas pelo Pix
 date: 2023-04-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

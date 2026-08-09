@@ -2,7 +2,7 @@
 title: 'Espanha Urgente: Rei Filipe VI deverá convocar novas eleições'
 date: 2019-07-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

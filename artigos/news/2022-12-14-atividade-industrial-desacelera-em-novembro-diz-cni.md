@@ -2,7 +2,7 @@
 title: Atividade industrial desacelera em novembro, diz CNI
 date: 2022-12-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar tem maior queda diária em 16 meses e fecha em R$ 5,37
 date: 2022-07-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

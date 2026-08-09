@@ -3,7 +3,7 @@ title: O Ibovespa fecha em queda de 0,38% com temores de desaceleração da econ
   global
 date: 2023-09-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

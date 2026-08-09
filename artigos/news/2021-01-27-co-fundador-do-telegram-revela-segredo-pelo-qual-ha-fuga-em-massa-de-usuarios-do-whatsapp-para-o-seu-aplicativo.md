@@ -3,7 +3,7 @@ title: Co-fundador do Telegram revela 'segredo' pelo qual há fuga em massa de u
   do WhatsApp para o seu aplicativo
 date: 2021-01-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

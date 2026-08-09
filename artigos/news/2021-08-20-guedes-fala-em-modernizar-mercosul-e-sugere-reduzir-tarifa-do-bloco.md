@@ -2,7 +2,7 @@
 title: Guedes fala em modernizar Mercosul e sugere reduzir tarifa do bloco
 date: 2021-08-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

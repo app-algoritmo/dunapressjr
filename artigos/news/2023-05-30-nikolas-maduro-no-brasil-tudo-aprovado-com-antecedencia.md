@@ -2,7 +2,7 @@
 title: 'Nikolas Maduro no Brasil: tudo aprovado com antecedência'
 date: 2023-05-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

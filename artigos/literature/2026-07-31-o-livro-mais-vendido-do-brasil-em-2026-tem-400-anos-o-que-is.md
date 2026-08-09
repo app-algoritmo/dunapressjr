@@ -3,7 +3,7 @@ title: "O livro mais vendido do Brasil em 2026 tem 400 anos: o que isso revela s
 subtitle: "A reentrada de clássicos lusófonos e europeus no topo das listas brasileiras não é nostalgia — é um sinal de que o leitor contemporâneo busca densidade onde o mercado apostou em leveza."
 date: 2026-07-31
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - literature
 description: "Clássicos do século XVII e obras de fôlego analítico lideram as listas de mais vendidos no Brasil em julho de 2026, contrariando a aposta das editoras em títulos curtos e de autoajuda. O fenômeno revela um leitor mais experiente e impaciente com superficialidade — e redesenha as apostas do mercado editorial para o segundo semestre."

@@ -2,7 +2,7 @@
 title: 'Brasil: Ativista brasileira Sara Winter detida'
 date: 2020-06-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Covid-19: CGU e PF combatem fraudes na Secretaria da Saúde de Roraima'
 date: 2020-10-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

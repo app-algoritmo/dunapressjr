@@ -2,7 +2,7 @@
 title: Brasil fecha janeiro com saldo de 260.353 empregos formais
 date: 2021-03-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

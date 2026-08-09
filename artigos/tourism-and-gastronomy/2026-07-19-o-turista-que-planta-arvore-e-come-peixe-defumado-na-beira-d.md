@@ -3,7 +3,7 @@ title: "O turista que planta árvore e come peixe defumado na beira do rio: por 
 subtitle: "Enquanto destinos consagrados enfrentam saturação e rejeição local, o Pantanal mato-grossense registra crescimento de 34% no fluxo de visitantes em 2025 com um modelo que distribui renda, preserva bioma e já atrai atenção de investidores europeus."
 date: 2026-07-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tourism-and-gastronomy
 description: "O Pantanal consolidou em 2025 um modelo de turismo de base comunitária que combina experiência gastronômica autentica, compensação ambiental e geração de renda local — e os números provam que sustentabilidade e lucratividade podem andar juntos. O momento é agora porque o Ministério do Turismo abre em agosto de 2026 o edital de R$ 480 milhões para replicar o modelo em outros seis biomas brasileiros."

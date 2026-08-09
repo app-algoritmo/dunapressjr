@@ -2,7 +2,7 @@
 title: Receita Federal alerta sobre prazo de adesão ao Simples Nacional
 date: 2022-01-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

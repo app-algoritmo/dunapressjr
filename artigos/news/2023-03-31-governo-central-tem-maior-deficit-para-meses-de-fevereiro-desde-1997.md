@@ -2,7 +2,7 @@
 title: Governo Central tem maior déficit para meses de fevereiro desde 1997
 date: 2023-03-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

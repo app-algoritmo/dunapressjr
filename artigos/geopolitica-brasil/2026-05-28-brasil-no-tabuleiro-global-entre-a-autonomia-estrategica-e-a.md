@@ -3,7 +3,7 @@ title: "Brasil no Tabuleiro Global: Entre a Autonomia Estratégica e as Pressõe
 subtitle: "Em meio à crescente rivalidade sino-americana e ao reordenamento das alianças internacionais, o Brasil busca consolidar uma postura de protagonismo sem alinhamento automático — mas o espaço para a ambiguidade geopolítica está se estreitando."
 date: 2026-05-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitica-brasil
 description: "O Brasil de 2026 enfrenta um dilema estrutural: manter a tradição diplomática de não-alinhamento enquanto potências globais exigem, cada vez mais explicitamente, definições de campo. A análise examina os vetores que condicionam a inserção internacional brasileira — do BRICS às negociações com a União Europeia, da disputa tecnológica à posição frente ao conflito ucraniano — e avalia se Brasília possui capacidade real de sustentar sua autonomia estratégica num sistema internacional que tolera cada vez menos a ambiguidade."

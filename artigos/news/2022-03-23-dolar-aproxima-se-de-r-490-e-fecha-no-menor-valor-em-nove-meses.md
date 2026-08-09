@@ -2,7 +2,7 @@
 title: Dólar aproxima-se de R$ 4,90 e fecha no menor valor em nove meses
 date: 2022-03-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

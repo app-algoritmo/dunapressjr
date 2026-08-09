@@ -2,7 +2,7 @@
 title: Bolsa supera 105 mil pontos e fecha no maior nível desde julho
 date: 2020-11-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

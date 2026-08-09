@@ -3,7 +3,7 @@ title: "O Brasil vai sediar os Jogos de 2036 ou 2040? A aposta silenciosa que j�
 subtitle: "Com Los Angeles 2028 e Brisbane 2032 já definidos, o Comitê Olímpico Internacional abriu uma janela rara — e o COB movimenta conversas discretas sobre uma nova candidatura brasileira doze anos depois do Rio."
 date: 2026-07-11
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - olympic-games
 description: "O Comitê Olímpico do Brasil estuda discretamente uma candidatura para os Jogos de 2036 ou 2040, aproveitando a janela aberta pelo COI após a definição das sedes até Brisbane. A movimentação revela tanto a ambição do país no cenário olímpico global quanto os nós estruturais que precisam ser desatados antes de qualquer dossiê chegar a Paris — ou Lausanne."

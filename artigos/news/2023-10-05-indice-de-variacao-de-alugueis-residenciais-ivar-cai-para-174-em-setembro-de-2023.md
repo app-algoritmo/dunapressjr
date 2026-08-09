@@ -3,7 +3,7 @@ title: Índice de Variação de Aluguéis Residenciais (IVAR) cai para -1,74% em
   de 2023
 date: 2023-10-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

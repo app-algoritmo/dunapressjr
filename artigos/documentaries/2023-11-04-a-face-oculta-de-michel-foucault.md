@@ -2,7 +2,7 @@
 title: A face oculta de Michel Foucault
 date: 2023-11-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Documentaries
 ---

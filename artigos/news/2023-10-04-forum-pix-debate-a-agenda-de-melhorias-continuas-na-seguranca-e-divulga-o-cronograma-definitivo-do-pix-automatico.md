@@ -3,7 +3,7 @@ title: Fórum Pix debate a agenda de melhorias contínuas na segurança e divulg
   definitivo do Pix Automático
 date: 2023-10-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Governador da Paraíba apresenta obras de mobilidade urbana e dragagem do
   de Cabedelo em reunião com ministro da Infraestrutura
 date: 2021-02-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

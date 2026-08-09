@@ -2,7 +2,7 @@
 title: Inflação da construção fica em 1,49% em maio, diz FGV
 date: 2022-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

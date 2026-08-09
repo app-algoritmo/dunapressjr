@@ -2,7 +2,7 @@
 title: 'Oportunidades de Investimento na Noruega: Explorando Estabilidade e Crescimento'
 date: 2023-12-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

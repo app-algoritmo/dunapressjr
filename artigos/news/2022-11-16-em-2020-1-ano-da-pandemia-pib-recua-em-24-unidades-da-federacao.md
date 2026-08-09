@@ -2,7 +2,7 @@
 title: Em 2020, 1º ano da pandemia, PIB recua em 24 unidades da Federação
 date: 2022-11-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Banco Central divulga estatísticas monetárias e de crédito de setembro
 date: 2023-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

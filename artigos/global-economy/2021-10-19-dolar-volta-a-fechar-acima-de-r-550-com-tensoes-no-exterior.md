@@ -2,7 +2,7 @@
 title: Dólar volta a fechar acima de R$ 5,50 com tensões no exterior
 date: 2021-10-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Índice Nacional da Construção Civil sobe 0,72% em janeiro
 date: 2022-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

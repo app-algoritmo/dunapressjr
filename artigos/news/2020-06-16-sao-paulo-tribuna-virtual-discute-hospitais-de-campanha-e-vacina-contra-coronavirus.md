@@ -2,7 +2,7 @@
 title: 'São Paulo: Tribuna Virtual discute hospitais de campanha e vacina contra coronavírus'
 date: 2020-06-16
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - News
 ---

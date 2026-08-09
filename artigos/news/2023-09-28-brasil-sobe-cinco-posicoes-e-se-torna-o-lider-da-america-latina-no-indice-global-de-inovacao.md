@@ -3,7 +3,7 @@ title: Brasil sobe cinco posições e se torna o líder da América Latina no Í
   de Inovação
 date: 2023-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

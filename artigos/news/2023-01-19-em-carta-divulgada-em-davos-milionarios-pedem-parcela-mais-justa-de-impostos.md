@@ -2,7 +2,7 @@
 title: Em carta divulgada em Davos, milionários pedem parcela mais justa de impostos
 date: 2023-01-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

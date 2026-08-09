@@ -3,7 +3,7 @@ title: 'Bomba: Financial Times revela trama que levou ingerência dos EUA nas el
   brasileiras em 2022'
 date: 2024-02-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - World Affairs

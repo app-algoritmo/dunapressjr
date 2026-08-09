@@ -1,8 +1,8 @@
 ---
-title: Caixa lança Campanha Você no Azul  para regularização de dívidas
+title: Caixa lança Campanha Você no Azul para regularização de dívidas
 date: 2022-10-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

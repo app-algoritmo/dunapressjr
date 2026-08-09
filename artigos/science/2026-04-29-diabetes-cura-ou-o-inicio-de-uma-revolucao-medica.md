@@ -2,7 +2,7 @@
 title: "DIABETES CURA OU O INÍCIO DE UMA REVOLUÇÃO MÉDICA?"
 date: 2026-04-29
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - science
 ---

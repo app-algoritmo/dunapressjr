@@ -2,7 +2,7 @@
 title: Luiz Philipe de Orleans Bragança, um dos deputados contrários a PEC do rombo
 date: 2022-12-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 - Policy

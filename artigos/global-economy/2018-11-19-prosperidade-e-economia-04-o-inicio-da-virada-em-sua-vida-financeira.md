@@ -2,7 +2,7 @@
 title: Prosperidade e economia - 04 - O início da virada em sua vida financeira
 date: 2018-11-19
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Global Economy
 ---

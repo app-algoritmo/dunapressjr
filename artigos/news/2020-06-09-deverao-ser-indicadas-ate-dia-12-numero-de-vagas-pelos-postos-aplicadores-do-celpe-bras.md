@@ -3,7 +3,7 @@ title: Deverão ser indicadas até dia 12 número de vagas pelos postos aplicado
   Celpe-Bras
 date: 2020-06-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

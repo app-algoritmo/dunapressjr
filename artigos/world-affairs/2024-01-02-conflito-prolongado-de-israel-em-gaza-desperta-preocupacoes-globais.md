@@ -2,7 +2,7 @@
 title: Conflito Prolongado de Israel em Gaza Desperta Preocupações Globais
 date: 2024-01-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

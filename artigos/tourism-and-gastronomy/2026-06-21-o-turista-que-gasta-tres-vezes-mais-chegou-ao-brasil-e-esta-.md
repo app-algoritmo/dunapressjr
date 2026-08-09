@@ -3,12 +3,12 @@ title: "O turista que gasta três vezes mais chegou ao Brasil — e está evitan
 subtitle: "O viajante de experiência gastronômica e ecoturismo de alto valor já representa 18% das receitas do setor no país, mas os destinos que mais crescem não são os de sempre."
 date: 2026-06-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tourism-and-gastronomy
 description: "Um perfil de turista disposto a gastar até três vezes mais que o visitante convencional está redirecionando recursos para destinos do interior e da Amazônia brasileira. A virada não é tendência — é dado de mercado que já altera rotas aéreas, menus de restaurantes e a agenda de municípios que nunca apareceram num guia de viagem."
 featuredImage: "https://images.unsplash.com/photo-1770410152699-38e52161977e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTA1ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIwNTQ0MzV8&ixlib=rb-4.1.0&q=80&w=1080"
-photoAuthor: "Bernd 📷 Dittrich"
+photoAuthor: "Bernd Dittrich"
 photoAuthorUrl: "https://unsplash.com/@hdbernd"
 photoSource: "Unsplash"
 tags:

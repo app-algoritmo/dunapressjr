@@ -2,7 +2,7 @@
 title: Novo Catálogo Nacional de Cursos Técnicos em consulta pública
 date: 2020-07-06
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

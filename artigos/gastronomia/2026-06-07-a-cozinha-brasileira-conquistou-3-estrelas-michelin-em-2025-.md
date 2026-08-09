@@ -3,7 +3,7 @@ title: "A cozinha brasileira conquistou 3 estrelas Michelin em 2025 — e o pró
 subtitle: "Enquanto o guia internacional consolida nomes já conhecidos, uma geração de chefs do Nordeste, Amazônia e Centro-Oeste redefine o que significa cozinhar com identidade no Brasil."
 date: 2026-06-07
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - gastronomia
 description: "Em 2025, o Brasil chegou a 18 restaurantes estrelados pelo Guia Michelin, com três conquistando a segunda estrela pela primeira vez — mas a virada mais relevante da gastronomia nacional está acontecendo longe dos grandes centros, em cozinhas que transformam ingredientes amazônicos e sertanejos em linguagem gastronômica reconhecida internacionalmente. O momento importa porque esse movimento já movimenta cadeias produtivas locais e começa a atrair turismo gastronômico para regiões historicamente invisíveis no mapa culinário do país."

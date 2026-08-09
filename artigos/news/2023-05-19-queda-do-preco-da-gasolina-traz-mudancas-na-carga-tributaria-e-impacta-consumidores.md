@@ -2,7 +2,7 @@
 title: Queda do preço da gasolina traz mudanças na carga tributária e impacta consumidores
 date: 2023-05-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

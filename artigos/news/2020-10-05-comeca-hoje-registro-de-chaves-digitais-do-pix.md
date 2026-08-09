@@ -2,7 +2,7 @@
 title: Começa hoje registro de chaves digitais do Pix
 date: 2020-10-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

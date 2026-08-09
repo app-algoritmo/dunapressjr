@@ -2,7 +2,7 @@
 title: Medidas para reduzir o impacto do coronavírus foram foco da Caixa este ano
 date: 2020-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dia Nacional do Livro
 date: 2019-10-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

@@ -2,7 +2,7 @@
 title: Contas externas devem ter déficit de US$ 36 bilhões
 date: 2023-09-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

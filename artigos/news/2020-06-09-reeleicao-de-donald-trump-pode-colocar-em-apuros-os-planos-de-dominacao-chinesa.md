@@ -2,7 +2,7 @@
 title: Reeleição de Donald Trump pode colocar em apuros os planos de dominação chinesa
 date: 2020-06-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

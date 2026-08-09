@@ -3,7 +3,7 @@ title: Estudo revela quanto tempo o COVID-19 permanece infeccioso em papelão, m
   e plástico
 date: 2020-03-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -1,9 +1,9 @@
 ---
-title: Foi publicada portaria que prorroga prazo de Certidões  relativos a créditos
+title: Foi publicada portaria que prorroga prazo de Certidões relativos a créditos
   tributários
 date: 2020-03-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

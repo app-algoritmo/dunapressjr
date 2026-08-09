@@ -2,7 +2,7 @@
 title: TSE regulamenta propaganda política no Brasil
 date: 2022-02-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

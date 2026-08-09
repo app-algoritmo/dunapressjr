@@ -3,7 +3,7 @@ title: Brasil e Estados Unidos debatem parcerias em ciência e tecnologia de Coo
   Científica
 date: 2020-03-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

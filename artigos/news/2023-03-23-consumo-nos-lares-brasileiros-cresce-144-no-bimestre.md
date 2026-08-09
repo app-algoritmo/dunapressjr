@@ -2,7 +2,7 @@
 title: Consumo nos lares brasileiros cresce 1,44% no bimestre
 date: 2023-03-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

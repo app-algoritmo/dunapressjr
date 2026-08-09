@@ -3,7 +3,7 @@ title: Gal vice-presidente do Brasil é humilhado e desmentido nas redes sociais
   tentativa de enaltecer a república
 date: 2019-11-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

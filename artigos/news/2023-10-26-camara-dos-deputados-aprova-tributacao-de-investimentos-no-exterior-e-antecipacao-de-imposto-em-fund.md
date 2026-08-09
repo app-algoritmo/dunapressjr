@@ -3,7 +3,7 @@ title: Câmara dos Deputados aprova tributação de investimentos no exterior e 
   de imposto em fund
 date: 2023-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

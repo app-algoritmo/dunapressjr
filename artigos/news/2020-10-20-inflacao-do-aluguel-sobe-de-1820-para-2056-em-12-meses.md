@@ -2,7 +2,7 @@
 title: Inflação do aluguel sobe de 18,20% para 20,56% em 12 meses
 date: 2020-10-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Bolsa sobe quase 5% e dólar cai levemente em dia de recuperação
 date: 2020-03-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

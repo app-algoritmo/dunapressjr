@@ -2,7 +2,7 @@
 title: Frade brasileiro é esfaqueado em centro de atendimento a sem-teto na Irlanda
 date: 2024-04-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Social networks
 ---

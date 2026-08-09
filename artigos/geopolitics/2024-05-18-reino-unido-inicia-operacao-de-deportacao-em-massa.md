@@ -2,7 +2,7 @@
 title: Reino Unido Inicia Operação de Deportação em Massa
 date: 2024-05-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

@@ -3,7 +3,7 @@ title: "O Brasil treina para Los Angeles 2028 com a maior delegação técnica d
 subtitle: "Enquanto Paris 2024 ainda ressoa nos relatórios do COB, o comitê olímpico brasileiro já opera em modo Los Angeles com estrutura inédita de 14 modalidades prioritárias e orçamento consolidado até 2027."
 date: 2026-07-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - olympic-games
 description: "O Comitê Olímpico do Brasil lançou em julho de 2026 seu maior plano de preparação pré-olímpica da história, com 14 modalidades em ciclo prioritário e metas de pódio para Los Angeles 2028. A aposta revela uma virada na política esportiva nacional — e coloca o Brasil diante de escolhas que vão além das medalhas."

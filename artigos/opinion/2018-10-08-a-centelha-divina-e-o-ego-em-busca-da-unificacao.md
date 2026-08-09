@@ -2,7 +2,7 @@
 title: A centelha divina e o ego - Em busca da unificação
 date: 2018-10-08
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 - Religiosity

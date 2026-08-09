@@ -3,7 +3,7 @@ title: 'IA 2024: O Perfil do Empregado Ideal, e Suas Qualidades Valorizadas pela
   Empresas'
 date: 2024-02-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Courses and Careers
 - Personal Development

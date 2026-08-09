@@ -2,7 +2,7 @@
 title: IPC-S fecha maio com queda de preços de 0,54%
 date: 2020-06-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

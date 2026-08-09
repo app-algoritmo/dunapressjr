@@ -3,7 +3,7 @@ title: "Por que a greve de 1917 em São Paulo ainda define como o Brasil lida co
 subtitle: "A maior paralisação operária da Primeira República completa 109 anos em julho e segue sendo o espelho mais nítido das tensões entre capital, Estado e trabalhadores no país."
 date: 2026-06-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - history
 description: "Em julho de 1917, cerca de 50 mil trabalhadores paralisaram São Paulo na maior greve da história da Primeira República — e as negociações que se seguiram moldaram um padrão de relação entre Estado, patrões e trabalhadores que ecoa até hoje. Reler esse episódio é entender por que o Brasil ainda oscila entre repressão e cooptação quando o conflito social chega ao limite."

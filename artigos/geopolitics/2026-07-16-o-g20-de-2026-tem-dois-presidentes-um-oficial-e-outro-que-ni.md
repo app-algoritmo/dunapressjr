@@ -3,7 +3,7 @@ title: "O G20 de 2026 tem dois presidentes: um oficial e outro que ninguém eleg
 subtitle: "Enquanto a África do Sul preside formalmente o grupo, Washington e Pequim negociam os termos reais da ordem global em canais paralelos — e o Brasil precisa decidir em qual mesa quer sentar."
 date: 2026-07-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitics
 description: "A presidência sul-africana do G20 em 2026 expõe uma fissura estrutural: o fórum que deveria representar 85% do PIB mundial opera cada vez mais como vitrine enquanto as decisões reais acontecem em bilaterais sigilosas entre EUA e China. Para o Brasil, que ocupa assento permanente no grupo e busca protagonismo no Sul Global, o momento exige uma escolha estratégica que Brasília ainda evita nomear."

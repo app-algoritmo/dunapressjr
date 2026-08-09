@@ -2,7 +2,7 @@
 title: Custeio de transporte escolar tem critérios delimitados pelo FNDE
 date: 2020-05-26
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

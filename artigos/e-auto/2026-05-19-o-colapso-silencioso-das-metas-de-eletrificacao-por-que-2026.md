@@ -3,7 +3,7 @@ title: "O Colapso Silencioso das Metas de Eletrificação: Por Que 2026 Está Re
 subtitle: "Montadoras recuam nos cronogramas, infraestrutura avança em ritmo desigual e o consumidor europeu hesita. Uma análise sobre o momento mais crítico da transição elétrica desde o acordo de Paris."
 date: 2026-05-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - e-auto
 description: "Em 2026, o setor automobilístico enfrenta uma revisão profunda de suas ambições elétricas. Entre recuos estratégicos de grandes montadoras, infraestrutura de recarga ainda fragmentada e um consumidor cada vez mais seletivo, a transição para o e-auto vive seu momento mais turbulento. A Duna Press analisa os vetores que estão redesenhando o mapa da mobilidade elétrica global."

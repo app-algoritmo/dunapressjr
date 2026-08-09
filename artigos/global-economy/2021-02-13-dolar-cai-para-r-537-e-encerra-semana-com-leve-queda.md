@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,37 e encerra semana com leve queda
 date: 2021-02-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

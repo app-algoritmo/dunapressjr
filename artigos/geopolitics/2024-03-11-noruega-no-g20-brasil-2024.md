@@ -2,7 +2,7 @@
 title: Noruega no G20 Brasil 2024
 date: 2024-03-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - Technology

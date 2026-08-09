@@ -2,7 +2,7 @@
 title: Novos editais do Enem 2020 com prevenções à COVID-19 publicados
 date: 2020-08-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

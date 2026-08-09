@@ -2,7 +2,7 @@
 title: Balança tem superávit de US$ 23,04 bilhões no ano, com alta de 63,5%
 date: 2021-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

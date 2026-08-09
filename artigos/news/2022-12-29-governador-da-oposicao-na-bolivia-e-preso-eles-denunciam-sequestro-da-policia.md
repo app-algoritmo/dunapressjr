@@ -3,7 +3,7 @@ title: 'Governador da oposição na Bolívia é preso: eles denunciam ''sequestr
   polícia'
 date: 2022-12-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

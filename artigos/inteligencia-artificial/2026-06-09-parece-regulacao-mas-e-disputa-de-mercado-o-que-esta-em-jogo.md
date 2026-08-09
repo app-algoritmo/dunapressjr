@@ -3,7 +3,7 @@ title: "Parece regulação, mas é disputa de mercado: o que está em jogo na co
 subtitle: "Enquanto Europa, EUA e China apresentam suas normas como proteção ao cidadão, os bastidores revelam uma guerra industrial disfarçada de política pública."
 date: 2026-06-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - inteligencia-artificial
 description: "Em 2026, três potências avançam com marcos regulatórios para inteligência artificial que, na superfície, protegem direitos — mas, na prática, redesenham quem controla a infraestrutura digital do século. Para empresas, trabalhadores e governos brasileiros, entender esse jogo não é opcional."

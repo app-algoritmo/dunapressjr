@@ -1,5 +1,5 @@
 ---
-title: Governo ativa Centro de Operações  para ações de combate à COVID-19
+title: Governo ativa Centro de Operações para ações de combate à COVID-19
 date: 2020-03-22
 status: publish
 author: Joice Ferreira

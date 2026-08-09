@@ -3,7 +3,7 @@ title: Preços dos ingredientes das festas juninas sobem acima da inflação, ap
   pesquisa
 date: 2023-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

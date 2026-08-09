@@ -2,7 +2,7 @@
 title: Pequenos empresários já podem pedir dinheiro do Pronampe
 date: 2022-07-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

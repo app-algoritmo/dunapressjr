@@ -3,7 +3,7 @@ title: "A Economia da Atenção e o Colapso do Tempo Livre: Como Recuperar o Con
 subtitle: "Em um mundo onde cada minuto ocioso é visto como oportunidade perdida, a geração que mais tem acesso a ferramentas de produtividade é paradoxalmente a que menos consegue descansar — e as consequências vão muito além do cansaço"
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - lifestyle
 description: "A promessa da tecnologia era libertar as pessoas do trabalho excessivo. O resultado, décadas depois, foi o oposto: uma geração hiperconectada, cronicamente ocupada e incapaz de distinguir descanso de improdutividade. Este artigo analisa os mecanismos por trás do colapso do tempo livre e aponta caminhos concretos para recuperar a autonomia sobre a própria existência."

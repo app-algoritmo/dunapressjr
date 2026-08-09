@@ -2,7 +2,7 @@
 title: Quem Mandou Você Pensar?
 date: 2018-05-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 - Education

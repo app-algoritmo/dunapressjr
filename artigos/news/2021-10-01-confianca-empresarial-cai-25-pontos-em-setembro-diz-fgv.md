@@ -2,7 +2,7 @@
 title: Confiança empresarial cai 2,5 pontos em setembro, diz FGV
 date: 2021-10-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Pandemia faz cair participação de centros urbanos na economia do país
 date: 2022-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

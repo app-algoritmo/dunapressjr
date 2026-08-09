@@ -2,7 +2,7 @@
 title: Presidente diz que determinará redução da bandeira tarifária na luz
 date: 2021-10-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

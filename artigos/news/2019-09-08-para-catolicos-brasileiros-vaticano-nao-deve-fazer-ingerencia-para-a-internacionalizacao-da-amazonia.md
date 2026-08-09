@@ -3,7 +3,7 @@ title: Para católicos brasileiros, Vaticano não deve fazer ingerência para a 
   da Amazônia
 date: 2019-09-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

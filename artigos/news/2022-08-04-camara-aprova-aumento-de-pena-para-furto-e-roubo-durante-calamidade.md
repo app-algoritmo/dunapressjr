@@ -2,7 +2,7 @@
 title: Câmara aprova aumento de pena para furto e roubo durante calamidade
 date: 2022-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

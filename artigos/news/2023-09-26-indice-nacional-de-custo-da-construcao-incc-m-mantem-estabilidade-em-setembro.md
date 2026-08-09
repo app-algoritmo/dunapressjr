@@ -2,7 +2,7 @@
 title: Índice Nacional de Custo da Construção (INCC-M) mantém estabilidade em setembro
 date: 2023-09-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

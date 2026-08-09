@@ -2,7 +2,7 @@
 title: 'Rei Charles III Diagnosticado com Câncer: Um Teste para a Monarquia Britânica'
 date: 2024-02-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 - Policy

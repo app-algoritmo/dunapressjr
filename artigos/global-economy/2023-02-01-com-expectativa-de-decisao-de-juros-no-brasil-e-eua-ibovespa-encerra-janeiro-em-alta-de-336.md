@@ -3,7 +3,7 @@ title: Com expectativa de decisão de juros no Brasil e EUA, Ibovespa encerra ja
   em alta de 3,36%
 date: 2023-02-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

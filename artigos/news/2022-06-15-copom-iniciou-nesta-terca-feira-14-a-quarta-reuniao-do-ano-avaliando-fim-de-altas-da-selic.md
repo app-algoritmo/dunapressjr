@@ -3,7 +3,7 @@ title: Copom iniciou nesta terça-feira (14) a quarta reunião do ano avaliand
   de altas da Selic
 date: 2022-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

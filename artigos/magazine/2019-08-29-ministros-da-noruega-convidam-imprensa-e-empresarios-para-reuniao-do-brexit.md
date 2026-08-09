@@ -2,7 +2,7 @@
 title: Ministros da Noruega convidam imprensa e empresários para reunião do Brexit
 date: 2019-08-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

@@ -2,7 +2,7 @@
 title: Satélites revelam queimadas generalizadas nas turfeiras inglesas
 date: 2022-07-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Batacazo a la australiana
 date: 2018-11-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

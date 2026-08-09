@@ -2,7 +2,7 @@
 title: Imposto sobre valor agregado é questionado em debate na CCJ
 date: 2019-09-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

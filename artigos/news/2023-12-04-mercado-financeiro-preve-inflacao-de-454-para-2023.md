@@ -2,7 +2,7 @@
 title: Mercado financeiro prevê inflação de 4,54% para 2023
 date: 2023-12-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

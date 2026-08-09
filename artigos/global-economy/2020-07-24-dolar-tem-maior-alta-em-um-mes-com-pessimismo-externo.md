@@ -2,7 +2,7 @@
 title: Dólar tem maior alta em um mês, com pessimismo externo
 date: 2020-07-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

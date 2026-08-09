@@ -3,7 +3,7 @@ title: Programa de alfabetização Conta pra Mim, uma iniciativa que estimula a 
   infantil com familiares
 date: 2020-11-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

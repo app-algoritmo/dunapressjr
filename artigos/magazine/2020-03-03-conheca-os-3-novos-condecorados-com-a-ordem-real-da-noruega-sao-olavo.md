@@ -2,7 +2,7 @@
 title: Conheça os 3 novos condecorados com a Ordem Real da Noruega São Olavo
 date: 2020-03-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

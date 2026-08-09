@@ -3,7 +3,7 @@ title: "A Nova Doutrina de Guerra Híbrida: Como as Forças Armadas Mundiais Red
 subtitle: "A convergência entre inteligência artificial, drones autônomos e guerra cibernética transforma radicalmente as estratégias militares globais, exigindo revisão urgente de doutrinas e alianças estabelecidas no século XX"
 date: 2026-06-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - military
 description: "O campo de batalha contemporâneo não reconhece mais fronteiras claras entre guerra convencional, ciberguerra e operações de influência. Em 2026, potências militares de primeira linha consolidam doutrinas que integram sistemas autônomos, inteligência artificial e guerra eletromagnética em uma única arquitetura operacional. A análise da Duna Press examina as implicações estratégicas dessa transformação sem precedentes."

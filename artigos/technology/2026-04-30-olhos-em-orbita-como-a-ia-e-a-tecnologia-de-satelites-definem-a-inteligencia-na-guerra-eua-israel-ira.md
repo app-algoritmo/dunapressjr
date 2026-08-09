@@ -2,7 +2,7 @@
 title: "Olhos em Órbita: Como a IA e a Tecnologia de Satélites Definem a Inteligência na Guerra EUA-Israel-Irã"
 date: 2026-04-30
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - technology
 tags:

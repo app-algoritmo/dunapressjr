@@ -3,7 +3,7 @@ title: "A chef paraense que convenceu o Relais & Châteaux a olhar para a Amazô
 subtitle: "A entrada de Ana Luíza Trajano no circuito internacional de gastronomia de luxo sinaliza uma virada no mapa do turismo de alto padrão no Brasil, com impacto direto na economia do Pará e nos destinos emergentes da região Norte."
 date: 2026-08-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tourism-and-gastronomy
 description: "A chef paraense Helena Mota fechou em julho de 2026 uma parceria inédita com o consórcio Relais & Châteaux para um roteiro gastronômico amazônico com início previsto para março de 2027. O movimento reposiciona Belém e o entorno do Marajó no radar do turismo internacional de alto padrão — e traz perguntas urgentes sobre como o Brasil vai distribuir os frutos desse reconhecimento."

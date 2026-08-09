@@ -2,7 +2,7 @@
 title: Angra 1 volta ao SIN, depois de parada para reabastecimento
 date: 2022-09-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

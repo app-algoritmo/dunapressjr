@@ -2,7 +2,7 @@
 title: 10 mil máscaras serão produzidas com recursos do MEC pelo Ifes
 date: 2020-06-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

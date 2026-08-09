@@ -2,7 +2,7 @@
 title: Como a China Substituiu o Twitter e o que isso Pode Significar para o Brasil
 date: 2024-08-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Social networks
 ---

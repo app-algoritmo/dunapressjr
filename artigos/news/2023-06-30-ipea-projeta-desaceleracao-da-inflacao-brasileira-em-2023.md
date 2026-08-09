@@ -2,7 +2,7 @@
 title: Ipea projeta desaceleração da inflação brasileira em 2023
 date: 2023-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

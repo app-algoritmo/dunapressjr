@@ -3,7 +3,7 @@ title: "A Crise Tática do Futebol Europeu: Como a Obsessão pelo Pressing Alto 
 subtitle: "Uma análise profunda sobre como a homogeneização tática no futebol continental está criando times previsíveis, esgotando atletas e abrindo espaço para uma nova revolução metodológica"
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - soccer
 description: "O pressing alto dominou a última década do futebol europeu, mas sinais crescentes apontam para uma saturação do modelo. Equipes exaustas, lesões em alta e resultados imprevisíveis nas fases finais das competições revelam que o paradigma tático dominante pode estar chegando ao seu limite — e que uma nova onda de ideias já começa a ganhar forma nos bastidores do esporte."

@@ -2,7 +2,7 @@
 title: Nova descoberta de outros documentos classificados na posse de Biden
 date: 2023-01-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 - World Affairs

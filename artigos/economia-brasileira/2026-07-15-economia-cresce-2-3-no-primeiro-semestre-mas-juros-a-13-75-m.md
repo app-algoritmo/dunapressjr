@@ -3,7 +3,7 @@ title: "Economia cresce 2,3% no primeiro semestre, mas juros a 13,75% mantêm o 
 subtitle: "O Brasil apresenta números macroeconômicos consistentes em 2026, mas a distância entre o PIB nos relatórios e o PIB sentido no bolso revela uma tensão que define a política econômica do segundo semestre."
 date: 2026-07-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - economia-brasileira
 description: "O PIB brasileiro acumula crescimento de 2,3% no primeiro semestre de 2026, mas a taxa Selic a 13,75% ao ano comprime o crédito e segura o consumo das famílias de renda média. Entender essa defasagem é essencial para quem toma decisões — de negócios, de carreira ou de voto — nos próximos meses."

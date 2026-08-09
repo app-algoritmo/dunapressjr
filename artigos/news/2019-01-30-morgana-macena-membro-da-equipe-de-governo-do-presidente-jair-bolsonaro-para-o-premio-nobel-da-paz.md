@@ -3,7 +3,7 @@ title: Morgana Macena, membro da equipe de governo do Presidente Jair Bolsonaro 
   o Prêmio Nobel da Paz
 date: 2019-01-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

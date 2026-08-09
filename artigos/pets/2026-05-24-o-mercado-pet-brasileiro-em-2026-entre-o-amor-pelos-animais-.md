@@ -3,12 +3,12 @@ title: "O Mercado Pet Brasileiro em 2026: Entre o Amor pelos Animais e a Pressã
 subtitle: "Com o setor movimentando mais de R$ 80 bilhões ao ano, o Brasil consolida posição entre os maiores mercados pet do mundo — mas a desigualdade no acesso a cuidados veterinários expõe contradições profundas"
 date: 2026-05-24
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - pets
 description: "O mercado pet brasileiro cresce de forma acelerada e já figura entre os três maiores do mundo, mas a expansão comercial contrasta com dificuldades reais enfrentadas por tutores de baixa renda e levanta questões sobre bem-estar animal, medicalização excessiva e o papel do Estado na regulação do setor."
 featuredImage: "https://images.unsplash.com/photo-1606098216818-40939b7c98ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTA1ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk2Mzg1MDd8&ixlib=rb-4.1.0&q=80&w=1080"
-photoAuthor: "Priscilla Du Preez 🇨🇦"
+photoAuthor: "Priscilla Du Preez "
 photoAuthorUrl: "https://unsplash.com/@priscilladupreez"
 photoSource: "Unsplash"
 tags:

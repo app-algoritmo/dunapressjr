@@ -2,7 +2,7 @@
 title: Violação dos direitos humanos e destruição do estado de direito na Argentina
 date: 2023-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

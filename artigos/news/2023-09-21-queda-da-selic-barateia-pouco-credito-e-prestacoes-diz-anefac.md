@@ -2,7 +2,7 @@
 title: Queda da Selic barateia pouco crédito e prestações, diz Anefac
 date: 2023-09-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

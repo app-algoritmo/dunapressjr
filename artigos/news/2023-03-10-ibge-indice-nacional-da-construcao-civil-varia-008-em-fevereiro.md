@@ -2,7 +2,7 @@
 title: 'IBGE: Índice Nacional da Construção Civil varia 0,08% em fevereiro'
 date: 2023-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

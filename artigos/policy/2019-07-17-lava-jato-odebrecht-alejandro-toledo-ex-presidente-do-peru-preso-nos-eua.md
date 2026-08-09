@@ -2,7 +2,7 @@
 title: 'Lava Jato - Odebrecht: Alejandro Toledo, ex presidente do Perú preso nos EUA'
 date: 2019-07-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

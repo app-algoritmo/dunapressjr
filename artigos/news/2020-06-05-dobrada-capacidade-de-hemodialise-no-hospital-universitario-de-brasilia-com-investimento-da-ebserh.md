@@ -3,7 +3,7 @@ title: Dobrada capacidade de hemodiálise no Hospital Universitário de Brasíli
   investimento da Ebserh
 date: 2020-06-05
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

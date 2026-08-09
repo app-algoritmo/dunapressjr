@@ -3,7 +3,7 @@ title: STF retoma na quinta-feira (24) julgamento sobre prisão após condenaç�
   segunda instância
 date: 2019-10-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

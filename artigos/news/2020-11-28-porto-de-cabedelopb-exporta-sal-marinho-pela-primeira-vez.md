@@ -2,7 +2,7 @@
 title: Porto de Cabedelo/PB exporta sal marinho pela primeira vez
 date: 2020-11-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

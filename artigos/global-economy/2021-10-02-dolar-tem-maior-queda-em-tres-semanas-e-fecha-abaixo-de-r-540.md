@@ -2,7 +2,7 @@
 title: Dólar tem maior queda em três semanas e fecha abaixo de R$ 5,40
 date: 2021-10-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

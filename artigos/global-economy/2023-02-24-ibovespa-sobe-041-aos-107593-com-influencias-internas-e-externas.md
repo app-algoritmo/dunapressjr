@@ -2,7 +2,7 @@
 title: Ibovespa sobe 0,41%, aos 107.593 com influências internas e externas
 date: 2023-02-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

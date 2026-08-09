@@ -2,7 +2,7 @@
 title: Receita confirma reoneração de gasolina e etanol no fim do mês
 date: 2023-02-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

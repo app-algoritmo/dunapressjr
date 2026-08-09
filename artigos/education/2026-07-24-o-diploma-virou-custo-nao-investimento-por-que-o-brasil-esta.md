@@ -3,7 +3,7 @@ title: "O diploma virou custo, não investimento: por que o Brasil está repensa
 subtitle: "Com 40% dos jovens universitários sem emprego na área de formação, um movimento silencioso de universidades, empresas e prefeituras está redesenhando o que 'se formar' significa no país."
 date: 2026-07-24
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - education
 description: "Pesquisa do Insper divulgada em julho de 2026 mostra que quatro em cada dez formandos brasileiros nunca atuam na área do diploma — um dado que está forçando universidades, empresas e governos municipais a repensar o pacto entre educação e trabalho. O debate não é sobre o fim da faculdade, mas sobre o que ela precisa entregar para justificar quatro anos e, muitas vezes, décadas de dívida."

@@ -2,7 +2,7 @@
 title: Nova presidente da Caixa assume cargo na terça-feira
 date: 2022-07-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

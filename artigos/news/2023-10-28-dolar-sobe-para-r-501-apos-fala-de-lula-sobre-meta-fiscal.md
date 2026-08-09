@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,01 após fala de Lula sobre meta fiscal
 date: 2023-10-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Portaria regula a inclusão de novos agentes econômicos em programa de f
   de crédito
 date: 2020-09-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

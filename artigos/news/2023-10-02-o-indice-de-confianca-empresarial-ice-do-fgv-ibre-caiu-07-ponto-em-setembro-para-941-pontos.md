@@ -3,7 +3,7 @@ title: O Índice de Confiança Empresarial (ICE) do FGV IBRE caiu 0,7 ponto em s
   para 94,1 pontos
 date: 2023-10-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

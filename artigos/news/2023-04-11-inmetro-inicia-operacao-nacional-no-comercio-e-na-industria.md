@@ -2,7 +2,7 @@
 title: Inmetro inicia operação nacional no comércio e na indústria
 date: 2023-04-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

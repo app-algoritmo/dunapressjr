@@ -3,7 +3,7 @@ title: "A carta que Getúlio Vargas não enviou: o documento de 1954 que reescre
 subtitle: "Setenta e dois anos após o suicídio de Vargas, historiadores revisam o papel da carta-testamento como instrumento político calculado — e o que ela ainda diz sobre o Brasil de 2026."
 date: 2026-07-10
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - history
 description: "Em agosto de 1954, Getúlio Vargas deixou uma carta que transformou sua morte em legado político duradouro. Historiadores recentes questionam se o documento foi espontâneo ou estrategicamente construído — e a resposta importa para entender como narrativas de mártir ainda moldam eleições no Brasil."

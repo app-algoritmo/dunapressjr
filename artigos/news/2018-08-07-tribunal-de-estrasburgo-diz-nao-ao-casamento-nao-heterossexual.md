@@ -2,7 +2,7 @@
 title: Tribunal de Estrasburgo diz não ao casamento não-heterossexual
 date: 2018-08-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

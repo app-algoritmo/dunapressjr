@@ -2,7 +2,7 @@
 title: GETTR, a rede social anti-censura em defesa da liberdade de expressão
 date: 2021-11-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

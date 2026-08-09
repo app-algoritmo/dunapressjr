@@ -2,7 +2,7 @@
 title: A tosca iniciativa de Kirchner que combina fascismo, socialismo e nazismo
 date: 2023-01-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

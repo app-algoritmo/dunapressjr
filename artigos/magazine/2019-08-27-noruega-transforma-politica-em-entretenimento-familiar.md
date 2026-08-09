@@ -2,7 +2,7 @@
 title: Noruega transforma política em entretenimento familiar
 date: 2019-08-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

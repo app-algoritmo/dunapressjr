@@ -2,7 +2,7 @@
 title: Produção brasileira de petróleo e gás natural cresce em janeiro
 date: 2021-02-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

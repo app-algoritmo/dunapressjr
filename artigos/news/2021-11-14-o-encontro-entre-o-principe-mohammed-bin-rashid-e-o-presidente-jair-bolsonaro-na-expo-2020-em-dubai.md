@@ -3,7 +3,7 @@ title: O encontro entre o Príncipe Mohammed bin Rashid e o Presidente Jair Bols
   na Expo 2020 em Dubai
 date: 2021-11-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

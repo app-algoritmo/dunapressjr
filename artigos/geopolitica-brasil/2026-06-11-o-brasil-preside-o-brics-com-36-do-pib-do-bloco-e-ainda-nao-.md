@@ -3,7 +3,7 @@ title: "O Brasil preside o BRICS com 36% do PIB do bloco e ainda não sabe o que
 subtitle: "A presidência brasileira do BRICS em 2025 expôs uma tensão estrutural: Brasília acumula peso econômico e influência simbólica no Sul Global, mas segue sem uma doutrina clara sobre para onde levar o bloco — e o tempo de decidir está acabando."
 date: 2026-06-11
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitica-brasil
 description: "O Brasil encerra sua presidência do BRICS em dezembro de 2026 tendo organizado cúpulas, ampliado o bloco e evitado rupturas — mas sem entregar uma agenda própria que diferencie o país de um coadjuvante bem-educado. A questão que fica é se Brasília prefere a influência difusa ao risco de liderar de verdade."

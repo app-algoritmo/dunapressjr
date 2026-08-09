@@ -2,7 +2,7 @@
 title: Dólar fecha acima de R$ 5 pela primeira vez em 10 dias
 date: 2021-07-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

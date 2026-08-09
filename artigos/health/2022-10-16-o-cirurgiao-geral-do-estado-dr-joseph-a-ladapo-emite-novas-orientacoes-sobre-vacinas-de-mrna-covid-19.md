@@ -3,7 +3,7 @@ title: O Cirurgião Geral do Estado Dr. Joseph A. Ladapo emite novas orientaçõ
   vacinas de mRNA COVID-19
 date: 2022-10-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 - News

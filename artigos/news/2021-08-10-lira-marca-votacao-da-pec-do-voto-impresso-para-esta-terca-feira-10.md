@@ -2,7 +2,7 @@
 title: Lira marca votação da PEC do Voto Impresso para esta terça-feira (10)
 date: 2021-08-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

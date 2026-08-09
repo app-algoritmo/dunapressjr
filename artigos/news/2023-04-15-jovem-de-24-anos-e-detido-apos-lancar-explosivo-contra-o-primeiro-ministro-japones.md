@@ -3,7 +3,7 @@ title: Jovem de 24 anos é detido após lançar explosivo contra o primeiro-mini
   japonês
 date: 2023-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ministério da Economia lança relatório da OCDE sobre gestão de estatais brasileiras
 date: 2021-03-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

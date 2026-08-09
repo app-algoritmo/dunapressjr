@@ -2,7 +2,7 @@
 title: Dólar fecha no menor nível em um mês após acordo sobre Orçamento
 date: 2021-04-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

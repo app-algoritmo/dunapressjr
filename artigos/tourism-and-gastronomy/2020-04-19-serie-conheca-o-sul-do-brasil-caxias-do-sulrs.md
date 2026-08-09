@@ -1,5 +1,5 @@
 ---
-title: 'Série conheça o Sul do Brasil:  Caxias do Sul/RS'
+title: 'Série conheça o Sul do Brasil: Caxias do Sul/RS'
 date: 2020-04-19
 status: publish
 author: Joice Ferreira

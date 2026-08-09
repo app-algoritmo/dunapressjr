@@ -2,7 +2,7 @@
 title: Dólar passa de R$ 4,28 e fecha no maior nível desde criação do real
 date: 2020-02-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

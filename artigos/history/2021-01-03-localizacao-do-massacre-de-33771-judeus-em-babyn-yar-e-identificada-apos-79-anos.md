@@ -1,5 +1,5 @@
 ---
-title: Localização do massacre de 33.771 judeus   em Babyn Yar é identificada após
+title: Localização do massacre de 33.771 judeus em Babyn Yar é identificada após
   79 anos
 date: 2021-01-03
 status: publish

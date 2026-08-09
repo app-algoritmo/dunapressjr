@@ -2,7 +2,7 @@
 title: Operações da Reduc e Polo Gaslub serão abastecidas com água de reúso
 date: 2022-12-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

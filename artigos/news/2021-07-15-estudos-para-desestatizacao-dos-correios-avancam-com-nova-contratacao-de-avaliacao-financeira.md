@@ -3,7 +3,7 @@ title: Estudos para desestatização dos Correios avançam com nova contrataçã
   financeira
 date: 2021-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

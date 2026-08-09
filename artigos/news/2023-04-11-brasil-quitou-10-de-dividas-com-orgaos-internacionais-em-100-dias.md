@@ -2,7 +2,7 @@
 title: Brasil quitou 10% de dívidas com órgãos internacionais em 100 dias
 date: 2023-04-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

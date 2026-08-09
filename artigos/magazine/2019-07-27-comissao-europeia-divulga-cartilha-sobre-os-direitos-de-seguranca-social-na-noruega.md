@@ -3,7 +3,7 @@ title: Comissão Européia divulga cartilha sobre os direitos de segurança soci
   Noruega
 date: 2019-07-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Policy

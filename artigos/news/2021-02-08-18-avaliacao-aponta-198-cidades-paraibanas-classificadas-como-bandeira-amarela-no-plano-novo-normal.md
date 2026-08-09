@@ -3,7 +3,7 @@ title: 18ª avaliação aponta 198 cidades paraibanas classificadas como bandeir
   no Plano Novo Normal
 date: 2021-02-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

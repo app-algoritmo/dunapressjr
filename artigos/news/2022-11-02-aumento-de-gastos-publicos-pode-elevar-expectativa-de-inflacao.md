@@ -2,7 +2,7 @@
 title: Aumento de gastos públicos pode elevar expectativa de inflação
 date: 2022-11-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

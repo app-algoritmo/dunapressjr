@@ -3,7 +3,7 @@ title: Brasil firma acordo multilateral que agilizará o despacho de mercadorias
   fluxos do comércio internacional
 date: 2022-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

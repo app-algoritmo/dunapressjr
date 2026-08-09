@@ -3,7 +3,7 @@ title: Termina hoje (26) prazo para instituições de educação superior verifi
   dados declarados à pesquisa
 date: 2020-06-26
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

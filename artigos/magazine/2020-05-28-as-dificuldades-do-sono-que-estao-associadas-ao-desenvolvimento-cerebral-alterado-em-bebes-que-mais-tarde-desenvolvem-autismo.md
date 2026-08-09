@@ -3,7 +3,7 @@ title: As dificuldades do sono que estão associadas ao desenvolvimento cerebral
   em bebês que mais tarde desenvolvem autismo
 date: 2020-05-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

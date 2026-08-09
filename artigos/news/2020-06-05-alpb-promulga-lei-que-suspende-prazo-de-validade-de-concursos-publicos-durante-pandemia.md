@@ -3,7 +3,7 @@ title: ALPB promulga lei que suspende prazo de validade de concursos públicos d
   pandemia
 date: 2020-06-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

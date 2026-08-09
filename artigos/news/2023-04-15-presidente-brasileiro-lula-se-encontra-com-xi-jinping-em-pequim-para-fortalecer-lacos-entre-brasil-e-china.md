@@ -3,7 +3,7 @@ title: Presidente brasileiro Lula se encontra com Xi Jinping em Pequim para fort
   laços entre Brasil e China
 date: 2023-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

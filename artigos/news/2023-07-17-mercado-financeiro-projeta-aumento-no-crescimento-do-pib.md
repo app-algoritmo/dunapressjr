@@ -2,7 +2,7 @@
 title: Mercado financeiro projeta aumento no crescimento do PIB
 date: 2023-07-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

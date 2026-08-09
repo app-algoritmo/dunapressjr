@@ -2,7 +2,7 @@
 title: Programa Mundial de Alimentos é o ganhador do Prêmio Nobel da Paz 2020
 date: 2020-10-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Maio Amarelo: um alerta para motoristas e pedestres'
 date: 2019-05-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

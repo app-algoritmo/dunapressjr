@@ -3,7 +3,7 @@ title: E-book com dicas de higiene para compra, preparo e delivery de alimentos 
   pela UFPB
 date: 2020-07-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

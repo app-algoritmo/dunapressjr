@@ -2,7 +2,7 @@
 title: Confiança empresarial atinge menor nível desde fevereiro
 date: 2022-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

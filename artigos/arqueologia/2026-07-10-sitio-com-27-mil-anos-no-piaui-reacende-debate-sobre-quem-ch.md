@@ -3,7 +3,7 @@ title: "Sítio com 27 mil anos no Piauí reacende debate sobre quem chegou prime
 subtitle: "Novas datações da Pedra Furada, divulgadas em junho de 2026, colocam o Brasil no centro de uma das maiores disputas da arqueologia mundial — e expõem a fragilidade do patrimônio que sustenta essa evidência."
 date: 2026-07-10
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - arqueologia
 description: "Novas análises do sítio Pedra Furada, no Parque Nacional Serra da Capivara, reforçam ocupação humana no Brasil há pelo menos 27 mil anos — quase o dobro do que a teoria dominante norte-americana aceita. O achado renova uma disputa científica de décadas e torna ainda mais urgente a proteção de um patrimônio que combina pressão orçamentária, desmatamento e ausência de política federal consistente."

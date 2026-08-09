@@ -3,7 +3,7 @@ title: "Bancos tradicionais movimentaram mais em Bitcoin do que exchanges em jun
 subtitle: "A adoção institucional de criptoativos atingiu um ponto de inflexão silencioso: pela primeira vez, custodiantes regulados superaram plataformas nativas em volume de BTC, sinalizando que o mercado cripto deixou de ser alternativo para se tornar infraestrutura."
 date: 2026-07-29
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - criptomoedas
 description: "Em junho de 2026, custodiantes bancários como BNY Mellon e Deutsche Bank superaram exchanges nativas em volume de Bitcoin pela primeira vez na história. O dado revela uma virada estrutural no mercado cripto — e levanta perguntas sérias sobre descentralização, risco sistêmico e o que o Brasil precisa fazer antes que a janela regulatória feche."

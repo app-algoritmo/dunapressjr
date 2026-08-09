@@ -2,7 +2,7 @@
 title: Mercado exportador de cachaça bate recorde em 2022
 date: 2022-12-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

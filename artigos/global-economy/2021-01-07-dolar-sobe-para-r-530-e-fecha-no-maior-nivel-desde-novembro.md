@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,30 e fecha no maior nível desde novembro
 date: 2021-01-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

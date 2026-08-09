@@ -2,7 +2,7 @@
 title: Rússia autoriza pagamento de gás com moeda estrangeira
 date: 2023-01-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

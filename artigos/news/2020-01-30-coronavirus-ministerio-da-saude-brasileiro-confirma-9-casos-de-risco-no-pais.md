@@ -2,7 +2,7 @@
 title: 'Coronavírus: Ministério da saúde brasileiro confirma 9 casos de risco no país'
 date: 2020-01-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

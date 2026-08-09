@@ -3,7 +3,7 @@ title: Príncipe Imperial participa da encenação da coroação e sagração de
   I
 date: 2022-12-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Bicentennial
 - News

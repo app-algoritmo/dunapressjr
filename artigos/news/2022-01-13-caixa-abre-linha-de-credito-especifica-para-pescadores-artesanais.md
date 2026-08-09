@@ -2,7 +2,7 @@
 title: Caixa abre linha de crédito específica para pescadores artesanais
 date: 2022-01-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

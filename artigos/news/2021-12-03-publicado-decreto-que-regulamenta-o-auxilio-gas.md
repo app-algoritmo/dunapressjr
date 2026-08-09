@@ -2,7 +2,7 @@
 title: Publicado decreto que regulamenta o Auxílio Gás
 date: 2021-12-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

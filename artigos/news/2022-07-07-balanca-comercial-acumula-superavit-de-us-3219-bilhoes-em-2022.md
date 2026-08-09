@@ -2,7 +2,7 @@
 title: Balança comercial acumula superávit de US$ 32,19 bilhões em 2022
 date: 2022-07-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

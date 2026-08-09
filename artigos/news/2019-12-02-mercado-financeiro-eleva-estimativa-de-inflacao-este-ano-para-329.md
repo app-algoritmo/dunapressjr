@@ -2,7 +2,7 @@
 title: Mercado financeiro eleva estimativa de inflação este ano para 3,29%
 date: 2019-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

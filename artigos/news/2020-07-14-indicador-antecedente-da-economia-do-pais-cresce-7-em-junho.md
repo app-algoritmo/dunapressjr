@@ -2,7 +2,7 @@
 title: Indicador Antecedente da Economia do país cresce 7% em junho
 date: 2020-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Ex-primeiro-ministro paquistanês Imran Khan obtém liberação de fianç
   prisão tumultuada
 date: 2023-05-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Violência armada entre militares rivais coloca em risco transição demo
   em Sudão
 date: 2023-04-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

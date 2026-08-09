@@ -2,7 +2,7 @@
 title: Indústria cresce em 12 locais em agosto e seis superam pré-pandemia
 date: 2020-10-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

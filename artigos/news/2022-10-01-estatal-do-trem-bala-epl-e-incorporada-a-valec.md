@@ -2,7 +2,7 @@
 title: Estatal do trem-bala, EPL é incorporada à Valec
 date: 2022-10-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

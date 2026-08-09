@@ -2,7 +2,7 @@
 title: Brasil tem um dos melhores ambientes para PPP na América Latina
 date: 2022-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

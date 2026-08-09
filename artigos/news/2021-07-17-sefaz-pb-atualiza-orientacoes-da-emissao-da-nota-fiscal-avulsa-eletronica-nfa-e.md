@@ -2,7 +2,7 @@
 title: SEFAZ-PB atualiza orientações da emissão da Nota Fiscal Avulsa Eletrônica (NFA-e)
 date: 2021-07-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

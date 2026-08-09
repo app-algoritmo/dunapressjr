@@ -3,7 +3,7 @@ title: "O mapa do comércio mundial foi redesenhado: 14 acordos assinados em 18 
 subtitle: "Enquanto a OMC completa 30 anos sem conseguir fechar uma rodada multilateral, blocos regionais aceleram a reconfiguração do comércio global — e o Brasil corre para não ficar de fora da nova geometria econômica."
 date: 2026-07-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-economy
 description: "Quatorze acordos comerciais foram assinados entre janeiro de 2025 e junho de 2026, redesenhando rotas, tarifas e alianças que vão definir quem cresce na próxima década. O Brasil negocia simultaneamente com a UE, o Golfo Pérsico e a ASEAN — e a janela para influenciar esse novo mapa está se fechando."

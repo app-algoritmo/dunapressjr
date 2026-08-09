@@ -2,7 +2,7 @@
 title: Governadores apoiam veto a reajustes de salário para servidores
 date: 2020-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Petrobras lançou edital para empresas de tecnologia e startups
 date: 2022-08-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

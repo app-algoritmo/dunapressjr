@@ -2,7 +2,7 @@
 title: Indicador de Incerteza da Economia segue sem alta pelo 4º mês
 date: 2022-02-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

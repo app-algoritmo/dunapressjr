@@ -2,7 +2,7 @@
 title: <strong>Entenda o décimo terceiro salário</strong>
 date: 2022-11-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

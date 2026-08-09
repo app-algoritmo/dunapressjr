@@ -2,7 +2,7 @@
 title: BC projeta déficit de US$ 30 bilhões para contas externas em 2021
 date: 2021-12-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

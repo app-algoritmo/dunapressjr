@@ -2,7 +2,7 @@
 title: Ibovespa encerra em queda após sete altas consecutivas
 date: 2023-06-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

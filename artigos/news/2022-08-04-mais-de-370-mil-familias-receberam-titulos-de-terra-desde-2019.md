@@ -2,7 +2,7 @@
 title: Mais de 370 mil famílias receberam títulos de terra desde 2019
 date: 2022-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

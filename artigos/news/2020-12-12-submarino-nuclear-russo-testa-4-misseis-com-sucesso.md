@@ -2,7 +2,7 @@
 title: Submarino nuclear russo testa 4 mísseis com sucesso
 date: 2020-12-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

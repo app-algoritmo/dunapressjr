@@ -2,7 +2,7 @@
 title: Rússia coloca em serviço de combate o míssil nuclear mais poderoso do mundo
 date: 2023-09-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 - Policy

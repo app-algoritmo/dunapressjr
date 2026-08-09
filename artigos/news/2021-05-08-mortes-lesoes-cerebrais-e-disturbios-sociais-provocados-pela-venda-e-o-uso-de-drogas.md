@@ -1,9 +1,9 @@
 ---
-title: Mortes, lesões cerebrais e distúrbios sociais   provocados pela venda e o uso
+title: Mortes, lesões cerebrais e distúrbios sociais provocados pela venda e o uso
   de drogas
 date: 2021-05-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

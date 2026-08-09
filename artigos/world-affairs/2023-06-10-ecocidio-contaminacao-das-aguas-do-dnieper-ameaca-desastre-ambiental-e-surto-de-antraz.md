@@ -3,7 +3,7 @@ title: 'Ecocídio: Contaminação das águas do Dnieper ameaça desastre ambient
   de antraz'
 date: 2023-06-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

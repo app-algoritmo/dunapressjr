@@ -3,7 +3,7 @@ title: Crianças com melhor situação financeira ouvem 30 milhões de palavras 
   até os 4 anos que crianças menos abastadas
 date: 2019-04-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

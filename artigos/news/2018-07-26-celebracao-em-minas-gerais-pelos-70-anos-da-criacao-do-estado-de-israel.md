@@ -2,7 +2,7 @@
 title: Celebração em Minas Gerais pelos 70 anos da criação do Estado de Israel
 date: 2018-07-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

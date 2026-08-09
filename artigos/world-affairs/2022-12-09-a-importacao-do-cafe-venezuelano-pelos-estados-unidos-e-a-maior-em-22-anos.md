@@ -2,7 +2,7 @@
 title: A Importação do café venezuelano pelos Estados Unidos é a maior em 22 anos
 date: 2022-12-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

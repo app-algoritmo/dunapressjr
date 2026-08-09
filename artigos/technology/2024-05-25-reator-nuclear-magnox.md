@@ -2,7 +2,7 @@
 title: Reator Nuclear Magnox
 date: 2024-05-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Technology
 ---

@@ -2,7 +2,7 @@
 title: Enem tem 65% dos inscritos já formados no ensino médio em anos anteriores
 date: 2020-06-01
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

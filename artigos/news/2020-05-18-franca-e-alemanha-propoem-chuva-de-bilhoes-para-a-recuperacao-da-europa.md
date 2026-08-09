@@ -2,7 +2,7 @@
 title: França e Alemanha propõem chuva de bilhões para a recuperação da Europa
 date: 2020-05-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Caixa anuncia redução de juros e pausa em contratos de crédito
 date: 2020-03-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

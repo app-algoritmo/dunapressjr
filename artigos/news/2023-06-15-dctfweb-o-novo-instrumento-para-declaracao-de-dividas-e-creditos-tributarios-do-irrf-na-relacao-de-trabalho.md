@@ -3,7 +3,7 @@ title: DCTFWeb :O Novo Instrumento para Declaração de Dívidas e Créditos Tri
   do IRRF na Relação de Trabalho
 date: 2023-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

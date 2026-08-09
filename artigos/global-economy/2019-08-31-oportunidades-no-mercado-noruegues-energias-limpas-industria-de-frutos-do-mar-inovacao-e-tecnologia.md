@@ -3,7 +3,7 @@ title: 'Oportunidades no mercado norueguês: energias limpas, indústria de frut
   mar, inovação e tecnologia'
 date: 2019-08-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

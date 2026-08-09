@@ -2,7 +2,7 @@
 title: 'Purgatório: Foram as Pandemias motivações para sua popularização?'
 date: 2020-04-25
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

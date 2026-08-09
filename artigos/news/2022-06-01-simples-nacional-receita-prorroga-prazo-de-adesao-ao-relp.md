@@ -2,7 +2,7 @@
 title: 'Simples Nacional: Receita prorroga prazo de adesão ao Relp'
 date: 2022-06-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

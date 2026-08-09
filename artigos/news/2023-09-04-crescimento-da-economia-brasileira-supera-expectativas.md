@@ -2,7 +2,7 @@
 title: Crescimento da economia brasileira supera expectativas
 date: 2023-09-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

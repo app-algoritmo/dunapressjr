@@ -2,7 +2,7 @@
 title: Emprego na construção é o maior para setembro nos últimos oito anos
 date: 2020-10-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

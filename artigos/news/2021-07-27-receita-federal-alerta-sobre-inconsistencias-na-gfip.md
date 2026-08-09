@@ -2,7 +2,7 @@
 title: Receita Federal alerta sobre inconsistências na GFIP
 date: 2021-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Chefe eleitoral do Equador denuncia centro de contagem paralela
 date: 2023-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

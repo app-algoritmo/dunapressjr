@@ -2,7 +2,7 @@
 title: Indústria nacional recua 0,6% em agosto
 date: 2022-10-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

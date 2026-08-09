@@ -2,7 +2,7 @@
 title: 'Introdução a Mulher da Grécia Antiga: O Mito de Pandora'
 date: 2020-05-10
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

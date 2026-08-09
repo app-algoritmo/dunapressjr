@@ -2,7 +2,7 @@
 title: Confiança do empresário do comércio cresce 0,7%
 date: 2022-11-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Concessões de crédito atingem quase R$ 1 trilhão, diz Febraban
 date: 2020-06-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

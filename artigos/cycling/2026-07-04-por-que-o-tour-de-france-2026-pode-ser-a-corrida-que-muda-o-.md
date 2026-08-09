@@ -3,7 +3,7 @@ title: "Por que o Tour de France 2026 pode ser a corrida que muda o ciclismo par
 subtitle: "Com largada em Barcelona e novos critérios de sustentabilidade obrigatórios, a 123ª edição do Tour coloca em xeque o modelo centenário das grandes voltas — e aponta para um esporte radicalmente diferente."
 date: 2026-07-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - cycling
 description: "O Tour de France 2026 estreia fora da França pela primeira vez em 21 anos, com largada em Barcelona e um pacote de exigências ambientais inéditas da UCI. A combinação entre pressão climática, expansão geográfica e o boom do ciclismo urbano global está redesenhando o que significa ser o maior evento de ciclismo do planeta."

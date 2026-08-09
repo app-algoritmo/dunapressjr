@@ -2,7 +2,7 @@
 title: Adesão a parcelamento especial do Simples é prorrogado para 31 de maio
 date: 2022-04-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

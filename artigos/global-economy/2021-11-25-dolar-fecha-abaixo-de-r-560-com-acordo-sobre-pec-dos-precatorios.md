@@ -2,7 +2,7 @@
 title: Dólar fecha abaixo de R$ 5,60 com acordo sobre PEC dos Precatórios
 date: 2021-11-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

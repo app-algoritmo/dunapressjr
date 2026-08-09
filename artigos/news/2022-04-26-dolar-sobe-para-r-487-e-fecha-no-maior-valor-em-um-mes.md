@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 4,87 e fecha no maior valor em um mês
 date: 2022-04-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

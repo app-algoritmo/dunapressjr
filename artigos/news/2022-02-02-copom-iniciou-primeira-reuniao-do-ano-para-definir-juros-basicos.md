@@ -2,7 +2,7 @@
 title: Copom iniciou primeira reunião do ano para definir juros básicos
 date: 2022-02-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

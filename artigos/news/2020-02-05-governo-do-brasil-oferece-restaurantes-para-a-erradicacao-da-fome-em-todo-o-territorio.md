@@ -3,7 +3,7 @@ title: Governo do Brasil oferece restaurantes para a erradicação da fome em to
   território
 date: 2020-02-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

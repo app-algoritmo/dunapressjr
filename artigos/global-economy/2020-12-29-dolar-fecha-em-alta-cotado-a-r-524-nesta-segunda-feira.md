@@ -2,7 +2,7 @@
 title: Dólar fecha em alta, cotado a R$ 5,24 nesta segunda-feira
 date: 2020-12-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

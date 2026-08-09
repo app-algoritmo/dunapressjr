@@ -2,7 +2,7 @@
 title: 'CAGED: Saldo de emprego formal foi de 195.171 postos em março'
 date: 2023-04-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

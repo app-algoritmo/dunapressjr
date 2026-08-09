@@ -2,7 +2,7 @@
 title: 'Coronavírus: Brasil cria grupo para monitorar casos de risco de contágio'
 date: 2020-01-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

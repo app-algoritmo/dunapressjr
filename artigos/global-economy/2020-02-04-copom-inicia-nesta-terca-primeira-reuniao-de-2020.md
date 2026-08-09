@@ -2,7 +2,7 @@
 title: Copom inicia nesta terça primeira reunião de 2020
 date: 2020-02-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Mercado da CPR Verde estima operações de até R$ 30 bi em quatro anos
 date: 2021-10-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

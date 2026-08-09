@@ -2,7 +2,7 @@
 title: 'Elon Musk: O Nosso Tony Stark da Vida Real'
 date: 2024-04-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Lifestyle
 - Technology

@@ -3,7 +3,7 @@ title: Publicada no Diário Oficial da União a prorrogação do direito antidum
   Importações de tubos de aço carbono da China e Romênia
 date: 2023-07-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

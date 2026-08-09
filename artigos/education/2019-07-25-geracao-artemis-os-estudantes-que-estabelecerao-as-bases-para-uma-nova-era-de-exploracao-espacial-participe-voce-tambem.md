@@ -3,7 +3,7 @@ title: Geração Artemis, os estudantes que estabelecerão as bases para uma nov
   de exploração espacial, participe você também!
 date: 2019-07-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

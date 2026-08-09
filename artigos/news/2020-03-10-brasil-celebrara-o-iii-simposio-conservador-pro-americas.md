@@ -2,7 +2,7 @@
 title: Brasil celebrará o III Simpósio Conservador Pró-Américas
 date: 2020-03-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

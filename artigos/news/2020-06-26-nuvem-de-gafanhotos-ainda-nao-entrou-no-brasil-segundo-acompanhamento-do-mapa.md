@@ -2,7 +2,7 @@
 title: Nuvem de gafanhotos ainda não entrou no Brasil, segundo acompanhamento do Mapa
 date: 2020-06-26
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

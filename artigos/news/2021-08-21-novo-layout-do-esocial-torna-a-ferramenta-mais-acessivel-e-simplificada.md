@@ -2,7 +2,7 @@
 title: Novo layout do eSocial torna a ferramenta mais acessível e simplificada
 date: 2021-08-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "Por que o Brasil ainda mata empresas antes de elas completarem dois anos
 subtitle: "Com 21 milhões de pequenos negócios ativos e uma taxa de mortalidade que supera 50% na marca dos 24 meses, o país acumula evidências de onde o nó está — e de quem já começou a desatá-lo."
 date: 2026-07-29
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - entrepreneurship
 description: "O Brasil tem mais empreendedores do que nunca, mas ainda perde mais da metade deles antes dos dois anos de operação — um paradoxo que novos dados do Sebrae e mudanças regulatórias recentes tornam urgente entender. O que separa quem sobrevive de quem fecha tem menos a ver com talento e mais com acesso, burocracia e um sistema financeiro que ainda trata o pequeno empresário como risco, não como aposta."

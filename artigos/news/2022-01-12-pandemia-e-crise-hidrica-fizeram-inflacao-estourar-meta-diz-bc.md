@@ -2,7 +2,7 @@
 title: Pandemia e crise hídrica fizeram inflação estourar meta, diz BC
 date: 2022-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

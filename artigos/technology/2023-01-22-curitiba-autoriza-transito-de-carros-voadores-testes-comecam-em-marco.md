@@ -2,7 +2,7 @@
 title: Curitiba autoriza trânsito de “carros voadores”; testes começam em março
 date: 2023-01-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

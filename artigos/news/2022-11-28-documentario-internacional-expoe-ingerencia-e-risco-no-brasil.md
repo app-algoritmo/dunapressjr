@@ -2,7 +2,7 @@
 title: Documentário internacional expõe ingerência e risco no Brasil
 date: 2022-11-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

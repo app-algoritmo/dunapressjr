@@ -2,7 +2,7 @@
 title: FMI prevê queda de 5,3% da economia brasileira este ano
 date: 2020-04-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

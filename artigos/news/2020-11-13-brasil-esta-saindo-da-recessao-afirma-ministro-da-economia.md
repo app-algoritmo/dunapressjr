@@ -2,7 +2,7 @@
 title: Brasil está saindo da recessão, afirma ministro da Economia
 date: 2020-11-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Novo recorde para exportações no mês de Maio - US$ 10,9 bilhões
 date: 2020-06-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

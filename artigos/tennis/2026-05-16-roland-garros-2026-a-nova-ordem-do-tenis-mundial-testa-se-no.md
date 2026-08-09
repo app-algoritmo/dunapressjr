@@ -3,7 +3,7 @@ title: "Roland Garros 2026: A Nova Ordem do Ténis Mundial Testa-se no Saibro de
 subtitle: "Com Alcaraz consolidado como favorito e uma geração emergente a bater à porta, o Grand Slam francês promete redefinir as hierarquias do circuito masculino e feminino numa edição histórica"
 date: 2026-05-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tennis
 description: "Roland Garros 2026 abre-se num momento de transição genuína do ténis mundial. Carlos Alcaraz chega como grande favorito no masculino, mas enfrenta uma nova vaga de tenistas que já não se intimidam com a sua aura. No feminino, a ausência de uma dominadora clara torna o torneio o mais aberto em anos. A Duna Press analisa o estado do jogo antes da primeira bola ser batida em Paris."

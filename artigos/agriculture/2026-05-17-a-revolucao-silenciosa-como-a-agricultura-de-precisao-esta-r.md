@@ -3,7 +3,7 @@ title: "A Revolução Silenciosa: Como a Agricultura de Precisão Está Redesenh
 subtitle: "Entre sensores inteligentes, inteligência artificial e pressão climática crescente, produtores rurais enfrentam a mais profunda transformação produtiva das últimas décadas — e o Brasil ocupa posição central nesse movimento global"
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - agriculture
 description: "A agricultura brasileira vive em 2026 um ponto de inflexão tecnológica sem precedentes. A combinação de ferramentas de inteligência artificial, sensoriamento remoto e biotecnologia está alterando radicalmente a produtividade e a sustentabilidade do campo, mas também aprofundando desigualdades estruturais entre grandes produtores e agricultores familiares. Este artigo analisa o cenário atual, os dados mais recentes e os desafios que ainda precisam ser enfrentados."

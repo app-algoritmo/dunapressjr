@@ -2,7 +2,7 @@
 title: 'IBGE: IPCA de setembro de 2023 registra aumento de 0,26%'
 date: 2023-10-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

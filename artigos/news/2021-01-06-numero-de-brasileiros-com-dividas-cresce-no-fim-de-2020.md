@@ -2,7 +2,7 @@
 title: Número de brasileiros com dívidas cresce no fim de 2020
 date: 2021-01-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

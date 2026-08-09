@@ -3,7 +3,7 @@ title: Alexandro Loiola, estoura a bomba e conta os bastidores da secretaria esp
   da cultura
 date: 2020-03-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'A Perfídia na Operação 8 de Janeiro de Brasília: Um Escândalo na Hi
   Contemporânea do Brasil'
 date: 2024-04-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

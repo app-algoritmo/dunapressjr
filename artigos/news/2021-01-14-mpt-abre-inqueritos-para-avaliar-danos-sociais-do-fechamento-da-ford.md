@@ -2,7 +2,7 @@
 title: MPT abre inquéritos para avaliar danos sociais do fechamento da Ford
 date: 2021-01-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

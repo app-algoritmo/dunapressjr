@@ -2,7 +2,7 @@
 title: Polícia Federal inicia segunda fase da 'Operação Jogada Ensaiada”
 date: 2023-08-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

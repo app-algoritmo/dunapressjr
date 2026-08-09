@@ -3,7 +3,7 @@ title: "A Nova Anatomia do Empreendedor Brasileiro: Entre a Resiliência e a Rei
 subtitle: "Em um cenário de juros persistentemente elevados, instabilidade regulatória e transformação tecnológica acelerada, o empreendedorismo nacional atravessa uma mutação silenciosa que redefine quem são, como pensam e como sobrevivem os fundadores do século XXI."
 date: 2026-06-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - entrepreneurship
 description: "O empreendedorismo brasileiro em 2026 não é mais o mesmo dos anos de euforia das startups. Uma nova geração de fundadores emerge com perfil híbrido, maior tolerância à ambiguidade e foco obsessivo em unit economics. Este artigo analisa as forças estruturais que estão redesenhando o ecossistema empreendedor do país e o que isso significa para investidores, políticas públicas e para a próxima leva de negócios que tentará escalar."

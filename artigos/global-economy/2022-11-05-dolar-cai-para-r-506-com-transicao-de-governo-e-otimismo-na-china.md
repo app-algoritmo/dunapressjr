@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,06 com transição de governo e otimismo na China
 date: 2022-11-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

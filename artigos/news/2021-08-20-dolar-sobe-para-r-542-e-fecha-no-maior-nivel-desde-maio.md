@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,42 e fecha no maior nível desde maio
 date: 2021-08-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

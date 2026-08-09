@@ -2,7 +2,7 @@
 title: Dólar fecha no menor nível em um mês em dia de reforma administrativa
 date: 2020-09-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Trump diz que EUA estão em 'ótima forma' com plano para coronavírus
 date: 2020-01-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Navio a Vapor Great Easter
 date: 2019-04-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Tarifas de importação de aço aumentarão para 12 produtos a partir de outubro
 date: 2023-09-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

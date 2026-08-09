@@ -2,7 +2,7 @@
 title: Presidente do BC se diz surpreso com a alta da inflação
 date: 2022-04-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

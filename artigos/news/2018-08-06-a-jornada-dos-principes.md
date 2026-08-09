@@ -2,7 +2,7 @@
 title: A Jornada dos Príncipes
 date: 2018-08-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

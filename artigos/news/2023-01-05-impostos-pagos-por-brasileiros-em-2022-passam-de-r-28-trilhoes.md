@@ -2,7 +2,7 @@
 title: Impostos pagos por brasileiros em 2022 passam de R$ 2,8 trilhões
 date: 2023-01-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

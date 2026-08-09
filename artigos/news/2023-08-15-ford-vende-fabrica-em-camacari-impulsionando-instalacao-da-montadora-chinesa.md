@@ -2,7 +2,7 @@
 title: Ford vende fábrica em Camaçari impulsionando instalação da montadora chinesa
 date: 2023-08-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

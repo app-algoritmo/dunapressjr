@@ -2,7 +2,7 @@
 title: Inflação oficial fica em 1,06% em abril, diz IBGE
 date: 2022-05-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

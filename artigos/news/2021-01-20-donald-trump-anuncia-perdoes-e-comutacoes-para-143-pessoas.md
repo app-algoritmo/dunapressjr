@@ -2,7 +2,7 @@
 title: Donald Trump anuncia perdões e comutações para 143 pessoas
 date: 2021-01-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

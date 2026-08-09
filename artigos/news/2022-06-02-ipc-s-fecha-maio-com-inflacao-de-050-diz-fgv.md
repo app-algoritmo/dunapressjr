@@ -2,7 +2,7 @@
 title: IPC-S fecha maio com inflação de 0,50%, diz FGV
 date: 2022-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

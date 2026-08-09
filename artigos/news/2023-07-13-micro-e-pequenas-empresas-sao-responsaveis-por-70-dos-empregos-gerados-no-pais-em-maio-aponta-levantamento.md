@@ -3,7 +3,7 @@ title: Micro e pequenas empresas são responsáveis por 70% dos empregos gerados
   país em maio, aponta levantamento
 date: 2023-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: STF inicia votação sobre alterações na Lei de Improbidade
 date: 2022-08-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

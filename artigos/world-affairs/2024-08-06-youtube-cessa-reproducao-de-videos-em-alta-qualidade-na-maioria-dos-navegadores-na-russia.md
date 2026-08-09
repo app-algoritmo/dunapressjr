@@ -3,7 +3,7 @@ title: YouTube Cessa Reprodução de Vídeos em Alta Qualidade na Maioria dos Na
   na Rússia
 date: 2024-08-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

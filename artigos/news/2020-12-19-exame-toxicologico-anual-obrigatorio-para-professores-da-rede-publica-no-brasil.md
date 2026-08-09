@@ -1,9 +1,9 @@
 ---
-title: Exame toxicológico anual obrigatório   para professores da rede pública no
+title: Exame toxicológico anual obrigatório para professores da rede pública no
   Brasil
 date: 2020-12-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

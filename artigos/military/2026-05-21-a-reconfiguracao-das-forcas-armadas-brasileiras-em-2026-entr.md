@@ -3,7 +3,7 @@ title: "A Reconfiguração das Forças Armadas Brasileiras em 2026: Entre Modern
 subtitle: "Com pressões fiscais crescentes e demandas operacionais cada vez mais complexas, o Exército, a Marinha e a Força Aérea navegam por um período de transformação estrutural que definirá a postura de defesa do Brasil pela próxima década"
 date: 2026-05-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - military
 description: "As Forças Armadas brasileiras enfrentam em 2026 um momento decisivo de reconfiguração, equilibrando investimentos em tecnologia e capacidade operacional com restrições orçamentárias severas, enquanto o cenário geopolítico regional exige postura estratégica renovada."

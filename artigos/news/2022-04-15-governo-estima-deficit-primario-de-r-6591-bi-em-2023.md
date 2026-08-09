@@ -2,7 +2,7 @@
 title: Governo estima déficit primário de R$ 65,91 bi em 2023
 date: 2022-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

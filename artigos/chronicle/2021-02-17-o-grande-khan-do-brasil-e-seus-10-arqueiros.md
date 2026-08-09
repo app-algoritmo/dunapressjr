@@ -2,7 +2,7 @@
 title: O grande Khan do Brasil e seus 10 arqueiros
 date: 2021-02-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 ---

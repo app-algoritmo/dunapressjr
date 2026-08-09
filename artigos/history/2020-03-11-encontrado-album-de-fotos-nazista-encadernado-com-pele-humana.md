@@ -1,5 +1,5 @@
 ---
-title: Encontrado álbum de fotos nazista  encadernado com pele humana
+title: Encontrado álbum de fotos nazista encadernado com pele humana
 date: 2020-03-11
 status: publish
 author: Joice Ferreira

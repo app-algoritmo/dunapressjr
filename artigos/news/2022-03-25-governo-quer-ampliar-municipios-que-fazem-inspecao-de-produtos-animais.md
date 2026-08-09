@@ -2,7 +2,7 @@
 title: Governo quer ampliar municípios que fazem inspeção de produtos animais
 date: 2022-03-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

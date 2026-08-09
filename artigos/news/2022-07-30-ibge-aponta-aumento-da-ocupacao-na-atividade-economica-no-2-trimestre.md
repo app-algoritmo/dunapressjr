@@ -2,7 +2,7 @@
 title: IBGE aponta aumento da ocupação na atividade econômica no 2º trimestre
 date: 2022-07-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

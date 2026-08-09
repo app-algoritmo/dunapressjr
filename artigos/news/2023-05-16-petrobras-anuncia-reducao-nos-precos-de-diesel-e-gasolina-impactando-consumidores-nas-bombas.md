@@ -3,7 +3,7 @@ title: Petrobras anuncia redução nos preços de diesel e gasolina, impactando 
   nas bombas
 date: 2023-05-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

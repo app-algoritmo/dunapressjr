@@ -2,7 +2,7 @@
 title: Boluarte comemora um mês na presidência do Peru em meio a protestos
 date: 2023-01-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 - Policy

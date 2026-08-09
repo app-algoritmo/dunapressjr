@@ -2,7 +2,7 @@
 title: Ministro pede que FMI amplie financiamentos a países pobres
 date: 2021-10-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

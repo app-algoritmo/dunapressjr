@@ -3,7 +3,7 @@ title: Operação autorregularização do Simples Nacional com foco em PIS e COF
   indicação de existência de tributação monofásica
 date: 2023-02-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

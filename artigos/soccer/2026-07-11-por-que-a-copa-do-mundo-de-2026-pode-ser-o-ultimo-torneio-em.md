@@ -3,7 +3,7 @@ title: "Por que a Copa do Mundo de 2026 pode ser o último torneio em que o fute
 subtitle: "Com 48 seleções, três países-sede e um modelo de negócios sem precedentes, o Mundial que começa hoje redefinirá quem realmente manda no esporte mais assistido do planeta."
 date: 2026-07-11
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - soccer
 description: "A Copa do Mundo de 2026, disputada simultaneamente em Estados Unidos, Canadá e México a partir de 11 de julho, inaugura um formato expandido de 48 seleções que triplicou o valor dos direitos de transmissão e aproximou o futebol de um modelo de franquia americano. O que está em jogo não é apenas o troféu, mas o controle simbólico e financeiro do esporte que move mais paixões — e mais dinheiro — do que qualquer outro no mundo."

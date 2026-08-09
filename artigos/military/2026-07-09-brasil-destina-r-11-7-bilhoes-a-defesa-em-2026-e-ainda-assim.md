@@ -3,7 +3,7 @@ title: "Brasil destina R$ 11,7 bilhões à defesa em 2026 — e ainda assim comp
 subtitle: "O maior orçamento militar da América do Sul não garante capacidade operacional: entenda o paradoxo que preocupa o Estado-Maior e atrai olhares de Brasília ao Pentágono."
 date: 2026-07-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - military
 description: "O Brasil aprovou o maior orçamento de defesa de sua história recente, R$ 11,7 bilhões em 2026, mas segue com frotas desatualizadas, contratos travados e dependência tecnológica de fornecedores externos. A contradição entre volume de recursos e capacidade real de emprego revela um problema estrutural que vai além do dinheiro."

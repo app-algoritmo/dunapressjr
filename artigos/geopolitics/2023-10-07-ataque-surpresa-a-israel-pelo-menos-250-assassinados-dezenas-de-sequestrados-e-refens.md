@@ -3,7 +3,7 @@ title: 'Ataque surpresa a Israel: Pelo menos 250 assassinados, dezenas de seques
   e reféns'
 date: 2023-10-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

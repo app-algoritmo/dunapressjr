@@ -2,7 +2,7 @@
 title: Custo da construção civil sobe 2,17% em maio, diz IBGE
 date: 2022-06-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

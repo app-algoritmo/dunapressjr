@@ -3,7 +3,7 @@ title: Baseado nos recordes de valores de soja e milho, VBP de 2020 é estimado 
   R$ 716,6 bilhões
 date: 2020-07-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

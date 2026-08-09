@@ -3,7 +3,7 @@ title: Medida Provisória suspende eleições para reitores e vices em universid
   e institutos federais
 date: 2020-06-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Lançado serviço digital para obtenção de crédito fundiário pelo Mapa
 date: 2020-07-28
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

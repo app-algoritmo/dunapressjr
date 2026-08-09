@@ -2,7 +2,7 @@
 title: Bolsonaro, a última barragem de contenção contra o comunismo na América Latina
 date: 2022-09-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

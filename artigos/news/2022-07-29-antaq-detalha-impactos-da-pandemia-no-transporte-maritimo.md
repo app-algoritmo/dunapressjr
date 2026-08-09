@@ -2,7 +2,7 @@
 title: Antaq detalha impactos da pandemia no transporte marítimo
 date: 2022-07-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

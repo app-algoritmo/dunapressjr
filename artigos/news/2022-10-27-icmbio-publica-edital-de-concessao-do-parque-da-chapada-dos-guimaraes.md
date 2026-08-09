@@ -2,7 +2,7 @@
 title: ICMBio publica edital de concessão do parque da Chapada dos Guimarães
 date: 2022-10-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

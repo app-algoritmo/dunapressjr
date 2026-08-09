@@ -3,7 +3,7 @@ title: Análise do impacto psicológico do enfrentamento à epidemia em profissi
   da saúde é alvo de pesquisa
 date: 2020-07-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

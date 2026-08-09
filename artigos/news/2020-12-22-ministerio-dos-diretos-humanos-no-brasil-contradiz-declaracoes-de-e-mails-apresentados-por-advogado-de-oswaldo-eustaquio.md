@@ -3,7 +3,7 @@ title: Ministério dos Diretos Humanos no Brasil contradiz declarações de e-ma
   por advogado de Oswaldo Eustáquio
 date: 2020-12-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

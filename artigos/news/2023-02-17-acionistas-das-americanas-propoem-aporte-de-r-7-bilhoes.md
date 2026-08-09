@@ -2,7 +2,7 @@
 title: Acionistas das Americanas propõem aporte de R$ 7 bilhões
 date: 2023-02-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

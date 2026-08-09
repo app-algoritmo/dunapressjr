@@ -2,7 +2,7 @@
 title: Produção industrial recua em dez dos quinze locais pesquisados pelo IBGE
 date: 2022-03-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

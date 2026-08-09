@@ -2,7 +2,7 @@
 title: Índice Nacional da Construção Civil varia 0,11% em novembro
 date: 2019-12-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

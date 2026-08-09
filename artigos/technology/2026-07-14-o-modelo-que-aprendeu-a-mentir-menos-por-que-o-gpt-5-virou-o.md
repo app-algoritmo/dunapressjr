@@ -3,7 +3,7 @@ title: "O modelo que aprendeu a mentir menos: por que o GPT-5 virou o campo de b
 subtitle: "Com a União Europeia exigindo auditoria obrigatória de sistemas de IA de alto risco a partir de agosto e a OpenAI lançando seu modelo mais poderoso em meio a esse prazo, o mundo enfrenta a primeira tensão concreta entre inovação em velocidade máxima e governança com dentes."
 date: 2026-07-14
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - technology
 description: "O lançamento global do GPT-5 coincide com o prazo de implementação plena do AI Act europeu, criando o primeiro teste real de como empresas de tecnologia vão operar em um mundo que passou a cobrar explicações. O Brasil, sem regulação própria aprovada, vê a janela de influência estreitar enquanto Brasília ainda debate o texto final do PL 2338."

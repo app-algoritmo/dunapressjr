@@ -2,7 +2,7 @@
 title: Prova da Olimpíada de Matemática será em 22 de Setembro
 date: 2020-05-20
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

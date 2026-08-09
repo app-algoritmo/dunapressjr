@@ -2,7 +2,7 @@
 title: 'INSS: autorizado concurso para técnico de seguro social'
 date: 2022-06-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Black Lives Matter destrói estátua de imigrante que morreu lutando cont
   escravidão
 date: 2020-06-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Boletim Focus revela projeções firmes para crescimento do PIB
 date: 2023-10-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Consórcio internacional de analistas forenses liderados por Matthew Tyrm
   revela que eleições no Brasil são assunto de nível da Interpol
 date: 2023-02-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: IGP-M de setembro registra recuperação de 0,37% após queda em agosto
 date: 2023-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

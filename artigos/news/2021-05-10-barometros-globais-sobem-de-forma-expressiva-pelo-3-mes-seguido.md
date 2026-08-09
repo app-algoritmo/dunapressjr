@@ -2,7 +2,7 @@
 title: Barômetros Globais sobem de forma expressiva pelo 3º mês seguido
 date: 2021-05-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

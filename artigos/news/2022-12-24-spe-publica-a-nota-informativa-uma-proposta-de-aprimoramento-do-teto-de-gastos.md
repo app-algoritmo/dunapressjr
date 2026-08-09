@@ -2,7 +2,7 @@
 title: SPE publica a Nota Informativa ‘Uma Proposta de Aprimoramento do Teto de Gastos’
 date: 2022-12-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

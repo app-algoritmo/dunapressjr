@@ -2,7 +2,7 @@
 title: Tabela do piso mínimo de frete rodoviário é atualizada
 date: 2023-01-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Mercado financeiro revisa para baixo projeção de inflação em 2023
 date: 2023-11-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

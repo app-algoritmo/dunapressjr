@@ -2,7 +2,7 @@
 title: O governador da Paraíba participou do Fórum Alternativas Energéticas 2021
 date: 2021-10-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

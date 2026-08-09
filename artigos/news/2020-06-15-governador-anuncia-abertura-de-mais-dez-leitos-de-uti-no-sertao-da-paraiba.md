@@ -2,7 +2,7 @@
 title: Governador anuncia abertura de mais dez leitos de UTI no Sertão da Paraíba
 date: 2020-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

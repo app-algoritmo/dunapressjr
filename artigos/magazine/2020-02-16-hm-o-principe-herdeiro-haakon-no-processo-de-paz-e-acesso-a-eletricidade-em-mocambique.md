@@ -3,7 +3,7 @@ title: HM O Príncipe herdeiro Haakon no processo de paz e acesso à eletricidad
   Moçambique
 date: 2020-02-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

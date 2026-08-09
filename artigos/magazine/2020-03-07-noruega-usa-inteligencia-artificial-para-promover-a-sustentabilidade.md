@@ -2,7 +2,7 @@
 title: Noruega usa inteligência artificial para promover a sustentabilidade
 date: 2020-03-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

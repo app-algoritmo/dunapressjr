@@ -2,7 +2,7 @@
 title: Novo Plano Estratégico 2020-2027 pelo Ministério da Agricultura
 date: 2020-06-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

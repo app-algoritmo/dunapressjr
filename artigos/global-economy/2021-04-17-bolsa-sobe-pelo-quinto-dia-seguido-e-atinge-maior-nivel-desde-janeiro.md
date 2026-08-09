@@ -2,7 +2,7 @@
 title: Bolsa sobe pelo quinto dia seguido e atinge maior nível desde janeiro
 date: 2021-04-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

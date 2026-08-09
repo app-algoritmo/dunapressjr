@@ -2,7 +2,7 @@
 title: Ministério eleva isenção para mercadorias compradas em free shops
 date: 2022-01-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

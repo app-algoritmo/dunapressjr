@@ -3,7 +3,7 @@ title: Governador da Paraíba assina protocolo de intenções para instalação 
   do ramo de combustíveis no Estado
 date: 2020-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

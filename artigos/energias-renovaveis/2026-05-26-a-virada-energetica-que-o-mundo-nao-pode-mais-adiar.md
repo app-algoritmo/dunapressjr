@@ -3,7 +3,7 @@ title: "A Virada Energética que o Mundo Não Pode Mais Adiar"
 subtitle: "Com recordes de capacidade instalada e quedas históricas nos custos, as energias renováveis deixaram de ser promessa para se tornar a espinha dorsal da nova economia global — mas os desafios de infraestrutura e financiamento ainda ameaçam o ritmo da transição"
 date: 2026-05-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - energias-renovaveis
 description: "Em 2026, o setor de energias renováveis vive seu momento mais expressivo: capacidade solar e eólica batem recordes globais, os custos de geração atingem mínimas históricas e governos aceleram metas de descarbonização. Mas gargalos nas redes de distribuição, escassez de minerais críticos e desigualdades no acesso ao financiamento verde revelam que a transição energética é, antes de tudo, um desafio político e estrutural — não apenas tecnológico."

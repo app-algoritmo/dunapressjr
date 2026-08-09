@@ -2,7 +2,7 @@
 title: Porto de Cabedelo/PB realiza operação pioneira em parceria com empresa americana
 date: 2021-03-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

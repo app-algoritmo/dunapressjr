@@ -3,7 +3,7 @@ title: "Tadej Pogačar pedala contra o relógio — e contra a ideia de que cicl
 subtitle: "O esloveno de 26 anos virou o rosto mais reconhecível de uma transformação silenciosa: o ciclismo profissional começa a alimentar, dados na mão, a revolução das bicicletas nas cidades."
 date: 2026-06-13
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - cycling
 description: "Com o Tour de France 2026 a menos de três semanas (saída de Lille em 4 de julho), a figura de Pogačar catalisa uma conversa maior: como o esporte profissional e as políticas de mobilidade urbana finalmente começaram a se olhar. O momento importa porque cidades como São Paulo e Bogotá estão usando o apelo das grandes voltas como alavanca política para expandir ciclovias — e os números já aparecem nos orçamentos municipais."

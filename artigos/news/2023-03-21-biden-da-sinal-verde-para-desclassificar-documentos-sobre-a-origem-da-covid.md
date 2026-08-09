@@ -2,7 +2,7 @@
 title: Biden dá sinal verde para desclassificar documentos sobre a origem da Covid
 date: 2023-03-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

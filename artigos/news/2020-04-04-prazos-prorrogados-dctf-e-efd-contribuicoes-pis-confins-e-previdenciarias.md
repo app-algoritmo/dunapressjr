@@ -2,7 +2,7 @@
 title: 'Prazos prorrogados: DCTF e EFD-Contribuições – PIS, Confins e Previdenciárias'
 date: 2020-04-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

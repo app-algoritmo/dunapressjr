@@ -2,7 +2,7 @@
 title: Reparcelamento de Débitos do Microempreendedor Individual (MEI)
 date: 2022-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

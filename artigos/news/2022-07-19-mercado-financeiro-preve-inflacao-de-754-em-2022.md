@@ -2,7 +2,7 @@
 title: Mercado financeiro prevê inflação de 7,54% em 2022
 date: 2022-07-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

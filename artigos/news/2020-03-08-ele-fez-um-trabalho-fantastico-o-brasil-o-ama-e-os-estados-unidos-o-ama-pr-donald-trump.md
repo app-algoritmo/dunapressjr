@@ -3,7 +3,7 @@ title: '''Ele fez um trabalho fantástico, o Brasil o ama e os Estados Unidos o 
   PR Donald Trump'
 date: 2020-03-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

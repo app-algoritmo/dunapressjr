@@ -2,7 +2,7 @@
 title: Dólar aproxima-se de R$ 5,30 e fecha no maior valor desde maio
 date: 2021-08-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

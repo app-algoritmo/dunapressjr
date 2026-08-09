@@ -3,7 +3,7 @@ title: "A Amazônia perdeu 11 mil km² em 12 meses — e três estados mostram c
 subtitle: "Enquanto o desmatamento acumulado entre agosto de 2024 e julho de 2025 supera a área do Líbano, municípios do Pará, Mato Grosso e Amazonas registram queda superior a 40% na destruição florestal e revelam o que realmente funciona no campo."
 date: 2026-07-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - environment
 description: "O INPE divulga nesta semana os dados consolidados de desmatamento amazônico referentes ao ciclo agosto 2024–julho 2025, e o número preliminar de 11 mil km² já acende debates nas esferas federal, estadual e internacional. Mas ao contrário do que o dado bruto sugere, há municípios com quedas expressivas que oferecem um roteiro testado — e replicável."

@@ -2,7 +2,7 @@
 title: 1 milhão de estudantes atendidos em 2019 pela Rede Federal
 date: 2020-06-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

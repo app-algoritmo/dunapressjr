@@ -2,7 +2,7 @@
 title: O Ibovespa fecha praticamente estável com leve queda de 0,10%
 date: 2023-09-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

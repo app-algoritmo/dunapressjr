@@ -2,7 +2,7 @@
 title: GM propõe redução de salários em São José dos Campos, São Paulo
 date: 2020-04-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

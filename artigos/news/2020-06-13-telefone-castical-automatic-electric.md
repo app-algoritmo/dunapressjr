@@ -2,7 +2,7 @@
 title: Telefone-Castiçal Automatic Electric
 date: 2020-06-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

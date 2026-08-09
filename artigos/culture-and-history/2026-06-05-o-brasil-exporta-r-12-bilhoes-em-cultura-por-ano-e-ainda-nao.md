@@ -3,7 +3,7 @@ title: "O Brasil exporta R$ 12 bilhões em cultura por ano — e ainda não sabe
 subtitle: "Enquanto o país debate subsídios industriais, sua maior vantagem competitiva global já está em produção: a economia criativa brasileira cresceu 73% em uma década e ainda opera sem política nacional integrada."
 date: 2026-06-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - culture-and-history
 description: "A economia criativa brasileira movimenta R$ 12 bilhões em exportações anuais — de música ao audiovisual, do artesanato à moda — sem que o país tenha jamais construído uma política industrial para esse setor. Enquanto Coreia do Sul e México transformaram cultura em geopolítica suave e receita de exportação, o Brasil ainda trata patrimônio e criação como gasto, não como investimento."

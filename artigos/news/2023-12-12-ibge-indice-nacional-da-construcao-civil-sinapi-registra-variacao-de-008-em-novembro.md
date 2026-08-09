@@ -3,7 +3,7 @@ title: 'IBGE: Índice Nacional da Construção Civil (Sinapi) Registra Variaçã
   em novembro'
 date: 2023-12-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

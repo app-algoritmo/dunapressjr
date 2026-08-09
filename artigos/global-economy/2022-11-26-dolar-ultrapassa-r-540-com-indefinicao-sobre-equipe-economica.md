@@ -2,7 +2,7 @@
 title: Dólar ultrapassa R$ 5,40 com indefinição sobre equipe econômica
 date: 2022-11-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

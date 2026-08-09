@@ -2,7 +2,7 @@
 title: Ex-ministra argentina afirma que fará apresentação ao DEA para prender Maduro
 date: 2023-01-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

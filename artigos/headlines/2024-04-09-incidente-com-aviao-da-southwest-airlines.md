@@ -2,7 +2,7 @@
 title: Incidente com Avião da Southwest Airlines
 date: 2024-04-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Headlines
 ---

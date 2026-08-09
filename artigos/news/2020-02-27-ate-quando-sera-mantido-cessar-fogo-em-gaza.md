@@ -1,5 +1,5 @@
 ---
-title: Até quando será  mantido  cessar-fogo em Gaza?
+title: Até quando será mantido cessar-fogo em Gaza?
 date: 2020-02-27
 status: publish
 author: Joice Ferreira

@@ -2,7 +2,7 @@
 title: Copom faz primeira reunião do ano com expectativa em torno da Selic
 date: 2020-02-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

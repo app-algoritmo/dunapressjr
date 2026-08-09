@@ -3,7 +3,7 @@ title: "O Brasil que parece folclore mas move R$ 400 bilhões: a economia invis�
 subtitle: "Enquanto o debate público trata patrimônio e identidade como ornamento, dados do IBGE e do MinC revelam que o setor cultural brasileiro responde por mais de 4% do PIB — e ainda não sabe o tamanho de si mesmo."
 date: 2026-07-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - culture-and-history
 description: "A economia criativa brasileira moveu R$ 429 bilhões em 2024, segundo o Mapa da Cultura do MinC, mas segue tratada como política secundária em orçamentos federais e municipais. Entender por que isso acontece — e quem paga o preço — é a questão central da agenda cultural em 2026."

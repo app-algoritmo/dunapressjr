@@ -3,7 +3,7 @@ title: 'Fortalecendo a Literacia Digital: A Importância de Apoiar Pais e Filhos
   Mundo Digital'
 date: 2023-09-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Policy

@@ -2,7 +2,7 @@
 title: STF marca para amanhã análise de acordo sobre ICMS de combustíveis
 date: 2022-12-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

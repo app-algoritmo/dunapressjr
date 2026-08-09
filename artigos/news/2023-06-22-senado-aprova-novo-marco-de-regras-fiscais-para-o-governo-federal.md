@@ -2,7 +2,7 @@
 title: Senado aprova novo marco de regras fiscais para o governo federal
 date: 2023-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

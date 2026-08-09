@@ -2,7 +2,7 @@
 title: PM Erna Solberg inaugura a gigantesca plataforma petrolífera Johan Sverdrup
 date: 2020-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

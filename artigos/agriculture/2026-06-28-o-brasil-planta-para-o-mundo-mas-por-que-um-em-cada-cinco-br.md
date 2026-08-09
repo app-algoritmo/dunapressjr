@@ -3,7 +3,7 @@ title: "O Brasil planta para o mundo, mas por que um em cada cinco brasileiros a
 subtitle: "O maior exportador de alimentos do hemisfério sul convive com uma contradição que os dados de 2026 tornaram impossível de ignorar — e alguns estados já encontraram a saída."
 date: 2026-06-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - agriculture
 description: "O Brasil responde por 15% das exportações globais de alimentos, mas 57 milhões de brasileiros ainda vivem em algum grau de insegurança alimentar — uma tensão que novos dados do IBGE e experiências em Minas Gerais e no Nordeste ajudam a explicar e, em parte, a resolver. Entender essa contradição é entender para onde vai a política agrícola brasileira nos próximos anos."

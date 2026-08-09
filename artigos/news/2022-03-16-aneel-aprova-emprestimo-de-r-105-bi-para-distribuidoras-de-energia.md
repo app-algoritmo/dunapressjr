@@ -2,7 +2,7 @@
 title: Aneel aprova empréstimo de R$ 10,5 bi para distribuidoras de energia
 date: 2022-03-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

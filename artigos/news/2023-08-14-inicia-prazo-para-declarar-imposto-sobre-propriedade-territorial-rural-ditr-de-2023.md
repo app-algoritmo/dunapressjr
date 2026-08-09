@@ -3,7 +3,7 @@ title: Inicia prazo para declarar imposto sobre propriedade territorial rural (D
   de 2023
 date: 2023-08-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

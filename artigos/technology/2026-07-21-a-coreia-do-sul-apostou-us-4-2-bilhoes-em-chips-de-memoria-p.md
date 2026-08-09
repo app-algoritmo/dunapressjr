@@ -3,7 +3,7 @@ title: "A Coreia do Sul apostou US$ 4,2 bilhões em chips de memória para IA �
 subtitle: "Enquanto Samsung e SK Hynix aceleram a produção de HBM4, Seul transforma uma vantagem industrial histórica em protagonismo geopolítico no momento em que a demanda por memória para modelos de linguagem atinge seu pico mais alto."
 date: 2026-07-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - technology
 description: "A Coreia do Sul anunciou um pacote de R$ 4,2 bilhões para acelerar a produção doméstica de chips HBM4, o tipo de memória que alimenta modelos de IA como o GPT-4 e o Gemini. A decisão, tomada em julho de 2026, desloca o eixo da disputa tecnológica global para além dos processadores — e coloca Seul em posição de árbitro silencioso da corrida por inteligência artificial."

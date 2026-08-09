@@ -2,7 +2,7 @@
 title: Dólar fecha em alta e chega a R$ 4,89
 date: 2020-06-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

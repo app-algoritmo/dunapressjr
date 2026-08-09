@@ -3,7 +3,7 @@ title: Auto-Hemoterapia por Ozônio reverte pacientes com covid-19 criticamente 
   na China
 date: 2021-01-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

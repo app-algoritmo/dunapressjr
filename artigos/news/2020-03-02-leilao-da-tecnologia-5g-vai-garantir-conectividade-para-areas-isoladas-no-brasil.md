@@ -2,7 +2,7 @@
 title: Leilão da tecnologia 5G vai garantir conectividade para áreas isoladas no Brasil
 date: 2020-03-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

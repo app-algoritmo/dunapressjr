@@ -2,7 +2,7 @@
 title: Publicada com vetos lei sobre ajuda financeira a estados e municípios
 date: 2020-05-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

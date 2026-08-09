@@ -3,7 +3,7 @@ title: "Juros Altos, Crescimento Lento: O Dilema Estrutural da Economia Brasilei
 subtitle: "Com a Selic mantida em patamares elevados e o endividamento das famílias batendo recordes históricos, o Brasil enfrenta um ciclo econômico que desafia tanto o Banco Central quanto o governo federal na busca por um equilíbrio que parece cada vez mais distante"
 date: 2026-05-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - finances
 description: "A economia brasileira vive em maio de 2026 um dos seus momentos mais complexos dos últimos anos. A combinação de juros elevados, endividamento recorde das famílias e pressões fiscais persistentes cria um cenário em que as ferramentas tradicionais de política econômica mostram eficácia limitada. Este artigo analisa os vetores dessa crise estrutural e os caminhos possíveis para os próximos meses."

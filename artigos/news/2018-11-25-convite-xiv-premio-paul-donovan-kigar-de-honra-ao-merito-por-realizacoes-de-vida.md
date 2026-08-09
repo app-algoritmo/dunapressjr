@@ -3,7 +3,7 @@ title: Convite - XIV Prêmio Paul Donovan Kigar de honra ao mérito por realiza�
   de vida
 date: 2018-11-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

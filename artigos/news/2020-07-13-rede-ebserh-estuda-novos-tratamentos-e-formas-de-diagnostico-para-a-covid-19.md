@@ -2,7 +2,7 @@
 title: Rede Ebserh estuda novos tratamentos e formas de diagnóstico para a Covid-19
 date: 2020-07-13
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

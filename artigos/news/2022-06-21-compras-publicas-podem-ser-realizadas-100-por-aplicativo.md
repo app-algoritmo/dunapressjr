@@ -2,7 +2,7 @@
 title: Compras públicas podem ser realizadas 100% por aplicativo
 date: 2022-06-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

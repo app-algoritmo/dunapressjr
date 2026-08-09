@@ -3,7 +3,7 @@ title: "12.000 anos sob a caatinga: o sítio arqueológico que reescreve a chega
 subtitle: "Novas datações de sítios no Piauí e na Bahia desafiam o consenso científico sobre quando — e como — os primeiros humanos ocuparam o interior do Brasil, abrindo um debate que vai das universidades ao Congresso Nacional."
 date: 2026-06-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - arqueologia
 description: "Datações recentes de sítios no Piauí e na Bahia sugerem ocupação humana no nordeste brasileiro há pelo menos 12.000 anos, antecipando em milênios o que os livros didáticos ensinam. O debate científico chega em momento crítico: quase 40% dos sítios cadastrados pelo IPHAN estão sem qualquer proteção legal efetiva."

@@ -3,7 +3,7 @@ title: Ibovespa encerra em alta de 1,11% impulsionado por notícias internaciona
   e instituições financeiras locais
 date: 2023-08-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

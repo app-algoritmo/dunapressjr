@@ -2,7 +2,7 @@
 title: Ibovespa opera em alta, mas desacelera após decisão do Fed
 date: 2023-09-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

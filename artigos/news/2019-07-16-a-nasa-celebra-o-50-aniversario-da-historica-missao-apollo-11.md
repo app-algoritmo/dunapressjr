@@ -2,7 +2,7 @@
 title: A NASA celebra o 50º aniversário da histórica missão Apollo 11
 date: 2019-07-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

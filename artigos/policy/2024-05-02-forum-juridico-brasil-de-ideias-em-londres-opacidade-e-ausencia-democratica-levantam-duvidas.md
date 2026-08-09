@@ -3,7 +3,7 @@ title: 'Fórum Jurídico Brasil de Ideias em Londres: Opacidade e Ausência Demo
   Levantam Dúvidas'
 date: 2024-05-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

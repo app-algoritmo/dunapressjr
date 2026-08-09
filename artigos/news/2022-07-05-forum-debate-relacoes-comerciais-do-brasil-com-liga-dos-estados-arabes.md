@@ -2,7 +2,7 @@
 title: Fórum debate relações comerciais do Brasil com Liga dos Estados Árabes
 date: 2022-07-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

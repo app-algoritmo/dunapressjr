@@ -3,7 +3,7 @@ title: "Por que o maior experimento democrático da história durou apenas 14 an
 subtitle: "A República de Weimar, encerrada há 93 anos com a ascensão de Hitler, oferece um roteiro desconcertantemente atual sobre como democracias morrem por dentro — não por golpe, mas por erosão consentida."
 date: 2026-07-24
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - history
 description: "A República de Weimar, fundada em 1919 e destruída em 1933, é o caso clínico mais estudado da história sobre colapso democrático — e historiadores do MIT, Oxford e USP revisam agora o que realmente a matou. O debate importa porque os mecanismos identificados — polarização extrema, desinformação institucionalizada e elites que apostam em radicais para conter radicais — estão de volta ao centro da ciência política contemporânea."

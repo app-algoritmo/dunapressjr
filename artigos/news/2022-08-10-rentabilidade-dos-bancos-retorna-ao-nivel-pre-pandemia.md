@@ -2,7 +2,7 @@
 title: Rentabilidade dos bancos retorna ao nível pré-pandemia
 date: 2022-08-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

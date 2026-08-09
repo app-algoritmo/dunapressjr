@@ -3,7 +3,7 @@ title: "O clube dos 'neutros' já tem 40% do PIB mundial — e o Brasil ainda n�
 subtitle: "A reconfiguração silenciosa da ordem geopolítica em 2026 está criando um terceiro polo de poder que nem Washington nem Pequim controlam, e Brasília enfrenta a janela mais curta das últimas décadas para posicionar-se."
 date: 2026-07-23
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitics
 description: "Um conjunto de países que se recusam a escolher lado entre EUA e China já representa 40% do PIB global e redesenha rotas comerciais, alianças financeiras e normas tecnológicas sem pedir permissão ao Ocidente. O Brasil está no centro geográfico e diplomático desse movimento, mas sua posição ainda oscila entre oportunismo tático e ausência estratégica."

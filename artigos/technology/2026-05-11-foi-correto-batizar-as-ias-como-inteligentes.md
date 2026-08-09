@@ -2,7 +2,7 @@
 title: "Foi Correto Batizar as IAs como 'Inteligentes'?"
 date: 2026-05-11
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - technology
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778484474/Foi_Correto_Batizar_as_IAs_como_22Inteligentes_22_nsg119.jpg"

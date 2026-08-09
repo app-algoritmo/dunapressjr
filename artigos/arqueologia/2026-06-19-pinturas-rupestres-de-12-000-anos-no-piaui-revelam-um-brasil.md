@@ -3,7 +3,7 @@ title: "Pinturas rupestres de 12.000 anos no Piauí revelam um Brasil que chegou
 subtitle: "Novas datações na Serra da Capivara reescrevem a linha do tempo da presença humana nas Américas — e colocam o patrimônio brasileiro no centro de um debate científico global."
 date: 2026-06-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - arqueologia
 description: "Novas análises por luminescência em sítios do Parque Nacional Serra da Capivara sugerem ocupação humana no nordeste brasileiro entre 12.000 e 25.000 anos atrás, contrariando o modelo migratório dominante na arqueologia mundial. O debate científico em torno dessas descobertas é também uma disputa sobre quem conta a história do Brasil — e sobre quanto tempo temos para preservar os sítios antes que o vandalismo e o descaso encerrem a conversa."

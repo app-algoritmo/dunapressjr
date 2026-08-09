@@ -2,7 +2,7 @@
 title: Novos benefícios terão limite de prazo e de custo, diz Tesouro
 date: 2022-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

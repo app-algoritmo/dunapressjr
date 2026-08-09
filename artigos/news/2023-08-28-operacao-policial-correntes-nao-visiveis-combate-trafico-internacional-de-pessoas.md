@@ -3,7 +3,7 @@ title: Operação Policial 'Correntes não Visíveis' combate tráfico internaci
   pessoas
 date: 2023-08-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: ANM lança nova rodada de oferta de mineração
 date: 2022-09-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

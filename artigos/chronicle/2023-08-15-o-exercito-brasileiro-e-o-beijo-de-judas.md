@@ -2,7 +2,7 @@
 title: O exército brasileiro e o beijo de Judas
 date: 2023-08-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 - Policy

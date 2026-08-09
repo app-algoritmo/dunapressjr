@@ -2,7 +2,7 @@
 title: <strong>Dólar fica praticamente estável e fecha a R$ 5,31</strong>
 date: 2022-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

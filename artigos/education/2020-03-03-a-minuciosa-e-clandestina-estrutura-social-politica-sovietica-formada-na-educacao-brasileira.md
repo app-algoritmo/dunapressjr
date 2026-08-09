@@ -3,7 +3,7 @@ title: A minuciosa e clandestina estrutura social-política soviética formada n
   brasileira
 date: 2020-03-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Policy

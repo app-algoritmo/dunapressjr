@@ -2,7 +2,7 @@
 title: 'Venezuela sem parlamento: uma assembleia sem transcendência e outra sem legitimidade'
 date: 2023-01-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Bancos já podem fazer empréstimo consignado do Auxílio Brasil e BPC
 date: 2022-10-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

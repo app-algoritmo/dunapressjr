@@ -2,7 +2,7 @@
 title: Ministro da Fazenda pede cautela diante do desempenho inflado pelo agronegócio
 date: 2023-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

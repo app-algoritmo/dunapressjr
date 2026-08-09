@@ -3,7 +3,7 @@ title: Investigações avançam sobre o tiroteio contra Donald Trump, Serviço S
   faz revelações
 date: 2024-07-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - World Affairs

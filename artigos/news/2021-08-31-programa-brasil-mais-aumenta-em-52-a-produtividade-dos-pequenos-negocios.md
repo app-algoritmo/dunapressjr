@@ -2,7 +2,7 @@
 title: Programa Brasil Mais aumenta em 52% a produtividade dos pequenos negócios
 date: 2021-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

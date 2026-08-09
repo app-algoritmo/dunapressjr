@@ -2,7 +2,7 @@
 title: Caixa assume gestão dos recursos e pagamentos do Dpvat
 date: 2021-01-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

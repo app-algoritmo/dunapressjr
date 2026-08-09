@@ -2,7 +2,7 @@
 title: Imprensa mantem os olhos bem fechados para o escândalo Balenciaga
 date: 2022-12-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Fashion
 - Features

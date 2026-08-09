@@ -2,7 +2,7 @@
 title: Proprietário rural pode emitir Certificado de Cadastro de Imóvel
 date: 2022-07-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

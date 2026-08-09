@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,15 com alívio no mercado externo
 date: 2022-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Portugal credencia mais uma instituição para receber alunos do Enem brasileiro
 date: 2020-05-15
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

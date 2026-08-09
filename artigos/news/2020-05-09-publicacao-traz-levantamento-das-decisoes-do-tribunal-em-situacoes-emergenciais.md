@@ -2,7 +2,7 @@
 title: Publicação traz levantamento das decisões do Tribunal em situações emergenciais
 date: 2020-05-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

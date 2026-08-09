@@ -3,7 +3,7 @@ title: 'ChromeOS: O Novo Sistema Operacional do Google e Seus Benefícios em um 
   de Obsolescência Programada'
 date: 2024-10-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

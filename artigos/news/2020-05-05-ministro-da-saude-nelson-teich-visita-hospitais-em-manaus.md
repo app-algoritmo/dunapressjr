@@ -1,5 +1,5 @@
 ---
-title: Ministro da Saúde Nelson Teich  visita hospitais em Manaus
+title: Ministro da Saúde Nelson Teich visita hospitais em Manaus
 date: 2020-05-05
 status: publish
 author: Joice Ferreira

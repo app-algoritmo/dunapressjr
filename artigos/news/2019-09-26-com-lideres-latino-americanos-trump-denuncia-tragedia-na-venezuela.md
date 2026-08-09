@@ -2,7 +2,7 @@
 title: Com líderes latino-americanos, Trump denuncia 'tragédia' na Venezuela
 date: 2019-09-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

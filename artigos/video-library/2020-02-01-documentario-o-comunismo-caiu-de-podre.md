@@ -2,7 +2,7 @@
 title: 'Documentário: O comunismo caiu de podre'
 date: 2020-02-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Video library
 ---

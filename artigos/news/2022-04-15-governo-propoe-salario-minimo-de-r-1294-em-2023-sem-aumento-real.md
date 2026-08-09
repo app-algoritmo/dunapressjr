@@ -2,7 +2,7 @@
 title: Governo propõe salário mínimo de R$ 1.294 em 2023, sem aumento real
 date: 2022-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

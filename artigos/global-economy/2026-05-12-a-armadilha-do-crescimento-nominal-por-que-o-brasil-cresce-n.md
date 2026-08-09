@@ -2,7 +2,7 @@
 title: "A Armadilha do Crescimento Nominal: Por Que o Brasil Cresce no Papel e Estagna na Prática"
 date: 2026-05-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-economy
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778662618/A_Armadilha_do_Crescimento_Nominal-_Por_Que_o_Brasil_Cresce_no_Papel_e_Estagna_na_Pra%CC%81tica_wkj6dj.jpg"

@@ -2,7 +2,7 @@
 title: A Estrutura da ONU e seu Impacto no Contexto Econômico Internacional
 date: 2024-09-26
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Magazine
 ---

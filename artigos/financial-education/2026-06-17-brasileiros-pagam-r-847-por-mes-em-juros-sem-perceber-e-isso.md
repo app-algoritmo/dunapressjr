@@ -3,7 +3,7 @@ title: "Brasileiros pagam R$ 847 por mês em juros sem perceber — e isso tem n
 subtitle: "O crédito rotativo e o parcelamento sem fim transformaram o consumo cotidiano numa armadilha silenciosa que corrói patrimônio de famílias de renda média sem que elas consigam identificar o mecanismo exato."
 date: 2026-06-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - financial-education
 description: "O brasileiro médio gasta quase R$ 850 mensais apenas em encargos financeiros — não em dívidas, mas em juros sobre dívidas que ele nem reconhece como tais. Entender esse mecanismo é o primeiro passo para reverter uma equação que subtrai patrimônio invisível todos os meses."

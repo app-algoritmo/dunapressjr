@@ -2,7 +2,7 @@
 title: Trump lidera nas primárias republicanas
 date: 2023-01-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 - World Affairs

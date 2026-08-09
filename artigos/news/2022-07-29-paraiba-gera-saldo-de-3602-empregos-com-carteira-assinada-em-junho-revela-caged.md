@@ -3,7 +3,7 @@ title: Paraíba gera saldo de 3.602 empregos com carteira assinada em junho, rev
   Caged
 date: 2022-07-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

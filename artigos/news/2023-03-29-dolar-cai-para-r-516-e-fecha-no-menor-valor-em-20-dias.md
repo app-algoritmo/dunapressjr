@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,16 e fecha no menor valor em 20 dias
 date: 2023-03-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

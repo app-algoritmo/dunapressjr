@@ -2,7 +2,7 @@
 title: 'Fragata Almirante Guschkov: A Poderosa Arma Russa Equipada com Mísseis Hipersônicos'
 date: 2024-02-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

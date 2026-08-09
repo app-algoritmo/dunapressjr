@@ -2,7 +2,7 @@
 title: Urgente:Notre-Dame em chamas
 date: 2019-04-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

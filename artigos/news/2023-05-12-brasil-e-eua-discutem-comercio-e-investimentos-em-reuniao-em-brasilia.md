@@ -2,7 +2,7 @@
 title: Brasil e EUA discutem comércio e investimentos em reunião em Brasília
 date: 2023-05-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

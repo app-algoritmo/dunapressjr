@@ -2,7 +2,7 @@
 title: As agruras políticas de SERRALHINHA DO NORTE
 date: 2020-12-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Chronicle
 ---

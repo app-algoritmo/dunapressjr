@@ -2,7 +2,7 @@
 title: Atentado a Jair Bolsonaro é destaque na Noruega
 date: 2018-09-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

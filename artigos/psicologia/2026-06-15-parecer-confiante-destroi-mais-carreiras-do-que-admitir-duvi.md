@@ -3,7 +3,7 @@ title: "Parecer confiante destrói mais carreiras do que admitir dúvida: o para
 subtitle: "Pesquisas recentes em neurociência social revelam que a performance de segurança excessiva ativa mecanismos de desconfiança nos grupos — e que líderes que verbalizam incerteza tomam decisões 34% mais precisas."
 date: 2026-06-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - psicologia
 description: "Exibir certeza em ambientes profissionais pode sinalizar incompetência ao invés de autoridade — e a neurociência explica por quê o cérebro dos outros detecta essa performance antes mesmo de você terminar a frase. Entender esse mecanismo muda a forma como líderes, profissionais e equipes operam sob pressão."

@@ -2,7 +2,7 @@
 title: Nos passos do imperador, documentário em 5 episódios
 date: 2020-01-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Video library
 ---

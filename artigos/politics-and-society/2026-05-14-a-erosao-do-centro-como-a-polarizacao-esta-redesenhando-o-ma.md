@@ -3,7 +3,7 @@ title: "A Erosão do Centro: Como a Polarização Está Redesenhando o Mapa Pol�
 subtitle: "Em um cenário de fragmentação crescente, partidos de centro perdem espaço, eleitores migram para extremos e a democracia brasileira enfrenta seu maior teste de resiliência desde a redemocratização"
 date: 2026-05-14
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - politics-and-society
 description: "A fragmentação do centro político brasileiro não é um fenômeno conjuntural. É estrutural. Alimentada por desconfiança institucional, redes sociais e uma economia que ainda não entregou mobilidade social real, a polarização avança e redesenha as regras do jogo democrático. A Duna Press analisa os vetores dessa transformação e o que ela significa para 2026."

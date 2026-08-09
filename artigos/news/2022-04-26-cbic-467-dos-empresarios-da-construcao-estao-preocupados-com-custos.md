@@ -2,7 +2,7 @@
 title: 'CBIC: 46,7% dos empresários da construção estão preocupados com custos'
 date: 2022-04-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

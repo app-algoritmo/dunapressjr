@@ -2,7 +2,7 @@
 title: Dólar tem pequena queda e fecha a R$ 5,42
 date: 2021-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

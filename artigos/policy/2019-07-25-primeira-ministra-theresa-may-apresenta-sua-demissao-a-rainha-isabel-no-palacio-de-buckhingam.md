@@ -3,7 +3,7 @@ title: Primeira-ministra Theresa May apresenta sua demissão à Rainha Isabel no
   de Buckhingam
 date: 2019-07-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

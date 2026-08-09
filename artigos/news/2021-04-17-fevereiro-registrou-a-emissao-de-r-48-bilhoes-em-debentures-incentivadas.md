@@ -2,7 +2,7 @@
 title: Fevereiro registrou a emissão de R$ 4,8 bilhões em debêntures incentivadas
 date: 2021-04-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

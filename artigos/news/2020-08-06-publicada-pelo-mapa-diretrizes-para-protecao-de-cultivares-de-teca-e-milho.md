@@ -2,7 +2,7 @@
 title: Publicada pelo Mapa diretrizes para proteção de cultivares de teca e milho
 date: 2020-08-06
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

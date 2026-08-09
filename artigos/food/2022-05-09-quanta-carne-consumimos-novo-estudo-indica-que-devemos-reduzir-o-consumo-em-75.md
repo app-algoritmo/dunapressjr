@@ -3,7 +3,7 @@ title: Quanta carne consumimos? Novo estudo indica que devemos reduzir o consumo
   75%
 date: 2022-05-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Food
 - Magazine

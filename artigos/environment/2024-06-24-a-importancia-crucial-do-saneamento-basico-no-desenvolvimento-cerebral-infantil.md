@@ -2,7 +2,7 @@
 title: A Importância Crucial do Saneamento Básico no Desenvolvimento Cerebral Infantil
 date: 2024-06-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Environment
 - Health

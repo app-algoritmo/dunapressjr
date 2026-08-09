@@ -3,7 +3,7 @@ title: "Bactérias do solo brasileiro sequestram 30% mais carbono do que os mode
 subtitle: "Pesquisa publicada em maio de 2026 pela USP e pelo INPA revela que microrganismos da Amazônia e do Cerrado operam como sumidouros invisíveis de CO₂ — e esse dado muda o cálculo das metas climáticas do Brasil para 2030."
 date: 2026-06-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - science
 description: "Um estudo conjunto da USP e do INPA identificou que comunidades bacterianas nativas do solo amazônico e do Cerrado sequestram carbono em taxa 30% superior ao estimado pelos modelos do IPCC. A descoberta chega em momento decisivo: o Brasil apresenta seu inventário climático atualizado à ONU em setembro de 2026 e pode revisar suas NDCs com base em dados domésticos inéditos."

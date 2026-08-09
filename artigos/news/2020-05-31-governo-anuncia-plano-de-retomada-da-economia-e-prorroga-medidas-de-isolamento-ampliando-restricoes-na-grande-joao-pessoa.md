@@ -3,7 +3,7 @@ title: Governo anuncia plano de retomada da economia e prorroga medidas de isola
   ampliando restrições na Grande João Pessoa
 date: 2020-05-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

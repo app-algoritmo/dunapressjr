@@ -2,7 +2,7 @@
 title: Inflação da construção cai para 1,16% em julho
 date: 2022-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

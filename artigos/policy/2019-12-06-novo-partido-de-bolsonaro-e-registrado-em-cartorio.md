@@ -2,7 +2,7 @@
 title: Novo partido de Bolsonaro é registrado em cartório
 date: 2019-12-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

@@ -1,8 +1,8 @@
 ---
-title: A rainha Sonja da Noruega  concede o Edvard Munch Art Award
+title: A rainha Sonja da Noruega concede o Edvard Munch Art Award
 date: 2020-02-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

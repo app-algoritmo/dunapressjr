@@ -3,7 +3,7 @@ title: "R$ 4,3 bilhões prometidos e parados: o impasse que define o futuro do F
 subtitle: "Com doações recordes represadas por disputas de governança e pressão política internacional, o maior instrumento financeiro de proteção florestal do mundo enfrenta seu teste de credibilidade mais decisivo desde a criação, em 2008."
 date: 2026-08-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - environment
 description: "O Fundo Amazônia acumula R$ 4,3 bilhões em doações pendentes de desembolso enquanto navega entre exigências de transparência de doadores europeus e disputas internas sobre quem controla os projetos. O impasse não é burocrático: é a encruzilhada entre a floresta que o mundo quer preservar e o Brasil que decide como — e por quem — essa preservação será feita."

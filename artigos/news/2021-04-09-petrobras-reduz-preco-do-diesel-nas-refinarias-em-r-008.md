@@ -2,7 +2,7 @@
 title: Petrobras reduz preço do diesel nas refinarias em R$ 0,08
 date: 2021-04-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

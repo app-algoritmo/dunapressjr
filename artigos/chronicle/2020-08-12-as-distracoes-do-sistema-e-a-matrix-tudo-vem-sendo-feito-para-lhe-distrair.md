@@ -2,7 +2,7 @@
 title: As distrações do sistema e a matrix – Tudo vem sendo feito para lhe distrair
 date: 2020-08-12
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Chronicle
 ---

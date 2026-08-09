@@ -2,7 +2,7 @@
 title: União regularizou 10 mil propriedades nos últimos seis meses em todo o país
 date: 2019-10-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Tesouro pagou em setembro R$ 685,47 milhões em dívidas de estados
 date: 2022-10-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

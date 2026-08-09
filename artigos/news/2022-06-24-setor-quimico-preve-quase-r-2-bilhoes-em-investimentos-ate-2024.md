@@ -2,7 +2,7 @@
 title: Setor químico prevê quase R$ 2 bilhões em investimentos até 2024
 date: 2022-06-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Presidente defende voto impresso nas eleições durante live
 date: 2021-07-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

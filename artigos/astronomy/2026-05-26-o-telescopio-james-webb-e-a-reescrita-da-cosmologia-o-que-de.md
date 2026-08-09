@@ -3,7 +3,7 @@ title: "O Telescópio James Webb e a Reescrita da Cosmologia: O Que Descobrimos 
 subtitle: "Desde seu primeiro alinhamento óptico em 2022, o JWST acumulou evidências que desafiam modelos estabelecidos sobre a formação de galáxias, a idade do universo e a natureza da matéria escura — uma análise do que mudou e do que ainda intriga a comunidade científica global"
 date: 2026-05-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - astronomy
 description: "Quatro anos após entrar em operação científica plena, o Telescópio Espacial James Webb continua a produzir descobertas que forçam revisões profundas nos modelos cosmológicos vigentes. Galáxias massivas demais para existirem tão cedo, estruturas que contradizem simulações do universo jovem e sinais ambíguos sobre a constante de Hubble estão no centro de um debate que redefine o que sabemos sobre as origens do cosmos."

@@ -3,7 +3,7 @@ title: Venezuela, Haiti, Cuba, China e Bangladesh encabeçam lista de pedidos de
   no Brasil
 date: 2019-08-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

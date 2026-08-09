@@ -2,7 +2,7 @@
 title: China aceitará carne bovina do Brasil certificada até 4 de setembro
 date: 2021-11-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Comissão de Assuntos Econômicos rejeita emendas e impulsiona projeto de
   para a indústria de jogos eletrônicos
 date: 2023-08-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

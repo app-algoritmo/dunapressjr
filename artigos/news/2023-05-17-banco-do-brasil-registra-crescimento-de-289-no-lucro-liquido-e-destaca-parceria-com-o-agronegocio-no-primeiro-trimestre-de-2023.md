@@ -3,7 +3,7 @@ title: Banco do Brasil registra crescimento de 28,9% no lucro líquido e destaca
   com o agronegócio no primeiro trimestre de 2023
 date: 2023-05-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

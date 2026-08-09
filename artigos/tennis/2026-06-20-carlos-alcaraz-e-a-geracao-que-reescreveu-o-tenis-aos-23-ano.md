@@ -3,7 +3,7 @@ title: "Carlos Alcaraz e a geração que reescreveu o tênis aos 23 anos: bastid
 subtitle: "Com três títulos de Grand Slam antes dos 23 anos e um estilo que mistura poder, toque e inteligência tática, o espanhol lidera uma transformação silenciosa no circuito mundial — e Wimbledon 2026 será o teste mais revelador até agora."
 date: 2026-06-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tennis
 description: "Carlos Alcaraz chega a Wimbledon 2026 como o mais jovem bicampeão do torneio desde Björn Borg, carregando o peso de uma geração que não quer apenas vencer — quer redefinir o esporte. A virada geracional no tênis masculino está acontecendo agora, e os bastidores revelam muito mais do que rankings."

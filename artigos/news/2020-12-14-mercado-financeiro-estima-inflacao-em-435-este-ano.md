@@ -2,7 +2,7 @@
 title: Mercado financeiro estima inflação em 4,35% este ano
 date: 2020-12-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "Por que a floresta que mais carbono absorve no mundo está, pela primeir
 subtitle: "Novos dados do INPE e da Science revelam que partes da Amazônia oriental viraram fonte líquida de CO₂ — e o debate sobre o que ainda pode ser feito divide cientistas, governos e povos da floresta."
 date: 2026-06-14
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - environment
 description: "Pela primeira vez registrada, trechos da Amazônia oriental emitiram mais carbono do que absorveram entre 2010 e 2019 — um dado que reescreve premissas da política climática global. O debate sobre reversibilidade desse processo e quem tem poder real de agir chegou ao centro da Cúpula do Clima de Belém, prevista para julho de 2026."

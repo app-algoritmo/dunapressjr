@@ -2,7 +2,7 @@
 title: Produção industrial apresenta crescimento marginal em junho de 2023
 date: 2023-08-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

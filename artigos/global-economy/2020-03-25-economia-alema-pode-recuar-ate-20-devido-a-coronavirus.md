@@ -2,7 +2,7 @@
 title: Economia alemã pode recuar até 20% devido a coronavírus
 date: 2020-03-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Setor da construção permanece cauteloso após lançamento do Novo PAC
 date: 2023-08-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

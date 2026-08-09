@@ -3,7 +3,7 @@ title: 'Biden na Ucrânia: uma visita relatada à Rússia que rendeu outros US$ 
   a Kiev'
 date: 2023-02-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

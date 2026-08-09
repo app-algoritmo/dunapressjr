@@ -2,7 +2,7 @@
 title: Dólar tem pequena queda em dia de intervenção do Banco Central
 date: 2021-12-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

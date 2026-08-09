@@ -2,7 +2,7 @@
 title: Itália e Vaticano reabrem todas suas igrejas
 date: 2020-05-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Brasil somou 4,87 milhões de empresas ativas em 2020
 date: 2022-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "A pesquisadora de Campinas que ensinou uma bactéria a comer plástico e
 subtitle: "Um experimento da Unicamp com a enzima PETase modificada reduziu pela metade o tempo de degradação de embalagens plásticas em condições de temperatura ambiente — e acaba de entrar na fase de validação industrial."
 date: 2026-07-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - science
 description: "Uma pesquisadora da Unicamp conseguiu acelerar a degradação de plástico PET para 11 dias usando uma versão modificada da enzima PETase — resultado que supera benchmarks internacionais e atrai atenção de indústrias de reciclagem. O avanço chega num momento em que o Brasil processa menos de 23% do plástico que produz, tornando a descoberta potencialmente estratégica para o país."

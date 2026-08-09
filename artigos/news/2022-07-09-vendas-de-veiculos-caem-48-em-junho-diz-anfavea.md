@@ -2,7 +2,7 @@
 title: Vendas de veículos caem 4,8% em junho, diz Anfavea
 date: 2022-07-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

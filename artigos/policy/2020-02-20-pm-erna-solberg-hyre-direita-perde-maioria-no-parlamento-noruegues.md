@@ -2,7 +2,7 @@
 title: PM Erna Solberg (Høyre) 'direita', perde maioria no parlamento norueguês
 date: 2020-02-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

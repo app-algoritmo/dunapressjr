@@ -2,7 +2,7 @@
 title: Ucrânia recebe equipamento de segurança nuclear
 date: 2023-02-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 ---

@@ -2,7 +2,7 @@
 title: Censurado
 date: 2022-11-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

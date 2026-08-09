@@ -2,7 +2,7 @@
 title: Dólar fecha estável com escalada de casos de covid-19
 date: 2020-11-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Indicador de Incerteza da Economia fica estável em julho
 date: 2022-07-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

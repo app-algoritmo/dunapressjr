@@ -2,7 +2,7 @@
 title: Receita Federal libera lote residual de restituição do IRPF de abril de 2023
 date: 2023-04-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

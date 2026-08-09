@@ -1,5 +1,5 @@
 ---
-title: É preciso amar as pessoas  Como se não houvesse amanhã
+title: É preciso amar as pessoas Como se não houvesse amanhã
 date: 2019-03-11
 status: publish
 author: Joice Ferreira

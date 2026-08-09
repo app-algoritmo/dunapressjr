@@ -3,7 +3,7 @@ title: Audiência Pública debate implantação de sistema artificial para melho
   pluviométricos em regiões semiáridas da Paraíba
 date: 2020-06-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

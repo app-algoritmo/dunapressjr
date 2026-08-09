@@ -3,7 +3,7 @@ title: Tensões Entre Zelensky e o Principal General Causam Preocupações Sobre
   de Guerra da Ucrânia
 date: 2024-02-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

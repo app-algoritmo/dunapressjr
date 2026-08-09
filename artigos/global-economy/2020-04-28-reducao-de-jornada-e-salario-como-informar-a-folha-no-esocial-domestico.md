@@ -2,7 +2,7 @@
 title: 'Redução de jornada e salário: como informar a folha no eSocial Doméstico?'
 date: 2020-04-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

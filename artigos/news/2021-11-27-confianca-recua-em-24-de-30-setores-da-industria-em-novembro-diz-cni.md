@@ -2,7 +2,7 @@
 title: Confiança recua em 24 de 30 setores da indústria em novembro, diz CNI
 date: 2021-11-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

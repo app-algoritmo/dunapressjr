@@ -2,7 +2,7 @@
 title: <strong>Títulos do Tesouro são opção segura de investimento</strong>
 date: 2022-08-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

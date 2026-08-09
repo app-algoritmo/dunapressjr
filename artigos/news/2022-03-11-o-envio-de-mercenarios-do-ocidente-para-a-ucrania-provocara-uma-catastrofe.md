@@ -2,7 +2,7 @@
 title: O envio de mercenários do Ocidente para a Ucrânia provocará uma catástrofe
 date: 2022-03-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

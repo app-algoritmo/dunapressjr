@@ -1,5 +1,5 @@
 ---
-title: Mulher que procura o Ligue 180  já sofreu algum tipo de violência física
+title: Mulher que procura o Ligue 180 já sofreu algum tipo de violência física
 date: 2020-06-14
 status: publish
 author: Joice Ferreira

@@ -3,7 +3,7 @@ title: Governador da Paraíba e o prefeito de João Pessoa iniciam parceria para
   uso correto de redes de esgotamento sanitário e de galerias pluviais
 date: 2021-01-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

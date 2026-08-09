@@ -2,7 +2,7 @@
 title: Inovação na Indústria Farmacêutica Moderna com a Inteligência Regulatória
 date: 2024-07-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Science
 - Technology

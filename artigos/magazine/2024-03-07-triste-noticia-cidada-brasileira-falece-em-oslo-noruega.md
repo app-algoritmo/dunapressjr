@@ -2,7 +2,7 @@
 title: 'Triste Notícia: Cidadã Brasileira Falece em Oslo, Noruega'
 date: 2024-03-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

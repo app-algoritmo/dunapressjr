@@ -3,7 +3,7 @@ title: Arrecadação de novembro reflete indicadores que mostram recuperação d
   diz SPE
 date: 2022-12-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

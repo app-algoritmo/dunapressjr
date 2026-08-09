@@ -3,7 +3,7 @@ title: Vendas do varejo da Paraíba crescem o dobro da média nacional em janeir
   IBGE
 date: 2022-03-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

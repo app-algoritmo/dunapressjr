@@ -3,7 +3,7 @@ title: Ministros do BRICS defendem ordem mundial multipolar em reunião na Áfri
   Sul
 date: 2023-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Geopolitics
 ---

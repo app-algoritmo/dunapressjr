@@ -3,7 +3,7 @@ title: Governo avalia encerramento de mecanismo que permite abusos na distribui�
   de juros sobre capital próprio
 date: 2023-04-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ibovespa descola do exterior e cai 1,02%
 date: 2023-03-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

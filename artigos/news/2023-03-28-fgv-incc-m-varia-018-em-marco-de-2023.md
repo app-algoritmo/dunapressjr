@@ -2,7 +2,7 @@
 title: 'FGV: INCC-M varia 0,18% em março de 2023'
 date: 2023-03-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

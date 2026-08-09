@@ -3,7 +3,7 @@ title: Receita libera nesta quinta-feira (25) programa da declaração do Impost
   Renda 2021
 date: 2021-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

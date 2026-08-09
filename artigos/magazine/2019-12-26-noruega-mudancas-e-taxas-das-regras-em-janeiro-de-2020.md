@@ -2,7 +2,7 @@
 title: 'Noruega: Mudanças e taxas das regras em janeiro de 2020'
 date: 2019-12-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

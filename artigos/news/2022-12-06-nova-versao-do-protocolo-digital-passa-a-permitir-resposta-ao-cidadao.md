@@ -2,7 +2,7 @@
 title: Nova versão do Protocolo Digital passa a permitir resposta ao cidadão
 date: 2022-12-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

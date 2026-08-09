@@ -2,7 +2,7 @@
 title: Governo Federal inaugura sistema de abastecimento em município baiano
 date: 2020-07-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

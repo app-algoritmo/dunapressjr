@@ -2,7 +2,7 @@
 title: Consumo das famílias tem alta de 7,23% em agosto
 date: 2022-10-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,68 com mercado externo mais tranquilo
 date: 2022-01-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

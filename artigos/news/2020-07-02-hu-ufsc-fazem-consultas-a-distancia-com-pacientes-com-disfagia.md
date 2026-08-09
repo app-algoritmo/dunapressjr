@@ -1,8 +1,8 @@
 ---
-title: HU – UFSC fazem consultas  a distância com pacientes com disfagia
+title: HU – UFSC fazem consultas a distância com pacientes com disfagia
 date: 2020-07-02
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

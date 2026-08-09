@@ -2,7 +2,7 @@
 title: O índice Ibovespa fecha na pior cotação em 9 meses
 date: 2023-03-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

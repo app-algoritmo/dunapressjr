@@ -2,7 +2,7 @@
 title: 'Cobaias 2030: Experimentos Sociais - Desvendando os Rumos da Humanidade'
 date: 2024-03-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 - Policy

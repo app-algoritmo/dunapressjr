@@ -3,7 +3,7 @@ title: "O Retorno de Vênus ao Centro do Debate Científico: O Que os Dados de 2
 subtitle: "Décadas de missões fracassadas e teorias controversas convergem num momento decisivo: a comunidade astronômica global reavalia Vênus com ferramentas que Einstein jamais imaginou"
 date: 2026-05-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - astronomy
 description: "Em 2026, Vênus voltou ao centro das atenções científicas mundiais. Com novas missões em fase de desenvolvimento ativo, dados revisitados da sonda EnVision e debates acesos sobre a possibilidade de vida nas nuvens venusianas, o planeta mais próximo da Terra exige uma análise rigorosa do que sabemos, do que ignoramos e do que está em jogo para a astronomia das próximas décadas."

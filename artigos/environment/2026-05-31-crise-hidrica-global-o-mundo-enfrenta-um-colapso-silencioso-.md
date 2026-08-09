@@ -3,7 +3,7 @@ title: "Crise Hídrica Global: O Mundo Enfrenta um Colapso Silencioso dos Aquíf
 subtitle: "Enquanto debates climáticos focam nas emissões de carbono, o esgotamento acelerado das reservas subterrâneas de água ameaça a segurança alimentar de bilhões de pessoas até 2050"
 date: 2026-05-31
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - environment
 description: "O esgotamento silencioso dos aquíferos subterrâneos representa uma das maiores ameaças ambientais da atualidade, superando em urgência imediata muitos dos debates sobre emissões de carbono. Dados recentes indicam que regiões agrícolas estratégicas no Brasil, Índia, Estados Unidos e China estão retirando água do subsolo em velocidade até oito vezes superior à capacidade de recarga natural, configurando um cenário de colapso irreversível em médio prazo."

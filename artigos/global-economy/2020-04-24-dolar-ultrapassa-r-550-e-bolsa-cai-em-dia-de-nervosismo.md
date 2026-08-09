@@ -2,7 +2,7 @@
 title: Dólar ultrapassa R$ 5,50 e bolsa cai em dia de nervosismo
 date: 2020-04-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

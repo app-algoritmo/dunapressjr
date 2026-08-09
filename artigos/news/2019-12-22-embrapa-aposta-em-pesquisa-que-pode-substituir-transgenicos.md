@@ -2,7 +2,7 @@
 title: Embrapa aposta em pesquisa que pode substituir transgênicos
 date: 2019-12-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

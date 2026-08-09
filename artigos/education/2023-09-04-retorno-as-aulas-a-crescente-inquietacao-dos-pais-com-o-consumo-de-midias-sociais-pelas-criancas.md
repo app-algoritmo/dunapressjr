@@ -3,7 +3,7 @@ title: 'Retorno às Aulas: A Crescente Inquietação dos Pais com o Consumo de M
   Sociais pelas Crianças'
 date: 2023-09-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Health

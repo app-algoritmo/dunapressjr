@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,23 com temor ante recessão global
 date: 2022-06-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

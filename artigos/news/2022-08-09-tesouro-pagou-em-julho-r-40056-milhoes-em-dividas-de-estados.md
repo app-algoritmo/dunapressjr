@@ -2,7 +2,7 @@
 title: Tesouro pagou em julho R$ 400,56 milhões em dívidas de estados
 date: 2022-08-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

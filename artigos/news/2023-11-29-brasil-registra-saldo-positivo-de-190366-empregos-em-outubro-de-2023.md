@@ -2,7 +2,7 @@
 title: Brasil registra saldo positivo de 190.366 empregos em outubro de 2023
 date: 2023-11-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

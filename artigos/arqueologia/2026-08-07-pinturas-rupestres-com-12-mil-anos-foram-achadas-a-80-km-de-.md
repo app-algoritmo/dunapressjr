@@ -3,7 +3,7 @@ title: "Pinturas rupestres com 12 mil anos foram achadas a 80 km de Brasília �
 subtitle: "Novas datações de sítios arqueológicos no cerrado central reacendem o debate sobre quem habitou o Brasil muito antes do que os livros didáticos ensinam — e sobre o que o país está perdendo enquanto discute."
 date: 2026-08-07
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - arqueologia
 description: "Datações recentes confirmam ocupação humana no cerrado brasileiro há pelo menos 12 mil anos, em sítios que ainda carecem de tombamento formal. O achado reposiciona o Brasil no mapa da pré-história global e expõe uma lacuna persistente entre ciência e política de preservação."

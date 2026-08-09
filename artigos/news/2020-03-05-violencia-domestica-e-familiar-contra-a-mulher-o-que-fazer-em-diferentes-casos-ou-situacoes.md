@@ -3,7 +3,7 @@ title: Violência doméstica e familiar contra a mulher, o que fazer em diferent
   ou situações?
 date: 2020-03-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

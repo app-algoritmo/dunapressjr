@@ -2,7 +2,7 @@
 title: Estratégias para o sucesso financeiro
 date: 2023-04-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Finances
 - Financial Education

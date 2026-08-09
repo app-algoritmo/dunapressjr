@@ -2,7 +2,7 @@
 title: Vendas da indústria de máquinas tem alta de 38,5% em janeiro
 date: 2021-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

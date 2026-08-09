@@ -2,7 +2,7 @@
 title: Wall Street fecha em alta com salto de bancos e foco no Fed
 date: 2023-03-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

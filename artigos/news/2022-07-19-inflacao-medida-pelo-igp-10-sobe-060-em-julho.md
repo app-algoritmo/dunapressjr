@@ -2,7 +2,7 @@
 title: Inflação medida pelo IGP-10 sobe 0,60% em julho
 date: 2022-07-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

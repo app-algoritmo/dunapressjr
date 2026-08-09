@@ -2,7 +2,7 @@
 title: Mercado financeiro volta a diminuir previsão de crescimento em 2022
 date: 2022-01-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

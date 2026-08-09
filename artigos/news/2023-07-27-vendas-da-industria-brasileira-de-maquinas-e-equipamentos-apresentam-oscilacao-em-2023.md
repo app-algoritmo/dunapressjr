@@ -3,7 +3,7 @@ title: Vendas da indústria brasileira de máquinas e equipamentos apresentam os
   em 2023
 date: 2023-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

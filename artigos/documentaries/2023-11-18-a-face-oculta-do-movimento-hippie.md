@@ -2,7 +2,7 @@
 title: A face oculta do Movimento Hippie
 date: 2023-11-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Documentaries
 ---

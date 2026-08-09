@@ -3,7 +3,7 @@ title: Qualidade da Educação Superior de 2019 tem portaria que estabelece proc
   para os Indicadores
 date: 2020-07-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

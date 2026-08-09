@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 4,69, mas fecha semana em baixa
 date: 2022-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Petrobras afirma manter prática de 'preços competitivos'
 date: 2023-04-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

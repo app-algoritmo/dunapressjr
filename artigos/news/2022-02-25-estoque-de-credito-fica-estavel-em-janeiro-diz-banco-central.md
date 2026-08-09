@@ -2,7 +2,7 @@
 title: Estoque de crédito fica estável em janeiro, diz Banco Central
 date: 2022-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

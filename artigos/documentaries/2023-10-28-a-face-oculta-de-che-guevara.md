@@ -2,7 +2,7 @@
 title: A face oculta de Che Guevara
 date: 2023-10-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Documentaries
 ---

@@ -2,7 +2,7 @@
 title: Desempenho do crédito rural cresce 8% para safra 2019/2020
 date: 2020-02-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Entrada na OCDE ajudará a destravar acordo Mercosul-UE, diz chanceler
 date: 2022-06-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

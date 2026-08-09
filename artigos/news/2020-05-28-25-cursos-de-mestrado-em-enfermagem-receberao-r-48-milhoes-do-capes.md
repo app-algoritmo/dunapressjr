@@ -2,7 +2,7 @@
 title: 25 cursos de mestrado em enfermagem receberão R$ 4,8 milhões do Capes
 date: 2020-05-28
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

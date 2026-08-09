@@ -2,7 +2,7 @@
 title: PIB varia 0,4% no terceiro trimestre de 2022, diz IBGE
 date: 2022-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

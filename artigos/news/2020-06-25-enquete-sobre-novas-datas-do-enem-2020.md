@@ -2,7 +2,7 @@
 title: Enquete sobre novas datas do Enem 2020
 date: 2020-06-25
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

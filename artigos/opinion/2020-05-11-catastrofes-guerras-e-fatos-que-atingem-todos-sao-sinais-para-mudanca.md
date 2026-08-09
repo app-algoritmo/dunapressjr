@@ -2,7 +2,7 @@
 title: Catástrofes, guerras e fatos que atingem todos, são sinais para mudança
 date: 2020-05-11
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

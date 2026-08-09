@@ -3,7 +3,7 @@ title: "O Brasil sentou em duas cadeiras ao mesmo tempo — e o mundo está de o
 subtitle: "Com presidências simultâneas do Mercosul e da COP30 em Belém marcada para novembro de 2026, o país acumula protagonismo diplomático inédito, mas enfrenta a pergunta que Brasília prefere adiar: o que o Brasil quer, afinal, ser no século XXI?"
 date: 2026-07-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitica-brasil
 description: "Em 2026, o Brasil acumula a presidência pro tempore do Mercosul, a liderança da COP30 e um assento consolidado no BRICS ampliado — combinação sem precedentes na história diplomática recente do país. A questão não é mais se o Brasil tem voz no mundo, mas se tem estratégia para usá-la."

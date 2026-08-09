@@ -3,7 +3,7 @@ title: "O modelo de IA que custou US$ 6 bilhões acaba de ser licenciado por tr�
 subtitle: "A corrida por soberania em inteligência artificial deixou de ser retórica: contratos reais com nações do Sul Global redesenham quem controla a infraestrutura do futuro."
 date: 2026-07-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - technology
 description: "Três nações — Indonésia, Arábia Saudita e Brasil — fecharam acordos de licenciamento de modelos de linguagem com empresas não americanas em julho de 2026, sinalizando uma virada estrutural no mercado global de IA. O movimento revela que soberania digital deixou de ser agenda e virou contrato."

@@ -3,7 +3,7 @@ title: 'Rei Harald da Noruega Hospitalizado na Malásia: Atualizações e Preocu
   🇳🇴👑'
 date: 2024-03-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Policy

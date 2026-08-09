@@ -2,7 +2,7 @@
 title: Secretário de Política Econômica diz que emprego crescerá em 2021
 date: 2020-11-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

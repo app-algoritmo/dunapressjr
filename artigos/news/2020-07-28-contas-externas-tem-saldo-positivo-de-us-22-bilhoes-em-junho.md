@@ -2,7 +2,7 @@
 title: Contas externas têm saldo positivo de US$ 2,2 bilhões em junho
 date: 2020-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

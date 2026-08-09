@@ -2,7 +2,7 @@
 title: Confiança do Consumidor apresenta menor nível desde junho aponta FGV IBRE
 date: 2023-10-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

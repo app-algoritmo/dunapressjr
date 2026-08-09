@@ -2,7 +2,7 @@
 title: 'A História da Torá: A Bíblia hebraica'
 date: 2023-11-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

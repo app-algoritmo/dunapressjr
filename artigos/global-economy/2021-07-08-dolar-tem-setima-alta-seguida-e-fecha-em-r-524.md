@@ -2,7 +2,7 @@
 title: Dólar tem sétima alta seguida e fecha em R$ 5,24
 date: 2021-07-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

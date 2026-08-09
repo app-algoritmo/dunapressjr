@@ -2,7 +2,7 @@
 title: IPC-S fecha março com inflação de 1,35%, diz FGV
 date: 2022-04-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

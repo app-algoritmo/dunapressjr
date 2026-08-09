@@ -2,7 +2,7 @@
 title: Aprovada reforma tributária na Câmara dos Deputados
 date: 2023-07-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

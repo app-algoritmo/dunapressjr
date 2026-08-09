@@ -3,7 +3,7 @@ title: Escapou de um laboratório com segurança máxima, mas dizem que pode ser
   por uma máscara comprada em um camelô
 date: 2021-11-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

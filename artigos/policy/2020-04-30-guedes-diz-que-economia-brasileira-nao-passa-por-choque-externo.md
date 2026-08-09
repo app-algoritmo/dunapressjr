@@ -2,7 +2,7 @@
 title: Guedes diz que economia brasileira não passa por choque externo
 date: 2020-04-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

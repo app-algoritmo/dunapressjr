@@ -3,7 +3,7 @@ title: 'Introdução à Robótica no Ensino Fundamental: Um Guia Passo a Passo p
   Professores e Alunos'
 date: 2023-12-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Science
 - Technology

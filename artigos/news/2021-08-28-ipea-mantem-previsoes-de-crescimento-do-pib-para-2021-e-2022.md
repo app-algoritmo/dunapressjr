@@ -2,7 +2,7 @@
 title: Ipea mantém previsões de crescimento do PIB para 2021 e 2022
 date: 2021-08-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

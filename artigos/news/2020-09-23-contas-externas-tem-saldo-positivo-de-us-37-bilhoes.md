@@ -2,7 +2,7 @@
 title: Contas externas têm saldo positivo de US$ 3,7 bilhões
 date: 2020-09-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'FGV: Confiança da Indústria variou -0,2 ponto em janeiro'
 date: 2023-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Cobertura de notícias com jornalismo automatizado
 date: 2023-03-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Desempenho do varejo deve ser negativo no 1º trimestre, diz Ibevar
 date: 2022-01-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Tensões na Faixa de Gaza: Israel intensifica preparativos para ofensiva terrestre'
 date: 2023-10-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

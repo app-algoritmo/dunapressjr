@@ -2,7 +2,7 @@
 title: Dólar cai e fecha em R$ 5,26 com alívio no exterior
 date: 2021-01-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

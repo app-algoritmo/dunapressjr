@@ -3,7 +3,7 @@ title: Experiência com SARS-CoV-2 ajudará agência a encontrar o equilíbrio c
   LDTs, afirma a FDA
 date: 2020-06-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

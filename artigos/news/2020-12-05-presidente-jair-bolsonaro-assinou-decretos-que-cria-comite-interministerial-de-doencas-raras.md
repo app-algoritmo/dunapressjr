@@ -1,5 +1,5 @@
 ---
-title: Presidente Jair Bolsonaro assinou  decretos que cria Comitê Interministerial
+title: Presidente Jair Bolsonaro assinou decretos que cria Comitê Interministerial
   de Doenças Raras
 date: 2020-12-05
 status: publish

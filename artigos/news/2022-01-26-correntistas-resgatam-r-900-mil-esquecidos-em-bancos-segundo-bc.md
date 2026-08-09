@@ -2,7 +2,7 @@
 title: Correntistas resgatam R$ 900 mil esquecidos em bancos, segundo BC
 date: 2022-01-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

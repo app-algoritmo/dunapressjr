@@ -2,7 +2,7 @@
 title: Contribuição do MEI subirá para R$ 60,60 em fevereiro
 date: 2022-01-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

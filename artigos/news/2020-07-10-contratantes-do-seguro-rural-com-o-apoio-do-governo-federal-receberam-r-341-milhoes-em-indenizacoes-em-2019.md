@@ -3,7 +3,7 @@ title: Contratantes do seguro rural com o apoio do governo federal receberam R$ 
   milhões em indenizações em 2019
 date: 2020-07-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

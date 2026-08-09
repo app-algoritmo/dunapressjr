@@ -3,7 +3,7 @@ title: Paraíba firma parceria com pesquisadores americanos para tratamento de p
   com Covid-19
 date: 2021-02-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

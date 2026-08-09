@@ -2,7 +2,7 @@
 title: O poder do modelo de educação na promoção da igualdade de gênero
 date: 2018-11-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Lifestyle
 - Policy

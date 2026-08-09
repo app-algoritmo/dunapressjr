@@ -3,7 +3,7 @@ title: Copom mantém taxa Selic em 13,75% ao ano em meio a incertezas externas e
   persistente
 date: 2023-05-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

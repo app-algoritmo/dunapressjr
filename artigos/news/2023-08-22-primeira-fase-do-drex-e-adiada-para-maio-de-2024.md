@@ -2,7 +2,7 @@
 title: Primeira fase do Drex é adiada para maio de 2024
 date: 2023-08-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

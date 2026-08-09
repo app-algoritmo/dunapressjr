@@ -3,7 +3,7 @@ title: Wall Street fecha em alta com menor temor de contágio bancário e invest
   de olho no Fed
 date: 2023-03-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

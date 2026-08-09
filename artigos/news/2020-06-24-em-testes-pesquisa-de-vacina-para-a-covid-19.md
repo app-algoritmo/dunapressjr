@@ -2,7 +2,7 @@
 title: Em testes pesquisa de vacina para a Covid-19
 date: 2020-06-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

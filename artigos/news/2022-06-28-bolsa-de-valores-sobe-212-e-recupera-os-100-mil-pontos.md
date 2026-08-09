@@ -2,7 +2,7 @@
 title: Bolsa de valores sobe 2,12% e recupera os 100 mil pontos
 date: 2022-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

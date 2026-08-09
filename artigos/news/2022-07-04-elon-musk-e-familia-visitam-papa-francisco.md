@@ -2,7 +2,7 @@
 title: Elon Musk e família visitam Papa Francisco
 date: 2022-07-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

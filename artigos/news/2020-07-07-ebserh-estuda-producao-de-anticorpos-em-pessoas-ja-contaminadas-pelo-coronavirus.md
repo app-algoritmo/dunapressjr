@@ -2,7 +2,7 @@
 title: Ebserh estuda produção de anticorpos em pessoas já contaminadas pelo coronavírus
 date: 2020-07-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

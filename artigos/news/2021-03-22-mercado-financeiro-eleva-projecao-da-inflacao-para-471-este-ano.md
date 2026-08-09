@@ -2,7 +2,7 @@
 title: Mercado financeiro eleva projeção da inflação para 4,71% este ano
 date: 2021-03-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

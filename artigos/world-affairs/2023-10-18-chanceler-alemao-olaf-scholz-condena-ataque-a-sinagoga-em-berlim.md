@@ -2,7 +2,7 @@
 title: Chanceler Alemão Olaf Scholz Condena Ataque à Sinagoga em Berlim
 date: 2023-10-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

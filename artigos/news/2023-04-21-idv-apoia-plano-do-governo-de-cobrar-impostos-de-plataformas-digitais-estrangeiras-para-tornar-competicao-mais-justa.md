@@ -3,7 +3,7 @@ title: IDV apoia plano do governo de cobrar impostos de plataformas digitais est
   para tornar competição mais justa
 date: 2023-04-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Guedes diz que retomará reformas após passar a situação emergencial
 date: 2020-06-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

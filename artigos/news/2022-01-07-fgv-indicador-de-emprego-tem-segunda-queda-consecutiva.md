@@ -2,7 +2,7 @@
 title: 'FGV: indicador de emprego tem segunda queda consecutiva'
 date: 2022-01-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

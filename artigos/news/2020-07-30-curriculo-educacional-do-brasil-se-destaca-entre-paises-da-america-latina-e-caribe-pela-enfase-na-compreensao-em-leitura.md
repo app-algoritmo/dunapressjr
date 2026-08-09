@@ -3,7 +3,7 @@ title: Currículo educacional do Brasil se destaca entre países da América Lat
   Caribe pela ênfase na compreensão em leitura
 date: 2020-07-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

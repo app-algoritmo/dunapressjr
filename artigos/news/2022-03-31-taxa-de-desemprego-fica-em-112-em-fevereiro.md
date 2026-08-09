@@ -2,7 +2,7 @@
 title: Taxa de desemprego fica em 11,2% em fevereiro
 date: 2022-03-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Auxílio emergencial chegará a 51,4 milhões de pessoas registradas no C
   Único
 date: 2020-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

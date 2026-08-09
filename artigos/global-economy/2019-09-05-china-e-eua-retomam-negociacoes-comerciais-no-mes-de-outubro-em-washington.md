@@ -2,7 +2,7 @@
 title: China e EUA retomam negociações comerciais no mês de outubro em Washington
 date: 2019-09-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

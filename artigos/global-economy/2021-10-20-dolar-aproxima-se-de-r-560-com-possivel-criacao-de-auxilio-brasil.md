@@ -2,7 +2,7 @@
 title: Dólar aproxima-se de R$ 5,60 com possível criação de Auxílio Brasil
 date: 2021-10-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: 'São Paulo: Assembleia aprova projeto com medidas de combate ao coronavírus'
 date: 2020-06-18
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Calamidade pública: como ficam as férias e o 13º salário dos emprega
   tiveram suspensão de contrato?'
 date: 2020-11-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Desafios e desigualdades na empregabilidade dos jovens brasileiros: Um d
   revelador'
 date: 2023-05-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

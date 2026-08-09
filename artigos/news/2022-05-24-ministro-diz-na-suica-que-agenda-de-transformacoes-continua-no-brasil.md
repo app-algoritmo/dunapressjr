@@ -2,7 +2,7 @@
 title: Ministro diz na Suíça que agenda de transformações continua no Brasil
 date: 2022-05-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

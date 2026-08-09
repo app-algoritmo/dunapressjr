@@ -3,7 +3,7 @@ title: "Parece renovação, mas é revolução: como uma geração nascida após
 subtitle: "Com três jogadores sub-23 nas semifinais de Roland Garros 2026 e um Grand Slam conquistado por alguém nascido em 2003, o circuito enfrenta sua maior virada geracional desde a chegada simultânea de Federer, Nadal e Djokovic nos anos 2000."
 date: 2026-06-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tennis
 description: "Três semifinalistas sub-23 em Roland Garros 2026 e um campeão nascido em 2003 marcam a virada geracional mais acelerada do tênis em duas décadas. O fenômeno não é só esportivo: revela novos países no mapa do circuito, modelos de formação diferentes e uma disputa econômica bilionária pelo controle do esporte."

@@ -2,7 +2,7 @@
 title: 'CNC: endividamento das famílias atinge maior patamar em quase 12 anos'
 date: 2021-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

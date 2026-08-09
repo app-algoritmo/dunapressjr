@@ -2,7 +2,7 @@
 title: Termina hoje prazo para envio da Declaração do Imposto de Renda
 date: 2021-05-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

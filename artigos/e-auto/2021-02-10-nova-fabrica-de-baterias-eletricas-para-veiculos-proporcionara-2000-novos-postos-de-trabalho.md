@@ -3,7 +3,7 @@ title: Nova fabrica de baterias elétricas para veículos proporcionará 2.000 n
   postos de trabalho
 date: 2021-02-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - E-auto
 ---

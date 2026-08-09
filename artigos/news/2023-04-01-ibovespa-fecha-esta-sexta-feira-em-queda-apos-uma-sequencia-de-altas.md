@@ -2,7 +2,7 @@
 title: Ibovespa fecha esta sexta-feira em queda após uma sequência de altas
 date: 2023-04-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Safra de grãos deve alcançar 251 milhões de toneladas e bater novo rec
   de produção
 date: 2020-02-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

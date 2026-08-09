@@ -2,7 +2,7 @@
 title: Confaz prorroga incentivos fiscais para remédios e material de saúde
 date: 2021-03-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Brasil: 15 de Novembro, a infame proclamação da república instaurada 
   de um golpe militar'
 date: 2021-11-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

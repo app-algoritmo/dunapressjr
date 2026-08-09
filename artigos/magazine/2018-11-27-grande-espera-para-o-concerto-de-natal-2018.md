@@ -2,7 +2,7 @@
 title: Grande espera para o Concerto de Natal 2018
 date: 2018-11-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

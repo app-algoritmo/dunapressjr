@@ -3,7 +3,7 @@ title: "Por que os romances brasileiros mais vendidos de 2026 têm evitado o Bra
 subtitle: "Uma geração de ficcionistas nacionais está ambientando suas histórias em Lisboa, Tóquio e Lagos — e os dados das livrarias revelam que esse movimento não é fuga, mas estratégia editorial com consequências para o que entendemos por 'literatura brasileira'."
 date: 2026-08-07
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - literature
 description: "Levantamento da Publishnews mostra que sete dos dez romances de estreia mais vendidos no Brasil em 2026 se passam integralmente fora do país — fenômeno que divide críticos entre cosmopolitismo legítimo e abandono do território narrativo nacional. Entender o que move essa escolha é entender para onde vai a prosa brasileira."

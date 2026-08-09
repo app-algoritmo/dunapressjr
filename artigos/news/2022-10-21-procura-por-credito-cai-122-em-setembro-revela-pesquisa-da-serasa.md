@@ -2,7 +2,7 @@
 title: Procura por crédito cai 12,2% em setembro, revela pesquisa da Serasa
 date: 2022-10-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

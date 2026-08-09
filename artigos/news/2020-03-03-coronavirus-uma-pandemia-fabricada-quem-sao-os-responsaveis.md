@@ -2,7 +2,7 @@
 title: Coronavírus, uma pandemia fabricada?, quem são os responsáveis?
 date: 2020-03-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

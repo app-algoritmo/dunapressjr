@@ -2,7 +2,7 @@
 title: Vamos explorar a história e saber mais sobre a tradição dos Três Reis Magos?
 date: 2020-12-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

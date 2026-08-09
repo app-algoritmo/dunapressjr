@@ -2,7 +2,7 @@
 title: AIE prevê mercado 'em calma' e oferta abundante de petróleo em 2020
 date: 2019-11-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Poupança rende mais que inflação pela primeira vez desde 2018
 date: 2023-01-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

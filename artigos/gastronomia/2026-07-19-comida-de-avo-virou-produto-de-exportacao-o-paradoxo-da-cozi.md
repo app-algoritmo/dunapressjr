@@ -3,7 +3,7 @@ title: "Comida de avó virou produto de exportação: o paradoxo da cozinha bras
 subtitle: "Enquanto chefs estrangeiros disputam ingredientes da Amazônia e do Cerrado em feiras internacionais, o Brasil ainda debate se gastronomia regional é 'coisa séria' — e essa hesitação está custando bilhões."
 date: 2026-07-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - gastronomia
 description: "A cozinha brasileira ocupa posição de destaque crescente no mercado gastronômico global — com ingredientes nativos sendo precificados como luxo em Tóquio, Paris e Nova York — enquanto no próprio país o setor ainda luta por reconhecimento institucional e cadeia produtiva organizada. Entender esse paradoxo é entender uma das maiores apostas econômicas e culturais do Brasil para os próximos dez anos."

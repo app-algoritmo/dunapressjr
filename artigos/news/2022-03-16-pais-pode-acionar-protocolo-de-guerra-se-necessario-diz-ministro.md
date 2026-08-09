@@ -2,7 +2,7 @@
 title: País pode acionar protocolo de guerra se necessário, diz ministro
 date: 2022-03-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Aplicativo lançado pelo Mapa possibilita que produtores tenham acesso a 
   sobre seguro rural
 date: 2020-06-18
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

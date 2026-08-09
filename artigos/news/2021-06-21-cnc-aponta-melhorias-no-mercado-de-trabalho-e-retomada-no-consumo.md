@@ -2,7 +2,7 @@
 title: CNC aponta melhorias no mercado de trabalho e retomada no consumo
 date: 2021-06-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

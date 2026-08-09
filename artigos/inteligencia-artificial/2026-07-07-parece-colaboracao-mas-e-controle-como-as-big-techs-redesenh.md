@@ -3,7 +3,7 @@ title: "Parece colaboração, mas é controle: como as big techs redesenharam o 
 subtitle: "Enquanto governos celebram acordos voluntários com empresas de inteligência artificial, os dados mostram que quem define os limites do setor ainda são as próprias empresas — e isso tem consequências concretas para o trabalho, os mercados e a soberania nacional."
 date: 2026-07-07
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - inteligencia-artificial
 description: "Em 2026, os principais marcos regulatórios de IA no mundo foram negociados diretamente com as empresas que a desenvolvem — um modelo que a União Europeia chama de 'governança participativa' e críticos chamam de captura regulatória. O Brasil enfrenta a mesma escolha sem ter ainda decidido quem senta à mesa."

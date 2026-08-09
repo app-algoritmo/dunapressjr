@@ -1,5 +1,5 @@
 ---
-title: Pesquisa estuda medicamento antiviral híbrido, que neutralize a ação da COVID-19  a
+title: Pesquisa estuda medicamento antiviral híbrido, que neutralize a ação da COVID-19 a
   partir de plantas comestíveis
 date: 2021-02-13
 status: publish

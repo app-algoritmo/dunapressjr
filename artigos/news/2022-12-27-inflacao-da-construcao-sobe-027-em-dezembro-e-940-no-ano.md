@@ -2,7 +2,7 @@
 title: Inflação da construção sobe 0,27% em dezembro e 9,40% no ano
 date: 2022-12-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

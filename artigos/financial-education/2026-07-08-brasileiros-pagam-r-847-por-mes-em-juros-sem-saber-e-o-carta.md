@@ -3,7 +3,7 @@ title: "Brasileiros pagam R$ 847 por mês em juros sem saber — e o cartão rot
 subtitle: "Com a Selic em 10,5% ao ano e o crédito ao consumidor crescendo 12% em 2026, entender o custo real do dinheiro emprestado deixou de ser opcional para virou condição de sobrevivência financeira."
 date: 2026-07-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - financial-education
 description: "O brasileiro médio comprometeu 29,3% da renda familiar com dívidas em junho de 2026, segundo o CNC — mas a maior parte desse custo vem de produtos financeiros cujas taxas reais nunca foram lidas. Entender o mecanismo por trás do crédito fácil é o primeiro passo para revertê-lo."

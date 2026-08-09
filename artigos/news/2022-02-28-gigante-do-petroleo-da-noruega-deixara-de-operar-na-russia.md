@@ -2,7 +2,7 @@
 title: Gigante do petróleo da Noruega deixará de operar na Rússia
 date: 2022-02-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

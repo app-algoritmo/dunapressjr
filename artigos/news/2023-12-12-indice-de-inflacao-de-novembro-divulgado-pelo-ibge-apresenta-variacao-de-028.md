@@ -3,7 +3,7 @@ title: Índice de Inflação de novembro, divulgado pelo IBGE, apresenta Variaç
   0,28%
 date: 2023-12-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: IPC-S da quarta quadrissemana de agosto de 2023 cai 0,22% e acumula alta 
   3,90% nos últimos 12 meses
 date: 2023-09-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

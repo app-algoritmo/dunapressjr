@@ -3,7 +3,7 @@ title: 7.01 Nova gestão vai trabalhar para tornar mais barato o acesso a empré
   à população
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

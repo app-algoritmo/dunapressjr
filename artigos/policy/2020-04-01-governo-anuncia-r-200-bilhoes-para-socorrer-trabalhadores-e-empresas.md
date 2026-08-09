@@ -2,7 +2,7 @@
 title: Governo anuncia R$ 200 bilhões para socorrer trabalhadores e empresas
 date: 2020-04-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

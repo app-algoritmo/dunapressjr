@@ -2,7 +2,7 @@
 title: Indicador antecedente de emprego sobe 0,8 ponto, diz FGV
 date: 2023-03-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

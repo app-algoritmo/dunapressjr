@@ -2,7 +2,7 @@
 title: PF prende três suspeitos de ocultar corpos de Dom e Bruno
 date: 2022-08-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: A cidade de Bergen na Noruega celebra 950 anos
 date: 2020-01-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

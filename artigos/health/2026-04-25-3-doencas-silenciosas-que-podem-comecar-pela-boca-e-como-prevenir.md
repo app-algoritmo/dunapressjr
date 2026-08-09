@@ -2,7 +2,7 @@
 title: "3 doenças silenciosas que podem começar pela boca e como prevenir"
 date: 2026-04-25
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - health
 tags:

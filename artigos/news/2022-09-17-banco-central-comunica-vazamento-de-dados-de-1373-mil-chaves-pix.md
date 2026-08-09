@@ -2,7 +2,7 @@
 title: Banco Central comunica vazamento de dados de 137,3 mil chaves Pix
 date: 2022-09-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

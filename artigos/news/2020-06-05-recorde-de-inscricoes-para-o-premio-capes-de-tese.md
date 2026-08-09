@@ -2,7 +2,7 @@
 title: Recorde de inscrições para o Prêmio Capes de Tese
 date: 2020-06-05
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

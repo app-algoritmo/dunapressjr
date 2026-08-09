@@ -2,7 +2,7 @@
 title: Alemanha quer proteger sua tecnologia do apetite da China
 date: 2019-11-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

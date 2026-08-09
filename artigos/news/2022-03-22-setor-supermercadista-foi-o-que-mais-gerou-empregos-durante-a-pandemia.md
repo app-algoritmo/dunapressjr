@@ -2,7 +2,7 @@
 title: Setor supermercadista foi o que mais gerou empregos durante a pandemia
 date: 2022-03-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

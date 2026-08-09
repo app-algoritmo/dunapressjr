@@ -2,7 +2,7 @@
 title: África aposta forte no capitalismo
 date: 2019-08-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

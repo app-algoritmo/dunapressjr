@@ -2,7 +2,7 @@
 title: Em congresso da Abimaq, ministro defende reindustrialização do país
 date: 2022-09-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

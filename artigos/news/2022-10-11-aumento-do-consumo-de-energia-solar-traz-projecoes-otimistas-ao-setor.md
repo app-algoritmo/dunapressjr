@@ -2,7 +2,7 @@
 title: Aumento do consumo de energia solar traz projeções otimistas ao setor
 date: 2022-10-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

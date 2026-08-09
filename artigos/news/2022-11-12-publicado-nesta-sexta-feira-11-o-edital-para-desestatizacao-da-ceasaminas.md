@@ -2,7 +2,7 @@
 title: Publicado nesta sexta-feira (11) o edital para desestatização da CeasaMinas
 date: 2022-11-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

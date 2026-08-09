@@ -2,7 +2,7 @@
 title: PIB cresceu o equivalente às projeções mais otimistas, diz ministro
 date: 2022-09-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

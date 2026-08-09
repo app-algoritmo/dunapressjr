@@ -2,7 +2,7 @@
 title: Papel e celulose registrou um crescimento na produção industrial de 8,9%
 date: 2020-10-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

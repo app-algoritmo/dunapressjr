@@ -3,7 +3,7 @@ title: Rede Ebserh, em seu hospital em Belo Horizonte, participa de programa de 
   para idosos institucionalizados
 date: 2020-07-23
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

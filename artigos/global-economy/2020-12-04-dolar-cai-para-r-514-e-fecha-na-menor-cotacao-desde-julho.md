@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,14 e fecha na menor cotação desde julho
 date: 2020-12-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

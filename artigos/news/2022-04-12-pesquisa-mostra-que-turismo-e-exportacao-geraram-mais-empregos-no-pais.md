@@ -2,7 +2,7 @@
 title: Pesquisa mostra que turismo e exportação geraram mais empregos no país
 date: 2022-04-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

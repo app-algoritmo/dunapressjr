@@ -2,7 +2,7 @@
 title: IPCA registra queda de preços de 0,38% em maio
 date: 2020-06-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar ultrapassa R$ 5,20 e fecha julho com maior alta desde janeiro
 date: 2021-07-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: 56 mil vagas ofertadas para cursos a distância por instituições públicas
 date: 2020-06-14
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

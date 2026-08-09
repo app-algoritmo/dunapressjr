@@ -2,7 +2,7 @@
 title: 'Projeções Revisadas: PIB e Inflação Apresentam Ajustes Positivos para 2023'
 date: 2023-05-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

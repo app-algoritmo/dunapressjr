@@ -3,7 +3,7 @@ title: "O Brasil tem 3 chefs no top 50 do mundo pela primeira vez — e a conta 
 subtitle: "A ascensão da gastronomia brasileira nos rankings globais esconde uma tensão real entre prestígio internacional e viabilidade econômica dentro do país."
 date: 2026-07-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - gastronomia
 description: "Pela primeira vez, três restaurantes brasileiros figuram simultaneamente no top 50 do ranking The World's 50 Best Restaurants, consolidando o país como potência gastronômica global. O paradoxo é que essa vitrina de prestígio convive com margens operacionais apertadas, escassez de mão de obra qualificada e um público interno ainda em construção."

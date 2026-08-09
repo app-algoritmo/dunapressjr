@@ -2,7 +2,7 @@
 title: Real destoa do mercado externo, e dólar sobe para R$ 5,38
 date: 2022-10-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

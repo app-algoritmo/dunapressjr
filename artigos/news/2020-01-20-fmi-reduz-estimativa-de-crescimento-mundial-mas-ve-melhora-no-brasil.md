@@ -2,7 +2,7 @@
 title: FMI reduz estimativa de crescimento mundial, mas vê melhora no Brasil
 date: 2020-01-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

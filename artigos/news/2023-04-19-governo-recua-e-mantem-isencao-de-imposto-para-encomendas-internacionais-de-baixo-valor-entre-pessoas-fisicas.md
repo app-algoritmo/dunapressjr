@@ -3,7 +3,7 @@ title: Governo recua e mantém isenção de imposto para encomendas internaciona
   baixo valor entre pessoas físicas
 date: 2023-04-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

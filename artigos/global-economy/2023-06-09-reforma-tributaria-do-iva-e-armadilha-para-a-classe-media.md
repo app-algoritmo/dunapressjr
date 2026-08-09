@@ -2,7 +2,7 @@
 title: Reforma Tributária do IVA é armadilha para a classe média
 date: 2023-06-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

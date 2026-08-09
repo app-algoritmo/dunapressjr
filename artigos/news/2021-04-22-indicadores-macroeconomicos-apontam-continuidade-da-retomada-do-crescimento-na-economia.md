@@ -3,7 +3,7 @@ title: Indicadores macroeconômicos apontam continuidade da retomada do crescime
   na economia
 date: 2021-04-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

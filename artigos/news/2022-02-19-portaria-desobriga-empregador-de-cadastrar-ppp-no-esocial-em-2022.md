@@ -2,7 +2,7 @@
 title: Portaria desobriga empregador de cadastrar PPP no eSocial em 2022
 date: 2022-02-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

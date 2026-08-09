@@ -2,7 +2,7 @@
 title: Ministério da Economia cria secretaria especial para abrigar PPI
 date: 2020-02-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: Rede pública de Nova Petrópolis/RS e seus alunos recebem kits da alimen
   escolar
 date: 2020-07-17
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

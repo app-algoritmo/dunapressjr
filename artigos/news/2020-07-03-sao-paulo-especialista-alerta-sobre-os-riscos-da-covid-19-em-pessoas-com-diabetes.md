@@ -3,7 +3,7 @@ title: 'São Paulo: Especialista alerta sobre os riscos da Covid-19 em pessoas c
   diabetes'
 date: 2020-07-03
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Íntegra da entrevista de Rodrigo Pimentel para o documentário Entre Lobos
 date: 2022-08-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Documentaries
 ---

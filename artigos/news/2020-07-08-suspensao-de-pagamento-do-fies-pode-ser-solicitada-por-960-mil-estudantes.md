@@ -2,7 +2,7 @@
 title: Suspensão de pagamento do Fies pode ser solicitada por 960 mil estudantes
 date: 2020-07-08
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

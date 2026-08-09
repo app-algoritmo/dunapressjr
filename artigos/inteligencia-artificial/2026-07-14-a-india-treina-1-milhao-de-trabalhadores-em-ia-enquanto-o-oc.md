@@ -3,7 +3,7 @@ title: "A Índia treina 1 milhão de trabalhadores em IA enquanto o Ocidente ain
 subtitle: "Com um programa federal lançado em março de 2026, Nova Délhi aposta na requalificação em massa como estratégia geopolítica — e deixa Europa e EUA discutindo leis enquanto o mapa do trabalho global se redesenha."
 date: 2026-07-14
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - inteligencia-artificial
 description: "O governo indiano lançou em março de 2026 o programa FutureSkills Prime 2.0, com meta de certificar 1 milhão de trabalhadores em inteligência artificial até dezembro — enquanto União Europeia e Estados Unidos ainda travam batalhas legislativas sobre como regular a tecnologia. A disputa não é só técnica: é sobre quem vai exportar mão de obra qualificada, produtos e padrões para o mundo nas próximas duas décadas."

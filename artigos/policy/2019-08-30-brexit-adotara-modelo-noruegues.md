@@ -2,7 +2,7 @@
 title: Brexit adotará 'modelo norueguês'?
 date: 2019-08-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Sistema Seridó, no Rio Grande do Norte, beneficiará 280 mil pessoas
 date: 2020-11-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

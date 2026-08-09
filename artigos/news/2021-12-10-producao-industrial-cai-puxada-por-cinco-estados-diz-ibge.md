@@ -2,7 +2,7 @@
 title: Produção industrial cai puxada por cinco estados, diz IBGE
 date: 2021-12-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

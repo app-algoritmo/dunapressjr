@@ -2,7 +2,7 @@
 title: Como encontrar uma família anfitriã na Noruega
 date: 2023-04-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Tourism and Gastronomy

@@ -2,7 +2,7 @@
 title: Biblioteca gratuita da Capes ajuda na pesquisa contra o coronavírus
 date: 2020-07-01
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

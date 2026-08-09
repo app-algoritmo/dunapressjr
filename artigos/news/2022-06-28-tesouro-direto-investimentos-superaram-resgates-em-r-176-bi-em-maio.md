@@ -2,7 +2,7 @@
 title: 'Tesouro Direto: investimentos superaram resgates em R$ 1,76 bi em maio'
 date: 2022-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

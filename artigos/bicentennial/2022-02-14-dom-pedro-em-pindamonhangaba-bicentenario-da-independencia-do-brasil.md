@@ -2,7 +2,7 @@
 title: Dom Pedro em Pindamonhangaba, Bicentenário da independência do Brasil
 date: 2022-02-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Bicentennial
 ---

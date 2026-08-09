@@ -2,7 +2,7 @@
 title: Selo Arte para cárneos vai colher sugestões por consulta pública
 date: 2020-07-02
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

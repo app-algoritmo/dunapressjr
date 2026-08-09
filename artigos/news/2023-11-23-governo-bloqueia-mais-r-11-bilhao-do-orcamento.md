@@ -2,7 +2,7 @@
 title: Governo bloqueia mais R$ 1,1 bilhão do Orçamento
 date: 2023-11-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

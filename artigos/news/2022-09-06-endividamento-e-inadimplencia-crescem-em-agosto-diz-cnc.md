@@ -2,7 +2,7 @@
 title: Endividamento e inadimplência crescem em agosto, diz CNC
 date: 2022-09-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

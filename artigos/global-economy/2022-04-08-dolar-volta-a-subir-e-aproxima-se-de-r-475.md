@@ -2,7 +2,7 @@
 title: Dólar volta a subir e aproxima-se de R$ 4,75
 date: 2022-04-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

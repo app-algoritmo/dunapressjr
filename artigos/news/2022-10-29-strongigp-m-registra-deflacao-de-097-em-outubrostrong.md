@@ -2,7 +2,7 @@
 title: <strong>IGP-M registra deflação de 0,97% em outubro</strong>
 date: 2022-10-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

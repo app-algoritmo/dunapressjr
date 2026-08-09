@@ -2,7 +2,7 @@
 title: 'Coronavírus: empresas poderão cortar jornadas e salários pela metade'
 date: 2020-03-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

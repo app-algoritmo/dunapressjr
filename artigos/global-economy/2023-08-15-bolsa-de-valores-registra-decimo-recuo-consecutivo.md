@@ -2,7 +2,7 @@
 title: Bolsa de valores registra décimo recuo consecutivo
 date: 2023-08-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

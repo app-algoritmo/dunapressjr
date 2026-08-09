@@ -3,7 +3,7 @@ title: Sistema para dar fim aos microplásticos que saem das roupas nas máquina
   lavar
 date: 2020-08-05
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

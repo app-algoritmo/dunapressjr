@@ -2,7 +2,7 @@
 title: Apostas nas lotéricas podem ser pagas com Pix
 date: 2020-11-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

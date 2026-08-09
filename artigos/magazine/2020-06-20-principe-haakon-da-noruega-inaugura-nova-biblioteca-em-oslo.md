@@ -2,7 +2,7 @@
 title: Principe Haakon da Noruega inaugura nova biblioteca em Oslo
 date: 2020-06-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

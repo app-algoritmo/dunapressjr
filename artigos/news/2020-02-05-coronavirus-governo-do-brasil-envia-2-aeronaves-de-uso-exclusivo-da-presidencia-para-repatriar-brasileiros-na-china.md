@@ -3,7 +3,7 @@ title: 'Coronavírus: Governo do Brasil envia 2 aeronaves de uso exclusivo da pr
   para repatriar brasileiros na China'
 date: 2020-02-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

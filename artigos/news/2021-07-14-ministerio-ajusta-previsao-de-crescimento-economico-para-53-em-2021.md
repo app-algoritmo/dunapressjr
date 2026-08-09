@@ -2,7 +2,7 @@
 title: Ministério ajusta previsão de crescimento econômico para 5,3% em 2021
 date: 2021-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

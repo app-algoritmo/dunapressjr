@@ -2,7 +2,7 @@
 title: Brasil planeja atrair R$ 250 bilhões nos próximos anos
 date: 2020-05-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

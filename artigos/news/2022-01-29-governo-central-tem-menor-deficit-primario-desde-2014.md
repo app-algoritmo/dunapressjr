@@ -2,7 +2,7 @@
 title: Governo Central tem menor déficit primário desde 2014
 date: 2022-01-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

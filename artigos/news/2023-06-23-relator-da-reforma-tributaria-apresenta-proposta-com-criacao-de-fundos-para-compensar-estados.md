@@ -3,7 +3,7 @@ title: Relator da Reforma Tributária apresenta proposta com criação de fundos
   compensar estados
 date: 2023-06-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

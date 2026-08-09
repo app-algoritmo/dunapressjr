@@ -3,7 +3,7 @@ title: 'Minicurso de Política Legislativa na prática: Conhecendo os deputados 
   projetos 1'
 date: 2019-07-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

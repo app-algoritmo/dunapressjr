@@ -2,7 +2,7 @@
 title: Morales diz que, se voltar à Bolívia, formará 'milícias armadas'
 date: 2020-01-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Operação da PF bloqueia mais de R$ 130 milhões oriundos de crime envol
   criptoativos
 date: 2023-07-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Governo bloqueia mais R$ 2,635 bilhões do Orçamento
 date: 2022-09-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

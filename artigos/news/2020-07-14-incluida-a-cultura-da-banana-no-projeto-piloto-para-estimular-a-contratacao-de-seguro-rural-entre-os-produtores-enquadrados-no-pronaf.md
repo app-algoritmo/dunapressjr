@@ -3,7 +3,7 @@ title: Incluída a cultura da banana no projeto-piloto para estimular a contrata
   de seguro rural entre os produtores enquadrados no Pronaf
 date: 2020-07-14
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

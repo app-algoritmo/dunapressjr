@@ -2,7 +2,7 @@
 title: Coronavírus, contágio se espalha por Noruega que já confirma 25 infectados
 date: 2020-03-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

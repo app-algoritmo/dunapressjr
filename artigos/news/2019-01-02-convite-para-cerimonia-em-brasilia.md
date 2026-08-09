@@ -2,7 +2,7 @@
 title: Convite para cerimônia em Brasília
 date: 2019-01-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Inflação para famílias de renda mais baixa sobe para 1% em fevereiro
 date: 2022-03-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

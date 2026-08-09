@@ -3,7 +3,7 @@ title: "A Corrida Silenciosa pela Fusão Nuclear: Por Que 2026 Pode Ser o Ano De
 subtitle: "Enquanto governos debatem metas climáticas, laboratórios privados e consórcios públicos avançam em velocidade sem precedentes rumo à energia de fusão — e os próximos meses podem redefinir o mapa energético global"
 date: 2026-05-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - science
 description: "A energia de fusão nuclear, prometida há décadas como solução limpa e inesgotável, vive em 2026 seu momento de maior convergência entre avanços científicos, investimento privado e pressão climática. Este artigo analisa o estado atual da corrida global, os principais atores e o que está realmente em jogo."

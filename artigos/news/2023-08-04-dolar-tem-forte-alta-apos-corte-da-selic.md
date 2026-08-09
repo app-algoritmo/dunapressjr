@@ -2,7 +2,7 @@
 title: Dólar tem forte alta após corte da Selic
 date: 2023-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

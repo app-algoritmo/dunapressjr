@@ -2,7 +2,7 @@
 title: 'Demoniodemia: O Caos Global e a Pandemia da Desordem'
 date: 2024-03-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Lifestyle
 ---

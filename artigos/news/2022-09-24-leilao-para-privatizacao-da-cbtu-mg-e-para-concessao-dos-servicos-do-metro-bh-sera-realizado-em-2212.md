@@ -3,7 +3,7 @@ title: Leilão para privatização da CBTU-MG e para concessão dos serviços do
   será realizado em 22/12
 date: 2022-09-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

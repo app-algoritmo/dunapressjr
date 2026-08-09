@@ -3,7 +3,7 @@ title: 'Echoes of Lava Jato: The U.S. Signals a Dramatic Reopening of Odebrecht 
   Probes'
 date: 2025-10-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - International Politics
 ---

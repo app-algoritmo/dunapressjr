@@ -2,7 +2,7 @@
 title: Justiça nega novo recurso do BTG Pactual contra o Grupo Americanas
 date: 2023-01-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

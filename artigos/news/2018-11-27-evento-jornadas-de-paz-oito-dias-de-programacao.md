@@ -2,7 +2,7 @@
 title: 'Evento Jornadas de Paz: oito dias de programação'
 date: 2018-11-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

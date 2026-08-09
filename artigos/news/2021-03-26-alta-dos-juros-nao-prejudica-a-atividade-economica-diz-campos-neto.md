@@ -2,7 +2,7 @@
 title: Alta dos juros não prejudica a atividade econômica, diz Campos Neto
 date: 2021-03-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

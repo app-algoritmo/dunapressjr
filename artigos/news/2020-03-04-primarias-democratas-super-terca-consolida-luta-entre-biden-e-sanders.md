@@ -2,7 +2,7 @@
 title: 'Primárias democratas: ''Super Terça'' consolida luta entre Biden e Sanders'
 date: 2020-03-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Setor mineral registra 98% de aumento no faturamento do 1º semestre
 date: 2021-07-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

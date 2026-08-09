@@ -3,7 +3,7 @@ title: Distorção no uso da língua portuguesa, as expressões negro ou preto, 
   como e quando usar
 date: 2020-01-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Maior ataque desde 2006: 34 foguetes são lançados do Líbano em direção a Israel'
 date: 2023-04-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Banco Central revela aumento no Índice de Commodities de agosto
 date: 2023-09-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

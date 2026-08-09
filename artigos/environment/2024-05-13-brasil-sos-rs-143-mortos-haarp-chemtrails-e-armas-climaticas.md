@@ -1,8 +1,8 @@
 ---
-title: 'Brasil SOS RS: 143 mortos,  HAARP, Chemtrails e Armas Climáticas?'
+title: 'Brasil SOS RS: 143 mortos, HAARP, Chemtrails e Armas Climáticas?'
 date: 2024-05-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Environment
 ---

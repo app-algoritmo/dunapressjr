@@ -2,7 +2,7 @@
 title: Engie Soluções vence leilão de PPP de iluminação pública de Curitiba
 date: 2022-09-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

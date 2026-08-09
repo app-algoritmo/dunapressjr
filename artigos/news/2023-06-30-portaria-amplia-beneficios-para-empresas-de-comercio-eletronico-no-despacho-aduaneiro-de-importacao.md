@@ -3,7 +3,7 @@ title: Portaria amplia benefícios para empresas de comércio eletrônico no des
   aduaneiro de importação
 date: 2023-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

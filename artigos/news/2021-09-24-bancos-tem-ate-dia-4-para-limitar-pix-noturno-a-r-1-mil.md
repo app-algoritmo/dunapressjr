@@ -2,7 +2,7 @@
 title: Bancos têm até dia 4 para limitar PIX noturno a R$ 1 mil
 date: 2021-09-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

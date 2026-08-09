@@ -2,7 +2,7 @@
 title: Valmet vence Prêmio Aberje na categoria Mídia Digital
 date: 2020-11-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Governo anuncia medidas para estimular crédito e discute revisão nos ju
   do cartão de crédito rotativo
 date: 2023-04-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

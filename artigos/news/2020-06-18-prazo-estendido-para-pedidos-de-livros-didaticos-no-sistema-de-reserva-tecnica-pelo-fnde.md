@@ -3,7 +3,7 @@ title: Prazo estendido para pedidos de livros didáticos no sistema de reserva t
   pelo FNDE
 date: 2020-06-18
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

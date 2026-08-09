@@ -2,7 +2,7 @@
 title: BNDES lança linha de crédito para setor audiovisual
 date: 2020-07-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

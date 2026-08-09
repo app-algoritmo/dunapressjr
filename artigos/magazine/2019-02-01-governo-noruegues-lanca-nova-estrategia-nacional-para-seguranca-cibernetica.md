@@ -2,7 +2,7 @@
 title: Governo norueguês lança nova estratégia nacional para segurança cibernética
 date: 2019-02-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

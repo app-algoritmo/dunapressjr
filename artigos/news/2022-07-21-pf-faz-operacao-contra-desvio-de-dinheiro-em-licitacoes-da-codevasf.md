@@ -2,7 +2,7 @@
 title: PF faz operação contra desvio de dinheiro em licitações da Codevasf
 date: 2022-07-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

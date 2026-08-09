@@ -3,7 +3,7 @@ title: Mais de R$ 3,2 bilhões já foram liberados de fundos constitucionais par
   Nordeste e Centro-Oeste
 date: 2020-11-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

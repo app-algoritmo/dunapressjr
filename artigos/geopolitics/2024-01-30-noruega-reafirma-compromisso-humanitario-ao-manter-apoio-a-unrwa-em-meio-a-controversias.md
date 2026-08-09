@@ -3,7 +3,7 @@ title: Noruega Reafirma Compromisso Humanitário ao Manter Apoio à UNRWA em Mei
   Controvérsias
 date: 2024-01-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

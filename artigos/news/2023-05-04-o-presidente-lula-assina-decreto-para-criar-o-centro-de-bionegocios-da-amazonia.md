@@ -2,7 +2,7 @@
 title: O presidente Lula assina decreto para criar o Centro de Bionegócios da Amazônia
 date: 2023-05-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

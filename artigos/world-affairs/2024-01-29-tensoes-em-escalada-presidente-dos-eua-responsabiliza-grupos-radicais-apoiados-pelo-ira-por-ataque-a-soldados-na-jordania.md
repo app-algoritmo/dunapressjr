@@ -1,9 +1,9 @@
 ---
-title: 'Tensões em Escalada:  Presidente dos EUA Responsabiliza Grupos Radicais Apoiados
+title: 'Tensões em Escalada: Presidente dos EUA Responsabiliza Grupos Radicais Apoiados
   pelo Irã por Ataque a Soldados na Jordânia'
 date: 2024-01-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

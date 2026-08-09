@@ -3,7 +3,7 @@ title: Roberto Jefferson anuncia que pedirá impeachment de ministro do STF, ap�
   de condenações de Lula
 date: 2021-03-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Inscrições para cursos gratuitos se encerram nesta sexta-feira (24)
 date: 2020-07-21
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

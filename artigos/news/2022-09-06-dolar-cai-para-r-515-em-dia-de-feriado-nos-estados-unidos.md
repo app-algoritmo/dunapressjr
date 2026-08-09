@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,15 em dia de feriado nos Estados Unidos
 date: 2022-09-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

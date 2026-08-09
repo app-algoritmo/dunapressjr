@@ -2,7 +2,7 @@
 title: Noruega Planeja Proibir o Uso de Telefones Celulares nas Escolas em 2024
 date: 2023-11-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Policy

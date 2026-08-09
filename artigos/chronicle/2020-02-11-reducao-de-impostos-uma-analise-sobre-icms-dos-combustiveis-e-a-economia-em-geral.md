@@ -3,7 +3,7 @@ title: Redução de Impostos – Uma análise sobre ICMS dos combustíveis e a e
   em geral
 date: 2020-02-11
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Chronicle
 ---

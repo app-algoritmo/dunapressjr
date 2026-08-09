@@ -2,7 +2,7 @@
 title: Engenharia do consentimento - 01 - Conheça os poderes que nos dominam
 date: 2018-12-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

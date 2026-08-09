@@ -2,7 +2,7 @@
 title: Ministra Damares Alves debate cooperação com a Unesco
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

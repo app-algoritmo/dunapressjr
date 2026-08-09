@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,45, após nova intervenção do Banco Central
 date: 2021-10-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

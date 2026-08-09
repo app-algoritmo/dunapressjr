@@ -2,7 +2,7 @@
 title: 'FGV: confiança do comércio cai 0,2 ponto em março'
 date: 2022-03-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

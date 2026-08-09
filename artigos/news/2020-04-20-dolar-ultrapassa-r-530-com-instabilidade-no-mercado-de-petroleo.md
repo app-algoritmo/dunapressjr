@@ -2,7 +2,7 @@
 title: Dólar ultrapassa R$ 5,30 com instabilidade no mercado de petróleo
 date: 2020-04-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

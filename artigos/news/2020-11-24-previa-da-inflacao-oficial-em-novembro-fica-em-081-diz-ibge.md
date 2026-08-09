@@ -2,7 +2,7 @@
 title: Prévia da inflação oficial em novembro fica em 0,81%, diz IBGE
 date: 2020-11-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

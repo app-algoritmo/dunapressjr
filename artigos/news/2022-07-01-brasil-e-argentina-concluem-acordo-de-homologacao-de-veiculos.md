@@ -2,7 +2,7 @@
 title: Brasil e Argentina concluem acordo de homologação de veículos
 date: 2022-07-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

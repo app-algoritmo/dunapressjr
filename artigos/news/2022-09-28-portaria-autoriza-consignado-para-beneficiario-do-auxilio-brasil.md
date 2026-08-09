@@ -2,7 +2,7 @@
 title: Portaria autoriza consignado para beneficiário do Auxílio Brasil
 date: 2022-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

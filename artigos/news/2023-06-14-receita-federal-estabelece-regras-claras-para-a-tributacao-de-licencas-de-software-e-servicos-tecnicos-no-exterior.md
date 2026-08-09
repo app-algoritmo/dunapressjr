@@ -3,7 +3,7 @@ title: Receita Federal estabelece regras claras para a tributação de licenças
   e serviços técnicos no exterior
 date: 2023-06-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

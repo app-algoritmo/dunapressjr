@@ -2,7 +2,7 @@
 title: IGP-10 varia 0,52% em outubro
 date: 2023-10-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

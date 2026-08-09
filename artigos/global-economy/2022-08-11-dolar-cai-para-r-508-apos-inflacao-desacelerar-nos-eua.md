@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,08 após inflação desacelerar nos EUA
 date: 2022-08-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

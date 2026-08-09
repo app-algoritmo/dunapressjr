@@ -2,7 +2,7 @@
 title: Atividade econômica cai 0,64% no terceiro trimestre
 date: 2023-11-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

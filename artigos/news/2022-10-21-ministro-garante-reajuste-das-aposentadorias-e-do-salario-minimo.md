@@ -2,7 +2,7 @@
 title: Ministro garante reajuste das aposentadorias e do salário mínimo
 date: 2022-10-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 25 mil vagas para cursos gratuitos de forma virtual ofertados pelo Capes
 date: 2020-06-12
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

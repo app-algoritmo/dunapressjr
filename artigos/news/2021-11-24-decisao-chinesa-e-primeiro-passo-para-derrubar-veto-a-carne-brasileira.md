@@ -2,7 +2,7 @@
 title: Decisão chinesa é primeiro passo para derrubar veto à carne brasileira
 date: 2021-11-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

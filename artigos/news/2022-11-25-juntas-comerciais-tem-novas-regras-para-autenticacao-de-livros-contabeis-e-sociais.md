@@ -3,7 +3,7 @@ title: Juntas comerciais têm novas regras para autenticação de livros contáb
   sociais
 date: 2022-11-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

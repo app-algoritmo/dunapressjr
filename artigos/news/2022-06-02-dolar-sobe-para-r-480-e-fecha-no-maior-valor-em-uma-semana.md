@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 4,80 e fecha no maior valor em uma semana
 date: 2022-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

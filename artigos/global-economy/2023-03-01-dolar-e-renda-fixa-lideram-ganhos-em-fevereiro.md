@@ -2,7 +2,7 @@
 title: Dólar e renda fixa lideram ganhos em fevereiro
 date: 2023-03-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

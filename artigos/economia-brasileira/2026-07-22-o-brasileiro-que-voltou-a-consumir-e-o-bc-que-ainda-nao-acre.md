@@ -3,7 +3,7 @@ title: "O brasileiro que voltou a consumir — e o BC que ainda não acredita ne
 subtitle: "Com desemprego em 6,1% e PIB crescendo 2,8% no primeiro trimestre de 2026, o consumo das famílias surpreende; a questão é por quanto tempo a Selic em 13,75% aguenta esse ritmo sem sufocar a festa."
 date: 2026-07-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - economia-brasileira
 description: "O consumo das famílias brasileiras cresceu 3,4% no primeiro trimestre de 2026, puxando o PIB para cima mesmo com juros elevados — mas a combinação de crédito caro, endividamento recorde e reforma tributária ainda em transição cria um equilíbrio frágil que decidirá os próximos 18 meses da economia. Entender essa tensão é entender o que vai aparecer no seu extrato bancário até o fim do ano."

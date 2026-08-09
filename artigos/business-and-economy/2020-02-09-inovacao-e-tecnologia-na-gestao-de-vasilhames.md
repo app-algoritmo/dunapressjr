@@ -2,7 +2,7 @@
 title: Inovação e tecnologia na gestão de vasilhames
 date: 2020-02-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Business and Economy
 - Environment

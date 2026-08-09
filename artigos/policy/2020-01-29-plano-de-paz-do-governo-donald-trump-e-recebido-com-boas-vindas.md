@@ -2,7 +2,7 @@
 title: Plano de paz do governo Donald Trump é recebido com boas-vindas
 date: 2020-01-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

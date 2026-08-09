@@ -3,7 +3,7 @@ title: "Aristóteles levou 2.400 anos para entrar na pauta do Senado — e chego
 subtitle: "A ressurgência do conceito de 'bem comum' nos debates legislativos brasileiros de 2026 revela menos sobre filosofia e mais sobre como ideias antigas são sequestradas por agendas contemporâneas."
 date: 2026-08-07
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - philosophy
 description: "O conceito aristotélico de 'bem comum' virou moeda corrente em plenários e redes sociais brasileiras em 2026, invocado por espectros opostos do debate político. Entender como uma ideia filosófica se transforma em arma retórica é mais urgente do que nunca — porque o sequestro conceitual tem consequências reais para a democracia."

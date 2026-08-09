@@ -3,7 +3,7 @@ title: Declaração do Conselho do Atlântico Norte sobre as recentes atividades
   da Rússia
 date: 2024-05-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

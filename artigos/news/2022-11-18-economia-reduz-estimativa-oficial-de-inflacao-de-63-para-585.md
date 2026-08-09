@@ -2,7 +2,7 @@
 title: Economia reduz estimativa oficial de inflação de 6,3% para 5,85%
 date: 2022-11-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

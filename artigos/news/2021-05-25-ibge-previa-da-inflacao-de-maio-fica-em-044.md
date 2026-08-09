@@ -2,7 +2,7 @@
 title: 'IBGE: prévia da inflação de maio fica em 0,44%'
 date: 2021-05-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

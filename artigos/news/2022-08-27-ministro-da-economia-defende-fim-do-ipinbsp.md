@@ -2,7 +2,7 @@
 title: Ministro da Economia defende fim do IPI&nbsp;
 date: 2022-08-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

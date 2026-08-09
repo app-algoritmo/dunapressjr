@@ -2,7 +2,7 @@
 title: Consumo doméstico cresce 3,04% em 2021, mostra pesquisa
 date: 2022-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

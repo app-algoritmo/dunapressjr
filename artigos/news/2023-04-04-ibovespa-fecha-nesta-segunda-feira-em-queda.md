@@ -2,7 +2,7 @@
 title: Ibovespa fecha nesta segunda-feira em queda
 date: 2023-04-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

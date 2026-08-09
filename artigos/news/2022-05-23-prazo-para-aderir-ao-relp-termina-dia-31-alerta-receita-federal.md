@@ -2,7 +2,7 @@
 title: Prazo para aderir ao Relp termina dia 31, alerta Receita Federal
 date: 2022-05-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

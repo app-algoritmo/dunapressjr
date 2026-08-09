@@ -3,7 +3,7 @@ title: 3.01 Ao presidente, ministro Augusto Heleno detalhou as operações do ó
   responsável pela segurança presidencial
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

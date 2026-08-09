@@ -3,7 +3,7 @@ title: Participantes da audiência da CTFC criticam processo eleitoral e pedem q
   TSE analise denúncias
 date: 2022-12-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

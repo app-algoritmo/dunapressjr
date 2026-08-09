@@ -2,7 +2,7 @@
 title: Estatal boliviana reduz 30% do fornecimento de gás natural ao Brasil
 date: 2022-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

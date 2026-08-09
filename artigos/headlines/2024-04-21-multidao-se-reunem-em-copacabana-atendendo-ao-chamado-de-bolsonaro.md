@@ -2,7 +2,7 @@
 title: Multidão se reúnem em Copacabana atendendo ao chamado de Bolsonaro
 date: 2024-04-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Headlines
 ---

@@ -2,7 +2,7 @@
 title: Abono salarial de 2019 esquecido por trabalhadores já pode ser pedido
 date: 2022-04-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

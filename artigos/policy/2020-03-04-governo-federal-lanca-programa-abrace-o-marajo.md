@@ -1,5 +1,5 @@
 ---
-title: Governo Federal lança  programa abrace o Marajó
+title: Governo Federal lança programa abrace o Marajó
 date: 2020-03-04
 status: publish
 author: Joice Ferreira

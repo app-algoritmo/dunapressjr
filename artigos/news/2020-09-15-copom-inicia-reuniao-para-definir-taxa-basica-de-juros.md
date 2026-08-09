@@ -2,7 +2,7 @@
 title: Copom inicia reunião para definir taxa básica de juros
 date: 2020-09-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

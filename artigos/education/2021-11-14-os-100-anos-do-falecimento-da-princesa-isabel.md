@@ -2,7 +2,7 @@
 title: Os 100 anos do falecimento da Princesa Isabel
 date: 2021-11-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

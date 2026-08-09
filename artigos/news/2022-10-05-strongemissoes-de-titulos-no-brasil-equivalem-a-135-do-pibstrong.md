@@ -2,7 +2,7 @@
 title: <strong>Emissões de títulos no Brasil equivalem a 135% do PIB</strong>
 date: 2022-10-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

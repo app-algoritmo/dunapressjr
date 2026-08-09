@@ -2,7 +2,7 @@
 title: Firjan lança agenda de propostas Brasil 4.0
 date: 2022-08-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

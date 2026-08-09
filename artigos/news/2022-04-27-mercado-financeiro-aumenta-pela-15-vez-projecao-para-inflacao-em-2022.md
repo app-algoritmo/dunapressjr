@@ -2,7 +2,7 @@
 title: Mercado financeiro aumenta pela 15ª vez projeção para inflação em 2022
 date: 2022-04-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

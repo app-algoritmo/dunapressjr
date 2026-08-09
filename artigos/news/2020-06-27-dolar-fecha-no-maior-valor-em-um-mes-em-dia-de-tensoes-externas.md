@@ -2,7 +2,7 @@
 title: Dólar fecha no maior valor em um mês em dia de tensões externas
 date: 2020-06-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Faturamento do setor mineral cai 30% no terceiro trimestre
 date: 2022-10-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

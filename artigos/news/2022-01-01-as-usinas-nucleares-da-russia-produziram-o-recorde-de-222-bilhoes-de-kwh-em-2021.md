@@ -3,7 +3,7 @@ title: As usinas nucleares da Rússia produziram o recorde de 222 bilhões de kW
   2021
 date: 2022-01-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

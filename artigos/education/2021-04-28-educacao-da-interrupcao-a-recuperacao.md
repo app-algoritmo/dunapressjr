@@ -2,7 +2,7 @@
 title: 'Educação: da interrupção à recuperação'
 date: 2021-04-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

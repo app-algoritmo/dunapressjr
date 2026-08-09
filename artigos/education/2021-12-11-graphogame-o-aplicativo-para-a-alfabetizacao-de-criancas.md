@@ -2,7 +2,7 @@
 title: GraphoGame o aplicativo para a alfabetização de crianças
 date: 2021-12-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

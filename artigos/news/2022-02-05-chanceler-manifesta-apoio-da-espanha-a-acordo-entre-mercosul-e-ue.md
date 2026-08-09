@@ -2,7 +2,7 @@
 title: Chanceler manifesta apoio da Espanha a acordo entre Mercosul e UE
 date: 2022-02-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

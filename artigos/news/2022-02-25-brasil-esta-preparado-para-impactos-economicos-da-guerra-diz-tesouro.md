@@ -2,7 +2,7 @@
 title: Brasil está preparado para impactos econômicos da guerra, diz Tesouro
 date: 2022-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: PF investiga grupo que fraudava auxílio emergencial
 date: 2020-11-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

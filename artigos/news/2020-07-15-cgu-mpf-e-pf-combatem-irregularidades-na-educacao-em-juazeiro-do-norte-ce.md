@@ -2,7 +2,7 @@
 title: CGU, MPF e PF combatem irregularidades na educação em Juazeiro do Norte (CE)
 date: 2020-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

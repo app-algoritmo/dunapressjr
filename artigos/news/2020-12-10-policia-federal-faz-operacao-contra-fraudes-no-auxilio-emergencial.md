@@ -2,7 +2,7 @@
 title: Polícia Federal faz operação contra fraudes no auxílio emergencial
 date: 2020-12-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Israel Retira Diplomatas em Resposta às Declarações de Erdogan
 date: 2023-10-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

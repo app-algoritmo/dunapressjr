@@ -2,7 +2,7 @@
 title: UFPR envia estudantes para participar de desafio internacional na área de turismo
 date: 2020-07-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

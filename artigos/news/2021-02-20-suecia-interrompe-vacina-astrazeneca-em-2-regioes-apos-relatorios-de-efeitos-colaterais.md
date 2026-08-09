@@ -3,7 +3,7 @@ title: Suécia interrompe vacina AstraZeneca em 2 regiões após relatórios de 
   colaterais
 date: 2021-02-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

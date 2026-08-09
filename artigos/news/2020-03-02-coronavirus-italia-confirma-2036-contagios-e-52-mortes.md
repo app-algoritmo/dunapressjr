@@ -2,7 +2,7 @@
 title: Coronavírus, Itália confirma 2.036 contágios e 52 mortes
 date: 2020-03-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "Seu cachorro realmente sente sua falta — ou está apenas com fome?"
 subtitle: "A ciência do apego entre humanos e pets avança rápido, mas o mercado de bem-estar animal já faturou R$ 68 bilhões no Brasil antes que as perguntas certas fossem feitas."
 date: 2026-08-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - pets
 description: "Pesquisas recentes de neurociência animal estão redefinindo o que chamamos de 'vínculo' entre tutores e pets — e jogando luz sobre uma indústria de R$ 68 bilhões que vende emoção antes de entender o que os animais de fato sentem. O debate importa agora porque as respostas mudam desde como você escolhe ração até se aquela câmera de monitoramento remoto faz alguma diferença real."

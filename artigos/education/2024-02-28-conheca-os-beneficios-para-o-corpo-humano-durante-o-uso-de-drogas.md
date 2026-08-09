@@ -2,7 +2,7 @@
 title: Conheça os 'benefícios' para o corpo humano durante o uso de drogas
 date: 2024-02-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

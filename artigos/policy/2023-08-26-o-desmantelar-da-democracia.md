@@ -2,7 +2,7 @@
 title: O desmantelar da democracia
 date: 2023-08-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 - World Affairs

@@ -2,7 +2,7 @@
 title: Noruega simula invasão inimiga em exercícios militares
 date: 2023-03-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 ---

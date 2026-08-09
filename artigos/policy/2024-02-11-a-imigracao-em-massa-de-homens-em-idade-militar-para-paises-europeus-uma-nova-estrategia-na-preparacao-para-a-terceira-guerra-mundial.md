@@ -3,7 +3,7 @@ title: 'A Imigração em Massa de Homens em Idade Militar para Países Europeus:
   Nova Estratégia na Preparação para a Terceira Guerra Mundial?'
 date: 2024-02-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

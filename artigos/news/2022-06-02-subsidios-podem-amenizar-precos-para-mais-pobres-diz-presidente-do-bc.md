@@ -2,7 +2,7 @@
 title: Subsídios podem amenizar preços para mais pobres, diz presidente do BC
 date: 2022-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

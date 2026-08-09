@@ -2,7 +2,7 @@
 title: <strong>Inadimplência no país é a maior da série histórica, diz FecomercioSP</strong>
 date: 2022-11-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ministério da Justiça investiga bancos por fraude em empréstimos
 date: 2022-08-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

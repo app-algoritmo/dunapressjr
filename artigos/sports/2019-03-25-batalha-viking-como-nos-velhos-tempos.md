@@ -2,7 +2,7 @@
 title: Batalha viking como nos velhos tempos
 date: 2019-03-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Sports
 ---

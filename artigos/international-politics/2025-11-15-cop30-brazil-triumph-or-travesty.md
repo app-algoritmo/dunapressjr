@@ -2,7 +2,7 @@
 title: 'COP30 Brazil: Triumph or Travesty?'
 date: 2025-11-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - International Politics
 - Sustainability

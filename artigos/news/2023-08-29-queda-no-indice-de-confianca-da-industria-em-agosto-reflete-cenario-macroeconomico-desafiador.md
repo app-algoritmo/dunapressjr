@@ -3,7 +3,7 @@ title: Queda no Índice de Confiança da Indústria em agosto reflete cenário m
   desafiador
 date: 2023-08-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

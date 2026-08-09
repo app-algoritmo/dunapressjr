@@ -2,7 +2,7 @@
 title: Novo marco fiscal limita alta do gasto a 70% da variação da receita
 date: 2023-03-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

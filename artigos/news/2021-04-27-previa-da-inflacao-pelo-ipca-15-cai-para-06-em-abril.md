@@ -2,7 +2,7 @@
 title: Prévia da inflação pelo IPCA-15 cai para 0,6% em abril
 date: 2021-04-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

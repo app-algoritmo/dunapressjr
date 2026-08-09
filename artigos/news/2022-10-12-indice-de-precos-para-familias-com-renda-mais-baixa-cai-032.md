@@ -2,7 +2,7 @@
 title: Índice de preços para famílias com renda mais baixa cai 0,32%
 date: 2022-10-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

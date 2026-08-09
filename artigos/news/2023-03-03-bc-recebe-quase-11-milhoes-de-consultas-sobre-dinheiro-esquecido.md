@@ -2,7 +2,7 @@
 title: BC recebe quase 11 milhões de consultas sobre dinheiro esquecido
 date: 2023-03-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

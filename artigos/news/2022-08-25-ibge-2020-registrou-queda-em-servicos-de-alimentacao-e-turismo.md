@@ -2,7 +2,7 @@
 title: 'IBGE: 2020 registrou queda em serviços de alimentação e turismo'
 date: 2022-08-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

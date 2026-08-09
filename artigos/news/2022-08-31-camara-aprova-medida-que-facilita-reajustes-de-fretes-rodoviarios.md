@@ -2,7 +2,7 @@
 title: Câmara aprova medida que facilita reajustes de fretes rodoviários
 date: 2022-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

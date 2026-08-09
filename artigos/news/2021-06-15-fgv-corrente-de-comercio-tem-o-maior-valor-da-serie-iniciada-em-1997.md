@@ -2,7 +2,7 @@
 title: 'FGV: corrente de comércio tem o maior valor da série iniciada em 1997'
 date: 2021-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

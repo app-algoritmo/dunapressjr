@@ -3,7 +3,7 @@ title: Indústria registra avanço do emprego e das horas trabalhadas na produç
   CNI
 date: 2023-03-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

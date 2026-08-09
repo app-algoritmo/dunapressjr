@@ -3,7 +3,7 @@ title: Que área(s) você espera que o futuro prefeito de São Paulo realize ges
   imediatas?
 date: 2020-10-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

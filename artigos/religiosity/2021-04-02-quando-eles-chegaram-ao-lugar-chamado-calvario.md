@@ -2,7 +2,7 @@
 title: Quando eles chegaram ao lugar chamado Calvário
 date: 2021-04-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Religiosity
 ---

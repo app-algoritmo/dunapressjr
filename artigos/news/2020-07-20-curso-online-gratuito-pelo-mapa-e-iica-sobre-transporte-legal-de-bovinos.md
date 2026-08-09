@@ -2,7 +2,7 @@
 title: Curso online gratuito pelo Mapa e IICA sobre transporte legal de bovinos
 date: 2020-07-20
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

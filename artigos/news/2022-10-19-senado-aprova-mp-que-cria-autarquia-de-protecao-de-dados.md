@@ -2,7 +2,7 @@
 title: Senado aprova MP que cria autarquia de proteção de dados
 date: 2022-10-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

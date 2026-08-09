@@ -2,7 +2,7 @@
 title: Orçamento de 2023 prevê R$ 80,2 bilhões em desonerações
 date: 2022-09-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

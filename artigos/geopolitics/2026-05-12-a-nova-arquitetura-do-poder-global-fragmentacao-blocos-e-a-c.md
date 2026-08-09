@@ -2,7 +2,7 @@
 title: "A Nova Arquitetura do Poder Global: Fragmentação, Blocos e a Crise da Ordem Liberal"
 date: 2026-05-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitics
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778655335/A_Nova_Arquitetura_do_Poder_Global-_Fragmentac%CC%A7a%CC%83o_Blocos_e_a_Crise_da_Ordem_Liberal_vuzfze.jpg"

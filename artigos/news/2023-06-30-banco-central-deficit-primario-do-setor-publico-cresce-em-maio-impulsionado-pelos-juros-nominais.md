@@ -3,7 +3,7 @@ title: 'Banco Central: Déficit primário do setor público cresce em maio, impu
   pelos juros nominais'
 date: 2023-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar volta para R$ 5,10 com ocupação russa na Ucrânia
 date: 2022-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

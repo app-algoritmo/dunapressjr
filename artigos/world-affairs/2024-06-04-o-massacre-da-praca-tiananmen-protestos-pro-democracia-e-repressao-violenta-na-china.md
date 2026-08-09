@@ -3,7 +3,7 @@ title: 'O Massacre da Praça Tiananmen: Protestos Pró-Democracia e Repressão V
   na China'
 date: 2024-06-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

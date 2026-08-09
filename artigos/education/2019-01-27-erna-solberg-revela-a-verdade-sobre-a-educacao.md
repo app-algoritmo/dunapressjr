@@ -2,7 +2,7 @@
 title: Erna Solberg revela a verdade sobre a Educação
 date: 2019-01-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Policy

@@ -2,7 +2,7 @@
 title: Procel economiza 22,7 bilhões de quilowatts-hora em 2021
 date: 2022-06-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

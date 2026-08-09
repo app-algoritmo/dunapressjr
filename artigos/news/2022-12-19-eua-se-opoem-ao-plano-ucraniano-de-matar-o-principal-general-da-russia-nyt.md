@@ -2,7 +2,7 @@
 title: EUA se opõem ao plano ucraniano de matar o principal general da Rússia – NYT
 date: 2022-12-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

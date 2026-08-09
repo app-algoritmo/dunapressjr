@@ -3,7 +3,7 @@ title: A polinização do açaí é mais de 90% da polinização realizada por a
   Amazônia
 date: 2020-08-05
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

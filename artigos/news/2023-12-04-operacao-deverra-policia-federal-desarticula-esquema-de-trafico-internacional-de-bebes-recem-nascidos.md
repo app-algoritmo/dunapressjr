@@ -3,7 +3,7 @@ title: 'Operação Deverra: Polícia Federal desarticula esquema de tráfico int
   de bebês recém-nascidos'
 date: 2023-12-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

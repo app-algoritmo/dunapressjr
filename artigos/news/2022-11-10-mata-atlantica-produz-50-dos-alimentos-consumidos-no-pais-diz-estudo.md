@@ -2,7 +2,7 @@
 title: Mata Atlântica produz 50% dos alimentos consumidos no país, diz estudo
 date: 2022-11-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

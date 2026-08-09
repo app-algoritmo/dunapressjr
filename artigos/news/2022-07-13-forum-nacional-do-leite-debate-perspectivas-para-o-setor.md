@@ -2,7 +2,7 @@
 title: Fórum Nacional do Leite debate perspectivas para o setor
 date: 2022-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

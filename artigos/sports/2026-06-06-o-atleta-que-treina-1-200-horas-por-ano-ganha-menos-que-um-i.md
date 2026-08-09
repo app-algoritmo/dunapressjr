@@ -3,7 +3,7 @@ title: "O atleta que treina 1.200 horas por ano ganha menos que um influenciador
 subtitle: "Com os Jogos Pan-Americanos de Barranquilla se aproximando e o ciclo olímpico de Los Angeles 2028 já em curso, o Brasil enfrenta uma equação difícil: investe bilhões em infraestrutura esportiva, mas ainda não resolveu como transformar talento em carreira sustentável."
 date: 2026-06-06
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - sports
 description: "O Brasil forma atletas de ponta, mas perde talentos para o abandono precoce por falta de estrutura de carreira — enquanto o ciclo olímpico de Los Angeles 2028 já exige respostas. Entender por que o país exporta campeões e importa o problema diz muito sobre quem somos e o que queremos ser."

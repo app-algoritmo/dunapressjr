@@ -2,7 +2,7 @@
 title: 'Procon-SP: self-service teve alta de 23% desde janeiro de 2020'
 date: 2022-07-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

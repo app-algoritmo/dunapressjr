@@ -2,7 +2,7 @@
 title: Petrobras tem lucro líquido de R$ 31 bilhões no terceiro trimestre
 date: 2021-10-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

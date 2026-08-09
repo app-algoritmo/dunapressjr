@@ -2,7 +2,7 @@
 title: Como e onde alocar ventiladores armazenados durante uma pandemia
 date: 2020-03-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

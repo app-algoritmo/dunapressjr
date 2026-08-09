@@ -2,7 +2,7 @@
 title: 'Dinheiro em Foco: Um Guia para Iniciantes em Investimentos'
 date: 2023-04-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Finances
 - Financial Education

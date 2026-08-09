@@ -2,7 +2,7 @@
 title: Atividade econômica cresce 2,3% no primeiro trimestre, diz BC
 date: 2021-05-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

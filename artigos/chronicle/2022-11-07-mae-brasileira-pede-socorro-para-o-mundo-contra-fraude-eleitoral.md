@@ -2,7 +2,7 @@
 title: Mãe brasileira pede socorro para o mundo contra fraude eleitoral
 date: 2022-11-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Chronicle
 - News

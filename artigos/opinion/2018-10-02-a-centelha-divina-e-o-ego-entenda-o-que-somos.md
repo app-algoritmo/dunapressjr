@@ -2,7 +2,7 @@
 title: A centelha divina e o ego - Entenda o que somos!
 date: 2018-10-02
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 - Religiosity

@@ -2,7 +2,7 @@
 title: Preços da indústria têm inflação de 1,94% em julho, diz IBGE
 date: 2021-08-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

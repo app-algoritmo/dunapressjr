@@ -2,7 +2,7 @@
 title: Projeto mundial sobre mudanças climáticas com participação de estudantes brasileiros
 date: 2020-11-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

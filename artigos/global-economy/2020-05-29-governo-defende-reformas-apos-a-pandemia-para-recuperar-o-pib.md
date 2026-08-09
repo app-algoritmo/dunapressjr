@@ -2,7 +2,7 @@
 title: Governo defende reformas após a pandemia para recuperar o PIB
 date: 2020-05-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

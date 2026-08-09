@@ -2,7 +2,7 @@
 title: Temporal deixa pelo menos três mortos no Rio de Janeiro
 date: 2019-04-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

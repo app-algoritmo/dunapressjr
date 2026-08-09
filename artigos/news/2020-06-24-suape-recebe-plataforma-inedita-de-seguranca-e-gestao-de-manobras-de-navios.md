@@ -2,7 +2,7 @@
 title: Suape recebe plataforma inédita de Segurança e Gestão de Manobras de Navios
 date: 2020-06-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

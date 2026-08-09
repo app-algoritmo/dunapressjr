@@ -3,7 +3,7 @@ title: "A Epidemia Silenciosa do Esgotamento Cognitivo: Como a Sobrecarga de Inf
 subtitle: "Pesquisadores identificam um padrão preocupante de fadiga mental crônica em adultos entre 25 e 45 anos, alimentado pelo excesso de estímulos digitais e pela incapacidade crescente de processar o silêncio"
 date: 2026-06-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - psicologia
 description: "O esgotamento cognitivo deixou de ser privilégio de executivos sobrecarregados e passou a ser uma condição transversal que afeta profissionais de todas as áreas. A combinação entre hiperconectividade, notificações constantes e a pressão por produtividade está alterando mecanismos fundamentais de atenção e memória. Este artigo analisa os mecanismos psicológicos desse fenômeno, seus indicadores clínicos e os caminhos que a psicologia contemporânea aponta como saída."

@@ -3,7 +3,7 @@ title: Sob efeito Americanas e pacote econômico, Bolsa cai 0,84% e fica acima d
   110 mil pontos
 date: 2023-01-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

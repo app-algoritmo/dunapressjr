@@ -2,7 +2,7 @@
 title: 'Desinformação: O Principal Risco Global em Ano de Eleições Cruciais'
 date: 2024-01-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

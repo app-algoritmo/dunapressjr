@@ -2,7 +2,7 @@
 title: Mercado financeiro reduz estimativa de crescimento da economia em 2020
 date: 2020-03-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

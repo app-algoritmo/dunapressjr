@@ -2,7 +2,7 @@
 title: Mercado financeiro prevê inflação de 7,67% para este ano
 date: 2022-07-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

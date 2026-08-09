@@ -2,7 +2,7 @@
 title: Operação Residence desarticula traficantes de drogas na Paraíba
 date: 2020-12-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

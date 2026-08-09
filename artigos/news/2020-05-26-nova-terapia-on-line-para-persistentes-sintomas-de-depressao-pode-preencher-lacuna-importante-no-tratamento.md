@@ -3,7 +3,7 @@ title: Nova terapia on-line para persistentes sintomas de depressão pode preenc
   lacuna importante no tratamento
 date: 2020-05-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

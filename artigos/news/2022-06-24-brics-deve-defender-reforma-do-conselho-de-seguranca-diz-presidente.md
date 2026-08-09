@@ -2,7 +2,7 @@
 title: Brics deve defender reforma do Conselho de Segurança, diz presidente
 date: 2022-06-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

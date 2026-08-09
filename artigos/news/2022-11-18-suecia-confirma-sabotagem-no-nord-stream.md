@@ -2,7 +2,7 @@
 title: Suécia confirma sabotagem no Nord Stream
 date: 2022-11-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

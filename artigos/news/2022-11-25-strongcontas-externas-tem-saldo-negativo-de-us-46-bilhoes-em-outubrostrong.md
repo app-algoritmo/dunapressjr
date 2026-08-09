@@ -2,7 +2,7 @@
 title: <strong>Contas externas têm saldo negativo de US$ 4,6 bilhões em outubro</strong>
 date: 2022-11-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Atividade econômica tem alta de 0,64% em dezembro, diz Banco Central
 date: 2021-02-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

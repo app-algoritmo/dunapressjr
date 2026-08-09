@@ -2,7 +2,7 @@
 title: 'Ipea: coronavírus pode causar impacto na recuperação do emprego formal'
 date: 2020-03-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: Entidades de educação e Inep irão debater sobre datas de aplicação d
   em 2020
 date: 2020-07-06
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

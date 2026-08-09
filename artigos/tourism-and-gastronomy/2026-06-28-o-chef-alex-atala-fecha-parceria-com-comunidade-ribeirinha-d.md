@@ -3,7 +3,7 @@ title: "O chef Alex Atala fecha parceria com comunidade ribeirinha do Marajó pa
 subtitle: "Com investimento de R$ 4,2 milhões do Sebrae e presença confirmada no Madrid Fusión 2027, o projeto Marajó Vivo aposta que o turismo de base comunitária pode gerar renda sem destruir o ecossistema que o sustenta."
 date: 2026-06-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tourism-and-gastronomy
 description: "O chef Alex Atala e comunidades ribeirinhas do arquipélago do Marajó (PA) lançam em julho de 2026 o projeto Marajó Vivo, que transforma ingredientes da Amazônia atlântica em produto gastronômico e turístico de exportação. A iniciativa é o exemplo mais concreto até hoje de como o Brasil pode monetizar biodiversidade sem esgotá-la — e chega num momento em que o turismo sustentável movimenta US$ 340 bilhões globalmente."

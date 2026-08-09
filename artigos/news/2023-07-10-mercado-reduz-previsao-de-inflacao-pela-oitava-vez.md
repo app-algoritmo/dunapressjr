@@ -2,7 +2,7 @@
 title: Mercado reduz previsão de inflação pela oitava vez
 date: 2023-07-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

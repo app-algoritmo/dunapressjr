@@ -2,7 +2,7 @@
 title: Circo pega fogo e STF joga gasolina
 date: 2019-02-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Plano Safra 2020/2021 com juros melhores para agricultura familiar e mais
   para todos
 date: 2020-06-19
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

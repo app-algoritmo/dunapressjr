@@ -2,7 +2,7 @@
 title: Previsão do Ipea é de estabilidade para setor agropecuário em 2022
 date: 2022-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

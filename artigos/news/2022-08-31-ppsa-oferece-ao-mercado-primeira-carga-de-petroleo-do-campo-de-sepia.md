@@ -2,7 +2,7 @@
 title: PPSA oferece ao mercado primeira carga de petróleo do campo de Sépia
 date: 2022-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

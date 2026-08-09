@@ -2,7 +2,7 @@
 title: Brasil ocupa 54ª posição em ranking de inovação
 date: 2022-09-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

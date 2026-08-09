@@ -3,7 +3,7 @@ title: O seleto exame da Faculdade de 'Saúde Pública' da Universidade de São 
   (USP)
 date: 2020-02-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Vetos no PLP-39 beneficiarão estados e municípios, diz secretário
 date: 2020-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Banco Central tem prejuízo de R$ 298,5 bilhões em 2022
 date: 2023-02-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Superávit da balança chega a US$ 3,67 bilhões em setembro, até a terceira semana
 date: 2022-09-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

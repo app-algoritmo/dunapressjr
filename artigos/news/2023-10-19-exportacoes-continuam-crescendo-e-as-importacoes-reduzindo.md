@@ -2,7 +2,7 @@
 title: Exportações continuam crescendo e as importações reduzindo
 date: 2023-10-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

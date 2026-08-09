@@ -2,7 +2,7 @@
 title: Entenda como o X (Twitter) será tecnicamente bloqueado no Brasil
 date: 2024-08-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

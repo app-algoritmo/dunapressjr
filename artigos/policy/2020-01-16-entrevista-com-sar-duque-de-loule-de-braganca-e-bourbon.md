@@ -2,7 +2,7 @@
 title: Entrevista com S.A.R. duque de Loulé de Bragança e Bourbon
 date: 2020-01-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

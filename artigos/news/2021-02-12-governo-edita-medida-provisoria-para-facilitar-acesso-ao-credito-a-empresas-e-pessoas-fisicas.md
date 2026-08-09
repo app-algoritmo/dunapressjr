@@ -3,7 +3,7 @@ title: Governo edita medida provisória para facilitar acesso ao crédito a empr
   e pessoas físicas
 date: 2021-02-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

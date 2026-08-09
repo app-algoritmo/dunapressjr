@@ -2,7 +2,7 @@
 title: Média diária de produção de petróleo no regime de partilha cresce
 date: 2022-09-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: <strong>IPC-S tem inflação em sete capitais pesquisadas pela FGV</strong>
 date: 2022-11-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

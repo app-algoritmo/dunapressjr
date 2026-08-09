@@ -2,7 +2,7 @@
 title: Dólar fecha a R$ 5,51 com crise turca e preocupação com pandemia
 date: 2021-03-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

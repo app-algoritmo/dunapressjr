@@ -3,7 +3,7 @@ title: Deputado federal Luiz Philippe de Orleans e Bragança aciona STF para sus
   tramitação da Reforma Tributária do governo
 date: 2023-07-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'FGV: Barômetro Global antecedente aponta crescimento econômico no horizonte'
 date: 2023-10-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

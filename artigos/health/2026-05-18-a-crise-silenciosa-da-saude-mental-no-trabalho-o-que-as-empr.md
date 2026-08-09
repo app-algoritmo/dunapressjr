@@ -3,7 +3,7 @@ title: "A Crise Silenciosa da Saúde Mental no Trabalho: O Que as Empresas Ainda
 subtitle: "Burnout, ansiedade crônica e adoecimento psíquico avançam em ritmo acelerado no ambiente corporativo brasileiro, mas a resposta institucional ainda patina entre discursos vazios e ações insuficientes"
 date: 2026-05-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - health
 description: "O adoecimento mental relacionado ao trabalho atingiu níveis alarmantes no Brasil e no mundo. Apesar da crescente visibilidade do tema, a distância entre o discurso das organizações e as práticas efetivas de cuidado permanece enorme. Este artigo analisa os dados mais recentes, os fatores estruturais que alimentam a crise e o que seria necessário para uma mudança real."

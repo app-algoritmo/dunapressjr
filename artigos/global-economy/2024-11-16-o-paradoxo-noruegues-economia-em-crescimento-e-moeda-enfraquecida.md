@@ -2,7 +2,7 @@
 title: 'O Paradoxo Norueguês: Economia em Crescimento e Moeda Enfraquecida'
 date: 2024-11-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

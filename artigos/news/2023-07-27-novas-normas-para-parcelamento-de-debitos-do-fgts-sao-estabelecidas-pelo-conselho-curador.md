@@ -3,7 +3,7 @@ title: Novas normas para parcelamento de débitos do FGTS são estabelecidas pel
   curador
 date: 2023-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

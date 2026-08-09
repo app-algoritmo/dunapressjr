@@ -2,7 +2,7 @@
 title: <strong>Produção de motocicletas cresce 26% em outubro, aponta Abraciclo</strong>
 date: 2022-11-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

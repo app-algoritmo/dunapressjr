@@ -2,7 +2,7 @@
 title: América Latina e Caribe devem crescer 2,1% em 2022
 date: 2022-01-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

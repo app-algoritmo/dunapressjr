@@ -3,7 +3,7 @@ title: Governador da Paraíba anuncia nesta sexta-feira(12) o detalhamento do pl
   de retomada da economia
 date: 2020-06-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

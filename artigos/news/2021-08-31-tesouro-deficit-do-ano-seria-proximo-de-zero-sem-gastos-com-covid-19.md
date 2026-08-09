@@ -2,7 +2,7 @@
 title: 'Tesouro: déficit do ano seria próximo de zero sem gastos com covid-19'
 date: 2021-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

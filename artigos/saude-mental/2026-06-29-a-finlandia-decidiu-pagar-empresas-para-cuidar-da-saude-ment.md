@@ -3,7 +3,7 @@ title: "A Finlândia decidiu pagar empresas para cuidar da saúde mental dos fun
 subtitle: "Um programa piloto de Helsinque que remunera empregadores por métricas de bem-estar psicológico está forçando economistas e psiquiatras a repensarem onde termina o RH e onde começa a medicina do trabalho."
 date: 2026-06-29
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - saude-mental
 description: "A Finlândia lançou em 2025 um programa que subsidia empresas com base em indicadores mensuráveis de saúde mental dos trabalhadores, gerando os primeiros dados robustos sobre o que realmente funciona no ambiente corporativo. O modelo está sendo estudado por Brasil, Alemanha e Japão — e coloca em xeque a lógica dos benefícios de bem-estar como estratégia de marketing."

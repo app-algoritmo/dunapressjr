@@ -2,7 +2,7 @@
 title: Preços da construção aumentam 0,99% em março, informa o IBGE
 date: 2022-04-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

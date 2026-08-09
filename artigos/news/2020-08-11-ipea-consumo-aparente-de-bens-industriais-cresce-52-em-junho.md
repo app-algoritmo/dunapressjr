@@ -2,7 +2,7 @@
 title: 'Ipea: consumo aparente de bens industriais cresce 5,2% em junho'
 date: 2020-08-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

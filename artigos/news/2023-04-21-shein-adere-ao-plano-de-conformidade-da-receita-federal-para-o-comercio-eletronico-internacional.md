@@ -3,7 +3,7 @@ title: Shein adere ao plano de conformidade da Receita Federal para o comércio 
   internacional
 date: 2023-04-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

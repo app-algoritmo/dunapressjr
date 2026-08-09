@@ -2,7 +2,7 @@
 title: O mundo árabe apoia a Palestina?
 date: 2023-10-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: '1964 O Estopim: Comunistas anunciam o fim da propriedade privada.'
 date: 2019-03-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

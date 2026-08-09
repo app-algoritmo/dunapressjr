@@ -2,7 +2,7 @@
 title: Bolsa sobe 7,1%, e dólar cai para R$ 4,64 em dia de recuperação
 date: 2020-03-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

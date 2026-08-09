@@ -2,7 +2,7 @@
 title: Copom iniciou 7ª reunião do ano para definir taxa básica de juros
 date: 2022-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

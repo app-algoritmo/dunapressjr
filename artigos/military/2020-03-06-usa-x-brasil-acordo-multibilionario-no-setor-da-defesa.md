@@ -2,7 +2,7 @@
 title: USA x Brasil, acordo multibilionário no setor da defesa
 date: 2020-03-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 ---

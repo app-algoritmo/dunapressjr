@@ -3,7 +3,7 @@ title: Câmara do TCE/PB dá 90 dias para prefeitura de Bayeux fazer nova licita
   de coleta de lixo e multa ex-gestor
 date: 2020-11-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

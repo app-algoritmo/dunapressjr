@@ -2,7 +2,7 @@
 title: 'O Syracusia: O Gigante Náutico da Antiguidade'
 date: 2024-10-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - History
 - Technology

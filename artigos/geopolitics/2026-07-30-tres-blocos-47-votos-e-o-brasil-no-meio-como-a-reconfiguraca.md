@@ -3,7 +3,7 @@ title: "Três blocos, 47 votos e o Brasil no meio: como a reconfiguração do G2
 subtitle: "Com a presidência sul-africana do G20 em 2025 e a turca em 2026 consolidando um novo eixo do Sul Global, Brasília acumula capital diplomático raro — e a janela para usá-lo tem prazo de validade."
 date: 2026-07-30
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitics
 description: "A geometria do poder global passa por uma reconfiguração silenciosa em 2026, com três blocos distintos — Ocidente ampliado, eixo sino-russo e Sul Global organizado — disputando 47 votos-chave em fóruns multilaterais. O Brasil, que presidiu o G20 em 2024 e mantém canais abertos com os três campos, ocupa uma posição de mediação que raramente se repete na história diplomática brasileira."

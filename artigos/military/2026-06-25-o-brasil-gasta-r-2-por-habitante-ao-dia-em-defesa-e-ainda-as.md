@@ -3,7 +3,7 @@ title: "O Brasil gasta R$ 2 por habitante ao dia em defesa — e ainda assim aca
 subtitle: "A aprovação do Programa de Obtenção de Meios de Superfície revela uma virada silenciosa na estratégia naval brasileira — e o paradoxo de um país que investe pouco, mas aposta alto em soberania marítima."
 date: 2026-06-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - military
 description: "O Brasil formalizou em junho de 2026 o contrato para aquisição de quatro fragatas de nova geração no âmbito do PROSUPER, o maior programa naval de superfície desde os anos 1970. O movimento acontece num momento em que o país ainda gasta menos de 1,5% do PIB em defesa — e reposiciona o Brasil como ator marítimo relevante no Atlântico Sul."

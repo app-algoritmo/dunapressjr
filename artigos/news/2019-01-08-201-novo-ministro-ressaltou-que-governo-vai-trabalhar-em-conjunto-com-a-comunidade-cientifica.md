@@ -3,7 +3,7 @@ title: 2.01 Novo ministro ressaltou que governo vai trabalhar em conjunto com a 
   científica
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

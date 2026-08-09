@@ -2,7 +2,7 @@
 title: Países com a melhor qualidade de vida
 date: 2021-03-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

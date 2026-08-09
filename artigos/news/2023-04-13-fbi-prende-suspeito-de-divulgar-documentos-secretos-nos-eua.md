@@ -2,7 +2,7 @@
 title: FBI prende suspeito de divulgar documentos secretos nos EUA
 date: 2023-04-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

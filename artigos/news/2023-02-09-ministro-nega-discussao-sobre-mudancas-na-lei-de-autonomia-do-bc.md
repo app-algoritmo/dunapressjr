@@ -2,7 +2,7 @@
 title: Ministro nega discussão sobre mudanças na lei de autonomia do BC
 date: 2023-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

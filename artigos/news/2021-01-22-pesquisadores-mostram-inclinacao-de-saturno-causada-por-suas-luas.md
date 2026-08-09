@@ -2,7 +2,7 @@
 title: Pesquisadores mostram inclinação de Saturno causada por suas luas
 date: 2021-01-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

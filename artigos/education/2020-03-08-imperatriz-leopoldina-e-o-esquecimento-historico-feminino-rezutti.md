@@ -2,7 +2,7 @@
 title: Imperatriz Leopoldina e o esquecimento histórico feminino, Rezutti
 date: 2020-03-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

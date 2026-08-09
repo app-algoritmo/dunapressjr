@@ -2,7 +2,7 @@
 title: INSS começou a pagar nesta segunda-feira décimo terceiro antecipado
 date: 2022-04-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

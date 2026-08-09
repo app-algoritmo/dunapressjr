@@ -2,7 +2,7 @@
 title: Bolsa sobe 0,70%, acima dos 108 mil pontos
 date: 2023-02-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

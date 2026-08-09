@@ -2,7 +2,7 @@
 title: Publicada a versão S-1.2 do eSocial com implantação em novembro de 2023
 date: 2023-08-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

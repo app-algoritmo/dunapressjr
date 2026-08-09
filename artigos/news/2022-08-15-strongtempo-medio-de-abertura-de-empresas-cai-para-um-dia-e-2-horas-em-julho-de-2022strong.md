@@ -3,7 +3,7 @@ title: <strong>Tempo médio de abertura de empresas cai para um dia e 2 horas em
   de 2022</strong>
 date: 2022-08-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

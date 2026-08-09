@@ -3,7 +3,7 @@ title: 'Abelhas: Polinização pode aumentar a produtividade de culturas de gran
   agrícola no Brasil'
 date: 2020-08-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

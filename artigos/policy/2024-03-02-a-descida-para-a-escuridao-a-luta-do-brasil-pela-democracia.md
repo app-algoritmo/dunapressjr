@@ -2,7 +2,7 @@
 title: 'A Descida para a Escuridão: A Luta do Brasil pela Democracia'
 date: 2024-03-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

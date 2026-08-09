@@ -2,7 +2,7 @@
 title: Bolsa volta a níveis pré-pandemia com esperança de vacina
 date: 2020-11-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

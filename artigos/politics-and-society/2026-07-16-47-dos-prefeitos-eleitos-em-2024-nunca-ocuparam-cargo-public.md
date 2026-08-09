@@ -3,7 +3,7 @@ title: "47% dos prefeitos eleitos em 2024 nunca ocuparam cargo público antes �
 subtitle: "Uma geração de gestores sem trajetória partidária clássica chega ao comando de municípios brasileiros e desafia os modelos tradicionais de governança, coalizão e entrega."
 date: 2026-07-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - politics-and-society
 description: "Quase metade dos prefeitos que tomaram posse em janeiro de 2025 nunca havia ocupado cargo público — um dado que revela uma virada silenciosa na política brasileira. O fenômeno levanta questões concretas sobre capacidade de entrega, novas alianças e o que os eleitores estão sinalizando ao sistema."

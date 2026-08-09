@@ -2,7 +2,7 @@
 title: BNDES aprova financiamento de R$ 450 milhões para exportação de aviões
 date: 2021-01-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

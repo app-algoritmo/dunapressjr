@@ -3,7 +3,7 @@ title: "O cérebro humano cria memórias falsas com 94% de confiança — e isso
 subtitle: "Novos estudos de neurociência cognitiva revelam que a memória não registra o passado, mas o reconstrói a cada evocação — com implicações diretas para o sistema jurídico, a medicina e o comportamento de consumo no Brasil."
 date: 2026-08-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - science
 description: "Pesquisas publicadas em 2025 e 2026 demonstram que o cérebro humano reconstrói ativamente memórias a cada vez que as acessa, introduzindo distorções com alto grau de certeza subjetiva. No Brasil, onde mais de 40% das condenações criminais se baseiam em testemunho ocular, o dado transforma um problema científico em urgência institucional."

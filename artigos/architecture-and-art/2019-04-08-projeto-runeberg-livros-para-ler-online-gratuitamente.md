@@ -2,7 +2,7 @@
 title: 'Projeto Runeberg: livros para ler online gratuitamente'
 date: 2019-04-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 ---

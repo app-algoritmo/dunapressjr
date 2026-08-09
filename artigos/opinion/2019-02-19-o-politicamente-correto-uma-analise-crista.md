@@ -2,7 +2,7 @@
 title: O Politicamente Correto - Uma análise Cristã
 date: 2019-02-19
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 - Policy

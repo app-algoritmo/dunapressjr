@@ -3,7 +3,7 @@ title: 'Donald Trump: Terapia e cura são mais importantes que a vacina porque s
   imediatas'
 date: 2020-05-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Constatações de uma possível pandemia – Precisamos enxergar além dos olhos
 date: 2020-03-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

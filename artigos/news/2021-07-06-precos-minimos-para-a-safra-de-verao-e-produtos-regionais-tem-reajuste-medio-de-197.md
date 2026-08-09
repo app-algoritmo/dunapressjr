@@ -3,7 +3,7 @@ title: Preços mínimos para a safra de verão e produtos regionais têm reajust
   de 19,7%
 date: 2021-07-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

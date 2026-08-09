@@ -1,8 +1,8 @@
 ---
-title: 'Passaporte de vacina: - Uma violação dos  direitos'
+title: 'Passaporte de vacina: - Uma violação dos direitos'
 date: 2021-04-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

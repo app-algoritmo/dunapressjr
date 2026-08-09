@@ -2,7 +2,7 @@
 title: Coronavírus, Noruega confirma 56 casos e lança campanha para crianças
 date: 2020-03-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

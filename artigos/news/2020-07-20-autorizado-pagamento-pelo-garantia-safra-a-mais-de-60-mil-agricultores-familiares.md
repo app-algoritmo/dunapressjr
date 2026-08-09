@@ -2,7 +2,7 @@
 title: Autorizado pagamento pelo Garantia-Safra a mais de 60 mil agricultores familiares
 date: 2020-07-20
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

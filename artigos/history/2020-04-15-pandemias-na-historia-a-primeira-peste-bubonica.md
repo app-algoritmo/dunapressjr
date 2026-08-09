@@ -2,7 +2,7 @@
 title: 'Pandemias na História: A Primeira Peste Bubônica'
 date: 2020-04-15
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

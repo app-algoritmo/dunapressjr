@@ -2,7 +2,7 @@
 title: Cómo usar Internet para impulsar su negocio
 date: 2023-05-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Courses and Careers
 - Personal Development

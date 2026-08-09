@@ -2,7 +2,7 @@
 title: Zero visão para o suicídio na Noruega
 date: 2020-06-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

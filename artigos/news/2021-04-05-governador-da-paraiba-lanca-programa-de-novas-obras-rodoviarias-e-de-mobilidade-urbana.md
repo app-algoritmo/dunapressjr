@@ -3,7 +3,7 @@ title: Governador da Paraíba lança programa de novas obras rodoviárias e de m
   urbana
 date: 2021-04-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

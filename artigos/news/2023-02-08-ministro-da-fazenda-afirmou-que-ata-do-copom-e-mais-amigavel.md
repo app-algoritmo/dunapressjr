@@ -2,7 +2,7 @@
 title: 'Ministro da Fazenda afirmou que ata do Copom: ''é mais amigável'''
 date: 2023-02-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

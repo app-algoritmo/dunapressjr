@@ -2,7 +2,7 @@
 title: Pandemia faz arrecadação cair 32,9% em maio, fechando em R$ 77,4 bi
 date: 2020-06-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

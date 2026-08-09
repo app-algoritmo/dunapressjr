@@ -2,7 +2,7 @@
 title: Alta de matérias-primas atinge indústrias em março de modo inesperado
 date: 2022-06-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

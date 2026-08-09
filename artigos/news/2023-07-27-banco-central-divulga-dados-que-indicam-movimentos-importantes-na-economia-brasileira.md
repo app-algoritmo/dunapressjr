@@ -3,7 +3,7 @@ title: Banco Central divulga dados que indicam movimentos importantes na economi
   brasileira
 date: 2023-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

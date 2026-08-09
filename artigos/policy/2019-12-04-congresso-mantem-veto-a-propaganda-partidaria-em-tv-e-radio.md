@@ -2,7 +2,7 @@
 title: Congresso mantém veto à propaganda partidária em TV e rádio
 date: 2019-12-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

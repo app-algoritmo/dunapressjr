@@ -1,5 +1,5 @@
 ---
-title: Fila única de castração e protetores em  Itajaí, alguns esclarecimentos
+title: Fila única de castração e protetores em Itajaí, alguns esclarecimentos
 date: 2024-03-09
 status: publish
 author: Joice Ferreira

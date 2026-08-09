@@ -2,7 +2,7 @@
 title: Guedes diz apoiar sugestão do CNJ sobre regras para precatórios
 date: 2021-08-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

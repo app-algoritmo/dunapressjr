@@ -2,7 +2,7 @@
 title: Jair Bolsonaro é destaque de capa em jornal norueguês
 date: 2018-10-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

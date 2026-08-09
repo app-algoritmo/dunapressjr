@@ -2,7 +2,7 @@
 title: Combate ao alcoolismo é uma prioridade na Noruega
 date: 2018-10-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 - Magazine

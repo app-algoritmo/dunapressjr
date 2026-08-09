@@ -3,7 +3,7 @@ title: Receita assinará acordo de reconhecimento de operador econômico com adu
   dos EUA
 date: 2022-09-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

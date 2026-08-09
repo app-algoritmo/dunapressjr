@@ -2,7 +2,7 @@
 title: Dólar cai e fecha abaixo de R$ 4,34 após atuação do BC
 date: 2020-02-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

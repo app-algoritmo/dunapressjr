@@ -2,7 +2,7 @@
 title: Dólar fecha no menor nível em dez semanas e cai para R$ 5,08
 date: 2020-06-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: Atividades turísticas crescem no Brasil em fevereiro e se aproximam de p
   pré-pandemia
 date: 2023-05-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

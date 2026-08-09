@@ -2,7 +2,7 @@
 title: Dívida Pública sobe 0,46% em outubro e fica em R$ 5,78 trilhões
 date: 2022-11-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

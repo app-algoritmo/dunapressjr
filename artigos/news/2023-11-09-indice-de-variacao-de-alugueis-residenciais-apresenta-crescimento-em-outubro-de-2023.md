@@ -3,7 +3,7 @@ title: Índice de Variação de aluguéis residenciais apresenta crescimento em 
   de 2023
 date: 2023-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

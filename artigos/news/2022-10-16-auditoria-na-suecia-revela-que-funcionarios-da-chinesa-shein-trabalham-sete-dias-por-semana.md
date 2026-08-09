@@ -3,7 +3,7 @@ title: Auditoria na Suécia revela que funcionários da chinesa Shein trabalham 
   dias por semana
 date: 2022-10-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

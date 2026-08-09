@@ -2,7 +2,7 @@
 title: Balança comercial registra superávit de US$ 5,44 bilhões em julho
 date: 2022-08-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: PhD Judy Mikovits, a cientista que descobriu a 'bala mágica' contra o câncer
 date: 2020-01-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 ---

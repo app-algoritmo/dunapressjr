@@ -2,7 +2,7 @@
 title: Dólar tem pequena queda e fecha dia vendido a R$ 5,37
 date: 2021-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

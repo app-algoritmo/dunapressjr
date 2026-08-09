@@ -3,7 +3,7 @@ title: "O Colapso que Ninguém Viu Chegar: Lições da Queda do Império Romano 
 subtitle: "Mil e quinhentos anos após 476 d.C., os mecanismos que destruíram Roma revelam padrões inquietantemente familiares nas grandes potências contemporâneas"
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - history
 description: "A queda do Império Romano do Ocidente não foi um evento súbito, mas um processo lento de erosão institucional, pressão fiscal, fragmentação militar e perda de coesão cultural. Ao examinar esses mecanismos com rigor historiográfico, encontramos espelhos perturbadores no mundo de 2026 — e razões sérias para repensar o que chamamos de estabilidade."

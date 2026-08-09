@@ -2,7 +2,7 @@
 title: Governo reduz para R$ 95,8 bilhões previsão de déficit para 2022
 date: 2021-11-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

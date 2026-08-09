@@ -4,7 +4,7 @@ title: O Ministério da Fazenda lançou um conjunto de 13 medidas estruturais pa
   do país
 date: 2023-04-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

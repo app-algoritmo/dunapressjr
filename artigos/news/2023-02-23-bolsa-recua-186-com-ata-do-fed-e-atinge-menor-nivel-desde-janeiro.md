@@ -2,7 +2,7 @@
 title: Bolsa recua 1,86% com ata do Fed e atinge menor nível desde janeiro
 date: 2023-02-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

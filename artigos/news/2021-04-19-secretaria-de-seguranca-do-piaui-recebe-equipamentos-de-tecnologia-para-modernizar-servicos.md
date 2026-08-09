@@ -3,7 +3,7 @@ title: Secretaria de Segurança do Piauí recebe equipamentos de tecnologia para
   serviços
 date: 2021-04-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

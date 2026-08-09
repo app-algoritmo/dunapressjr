@@ -2,7 +2,7 @@
 title: Operação Gafanhoto combate extração ilegal de areia no município do Conde/PB
 date: 2023-06-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

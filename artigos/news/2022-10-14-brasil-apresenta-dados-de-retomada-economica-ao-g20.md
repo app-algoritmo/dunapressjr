@@ -2,7 +2,7 @@
 title: Brasil apresenta dados de retomada econômica ao G20
 date: 2022-10-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

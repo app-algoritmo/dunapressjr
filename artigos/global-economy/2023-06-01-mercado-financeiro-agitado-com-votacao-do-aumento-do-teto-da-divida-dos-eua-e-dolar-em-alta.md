@@ -3,7 +3,7 @@ title: Mercado financeiro agitado com votação do aumento do teto da dívida do
   e dólar em alta
 date: 2023-06-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

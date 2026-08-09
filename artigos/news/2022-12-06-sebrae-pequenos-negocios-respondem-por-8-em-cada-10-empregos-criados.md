@@ -2,7 +2,7 @@
 title: 'Sebrae: pequenos negócios respondem por 8 em cada 10 empregos criados'
 date: 2022-12-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

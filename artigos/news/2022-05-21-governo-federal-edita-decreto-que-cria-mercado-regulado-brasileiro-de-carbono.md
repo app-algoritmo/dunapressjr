@@ -2,7 +2,7 @@
 title: Governo federal edita decreto que cria mercado regulado brasileiro de carbono
 date: 2022-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

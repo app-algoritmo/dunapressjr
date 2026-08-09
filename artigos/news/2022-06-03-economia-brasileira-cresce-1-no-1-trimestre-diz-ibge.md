@@ -2,7 +2,7 @@
 title: Economia brasileira cresce 1% no 1º trimestre, diz IBGE
 date: 2022-06-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

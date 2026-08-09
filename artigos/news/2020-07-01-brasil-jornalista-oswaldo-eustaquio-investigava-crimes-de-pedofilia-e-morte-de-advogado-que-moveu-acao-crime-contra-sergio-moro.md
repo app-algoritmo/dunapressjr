@@ -3,7 +3,7 @@ title: 'Brasil: Jornalista Oswaldo Eustáquio investigava crimes de pedofilia e 
   de advogado que moveu ação crime contra Sérgio Moro'
 date: 2020-07-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

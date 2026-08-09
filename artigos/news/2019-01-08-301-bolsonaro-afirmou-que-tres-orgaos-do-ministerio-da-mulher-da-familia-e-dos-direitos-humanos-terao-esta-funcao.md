@@ -3,7 +3,7 @@ title: 3.01 Bolsonaro afirmou que três órgãos do Ministério da Mulher, da Fa
   e dos Direitos Humanos terão esta função
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

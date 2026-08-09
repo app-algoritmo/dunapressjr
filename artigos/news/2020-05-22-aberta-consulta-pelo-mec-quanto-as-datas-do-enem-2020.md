@@ -2,7 +2,7 @@
 title: Aberta consulta pelo MEC quanto as datas do Enem 2020
 date: 2020-05-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

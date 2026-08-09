@@ -3,7 +3,7 @@ title: Redes sociais aclamam trineto do Imperador Pedro II para Presidência da 
   dos deputados
 date: 2020-04-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

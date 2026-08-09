@@ -2,7 +2,7 @@
 title: Dólar fecha em queda de 0,57% depois de encostar em R$ 5,40
 date: 2020-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

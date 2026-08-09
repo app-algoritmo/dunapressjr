@@ -3,7 +3,7 @@ title: Senador Cleitinho propõe isenção progressiva de Imposto de Renda para 
   ganha até R$ 5 mil mensais
 date: 2023-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

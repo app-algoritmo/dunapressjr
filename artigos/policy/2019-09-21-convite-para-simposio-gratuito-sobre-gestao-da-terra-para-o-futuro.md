@@ -2,7 +2,7 @@
 title: Convite para simpósio gratuito sobre gestão da terra para o futuro
 date: 2019-09-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

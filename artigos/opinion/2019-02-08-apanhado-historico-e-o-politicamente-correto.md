@@ -2,7 +2,7 @@
 title: Apanhado histórico e o politicamente correto
 date: 2019-02-08
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 - Policy

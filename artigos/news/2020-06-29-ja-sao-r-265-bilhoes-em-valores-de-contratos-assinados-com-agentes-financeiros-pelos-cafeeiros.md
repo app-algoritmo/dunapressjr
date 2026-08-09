@@ -3,7 +3,7 @@ title: Já são R$ 2,65 bilhões em valores de contratos assinados com agentes f
   pelos cafeeiros
 date: 2020-06-29
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

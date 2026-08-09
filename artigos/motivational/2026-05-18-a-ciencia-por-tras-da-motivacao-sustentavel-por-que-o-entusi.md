@@ -3,7 +3,7 @@ title: "A Ciência por Trás da Motivação Sustentável: Por Que o Entusiasmo I
 subtitle: "Pesquisas recentes revelam que a motivação duradoura depende menos de inspiração e mais de sistemas cognitivos e comportamentais construídos deliberadamente ao longo do tempo"
 date: 2026-05-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - motivational
 description: "Em um mundo saturado de conteúdo motivacional, a pergunta que realmente importa não é como se motivar, mas como manter essa motivação funcionando quando a euforia inicial desaparece. A neurociência e a psicologia comportamental oferecem respostas mais sólidas do que qualquer discurso de palco."

@@ -2,7 +2,7 @@
 title: Os prós e contras do trabalho em casa (Home Office)
 date: 2020-10-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

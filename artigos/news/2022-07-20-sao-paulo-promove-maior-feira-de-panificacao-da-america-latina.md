@@ -2,7 +2,7 @@
 title: São Paulo promove maior feira de panificação da América Latina
 date: 2022-07-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

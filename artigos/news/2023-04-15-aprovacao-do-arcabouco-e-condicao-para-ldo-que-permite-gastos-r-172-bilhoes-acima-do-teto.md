@@ -3,7 +3,7 @@ title: Aprovação do arcabouço é condição para LDO que permite gastos R$ 17
   acima do teto
 date: 2023-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

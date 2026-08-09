@@ -3,7 +3,7 @@ title: O Índice Geral de Preços – Disponibilidade Interna (IGP-DI) tem varia
   0,05% em agosto
 date: 2023-09-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

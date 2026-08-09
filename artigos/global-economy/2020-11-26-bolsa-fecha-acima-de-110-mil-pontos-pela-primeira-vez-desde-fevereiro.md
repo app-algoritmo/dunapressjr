@@ -2,7 +2,7 @@
 title: Bolsa fecha acima de 110 mil pontos pela primeira vez desde fevereiro
 date: 2020-11-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Brasil e Polônia vão eliminar dupla tributação sobre a renda
 date: 2022-09-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

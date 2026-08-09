@@ -2,7 +2,7 @@
 title: 'Ao vivo: resultados do segundo turno das eleições 2022'
 date: 2022-10-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

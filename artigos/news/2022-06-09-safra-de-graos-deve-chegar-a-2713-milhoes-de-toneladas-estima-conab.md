@@ -2,7 +2,7 @@
 title: Safra de grãos deve chegar a 271,3 milhões de toneladas, estima Conab
 date: 2022-06-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

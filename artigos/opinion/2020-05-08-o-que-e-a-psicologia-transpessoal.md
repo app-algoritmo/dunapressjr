@@ -2,7 +2,7 @@
 title: O que é a Psicologia Transpessoal?
 date: 2020-05-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Opinion
 ---

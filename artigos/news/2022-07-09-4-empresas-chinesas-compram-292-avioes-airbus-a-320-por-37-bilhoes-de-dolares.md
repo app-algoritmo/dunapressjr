@@ -2,7 +2,7 @@
 title: 4 empresas chinesas compram 292 aviões Airbus A 320 por 37 bilhões de dólares
 date: 2022-07-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ministério da Economia avalia impacto econômico do coronavírus
 date: 2020-03-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Como a Noruega é governada?
 date: 2020-08-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

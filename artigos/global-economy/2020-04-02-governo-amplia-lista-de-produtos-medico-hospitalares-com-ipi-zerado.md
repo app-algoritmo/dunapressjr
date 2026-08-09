@@ -2,7 +2,7 @@
 title: Governo amplia lista de produtos médico-hospitalares com IPI zerado
 date: 2020-04-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

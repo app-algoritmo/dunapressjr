@@ -2,7 +2,7 @@
 title: Ministério melhora previsão de queda da economia
 date: 2020-11-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

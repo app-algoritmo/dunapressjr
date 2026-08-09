@@ -2,7 +2,7 @@
 title: Enem digital em webinário do Inep sobre tecnologia
 date: 2020-07-13
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

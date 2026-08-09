@@ -2,7 +2,7 @@
 title: Inflação para famílias com renda mais baixa cai para 0,38%
 date: 2021-05-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

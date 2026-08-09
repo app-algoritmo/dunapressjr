@@ -2,7 +2,7 @@
 title: 'RDC 848/2024: Novas Regras para Dispositivos Médicos e Principais Alterações'
 date: 2024-09-13
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Innovation
 - Magazine

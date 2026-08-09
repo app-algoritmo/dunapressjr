@@ -2,7 +2,7 @@
 title: 'BC: contas públicas fecham novembro com saldo negativo de R$ 20 bi'
 date: 2022-12-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

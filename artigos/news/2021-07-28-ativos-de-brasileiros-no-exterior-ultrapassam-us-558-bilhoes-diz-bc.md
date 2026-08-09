@@ -2,7 +2,7 @@
 title: Ativos de brasileiros no exterior ultrapassam US$ 558 bilhões, diz BC
 date: 2021-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

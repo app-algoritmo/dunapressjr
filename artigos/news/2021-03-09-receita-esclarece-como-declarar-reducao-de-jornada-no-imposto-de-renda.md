@@ -2,7 +2,7 @@
 title: Receita esclarece como declarar redução de jornada no Imposto de Renda
 date: 2021-03-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

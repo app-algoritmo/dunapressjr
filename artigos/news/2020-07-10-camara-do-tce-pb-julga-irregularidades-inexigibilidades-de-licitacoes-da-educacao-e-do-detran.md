@@ -3,7 +3,7 @@ title: Câmara do TCE-PB julga irregularidades inexigibilidades de licitações 
   e do DETRAN
 date: 2020-07-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

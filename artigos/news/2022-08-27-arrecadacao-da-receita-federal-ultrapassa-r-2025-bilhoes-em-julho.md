@@ -2,7 +2,7 @@
 title: Arrecadação da Receita Federal ultrapassa R$ 202,5 bilhões em julho
 date: 2022-08-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

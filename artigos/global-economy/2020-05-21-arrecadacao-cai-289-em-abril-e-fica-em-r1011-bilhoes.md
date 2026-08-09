@@ -2,7 +2,7 @@
 title: Arrecadação cai 28,9% em abril e fica em R$101,1 bilhões
 date: 2020-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

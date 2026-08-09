@@ -2,7 +2,7 @@
 title: Planalto libera vídeo de reunião entre Bolsonaro e Ministros, Moro desmascarado
 date: 2020-05-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

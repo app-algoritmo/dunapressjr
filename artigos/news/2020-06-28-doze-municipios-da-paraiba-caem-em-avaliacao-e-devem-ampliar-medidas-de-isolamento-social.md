@@ -3,7 +3,7 @@ title: Doze municípios da Paraíba caem em avaliação e devem ampliar medidas 
   social
 date: 2020-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

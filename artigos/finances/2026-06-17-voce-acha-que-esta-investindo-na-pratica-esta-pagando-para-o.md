@@ -3,7 +3,7 @@ title: "Você acha que está investindo: na prática, está pagando para o banco
 subtitle: "Com a Selic a 13,75% ao ano e a poupança rendendo menos de 8%, a diferença entre onde o brasileiro médio guarda dinheiro e onde deveria guardar já custa, em média, R$ 4.200 por ano para quem tem R$ 50 mil parados na conta."
 date: 2026-06-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - finances
 description: "A maioria dos brasileiros com alguma reserva financeira ainda deixa o dinheiro na poupança ou na conta corrente, perdendo entre 5 e 7 pontos percentuais de rendimento real por ano. Com ferramentas acessíveis e sem custo mínimo relevante, a diferença entre o hábito e a decisão correta é, literalmente, de milhares de reais anuais."

@@ -2,7 +2,7 @@
 title: Ministro das Comunicações realiza missão em Israel para conhecer 5G
 date: 2022-03-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

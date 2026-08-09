@@ -2,7 +2,7 @@
 title: Caixa paga abono salarial para trabalhadores nascidos em fevereiro
 date: 2022-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Escritório de Biden onde havia documentos sigilosos sobre Irã e Ucrâni
   vínculos com a China
 date: 2023-01-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 - World Affairs

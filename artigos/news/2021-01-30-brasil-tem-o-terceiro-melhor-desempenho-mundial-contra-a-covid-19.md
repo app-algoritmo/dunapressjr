@@ -2,7 +2,7 @@
 title: Brasil tem o terceiro melhor desempenho mundial contra a covid-19
 date: 2021-01-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Promessa de campanha do governo Lula, programa de negociação de dívida
   para depois
 date: 2023-01-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

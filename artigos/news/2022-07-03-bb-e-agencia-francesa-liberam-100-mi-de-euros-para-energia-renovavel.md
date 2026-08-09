@@ -2,7 +2,7 @@
 title: BB e agência francesa liberam 100 mi de euros para energia renovável
 date: 2022-07-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

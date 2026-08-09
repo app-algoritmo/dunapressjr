@@ -2,7 +2,7 @@
 title: Dólar encosta em R$ 5,16 e atinge maior valor em quase um mês
 date: 2022-03-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

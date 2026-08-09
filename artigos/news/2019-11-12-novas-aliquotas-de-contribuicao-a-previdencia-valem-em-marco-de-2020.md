@@ -2,7 +2,7 @@
 title: Novas alíquotas de contribuição à Previdência valem em março de 2020
 date: 2019-11-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

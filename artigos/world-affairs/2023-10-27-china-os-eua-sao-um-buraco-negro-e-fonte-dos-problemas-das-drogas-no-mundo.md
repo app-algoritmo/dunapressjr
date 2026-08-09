@@ -2,7 +2,7 @@
 title: 'China: Os EUA são um buraco negro e fonte dos problemas das drogas no mundo'
 date: 2023-10-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

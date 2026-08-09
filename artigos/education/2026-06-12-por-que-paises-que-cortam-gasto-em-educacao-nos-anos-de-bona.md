@@ -3,7 +3,7 @@ title: "Por que países que cortam gasto em educação nos anos de bonança paga
 subtitle: "Novo relatório da OCDE revela que cada dólar retirado do ensino básico em períodos de crescimento econômico gera até 2,3 dólares em custos sociais e fiscais na década seguinte — e o Brasil está no centro desse paradoxo."
 date: 2026-06-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - education
 description: "Um estudo da OCDE publicado em junho de 2026 quantifica pela primeira vez o custo fiscal de subinvestir em educação durante ciclos de crescimento. O Brasil, que expandiu o PIB em 3,1% em 2025 mas manteve gasto por aluno entre os menores do G20, aparece como caso central da análise."

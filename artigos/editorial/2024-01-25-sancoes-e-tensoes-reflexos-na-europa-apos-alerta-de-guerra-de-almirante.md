@@ -2,7 +2,7 @@
 title: 'Sanções e Tensões: Reflexos na Europa após Alerta de Guerra de Almirante'
 date: 2024-01-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Editorial
 - Geopolitics

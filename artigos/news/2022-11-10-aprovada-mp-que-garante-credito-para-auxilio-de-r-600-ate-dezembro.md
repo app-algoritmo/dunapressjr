@@ -2,7 +2,7 @@
 title: Aprovada MP que garante crédito para auxílio de R$ 600 até dezembro
 date: 2022-11-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

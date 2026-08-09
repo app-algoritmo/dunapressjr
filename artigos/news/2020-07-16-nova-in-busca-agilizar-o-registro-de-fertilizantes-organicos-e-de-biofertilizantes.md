@@ -2,7 +2,7 @@
 title: Nova IN busca agilizar o registro de fertilizantes orgânicos e de biofertilizantes
 date: 2020-07-16
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

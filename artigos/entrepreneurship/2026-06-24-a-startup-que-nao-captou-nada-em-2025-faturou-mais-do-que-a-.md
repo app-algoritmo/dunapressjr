@@ -3,7 +3,7 @@ title: "A startup que não captou nada em 2025 faturou mais do que a que levanto
 subtitle: "Um padrão silencioso no ecossistema brasileiro revela que a corrida por venture capital pode estar afastando fundadores do único número que realmente importa: a receita."
 date: 2026-06-24
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - entrepreneurship
 description: "Enquanto o ecossistema de startups celebra rodadas milionárias, um grupo crescente de fundadores brasileiros está construindo empresas lucrativas sem aceitar um centavo externo — e os números começam a incomodar quem apostou no modelo oposto. O fenômeno do bootstrapping consciente levanta uma pergunta incômoda: o capital de risco virou fim, não meio?"

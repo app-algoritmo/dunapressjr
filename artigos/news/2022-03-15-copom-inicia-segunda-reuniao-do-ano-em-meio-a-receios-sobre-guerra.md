@@ -2,7 +2,7 @@
 title: Copom inicia segunda reunião do ano em meio a receios sobre guerra
 date: 2022-03-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

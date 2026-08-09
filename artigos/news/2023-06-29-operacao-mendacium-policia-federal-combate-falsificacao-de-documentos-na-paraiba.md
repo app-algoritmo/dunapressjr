@@ -3,7 +3,7 @@ title: 'Operação Mendacium: Polícia Federal combate falsificação de documen
   Paraíba'
 date: 2023-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

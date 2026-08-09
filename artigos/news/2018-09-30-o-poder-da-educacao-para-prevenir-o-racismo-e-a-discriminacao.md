@@ -2,7 +2,7 @@
 title: O poder da educação para prevenir o racismo e a discriminação
 date: 2018-09-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

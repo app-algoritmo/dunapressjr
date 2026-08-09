@@ -2,7 +2,7 @@
 title: Dólar cai mais de 1% e volta a ficar abaixo de R$ 5,30
 date: 2021-05-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

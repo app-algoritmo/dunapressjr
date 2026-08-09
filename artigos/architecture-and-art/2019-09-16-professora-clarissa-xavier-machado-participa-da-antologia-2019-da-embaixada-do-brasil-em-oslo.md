@@ -3,7 +3,7 @@ title: Professora Clarissa Xavier Machado participa da Antologia 2019 da Embaixa
   do Brasil em Oslo
 date: 2019-09-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 ---

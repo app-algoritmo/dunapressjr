@@ -3,7 +3,7 @@ title: "A Saudi Pro League pagou R$ 1,8 bilhão em salários em 2025 — e ainda
 subtitle: "Com elencos de ex-estrelas e patrocínios estatais bilionários, o futebol saudita tenta comprar legitimidade esportiva que o dinheiro, sozinho, ainda não entregou."
 date: 2026-07-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - soccer
 description: "A Saudi Pro League encerrou a temporada 2025-26 com folha salarial recorde de R$ 1,8 bilhão e audiência televisiva ainda abaixo de ligas menores europeias. O paradoxo saudita revela os limites do futebol comprado — e o que a Copa do Mundo de 2034 vai exigir que o país construa além dos cheques."

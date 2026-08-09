@@ -2,7 +2,7 @@
 title: Autorizadas aulas on-line até dezembro no ensino superior pelo MEC
 date: 2020-06-18
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

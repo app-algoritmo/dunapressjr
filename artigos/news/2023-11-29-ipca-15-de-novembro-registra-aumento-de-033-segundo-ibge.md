@@ -2,7 +2,7 @@
 title: IPCA-15 de novembro registra aumento de 0,33%, segundo IBGE
 date: 2023-11-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

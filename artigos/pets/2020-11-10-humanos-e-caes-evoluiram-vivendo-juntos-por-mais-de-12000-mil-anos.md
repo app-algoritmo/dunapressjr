@@ -2,7 +2,7 @@
 title: Humanos e cães evoluíram vivendo juntos por mais de 12.000 mil anos
 date: 2020-11-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Pets
 ---

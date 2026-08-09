@@ -3,7 +3,7 @@ title: '’Plano Novo Normal’: avaliação aponta que 182 municípios da Para�
   com bandeira amarela'
 date: 2020-07-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

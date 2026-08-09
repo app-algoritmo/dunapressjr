@@ -2,7 +2,7 @@
 title: Atividade econômica cresce 4,5% em 2021, diz BC
 date: 2022-02-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

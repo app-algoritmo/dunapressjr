@@ -3,7 +3,7 @@ title: Projeto do novo arcabouço fiscal aguarda análise na Comissão de Assunt
   do Senado
 date: 2023-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

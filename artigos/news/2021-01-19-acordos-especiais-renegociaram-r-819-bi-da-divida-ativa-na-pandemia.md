@@ -2,7 +2,7 @@
 title: Acordos especiais renegociaram R$ 81,9 bi da dívida ativa na pandemia
 date: 2021-01-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Índice de Confiança da Indústria (ICI) do FGV IBRE registra alta de 1,
   em novembro
 date: 2023-11-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

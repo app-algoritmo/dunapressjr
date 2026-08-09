@@ -2,7 +2,7 @@
 title: Dólar fecha estável após chegar a R$ 5,22 pela manhã
 date: 2020-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

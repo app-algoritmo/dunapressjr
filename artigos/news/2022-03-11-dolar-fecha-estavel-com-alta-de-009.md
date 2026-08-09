@@ -2,7 +2,7 @@
 title: Dólar fecha estável com alta de 0,09%
 date: 2022-03-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

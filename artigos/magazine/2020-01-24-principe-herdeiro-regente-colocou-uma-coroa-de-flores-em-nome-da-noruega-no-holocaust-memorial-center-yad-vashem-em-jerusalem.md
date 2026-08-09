@@ -3,7 +3,7 @@ title: Príncipe herdeiro regente, colocou uma coroa de flores em nome da Norueg
   Holocaust Memorial Center Yad Vashem, em Jerusalém
 date: 2020-01-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

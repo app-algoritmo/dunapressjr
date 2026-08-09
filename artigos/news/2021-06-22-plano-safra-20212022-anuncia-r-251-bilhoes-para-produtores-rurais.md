@@ -2,7 +2,7 @@
 title: Plano Safra 2021/2022 anuncia R$ 251 bilhões para produtores rurais
 date: 2021-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

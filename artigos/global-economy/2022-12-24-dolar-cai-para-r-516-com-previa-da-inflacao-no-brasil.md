@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,16 com prévia da inflação no Brasil
 date: 2022-12-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

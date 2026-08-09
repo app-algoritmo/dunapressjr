@@ -2,7 +2,7 @@
 title: Exportadores rurais terão linha de crédito de US$ 1 bilhão
 date: 2023-04-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

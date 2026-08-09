@@ -3,7 +3,7 @@ title: "O Romance como Espelho Partido: A Literatura Contemporânea e a Crise da
 subtitle: "Em um cenário de saturação informacional e fragmentação da atenção, escritores ao redor do mundo reinventam a estrutura do romance — e revelam, nesse processo, algo fundamental sobre a condição humana no século XXI"
 date: 2026-05-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - literature
 description: "A literatura contemporânea atravessa uma transformação estrutural profunda: o romance linear, herdeiro direto do século XIX, cede espaço a formas fragmentadas, polifônicas e deliberadamente incompletas. Este artigo analisa as forças culturais, tecnológicas e filosóficas que impulsionam essa mudança — e o que ela revela sobre quem somos agora."

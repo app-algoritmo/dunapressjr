@@ -2,7 +2,7 @@
 title: O Globalismo se reinventa a todo instante
 date: 2020-04-21
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

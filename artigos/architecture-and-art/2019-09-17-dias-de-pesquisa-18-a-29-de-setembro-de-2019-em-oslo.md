@@ -2,7 +2,7 @@
 title: 'Dias de Pesquisa: 18 a 29 de setembro de 2019 em Oslo'
 date: 2019-09-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 ---

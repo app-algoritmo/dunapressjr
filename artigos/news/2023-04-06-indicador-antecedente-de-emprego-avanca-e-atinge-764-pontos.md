@@ -2,7 +2,7 @@
 title: Indicador Antecedente de Emprego avança e atinge 76,4 pontos
 date: 2023-04-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

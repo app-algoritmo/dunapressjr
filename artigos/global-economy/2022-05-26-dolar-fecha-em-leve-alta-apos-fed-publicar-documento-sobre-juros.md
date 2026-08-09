@@ -2,7 +2,7 @@
 title: Dólar fecha em leve alta após Fed publicar documento sobre juros
 date: 2022-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

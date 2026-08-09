@@ -2,7 +2,7 @@
 title: PF e MPF apuram esquema criminoso envolvendo desembargadores de Minas
 date: 2020-11-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ibovespa cai pelo 5º dia com Vale e Petrobras em baixa
 date: 2023-04-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

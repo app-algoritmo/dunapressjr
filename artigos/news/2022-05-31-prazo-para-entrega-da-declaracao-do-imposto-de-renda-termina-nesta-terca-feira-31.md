@@ -3,7 +3,7 @@ title: Prazo para entrega da declaração do Imposto de Renda termina nesta ter�
   (31)
 date: 2022-05-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

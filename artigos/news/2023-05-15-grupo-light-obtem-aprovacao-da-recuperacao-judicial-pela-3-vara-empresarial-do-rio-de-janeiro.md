@@ -3,7 +3,7 @@ title: Grupo Light obtém aprovação da recuperação judicial pela 3ª Vara Em
   do Rio de Janeiro
 date: 2023-05-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

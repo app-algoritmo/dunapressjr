@@ -2,7 +2,7 @@
 title: Gigante saudita Aramco entrará na bolsa
 date: 2019-11-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

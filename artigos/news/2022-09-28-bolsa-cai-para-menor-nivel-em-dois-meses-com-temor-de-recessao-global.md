@@ -2,7 +2,7 @@
 title: Bolsa cai para menor nível em dois meses com temor de recessão global
 date: 2022-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

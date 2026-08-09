@@ -2,7 +2,7 @@
 title: 'O atirador estava a 137 Metros de Trump: ''É uma Negligência'''
 date: 2024-07-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - World Affairs

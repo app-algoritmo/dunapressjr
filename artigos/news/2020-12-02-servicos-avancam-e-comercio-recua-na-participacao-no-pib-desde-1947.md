@@ -2,7 +2,7 @@
 title: Serviços avançam e comércio recua na participação no PIB desde 1947
 date: 2020-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 07.01 Ao assumir a presidência do banco, Pedro Guimarães ressaltou que 
   da instituição será população mais carente
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

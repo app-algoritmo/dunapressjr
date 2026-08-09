@@ -2,7 +2,7 @@
 title: 15 de novembro, um dia de protestos em todo o Brasil
 date: 2022-11-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

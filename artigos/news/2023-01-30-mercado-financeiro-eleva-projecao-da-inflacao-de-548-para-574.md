@@ -2,7 +2,7 @@
 title: Mercado financeiro eleva projeção da inflação de 5,48% para 5,74%
 date: 2023-01-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

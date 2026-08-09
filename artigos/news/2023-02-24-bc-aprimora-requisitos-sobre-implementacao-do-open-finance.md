@@ -2,7 +2,7 @@
 title: BC aprimora requisitos sobre implementação do Open Finance
 date: 2023-02-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

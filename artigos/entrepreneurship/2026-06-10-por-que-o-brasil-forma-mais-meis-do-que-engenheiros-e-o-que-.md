@@ -3,7 +3,7 @@ title: "Por que o Brasil forma mais MEIs do que engenheiros — e o que isso diz
 subtitle: "O crescimento explosivo do microempreendedorismo individual revela menos uma vocação empreendedora e mais uma renegociação silenciosa entre trabalhadores e um mercado formal que os expulsou."
 date: 2026-06-10
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - entrepreneurship
 description: "Em maio de 2026, o Brasil ultrapassou 17,8 milhões de MEIs ativos — mais do que toda a força de trabalho formal da indústria de transformação. Entender se esse número é conquista ou sintoma é a pergunta que divide economistas, investidores e formuladores de política pública neste momento."

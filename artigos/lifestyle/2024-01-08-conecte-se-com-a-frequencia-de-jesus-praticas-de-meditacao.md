@@ -2,7 +2,7 @@
 title: 'Conecte-se com a Frequência de Jesus: Práticas de Meditação'
 date: 2024-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Lifestyle
 ---

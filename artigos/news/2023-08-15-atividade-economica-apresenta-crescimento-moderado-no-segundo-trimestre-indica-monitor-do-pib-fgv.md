@@ -3,7 +3,7 @@ title: Atividade econômica apresenta crescimento moderado no segundo trimestre,
   Monitor do PIB-FGV
 date: 2023-08-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 11 Ótimos Lugares para Encontrar Artigos que Valem a Pena Ler na Web
 date: 2023-07-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

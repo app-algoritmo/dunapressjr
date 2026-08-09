@@ -3,7 +3,7 @@ title: Ebserh inaugura laboratório para testes de Covid-19 em Hospital de Rio G
   (RS)
 date: 2020-06-16
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

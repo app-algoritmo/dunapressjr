@@ -3,7 +3,7 @@ title: 'O Contraste na Produção Global: China Lidera na Manufatura de Bens e I
   Enquanto os EUA Sobressaem na Produção de Armamentos'
 date: 2024-02-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

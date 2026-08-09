@@ -2,7 +2,7 @@
 title: Economia concorda com ajuste de metas para o desmatamento
 date: 2020-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

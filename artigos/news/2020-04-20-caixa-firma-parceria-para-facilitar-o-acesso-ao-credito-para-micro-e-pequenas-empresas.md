@@ -3,7 +3,7 @@ title: Caixa firma parceria para facilitar o acesso ao crédito para micro e peq
   empresas
 date: 2020-04-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

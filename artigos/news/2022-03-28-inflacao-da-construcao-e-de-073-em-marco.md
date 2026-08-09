@@ -2,7 +2,7 @@
 title: Inflação da construção é de 0,73% em março
 date: 2022-03-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

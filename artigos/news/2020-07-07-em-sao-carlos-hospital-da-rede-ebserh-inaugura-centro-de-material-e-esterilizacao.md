@@ -2,7 +2,7 @@
 title: Em São Carlos, hospital da Rede Ebserh, inaugura Centro de Material e Esterilização
 date: 2020-07-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

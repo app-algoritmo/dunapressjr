@@ -2,7 +2,7 @@
 title: Dólar comercial fechou praticamente estável, a R$ 5,328
 date: 2020-06-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Poupança tem saque recorde para fevereiro, de R$ 11,5 bilhões
 date: 2023-03-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

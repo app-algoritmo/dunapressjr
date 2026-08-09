@@ -2,7 +2,7 @@
 title: Eclipse Total Solar Deixa América do Norte na Escuridão
 date: 2024-04-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Astronomy
 ---

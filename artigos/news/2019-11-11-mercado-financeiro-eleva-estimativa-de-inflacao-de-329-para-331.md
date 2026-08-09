@@ -2,7 +2,7 @@
 title: Mercado financeiro eleva estimativa de inflação de 3,29% para 3,31%
 date: 2019-11-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

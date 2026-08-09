@@ -3,7 +3,7 @@ title: 'Coronavírus: Pandemia se alastra e número de mortos ultrapassa 250 enq
   países proíbem viajantes na China'
 date: 2020-02-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

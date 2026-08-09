@@ -2,7 +2,7 @@
 title: MPEs foram responsáveis por 93,5% dos empregos em novembro de 2022
 date: 2023-01-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

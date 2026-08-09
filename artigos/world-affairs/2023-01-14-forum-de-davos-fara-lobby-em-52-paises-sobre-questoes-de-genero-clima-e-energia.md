@@ -2,7 +2,7 @@
 title: Fórum de Davos fará lobby em 52 países sobre questões de gênero, clima e energia
 date: 2023-01-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

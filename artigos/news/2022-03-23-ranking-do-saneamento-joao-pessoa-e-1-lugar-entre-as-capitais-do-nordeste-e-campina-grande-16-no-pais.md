@@ -3,7 +3,7 @@ title: 'Ranking do Saneamento: João Pessoa é 1º lugar entre as capitais do No
   e Campina Grande 16º no país'
 date: 2022-03-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

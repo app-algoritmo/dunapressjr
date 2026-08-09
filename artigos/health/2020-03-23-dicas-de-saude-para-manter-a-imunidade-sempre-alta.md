@@ -2,7 +2,7 @@
 title: Dicas de saúde para manter a Imunidade sempre alta
 date: 2020-03-23
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Health
 ---

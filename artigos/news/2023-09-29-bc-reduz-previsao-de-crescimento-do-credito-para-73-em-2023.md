@@ -2,7 +2,7 @@
 title: BC reduz previsão de crescimento do crédito para 7,3% em 2023
 date: 2023-09-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

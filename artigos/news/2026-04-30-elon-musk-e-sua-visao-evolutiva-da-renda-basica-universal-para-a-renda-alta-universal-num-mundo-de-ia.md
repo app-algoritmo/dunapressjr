@@ -2,7 +2,7 @@
 title: "Elon Musk e sua Visão Evolutiva: Da Renda Básica Universal para a “Renda Alta Universal” num Mundo de IA"
 date: 2026-04-30
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - news
 tags:

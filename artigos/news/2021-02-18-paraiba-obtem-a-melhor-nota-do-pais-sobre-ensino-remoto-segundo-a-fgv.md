@@ -2,7 +2,7 @@
 title: Paraíba obtém a melhor nota do país sobre ensino remoto, segundo a FGV
 date: 2021-02-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

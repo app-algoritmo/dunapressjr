@@ -2,7 +2,7 @@
 title: IN que trata da pesca da sardinha-verdadeira publicada pelo Mapa
 date: 2020-06-15
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

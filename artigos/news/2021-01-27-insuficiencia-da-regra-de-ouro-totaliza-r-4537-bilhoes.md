@@ -2,7 +2,7 @@
 title: Insuficiência da regra de ouro totaliza R$ 453,7 bilhões
 date: 2021-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

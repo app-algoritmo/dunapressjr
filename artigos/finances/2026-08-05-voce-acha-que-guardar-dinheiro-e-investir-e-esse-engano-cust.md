@@ -3,7 +3,7 @@ title: "Você acha que guardar dinheiro é investir — e esse engano custa caro
 subtitle: "Com a Selic a 10,5% ao ano e a inflação acumulada em 4,8% nos últimos doze meses, a diferença entre poupar e investir nunca foi tão mensurável — nem tão ignorada pela maioria dos brasileiros."
 date: 2026-08-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - finances
 description: "Milhões de brasileiros mantêm dinheiro parado em poupança ou conta corrente enquanto alternativas acessíveis rendem até três vezes mais com o mesmo risco. Entender essa diferença em agosto de 2026 pode significar R$ 8.000 a mais por ano para quem tem R$ 50.000 guardados."

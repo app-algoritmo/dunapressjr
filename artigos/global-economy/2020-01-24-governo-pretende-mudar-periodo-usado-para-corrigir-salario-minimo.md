@@ -2,7 +2,7 @@
 title: Governo pretende mudar período usado para corrigir salário mínimo
 date: 2020-01-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

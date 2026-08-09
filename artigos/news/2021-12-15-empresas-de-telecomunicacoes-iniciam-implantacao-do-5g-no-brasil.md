@@ -2,7 +2,7 @@
 title: Empresas de telecomunicações iniciam implantação do 5G no Brasil
 date: 2021-12-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

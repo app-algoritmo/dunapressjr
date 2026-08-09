@@ -2,7 +2,7 @@
 title: Confiança da construção cresce 1,2 ponto em junho
 date: 2022-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

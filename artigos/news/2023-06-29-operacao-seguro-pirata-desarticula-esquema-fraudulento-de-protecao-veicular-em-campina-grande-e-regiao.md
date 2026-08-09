@@ -3,7 +3,7 @@ title: Operação Seguro Pirata desarticula esquema fraudulento de proteção ve
   em Campina Grande e região
 date: 2023-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

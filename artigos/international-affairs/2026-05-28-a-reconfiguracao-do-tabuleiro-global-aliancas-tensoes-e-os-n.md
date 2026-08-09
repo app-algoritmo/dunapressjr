@@ -3,7 +3,7 @@ title: "A Reconfiguração do Tabuleiro Global: Alianças, Tensões e os Novos E
 subtitle: "À medida que o multilateralismo clássico perde fôlego, novas coalizões emergem entre o Sul Global, a Ásia Central e o Atlântico — redesenhando a geopolítica com velocidade sem precedentes"
 date: 2026-05-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - international-affairs
 description: "O ano de 2026 marca um ponto de inflexão na ordem internacional. Velhas alianças são tensionadas por interesses divergentes, enquanto blocos emergentes consolidam influência econômica e diplomática. A Duna Press analisa os vetores centrais dessa transformação e o que eles significam para a estabilidade global nas próximas décadas."

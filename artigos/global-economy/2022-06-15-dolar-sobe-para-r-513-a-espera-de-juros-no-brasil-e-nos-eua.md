@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,13 à espera de juros no Brasil e nos EUA
 date: 2022-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

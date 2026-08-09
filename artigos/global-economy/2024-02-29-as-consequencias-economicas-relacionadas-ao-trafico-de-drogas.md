@@ -2,7 +2,7 @@
 title: As consequências econômicas relacionadas ao tráfico de drogas
 date: 2024-02-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

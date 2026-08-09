@@ -2,7 +2,7 @@
 title: Em nova projeção, Ipea vê inflação em 2021 acima de 8%
 date: 2021-09-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

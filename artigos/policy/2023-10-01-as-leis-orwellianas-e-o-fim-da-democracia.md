@@ -2,7 +2,7 @@
 title: As Leis Orwellianas e o fim da democracia
 date: 2023-10-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Bolsa de valores atinge maior nível desde novembro e dólar cai em dia d
   no mercado financeiro
 date: 2023-06-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

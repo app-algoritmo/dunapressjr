@@ -3,7 +3,7 @@ title: Comissão Assessora de Avaliação da Formação Médica para realizaçã
   instituída por portaria do Inep
 date: 2020-07-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

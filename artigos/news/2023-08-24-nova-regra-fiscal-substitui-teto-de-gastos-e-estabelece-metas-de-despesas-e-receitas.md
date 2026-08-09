@@ -3,7 +3,7 @@ title: Nova regra fiscal substitui teto de gastos e estabelece metas de despesas
   receitas
 date: 2023-08-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

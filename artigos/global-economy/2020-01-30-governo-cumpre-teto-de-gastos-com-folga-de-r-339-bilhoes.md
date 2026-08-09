@@ -2,7 +2,7 @@
 title: Governo cumpre teto de gastos com folga de R$ 33,9 bilhões
 date: 2020-01-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

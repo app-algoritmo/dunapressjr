@@ -2,7 +2,7 @@
 title: Ministério eleva para R$ 111,6 bi projeção de superávit comercial
 date: 2022-04-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

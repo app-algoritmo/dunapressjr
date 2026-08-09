@@ -2,7 +2,7 @@
 title: Puxado por mercado externo, dólar fecha no maior valor em 2 semanas
 date: 2020-12-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

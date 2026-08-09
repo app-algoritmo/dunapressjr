@@ -2,7 +2,7 @@
 title: 'Petróleo e gás: 13 empresas devem participar de leilão da OPP'
 date: 2022-09-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

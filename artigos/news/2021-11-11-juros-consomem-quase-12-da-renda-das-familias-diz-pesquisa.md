@@ -2,7 +2,7 @@
 title: Juros consomem quase 12% da renda das famílias, diz pesquisa
 date: 2021-11-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ministro diz que BNDES ainda deve bilhões ao governo
 date: 2022-06-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

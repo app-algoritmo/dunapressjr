@@ -1,5 +1,5 @@
 ---
-title: 'COVID-19: Tratamento israelense  mostra taxa de sobrevivência de 100%'
+title: 'COVID-19: Tratamento israelense mostra taxa de sobrevivência de 100%'
 date: 2020-04-19
 status: publish
 author: Joice Ferreira

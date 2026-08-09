@@ -2,7 +2,7 @@
 title: Inadimplência das famílias tem oitava alta consecutiva, diz CNC
 date: 2022-06-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

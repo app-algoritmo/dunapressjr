@@ -2,7 +2,7 @@
 title: 'Sustentabilidade no Transporte de Mercadorias: A Revolução dos Caminhões Elétricos'
 date: 2024-08-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

@@ -3,7 +3,7 @@ title: Uma Nova Era se Inicia com a Vitória de Javier Milei nas Eleições Pres
   Argentinas
 date: 2023-11-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

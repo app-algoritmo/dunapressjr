@@ -3,7 +3,7 @@ title: 'IBGE: IPCA registra deflação de 0,08% em junho, menor índice para o m
   2017'
 date: 2023-07-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dois passageiros do Diamond Princess morrem devido ao novo coronavírus
 date: 2020-02-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

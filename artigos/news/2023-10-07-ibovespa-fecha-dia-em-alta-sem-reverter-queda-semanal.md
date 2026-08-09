@@ -2,7 +2,7 @@
 title: Ibovespa fecha dia em alta sem reverter queda semanal
 date: 2023-10-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

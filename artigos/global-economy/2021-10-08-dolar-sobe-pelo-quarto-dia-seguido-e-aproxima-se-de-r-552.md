@@ -2,7 +2,7 @@
 title: Dólar sobe pelo quarto dia seguido e aproxima-se de R$ 5,52
 date: 2021-10-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

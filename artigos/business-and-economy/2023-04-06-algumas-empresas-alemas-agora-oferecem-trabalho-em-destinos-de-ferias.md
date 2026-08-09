@@ -2,7 +2,7 @@
 title: Algumas empresas alemãs agora oferecem trabalho em destinos de férias
 date: 2023-04-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Business and Economy
 - Tourism and Gastronomy

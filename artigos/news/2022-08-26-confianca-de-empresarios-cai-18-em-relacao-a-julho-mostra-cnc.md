@@ -2,7 +2,7 @@
 title: Confiança de empresários cai 1,8% em relação a julho, mostra CNC
 date: 2022-08-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

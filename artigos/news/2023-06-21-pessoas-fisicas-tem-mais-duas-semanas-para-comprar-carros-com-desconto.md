@@ -2,7 +2,7 @@
 title: Pessoas físicas têm mais duas semanas para comprar carros com desconto
 date: 2023-06-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

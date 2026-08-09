@@ -2,7 +2,7 @@
 title: Fazenda Nacional arrecadou R$ 31,7 bi em dívidas com a União em 2021
 date: 2022-01-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

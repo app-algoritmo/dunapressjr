@@ -3,7 +3,7 @@ title: A Importância da População Armada na Prevenção de Ataques Terrorista
   inimiga
 date: 2023-10-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

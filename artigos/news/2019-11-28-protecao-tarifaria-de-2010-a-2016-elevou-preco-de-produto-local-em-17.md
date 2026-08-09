@@ -2,7 +2,7 @@
 title: Proteção tarifária de 2010 a 2016 elevou preço de produto local em 17%
 date: 2019-11-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

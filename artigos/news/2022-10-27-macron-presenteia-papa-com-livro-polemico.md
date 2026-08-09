@@ -2,7 +2,7 @@
 title: Macron presenteia Papa com livro polêmico
 date: 2022-10-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

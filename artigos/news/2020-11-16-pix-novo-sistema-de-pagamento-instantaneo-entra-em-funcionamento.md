@@ -2,7 +2,7 @@
 title: 'Pix: novo sistema de pagamento instantâneo entra em funcionamento'
 date: 2020-11-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

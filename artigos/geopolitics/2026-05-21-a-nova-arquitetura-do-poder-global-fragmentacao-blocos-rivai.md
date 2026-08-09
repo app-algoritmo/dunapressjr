@@ -3,7 +3,7 @@ title: "A Nova Arquitetura do Poder Global: Fragmentação, Blocos Rivais e o Fi
 subtitle: "Com o multilateralismo em colapso acelerado e as grandes potências redesenhando esferas de influência, o mundo de 2026 opera sob uma lógica geopolítica que não encontra paralelo direto no século XX"
 date: 2026-05-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitics
 description: "A ordem internacional construída após 1945 e reforçada com o fim da Guerra Fria está se desfazendo em tempo real. Em maio de 2026, o cenário geopolítico global é definido por blocos rivais em consolidação, instituições multilaterais esvaziadas de autoridade real e uma competição tecnológica e energética que substitui a lógica das alianças ideológicas do século passado. Este artigo analisa as linhas de força que estão redesenhando o mapa do poder mundial."

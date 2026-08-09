@@ -3,7 +3,7 @@ title: Medidas do pacto federativo devem ser apresentadas na hoje e Guedes pode 
   ao Congresso, diz líder
 date: 2019-10-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

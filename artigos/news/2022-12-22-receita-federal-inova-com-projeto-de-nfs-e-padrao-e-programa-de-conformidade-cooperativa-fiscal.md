@@ -3,7 +3,7 @@ title: Receita Federal inova com projeto de NFS-e padrão e programa de Conformi
   Cooperativa Fiscal
 date: 2022-12-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

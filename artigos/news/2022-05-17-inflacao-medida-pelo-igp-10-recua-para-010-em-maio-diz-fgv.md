@@ -2,7 +2,7 @@
 title: Inflação medida pelo IGP-10 recua para 0,10% em maio, diz FGV
 date: 2022-05-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

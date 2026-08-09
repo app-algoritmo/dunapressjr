@@ -3,7 +3,7 @@ title: Governo federal anuncia apoio de R$ 230 milhões a agricultores do Rio Gr
   do Sul com dificuldades no pagamento de empréstimos do Pronaf
 date: 2023-05-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

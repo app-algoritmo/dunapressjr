@@ -1,5 +1,5 @@
 ---
-title: No combate à Covid-19, ações de higienização  promovidas pelo Ministério da
+title: No combate à Covid-19, ações de higienização promovidas pelo Ministério da
   Defesa repetem-se todos os dias
 date: 2020-04-26
 status: publish

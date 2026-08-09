@@ -2,7 +2,7 @@
 title: Paulo Guedes afirma que taxação de dividendos é “alavanca para estimular investimentos”
 date: 2021-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

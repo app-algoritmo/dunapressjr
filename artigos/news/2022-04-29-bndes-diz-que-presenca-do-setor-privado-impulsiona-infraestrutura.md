@@ -2,7 +2,7 @@
 title: BNDES diz que presença do setor privado impulsiona infraestrutura
 date: 2022-04-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

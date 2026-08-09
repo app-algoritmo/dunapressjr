@@ -3,7 +3,7 @@ title: "A startup cearense que ensinou algoritmos a falar nordestino — e virou
 subtitle: "A Voz.ia, de Fortaleza, desenvolveu um modelo de linguagem treinado com sotaques e expressões regionais brasileiros e fechou contrato com a fabricante de aeronaves para sistemas de atendimento técnico em campo."
 date: 2026-06-30
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - innovation
 description: "A Voz.ia construiu um modelo de IA treinado com variações linguísticas regionais do Brasil — do sotaque sertanejo ao vocabulário técnico do operário de fábrica — e acaba de fechar parceria com a Embraer para uso em campo. O caso expõe uma lacuna real nos grandes modelos globais e aponta por que o próximo salto da IA pode vir de quem entende o que o Silicon Valley não ouve."

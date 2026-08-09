@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,27, mas tem primeira alta semanal desde março
 date: 2021-05-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

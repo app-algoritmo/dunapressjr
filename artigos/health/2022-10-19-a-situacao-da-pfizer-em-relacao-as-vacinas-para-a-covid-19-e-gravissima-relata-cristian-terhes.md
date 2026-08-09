@@ -3,7 +3,7 @@ title: A situação da Pfizer em relação às vacinas para a COVID-19 é graví
   Cristian Terhes
 date: 2022-10-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 - News

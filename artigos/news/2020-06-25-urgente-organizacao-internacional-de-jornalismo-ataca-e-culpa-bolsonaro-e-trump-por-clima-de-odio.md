@@ -3,7 +3,7 @@ title: 'Urgente: Organização internacional de jornalismo ataca e culpa Bolsona
   Trump por clima de ódio'
 date: 2020-06-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

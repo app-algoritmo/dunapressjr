@@ -2,7 +2,7 @@
 title: Marco Legal da Nanotecnologia avança
 date: 2020-02-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

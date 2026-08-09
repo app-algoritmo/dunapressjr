@@ -3,7 +3,7 @@ title: "Bitcoin Acima de US$ 100 Mil: O Que os Dados On-Chain Revelam Sobre o Pr
 subtitle: "Com o Bitcoin consolidado acima da marca histórica de seis dígitos, analistas debatem se o mercado vive uma maturidade estrutural ou apenas o prelúdio de uma correção violenta"
 date: 2026-05-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - criptomoedas
 description: "O mercado de criptomoedas em maio de 2026 apresenta sinais contraditórios: euforia de preços recordes convive com dados on-chain que sugerem cautela. A Duna Press analisa os principais vetores que definirão os próximos meses do setor."

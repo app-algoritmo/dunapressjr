@@ -3,7 +3,7 @@ title: Ibovespa fecha em queda de 0,94% em meio a cautela internacional antes do
   de Jerome Powell
 date: 2023-08-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

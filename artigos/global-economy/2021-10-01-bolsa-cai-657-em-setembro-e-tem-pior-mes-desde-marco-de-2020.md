@@ -2,7 +2,7 @@
 title: Bolsa cai 6,57% em setembro e tem pior mês desde março de 2020
 date: 2021-10-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

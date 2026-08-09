@@ -1,5 +1,5 @@
 ---
-title: Policiais vítimas  no exercício da profissão receberão apoio do programa 'Pra
+title: Policiais vítimas no exercício da profissão receberão apoio do programa 'Pra
   Viver'
 date: 2020-09-18
 status: publish

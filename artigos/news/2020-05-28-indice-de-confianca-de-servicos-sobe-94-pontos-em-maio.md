@@ -2,7 +2,7 @@
 title: Índice de Confiança de Serviços sobe 9,4 pontos em maio
 date: 2020-05-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

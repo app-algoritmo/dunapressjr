@@ -3,7 +3,7 @@ title: 'Caso Bolsonaro: Polícia Federal Investigando Envio de Recursos para os 
   Um Golpe à Espera?'
 date: 2024-02-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

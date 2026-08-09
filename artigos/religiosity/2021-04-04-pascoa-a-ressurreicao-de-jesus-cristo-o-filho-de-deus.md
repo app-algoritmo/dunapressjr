@@ -2,7 +2,7 @@
 title: Páscoa, a Ressurreição de Jesus Cristo, o filho de Deus
 date: 2021-04-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Religiosity
 ---

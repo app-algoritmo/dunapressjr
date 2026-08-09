@@ -2,7 +2,7 @@
 title: Confiança do comércio volta a crescer após dois meses
 date: 2022-04-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

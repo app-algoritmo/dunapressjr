@@ -2,7 +2,7 @@
 title: Bolsonaro sanciona MP da renda básica emergencial
 date: 2020-04-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

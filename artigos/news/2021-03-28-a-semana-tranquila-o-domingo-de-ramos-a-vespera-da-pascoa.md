@@ -1,8 +1,8 @@
 ---
-title: A Semana Tranquila o Domingo de Ramos à  véspera da Páscoa
+title: A Semana Tranquila o Domingo de Ramos à véspera da Páscoa
 date: 2021-03-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Religiosity

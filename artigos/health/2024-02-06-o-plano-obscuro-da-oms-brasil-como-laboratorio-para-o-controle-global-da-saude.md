@@ -3,7 +3,7 @@ title: 'O Plano Obscuro da OMS: Brasil como Laboratório para o Controle Global 
   Saúde'
 date: 2024-02-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 - Policy

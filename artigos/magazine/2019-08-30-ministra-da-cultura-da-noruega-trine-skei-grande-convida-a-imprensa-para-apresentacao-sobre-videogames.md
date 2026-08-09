@@ -3,7 +3,7 @@ title: Ministra da Cultura da Noruega, Trine Skei Grande, convida a imprensa par
   apresentação sobre videogames
 date: 2019-08-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

@@ -2,7 +2,7 @@
 title: A primeira instituição
 date: 2017-12-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

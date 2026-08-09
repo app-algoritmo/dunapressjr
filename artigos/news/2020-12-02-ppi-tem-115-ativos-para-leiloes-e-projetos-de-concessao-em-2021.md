@@ -2,7 +2,7 @@
 title: PPI tem 115 ativos para leilões e projetos de concessão em 2021
 date: 2020-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

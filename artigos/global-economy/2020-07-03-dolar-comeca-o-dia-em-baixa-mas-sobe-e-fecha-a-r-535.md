@@ -2,7 +2,7 @@
 title: Dólar começa o dia em baixa, mas sobe e fecha a R$ 5,35
 date: 2020-07-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

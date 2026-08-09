@@ -2,7 +2,7 @@
 title: Dia Universal da Criança
 date: 2018-11-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

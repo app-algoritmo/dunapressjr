@@ -2,7 +2,7 @@
 title: Bicicleta de Segurança Rover
 date: 2020-01-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

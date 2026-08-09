@@ -2,7 +2,7 @@
 title: Guerra Ideológica e Eleições de 2024
 date: 2024-11-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

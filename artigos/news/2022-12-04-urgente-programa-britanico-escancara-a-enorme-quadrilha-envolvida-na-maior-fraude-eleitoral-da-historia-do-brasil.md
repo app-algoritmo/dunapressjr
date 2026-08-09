@@ -3,7 +3,7 @@ title: 'Urgente: Programa britânico escancara a enorme quadrilha envolvida na m
   fraude eleitoral da história do Brasil'
 date: 2022-12-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

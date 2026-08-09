@@ -3,7 +3,7 @@ title: "Por que o Brasil produz campeões olímpicos e quebra no profissionalism
 subtitle: "A um ano dos Jogos de Los Angeles 2028, o país enfrenta o paradoxo de revelar talentos mundiais e não conseguir retê-los no sistema esportivo nacional."
 date: 2026-06-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - sports
 description: "O Brasil formou 11 atletas no pódio em Paris 2024, mas mais de 60% deles treinaram parte da carreira fora do país com financiamento estrangeiro. Com Los Angeles 2028 no horizonte, o debate sobre o modelo de formação e profissionalização esportiva brasileira chegou ao Congresso — e às pranchetas de investidores privados."

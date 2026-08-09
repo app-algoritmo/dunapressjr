@@ -2,7 +2,7 @@
 title: Ciclo de aperto monetário deve avançar “significativamente”, diz Copom
 date: 2022-05-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

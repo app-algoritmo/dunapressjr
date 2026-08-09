@@ -2,7 +2,7 @@
 title: Redução do IPI estimula consumo e preserva Zona Franca, diz secretário
 date: 2022-08-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Registrados mil estabelecimentos de produtos de origem vegetal pelo Sipeagro
 date: 2020-05-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

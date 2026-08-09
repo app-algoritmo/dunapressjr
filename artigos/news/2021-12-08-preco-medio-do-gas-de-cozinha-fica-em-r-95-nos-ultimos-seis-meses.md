@@ -2,7 +2,7 @@
 title: Preço médio do gás de cozinha fica em R$ 95 nos últimos seis meses
 date: 2021-12-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

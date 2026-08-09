@@ -2,7 +2,7 @@
 title: IPGF subiu 0,03% em agosto e acumula 2,78% em 12 meses
 date: 2023-09-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

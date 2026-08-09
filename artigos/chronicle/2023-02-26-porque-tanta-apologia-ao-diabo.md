@@ -2,7 +2,7 @@
 title: Porque tanta apología ao diabo?
 date: 2023-02-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 ---

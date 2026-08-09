@@ -2,7 +2,7 @@
 title: Déficit primário em fevereiro cai em relação ao do ano passado
 date: 2021-03-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: IPC-S acelera na primeira quadrissemana de julho de 2023
 date: 2023-07-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

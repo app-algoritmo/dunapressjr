@@ -3,7 +3,7 @@ title: Garantidos pelo Brasil abastecimento interno e exportação de alimentos 
   pandemia
 date: 2020-06-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

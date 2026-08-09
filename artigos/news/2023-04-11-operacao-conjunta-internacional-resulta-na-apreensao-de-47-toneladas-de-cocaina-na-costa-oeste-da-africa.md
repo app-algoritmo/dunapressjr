@@ -3,7 +3,7 @@ title: Operação conjunta internacional resulta na apreensão de 4,7 toneladas 
   na costa oeste da África
 date: 2023-04-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

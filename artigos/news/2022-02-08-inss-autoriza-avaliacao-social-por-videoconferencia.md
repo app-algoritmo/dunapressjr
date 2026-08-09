@@ -2,7 +2,7 @@
 title: INSS autoriza avaliação social por videoconferência
 date: 2022-02-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

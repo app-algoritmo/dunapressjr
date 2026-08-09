@@ -3,7 +3,7 @@ title: Plano Safra 2020/2021 terá R$ 236,3 bilhões – mais recursos e melhore
   de financiamento
 date: 2020-06-18
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

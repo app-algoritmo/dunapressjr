@@ -2,7 +2,7 @@
 title: Banco do Brasil permite pagamento de tributos com criptomoedas
 date: 2023-02-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: México aprova asilo para família Castillo apesar das investigações
 date: 2022-12-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

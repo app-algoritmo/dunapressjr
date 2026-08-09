@@ -2,7 +2,7 @@
 title: RJ e ES têm maiores altas na receita até o 3º bimestre
 date: 2022-08-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Expectativa de inflação cai para o mínimo histórico de 4,3%
 date: 2020-08-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

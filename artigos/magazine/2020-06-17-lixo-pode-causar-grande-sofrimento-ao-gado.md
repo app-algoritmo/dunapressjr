@@ -2,7 +2,7 @@
 title: Lixo pode causar grande sofrimento ao gado
 date: 2020-06-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

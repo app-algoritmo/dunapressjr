@@ -2,7 +2,7 @@
 title: Mercado reduz projeção para crescimento da economia em 2023
 date: 2023-02-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

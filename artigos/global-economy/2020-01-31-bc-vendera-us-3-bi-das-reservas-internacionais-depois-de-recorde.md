@@ -2,7 +2,7 @@
 title: BC venderá US$ 3 bi das reservas internacionais depois de recorde
 date: 2020-01-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

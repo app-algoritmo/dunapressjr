@@ -2,7 +2,7 @@
 title: Contas externas têm déficit de US$ 11,8 bi em janeiro
 date: 2020-02-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ministro reafirma compromissos do Brasil para tornar-se membro da OCDE
 date: 2022-03-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

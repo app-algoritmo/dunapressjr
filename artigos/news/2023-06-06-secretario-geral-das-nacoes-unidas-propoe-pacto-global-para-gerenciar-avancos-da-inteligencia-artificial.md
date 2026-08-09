@@ -3,7 +3,7 @@ title: Secretário-Geral das Nações Unidas propõe Pacto Global para gerenciar
   da Inteligência Artificial
 date: 2023-06-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

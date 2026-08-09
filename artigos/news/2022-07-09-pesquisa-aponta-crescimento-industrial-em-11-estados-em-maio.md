@@ -2,7 +2,7 @@
 title: Pesquisa aponta crescimento industrial em 11 estados em maio
 date: 2022-07-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

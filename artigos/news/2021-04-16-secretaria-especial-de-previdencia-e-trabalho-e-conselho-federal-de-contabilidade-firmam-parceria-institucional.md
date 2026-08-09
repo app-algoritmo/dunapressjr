@@ -3,7 +3,7 @@ title: Secretaria Especial de Previdência e Trabalho e Conselho Federal de Cont
   firmam parceria institucional
 date: 2021-04-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

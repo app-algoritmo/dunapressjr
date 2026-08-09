@@ -3,7 +3,7 @@ title: 'Instalações de Logística com Inteligência Artificial: Transformando 
   das Operações Logísticas'
 date: 2024-08-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Technology

@@ -2,7 +2,7 @@
 title: Com queda da Selic, bancos anunciam redução de taxas de juros
 date: 2019-12-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

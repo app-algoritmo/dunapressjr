@@ -2,7 +2,7 @@
 title: Queda nos preços das hortaliças e frutas nos mercados atacadistas do Brasil
 date: 2023-10-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

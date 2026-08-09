@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,24 em dia de confirmação de Haddad na Fazenda
 date: 2022-12-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

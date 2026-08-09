@@ -3,7 +3,7 @@ title: Governo Federal avança na agenda de concessões e inclui mais 22 iniciat
   no PPI
 date: 2020-02-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

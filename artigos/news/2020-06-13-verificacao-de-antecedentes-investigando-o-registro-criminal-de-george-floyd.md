@@ -2,7 +2,7 @@
 title: 'Verificação de antecedentes: Investigando o registro criminal de George Floyd'
 date: 2020-06-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

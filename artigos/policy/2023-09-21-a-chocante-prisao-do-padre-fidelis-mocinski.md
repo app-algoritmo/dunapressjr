@@ -2,7 +2,7 @@
 title: A chocante prisão do Padre Fidelis Mocinski
 date: 2023-09-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

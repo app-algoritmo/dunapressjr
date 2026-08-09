@@ -2,7 +2,7 @@
 title: "Bitcoin e Liberdade Individual: Reflexões de Renato Amoedo e Bruna Torlay"
 date: 2024-07-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
   - global-affairs
 tags:

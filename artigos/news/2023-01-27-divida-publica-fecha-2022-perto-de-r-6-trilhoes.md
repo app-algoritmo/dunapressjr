@@ -2,7 +2,7 @@
 title: Dívida pública fecha 2022 perto de R$ 6 trilhões
 date: 2023-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

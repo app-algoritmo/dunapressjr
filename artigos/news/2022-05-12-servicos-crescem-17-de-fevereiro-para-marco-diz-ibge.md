@@ -2,7 +2,7 @@
 title: Serviços crescem 1,7% de fevereiro para março, diz IBGE
 date: 2022-05-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

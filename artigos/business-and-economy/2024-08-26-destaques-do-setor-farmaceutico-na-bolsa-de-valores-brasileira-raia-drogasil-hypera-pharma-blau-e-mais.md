@@ -3,7 +3,7 @@ title: 'Destaques do Setor Farmacêutico na Bolsa de Valores Brasileira: Raia Dr
   Hypera Pharma Blau e Mais'
 date: 2024-08-26
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Business and Economy
 - Magazine

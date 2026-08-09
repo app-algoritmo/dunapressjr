@@ -2,7 +2,7 @@
 title: Mais de mil municípios terão R$ 598 milhões em emendas parlamentares
 date: 2020-05-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

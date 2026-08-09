@@ -2,7 +2,7 @@
 title: Haddad e OAB fecham acordo sobre mudanças no Carf
 date: 2023-02-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

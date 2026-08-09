@@ -3,7 +3,7 @@ title: "Brasil no Tabuleiro Global: Entre a Autonomia Estratégica e as Pressõe
 subtitle: "Em meio à reconfiguração das alianças internacionais e ao acirramento das disputas entre potências, o Brasil busca consolidar um papel de protagonista sem abrir mão da chamada política externa independente — mas os custos dessa equação se tornam cada vez mais evidentes."
 date: 2026-05-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitica-brasil
 description: "O Brasil de 2026 navega em um ambiente internacional de crescente fragmentação, onde a neutralidade estratégica cobra um preço alto e as escolhas diplomáticas reverberam diretamente na economia, na segurança e na inserção global do país. Uma análise sobre os vetores que condicionam a posição brasileira no tabuleiro geopolítico contemporâneo."

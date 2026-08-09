@@ -2,7 +2,7 @@
 title: Acompanhe quais medidas o MEC realizou e outras em andamento durante a pandemia
 date: 2020-06-04
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

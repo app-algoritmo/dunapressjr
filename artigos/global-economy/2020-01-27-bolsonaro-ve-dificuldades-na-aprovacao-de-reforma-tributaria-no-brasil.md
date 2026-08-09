@@ -2,7 +2,7 @@
 title: Bolsonaro vê dificuldades na aprovação de reforma tributária no Brasil
 date: 2020-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

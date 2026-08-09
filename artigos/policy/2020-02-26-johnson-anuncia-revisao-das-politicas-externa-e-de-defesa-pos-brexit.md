@@ -2,7 +2,7 @@
 title: Johnson anuncia revisão das políticas externa e de defesa, pós-Brexit
 date: 2020-02-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

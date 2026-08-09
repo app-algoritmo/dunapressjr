@@ -2,7 +2,7 @@
 title: Carteira Verde e Amarela atenderá 30 milhões do auxílio emergencial
 date: 2020-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

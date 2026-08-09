@@ -3,7 +3,7 @@ title: Pequenos e médios empreendedores já contrataram mais de R$1,5 bi em lin
   emergenciais
 date: 2020-08-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

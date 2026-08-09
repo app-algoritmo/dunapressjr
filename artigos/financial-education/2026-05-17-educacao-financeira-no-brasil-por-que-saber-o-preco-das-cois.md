@@ -3,7 +3,7 @@ title: "Educação Financeira no Brasil: Por Que Saber o Preço das Coisas Ainda
 subtitle: "Décadas de iniciativas públicas e privadas avançaram o letramento financeiro básico, mas o país ainda enfrenta um abismo entre conhecimento declarado e comportamento real — e os dados mais recentes revelam por quê"
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - financial-education
 description: "O Brasil acumula mais de uma década de políticas estruturadas de educação financeira, mas pesquisas recentes mostram que saber conceitos básicos de juros e orçamento não se traduz automaticamente em decisões financeiras melhores. A Duna Press analisa o gap entre letramento e comportamento, os fatores psicológicos e estruturais que o sustentam, e o que especialistas propõem como próximo passo."

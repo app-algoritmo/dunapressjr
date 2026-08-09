@@ -2,7 +2,7 @@
 title: 'Bolsonaro: Brasil trabalha para cumprir requisitos de entrada na OCDE'
 date: 2020-01-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

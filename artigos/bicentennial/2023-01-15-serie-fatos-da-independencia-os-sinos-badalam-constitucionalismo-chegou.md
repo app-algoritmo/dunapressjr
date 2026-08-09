@@ -1,5 +1,5 @@
 ---
-title: 'Série Fatos Da Independência: Os sinos badalam,  constitucionalismo chegou!'
+title: 'Série Fatos Da Independência: Os sinos badalam, constitucionalismo chegou!'
 date: 2023-01-15
 status: publish
 author: Joice Ferreira

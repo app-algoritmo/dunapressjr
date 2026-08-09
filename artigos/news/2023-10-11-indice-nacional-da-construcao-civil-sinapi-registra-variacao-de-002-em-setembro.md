@@ -3,7 +3,7 @@ title: Índice Nacional da Construção Civil (Sinapi) registra variação de 0,
   setembro
 date: 2023-10-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

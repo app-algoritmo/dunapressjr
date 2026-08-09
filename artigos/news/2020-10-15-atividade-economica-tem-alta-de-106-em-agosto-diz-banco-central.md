@@ -2,7 +2,7 @@
 title: Atividade econômica tem alta de 1,06% em agosto, diz Banco Central
 date: 2020-10-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

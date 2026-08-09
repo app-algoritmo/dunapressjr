@@ -3,7 +3,7 @@ title: Programa Novos Caminhos na busca de especialistas para avaliar projeto so
   inovação
 date: 2020-06-15
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

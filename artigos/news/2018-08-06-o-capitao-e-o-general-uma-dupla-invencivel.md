@@ -2,7 +2,7 @@
 title: 'O Capitão e o General: uma dupla invencível'
 date: 2018-08-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

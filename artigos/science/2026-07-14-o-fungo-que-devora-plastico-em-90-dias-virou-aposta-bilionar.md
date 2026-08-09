@@ -3,7 +3,7 @@ title: "O fungo que devora plástico em 90 dias virou aposta bilionária — e o
 subtitle: "Descoberta publicada em junho de 2026 por pesquisadores da USP e do MIT mostra que cepas amazônicas de Pestalotiopsis aceleram a degradação de poliuretano em condições tropicais, abrindo uma corrida global por bioprospecção que coloca o país no centro de um mercado projetado em US$ 3,4 bilhões até 2031."
 date: 2026-07-14
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - science
 description: "Um fungo identificado em amostras da Floresta Amazônica degrada poliuretano em menos de 90 dias em temperatura ambiente — feito que pesquisadores do MIT e da USP publicaram em junho de 2026 e que acelerou investimentos privados na casa dos bilhões. O Brasil detém a maior reserva de biodiversidade fúngica do planeta, mas ainda carece do marco regulatório e da infraestrutura de P&D para transformar esse ativo ecológico em indústria."

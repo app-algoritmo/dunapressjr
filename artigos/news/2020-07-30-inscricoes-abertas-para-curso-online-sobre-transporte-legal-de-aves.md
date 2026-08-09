@@ -2,7 +2,7 @@
 title: Inscrições abertas para curso online sobre transporte legal de aves
 date: 2020-07-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

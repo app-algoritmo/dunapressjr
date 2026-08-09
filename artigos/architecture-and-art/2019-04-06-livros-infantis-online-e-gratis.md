@@ -2,7 +2,7 @@
 title: Livros infantis online e grátis
 date: 2019-04-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 ---

@@ -2,7 +2,7 @@
 title: Informe de rendimentos para o IR deve ser entregue até 28 de fevereiro
 date: 2023-02-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Reunião para aquisição de material para educação infantil pelo MEC e FNDE
 date: 2020-06-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Publicado resultado de seleção para novos cargos para combate à Covid 
   pela Ebserh
 date: 2020-06-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

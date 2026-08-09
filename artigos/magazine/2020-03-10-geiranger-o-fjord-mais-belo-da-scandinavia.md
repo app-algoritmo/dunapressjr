@@ -2,7 +2,7 @@
 title: Geiranger, o Fjord mais belo da Scandinavia
 date: 2020-03-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

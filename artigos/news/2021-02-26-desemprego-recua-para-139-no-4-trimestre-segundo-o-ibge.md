@@ -2,7 +2,7 @@
 title: Desemprego recua para 13,9% no 4º trimestre, segundo o IBGE
 date: 2021-02-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Projeto de cobrança única de ICMS de combustível aguarda sanção
 date: 2022-03-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

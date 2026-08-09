@@ -2,7 +2,7 @@
 title: Senado aprova acordo de céus abertos entre Brasil e Vietnã
 date: 2022-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

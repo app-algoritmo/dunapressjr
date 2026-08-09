@@ -2,7 +2,7 @@
 title: Moscou acusa soldados ucranianos de matar prisioneiros de guerra (IMAGENS PERTURBADORAS)
 date: 2022-11-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

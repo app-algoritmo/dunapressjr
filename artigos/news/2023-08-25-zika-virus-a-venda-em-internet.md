@@ -2,7 +2,7 @@
 title: Zika Vírus à venda em internet
 date: 2023-08-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

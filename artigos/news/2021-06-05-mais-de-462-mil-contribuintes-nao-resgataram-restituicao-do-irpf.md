@@ -2,7 +2,7 @@
 title: Mais de 462 mil contribuintes não resgataram restituição do IRPF
 date: 2021-06-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

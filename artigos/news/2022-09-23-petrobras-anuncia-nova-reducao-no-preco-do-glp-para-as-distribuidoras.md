@@ -2,7 +2,7 @@
 title: Petrobras anuncia nova redução no preço do GLP para as distribuidoras
 date: 2022-09-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

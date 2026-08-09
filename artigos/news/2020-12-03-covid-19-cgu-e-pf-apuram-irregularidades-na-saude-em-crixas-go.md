@@ -2,7 +2,7 @@
 title: 'Covid-19: CGU e PF apuram irregularidades na saúde em Crixás (GO)'
 date: 2020-12-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

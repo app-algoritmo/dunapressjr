@@ -3,7 +3,7 @@ title: Governo vai editar MP para regularizar terras por autodeclaração, diz N
   Garcia
 date: 2019-10-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

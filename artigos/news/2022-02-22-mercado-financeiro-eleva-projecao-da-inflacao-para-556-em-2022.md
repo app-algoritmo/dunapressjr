@@ -2,7 +2,7 @@
 title: Mercado financeiro eleva projeção da inflação para 5,56% em 2022
 date: 2022-02-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

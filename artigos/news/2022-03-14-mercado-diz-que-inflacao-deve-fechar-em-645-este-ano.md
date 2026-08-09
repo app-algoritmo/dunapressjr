@@ -2,7 +2,7 @@
 title: Mercado diz que inflação deve fechar em 6,45% este ano
 date: 2022-03-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

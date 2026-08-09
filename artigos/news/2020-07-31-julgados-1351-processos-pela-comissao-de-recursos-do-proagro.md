@@ -2,7 +2,7 @@
 title: Julgados 1.351 processos pela Comissão de Recursos do Proagro
 date: 2020-07-31
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

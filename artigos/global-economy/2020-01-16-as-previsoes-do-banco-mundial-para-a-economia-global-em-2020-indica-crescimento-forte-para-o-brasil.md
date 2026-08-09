@@ -3,7 +3,7 @@ title: As previsões do Banco Mundial para a economia global em 2020 indica cres
   forte para o Brasil
 date: 2020-01-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

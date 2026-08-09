@@ -3,7 +3,7 @@ title: 'BC: Balanço de pagamentos de setembro de 2023 revela mudanças signific
   nas transações econômicas'
 date: 2023-11-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

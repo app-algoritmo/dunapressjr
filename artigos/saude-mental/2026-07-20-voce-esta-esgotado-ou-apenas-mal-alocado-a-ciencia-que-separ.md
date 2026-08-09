@@ -3,7 +3,7 @@ title: "Você está esgotado ou apenas mal alocado? A ciência que separa burnou
 subtitle: "Pesquisas recentes mostram que até 40% dos diagnósticos de burnout podem esconder conflitos organizacionais que a psiquiatria sozinha não resolve — e essa distinção está mudando como empresas e clínicos abordam o sofrimento no trabalho."
 date: 2026-07-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - saude-mental
 description: "A linha entre burnout clínico e sofrimento causado por má gestão é mais tênue do que parece — e confundir os dois tem custo humano e econômico alto. Entender essa fronteira é agora uma das apostas mais sérias da psiquiatria ocupacional e das empresas que querem reter pessoas sem adoecê-las."

@@ -2,7 +2,7 @@
 title: Lançado sistema inédito de mapeamento em educação na saúde
 date: 2020-08-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Governo promulga acordo de livre comércio automotivo com o Paraguai
 date: 2020-08-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Segurança do conhecimento: insights para a OTAN'
 date: 2022-11-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

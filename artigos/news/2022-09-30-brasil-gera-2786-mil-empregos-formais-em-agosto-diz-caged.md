@@ -2,7 +2,7 @@
 title: Brasil gera 278,6 mil empregos formais em agosto, diz Caged
 date: 2022-09-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Câmara dos Deputados aprova projeto que concede voto de desempate ao rep
   da Fazenda Nacional no Carf
 date: 2023-07-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

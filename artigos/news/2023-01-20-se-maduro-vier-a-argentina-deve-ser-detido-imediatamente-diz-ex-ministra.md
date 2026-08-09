@@ -2,7 +2,7 @@
 title: Se Maduro vier à Argentina, deve ser detido imediatamente, diz ex-ministra
 date: 2023-01-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

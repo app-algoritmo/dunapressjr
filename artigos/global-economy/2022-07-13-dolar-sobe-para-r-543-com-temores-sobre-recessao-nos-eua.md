@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,43 com temores sobre recessão nos EUA
 date: 2022-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

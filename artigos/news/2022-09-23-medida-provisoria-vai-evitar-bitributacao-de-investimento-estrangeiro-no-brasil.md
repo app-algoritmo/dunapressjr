@@ -2,7 +2,7 @@
 title: Medida Provisória vai evitar bitributação de investimento estrangeiro no Brasil
 date: 2022-09-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

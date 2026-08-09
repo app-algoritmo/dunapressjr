@@ -2,7 +2,7 @@
 title: Setor público poderá ter vantagens em financiamentos do BNDES
 date: 2022-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

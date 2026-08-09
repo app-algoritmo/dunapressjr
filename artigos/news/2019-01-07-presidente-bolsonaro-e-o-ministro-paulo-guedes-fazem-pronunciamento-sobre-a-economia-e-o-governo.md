@@ -3,7 +3,7 @@ title: Presidente Bolsonaro e o Ministro Paulo Guedes fazem pronunciamento sobre
   economia e o governo
 date: 2019-01-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

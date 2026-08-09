@@ -3,7 +3,7 @@ title: Iniciativa Legislativa de Cidadãos contra o Acordo Ortográfico (AO/90) 
   coletando assinaturas em Portugal
 date: 2019-03-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

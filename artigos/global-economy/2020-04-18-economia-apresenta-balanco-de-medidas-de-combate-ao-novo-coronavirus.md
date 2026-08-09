@@ -2,7 +2,7 @@
 title: Economia apresenta balanço de medidas de combate ao novo coronavírus
 date: 2020-04-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Leilão do pré-sal pode arrecadar hoje R$ 106,5 bilhões
 date: 2019-11-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

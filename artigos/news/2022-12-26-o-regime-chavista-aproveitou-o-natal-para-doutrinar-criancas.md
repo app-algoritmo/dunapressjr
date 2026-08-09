@@ -2,7 +2,7 @@
 title: O regime chavista aproveitou o Natal para doutrinar crianças
 date: 2022-12-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

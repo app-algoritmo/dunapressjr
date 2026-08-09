@@ -2,7 +2,7 @@
 title: Faturamento do setor de turismo tem alta de 22,9% em janeiro
 date: 2022-03-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

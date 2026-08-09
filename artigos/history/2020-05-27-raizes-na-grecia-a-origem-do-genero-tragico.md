@@ -2,7 +2,7 @@
 title: 'Raízes na Grécia: A Origem do Gênero Trágico'
 date: 2020-05-27
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

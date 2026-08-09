@@ -3,7 +3,7 @@ title: Ibovespa fecha em alta, impulsionado por Petrobras e Ultrapar, apesar da 
   da Vale
 date: 2023-05-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

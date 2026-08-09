@@ -2,7 +2,7 @@
 title: Vendas no varejo ampliado devem cair 4,89% no quarto trimestre
 date: 2020-11-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

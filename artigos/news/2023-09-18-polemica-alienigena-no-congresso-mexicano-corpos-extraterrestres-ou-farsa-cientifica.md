@@ -3,7 +3,7 @@ title: 'Polêmica Alienígena no Congresso Mexicano: Corpos Extraterrestres ou F
   Científica?'
 date: 2023-09-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

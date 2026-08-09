@@ -2,7 +2,7 @@
 title: Republicanos condicionam apoio a Biden para aumentar teto da dívida
 date: 2023-01-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

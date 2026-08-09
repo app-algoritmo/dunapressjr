@@ -3,7 +3,7 @@ title: Conselho do PPI delibera sobre projetos de desestatização dos Correios,
   e EBC durante 1ª Reunião Extraordinária de 2021
 date: 2021-03-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

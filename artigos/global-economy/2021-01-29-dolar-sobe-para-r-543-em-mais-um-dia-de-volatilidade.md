@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,43 em mais um dia de volatilidade
 date: 2021-01-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

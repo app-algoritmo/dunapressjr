@@ -2,7 +2,7 @@
 title: Confiança na construção mantém estabilidade em novembro
 date: 2023-11-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

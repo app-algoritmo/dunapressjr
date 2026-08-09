@@ -3,7 +3,7 @@ title: "Por que o Brasil forma mais empreendedores do que consegue manter vivos?
 subtitle: "Com 17 milhões de CNPJs abertos nos últimos três anos e taxa de mortalidade empresarial ainda acima de 50% no quinto ano, o país revela um paradoxo estrutural entre vocação empreendedora e ecossistema de sobrevivência."
 date: 2026-07-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - entrepreneurship
 description: "O Brasil bate recordes de abertura de empresas, mas ainda perde mais da metade delas antes do quinto aniversário — a razão está menos na falta de talento empreendedor e mais em três gargalos sistêmicos que o mercado começa, lentamente, a contornar. Entender esse paradoxo é entender onde estão as maiores apostas — e os maiores riscos — do capitalismo brasileiro nos próximos anos."

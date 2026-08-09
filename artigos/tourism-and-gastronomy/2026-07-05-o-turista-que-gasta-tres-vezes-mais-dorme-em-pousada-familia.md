@@ -3,7 +3,7 @@ title: "O turista que gasta três vezes mais dorme em pousada familiar, não em 
 subtitle: "Dados do Ministério do Turismo revelam que o segmento de turismo de base comunitária movimentou R$ 4,2 bilhões em 2025 e cresce 34% ao ano — mais que qualquer grande rede hoteleira no Brasil."
 date: 2026-07-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tourism-and-gastronomy
 description: "O turismo de base comunitária superou as grandes redes na taxa de crescimento e no gasto médio por visitante em 2025, segundo levantamento do Ministério do Turismo. Com destinos como Jalapão, Vale do Jequitinhonha e Marajó disputando rotas internacionais, o Brasil vive uma virada silenciosa no mapa do turismo sustentável — e quem chega primeiro colhe o maior retorno."

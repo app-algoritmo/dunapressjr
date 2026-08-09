@@ -2,7 +2,7 @@
 title: Bolsa bate recorde e dólar cai para menor nível desde dezembro
 date: 2021-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: "Quem vai herdar o circuito depois que Djokovic, Nadal e Federer saírem 
 subtitle: "Com Sinner consolidado no topo e Alcaraz acumulando Grand Slams antes dos 24 anos, o tênis vive uma transição de geração que pode redefinir o esporte por uma década — mas a disputa pelo segundo escalão está mais aberta e imprevisível do que parece."
 date: 2026-07-11
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tennis
 description: "O tênis masculino está vivendo sua mais clara troca de guarda em 20 anos, com Jannik Sinner e Carlos Alcaraz dominando o topo do ranking enquanto uma segunda leva de talentos — de Holger Rune a João Fonseca — pressiona por espaço. Entender quem são esses jogadores e como o circuito está se reorganizando importa agora porque os próximos 18 meses vão definir hierarquias que podem durar até 2035."

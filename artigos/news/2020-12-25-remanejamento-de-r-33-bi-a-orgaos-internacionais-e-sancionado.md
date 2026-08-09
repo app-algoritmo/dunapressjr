@@ -2,7 +2,7 @@
 title: Remanejamento de R$ 3,3 bi a órgãos internacionais é sancionado
 date: 2020-12-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

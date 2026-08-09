@@ -2,7 +2,7 @@
 title: Empresas norueguesas investem 25,5 bilhões de dólares no Brasil
 date: 2019-11-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

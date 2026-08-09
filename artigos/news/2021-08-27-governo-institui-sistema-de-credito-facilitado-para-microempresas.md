@@ -2,7 +2,7 @@
 title: Governo institui sistema de crédito facilitado para microempresas
 date: 2021-08-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

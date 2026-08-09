@@ -2,7 +2,7 @@
 title: Regulação Farmacêutica com os Cursos da Sanitary Intelligence International
 date: 2024-07-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Courses and Careers
 - Personal Development

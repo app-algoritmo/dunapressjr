@@ -3,7 +3,7 @@ title: <strong>Balança comercial tem superávit de US$ 1,2 bilhão na primeira 
   de agosto</strong>
 date: 2022-08-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

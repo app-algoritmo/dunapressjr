@@ -2,7 +2,7 @@
 title: União paga R$ 785,03 milhões em dívidas de estados em abril
 date: 2023-05-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

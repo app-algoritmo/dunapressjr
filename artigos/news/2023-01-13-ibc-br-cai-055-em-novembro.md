@@ -2,7 +2,7 @@
 title: IBC-Br cai 0,55% em novembro
 date: 2023-01-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

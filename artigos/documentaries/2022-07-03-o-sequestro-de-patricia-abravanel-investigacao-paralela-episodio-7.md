@@ -1,8 +1,8 @@
 ---
-title: O Sequestro de Patrícia Abravanel -  Investigação Paralela - Episódio 7
+title: O Sequestro de Patrícia Abravanel - Investigação Paralela - Episódio 7
 date: 2022-07-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Documentaries
 ---

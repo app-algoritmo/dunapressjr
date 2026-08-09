@@ -2,7 +2,7 @@
 title: 'IBGE: desemprego segue em queda e fecha trimestre em 9,1%'
 date: 2022-09-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar sobe e bolsa cai, com temor sobre variante do novo coronavírus
 date: 2020-12-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

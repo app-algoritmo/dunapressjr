@@ -2,7 +2,7 @@
 title: Dólar sobe por mais um dia e aproxima-se de R$ 5,50
 date: 2021-10-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

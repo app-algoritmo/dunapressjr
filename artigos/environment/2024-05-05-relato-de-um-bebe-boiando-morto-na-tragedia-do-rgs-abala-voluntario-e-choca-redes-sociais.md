@@ -3,7 +3,7 @@ title: Relato de um bebê boiando morto na tragédia do RGS abala voluntário e 
   redes sociais
 date: 2024-05-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Environment
 ---

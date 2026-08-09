@@ -3,7 +3,7 @@ title: Base de dados criada pelo Mec para cadastrar estudantes com deficiência 
   Brasil
 date: 2020-07-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

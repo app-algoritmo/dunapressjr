@@ -3,7 +3,7 @@ title: "A Nova Anatomia do Empreendedor Brasileiro: Entre a Resiliência Estrutu
 subtitle: "Em um país onde abrir empresa ainda custa caro, demora muito e arrisca quase tudo, uma geração de fundadores está reescrevendo as regras do jogo — não por romantismo, mas por necessidade calculada"
 date: 2026-05-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - entrepreneurship
 description: "O empreendedorismo brasileiro de 2026 vive uma contradição produtiva: nunca houve tantos fundadores qualificados, tanto capital disponível em nichos específicos e tanta sofisticação de mercado — e, ao mesmo tempo, nunca ficou tão evidente o quanto o ambiente institucional, tributário e de infraestrutura ainda pune quem decide construir algo do zero. Este artigo analisa as forças que estão moldando a nova geração de empreendedores no Brasil, os padrões que emergem dos dados e as apostas que definem quem sobrevive."

@@ -2,7 +2,7 @@
 title: Dólar aproxima-se de R$ 4,80, apesar de bom humor externo
 date: 2022-06-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

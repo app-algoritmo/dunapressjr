@@ -2,7 +2,7 @@
 title: Governo encerra 2021 com folga de R$ 119,7 bilhões na regra de ouro
 date: 2022-01-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

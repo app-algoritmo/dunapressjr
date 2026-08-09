@@ -2,7 +2,7 @@
 title: Inflação do aluguel sobe 1,41% em abril
 date: 2022-04-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

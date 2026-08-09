@@ -2,7 +2,7 @@
 title: '9 de Maio: O vizinho Celebra a Vitória na Segunda Guerra Mundial'
 date: 2024-05-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

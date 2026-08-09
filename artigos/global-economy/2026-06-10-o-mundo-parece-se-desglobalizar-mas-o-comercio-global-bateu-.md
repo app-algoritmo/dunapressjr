@@ -3,7 +3,7 @@ title: "O mundo parece se desglobalizar — mas o comércio global bateu recorde
 subtitle: "Enquanto líderes políticos celebram barreiras tarifárias e blocos fechados, os fluxos reais de mercadorias, dados e capitais continuam crescendo por rotas que os discursos oficiais ignoram."
 date: 2026-06-10
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-economy
 description: "O volume do comércio global atingiu US$ 33,1 trilhões em 2025, segundo a OMC, mesmo ano em que tarifas médias entre grandes economias chegaram ao maior nível desde os anos 1990. O paradoxo revela que a desglobalização é, em grande medida, uma narrativa política sobreposta a uma realidade econômica muito mais complexa."

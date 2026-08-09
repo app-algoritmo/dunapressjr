@@ -2,7 +2,7 @@
 title: Petrobras reinicia processo de venda de três refinarias
 date: 2022-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

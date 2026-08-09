@@ -2,7 +2,7 @@
 title: 'Leilão: terminais portuários terão R$ 700 milhões em investimentos'
 date: 2021-11-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

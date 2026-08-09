@@ -2,7 +2,7 @@
 title: Começa hoje a semana de educação financeira do Banco Central
 date: 2020-11-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

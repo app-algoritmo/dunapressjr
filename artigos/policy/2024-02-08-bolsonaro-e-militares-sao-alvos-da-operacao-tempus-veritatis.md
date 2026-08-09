@@ -2,7 +2,7 @@
 title: Bolsonaro e militares são alvos da Operação Tempus Veritatis
 date: 2024-02-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

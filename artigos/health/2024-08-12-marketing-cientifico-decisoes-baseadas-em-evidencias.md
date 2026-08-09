@@ -2,7 +2,7 @@
 title: 'Marketing Científico: Decisões Baseadas em Evidências'
 date: 2024-08-12
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Health
 ---

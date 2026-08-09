@@ -2,7 +2,7 @@
 title: Decreto aumenta alíquotas do IOF para custear novo Bolsa Família
 date: 2021-09-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

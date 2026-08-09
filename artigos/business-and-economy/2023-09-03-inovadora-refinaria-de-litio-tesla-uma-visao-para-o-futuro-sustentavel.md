@@ -2,7 +2,7 @@
 title: 'Inovadora Refinaria de Lítio Tesla: Uma Visão para o Futuro Sustentável'
 date: 2023-09-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Business and Economy
 - E-auto

@@ -3,7 +3,7 @@ title: "A estrela que parecia morta voltou a brilhar — e os astrônomos ainda 
 subtitle: "A ressurreição luminosa de Betelgeuse entre 2019 e 2024 forçou uma revisão profunda dos modelos que usamos para prever o fim das estrelas massivas — e o que isso revela sobre o nosso próprio Sol."
 date: 2026-06-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - astronomy
 description: "Betelgeuse, a gigante vermelha que escureceu dramaticamente em 2019 e levou o mundo a especular sobre uma supernova iminente, atingiu em maio de 2025 o nível de brilho mais alto registrado em décadas — desconcertando os mesmos astrônomos que haviam anunciado seu possível fim. O episódio recoloca em debate os limites dos modelos estelares e o quanto ainda ignoramos sobre a morte das estrelas."

@@ -2,7 +2,7 @@
 title: Informações sobre produtos orgânicos no Brasil na série “Tá no Mapa”
 date: 2020-06-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

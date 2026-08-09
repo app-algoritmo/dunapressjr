@@ -2,7 +2,7 @@
 title: Bitcoin cai 5% para US$ 54 mil com início dos pagamentos da Mt. Gox
 date: 2024-07-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Headlines
 ---

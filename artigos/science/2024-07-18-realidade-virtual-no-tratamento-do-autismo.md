@@ -2,7 +2,7 @@
 title: Realidade Virtual no Tratamento do Autismo
 date: 2024-07-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Science
 - Technology

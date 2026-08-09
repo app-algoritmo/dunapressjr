@@ -3,7 +3,7 @@ title: Estados Unidos da América, Reino Unido e Reino da Noruega emitem declara
   da Troika
 date: 2020-06-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

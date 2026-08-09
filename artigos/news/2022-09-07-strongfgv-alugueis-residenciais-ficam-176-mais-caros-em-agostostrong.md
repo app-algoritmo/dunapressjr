@@ -2,7 +2,7 @@
 title: '<strong>FGV: aluguéis residenciais ficam 1,76% mais caros em agosto</strong>'
 date: 2022-09-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

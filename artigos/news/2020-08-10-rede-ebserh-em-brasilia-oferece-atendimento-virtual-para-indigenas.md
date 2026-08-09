@@ -2,7 +2,7 @@
 title: Rede Ebserh em Brasília oferece atendimento virtual para indígenas
 date: 2020-08-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

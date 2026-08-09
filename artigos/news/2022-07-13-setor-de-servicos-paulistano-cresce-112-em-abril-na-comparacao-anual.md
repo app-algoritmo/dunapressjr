@@ -2,7 +2,7 @@
 title: Setor de serviços paulistano cresce 11,2% em abril na comparação anual
 date: 2022-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

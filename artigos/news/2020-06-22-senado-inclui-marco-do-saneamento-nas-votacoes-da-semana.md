@@ -2,7 +2,7 @@
 title: Senado inclui Marco do Saneamento nas votações da semana
 date: 2020-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Saiba o que é teto de gastos
 date: 2022-12-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

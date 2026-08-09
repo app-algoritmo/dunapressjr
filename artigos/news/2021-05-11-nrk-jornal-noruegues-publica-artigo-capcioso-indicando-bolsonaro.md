@@ -1,8 +1,8 @@
 ---
-title: NRK,  jornal norueguês publica artigo capcioso indicando Bolsonaro
+title: NRK, jornal norueguês publica artigo capcioso indicando Bolsonaro
 date: 2021-05-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

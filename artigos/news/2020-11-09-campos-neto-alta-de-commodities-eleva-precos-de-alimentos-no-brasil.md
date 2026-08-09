@@ -2,7 +2,7 @@
 title: 'Campos Neto: alta de commodities eleva preços de alimentos no Brasil'
 date: 2020-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

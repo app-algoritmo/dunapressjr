@@ -2,7 +2,7 @@
 title: Presidente assina MPs sobre garantias rurais e nova securitização
 date: 2022-03-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

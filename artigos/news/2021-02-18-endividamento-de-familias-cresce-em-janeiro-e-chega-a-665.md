@@ -2,7 +2,7 @@
 title: Endividamento de famílias cresce em janeiro e chega a 66,5%
 date: 2021-02-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

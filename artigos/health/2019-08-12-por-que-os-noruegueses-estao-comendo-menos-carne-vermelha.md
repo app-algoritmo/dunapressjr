@@ -2,7 +2,7 @@
 title: Por que os noruegueses estão comendo menos carne vermelha?
 date: 2019-08-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 ---

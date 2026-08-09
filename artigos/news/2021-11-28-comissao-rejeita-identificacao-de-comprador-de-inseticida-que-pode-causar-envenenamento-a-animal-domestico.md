@@ -1,5 +1,5 @@
 ---
-title: Comissão rejeita identificação de comprador de inseticida que pode causar  envenenamento
+title: Comissão rejeita identificação de comprador de inseticida que pode causar envenenamento
   a animal doméstico
 date: 2021-11-28
 status: publish

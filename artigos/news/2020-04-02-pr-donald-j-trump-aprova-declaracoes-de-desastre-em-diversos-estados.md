@@ -1,8 +1,8 @@
 ---
-title: PR Donald J. Trump aprova  declarações de desastre em diversos estados
+title: PR Donald J. Trump aprova declarações de desastre em diversos estados
 date: 2020-04-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

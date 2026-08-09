@@ -2,7 +2,7 @@
 title: Custos agregados do Governo Federal sobem 14% em 2022
 date: 2023-03-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

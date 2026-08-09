@@ -2,7 +2,7 @@
 title: Ibovespa fecha acima dos 109 mil pontos
 date: 2023-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

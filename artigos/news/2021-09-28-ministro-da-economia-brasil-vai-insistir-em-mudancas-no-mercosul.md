@@ -2,7 +2,7 @@
 title: 'Ministro da Economia: Brasil vai insistir em mudanças no Mercosul'
 date: 2021-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

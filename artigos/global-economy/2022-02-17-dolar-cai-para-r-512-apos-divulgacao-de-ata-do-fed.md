@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,12 após divulgação de ata do Fed
 date: 2022-02-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

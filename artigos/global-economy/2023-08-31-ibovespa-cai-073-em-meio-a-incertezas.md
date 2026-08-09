@@ -2,7 +2,7 @@
 title: Ibovespa cai 0,73% em meio a incertezas
 date: 2023-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

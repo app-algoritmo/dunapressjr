@@ -2,7 +2,7 @@
 title: Entidades do setor produtos criticam aumento da Selic
 date: 2022-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

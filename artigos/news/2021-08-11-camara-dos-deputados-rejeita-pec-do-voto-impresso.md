@@ -2,7 +2,7 @@
 title: Câmara dos Deputados rejeita PEC do voto impresso
 date: 2021-08-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Presidente do Banco Central Destaca Sucesso do PIX Crédito e Moeda DREX 
   Palestra na Associação Comercial do Paraná
 date: 2023-08-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

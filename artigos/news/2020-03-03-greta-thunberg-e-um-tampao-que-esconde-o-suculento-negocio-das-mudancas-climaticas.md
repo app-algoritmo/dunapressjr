@@ -1,8 +1,8 @@
 ---
-title: Greta Thunberg é um tampão que esconde o  suculento negócio das mudanças climáticas
+title: Greta Thunberg é um tampão que esconde o suculento negócio das mudanças climáticas
 date: 2020-03-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

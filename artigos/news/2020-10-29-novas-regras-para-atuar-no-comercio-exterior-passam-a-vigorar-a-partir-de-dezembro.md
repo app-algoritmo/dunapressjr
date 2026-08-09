@@ -2,7 +2,7 @@
 title: Novas regras para atuar no comércio exterior passam a vigorar a partir de dezembro
 date: 2020-10-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

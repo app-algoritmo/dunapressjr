@@ -2,7 +2,7 @@
 title: Caixa estende horário de atendimento nesta sexta-feira e abre no sábado
 date: 2019-09-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

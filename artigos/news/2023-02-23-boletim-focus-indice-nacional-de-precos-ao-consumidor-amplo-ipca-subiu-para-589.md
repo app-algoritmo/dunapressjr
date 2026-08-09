@@ -3,7 +3,7 @@ title: 'Boletim Focus: Índice Nacional de Preços ao Consumidor Amplo (IPCA) su
   para 5,89%'
 date: 2023-02-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

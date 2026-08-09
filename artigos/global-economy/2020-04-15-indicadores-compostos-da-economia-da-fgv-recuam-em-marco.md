@@ -2,7 +2,7 @@
 title: Indicadores compostos da economia da FGV recuam em março
 date: 2020-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

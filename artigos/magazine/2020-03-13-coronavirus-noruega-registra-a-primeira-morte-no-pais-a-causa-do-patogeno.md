@@ -2,7 +2,7 @@
 title: 'Coronavírus: Noruega registra a primeira morte no país à causa do patógeno'
 date: 2020-03-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

@@ -3,7 +3,7 @@ title: Liberação de R$ 50 milhões pelo Mapa, para subvenção do seguro rural
   Norte e Nordeste
 date: 2020-08-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

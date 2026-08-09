@@ -2,7 +2,7 @@
 title: MP prorroga prazo de adequação à Nova Lei de Licitações
 date: 2023-04-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,16, influenciado por Brasil e exterior
 date: 2023-01-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

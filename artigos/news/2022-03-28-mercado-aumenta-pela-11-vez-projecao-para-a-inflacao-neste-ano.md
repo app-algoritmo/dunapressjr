@@ -2,7 +2,7 @@
 title: Mercado aumenta pela 11ª vez projeção para a inflação neste ano
 date: 2022-03-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

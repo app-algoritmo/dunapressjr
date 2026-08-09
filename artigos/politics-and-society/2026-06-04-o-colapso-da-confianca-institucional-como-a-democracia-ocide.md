@@ -3,7 +3,7 @@ title: "O Colapso da Confiança Institucional: Como a Democracia Ocidental Enfre
 subtitle: "Em 2026, pesquisas em mais de 30 países revelam que menos da metade dos cidadãos confia nos parlamentos nacionais. O fenômeno transcende fronteiras e exige um diagnóstico honesto sobre o futuro da representação política."
 date: 2026-06-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - politics-and-society
 description: "A erosão da confiança nas instituições democráticas atingiu em 2026 um patamar historicamente preocupante. Parlamentos, partidos, judiciários e imprensa enfrentam índices de descrédito sem precedentes no pós-guerra. Este artigo analisa as causas estruturais desse fenômeno, seus desdobramentos políticos e as possíveis saídas para uma crise que não é apenas eleitoral — é civilizacional."

@@ -2,7 +2,7 @@
 title: Ministro apresenta estudo para desestatização da Ferroeste
 date: 2021-05-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

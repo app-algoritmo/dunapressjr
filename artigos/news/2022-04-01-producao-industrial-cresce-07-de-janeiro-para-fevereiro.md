@@ -2,7 +2,7 @@
 title: Produção industrial cresce 0,7% de janeiro para fevereiro
 date: 2022-04-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

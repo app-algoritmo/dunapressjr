@@ -2,7 +2,7 @@
 title: Lula promove um golpe de Estado no Brasil
 date: 2020-05-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

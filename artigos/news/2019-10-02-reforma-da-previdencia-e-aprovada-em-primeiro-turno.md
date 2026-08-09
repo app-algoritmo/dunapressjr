@@ -2,7 +2,7 @@
 title: Reforma da Previdência é aprovada em primeiro turno
 date: 2019-10-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

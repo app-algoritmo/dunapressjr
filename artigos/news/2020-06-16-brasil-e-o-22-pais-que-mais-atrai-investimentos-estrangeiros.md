@@ -2,7 +2,7 @@
 title: Brasil é o 22º país que mais atrai investimentos estrangeiros
 date: 2020-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

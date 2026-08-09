@@ -2,7 +2,7 @@
 title: Brasil ultrapassa US$ 4 bilhões em gastos de estrangeiros em 2022
 date: 2022-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: CE amplia debate sobre projeto da educação básica domiciliar
 date: 2022-11-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Eventos Globais de Saúde e Tecnologia: Conectando Conhecimento e Inovação'
 date: 2024-10-10
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Science
 - Technology

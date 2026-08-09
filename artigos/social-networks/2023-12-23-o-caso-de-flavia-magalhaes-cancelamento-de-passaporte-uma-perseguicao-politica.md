@@ -2,7 +2,7 @@
 title: 'O Caso de Flávia Magalhães: Cancelamento de Passaporte, uma Perseguição Política?'
 date: 2023-12-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Social networks
 - World Affairs

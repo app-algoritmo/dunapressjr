@@ -2,7 +2,7 @@
 title: Mercado reduz previsão da inflação de 4,59% para 4,55% este ano
 date: 2023-11-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

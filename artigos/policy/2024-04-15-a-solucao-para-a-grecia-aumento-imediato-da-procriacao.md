@@ -2,7 +2,7 @@
 title: 'A Solução para a Grécia: Aumento Imediato da Procriação'
 date: 2024-04-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Senado aprova MP que dispensa licitação para combate à pandemia
 date: 2020-07-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

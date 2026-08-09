@@ -2,7 +2,7 @@
 title: Projetos Estratégicos do Mapa tem 85 resultados gerados no primeiro semestre
 date: 2020-07-27
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

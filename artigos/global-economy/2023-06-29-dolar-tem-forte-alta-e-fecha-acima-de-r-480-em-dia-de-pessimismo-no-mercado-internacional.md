@@ -3,7 +3,7 @@ title: Dólar tem forte alta e fecha acima de R$ 4,80 em dia de pessimismo no me
   internacional
 date: 2023-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

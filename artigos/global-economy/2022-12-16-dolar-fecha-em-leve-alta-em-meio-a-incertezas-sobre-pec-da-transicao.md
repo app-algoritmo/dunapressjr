@@ -2,7 +2,7 @@
 title: Dólar fecha em leve alta em meio a incertezas sobre PEC da Transição
 date: 2022-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

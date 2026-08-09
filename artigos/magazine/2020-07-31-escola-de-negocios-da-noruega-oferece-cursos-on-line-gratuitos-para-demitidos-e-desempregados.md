@@ -3,7 +3,7 @@ title: Escola de negócios da Noruega oferece cursos on-line gratuitos para demi
   e desempregados
 date: 2020-07-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

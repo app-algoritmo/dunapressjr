@@ -2,7 +2,7 @@
 title: 'Luxury Perfume Brands: Tradition and Innovation'
 date: 2024-08-11
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Magazine
 ---

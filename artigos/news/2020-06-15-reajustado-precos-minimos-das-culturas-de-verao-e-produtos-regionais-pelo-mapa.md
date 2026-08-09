@@ -2,7 +2,7 @@
 title: Reajustado preços mínimos das culturas de verão e produtos regionais pelo Mapa
 date: 2020-06-15
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

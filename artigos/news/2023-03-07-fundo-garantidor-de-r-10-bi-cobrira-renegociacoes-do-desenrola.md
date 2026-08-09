@@ -2,7 +2,7 @@
 title: Fundo garantidor de R$ 10 bi cobrirá renegociações do Desenrola
 date: 2023-03-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

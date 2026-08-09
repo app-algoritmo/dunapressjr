@@ -2,7 +2,7 @@
 title: Standard & Poor's reduz perspectiva da nota do Brasil para estável
 date: 2020-04-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Desvendando o Globalismo e o Comunismo
 date: 2024-04-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Policy

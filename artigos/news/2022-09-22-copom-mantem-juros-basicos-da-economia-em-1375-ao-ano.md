@@ -2,7 +2,7 @@
 title: Copom mantém juros básicos da economia em 13,75% ao ano
 date: 2022-09-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

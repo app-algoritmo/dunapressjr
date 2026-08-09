@@ -2,7 +2,7 @@
 title: Documentário Francês revela que o Bacalhau Norueguês é sabotado na China
 date: 2020-01-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Verificação de dados pelo Inep verifica quanto ao declarado ao Censo da
   Superior
 date: 2020-07-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

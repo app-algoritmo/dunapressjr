@@ -2,7 +2,7 @@
 title: Projeção da inflação aumentou 0,09%
 date: 2023-01-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

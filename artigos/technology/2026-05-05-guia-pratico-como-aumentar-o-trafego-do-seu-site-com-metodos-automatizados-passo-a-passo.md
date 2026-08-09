@@ -2,7 +2,7 @@
 title: "Guia Prático: Como Aumentar o Tráfego do Seu Site com Métodos Automatizados (Passo a Passo)"
 date: 2026-05-05
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - technology
 tags:

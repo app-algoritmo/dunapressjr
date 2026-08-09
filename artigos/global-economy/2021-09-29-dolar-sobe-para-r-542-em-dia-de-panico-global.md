@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,42 em dia de pânico global
 date: 2021-09-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

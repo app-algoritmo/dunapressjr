@@ -3,7 +3,7 @@ title: "A aposta de US$ 500 bilhões da OpenAI encontra seu primeiro muro regula
 subtitle: "Enquanto Sam Altman expande o Stargate para além dos EUA, reguladores europeus abrem investigação formal sobre o projeto — e o modelo de negócios por trás dele."
 date: 2026-06-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - inteligencia-artificial
 description: "A União Europeia abriu investigação formal sobre o projeto Stargate da OpenAI, questionando concentração de mercado e acesso a dados em infraestrutura de IA avaliada em US$ 500 bilhões. O caso define um precedente global sobre quem controla os alicerces físicos da inteligência artificial."

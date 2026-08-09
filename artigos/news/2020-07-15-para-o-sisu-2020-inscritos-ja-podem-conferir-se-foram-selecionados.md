@@ -2,7 +2,7 @@
 title: Para o Sisu 2020, inscritos já podem conferir se foram selecionados
 date: 2020-07-15
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

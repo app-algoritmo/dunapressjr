@@ -2,7 +2,7 @@
 title: Barômetros Globais aumentam pelo segundo mês consecutivo em diversas regiões
 date: 2023-08-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

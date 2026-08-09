@@ -2,7 +2,7 @@
 title: ApexBrasil vai qualificar produtores e empresas para exportar frutas
 date: 2022-08-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

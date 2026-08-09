@@ -3,7 +3,7 @@ title: "O Brasil virou laboratório: Nubank tokeniza crédito em blockchain pró
 subtitle: "Com 100 milhões de clientes e uma infraestrutura de ledger distribuído já operacional, a fintech brasileira aposta que o crédito tokenizado pode reduzir custos de captação em até 40% — e o Banco Central observa de perto."
 date: 2026-06-10
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - criptomoedas
 description: "O Nubank confirmou em junho de 2026 a tokenização de carteiras de crédito pessoal sobre blockchain proprietário, movimentando R$ 2,3 bilhões na primeira fase. A iniciativa redefine quem controla a infraestrutura financeira no Brasil — e acelera o debate sobre o papel do Drex nesse novo mapa."

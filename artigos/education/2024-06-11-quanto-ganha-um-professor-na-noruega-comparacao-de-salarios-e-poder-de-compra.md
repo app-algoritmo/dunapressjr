@@ -2,7 +2,7 @@
 title: Quanto Ganha um Professor na Noruega? Comparação de Salários e Poder de Compra
 date: 2024-06-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - News

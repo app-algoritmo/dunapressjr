@@ -2,7 +2,7 @@
 title: Inauguração da preparação para a Páscoa da Cruz Vermelha 2021
 date: 2021-03-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

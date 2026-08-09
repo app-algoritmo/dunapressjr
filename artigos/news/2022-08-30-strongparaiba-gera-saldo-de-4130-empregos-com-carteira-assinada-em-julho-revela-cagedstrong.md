@@ -3,7 +3,7 @@ title: <strong>Paraíba gera saldo de 4.130 empregos com carteira assinada em ju
   revela Caged</strong>
 date: 2022-08-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

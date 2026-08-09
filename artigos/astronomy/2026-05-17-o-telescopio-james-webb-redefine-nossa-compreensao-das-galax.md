@@ -3,7 +3,7 @@ title: "O Telescópio James Webb Redefine Nossa Compreensão das Galáxias Primo
 subtitle: "Novas observações revelam estruturas complexas no universo jovem que desafiam décadas de modelos cosmológicos estabelecidos"
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - astronomy
 description: "O Telescópio Espacial James Webb continua surpreendendo a comunidade científica ao revelar galáxias massivas e estruturalmente maduras nos primeiros centenas de milhões de anos após o Big Bang. As descobertas acumuladas até maio de 2026 colocam em xeque modelos fundamentais de formação estelar e evolução galáctica, abrindo um debate que promete remodelar a cosmologia moderna."

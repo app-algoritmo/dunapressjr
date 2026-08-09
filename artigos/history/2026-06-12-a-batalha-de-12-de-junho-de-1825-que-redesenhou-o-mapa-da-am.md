@@ -3,7 +3,7 @@ title: "A batalha de 12 de junho de 1825 que redesenhou o mapa da América do Su
 subtitle: "Duzentos e um anos depois, a disputa pelo Uruguai entre Brasil e Argentina revela como fronteiras não nascem de geografias, mas de guerras, dívidas e negociações que o tempo oficial tende a apagar."
 date: 2026-06-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - history
 description: "A chamada Guerra Cisplatina, encerrada em 1828 com a criação do Uruguai como Estado-tampão, foi menos uma vitória de povos e mais um acordo entre impérios quebrados. Entender seus bastidores explica por que Brasil e Argentina ainda disputam influência em Montevidéu — e por que os uruguaios desconfiam de ambos."

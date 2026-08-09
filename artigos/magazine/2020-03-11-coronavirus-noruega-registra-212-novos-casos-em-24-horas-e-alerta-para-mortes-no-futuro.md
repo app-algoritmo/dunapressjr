@@ -3,7 +3,7 @@ title: Coronavírus, Noruega registra 212 novos casos em 24 horas e alerta para 
   no futuro
 date: 2020-03-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

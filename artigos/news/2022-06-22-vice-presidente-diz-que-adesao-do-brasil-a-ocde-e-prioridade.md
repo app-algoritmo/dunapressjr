@@ -2,7 +2,7 @@
 title: Vice-presidente diz que adesão do Brasil à OCDE é prioridade
 date: 2022-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

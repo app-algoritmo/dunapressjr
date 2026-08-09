@@ -2,7 +2,7 @@
 title: Lavadora de Roupas com carregamento superior GE
 date: 2023-07-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Technology
 ---

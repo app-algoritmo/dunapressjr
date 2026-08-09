@@ -2,7 +2,7 @@
 title: Tesouro prevê que dívida pública atingirá pico de 78,2% do PIB em 2020
 date: 2019-12-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Educação Alimentar e Nutricional tem a 4ª jornada adiada para 2021
 date: 2020-07-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

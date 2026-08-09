@@ -2,7 +2,7 @@
 title: Ibovespa sobe 1,53% e supera 112 mil pontos
 date: 2023-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

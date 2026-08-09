@@ -2,7 +2,7 @@
 title: Quem mandou matar Celso Daniel? - Investigação Paralela – Episódio 5
 date: 2022-06-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Documentaries
 ---

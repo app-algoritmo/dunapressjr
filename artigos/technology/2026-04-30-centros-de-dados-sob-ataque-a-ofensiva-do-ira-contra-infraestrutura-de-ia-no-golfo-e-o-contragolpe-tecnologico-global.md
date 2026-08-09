@@ -2,7 +2,7 @@
 title: "Centros de Dados Sob Ataque: A Ofensiva do Irã contra Infraestrutura de IA no Golfo e o Contragolpe Tecnológico Global"
 date: 2026-04-30
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - technology
 tags:

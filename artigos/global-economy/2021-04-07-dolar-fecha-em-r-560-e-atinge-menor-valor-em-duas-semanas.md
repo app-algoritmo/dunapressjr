@@ -2,7 +2,7 @@
 title: Dólar fecha em R$ 5,60 e atinge menor valor em duas semanas
 date: 2021-04-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

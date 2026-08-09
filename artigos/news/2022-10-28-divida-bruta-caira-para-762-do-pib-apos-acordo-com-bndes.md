@@ -2,7 +2,7 @@
 title: Dívida bruta cairá para 76,2% do PIB após acordo com BNDES
 date: 2022-10-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

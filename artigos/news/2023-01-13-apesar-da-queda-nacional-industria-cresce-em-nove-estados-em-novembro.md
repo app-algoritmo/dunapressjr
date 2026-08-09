@@ -2,7 +2,7 @@
 title: Apesar da queda nacional, indústria cresce em nove estados em novembro
 date: 2023-01-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

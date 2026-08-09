@@ -2,7 +2,7 @@
 title: Salão do Automóvel de Genebra, mais que uma tendência!
 date: 2018-03-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Tourism and Gastronomy
 ---

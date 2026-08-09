@@ -3,7 +3,7 @@ title: Receita Federal em Viracopos registra maior volume de importações de ca
   ao combate à Covid-19 do país
 date: 2020-04-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

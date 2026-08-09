@@ -2,7 +2,7 @@
 title: Superávit recorde de US$ 8,959 bilhões na balança comercial brasileira em outubro
 date: 2023-11-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

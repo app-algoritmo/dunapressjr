@@ -3,7 +3,7 @@ title: Amin quer que Advocacia do Senado aprecie notificação sobre requeriment
   impeachment
 date: 2022-12-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

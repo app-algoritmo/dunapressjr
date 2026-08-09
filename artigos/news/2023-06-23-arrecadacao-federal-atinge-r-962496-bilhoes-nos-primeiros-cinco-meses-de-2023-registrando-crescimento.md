@@ -3,7 +3,7 @@ title: Arrecadação Federal atinge R$ 962,496 bilhões nos primeiros cinco mese
   2023, registrando crescimento
 date: 2023-06-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

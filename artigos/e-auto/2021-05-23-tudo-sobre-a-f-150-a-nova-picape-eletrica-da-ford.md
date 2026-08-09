@@ -2,7 +2,7 @@
 title: Tudo sobre a F-150, a nova picape elétrica da Ford
 date: 2021-05-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - E-auto
 ---

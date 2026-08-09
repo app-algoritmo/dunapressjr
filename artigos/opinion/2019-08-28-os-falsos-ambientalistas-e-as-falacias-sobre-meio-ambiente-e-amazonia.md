@@ -2,7 +2,7 @@
 title: Os falsos ambientalistas e as falácias sobre Meio Ambiente e Amazônia
 date: 2019-08-28
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

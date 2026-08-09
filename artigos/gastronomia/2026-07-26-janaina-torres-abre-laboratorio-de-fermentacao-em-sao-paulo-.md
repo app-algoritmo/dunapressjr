@@ -3,7 +3,7 @@ title: "Janaína Torres abre laboratório de fermentação em São Paulo e reesc
 subtitle: "A chef do Bar da Dona Onça transforma técnicas ancestrais indígenas e quilombolas em produto, pesquisa e menu — e coloca o Brasil na disputa global por identidade alimentar."
 date: 2026-07-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - gastronomia
 description: "Janaína Torres inaugura em julho de 2026 um laboratório dedicado à fermentação com ingredientes nativos brasileiros, unindo pesquisa etnobotânica, produção artesanal e cardápio vivo. O movimento não é só gastronômico: é uma aposta econômica e cultural num momento em que o mundo olha para o Sul Global em busca de novos sabores e narrativas."

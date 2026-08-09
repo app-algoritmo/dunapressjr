@@ -3,7 +3,7 @@ title: Mais de R$ 8 milhões investidos pela Ebserh em hospital de Florianópoli
   mais 75 leitos para tratamento na pandemia
 date: 2020-06-23
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

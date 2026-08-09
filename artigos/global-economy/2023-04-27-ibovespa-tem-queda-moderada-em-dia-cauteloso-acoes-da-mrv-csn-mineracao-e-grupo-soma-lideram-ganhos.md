@@ -3,7 +3,7 @@ title: Ibovespa tem queda moderada em dia cauteloso; ações da MRV, CSN Minera�
   Grupo Soma lideram ganhos.
 date: 2023-04-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

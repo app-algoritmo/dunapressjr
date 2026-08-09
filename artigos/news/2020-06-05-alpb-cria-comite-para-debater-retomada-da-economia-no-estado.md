@@ -2,7 +2,7 @@
 title: ALPB cria comitê para debater retomada da economia no Estado
 date: 2020-06-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Projeto de Lei 6460/19 exclui o dia 21 de abril e inclui o dia 22 de abri
   entre os feriados nacionais
 date: 2020-02-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

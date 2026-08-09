@@ -3,7 +3,7 @@ title: "A carta que Getúlio Vargas escreveu para si mesmo — e como ela ainda 
 subtitle: "Setenta e dois anos após o suicídio do presidente, historiadores revisam o papel da 'Carta Testamento' de 1954 como documento político calculado, não confissão espontânea — e o debate muda o que sabemos sobre o populismo brasileiro."
 date: 2026-06-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - history
 description: "A 'Carta Testamento' de Vargas, lida ao Brasil no rádio em 24 de agosto de 1954, é relida por historiadores como um texto de arquitetura política sofisticada — não um desabafo íntimo. Entender o documento como estratégia, e não como confissão, explica por que o varguismo sobreviveu ao homem e ainda organiza o vocabulário político brasileiro."

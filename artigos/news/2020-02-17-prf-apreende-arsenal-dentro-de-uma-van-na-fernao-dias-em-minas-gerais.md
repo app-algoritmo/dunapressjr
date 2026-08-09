@@ -2,7 +2,7 @@
 title: PRF apreende arsenal dentro de uma van na Fernão Dias, em Minas Gerais
 date: 2020-02-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

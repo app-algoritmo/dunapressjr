@@ -2,7 +2,7 @@
 title: Governo define reajustes de benefícios e contribuições previdenciários
 date: 2022-01-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

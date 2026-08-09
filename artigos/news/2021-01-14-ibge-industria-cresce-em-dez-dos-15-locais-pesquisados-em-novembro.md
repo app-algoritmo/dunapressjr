@@ -2,7 +2,7 @@
 title: 'IBGE: indústria cresce em dez dos 15 locais pesquisados em novembro'
 date: 2021-01-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

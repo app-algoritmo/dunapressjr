@@ -3,7 +3,7 @@ title: Projeções do Tesouro Nacional apontam dívida bruta, em relação ao PI
   de 73,7% ao final de 2022
 date: 2022-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

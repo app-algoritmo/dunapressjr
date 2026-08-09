@@ -2,7 +2,7 @@
 title: IGP-DI tem queda de preços de 1,22% em setembro, diz FGV
 date: 2022-10-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

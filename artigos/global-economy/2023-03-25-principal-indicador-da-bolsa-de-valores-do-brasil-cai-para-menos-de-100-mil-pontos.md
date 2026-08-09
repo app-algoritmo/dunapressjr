@@ -1,9 +1,9 @@
 ---
-title: Principal indicador da Bolsa de Valores do Brasil  cai para menos de 100 mil
+title: Principal indicador da Bolsa de Valores do Brasil cai para menos de 100 mil
   pontos
 date: 2023-03-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

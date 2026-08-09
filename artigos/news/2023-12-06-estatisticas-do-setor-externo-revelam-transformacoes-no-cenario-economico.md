@@ -2,7 +2,7 @@
 title: Estatísticas do setor externo revelam transformações no cenário econômico
 date: 2023-12-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

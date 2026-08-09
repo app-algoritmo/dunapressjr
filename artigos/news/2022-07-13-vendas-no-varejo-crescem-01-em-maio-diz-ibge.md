@@ -2,7 +2,7 @@
 title: Vendas no varejo crescem 0,1% em maio, diz IBGE
 date: 2022-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

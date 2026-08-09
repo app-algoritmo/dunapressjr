@@ -3,7 +3,7 @@ title: Presidente em exercício Geraldo Alckmin destaca urgência da aprovação
   tributária este ano
 date: 2023-06-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

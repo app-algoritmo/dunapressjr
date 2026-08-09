@@ -2,7 +2,7 @@
 title: 'Coronavírus: Noruega confirma 4 contágios em menos de 24 horas'
 date: 2020-02-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

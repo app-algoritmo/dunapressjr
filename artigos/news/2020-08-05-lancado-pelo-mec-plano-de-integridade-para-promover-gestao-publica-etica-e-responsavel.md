@@ -3,7 +3,7 @@ title: Lançado pelo Mec Plano de Integridade para promover gestão pública ét
   responsável
 date: 2020-08-05
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

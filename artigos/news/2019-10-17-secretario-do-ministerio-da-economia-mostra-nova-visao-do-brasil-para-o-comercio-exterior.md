@@ -3,7 +3,7 @@ title: Secretário do Ministério da Economia mostra nova visão do Brasil para 
   exterior
 date: 2019-10-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

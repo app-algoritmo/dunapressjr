@@ -2,7 +2,7 @@
 title: Vendas de títulos do Tesouro Direto atingem R$ 3,62 bilhões em fevereiro
 date: 2023-03-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Panorama catastrófico no sistema financeiro mundial
 date: 2023-03-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

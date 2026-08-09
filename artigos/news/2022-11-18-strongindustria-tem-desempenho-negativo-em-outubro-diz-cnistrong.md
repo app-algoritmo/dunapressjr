@@ -2,7 +2,7 @@
 title: <strong>Indústria tem desempenho negativo em outubro, diz CNI</strong>
 date: 2022-11-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

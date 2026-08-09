@@ -2,7 +2,7 @@
 title: Planejamento prevê déficit primário de R$ 107,6 bi este ano
 date: 2023-03-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

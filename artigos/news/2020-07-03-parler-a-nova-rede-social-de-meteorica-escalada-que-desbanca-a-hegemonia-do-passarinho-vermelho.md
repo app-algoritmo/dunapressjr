@@ -3,7 +3,7 @@ title: 'Parler: a nova rede social de meteórica escalada que desbanca a hegemon
   do passarinho vermelho'
 date: 2020-07-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

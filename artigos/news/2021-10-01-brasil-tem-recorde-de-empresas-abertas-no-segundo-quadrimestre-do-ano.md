@@ -2,7 +2,7 @@
 title: Brasil tem recorde de empresas abertas no segundo quadrimestre do ano
 date: 2021-10-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Receita adia pagamento do Simples Nacional em três meses
 date: 2021-03-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

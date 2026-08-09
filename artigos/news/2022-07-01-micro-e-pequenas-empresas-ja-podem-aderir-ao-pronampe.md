@@ -2,7 +2,7 @@
 title: Micro e pequenas empresas já podem aderir ao Pronampe
 date: 2022-07-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

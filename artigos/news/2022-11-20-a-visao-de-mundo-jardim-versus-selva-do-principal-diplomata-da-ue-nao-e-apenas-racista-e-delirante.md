@@ -3,7 +3,7 @@ title: A visão de mundo 'jardim versus selva' do principal diplomata da UE não
   racista, é delirante
 date: 2022-11-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

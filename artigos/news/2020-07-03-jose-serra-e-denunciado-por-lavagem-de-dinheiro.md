@@ -2,7 +2,7 @@
 title: José Serra é denunciado por lavagem de dinheiro
 date: 2020-07-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

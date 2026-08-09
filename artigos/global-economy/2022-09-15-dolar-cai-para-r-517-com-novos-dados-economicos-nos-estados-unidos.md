@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,17 com novos dados econômicos nos Estados Unidos
 date: 2022-09-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: Guia de boas práticas regulatórias para defesa agropecuária publicado 
   Mapa.
 date: 2020-06-12
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

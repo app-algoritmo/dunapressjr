@@ -2,7 +2,7 @@
 title: Produção mensal de petróleo no Campo de Búzios bate recorde
 date: 2022-08-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

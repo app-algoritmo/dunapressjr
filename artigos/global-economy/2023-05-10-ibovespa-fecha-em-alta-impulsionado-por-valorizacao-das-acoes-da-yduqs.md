@@ -2,7 +2,7 @@
 title: Ibovespa fecha em alta impulsionado por valorização das ações da Yduqs
 date: 2023-05-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

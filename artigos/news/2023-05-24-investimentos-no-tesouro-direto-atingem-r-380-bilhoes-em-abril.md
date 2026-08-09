@@ -2,7 +2,7 @@
 title: Investimentos no Tesouro Direto atingem R$ 3,80 bilhões em abril
 date: 2023-05-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

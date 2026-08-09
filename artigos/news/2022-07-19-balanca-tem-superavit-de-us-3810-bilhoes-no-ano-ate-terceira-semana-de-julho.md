@@ -2,7 +2,7 @@
 title: Balança tem superávit de US$ 38,10 bilhões no ano, até terceira semana de julho
 date: 2022-07-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

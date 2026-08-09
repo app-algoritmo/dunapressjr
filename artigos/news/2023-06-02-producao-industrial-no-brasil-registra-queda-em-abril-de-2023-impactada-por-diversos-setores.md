@@ -3,7 +3,7 @@ title: Produção industrial no Brasil registra queda em abril de 2023, impactad
   diversos setores
 date: 2023-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

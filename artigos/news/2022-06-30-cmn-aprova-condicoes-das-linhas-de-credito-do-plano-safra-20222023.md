@@ -2,7 +2,7 @@
 title: CMN aprova condições das linhas de crédito do Plano Safra 2022/2023
 date: 2022-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

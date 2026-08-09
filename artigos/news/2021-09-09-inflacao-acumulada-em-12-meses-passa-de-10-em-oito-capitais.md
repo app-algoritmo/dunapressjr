@@ -2,7 +2,7 @@
 title: Inflação acumulada em 12 meses passa de 10% em oito capitais
 date: 2021-09-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

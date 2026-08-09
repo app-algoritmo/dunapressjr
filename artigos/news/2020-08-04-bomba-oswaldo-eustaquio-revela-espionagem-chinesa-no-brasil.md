@@ -2,7 +2,7 @@
 title: 'Bomba: Oswaldo Eustáquio revela espionagem chinesa no Brasil'
 date: 2020-08-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

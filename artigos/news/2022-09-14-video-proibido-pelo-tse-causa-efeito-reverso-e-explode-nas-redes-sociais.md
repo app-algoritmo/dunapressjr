@@ -2,7 +2,7 @@
 title: Vídeo proibido pelo TSE causa efeito reverso e explode nas redes sociais
 date: 2022-09-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

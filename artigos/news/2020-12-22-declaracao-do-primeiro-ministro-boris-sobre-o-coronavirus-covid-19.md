@@ -1,8 +1,8 @@
 ---
-title: Declaração do Primeiro Ministro Boris  sobre o coronavírus (COVID-19)
+title: Declaração do Primeiro Ministro Boris sobre o coronavírus (COVID-19)
 date: 2020-12-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Biografia: Malcolm Forest'
 date: 2018-12-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 ---

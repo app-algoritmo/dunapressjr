@@ -2,7 +2,7 @@
 title: Questões sobre o novo coronavírus 2019-nCoV
 date: 2020-01-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

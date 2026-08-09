@@ -3,7 +3,7 @@ title: Pessoas e entidades jurídicas buscam justiça por crimes contra a humani
   atribuídos ao regime de Maduro
 date: 2023-05-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Geopolitics
 ---

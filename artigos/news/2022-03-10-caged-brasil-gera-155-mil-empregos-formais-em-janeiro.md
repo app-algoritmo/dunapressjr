@@ -2,7 +2,7 @@
 title: 'Caged: Brasil gera 155 mil empregos formais em janeiro'
 date: 2022-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

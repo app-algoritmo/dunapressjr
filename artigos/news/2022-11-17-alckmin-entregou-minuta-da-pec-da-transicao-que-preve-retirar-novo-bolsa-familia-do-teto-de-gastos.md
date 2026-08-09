@@ -3,7 +3,7 @@ title: Alckmin entregou minuta da PEC da Transição, que prevê retirar novo Bo
   do teto de gastos
 date: 2022-11-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

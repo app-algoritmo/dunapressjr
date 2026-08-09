@@ -2,7 +2,7 @@
 title: Custo da construção civil sobe 1,44% em setembro
 date: 2020-10-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

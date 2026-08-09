@@ -3,7 +3,7 @@ title: 'Esaú e Jacó: A Dualidade entre Monarquismo e Republicanismo no Romance
   Machado de Assis'
 date: 2024-08-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Features
 ---

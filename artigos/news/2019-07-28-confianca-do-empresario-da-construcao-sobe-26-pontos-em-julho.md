@@ -2,7 +2,7 @@
 title: Confiança do empresário da construção sobe 2,6 pontos em julho
 date: 2019-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

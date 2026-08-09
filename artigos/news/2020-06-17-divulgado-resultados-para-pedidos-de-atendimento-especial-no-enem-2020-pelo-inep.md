@@ -3,7 +3,7 @@ title: Divulgado resultados para pedidos de atendimento especial no Enem 2020 pe
   Inep
 date: 2020-06-17
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

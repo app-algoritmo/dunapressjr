@@ -3,7 +3,7 @@ title: A artista irlandesa-canadense Ciara Phillips é a ganhadora deste ano do 
   prêmio gráfico do mundo
 date: 2020-11-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

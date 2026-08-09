@@ -2,7 +2,7 @@
 title: Deputados americanos aprovam salvar sobreviventes de aborto
 date: 2023-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

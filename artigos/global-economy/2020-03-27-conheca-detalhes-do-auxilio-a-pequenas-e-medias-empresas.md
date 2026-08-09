@@ -2,7 +2,7 @@
 title: Conheça detalhes do auxílio a pequenas e médias empresas
 date: 2020-03-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

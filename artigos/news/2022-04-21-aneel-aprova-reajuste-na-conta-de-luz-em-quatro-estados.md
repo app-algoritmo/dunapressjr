@@ -2,7 +2,7 @@
 title: Aneel aprova reajuste na conta de luz em quatro estados
 date: 2022-04-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

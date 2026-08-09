@@ -2,7 +2,7 @@
 title: Comércio encerra 2020 com confiança em queda, diz CNC
 date: 2020-12-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

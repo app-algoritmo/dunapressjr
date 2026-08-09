@@ -2,7 +2,7 @@
 title: A gestão da madeira e a proteção florestal na Noruega
 date: 2018-09-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

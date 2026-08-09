@@ -3,7 +3,7 @@ title: "Crise Hídrica Global: Como a Disputa pela Água Vai Redesenhar o Mapa G
 subtitle: "Relatórios convergentes de agências climáticas e institutos de segurança internacional apontam que a escassez de água doce deixou de ser uma ameaça ambiental para se tornar o principal vetor de instabilidade política do próximo decênio"
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - environment
 description: "A combinação entre aquecimento global acelerado, crescimento populacional desigual e má gestão de recursos hídricos está criando as condições para que conflitos por água doce se tornem o principal desafio geopolítico da próxima década. Análise da Duna Press examina os dados mais recentes, os focos de tensão já identificados e o que governos e organismos internacionais estão — ou não estão — fazendo a respeito."

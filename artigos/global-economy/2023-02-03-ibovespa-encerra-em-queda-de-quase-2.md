@@ -2,7 +2,7 @@
 title: Ibovespa encerra em queda de quase 2%
 date: 2023-02-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

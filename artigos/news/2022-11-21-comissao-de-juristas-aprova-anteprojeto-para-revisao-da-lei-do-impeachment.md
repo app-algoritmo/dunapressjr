@@ -2,7 +2,7 @@
 title: Comissão de juristas aprova anteprojeto para revisão da Lei do Impeachment
 date: 2022-11-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

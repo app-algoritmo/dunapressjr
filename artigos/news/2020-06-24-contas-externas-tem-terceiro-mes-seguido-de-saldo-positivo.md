@@ -2,7 +2,7 @@
 title: Contas externas têm terceiro mês seguido de saldo positivo
 date: 2020-06-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

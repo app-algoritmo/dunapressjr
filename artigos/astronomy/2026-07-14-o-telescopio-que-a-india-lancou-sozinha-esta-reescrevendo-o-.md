@@ -3,7 +3,7 @@ title: "O telescópio que a Índia lançou sozinha está reescrevendo o mapa dos
 subtitle: "A missão AstroSat, operada pelo ISRO com orçamento menor que uma produção hollywoodiana, acaba de registrar dados que desafiam modelos consolidados sobre como buracos negros de massa estelar se alimentam."
 date: 2026-07-14
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - astronomy
 description: "O observatório espacial indiano AstroSat detectou padrões de emissão de raios-X em buracos negros binários que contradizem previsões de modelos em uso há três décadas. A descoberta, publicada em julho de 2026, não apenas reposiciona o ISRO como ator científico de primeira linha, mas abre uma corrida para revisão de equações que fundamentam desde GPS até redes de comunicação por satélite."

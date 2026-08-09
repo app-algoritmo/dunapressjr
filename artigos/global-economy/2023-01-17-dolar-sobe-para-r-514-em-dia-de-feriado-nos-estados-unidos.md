@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,14 em dia de feriado nos Estados Unidos
 date: 2023-01-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

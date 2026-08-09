@@ -2,7 +2,7 @@
 title: Tecnologia biométrica de reconhecimento facial é novo normal na segurança digital
 date: 2020-10-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

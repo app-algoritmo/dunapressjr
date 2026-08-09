@@ -2,7 +2,7 @@
 title: PF encontra no Amazonas pertences pessoais de jornalista e indigenista
 date: 2022-06-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

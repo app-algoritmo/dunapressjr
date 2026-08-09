@@ -2,7 +2,7 @@
 title: Intenção de consumo dos brasileiros aumenta 3,1% em abril
 date: 2023-04-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

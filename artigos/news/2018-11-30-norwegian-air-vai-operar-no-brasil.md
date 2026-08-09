@@ -2,7 +2,7 @@
 title: Norwegian Air vai operar no Brasil
 date: 2018-11-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

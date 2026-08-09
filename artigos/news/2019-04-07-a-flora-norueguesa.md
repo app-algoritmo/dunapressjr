@@ -2,7 +2,7 @@
 title: A flora norueguesa
 date: 2019-04-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

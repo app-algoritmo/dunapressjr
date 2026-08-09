@@ -2,7 +2,7 @@
 title: Inicio da Tradição
 date: 2020-08-25
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

@@ -3,7 +3,7 @@ title: Ex ministra da saúde da Finlândia, Dra. Rauni-Leena Luukanen Kilde reve
   ao mundo sobre a produção de vírus, vacinas entre outros produtos de controle populacional
 date: 2020-01-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

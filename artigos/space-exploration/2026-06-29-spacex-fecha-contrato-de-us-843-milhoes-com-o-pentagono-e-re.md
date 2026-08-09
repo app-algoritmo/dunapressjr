@@ -3,7 +3,7 @@ title: "SpaceX fecha contrato de US$ 843 milhões com o Pentágono — e redesen
 subtitle: "O acordo firmado em junho de 2026 entre a empresa de Elon Musk e o Departamento de Defesa americano não é só um negócio bilionário: é um novo mapa de poder para a órbita baixa da Terra."
 date: 2026-06-29
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - space-exploration
 description: "A SpaceX assinou em junho de 2026 um contrato de US$ 843 milhões com o Pentágono para transporte de carga militar em órbita baixa. O acordo consolida uma virada histórica: o Estado americano não opera mais o espaço — ele o terceiriza, e isso muda o equilíbrio com China, Europa e Brasil."

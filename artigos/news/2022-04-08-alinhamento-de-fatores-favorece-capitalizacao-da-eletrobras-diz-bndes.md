@@ -2,7 +2,7 @@
 title: Alinhamento de fatores favorece capitalização da Eletrobras, diz BNDES
 date: 2022-04-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

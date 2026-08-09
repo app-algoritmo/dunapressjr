@@ -3,7 +3,7 @@ title: Confiança do empresário da construção é a maior dos últimos 10 anos
   pesquisa da CNI
 date: 2020-01-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Dólar se aproxima de R$ 5,40 em dia de tensão no Brasil e no exterior
 date: 2022-09-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

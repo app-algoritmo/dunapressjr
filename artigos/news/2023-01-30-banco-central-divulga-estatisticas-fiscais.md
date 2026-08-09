@@ -2,7 +2,7 @@
 title: Banco Central divulga estatísticas fiscais
 date: 2023-01-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

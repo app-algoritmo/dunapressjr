@@ -3,7 +3,7 @@ title: Índice Geral de Preços – 10 (IGP-10) registra queda de 0,13% em agost
   FGV/Ibre
 date: 2023-08-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

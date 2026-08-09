@@ -2,7 +2,7 @@
 title: Polícia Federal deflagra operação contra fraudes ao Auxílio Emergencial
 date: 2023-03-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

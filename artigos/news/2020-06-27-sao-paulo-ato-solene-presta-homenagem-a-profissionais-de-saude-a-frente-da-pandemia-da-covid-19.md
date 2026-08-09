@@ -3,7 +3,7 @@ title: 'São Paulo: Ato solene presta homenagem a profissionais de saúde à fre
   pandemia da Covid-19'
 date: 2020-06-27
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Ipea: inflação desacelera para todas as faixas de renda em junho'
 date: 2021-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

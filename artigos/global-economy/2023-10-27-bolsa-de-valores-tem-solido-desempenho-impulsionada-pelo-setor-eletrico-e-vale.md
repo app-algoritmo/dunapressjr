@@ -2,7 +2,7 @@
 title: Bolsa de valores tem sólido desempenho impulsionada pelo setor elétrico e Vale
 date: 2023-10-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

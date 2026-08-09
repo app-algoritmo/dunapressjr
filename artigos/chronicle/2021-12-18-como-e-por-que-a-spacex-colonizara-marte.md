@@ -2,7 +2,7 @@
 title: Como (e por que) a SpaceX colonizará Marte
 date: 2021-12-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 ---

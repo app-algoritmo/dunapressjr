@@ -3,7 +3,7 @@ title: "Mimado ou medicado: a linha tênue entre amor e ansiedade que está remo
 subtitle: "O setor de saúde mental animal movimentou R$ 2,3 bilhões no Brasil em 2025 — e o debate sobre onde termina o cuidado e começa a projeção humana nunca esteve tão no centro da veterinária moderna."
 date: 2026-06-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - pets
 description: "O Brasil tornou-se o terceiro maior mercado pet do mundo, e uma fatia crescente desse dinheiro vai para ansiolíticos, antidepressivos e terapias comportamentais para cães e gatos. A questão que divide veterinários, etólogos e donos não é se os animais sofrem — é se estamos tratando a dor deles ou a nossa."

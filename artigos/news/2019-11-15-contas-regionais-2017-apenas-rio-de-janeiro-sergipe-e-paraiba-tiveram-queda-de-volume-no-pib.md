@@ -3,7 +3,7 @@ title: 'Contas Regionais 2017: apenas Rio de Janeiro, Sergipe e Paraíba tiveram
   de volume no PIB'
 date: 2019-11-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

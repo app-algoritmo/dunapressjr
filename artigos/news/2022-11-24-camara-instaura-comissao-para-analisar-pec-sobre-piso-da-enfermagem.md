@@ -2,7 +2,7 @@
 title: Câmara instaura comissão para analisar PEC sobre piso da enfermagem
 date: 2022-11-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

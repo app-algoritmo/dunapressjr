@@ -2,7 +2,7 @@
 title: Brasil perde mais de 860 mil empregos formais em abril
 date: 2020-05-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

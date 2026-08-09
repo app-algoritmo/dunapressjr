@@ -2,7 +2,7 @@
 title: Faturamento da indústria de máquinas e equipamentos sobe 21,6% em 2021
 date: 2022-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

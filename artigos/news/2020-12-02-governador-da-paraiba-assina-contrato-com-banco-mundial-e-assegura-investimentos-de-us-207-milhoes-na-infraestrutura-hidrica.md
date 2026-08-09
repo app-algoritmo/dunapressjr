@@ -3,7 +3,7 @@ title: Governador da Paraíba assina contrato com Banco Mundial e assegura inves
   de US$ 207 milhões na infraestrutura hídrica
 date: 2020-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "O Campeonato Que Ninguém Esperava: Como a Temporada 2026 Reescreveu as 
 subtitle: "Com o novo regulamento técnico em plena vigência, a hierarquia estabelecida nos últimos anos desmoronou em pista. A análise de quem está ganhando, quem está perdendo e por que 2026 pode ser o ano mais imprevisível da história recente do esporte."
 date: 2026-05-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - formula-1
 description: "A temporada 2026 da Fórmula 1 está sendo marcada por uma reviravolta sem precedentes na hierarquia das equipes. Com o novo pacote técnico introduzindo motores híbridos de alta eficiência e uma aerodinâmica radicalmente diferente, equipes que dominaram a última era enfrentam dificuldades enquanto candidatos improváveis emergem como forças reais ao título. A Duna Press analisa os fatores que explicam essa transformação."

@@ -2,7 +2,7 @@
 title: Mercado financeiro reduz projeção da inflação de 7,15% para 7,11%
 date: 2022-08-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

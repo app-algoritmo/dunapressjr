@@ -2,7 +2,7 @@
 title: Receita lança edital para negociar dívidas em litígio de contribuintes
 date: 2021-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

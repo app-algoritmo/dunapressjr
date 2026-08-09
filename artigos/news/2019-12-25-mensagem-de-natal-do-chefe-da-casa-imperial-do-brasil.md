@@ -2,7 +2,7 @@
 title: Mensagem de Natal do Chefe da Casa Imperial do Brasil
 date: 2019-12-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

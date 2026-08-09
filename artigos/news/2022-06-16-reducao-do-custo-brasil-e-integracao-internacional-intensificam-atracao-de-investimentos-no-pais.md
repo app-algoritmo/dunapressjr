@@ -3,7 +3,7 @@ title: Redução do Custo Brasil e integração internacional intensificam atra�
   investimentos no país
 date: 2022-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

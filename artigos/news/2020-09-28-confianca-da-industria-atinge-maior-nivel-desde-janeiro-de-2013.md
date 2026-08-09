@@ -2,7 +2,7 @@
 title: Confiança da indústria atinge maior nível desde janeiro de 2013
 date: 2020-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

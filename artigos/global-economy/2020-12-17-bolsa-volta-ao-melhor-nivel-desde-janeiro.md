@@ -2,7 +2,7 @@
 title: Bolsa volta ao melhor nível desde janeiro
 date: 2020-12-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

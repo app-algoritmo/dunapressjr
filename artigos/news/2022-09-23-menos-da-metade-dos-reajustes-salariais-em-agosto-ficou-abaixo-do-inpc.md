@@ -2,7 +2,7 @@
 title: Menos da metade dos reajustes salariais em agosto ficou abaixo do INPC
 date: 2022-09-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

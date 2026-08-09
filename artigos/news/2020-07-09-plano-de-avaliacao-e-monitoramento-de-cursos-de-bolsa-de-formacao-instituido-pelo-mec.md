@@ -3,7 +3,7 @@ title: Plano de avaliação e monitoramento de cursos de Bolsa de Formação ins
   pelo MEC
 date: 2020-07-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

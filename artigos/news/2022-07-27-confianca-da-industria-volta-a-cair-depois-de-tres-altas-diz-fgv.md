@@ -2,7 +2,7 @@
 title: Confiança da indústria volta a cair depois de três altas, diz FGV
 date: 2022-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

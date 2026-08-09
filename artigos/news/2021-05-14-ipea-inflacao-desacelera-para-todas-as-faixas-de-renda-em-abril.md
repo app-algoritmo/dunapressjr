@@ -2,7 +2,7 @@
 title: 'Ipea: inflação desacelera para todas as faixas de renda em abril'
 date: 2021-05-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

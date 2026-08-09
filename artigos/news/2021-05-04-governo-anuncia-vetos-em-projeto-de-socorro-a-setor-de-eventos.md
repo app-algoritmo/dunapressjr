@@ -2,7 +2,7 @@
 title: Governo anuncia vetos em projeto de socorro a setor de eventos
 date: 2021-05-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

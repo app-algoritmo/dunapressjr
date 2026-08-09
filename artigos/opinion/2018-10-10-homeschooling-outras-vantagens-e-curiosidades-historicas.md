@@ -2,7 +2,7 @@
 title: Homeschooling - Outras vantagens e curiosidades históricas
 date: 2018-10-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

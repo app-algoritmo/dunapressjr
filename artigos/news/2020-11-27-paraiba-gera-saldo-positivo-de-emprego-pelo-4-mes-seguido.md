@@ -2,7 +2,7 @@
 title: Paraíba gera saldo positivo de emprego pelo 4º mês seguido
 date: 2020-11-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

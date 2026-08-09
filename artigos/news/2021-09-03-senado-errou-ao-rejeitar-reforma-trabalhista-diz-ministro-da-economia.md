@@ -2,7 +2,7 @@
 title: Senado errou ao rejeitar reforma trabalhista, diz ministro da Economia
 date: 2021-09-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

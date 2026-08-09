@@ -2,7 +2,7 @@
 title: Com terceira queda seguida, dólar fecha o dia cotado a R$ 4,80
 date: 2022-05-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

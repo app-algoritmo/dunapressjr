@@ -2,7 +2,7 @@
 title: Nobel da Paz - Roteiro para iniciantes
 date: 2019-05-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

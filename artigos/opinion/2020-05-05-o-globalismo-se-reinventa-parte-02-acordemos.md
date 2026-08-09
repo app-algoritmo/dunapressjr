@@ -2,7 +2,7 @@
 title: O Globalismo se reinventa - parte 02 - Acordemos
 date: 2020-05-05
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

@@ -2,7 +2,7 @@
 title: Vendas do varejo variam 0,1% em outubro
 date: 2019-12-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

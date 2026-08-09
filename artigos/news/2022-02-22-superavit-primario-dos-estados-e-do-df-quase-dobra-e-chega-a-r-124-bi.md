@@ -2,7 +2,7 @@
 title: Superávit primário dos estados e do DF quase dobra e chega a R$ 124 bi
 date: 2022-02-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

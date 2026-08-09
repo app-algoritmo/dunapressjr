@@ -2,7 +2,7 @@
 title: Parlamentares querem mudanças nas novas regras de saque do FGTS e do PIS/PASEP
 date: 2019-08-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

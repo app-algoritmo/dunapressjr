@@ -3,7 +3,7 @@ title: "Brasileiro paga R$ 1.847 de juros por ano sem perceber — e o problema 
 subtitle: "O crédito rotativo e o parcelamento sem juros escondem uma armadilha matemática que corrói patrimônio silenciosamente — e há um caminho concreto para virar esse jogo."
 date: 2026-07-29
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - financial-education
 description: "O brasileiro médio perde quase R$ 1.900 por ano em encargos financeiros que nem reconhece como juros — parcelamentos, tarifas e rotativo disfarçado. Entender onde o dinheiro some é o primeiro passo para construir patrimônio de verdade."

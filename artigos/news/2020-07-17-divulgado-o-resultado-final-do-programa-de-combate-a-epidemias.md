@@ -2,7 +2,7 @@
 title: Divulgado o resultado final do Programa de Combate a Epidemias
 date: 2020-07-17
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

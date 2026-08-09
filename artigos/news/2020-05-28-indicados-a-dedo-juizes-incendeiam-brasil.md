@@ -2,7 +2,7 @@
 title: Indicados a dedo, juizes incendeiam Brasil
 date: 2020-05-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

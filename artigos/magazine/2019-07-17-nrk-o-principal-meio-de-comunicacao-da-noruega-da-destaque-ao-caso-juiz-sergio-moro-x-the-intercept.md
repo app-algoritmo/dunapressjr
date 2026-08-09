@@ -3,7 +3,7 @@ title: NRK, o principal meio de comunicação da Noruega, dá destaque ao caso J
   Moro x The Intercept
 date: 2019-07-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Policy

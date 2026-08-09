@@ -2,7 +2,7 @@
 title: 'Esquerda Varrida do Parlamento Europeu: O Ascendente da Direita na Europa'
 date: 2024-06-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

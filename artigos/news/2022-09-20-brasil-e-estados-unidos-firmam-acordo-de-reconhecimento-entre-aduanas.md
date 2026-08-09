@@ -2,7 +2,7 @@
 title: Brasil e Estados Unidos firmam acordo de reconhecimento entre aduanas
 date: 2022-09-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

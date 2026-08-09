@@ -1,5 +1,5 @@
 ---
-title: Novembro Roxo e o  Método Canguru
+title: Novembro Roxo e o Método Canguru
 date: 2020-11-22
 status: publish
 author: Joice Ferreira

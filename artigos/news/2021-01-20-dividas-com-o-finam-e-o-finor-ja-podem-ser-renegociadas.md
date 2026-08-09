@@ -2,7 +2,7 @@
 title: Dívidas com o Finam e o Finor já podem ser renegociadas
 date: 2021-01-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

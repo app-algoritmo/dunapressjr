@@ -2,7 +2,7 @@
 title: Acordo sobre perdas com planos econômicos tem 118 mil adesões
 date: 2020-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

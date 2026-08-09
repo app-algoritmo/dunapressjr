@@ -3,7 +3,7 @@ title: Paraíba gera saldo positivo de emprego com carteira assinada pelo oitavo
   seguido no ano
 date: 2022-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

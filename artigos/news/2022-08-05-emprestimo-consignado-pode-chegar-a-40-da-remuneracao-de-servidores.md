@@ -2,7 +2,7 @@
 title: Empréstimo consignado pode chegar a 40% da remuneração de servidores
 date: 2022-08-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

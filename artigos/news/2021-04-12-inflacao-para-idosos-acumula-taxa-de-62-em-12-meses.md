@@ -2,7 +2,7 @@
 title: Inflação para idosos acumula taxa de 6,2% em 12 meses
 date: 2021-04-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

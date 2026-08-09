@@ -2,7 +2,7 @@
 title: FGV diz que inflação medida pelo IPC-S fecha 2020 em 5,17%
 date: 2021-01-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

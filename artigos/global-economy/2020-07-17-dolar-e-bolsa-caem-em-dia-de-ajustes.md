@@ -2,7 +2,7 @@
 title: Dólar e bolsa caem em dia de ajustes
 date: 2020-07-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

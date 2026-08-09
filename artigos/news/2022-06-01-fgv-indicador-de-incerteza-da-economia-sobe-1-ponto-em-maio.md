@@ -2,7 +2,7 @@
 title: 'FGV: Indicador de Incerteza da Economia sobe 1 ponto em maio'
 date: 2022-06-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

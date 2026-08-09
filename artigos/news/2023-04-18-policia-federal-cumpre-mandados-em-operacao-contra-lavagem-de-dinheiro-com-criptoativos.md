@@ -3,7 +3,7 @@ title: Polícia Federal cumpre mandados em operação contra lavagem de dinheiro
   criptoativos
 date: 2023-04-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

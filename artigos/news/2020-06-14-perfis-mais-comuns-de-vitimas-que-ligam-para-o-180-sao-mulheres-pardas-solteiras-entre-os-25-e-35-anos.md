@@ -1,5 +1,5 @@
 ---
-title: Perfis mais comuns de vítimas, que ligam para  o 180 são mulheres pardas, solteiras
+title: Perfis mais comuns de vítimas, que ligam para o 180 são mulheres pardas, solteiras
   entre os 25 e 35 anos
 date: 2020-06-14
 status: publish

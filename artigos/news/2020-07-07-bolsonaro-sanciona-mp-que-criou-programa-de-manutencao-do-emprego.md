@@ -2,7 +2,7 @@
 title: Bolsonaro sanciona MP que criou programa de manutenção do emprego
 date: 2020-07-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

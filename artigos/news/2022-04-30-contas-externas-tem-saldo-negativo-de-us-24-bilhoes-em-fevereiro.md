@@ -2,7 +2,7 @@
 title: Contas externas têm saldo negativo de US$ 2,4 bilhões em fevereiro
 date: 2022-04-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

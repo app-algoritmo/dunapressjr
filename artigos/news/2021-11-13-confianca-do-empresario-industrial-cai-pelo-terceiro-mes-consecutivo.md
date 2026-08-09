@@ -2,7 +2,7 @@
 title: Confiança do Empresário Industrial cai pelo terceiro mês consecutivo
 date: 2021-11-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

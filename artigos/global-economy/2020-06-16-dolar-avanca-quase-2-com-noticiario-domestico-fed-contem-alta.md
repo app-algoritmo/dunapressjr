@@ -2,7 +2,7 @@
 title: Dólar avança quase 2% com noticiário doméstico; FED contém alta
 date: 2020-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

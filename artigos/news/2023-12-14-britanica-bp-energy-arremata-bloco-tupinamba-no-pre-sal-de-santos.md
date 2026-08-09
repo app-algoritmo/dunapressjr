@@ -2,7 +2,7 @@
 title: Britânica BP Energy arremata Bloco Tupinambá, no pré-sal de Santos
 date: 2023-12-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

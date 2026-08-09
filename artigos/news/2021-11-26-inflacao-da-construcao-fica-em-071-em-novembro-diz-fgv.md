@@ -2,7 +2,7 @@
 title: Inflação da construção fica em 0,71% em novembro, diz FGV
 date: 2021-11-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

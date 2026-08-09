@@ -2,7 +2,7 @@
 title: A importância do livro e da leitura
 date: 2019-05-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

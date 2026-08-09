@@ -2,7 +2,7 @@
 title: 'Páscoa: A História em seu Significado'
 date: 2020-04-12
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

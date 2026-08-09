@@ -2,7 +2,7 @@
 title: 'Petróleo: produção em regime de partilha soma 486 mil barris em abril'
 date: 2022-06-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

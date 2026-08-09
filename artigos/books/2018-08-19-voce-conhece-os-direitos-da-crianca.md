@@ -2,7 +2,7 @@
 title: Você conhece os Direitos da Criança?
 date: 2018-08-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

@@ -2,7 +2,7 @@
 title: Inflação oficial fecha 2019 em 4,31%
 date: 2020-01-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

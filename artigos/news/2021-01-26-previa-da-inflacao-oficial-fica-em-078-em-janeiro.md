@@ -2,7 +2,7 @@
 title: Prévia da inflação oficial fica em 0,78% em janeiro
 date: 2021-01-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

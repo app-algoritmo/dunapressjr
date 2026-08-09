@@ -2,7 +2,7 @@
 title: Complexo Hospitalar de Patos/PB terá mais 10 leitos
 date: 2020-06-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

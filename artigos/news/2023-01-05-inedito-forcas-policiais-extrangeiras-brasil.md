@@ -2,7 +2,7 @@
 title: 'Inédito: Forças policiais extrangeiras Brasil'
 date: 2023-01-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

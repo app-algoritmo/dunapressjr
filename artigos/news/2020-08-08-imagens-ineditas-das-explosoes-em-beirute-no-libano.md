@@ -2,7 +2,7 @@
 title: Imagens inéditas das explosões em Beirute no Líbano
 date: 2020-08-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

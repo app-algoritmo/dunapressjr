@@ -3,7 +3,7 @@ title: Parceria do governo brasileiro com iniciativa do G20 ajuda a impulsionar 
   em infraestrutura
 date: 2021-05-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

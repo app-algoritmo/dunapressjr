@@ -2,7 +2,7 @@
 title: Índice de Consumo das Famílias cresce 2,1% em agosto
 date: 2021-08-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Funcionários do Twitter podem ter interferido nas eleições do Brasil
 date: 2022-12-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

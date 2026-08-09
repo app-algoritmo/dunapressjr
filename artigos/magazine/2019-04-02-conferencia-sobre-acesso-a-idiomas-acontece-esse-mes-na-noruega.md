@@ -2,7 +2,7 @@
 title: Conferência sobre acesso a idiomas acontece esse mês na Noruega
 date: 2019-04-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

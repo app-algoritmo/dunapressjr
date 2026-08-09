@@ -2,7 +2,7 @@
 title: Brasil aplica métodos da RDA, para perseguição e vigilância de opositores
 date: 2021-01-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

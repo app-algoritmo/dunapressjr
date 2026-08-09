@@ -3,7 +3,7 @@ title: Novo teste com Nanopartículas Magnéticas COVID-19 da NTNU será usado n
   e na Dinamarca
 date: 2020-10-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

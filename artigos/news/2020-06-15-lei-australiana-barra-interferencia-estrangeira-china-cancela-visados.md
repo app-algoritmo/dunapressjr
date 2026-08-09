@@ -1,8 +1,8 @@
 ---
-title: Lei australiana barra  interferência estrangeira, China cancela visados
+title: Lei australiana barra interferência estrangeira, China cancela visados
 date: 2020-06-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

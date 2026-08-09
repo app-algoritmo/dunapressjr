@@ -3,7 +3,7 @@ title: Elon Musk condena a exigência da Austrália de remover conteúdos sobre 
   em Sydney
 date: 2024-04-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Headlines
 ---

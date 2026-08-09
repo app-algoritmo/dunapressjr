@@ -2,7 +2,7 @@
 title: Você sabe quem montou o primeiro presépio? e o que significa cada imagem?
 date: 2020-12-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Semana de Alto Nível das Nações Unidas 2019: Relatório de abertura'
 date: 2019-09-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

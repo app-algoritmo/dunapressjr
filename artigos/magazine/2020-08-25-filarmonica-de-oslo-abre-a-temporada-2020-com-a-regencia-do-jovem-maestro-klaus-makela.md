@@ -3,7 +3,7 @@ title: Filarmônica de Oslo abre a temporada 2020 com a regência do jovem maest
   Mäkelä
 date: 2020-08-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

@@ -2,7 +2,7 @@
 title: Nota de solidariedade aos irmãos moçambicanos
 date: 2019-03-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

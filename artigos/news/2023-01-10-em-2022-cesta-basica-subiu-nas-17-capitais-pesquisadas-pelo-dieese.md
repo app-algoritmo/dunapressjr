@@ -2,7 +2,7 @@
 title: Em 2022, cesta básica subiu nas 17 capitais pesquisadas pelo Dieese
 date: 2023-01-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Acesso à coleta de lixo por serviços de limpeza cresce no país
 date: 2023-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

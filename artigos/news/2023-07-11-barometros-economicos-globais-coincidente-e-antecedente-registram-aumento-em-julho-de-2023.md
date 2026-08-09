@@ -3,7 +3,7 @@ title: Barômetros Econômicos Globais Coincidente e Antecedente registram aumen
   julho de 2023
 date: 2023-07-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Por Videoconferência, Tribunais de Contas e OCDE apresentam plano de fis
   da educação
 date: 2020-11-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

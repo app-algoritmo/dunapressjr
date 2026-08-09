@@ -3,7 +3,7 @@ title: "A Crise Silenciosa: Como o Burnout Coletivo Está Redefinindo os Limites
 subtitle: "Cinco anos após a ruptura global provocada pela COVID-19, pesquisadores e clínicos alertam para uma segunda onda psíquica — mais silenciosa, mais difusa e potencialmente mais duradoura do que a primeira"
 date: 2026-05-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - saude-mental
 description: "Uma análise aprofundada sobre o fenômeno do burnout coletivo que emerge cinco anos após a pandemia de COVID-19, examinando dados epidemiológicos, lacunas nas políticas públicas de saúde mental e o impacto desproporcional sobre populações vulneráveis. O artigo discute os mecanismos que transformaram o esgotamento individual em um problema estrutural de saúde pública."

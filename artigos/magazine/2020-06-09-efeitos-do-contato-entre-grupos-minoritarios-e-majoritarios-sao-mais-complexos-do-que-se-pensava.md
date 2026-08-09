@@ -3,7 +3,7 @@ title: Efeitos do contato entre grupos minoritários e majoritários são mais c
   do que se pensava
 date: 2020-06-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

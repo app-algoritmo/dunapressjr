@@ -2,7 +2,7 @@
 title: Linha de crédito emergencial atinge R$ 495 milhões
 date: 2020-06-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

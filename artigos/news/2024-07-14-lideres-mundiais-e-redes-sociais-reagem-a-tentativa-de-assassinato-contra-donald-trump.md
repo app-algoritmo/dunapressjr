@@ -3,7 +3,7 @@ title: Lideres mundiais e redes sociais reagem a tentativa de assassinato contra
   Trump
 date: 2024-07-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - World Affairs

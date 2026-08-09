@@ -2,7 +2,7 @@
 title: O que você deve saber sobre a monarquia
 date: 2022-12-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Bicentennial
 - News

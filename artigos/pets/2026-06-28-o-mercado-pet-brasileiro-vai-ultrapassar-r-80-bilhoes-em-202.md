@@ -3,7 +3,7 @@ title: "O mercado pet brasileiro vai ultrapassar R$ 80 bilhões em 2026 — e os
 subtitle: "Enquanto o setor de pets cresce mais rápido que o PIB nacional pelo quarto ano consecutivo, uma tensão crescente entre consumo e bem-estar real dos animais começa a dividir empresas, veterinários e tutores."
 date: 2026-06-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - pets
 description: "O Brasil consolida-se como o terceiro maior mercado pet do mundo, com projeção de R$ 80,5 bilhões em 2026, mas especialistas apontam um paradoxo incômodo: tutores gastam mais e entendem menos sobre as necessidades reais dos animais. O debate já chegou às universidades, às clínicas veterinárias e, agora, ao varejo."

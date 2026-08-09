@@ -3,7 +3,7 @@ title: Microempreendedores Individuais (MEIs) no Brasil alcançam 13,2 milhões 
   revela IBGE
 date: 2023-10-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

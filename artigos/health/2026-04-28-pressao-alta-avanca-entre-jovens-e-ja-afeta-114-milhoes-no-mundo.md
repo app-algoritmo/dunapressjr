@@ -2,7 +2,7 @@
 title: "Pressão alta avança entre jovens e já afeta 114 milhões no mundo"
 date: 2026-04-28
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - health
 tags:

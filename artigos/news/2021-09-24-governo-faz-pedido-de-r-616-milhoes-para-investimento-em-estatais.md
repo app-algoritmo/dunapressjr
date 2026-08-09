@@ -2,7 +2,7 @@
 title: Governo faz pedido de R$ 61,6 milhões para investimento em estatais
 date: 2021-09-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

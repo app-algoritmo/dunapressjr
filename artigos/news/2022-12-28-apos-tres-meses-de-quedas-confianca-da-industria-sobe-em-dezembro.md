@@ -2,7 +2,7 @@
 title: Após três meses de quedas, confiança da indústria sobe em dezembro
 date: 2022-12-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

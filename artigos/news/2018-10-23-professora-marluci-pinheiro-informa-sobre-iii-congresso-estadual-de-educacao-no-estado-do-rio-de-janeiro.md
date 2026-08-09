@@ -3,7 +3,7 @@ title: Professora Marluci Pinheiro informa sobre III Congresso Estadual de Educa
   no Estado do Rio de Janeiro
 date: 2018-10-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

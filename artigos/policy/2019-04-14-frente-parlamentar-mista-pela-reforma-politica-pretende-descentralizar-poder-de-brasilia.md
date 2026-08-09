@@ -3,7 +3,7 @@ title: Frente Parlamentar Mista pela Reforma Política pretende descentralizar p
   de Brasília
 date: 2019-04-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

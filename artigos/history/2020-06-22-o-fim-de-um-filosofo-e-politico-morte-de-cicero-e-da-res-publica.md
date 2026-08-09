@@ -2,7 +2,7 @@
 title: 'O Fim de um Filosofo e Político: Morte de Cicero e da Res-pública'
 date: 2020-06-22
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

@@ -2,7 +2,7 @@
 title: Bolsa termina o dia com alta de 0,15%
 date: 2023-01-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

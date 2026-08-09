@@ -2,7 +2,7 @@
 title: CAE aprova cobrança de ISS sobre serviços de saneamento
 date: 2019-11-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

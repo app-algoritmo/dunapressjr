@@ -2,7 +2,7 @@
 title: Mercado eleva para 5,6% previsão de inflação deste ano
 date: 2022-03-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: "A Reconfiguração do Capital Global: Como a Fragmentação Geopolítica Está Redesenhando os Fluxos de Investimento em 2026"
 date: 2026-05-13
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - business-and-economy
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778675081/A_Reconfigurac%CC%A7a%CC%83o_do_Capital_Global-_Como_a_Fragmentac%CC%A7a%CC%83o_Geopoli%CC%81tica_Esta%CC%81_Redesenhando_os_Fluxos_de_Investimento_em_2026_b2asbe.jpg"

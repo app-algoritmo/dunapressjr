@@ -2,7 +2,7 @@
 title: 'Covid-19: CGU e PF combatem fraudes com recursos da Saúde em Teresina (PI)'
 date: 2020-09-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

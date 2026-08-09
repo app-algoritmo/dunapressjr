@@ -3,7 +3,7 @@ title: "A Corrida pelo Silício Soberano: Como a Geopolítica Está Redesenhando
 subtitle: "Nações e corporações travam uma batalha silenciosa pelo controle das cadeias de produção de chips — e as consequências desta guerra tecnológica já redefinem alianças, economias e o futuro da inteligência artificial"
 date: 2026-06-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - technology
 description: "A disputa global pelo domínio da cadeia de semicondutores deixou de ser um tema restrito a especialistas em engenharia e passou a ocupar o centro das decisões de política externa e industrial das principais potências mundiais. Em 2026, os contornos desta batalha estão mais nítidos do que nunca — e revelam uma transformação estrutural irreversível na ordem tecnológica internacional."

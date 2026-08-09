@@ -2,7 +2,7 @@
 title: Conselho da Europa proíbe vacinação obrigatória
 date: 2021-03-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

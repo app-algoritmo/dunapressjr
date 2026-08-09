@@ -2,7 +2,7 @@
 title: Sequestros no Chile aumentam 50% durante mandato de Boric
 date: 2023-01-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

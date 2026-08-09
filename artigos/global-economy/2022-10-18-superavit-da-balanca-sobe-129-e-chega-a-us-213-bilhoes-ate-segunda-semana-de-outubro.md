@@ -3,7 +3,7 @@ title: Superávit da balança sobe 129% e chega a US$ 2,13 bilhões até segunda
   de outubro
 date: 2022-10-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

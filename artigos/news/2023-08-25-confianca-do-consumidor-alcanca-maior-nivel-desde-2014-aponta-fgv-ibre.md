@@ -2,7 +2,7 @@
 title: Confiança do consumidor alcança maior nível desde 2014, aponta FGV IBRE
 date: 2023-08-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ibovespa cai 0,27% e perde os 112 mil pontos
 date: 2023-01-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

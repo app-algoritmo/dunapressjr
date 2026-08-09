@@ -2,7 +2,7 @@
 title: Boluarte pode pegar até 20 anos de prisão, com apenas um mês no cargo
 date: 2023-01-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

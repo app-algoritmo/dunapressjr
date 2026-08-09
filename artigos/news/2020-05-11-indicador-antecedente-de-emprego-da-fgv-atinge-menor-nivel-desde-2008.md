@@ -2,7 +2,7 @@
 title: Indicador Antecedente de Emprego da FGV atinge menor nível desde 2008
 date: 2020-05-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

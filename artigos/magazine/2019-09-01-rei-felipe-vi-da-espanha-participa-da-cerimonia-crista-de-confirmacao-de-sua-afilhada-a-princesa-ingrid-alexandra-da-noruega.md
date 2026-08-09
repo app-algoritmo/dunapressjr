@@ -3,7 +3,7 @@ title: Rei Felipe VI da Espanha participa da cerimônia cristã de Confirmação
   afilhada, a Princesa Ingrid Alexandra da Noruega
 date: 2019-09-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

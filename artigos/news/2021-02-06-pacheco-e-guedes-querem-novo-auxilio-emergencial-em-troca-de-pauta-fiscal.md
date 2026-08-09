@@ -2,7 +2,7 @@
 title: Pacheco e Guedes querem novo auxílio emergencial em troca de pauta fiscal
 date: 2021-02-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

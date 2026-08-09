@@ -2,7 +2,7 @@
 title: MPPB denuncia prefeito de Santa Rita por contratações ilegais de servidores
 date: 2020-07-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

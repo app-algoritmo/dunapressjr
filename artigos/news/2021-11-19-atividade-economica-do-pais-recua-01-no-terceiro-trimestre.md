@@ -2,7 +2,7 @@
 title: Atividade econômica do país recua 0,1% no terceiro trimestre
 date: 2021-11-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

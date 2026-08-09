@@ -2,7 +2,7 @@
 title: 'FGV: indicadores de emprego apresentam piora em fevereiro'
 date: 2021-03-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

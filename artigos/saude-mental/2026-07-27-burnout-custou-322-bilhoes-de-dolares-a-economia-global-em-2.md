@@ -3,7 +3,7 @@ title: "Burnout custou 322 bilhões de dólares à economia global em 2025 — e
 subtitle: "Novos estudos em neurociência comportamental identificam o ponto exato em que o estresse produtivo vira esgotamento crônico, mudando o que empresas e clínicos pensavam saber sobre saúde mental no trabalho."
 date: 2026-07-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - saude-mental
 description: "Pesquisas publicadas em 2025 pela American Psychological Association e pelo Instituto Karolinska identificaram marcadores neurológicos do burnout antes que os sintomas apareçam — o que muda radicalmente como empresas e profissionais de saúde devem agir. O custo global do esgotamento já ultrapassa 322 bilhões de dólares por ano, e o Brasil figura entre os cinco países com maior prevalência do quadro."

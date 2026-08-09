@@ -2,7 +2,7 @@
 title: Ibovespa cai 0,66% e dólar avança diante de cenário econômico global incerto
 date: 2023-08-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

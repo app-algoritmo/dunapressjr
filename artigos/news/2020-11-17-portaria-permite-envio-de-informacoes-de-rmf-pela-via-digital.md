@@ -2,7 +2,7 @@
 title: Portaria permite envio de informações de RMF pela via digital
 date: 2020-11-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

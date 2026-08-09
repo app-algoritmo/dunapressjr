@@ -3,7 +3,7 @@ title: Base militar Al Asad no Iraq que abriga tropas norueguesas, americanas e 
   é atacada por Irã
 date: 2020-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

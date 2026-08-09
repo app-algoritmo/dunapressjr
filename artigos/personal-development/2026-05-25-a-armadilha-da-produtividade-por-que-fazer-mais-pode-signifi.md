@@ -3,7 +3,7 @@ title: "A Armadilha da Produtividade: Por Que Fazer Mais Pode Significar Crescer
 subtitle: "Em uma era obcecada por otimização e eficiência, a ciência comportamental revela um paradoxo perturbador: a busca incessante por produtividade pode ser o maior obstáculo ao desenvolvimento humano genuíno."
 date: 2026-05-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - personal-development
 description: "A cultura da produtividade extrema prometeu transformar pessoas comuns em versões otimizadas de si mesmas. Mas dados recentes e pesquisas em neurociência comportamental apontam para uma conclusão incômoda: o excesso de foco em tarefas e métricas de desempenho pode suprimir exatamente os processos cognitivos responsáveis pelo aprendizado profundo, criatividade e autoconhecimento. Este artigo analisa o paradoxo da produtividade e propõe uma abordagem mais sofisticada ao desenvolvimento pessoal."

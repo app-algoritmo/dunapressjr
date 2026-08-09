@@ -3,7 +3,7 @@ title: Começou&nbsp;nesta segunda-feira (15)&nbsp;prazo para declarar imposto s
   propriedade rural
 date: 2022-08-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

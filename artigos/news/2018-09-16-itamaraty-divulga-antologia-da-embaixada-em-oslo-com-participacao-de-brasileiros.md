@@ -2,7 +2,7 @@
 title: Itamaraty divulga Antologia da Embaixada em Oslo com participação de brasileiros
 date: 2018-09-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

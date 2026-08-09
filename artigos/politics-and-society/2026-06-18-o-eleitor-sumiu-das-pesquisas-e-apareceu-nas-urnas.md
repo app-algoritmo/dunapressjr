@@ -3,7 +3,7 @@ title: "O eleitor sumiu das pesquisas — e apareceu nas urnas"
 subtitle: "Como a abstenção virou a variável mais mal interpretada da política brasileira às vésperas de um ciclo eleitoral que começa a moldar 2026"
 date: 2026-06-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - politics-and-society
 description: "A abstenção nas eleições municipais de 2024 bateu 21,7% — o maior índice em 20 anos — mas analistas que apostaram no fim da participação política se surpreenderam: novos movimentos de mobilização local cresceram justamente onde o voto sumiu. Entender quem são os brasileiros que abandonaram a urna e o que os faria voltar é a disputa silenciosa que vai definir 2026."

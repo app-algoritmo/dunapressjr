@@ -2,7 +2,7 @@
 title: Governador da Paraíba anunciou concurso público para Empresa Paraibana de Comunicação
 date: 2022-06-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

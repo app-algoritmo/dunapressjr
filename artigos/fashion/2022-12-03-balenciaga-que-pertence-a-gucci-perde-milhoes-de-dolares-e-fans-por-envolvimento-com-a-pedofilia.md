@@ -3,7 +3,7 @@ title: Balenciaga que pertence a Gucci perde milhões de dólares e fans por env
   com a pedofilia
 date: 2022-12-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Fashion
 - News

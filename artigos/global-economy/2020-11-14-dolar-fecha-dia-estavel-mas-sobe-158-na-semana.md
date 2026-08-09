@@ -2,7 +2,7 @@
 title: Dólar fecha dia estável, mas sobe 1,58% na semana
 date: 2020-11-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: A curva de Laffer do PRO de Larreta e Bullrich que beneficia Milei
 date: 2022-12-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

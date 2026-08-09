@@ -3,7 +3,7 @@ title: "Por que as pessoas estão pagando mais para morar em apartamentos menore
 subtitle: "O movimento do 'downsizing voluntário' urbano cresce 34% entre brasileiros de renda média-alta e redesenha o que chamamos de qualidade de vida nas grandes cidades."
 date: 2026-06-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - lifestyle
 description: "Brasileiros entre 30 e 50 anos estão trocando apartamentos grandes por unidades compactas em bairros densos — não por falta de dinheiro, mas por uma aposta deliberada em tempo, mobilidade e presença. A tendência, que já movimenta incorporadoras em São Paulo, Rio e Curitiba, coloca em xeque décadas de cultura do metro quadrado como símbolo de status."

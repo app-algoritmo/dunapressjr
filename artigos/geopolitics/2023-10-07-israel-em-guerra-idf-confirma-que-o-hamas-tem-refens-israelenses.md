@@ -2,7 +2,7 @@
 title: 'Israel em guerra: IDF confirma que o Hamas tem reféns israelenses'
 date: 2023-10-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

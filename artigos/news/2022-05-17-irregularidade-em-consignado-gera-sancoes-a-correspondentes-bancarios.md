@@ -2,7 +2,7 @@
 title: Irregularidade em consignado gera sanções a correspondentes bancários
 date: 2022-05-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

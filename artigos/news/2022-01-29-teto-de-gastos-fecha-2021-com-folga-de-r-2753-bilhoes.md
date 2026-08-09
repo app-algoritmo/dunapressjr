@@ -2,7 +2,7 @@
 title: Teto de gastos fecha 2021 com folga de R$ 27,53 bilhões
 date: 2022-01-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

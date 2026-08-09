@@ -3,7 +3,7 @@ title: Receita Federal revoga mais de 120 instruções normativas relativas ao c
   exterior
 date: 2020-05-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

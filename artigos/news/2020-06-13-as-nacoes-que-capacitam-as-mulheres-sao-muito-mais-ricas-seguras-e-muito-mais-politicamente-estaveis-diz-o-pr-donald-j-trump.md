@@ -3,7 +3,7 @@ title: As nações que capacitam as mulheres são muito mais ricas, seguras e mu
   politicamente estáveis, diz o PR Donald J. Trump
 date: 2020-06-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

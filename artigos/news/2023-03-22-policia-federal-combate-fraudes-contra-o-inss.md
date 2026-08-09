@@ -2,7 +2,7 @@
 title: Polícia Federal combate fraudes contra o INSS
 date: 2023-03-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

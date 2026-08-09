@@ -2,7 +2,7 @@
 title: Governo norueguês lança estratégia cibernética internacional
 date: 2017-09-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

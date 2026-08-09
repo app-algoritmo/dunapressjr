@@ -2,7 +2,7 @@
 title: Ministro diz ser contra sanções e pede permanência da Rússia no FMI
 date: 2022-04-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

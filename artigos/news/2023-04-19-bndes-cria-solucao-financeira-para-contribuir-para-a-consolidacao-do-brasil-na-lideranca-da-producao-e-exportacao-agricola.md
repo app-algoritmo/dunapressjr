@@ -3,7 +3,7 @@ title: BNDES cria solução financeira para contribuir para a consolidação do 
   na liderança da produção e exportação agrícola
 date: 2023-04-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

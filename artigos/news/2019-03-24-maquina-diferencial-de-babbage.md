@@ -2,7 +2,7 @@
 title: Máquina diferencial de Babbage
 date: 2019-03-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

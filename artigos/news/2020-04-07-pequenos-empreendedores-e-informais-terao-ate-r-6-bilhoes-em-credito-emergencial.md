@@ -2,7 +2,7 @@
 title: Pequenos empreendedores e informais terão até R$ 6 bilhões em crédito emergencial
 date: 2020-04-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

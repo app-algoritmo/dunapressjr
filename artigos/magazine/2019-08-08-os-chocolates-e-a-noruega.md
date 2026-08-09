@@ -2,7 +2,7 @@
 title: Os chocolates e a Noruega
 date: 2019-08-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

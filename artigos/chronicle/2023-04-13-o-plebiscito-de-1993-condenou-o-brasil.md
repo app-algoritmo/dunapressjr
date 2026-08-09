@@ -2,7 +2,7 @@
 title: O Plebiscito de 1993 condenou o Brasil
 date: 2023-04-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 - News

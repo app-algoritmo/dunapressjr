@@ -2,7 +2,7 @@
 title: Bolsonaro sanciona MP da Eletrobras com 14 vetos
 date: 2021-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

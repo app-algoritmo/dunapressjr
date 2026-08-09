@@ -2,7 +2,7 @@
 title: Ministério mantém previsão de crescimento da economia em 3,2% este ano
 date: 2021-03-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

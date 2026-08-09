@@ -2,7 +2,7 @@
 title: Twitter aprova selo azul para Duna Press Jornal
 date: 2023-05-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

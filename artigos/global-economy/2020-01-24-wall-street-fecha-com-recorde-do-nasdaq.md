@@ -2,7 +2,7 @@
 title: Wall Street fecha com recorde do Nasdaq
 date: 2020-01-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

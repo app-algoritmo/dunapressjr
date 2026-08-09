@@ -2,7 +2,7 @@
 title: Consórcio vence leilão de iluminação pública de Caruaru
 date: 2022-02-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

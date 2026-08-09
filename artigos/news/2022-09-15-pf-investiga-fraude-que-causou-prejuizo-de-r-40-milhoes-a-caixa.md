@@ -2,7 +2,7 @@
 title: PF investiga fraude que causou prejuízo de R$ 40 milhões à Caixa
 date: 2022-09-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dia Mundial da Água nas escolas
 date: 2018-03-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

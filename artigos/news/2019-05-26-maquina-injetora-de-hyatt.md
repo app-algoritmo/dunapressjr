@@ -2,7 +2,7 @@
 title: Máquina Injetora de Hyatt
 date: 2019-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

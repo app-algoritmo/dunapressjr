@@ -2,7 +2,7 @@
 title: Petrobras lança site com informação sobre preços de combustíveis
 date: 2022-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

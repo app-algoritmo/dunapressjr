@@ -2,7 +2,7 @@
 title: Prazos de formalização e aditamento do Fies prorrogados pelo FNDE
 date: 2020-06-29
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

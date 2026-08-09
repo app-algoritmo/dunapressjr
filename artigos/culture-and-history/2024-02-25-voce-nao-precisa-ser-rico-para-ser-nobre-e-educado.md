@@ -2,7 +2,7 @@
 title: Você não precisa ser rico para ser nobre e educado
 date: 2024-02-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Culture and History
 ---

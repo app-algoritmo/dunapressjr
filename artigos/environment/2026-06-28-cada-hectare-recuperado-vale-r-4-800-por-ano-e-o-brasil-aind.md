@@ -3,7 +3,7 @@ title: "Cada hectare recuperado vale R$ 4.800 por ano — e o Brasil ainda não 
 subtitle: "Um estudo inédito publicado em junho de 2026 pela FAPESP quantifica o valor econômico dos serviços ecossistêmicos da Amazônia restaurada, recolocando o debate florestal no terreno dos números, não das emoções."
 date: 2026-06-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - environment
 description: "Pesquisa da FAPESP revela que cada hectare de floresta amazônica recuperada gera R$ 4.800 anuais em serviços ecossistêmicos mensuráveis — valor que o Estado brasileiro ainda não incorpora em suas políticas fiscais. O dado muda o argumento central do debate ambiental: não se trata mais de preservar contra o desenvolvimento, mas de entender quanto custa não restaurar."

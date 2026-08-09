@@ -2,7 +2,7 @@
 title: Paraíba confirma variante Alpha da Covid-19
 date: 2021-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

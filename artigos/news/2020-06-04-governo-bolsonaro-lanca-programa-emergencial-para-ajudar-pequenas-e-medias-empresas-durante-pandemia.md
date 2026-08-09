@@ -1,5 +1,5 @@
 ---
-title: Governo Bolsonaro  lança Programa Emergencial para ajudar pequenas e médias
+title: Governo Bolsonaro lança Programa Emergencial para ajudar pequenas e médias
   empresas durante pandemia
 date: 2020-06-04
 status: publish

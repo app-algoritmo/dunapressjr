@@ -2,7 +2,7 @@
 title: Twitter censurou 'apenas Trump' com regras diferentes e mais severas
 date: 2022-12-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

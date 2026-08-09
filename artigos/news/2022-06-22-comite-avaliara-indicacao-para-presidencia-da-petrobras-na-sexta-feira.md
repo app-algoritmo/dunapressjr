@@ -2,7 +2,7 @@
 title: Comitê avaliará indicação para presidência da Petrobras na sexta-feira
 date: 2022-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

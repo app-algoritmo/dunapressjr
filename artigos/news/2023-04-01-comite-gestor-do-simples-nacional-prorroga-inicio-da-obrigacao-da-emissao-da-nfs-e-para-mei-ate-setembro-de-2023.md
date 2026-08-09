@@ -3,7 +3,7 @@ title: Comitê Gestor do Simples Nacional prorroga início da obrigação da emi
   NFS-e para MEI até setembro de 2023
 date: 2023-04-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

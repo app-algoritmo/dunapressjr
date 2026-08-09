@@ -2,7 +2,7 @@
 title: Ibovespa fecha em alta leve enquanto dólar recua com dados econômicos americanos
 date: 2023-06-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

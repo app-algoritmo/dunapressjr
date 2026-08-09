@@ -2,7 +2,7 @@
 title: Rede Ebserh registra emoções diárias no combate a pandemia
 date: 2020-07-01
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

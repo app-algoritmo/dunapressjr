@@ -2,7 +2,7 @@
 title: Sondagem da CNI aponta queda na atividade da construção civil
 date: 2020-05-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

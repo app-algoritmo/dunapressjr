@@ -3,7 +3,7 @@ title: 'Grandes Empresas de Tecnologia e o Mercado de Ações 24 Horas: Um Panor
   de Perdas'
 date: 2024-08-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 - World Affairs

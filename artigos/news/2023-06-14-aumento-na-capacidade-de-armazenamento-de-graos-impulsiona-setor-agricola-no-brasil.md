@@ -3,7 +3,7 @@ title: Aumento na capacidade de armazenamento de grãos impulsiona setor agríco
   Brasil
 date: 2023-06-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

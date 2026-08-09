@@ -2,7 +2,7 @@
 title: Conta de luz deve ter bandeira verde até o fim do ano, diz ONS
 date: 2022-04-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

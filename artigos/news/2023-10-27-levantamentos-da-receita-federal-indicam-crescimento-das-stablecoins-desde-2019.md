@@ -3,7 +3,7 @@ title: Levantamentos da Receita Federal indicam crescimento das Stablecoins desd
   2019
 date: 2023-10-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

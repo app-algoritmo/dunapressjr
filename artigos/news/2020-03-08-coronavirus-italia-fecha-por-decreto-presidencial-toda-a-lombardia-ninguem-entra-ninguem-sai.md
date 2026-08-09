@@ -3,7 +3,7 @@ title: Coronavírus, Itália fecha por decreto presidencial, toda a Lombardía, 
   entra, ninguém sai
 date: 2020-03-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

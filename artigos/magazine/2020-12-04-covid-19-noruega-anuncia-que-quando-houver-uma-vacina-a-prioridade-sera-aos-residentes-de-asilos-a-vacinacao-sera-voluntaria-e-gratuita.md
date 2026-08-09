@@ -3,7 +3,7 @@ title: 'Covid-19: Noruega anuncia que quando houver uma vacina, a prioridade ser
   aos residentes de asilos. A vacinação será  voluntária e gratuita'
 date: 2020-12-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

@@ -2,7 +2,7 @@
 title: Indústria cresce em nove dos 15 locais analisados pelo IBGE
 date: 2022-05-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Moto Clubes de Todo o Brasil Convocados para Encontro com Bolsonaro em SÃ
   Paulo
 date: 2024-02-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

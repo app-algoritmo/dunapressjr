@@ -2,7 +2,7 @@
 title: Dívida bruta do Brasil fica perto do nível antes da pandemia
 date: 2022-12-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

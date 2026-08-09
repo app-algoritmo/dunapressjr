@@ -3,7 +3,7 @@ title: 'Bolsonaro''s Coup Trial Takes Dramatic Turn: Justice Fux''s Dissenting V
   Challenges Conviction Amid Evidence Concerns'
 date: 2025-09-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Politics and Society
 ---

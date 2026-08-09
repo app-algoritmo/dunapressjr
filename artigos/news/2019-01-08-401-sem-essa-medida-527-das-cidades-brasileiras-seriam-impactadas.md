@@ -2,7 +2,7 @@
 title: 4.01 Sem essa medida, 52,7% das cidades brasileiras seriam impactadas
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

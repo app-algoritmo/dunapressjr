@@ -2,7 +2,7 @@
 title: Países do Tiar ativam tratado para crise na Venezuela
 date: 2019-09-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

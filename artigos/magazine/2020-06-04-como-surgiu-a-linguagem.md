@@ -2,7 +2,7 @@
 title: Como surgiu a linguagem?
 date: 2020-06-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

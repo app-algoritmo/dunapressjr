@@ -2,7 +2,7 @@
 title: Valor de produção e safra de grãos batem recorde em 2022
 date: 2023-09-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

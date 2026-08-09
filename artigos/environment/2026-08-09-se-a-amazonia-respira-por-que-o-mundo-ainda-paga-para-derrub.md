@@ -3,7 +3,7 @@ title: "Se a Amazônia respira, por que o mundo ainda paga para derrubá-la?"
 subtitle: "O paradoxo entre os bilhões prometidos para preservação florestal e os subsídios silenciosos que ainda financiam o desmatamento revela a maior contradição da diplomacia climática do século."
 date: 2026-08-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - environment
 description: "Enquanto países ricos prometem bilhões para salvar a Amazônia, cadeias de financiamento internacionais ainda sustentam práticas que aceleram o desmatamento — e um grupo de economistas, cientistas e governos estaduais brasileiros decidiu medir essa contradição com precisão inédita. O resultado muda o debate sobre quem, de fato, paga a conta da maior floresta tropical do planeta."

@@ -2,7 +2,7 @@
 title: Inflação de famílias de renda mais baixa sobe 1%, diz Ipea
 date: 2020-12-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

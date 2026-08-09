@@ -2,7 +2,7 @@
 title: Seis em cada dez empresas abertas em 2012 encerraram atividades em cinco anos
 date: 2019-10-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Experiência ajudou Brasil a tomar medidas contra inflação, diz Guedes
 date: 2022-01-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

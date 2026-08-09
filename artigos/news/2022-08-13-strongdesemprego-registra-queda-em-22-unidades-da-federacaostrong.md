@@ -2,7 +2,7 @@
 title: <strong>Desemprego registra queda em 22 unidades da federação</strong>
 date: 2022-08-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

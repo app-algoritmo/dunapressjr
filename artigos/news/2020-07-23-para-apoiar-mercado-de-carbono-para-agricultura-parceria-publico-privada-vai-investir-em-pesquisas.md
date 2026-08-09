@@ -3,7 +3,7 @@ title: Para apoiar mercado de carbono para agricultura, parceria público-privad
   investir em pesquisas
 date: 2020-07-23
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

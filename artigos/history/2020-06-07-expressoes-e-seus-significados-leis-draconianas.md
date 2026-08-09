@@ -2,7 +2,7 @@
 title: 'Expressões e seus significados: Leis Draconianas'
 date: 2020-06-07
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

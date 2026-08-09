@@ -2,7 +2,7 @@
 title: 'Noruega: construir, vender ou alugar?'
 date: 2018-11-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Business and Economy
 - Magazine

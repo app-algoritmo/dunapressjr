@@ -2,7 +2,7 @@
 title: INCC-M de agosto registra variação de 0,24%, segundo dados da FGV/IBGR
 date: 2023-08-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

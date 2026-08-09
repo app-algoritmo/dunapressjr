@@ -3,7 +3,7 @@ title: Códigos da Tabela de Incidência de IPI são modificados para adequaçã
   Comum do Mercosul
 date: 2023-03-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

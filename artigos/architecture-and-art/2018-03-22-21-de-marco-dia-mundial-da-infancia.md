@@ -2,7 +2,7 @@
 title: '21 de março: Dia Mundial da Infância'
 date: 2018-03-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 - Education

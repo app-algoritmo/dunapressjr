@@ -2,7 +2,7 @@
 title: Mãe criou na gestação o hábito de leitura para a criança
 date: 2020-05-20
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Education
 ---

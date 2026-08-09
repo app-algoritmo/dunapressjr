@@ -2,7 +2,7 @@
 title: Câmara aprova em 1º turno PEC do piso salarial para enfermagem
 date: 2022-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

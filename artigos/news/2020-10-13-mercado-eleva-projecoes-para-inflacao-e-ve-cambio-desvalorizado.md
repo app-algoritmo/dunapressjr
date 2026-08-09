@@ -2,7 +2,7 @@
 title: Mercado eleva projeções para inflação e vê câmbio desvalorizado
 date: 2020-10-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Setor de serviços da Paraíba lidera crescimento no Nordeste em janeiro,
   IBGE
 date: 2023-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

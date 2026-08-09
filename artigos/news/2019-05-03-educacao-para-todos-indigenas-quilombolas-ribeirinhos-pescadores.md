@@ -2,7 +2,7 @@
 title: 'Educação para todos: indígenas, quilombolas, ribeirinhos, pescadores...'
 date: 2019-05-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

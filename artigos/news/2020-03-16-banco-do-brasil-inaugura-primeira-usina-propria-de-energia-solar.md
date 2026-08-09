@@ -2,7 +2,7 @@
 title: Banco do Brasil inaugura primeira usina própria de energia solar
 date: 2020-03-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

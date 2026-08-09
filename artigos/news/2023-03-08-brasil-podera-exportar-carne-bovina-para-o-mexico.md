@@ -2,7 +2,7 @@
 title: Brasil poderá exportar carne bovina para o México
 date: 2023-03-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

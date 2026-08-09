@@ -2,7 +2,7 @@
 title: Um universo no qual as leis de Newton são apenas parcialmente válidas
 date: 2020-06-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

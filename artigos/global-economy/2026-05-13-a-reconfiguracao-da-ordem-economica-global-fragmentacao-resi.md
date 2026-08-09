@@ -2,7 +2,7 @@
 title: "A Reconfiguração da Ordem Econômica Global: Fragmentação, Resiliência e os Novos Eixos de Poder em 2026"
 date: 2026-05-13
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-economy
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778733864/A_Reconfigurac%CC%A7a%CC%83o_da_Ordem_Econo%CC%82mica_Global-_Fragmentac%CC%A7a%CC%83o_Resilie%CC%82ncia_e_os_Novos_Eixos_de_Poder_em_2026_aaqajp.jpg"

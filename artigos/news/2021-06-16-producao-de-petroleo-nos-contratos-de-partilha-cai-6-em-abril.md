@@ -2,7 +2,7 @@
 title: Produção de petróleo nos contratos de partilha cai 6% em abril
 date: 2021-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

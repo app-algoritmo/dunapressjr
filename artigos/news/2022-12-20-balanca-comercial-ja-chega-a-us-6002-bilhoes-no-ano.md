@@ -2,7 +2,7 @@
 title: Balança comercial já chega a US$ 60,02 bilhões no ano
 date: 2022-12-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

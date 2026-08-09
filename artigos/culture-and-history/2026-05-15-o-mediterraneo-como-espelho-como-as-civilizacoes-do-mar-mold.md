@@ -3,7 +3,7 @@ title: "O Mediterrâneo como Espelho: Como as Civilizações do Mar Moldaram a I
 subtitle: "Da Fenícia a Cartago, de Atenas a Roma, o mare nostrum não foi apenas palco da história — foi o laboratório onde a humanidade ensaiou suas maiores apostas civilizacionais"
 date: 2026-05-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - culture-and-history
 description: "Uma análise aprofundada sobre o papel do Mediterrâneo como nexo civilizacional, explorando como as culturas que floresceram em suas margens criaram os fundamentos filosóficos, jurídicos, artísticos e comerciais que ainda sustentam o mundo contemporâneo — e por que revisitar esse legado importa mais do que nunca em tempos de fragmentação global."

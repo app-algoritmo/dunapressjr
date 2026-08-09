@@ -2,7 +2,7 @@
 title: 'Lojas Americanas: PGR é a favor da exclusão de e-mails de advogados'
 date: 2023-03-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

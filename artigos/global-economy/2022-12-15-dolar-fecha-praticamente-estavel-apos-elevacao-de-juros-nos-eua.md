@@ -2,7 +2,7 @@
 title: Dólar fecha praticamente estável após elevação de juros nos EUA
 date: 2022-12-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

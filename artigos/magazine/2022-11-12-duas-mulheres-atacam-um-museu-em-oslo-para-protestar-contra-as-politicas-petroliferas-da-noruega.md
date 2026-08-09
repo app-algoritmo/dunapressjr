@@ -3,7 +3,7 @@ title: Duas mulheres atacam um museu em Oslo para protestar contra as políticas
   da Noruega
 date: 2022-11-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - News

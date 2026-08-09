@@ -3,7 +3,7 @@ title: "O Brasil treina mais atletas de alto rendimento do que em qualquer outro
 subtitle: "Com recorde de 1.847 bolsistas no programa Bolsa Atleta em 2026 e investimento federal acima de R$ 1,2 bilhão no ciclo olímpico, o país enfrenta o paradoxo de nunca ter investido tanto e ainda depender de um punhado de nomes para não sair de mãos vazias no pódio dourado."
 date: 2026-06-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - olympic-games
 description: "O Brasil bate recordes históricos de investimento e formação de atletas olímpicos, mas a estrutura que transforma dinheiro em ouro ainda é frágil e concentrada em poucos esportes. Com Los Angeles 2028 a dois anos, a janela para corrigir esse paradoxo está fechando."

@@ -2,7 +2,7 @@
 title: Comissão analisa uso do FGTS em cursos de nível superior e cirurgias
 date: 2019-08-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

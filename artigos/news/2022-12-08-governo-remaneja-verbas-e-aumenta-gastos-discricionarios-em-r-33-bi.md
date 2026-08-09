@@ -2,7 +2,7 @@
 title: Governo remaneja verbas e aumenta gastos discricionários em R$ 3,3 bi
 date: 2022-12-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

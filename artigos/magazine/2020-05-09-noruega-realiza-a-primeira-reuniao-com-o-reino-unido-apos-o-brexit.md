@@ -2,7 +2,7 @@
 title: Noruega realiza a primeira reunião com o Reino Unido após o Brexit
 date: 2020-05-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

@@ -2,7 +2,7 @@
 title: Último dia do ano para você saber disso
 date: 2018-12-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

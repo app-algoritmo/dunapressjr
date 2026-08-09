@@ -2,7 +2,7 @@
 title: Confiança da Construção Civil cai 1,7 ponto em janeiro
 date: 2023-01-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

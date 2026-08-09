@@ -3,7 +3,7 @@ title: Completando 160 anos, Ministério da Agricultura prevê crescimento de 27
   produção de grãos do país na próxima década
 date: 2020-07-28
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

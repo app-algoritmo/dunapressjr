@@ -2,7 +2,7 @@
 title: Biblioteca de Tønsberg se prepara para o Natal
 date: 2018-11-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Confiança da indústria recua depois de oito meses em alta, diz FGV
 date: 2021-01-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

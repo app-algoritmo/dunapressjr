@@ -3,7 +3,7 @@ title: Brasil analisa fim do acordo ortográfico de língua portuguesa que já t
   de Bolsonaro
 date: 2019-09-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

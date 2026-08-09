@@ -2,7 +2,7 @@
 title: O ditador Nicolás Maduro anuncia nova reunião do Foro de São Paulo em Caracas
 date: 2020-01-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

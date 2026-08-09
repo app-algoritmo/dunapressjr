@@ -2,7 +2,7 @@
 title: Abraham Weintraub deixa MEC – gestão limpa e grande legado
 date: 2020-06-18
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

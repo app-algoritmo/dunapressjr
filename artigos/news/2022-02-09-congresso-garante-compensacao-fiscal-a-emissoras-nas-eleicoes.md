@@ -2,7 +2,7 @@
 title: Congresso garante compensação fiscal a emissoras nas eleições
 date: 2022-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

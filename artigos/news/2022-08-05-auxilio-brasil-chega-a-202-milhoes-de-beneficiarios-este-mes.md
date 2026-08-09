@@ -2,7 +2,7 @@
 title: Auxílio Brasil chega a 20,2 milhões de beneficiários este mês
 date: 2022-08-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

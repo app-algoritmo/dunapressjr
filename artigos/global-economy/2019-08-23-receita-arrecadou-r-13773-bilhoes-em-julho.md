@@ -2,7 +2,7 @@
 title: Receita arrecadou R$ 137,73 bilhões em julho
 date: 2019-08-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

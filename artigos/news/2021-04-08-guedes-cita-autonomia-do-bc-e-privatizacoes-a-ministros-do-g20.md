@@ -2,7 +2,7 @@
 title: Guedes cita autonomia do BC e privatizações a ministros do G20
 date: 2021-04-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

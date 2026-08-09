@@ -3,7 +3,7 @@ title: "A Nova Anatomia do Empreendedor Brasileiro: Entre a Resiliência e a Rei
 subtitle: "Em um cenário de juros elevados, acesso restrito ao crédito e transformação tecnológica acelerada, o empreendedorismo no Brasil de 2026 exige mais do que coragem — exige arquitetura estratégica e capacidade de adaptação sistêmica."
 date: 2026-05-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - entrepreneurship
 description: "O perfil do empreendedor brasileiro passou por uma transformação profunda nos últimos três anos. Este artigo analisa os vetores que estão redesenhando o ecossistema empreendedor nacional em 2026, das pressões macroeconômicas às oportunidades abertas pela inteligência artificial e pela descentralização produtiva."

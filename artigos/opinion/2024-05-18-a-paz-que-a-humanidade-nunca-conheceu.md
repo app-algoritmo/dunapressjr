@@ -2,7 +2,7 @@
 title: A Paz que a Humanidade Nunca Conheceu
 date: 2024-05-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Opinion
 ---

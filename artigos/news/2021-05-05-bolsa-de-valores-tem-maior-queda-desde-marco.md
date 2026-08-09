@@ -2,7 +2,7 @@
 title: Bolsa de valores tem maior queda desde março
 date: 2021-05-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

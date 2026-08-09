@@ -2,7 +2,7 @@
 title: Banco Central oficializa redução do compulsório a prazo
 date: 2020-10-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

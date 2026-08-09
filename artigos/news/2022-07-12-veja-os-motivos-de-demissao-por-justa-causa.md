@@ -2,7 +2,7 @@
 title: Veja os motivos de demissão por justa causa
 date: 2022-07-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

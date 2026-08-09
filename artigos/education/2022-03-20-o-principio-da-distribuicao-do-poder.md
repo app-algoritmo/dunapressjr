@@ -2,7 +2,7 @@
 title: O princípio da distribuição do poder
 date: 2022-03-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Policy

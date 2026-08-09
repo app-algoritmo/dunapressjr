@@ -2,7 +2,7 @@
 title: Jornais da Noruega noticiam incêndio no Museu Nacional
 date: 2018-09-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

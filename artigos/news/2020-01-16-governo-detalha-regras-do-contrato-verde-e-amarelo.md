@@ -2,7 +2,7 @@
 title: Governo detalha regras do Contrato Verde e Amarelo
 date: 2020-01-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

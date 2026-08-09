@@ -2,7 +2,7 @@
 title: Pandemia elevou dívida de países emergentes, diz Banco Mundial
 date: 2021-10-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

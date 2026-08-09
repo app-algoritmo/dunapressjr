@@ -3,7 +3,7 @@ title: "O turista que gasta três vezes mais e ainda ajuda a floresta a ficar de
 subtitle: "O segmento de turismo de baixo impacto e alto valor movimentou R$ 4,2 bilhões no Brasil em 2025 e começa a redesenhar quais destinos sobrevivem à próxima década."
 date: 2026-08-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tourism-and-gastronomy
 description: "O turista de alto valor e baixo impacto já responde por R$ 4,2 bilhões da economia do turismo brasileiro e está transformando destinos como o Alto Juruá e o Pantanal Norte em apostas da próxima temporada. Entender quem é esse viajante — e o que ele exige — pode definir quais comunidades e quais biomas saem na frente na corrida por um turismo que paga as contas sem destruir o ativo que vende."

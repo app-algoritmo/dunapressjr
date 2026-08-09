@@ -3,7 +3,7 @@ title: 'Novo Normal: Paraíba tem a maior participação percentual da bandeira 
   em 21 avaliações'
 date: 2021-03-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

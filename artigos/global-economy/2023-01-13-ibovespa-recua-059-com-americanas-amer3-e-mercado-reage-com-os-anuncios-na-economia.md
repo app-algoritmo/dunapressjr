@@ -3,7 +3,7 @@ title: Ibovespa recua 0,59% com Americanas (AMER3) e mercado reage com os anúnc
   na economia
 date: 2023-01-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

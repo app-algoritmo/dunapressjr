@@ -2,7 +2,7 @@
 title: Aneel assina contratos de transmissão que gerarão mais de R$ 7 bilhões em investimentos
 date: 2021-04-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

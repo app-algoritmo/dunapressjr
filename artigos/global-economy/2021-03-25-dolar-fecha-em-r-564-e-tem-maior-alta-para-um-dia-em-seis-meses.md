@@ -2,7 +2,7 @@
 title: Dólar fecha em R$ 5,64 e tem maior alta para um dia em seis meses
 date: 2021-03-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

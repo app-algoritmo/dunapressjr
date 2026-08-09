@@ -3,7 +3,7 @@ title: Taxa de desemprego sobe no primeiro trimestre de 2023, mas ainda apresent
   queda em relação ao ano anterior
 date: 2023-04-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Novo Normal Paraíba: Primeira avaliação de 2021 aponta redução de m
   nas bandeiras vermelha e laranja'
 date: 2021-01-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

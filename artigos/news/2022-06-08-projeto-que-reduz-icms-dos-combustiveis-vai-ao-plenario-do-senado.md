@@ -2,7 +2,7 @@
 title: Projeto que reduz ICMS dos combustíveis vai ao plenário do Senado
 date: 2022-06-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Navegando no Cenário Social com os Headsets Apple Vision Pro de $3,500:
   Nova Fronteira de Interação'
 date: 2024-02-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Lifestyle
 ---

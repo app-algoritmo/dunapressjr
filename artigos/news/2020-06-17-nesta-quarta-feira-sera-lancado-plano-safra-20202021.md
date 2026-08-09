@@ -2,7 +2,7 @@
 title: Nesta quarta-feira será lançado Plano Safra 2020/2021
 date: 2020-06-17
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

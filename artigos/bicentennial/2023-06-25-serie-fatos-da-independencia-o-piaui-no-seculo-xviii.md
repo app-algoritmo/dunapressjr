@@ -1,5 +1,5 @@
 ---
-title: 'Série Fatos Da Independência: O Piauí no Século  XVIII'
+title: 'Série Fatos Da Independência: O Piauí no Século XVIII'
 date: 2023-06-25
 status: publish
 author: Joice Ferreira

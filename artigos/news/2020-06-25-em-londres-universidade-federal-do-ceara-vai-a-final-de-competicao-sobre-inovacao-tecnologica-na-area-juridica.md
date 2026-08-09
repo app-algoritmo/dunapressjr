@@ -3,7 +3,7 @@ title: Em Londres, Universidade Federal do Ceará vai à final de competição s
   tecnológica na área jurídica
 date: 2020-06-25
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

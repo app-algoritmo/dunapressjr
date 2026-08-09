@@ -3,7 +3,7 @@ title: 'Ataque Terrorista em Israel: Infiltração do Hamas e Ataques de Foguete
   o País'
 date: 2023-10-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: Dólar fecha estável, vendido a R$ 5,17, em dia de volatilidade
 date: 2022-08-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Recorde na contratação do crédito rural, com mais de R$ 24 bilhões
 date: 2020-08-06
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

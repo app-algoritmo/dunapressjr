@@ -2,7 +2,7 @@
 title: 'Brasil em chamas: O depoimento de Shellenberger'
 date: 2024-05-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Social networks
 ---

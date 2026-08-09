@@ -1,5 +1,5 @@
 ---
-title: STF julgará neste mês os  invasores do 8 de janeiro
+title: STF julgará neste mês os invasores do 8 de janeiro
 date: 2023-09-02
 status: publish
 author: Edicleia Alves Lima

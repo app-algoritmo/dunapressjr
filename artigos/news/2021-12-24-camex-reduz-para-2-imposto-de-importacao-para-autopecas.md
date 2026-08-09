@@ -2,7 +2,7 @@
 title: Camex reduz para 2% Imposto de Importação para autopeças
 date: 2021-12-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

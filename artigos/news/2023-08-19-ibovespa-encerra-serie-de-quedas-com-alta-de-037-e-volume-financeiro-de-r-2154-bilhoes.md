@@ -3,7 +3,7 @@ title: Ibovespa encerra série de quedas com alta de 0,37% e volume financeiro d
   21,54 bilhões
 date: 2023-08-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

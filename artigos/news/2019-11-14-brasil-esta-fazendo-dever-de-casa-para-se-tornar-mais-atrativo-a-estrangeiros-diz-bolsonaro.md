@@ -3,7 +3,7 @@ title: Brasil está fazendo dever de casa para se tornar mais atrativo a estrang
   diz Bolsonaro
 date: 2019-11-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

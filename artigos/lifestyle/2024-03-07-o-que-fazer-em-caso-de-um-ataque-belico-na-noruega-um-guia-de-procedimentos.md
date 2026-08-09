@@ -2,7 +2,7 @@
 title: 'O que fazer em caso de um ataque bélico na Noruega: Um guia de procedimentos'
 date: 2024-03-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Lifestyle
 - News

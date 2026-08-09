@@ -2,7 +2,7 @@
 title: Câmara aprova PEC dos Benefícios Sociais em segundo turno
 date: 2022-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

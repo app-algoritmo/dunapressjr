@@ -2,7 +2,7 @@
 title: Programa Garantia Safra – Consulta online para agricultores
 date: 2020-05-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: BC poderá pedir justificativa se bancos negarem crédito
 date: 2020-03-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

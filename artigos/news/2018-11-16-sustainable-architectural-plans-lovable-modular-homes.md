@@ -2,7 +2,7 @@
 title: 'Sustainable Architectural Plans: lovable modular homes'
 date: 2018-11-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

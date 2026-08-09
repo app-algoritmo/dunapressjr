@@ -2,7 +2,7 @@
 title: Brasil tem fertilizantes até outubro, garante ministra da Agricultura
 date: 2022-03-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Conheça São Vicente a Cappella, o coral brasileiro que ganhou festival na Áustria
 date: 2019-07-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 ---

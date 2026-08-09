@@ -3,7 +3,7 @@ title: "O turista que gasta R$ 4.800 por dia está escolhendo o Pantanal — e o
 subtitle: "O segmento de alto padrão cresce 34% no Brasil enquanto destinos tradicionais disputam espaço com roteiros que transformam biodiversidade em experiência econômica real."
 date: 2026-06-07
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tourism-and-gastronomy
 description: "O turismo de natureza de alto padrão cresce no Brasil a um ritmo que supera Maldivas e Costa Rica em atratividade para o segmento de luxo internacional, mas a infraestrutura e a cadeia local ainda correm atrás para capturar essa renda. Entender quem é esse viajante — e o que ele procura — é a aposta mais concreta de desenvolvimento regional dos próximos cinco anos."

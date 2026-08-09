@@ -3,7 +3,7 @@ title: "Tesouro Direto bateu R$ 130 bilhões em resgates em 2025 — e o dinheir
 subtitle: "A debandada do investidor pessoa física do título público mais popular do Brasil revela uma reconfiguração silenciosa na carteira da classe média, com CRIs, CRAs e fundos de crédito privado absorvendo o fluxo."
 date: 2026-07-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - finances
 description: "Em 2025, o Tesouro Direto registrou o maior volume de resgates líquidos da sua história, com saída superior a R$ 130 bilhões, enquanto o investidor de varejo migrou em massa para crédito privado isento de IR. Entender para onde foi esse dinheiro — e se faz sentido seguir o movimento — é a decisão financeira mais relevante de 2026 para quem tem entre R$ 50 mil e R$ 500 mil investidos."

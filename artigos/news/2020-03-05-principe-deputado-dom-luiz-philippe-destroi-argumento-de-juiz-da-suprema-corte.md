@@ -2,7 +2,7 @@
 title: Príncipe Deputado Dom Luiz Philippe, destrói argumento de juiz da suprema corte
 date: 2020-03-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

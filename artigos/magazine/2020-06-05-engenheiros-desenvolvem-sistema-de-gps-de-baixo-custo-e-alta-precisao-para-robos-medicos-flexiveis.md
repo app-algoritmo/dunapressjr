@@ -3,7 +3,7 @@ title: Engenheiros desenvolvem sistema de GPS de baixo custo e alta precisão pa
   robôs médicos flexíveis
 date: 2020-06-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

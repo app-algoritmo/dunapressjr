@@ -2,7 +2,7 @@
 title: Bolsa perde fôlego e cai após tributos sobre combustíveis no radar
 date: 2023-02-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

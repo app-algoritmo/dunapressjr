@@ -2,7 +2,7 @@
 title: 'Grande Plano do Hamas: Revelando a Extensão do Ataque de 7 de Outubro'
 date: 2023-11-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

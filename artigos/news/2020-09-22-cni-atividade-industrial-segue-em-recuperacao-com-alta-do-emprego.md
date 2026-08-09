@@ -2,7 +2,7 @@
 title: 'CNI: atividade industrial segue em recuperação com alta do emprego'
 date: 2020-09-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

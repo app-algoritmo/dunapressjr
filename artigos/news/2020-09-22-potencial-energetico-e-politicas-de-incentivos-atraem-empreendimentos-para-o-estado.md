@@ -3,7 +3,7 @@ title: Potencial energético e políticas de incentivos atraem empreendimentos p
   o Estado
 date: 2020-09-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

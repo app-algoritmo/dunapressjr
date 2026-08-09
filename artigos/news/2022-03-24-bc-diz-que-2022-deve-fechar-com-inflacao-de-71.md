@@ -2,7 +2,7 @@
 title: BC diz que 2022 deve fechar com inflação de 7,1%
 date: 2022-03-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

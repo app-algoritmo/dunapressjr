@@ -1,5 +1,5 @@
 ---
-title: Empregos no turismo tiveram um crescimento de  3,2% nos meses novembro a janeiro
+title: Empregos no turismo tiveram um crescimento de 3,2% nos meses novembro a janeiro
 date: 2020-03-04
 status: publish
 author: Joice Ferreira

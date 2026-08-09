@@ -2,7 +2,7 @@
 title: Planalto sanciona transferência da cessão onerosa para estados e municípios
 date: 2019-12-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Disponível 11º episódio da playlist “Era uma vez” no Spotify
 date: 2020-08-04
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar fecha em R$ 4,66 e alcança menor valor em dois anos
 date: 2022-04-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

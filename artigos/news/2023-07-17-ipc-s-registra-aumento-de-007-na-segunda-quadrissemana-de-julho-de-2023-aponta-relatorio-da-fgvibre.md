@@ -3,7 +3,7 @@ title: IPC-S registra aumento de 0,07% na segunda quadrissemana de julho de 2023
   aponta relatório da FGV/Ibre
 date: 2023-07-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

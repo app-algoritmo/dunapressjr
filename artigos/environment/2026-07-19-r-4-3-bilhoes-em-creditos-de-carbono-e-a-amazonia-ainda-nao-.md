@@ -3,7 +3,7 @@ title: "R$ 4,3 bilhões em créditos de carbono e a Amazônia ainda não sabe se
 subtitle: "O mercado voluntário de carbono movimentou cifras recordes em 2025, mas o abismo entre o dinheiro prometido às florestas tropicais e o que chega às comunidades que as guardam está se tornando o maior escândalo silencioso da agenda climática global."
 date: 2026-07-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - environment
 description: "O mercado voluntário de carbono bateu US$ 2,3 bilhões em transações globais em 2025, com a Amazônia como principal ativo — mas auditores independentes identificaram que menos de 12% desse valor chegou efetivamente às regiões produtoras. Com novas regras do Article 6 do Acordo de Paris prestes a entrar em vigor em janeiro de 2027, o Brasil tem uma janela de 18 meses para decidir se será protagonista ou figurante nessa reconfiguração."

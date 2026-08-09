@@ -2,7 +2,7 @@
 title: As Consequências Desastrosas da Tentativa dos EUA de Eliminar a Rússia
 date: 2023-12-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

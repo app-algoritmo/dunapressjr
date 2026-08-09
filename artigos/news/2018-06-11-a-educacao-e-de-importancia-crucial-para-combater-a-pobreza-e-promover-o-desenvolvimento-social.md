@@ -3,7 +3,7 @@ title: A educação é de importância crucial para combater a pobreza e promove
   social.
 date: 2018-06-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

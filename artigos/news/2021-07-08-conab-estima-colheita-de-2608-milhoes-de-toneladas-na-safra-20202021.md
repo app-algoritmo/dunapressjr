@@ -2,7 +2,7 @@
 title: Conab estima colheita de 260,8 milhões de toneladas na safra 2020/2021
 date: 2021-07-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

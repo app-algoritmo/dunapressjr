@@ -3,7 +3,7 @@ title: "O Brasil vai mesmo construir um submarino nuclear até 2034 — ou essa 
 subtitle: "Com o Álvaro Alberto em fase de integração em Itaguaí e o orçamento de defesa sob pressão fiscal, o Programa Nuclear da Marinha entra na década decisiva que dirá se o Brasil entra ou não no seleto clube das potências submarinas."
 date: 2026-06-11
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - military
 description: "O Programa de Desenvolvimento de Submarinos da Marinha do Brasil (PROSUB) chega a 2026 com o casco do submarino de propulsão nuclear Álvaro Alberto em montagem final — mas enfrenta gargalos técnicos, pressão orçamentária e um cenário geopolítico no Atlântico Sul que tornou o projeto mais urgente e mais complicado ao mesmo tempo. Entender os bastidores dessa aposta é entender para onde o Brasil quer projetar poder nas próximas décadas."

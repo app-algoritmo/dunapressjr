@@ -3,7 +3,7 @@ title: Reajuste salarial mediano supera inflação em 1,5 ponto percentual em ma
   aponta Salariômetro
 date: 2023-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

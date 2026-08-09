@@ -2,7 +2,7 @@
 title: Ataque com drones atinge Moscou em rara ofensiva contra a capital russa
 date: 2023-05-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: 'Pandemias na História: Peste Negra e o Novo Olhar do Homem'
 date: 2020-04-22
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

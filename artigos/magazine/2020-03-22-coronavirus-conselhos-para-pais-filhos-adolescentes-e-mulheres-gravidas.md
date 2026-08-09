@@ -2,7 +2,7 @@
 title: Coronavírus, conselhos para pais, filhos, adolescentes e mulheres grávidas
 date: 2020-03-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

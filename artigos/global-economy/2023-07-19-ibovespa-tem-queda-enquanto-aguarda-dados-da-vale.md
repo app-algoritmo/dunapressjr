@@ -2,7 +2,7 @@
 title: Ibovespa tem queda enquanto aguarda dados da Vale
 date: 2023-07-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

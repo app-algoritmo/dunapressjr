@@ -2,7 +2,7 @@
 title: Produção de veículos tem alta de 19,3% em setembro, informa Anfavea
 date: 2022-10-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

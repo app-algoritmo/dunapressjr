@@ -2,7 +2,7 @@
 title: Arrecadação federal cresce 1,41% e bate recorde em novembro
 date: 2021-12-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

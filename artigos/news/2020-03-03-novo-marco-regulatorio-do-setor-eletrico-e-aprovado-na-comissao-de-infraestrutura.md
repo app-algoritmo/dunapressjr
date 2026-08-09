@@ -2,7 +2,7 @@
 title: Novo marco regulatório do setor elétrico é aprovado na Comissão de Infraestrutura
 date: 2020-03-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

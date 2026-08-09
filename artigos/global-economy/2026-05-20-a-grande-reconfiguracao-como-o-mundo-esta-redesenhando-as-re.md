@@ -3,7 +3,7 @@ title: "A Grande Reconfiguração: Como o Mundo Está Redesenhando as Regras do 
 subtitle: "Entre fragmentação geopolítica, novas alianças monetárias e a ascensão dos mercados do Sul Global, a economia mundial atravessa uma transformação estrutural sem precedentes desde Bretton Woods"
 date: 2026-05-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-economy
 description: "A economia global de 2026 não opera mais sob a lógica da hiperglobalização dos anos 1990. Uma análise aprofundada sobre as forças que estão redesenhando o mapa do poder econômico mundial, das novas rotas comerciais ao declínio relativo do dólar como moeda de reserva universal."

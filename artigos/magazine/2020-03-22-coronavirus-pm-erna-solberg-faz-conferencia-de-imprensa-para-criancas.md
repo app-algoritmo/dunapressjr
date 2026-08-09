@@ -2,7 +2,7 @@
 title: Coronavírus, PM Erna Solberg faz conferência de imprensa para crianças
 date: 2020-03-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

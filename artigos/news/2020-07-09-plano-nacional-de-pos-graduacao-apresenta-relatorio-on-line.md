@@ -2,7 +2,7 @@
 title: Plano Nacional de pós-graduação apresenta relatório on-line
 date: 2020-07-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

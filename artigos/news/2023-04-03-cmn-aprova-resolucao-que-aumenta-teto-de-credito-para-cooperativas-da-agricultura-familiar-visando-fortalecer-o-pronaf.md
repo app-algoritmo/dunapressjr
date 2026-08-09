@@ -3,7 +3,7 @@ title: CMN aprova resolução que aumenta teto de crédito para cooperativas da 
   familiar, visando fortalecer o Pronaf
 date: 2023-04-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

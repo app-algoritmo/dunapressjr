@@ -3,7 +3,7 @@ title: Desempenho do setor de serviços brasileiro apresenta recuo em setembro, 
   dados do IBGE
 date: 2023-11-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

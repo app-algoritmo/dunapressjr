@@ -2,7 +2,7 @@
 title: Polícia Federal deflagra operação contra desvios no FNDE
 date: 2022-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

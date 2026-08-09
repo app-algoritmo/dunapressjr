@@ -2,7 +2,7 @@
 title: Petrobras conclui venda da Gaspetro para Compass
 date: 2022-07-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

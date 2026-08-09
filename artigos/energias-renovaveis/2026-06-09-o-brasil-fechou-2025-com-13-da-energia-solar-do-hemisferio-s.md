@@ -3,7 +3,7 @@ title: "O Brasil fechou 2025 com 13% da energia solar do hemisfério sul — e a
 subtitle: "Enquanto Europa e China disputam a liderança da transição energética global, o Brasil acumula silenciosamente uma das matrizes renováveis mais diversificadas do planeta — e começa a transformar isso em moeda geopolítica."
 date: 2026-06-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - energias-renovaveis
 description: "O Brasil encerrou 2025 com capacidade instalada de energia solar superior a 47 GW, consolidando-se como terceiro maior mercado fotovoltaico do mundo — um ativo estratégico que o país ainda não aprendeu a negociar na mesa global. O momento é decisivo: a disputa por investimentos em energia limpa entre 2026 e 2030 vai redesenhar alianças comerciais, e o Brasil está sentado em cima de uma vantagem que pode durar décadas ou ser desperdiçada em uma janela de quatro anos."

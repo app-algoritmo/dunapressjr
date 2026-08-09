@@ -2,7 +2,7 @@
 title: Sistema para auxílio no combate à Covid 19 desenvolvido pela UFSCar
 date: 2020-07-14
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

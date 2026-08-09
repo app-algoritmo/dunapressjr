@@ -2,7 +2,7 @@
 title: Brasil deve ter a maior temporada de cruzeiros dos últimos 10 anos
 date: 2022-07-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

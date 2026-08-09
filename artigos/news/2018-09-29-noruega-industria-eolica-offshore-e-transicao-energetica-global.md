@@ -2,7 +2,7 @@
 title: 'Noruega: indústria eólica offshore e transição energética global'
 date: 2018-09-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

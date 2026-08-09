@@ -3,7 +3,7 @@ title: "O Brasil treina 14 horas por dia para os Jogos de 2028 — e ainda não 
 subtitle: "A virada geracional do esporte olímpico brasileiro está em curso, mas o modelo de financiamento público-privado que sustenta os atletas de alto rendimento chegou a um ponto de tensão inédito a dois anos de Los Angeles."
 date: 2026-08-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - sports
 description: "A nova geração de atletas olímpicos brasileiros treina com intensidade recorde, mas o financiamento que sustenta esse esforço está distribuído de forma desigual entre modalidades e regiões. Com Los Angeles 2028 a dois anos, o país precisa decidir se quer medalhas ou um sistema esportivo de verdade."

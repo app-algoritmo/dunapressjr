@@ -1,5 +1,5 @@
 ---
-title: Governo anuncia cobertura banda larga móvel 4G e  WiFi  em Marajó
+title: Governo anuncia cobertura banda larga móvel 4G e WiFi em Marajó
 date: 2020-10-12
 status: publish
 author: Joice Ferreira

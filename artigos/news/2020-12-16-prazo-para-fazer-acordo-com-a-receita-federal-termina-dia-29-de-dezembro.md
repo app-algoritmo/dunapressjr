@@ -2,7 +2,7 @@
 title: Prazo para fazer acordo com a Receita Federal termina dia 29 de dezembro
 date: 2020-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Rei Harald da Noruega concede o Prêmio da Associação Nacional de Pesqu
   Saúde Pública à Ulrik Wisløff
 date: 2020-02-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

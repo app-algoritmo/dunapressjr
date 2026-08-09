@@ -2,7 +2,7 @@
 title: Estradas federais têm 11 interdições e sete bloqueios, diz PRF
 date: 2022-11-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

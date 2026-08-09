@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,25 e tem maior alta semanal em dois meses
 date: 2022-09-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

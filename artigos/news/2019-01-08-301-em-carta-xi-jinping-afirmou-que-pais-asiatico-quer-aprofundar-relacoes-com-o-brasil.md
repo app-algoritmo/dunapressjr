@@ -3,7 +3,7 @@ title: 3.01 Em carta, Xi Jinping afirmou que país asiático quer aprofundar rel
   com o Brasil
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

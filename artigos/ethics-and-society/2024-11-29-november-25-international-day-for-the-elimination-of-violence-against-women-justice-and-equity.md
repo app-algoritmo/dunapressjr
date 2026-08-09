@@ -3,7 +3,7 @@ title: 'November 25: International Day for the Elimination of Violence Against W
   Justice and Equity'
 date: 2024-11-29
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Ethics and Society
 - World Affairs

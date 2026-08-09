@@ -2,7 +2,7 @@
 title: Contas externas têm saldo negativo de US$ 12,5 bi em 2020
 date: 2021-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

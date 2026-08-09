@@ -2,7 +2,7 @@
 title: Pessoas físicas não poderão ser cobradas por uso do Pix
 date: 2020-10-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

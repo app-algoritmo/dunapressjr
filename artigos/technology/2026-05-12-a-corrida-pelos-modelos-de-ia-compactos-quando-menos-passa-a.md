@@ -2,7 +2,7 @@
 title: "A Corrida pelos Modelos de IA Compactos: Quando Menos Passa a Ser Mais"
 date: 2026-05-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - technology
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778651999/A_Corrida_pelos_Modelos_de_IA_Compactos-_Quando_Menos_Passa_a_Ser_Mais_sfhit1.jpg"

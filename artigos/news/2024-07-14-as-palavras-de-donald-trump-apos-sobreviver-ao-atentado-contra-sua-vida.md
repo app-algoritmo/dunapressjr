@@ -2,7 +2,7 @@
 title: As palavras de Donald Trump após sobreviver ao atentado contra sua vida
 date: 2024-07-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - World Affairs

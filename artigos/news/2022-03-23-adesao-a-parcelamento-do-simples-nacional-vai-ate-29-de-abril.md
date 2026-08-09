@@ -2,7 +2,7 @@
 title: Adesão a parcelamento do Simples Nacional vai até 29 de abril
 date: 2022-03-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: São Paulo abriu nesta segunda-feira quinto fórum global do agronegócio
 date: 2022-07-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

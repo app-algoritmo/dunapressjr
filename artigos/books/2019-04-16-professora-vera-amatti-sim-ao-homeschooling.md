@@ -2,7 +2,7 @@
 title: 'Professora Vera Amatti: sim ao Homeschooling!'
 date: 2019-04-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

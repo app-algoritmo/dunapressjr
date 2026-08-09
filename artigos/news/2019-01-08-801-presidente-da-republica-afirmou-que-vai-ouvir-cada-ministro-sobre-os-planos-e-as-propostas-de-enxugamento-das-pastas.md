@@ -3,7 +3,7 @@ title: 8.01 Presidente da República afirmou que vai ouvir cada ministro sobre o
   e as propostas de enxugamento das pastas
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

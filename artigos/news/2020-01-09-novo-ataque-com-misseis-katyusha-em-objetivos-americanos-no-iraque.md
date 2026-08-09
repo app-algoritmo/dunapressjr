@@ -2,7 +2,7 @@
 title: Novo ataque com mísseis Katyusha em objetivos americanos no Iraque
 date: 2020-01-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

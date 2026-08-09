@@ -2,7 +2,7 @@
 title: Governo federal paga R$ 1,14 bilhão em dívidas de estados em fevereiro
 date: 2022-03-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

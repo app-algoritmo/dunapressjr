@@ -3,7 +3,7 @@ title: Fontes eólica e solar transformam região Nordeste em exportadora líqui
   energia elétrica
 date: 2022-03-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

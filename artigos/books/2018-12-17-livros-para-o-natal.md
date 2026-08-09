@@ -2,7 +2,7 @@
 title: Livros para o Natal
 date: 2018-12-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

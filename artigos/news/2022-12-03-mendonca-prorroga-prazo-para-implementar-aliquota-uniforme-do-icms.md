@@ -2,7 +2,7 @@
 title: Mendonça prorroga prazo para implementar alíquota uniforme do ICMS
 date: 2022-12-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

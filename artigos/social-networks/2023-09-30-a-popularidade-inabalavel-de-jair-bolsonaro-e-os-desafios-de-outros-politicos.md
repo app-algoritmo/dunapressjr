@@ -2,7 +2,7 @@
 title: A Popularidade Inabalável de Jair Bolsonaro e os Desafios de Outros Políticos
 date: 2023-09-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Social networks
 ---

@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,12 e fecha terceira semana seguida de queda
 date: 2020-12-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

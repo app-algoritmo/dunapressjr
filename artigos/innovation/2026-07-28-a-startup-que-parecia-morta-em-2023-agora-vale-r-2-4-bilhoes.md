@@ -3,7 +3,7 @@ title: "A startup que parecia morta em 2023 agora vale R$ 2,4 bilhões — e o s
 subtitle: "O caso da Dock, fintech brasileira de infraestrutura, revela como o ecossistema nacional está aprendendo a crescer subtraindo, não somando — uma virada silenciosa que redefine o que significa escalar no Brasil."
 date: 2026-07-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - innovation
 description: "Quando o mercado decretava o fim do ciclo de ouro das fintechs brasileiras, a Dock escolheu desmontar metade do que havia construído — e essa aposta contraintuitiva transformou a empresa em referência global de infraestrutura financeira. O movimento dela ilustra uma tendência mais ampla: a geração de startups que sobreviveu ao inverno de 2022-2024 aprendeu que foco radical é mais valioso do que crescimento horizontal."

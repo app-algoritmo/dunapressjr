@@ -2,7 +2,7 @@
 title: Ibovespa termina o dia em baixa, mas fecha a semana em alta
 date: 2023-01-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

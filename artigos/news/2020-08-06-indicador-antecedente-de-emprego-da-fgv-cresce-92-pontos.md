@@ -2,7 +2,7 @@
 title: Indicador Antecedente de Emprego da FGV cresce 9,2 pontos
 date: 2020-08-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Câmara do TCE/PB julga irregularidades despesas de R$ 17,1 milhões em e
   do Empreender-JP para servidores
 date: 2020-12-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

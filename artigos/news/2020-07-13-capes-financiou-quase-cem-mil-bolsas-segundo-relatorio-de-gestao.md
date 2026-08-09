@@ -2,7 +2,7 @@
 title: Capes financiou quase cem mil bolsas, segundo relatório de gestão
 date: 2020-07-13
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

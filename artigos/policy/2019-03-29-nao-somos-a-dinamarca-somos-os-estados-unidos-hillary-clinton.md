@@ -2,7 +2,7 @@
 title: “Não somos a Dinamarca, somos os Estados Unidos” (Hillary Clinton)
 date: 2019-03-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

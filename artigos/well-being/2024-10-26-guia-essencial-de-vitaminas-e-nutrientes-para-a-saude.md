@@ -2,7 +2,7 @@
 title: Guia Essencial de Vitaminas e Nutrientes para a Saúde
 date: 2024-10-26
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Well-being
 ---

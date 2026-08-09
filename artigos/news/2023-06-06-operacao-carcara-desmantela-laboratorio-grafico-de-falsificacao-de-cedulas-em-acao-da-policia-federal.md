@@ -3,7 +3,7 @@ title: Operação Carcará desmantela laboratório gráfico de falsificação de
   em ação da Polícia Federal
 date: 2023-06-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

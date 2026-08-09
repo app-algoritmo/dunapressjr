@@ -2,7 +2,7 @@
 title: Em 21 de Julho termina prazo para recurso e reconsideração de Cursos Novos
 date: 2020-07-20
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

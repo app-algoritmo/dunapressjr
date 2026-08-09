@@ -3,7 +3,7 @@ title: Banco de dados para empresas e cooperativas comprometidas com ética e in
   no agro
 date: 2020-06-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

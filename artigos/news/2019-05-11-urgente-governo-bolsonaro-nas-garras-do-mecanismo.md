@@ -2,7 +2,7 @@
 title: 'Urgente: Governo Bolsonaro nas garras do mecanismo'
 date: 2019-05-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

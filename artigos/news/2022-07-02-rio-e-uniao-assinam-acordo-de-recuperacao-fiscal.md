@@ -2,7 +2,7 @@
 title: Rio e União assinam acordo de recuperação fiscal
 date: 2022-07-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

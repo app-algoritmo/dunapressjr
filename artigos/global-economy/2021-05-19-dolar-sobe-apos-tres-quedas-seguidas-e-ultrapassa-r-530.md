@@ -2,7 +2,7 @@
 title: Dólar sobe após três quedas seguidas e ultrapassa R$ 5,30
 date: 2021-05-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

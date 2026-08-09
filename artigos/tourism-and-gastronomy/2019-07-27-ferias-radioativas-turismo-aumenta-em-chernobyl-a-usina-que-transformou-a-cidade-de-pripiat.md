@@ -3,7 +3,7 @@ title: Férias radioativas, turismo aumenta em Chernobyl, a usina que transformo
   cidade de Prípiat
 date: 2019-07-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Tourism and Gastronomy
 ---

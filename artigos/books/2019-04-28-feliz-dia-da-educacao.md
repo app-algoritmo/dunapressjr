@@ -2,7 +2,7 @@
 title: Feliz dia da Educação
 date: 2019-04-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

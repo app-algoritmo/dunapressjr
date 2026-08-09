@@ -2,7 +2,7 @@
 title: BNDES e BID vão avaliar projetos viáveis na área de saneamento
 date: 2022-08-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

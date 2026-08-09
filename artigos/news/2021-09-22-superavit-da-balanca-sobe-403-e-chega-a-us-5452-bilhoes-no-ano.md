@@ -2,7 +2,7 @@
 title: Superávit da balança sobe 40,3% e chega a US$ 54,52 bilhões no ano
 date: 2021-09-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

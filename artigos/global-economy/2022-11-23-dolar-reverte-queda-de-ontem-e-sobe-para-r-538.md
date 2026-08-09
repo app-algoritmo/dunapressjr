@@ -2,7 +2,7 @@
 title: Dólar reverte queda de ontem e sobe para R$ 5,38
 date: 2022-11-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

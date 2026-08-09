@@ -2,7 +2,7 @@
 title: Trabalhadores poderão sacar até R$ 1 mil de contas do FGTS
 date: 2022-03-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

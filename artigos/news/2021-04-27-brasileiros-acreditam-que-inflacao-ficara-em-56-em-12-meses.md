@@ -2,7 +2,7 @@
 title: Brasileiros acreditam que inflação ficará em 5,6% em 12 meses
 date: 2021-04-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

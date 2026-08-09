@@ -2,7 +2,7 @@
 title: Aneel vai abrir mão de proposta de 'taxar' energia solar, diz Bolsonaro
 date: 2020-01-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

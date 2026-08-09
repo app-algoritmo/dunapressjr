@@ -2,7 +2,7 @@
 title: Após internação, novo exame de Toffoli dá negativo para covid-19
 date: 2020-05-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

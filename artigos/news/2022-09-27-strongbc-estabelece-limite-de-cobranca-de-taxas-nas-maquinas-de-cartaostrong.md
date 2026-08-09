@@ -2,7 +2,7 @@
 title: <strong>BC estabelece limite de cobrança de taxas nas máquinas de cartão</strong>
 date: 2022-09-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

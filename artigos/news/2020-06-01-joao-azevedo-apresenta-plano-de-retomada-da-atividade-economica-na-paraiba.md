@@ -2,7 +2,7 @@
 title: João Azevêdo apresenta plano de retomada da atividade econômica na Paraíba
 date: 2020-06-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

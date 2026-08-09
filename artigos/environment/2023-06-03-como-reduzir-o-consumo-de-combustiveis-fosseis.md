@@ -2,7 +2,7 @@
 title: Como Reduzir o Consumo de Combustíveis Fósseis
 date: 2023-06-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Environment
 ---

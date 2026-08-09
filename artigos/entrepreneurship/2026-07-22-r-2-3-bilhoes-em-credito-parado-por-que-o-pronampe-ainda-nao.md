@@ -3,7 +3,7 @@ title: "R$ 2,3 bilhões em crédito parado: por que o Pronampe ainda não chegou
 subtitle: "O maior programa de crédito para micro e pequenas empresas do Brasil tem dinheiro em caixa, mas enfrenta um gargalo silencioso entre a aprovação e o desembolso — e empreendedores de 12 estados estão no centro desse paradoxo."
 date: 2026-07-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - entrepreneurship
 description: "O Pronampe aprovou R$ 2,3 bilhões em crédito para pequenas empresas em 2026, mas quase metade dos elegíveis ainda não acessou os recursos por barreiras burocráticas e assimetria de informação. Entender por que esse dinheiro não flui é tão urgente quanto liberar novas rodadas."

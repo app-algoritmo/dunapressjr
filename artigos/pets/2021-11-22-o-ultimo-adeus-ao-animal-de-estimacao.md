@@ -2,7 +2,7 @@
 title: O último adeus ao animal de estimação
 date: 2021-11-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Pets
 ---

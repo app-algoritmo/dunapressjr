@@ -3,7 +3,7 @@ title: Volkswagen anuncia parada temporária de produção no Brasil devido à e
   do mercado
 date: 2023-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

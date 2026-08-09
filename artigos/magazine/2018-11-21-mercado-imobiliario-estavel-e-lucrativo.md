@@ -2,7 +2,7 @@
 title: Mercado imobiliário estável e lucrativo
 date: 2018-11-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

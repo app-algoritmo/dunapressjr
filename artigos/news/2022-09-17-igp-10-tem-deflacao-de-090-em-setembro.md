@@ -2,7 +2,7 @@
 title: IGP-10 tem deflação de 0,90% em setembro
 date: 2022-09-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

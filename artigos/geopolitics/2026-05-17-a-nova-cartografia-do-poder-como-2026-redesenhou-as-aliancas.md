@@ -3,7 +3,7 @@ title: "A Nova Cartografia do Poder: Como 2026 Redesenhou as Alianças Globais"
 subtitle: "Entre fragmentação institucional e realinhamentos estratégicos, o sistema internacional enfrenta sua maior transformação desde o fim da Guerra Fria — e os próximos 18 meses serão decisivos"
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitics
 description: "A ordem internacional de 2026 já não se organiza em torno de blocos fixos nem de uma hegemonia única. Uma análise aprofundada dos vetores que estão redesenhando alianças, erodindo instituições multilaterais e produzindo uma geopolítica de geometria variável — onde cada nação calcula sua posição semana a semana."

@@ -3,7 +3,7 @@ title: Pelo 5º ano consecutivo a Petrobras ganha o Selo Ouro por transparência
   publicação de emissões de carbono
 date: 2022-11-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

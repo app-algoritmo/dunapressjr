@@ -3,7 +3,7 @@ title: Ministério da Economia apoia municípios na adoção do Novo Marco Legal
   Básico
 date: 2022-09-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

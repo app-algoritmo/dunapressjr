@@ -3,7 +3,7 @@ title: "A Ficção Científica Brasileira e a Reconquista do Futuro"
 subtitle: "Como uma nova geração de autores nacionais está reescrevendo os códigos do gênero e projetando o Brasil como protagonista das narrativas especulativas do século XXI"
 date: 2026-05-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - literature
 description: "A ficção científica produzida no Brasil atravessa um momento de maturidade inédita. Autores como Fábio Fernandes, Gabriela Dametto e uma coorte de vozes surgidas nas margens do mainstream literário estão redefinindo o que significa imaginar o futuro a partir do Sul Global, combinando rigor especulativo com urgência política e identidade cultural."

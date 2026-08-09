@@ -3,7 +3,7 @@ title: Manifestantes em várias cidades queimando bandeiras e gritando pela dest
   de Israel
 date: 2023-10-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

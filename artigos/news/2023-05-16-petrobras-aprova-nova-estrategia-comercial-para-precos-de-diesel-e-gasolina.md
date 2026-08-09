@@ -2,7 +2,7 @@
 title: Petrobras aprova nova estratégia comercial para preços de diesel e gasolina
 date: 2023-05-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

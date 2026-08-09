@@ -3,7 +3,7 @@ title: Receita Federal abre nesta sexta-feira (23), consulta ao terceiro lote de
   do IRPF 2021
 date: 2021-07-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

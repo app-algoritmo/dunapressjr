@@ -2,7 +2,7 @@
 title: CMN acaba com limite de crédito a governos locais em supervisão fiscal
 date: 2022-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

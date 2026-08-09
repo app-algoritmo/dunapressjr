@@ -2,7 +2,7 @@
 title: Vendas do Tesouro Direto atingem maior nível em mais de três anos
 date: 2022-08-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

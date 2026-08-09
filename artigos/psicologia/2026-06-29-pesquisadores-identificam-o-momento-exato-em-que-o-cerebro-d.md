@@ -3,7 +3,7 @@ title: "Pesquisadores identificam o momento exato em que o cérebro desiste de u
 subtitle: "Um estudo publicado em maio de 2026 pela Universidade de Amsterdam mapeou o intervalo neurológico em que escolhas racionais são substituídas por respostas automáticas — e o achado redesenha o que entendemos sobre autonomia, persuasão e poder nas relações cotidianas."
 date: 2026-06-29
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - psicologia
 description: "Pesquisadores holandeses identificaram uma janela de 150 milissegundos na qual o cérebro humano abandona o processamento racional e entrega o controle a mecanismos automáticos — o que tem implicações diretas para negociações, marketing, relações de trabalho e até para a forma como leis e políticas públicas são apresentadas à população."

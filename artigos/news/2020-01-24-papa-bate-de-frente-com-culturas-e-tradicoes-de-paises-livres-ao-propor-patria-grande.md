@@ -3,7 +3,7 @@ title: Papa bate de frente com culturas e tradições de países livres ao propo
   grande
 date: 2020-01-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "A chef Bela Gil fecha o restaurante e abre um laboratório: o novo model
 subtitle: "Enquanto o mercado de restaurantes enfrenta margens cada vez mais apertadas, uma geração de chefs brasileiros abandona as mesas e aposta em estúdios de criação, cursos e produtos — e está lucrando mais."
 date: 2026-06-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - gastronomia
 description: "Uma geração de chefs brasileiros está trocando a operação de restaurantes por modelos híbridos de estúdio, educação e produtos — e o movimento revela tanto uma transformação cultural quanto uma resposta econômica às margens de 3% a 8% que sufocam o setor. Entender essa virada é entender para onde vai a gastronomia como negócio e como identidade nacional."

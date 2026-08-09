@@ -3,7 +3,7 @@ title: "A Petz apostou R$ 2,3 bilhões em fusão e agora o mercado cobra a conta
 subtitle: "Dois anos após unir as duas maiores redes pet do Brasil, a companhia enfrenta o teste real de um consumidor que gasta mais com animais — mas exige muito mais em troca."
 date: 2026-06-07
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - pets
 description: "A fusão entre Petz e Cobasi criou um gigante de R$ 2,3 bilhões em receita anual, mas a integração revelou tensões entre escala corporativa e o vínculo emocional que move o consumidor pet. O momento é decisivo: quem entender que o tutor brasileiro não compra produto — compra pertencimento — vai liderar o setor pelos próximos dez anos."

@@ -2,7 +2,7 @@
 title: União pagou em janeiro R$ 368,24 mi em dívidas atrasadas de estados
 date: 2020-02-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

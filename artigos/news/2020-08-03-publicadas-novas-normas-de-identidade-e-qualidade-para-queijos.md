@@ -2,7 +2,7 @@
 title: Publicadas novas normas de identidade e qualidade para queijos
 date: 2020-08-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Balança comercial tem segundo maior superávit para meses de fevereiro
 date: 2022-03-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

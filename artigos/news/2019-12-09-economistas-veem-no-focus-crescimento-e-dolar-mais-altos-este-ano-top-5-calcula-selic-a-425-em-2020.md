@@ -3,7 +3,7 @@ title: Economistas veem no Focus crescimento e dólar mais altos este ano, Top-5
   Selic a 4,25% em 2020
 date: 2019-12-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

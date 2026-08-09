@@ -2,7 +2,7 @@
 title: Dólar cai para menor valor em dois meses com inflação fraca nos EUA
 date: 2022-01-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

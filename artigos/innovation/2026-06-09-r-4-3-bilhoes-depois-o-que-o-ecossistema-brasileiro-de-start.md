@@ -3,7 +3,7 @@ title: "R$ 4,3 bilhões depois: o que o ecossistema brasileiro de startups apren
 subtitle: "Três anos após o pico de captação, as startups que sobreviveram ao inverno do venture capital redesenharam seus modelos — e o Brasil emerge com uma geração de fundadores mais pragmáticos e globalmente competitivos."
 date: 2026-06-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - innovation
 description: "O ecossistema brasileiro de startups captou R$ 4,3 bilhões em 2025, número 38% abaixo do pico de 2021, mas com um perfil de empresa radicalmente diferente — mais lucrativa, mais exportadora e menos dependente de queima de caixa. O novo ciclo que se consolida em 2026 revela apostas concretas em IA, agronegócio digital e saúde, e coloca o Brasil em rota de colisão com rivais regionais como México e Colômbia."

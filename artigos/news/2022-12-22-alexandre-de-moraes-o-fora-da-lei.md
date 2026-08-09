@@ -2,7 +2,7 @@
 title: Alexandre de Moraes, o Fora da Lei
 date: 2022-12-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

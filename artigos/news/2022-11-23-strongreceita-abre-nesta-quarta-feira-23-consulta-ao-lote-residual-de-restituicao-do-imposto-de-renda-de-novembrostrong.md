@@ -3,7 +3,7 @@ title: <strong>Receita abre nesta quarta-feira (23) consulta ao lote residual de
   do imposto de renda de novembro</strong>
 date: 2022-11-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

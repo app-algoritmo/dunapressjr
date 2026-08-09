@@ -2,7 +2,7 @@
 title: Ibovespa recua com bancos, mas reação da Petrobras reduz perdas
 date: 2020-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

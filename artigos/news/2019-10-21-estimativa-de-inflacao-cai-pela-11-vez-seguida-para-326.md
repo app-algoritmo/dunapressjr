@@ -2,7 +2,7 @@
 title: Estimativa de inflação cai pela 11ª vez seguida para 3,26%
 date: 2019-10-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

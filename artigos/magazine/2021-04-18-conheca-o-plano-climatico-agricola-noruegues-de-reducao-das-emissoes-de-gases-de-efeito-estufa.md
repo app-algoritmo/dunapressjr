@@ -3,7 +3,7 @@ title: Conheça o plano climático agrícola norueguês de redução das emissõ
   de efeito estufa
 date: 2021-04-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

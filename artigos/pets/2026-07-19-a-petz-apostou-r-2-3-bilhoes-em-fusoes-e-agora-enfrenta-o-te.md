@@ -3,7 +3,7 @@ title: "A Petz apostou R$ 2,3 bilhões em fusões e agora enfrenta o teste defin
 subtitle: "A maior rede pet do Brasil atingiu 400 lojas em 2025, mas o mercado exige agora que crescimento e margem andem juntos — e a resposta pode redesenhar o setor para milhões de tutores."
 date: 2026-07-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - pets
 description: "A Petz consolidou a maior operação pet do Brasil após absorver a Cobasi e chegar a 400 lojas, mas agora enfrenta pressão de investidores para converter escala em margem real. O momento importa porque o modelo que essa empresa escolher nos próximos 18 meses vai definir se o mercado brasileiro de R$ 68 bilhões amadurece de vez ou permanece refém do crescimento pelo crescimento."

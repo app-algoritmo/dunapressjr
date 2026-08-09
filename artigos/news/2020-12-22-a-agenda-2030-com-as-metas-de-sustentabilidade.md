@@ -2,7 +2,7 @@
 title: A agenda 2030 com as metas de sustentabilidade
 date: 2020-12-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

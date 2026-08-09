@@ -3,7 +3,7 @@ title: "O modelo que custou US$ 100 bilhões e mudou o prazo da corrida: o que a
 subtitle: "Com o lançamento do GPT-5 e novos marcos regulatórios na União Europeia e no Brasil, a disputa global por IA entrou em uma fase em que velocidade e governança deixaram de ser opostos — e passaram a ser o mesmo problema."
 date: 2026-06-30
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - inteligencia-artificial
 description: "O GPT-5, lançado com investimento declarado de US$ 100 bilhões, redefiniu os prazos da corrida global por IA e forçou reguladores da UE e do Brasil a acelerarem suas próprias apostas. O que parecia uma disputa entre laboratórios virou uma questão de soberania econômica — e o Brasil está no meio do caminho."

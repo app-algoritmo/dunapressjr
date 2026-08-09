@@ -2,7 +2,7 @@
 title: Pentecostes, a terceira grande celebração da igreja, depois do Natal e da Páscoa
 date: 2021-05-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Religiosity
 ---

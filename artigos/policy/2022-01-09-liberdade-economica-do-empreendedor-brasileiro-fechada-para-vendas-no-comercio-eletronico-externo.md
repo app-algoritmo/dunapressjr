@@ -1,9 +1,9 @@
 ---
-title: Liberdade econômica do empreendedor brasileiro  fechada para vendas no comércio
+title: Liberdade econômica do empreendedor brasileiro fechada para vendas no comércio
   eletrônico externo
 date: 2022-01-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

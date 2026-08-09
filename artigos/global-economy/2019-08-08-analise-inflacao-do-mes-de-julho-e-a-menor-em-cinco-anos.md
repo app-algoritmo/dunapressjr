@@ -2,7 +2,7 @@
 title: Análise - Inflação do mês de julho é a menor em cinco anos
 date: 2019-08-08
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Global Economy
 ---

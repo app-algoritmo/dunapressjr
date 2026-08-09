@@ -2,7 +2,7 @@
 title: Entenda a situação da economia britânica diante do Brexit
 date: 2019-09-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

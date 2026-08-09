@@ -2,7 +2,7 @@
 title: Previsões financeiras permanecem inalteradas pelo segundo mês consecutivo
 date: 2023-10-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

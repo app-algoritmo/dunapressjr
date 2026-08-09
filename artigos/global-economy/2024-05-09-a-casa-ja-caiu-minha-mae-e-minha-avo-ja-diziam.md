@@ -2,7 +2,7 @@
 title: 'A Casa Já Caiu: ''Minha Mãe e Minha Avó Já Diziam'''
 date: 2024-05-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

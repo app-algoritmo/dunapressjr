@@ -2,7 +2,7 @@
 title: Confiança da indústria registra sexta queda consecutiva, informa FGV
 date: 2022-01-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

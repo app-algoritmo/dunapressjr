@@ -2,7 +2,7 @@
 title: As procissões da semana santa espanhola
 date: 2023-04-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

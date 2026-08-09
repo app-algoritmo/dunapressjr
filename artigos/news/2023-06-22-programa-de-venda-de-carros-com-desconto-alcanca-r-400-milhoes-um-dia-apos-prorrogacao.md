@@ -3,7 +3,7 @@ title: Programa de venda de carros com desconto alcança R$ 400 milhões um dia 
   prorrogação
 date: 2023-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

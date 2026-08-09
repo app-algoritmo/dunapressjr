@@ -3,7 +3,7 @@ title: 'Vídeo: 18 Fatos que comprovam que a eleição presidencial de 2022 foi 
   para o PT'
 date: 2022-12-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 ---

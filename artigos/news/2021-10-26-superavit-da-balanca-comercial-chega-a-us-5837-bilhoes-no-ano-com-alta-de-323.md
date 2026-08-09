@@ -3,7 +3,7 @@ title: Superávit da balança comercial chega a US$ 58,37 bilhões no ano, com a
   32,3%
 date: 2021-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

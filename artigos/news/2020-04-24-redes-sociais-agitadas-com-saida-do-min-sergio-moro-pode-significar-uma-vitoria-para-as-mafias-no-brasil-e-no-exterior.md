@@ -3,7 +3,7 @@ title: Redes sociais agitadas com saída do Min Sergio Moro pode significar uma 
   para as máfias no Brasil e no exterior
 date: 2020-04-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

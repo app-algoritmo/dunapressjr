@@ -2,7 +2,7 @@
 title: Economia mundial se recupera, mas enfrenta riscos, diz Banco Mundial
 date: 2020-01-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

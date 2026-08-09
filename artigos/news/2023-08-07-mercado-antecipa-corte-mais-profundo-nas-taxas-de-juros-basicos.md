@@ -2,7 +2,7 @@
 title: Mercado antecipa corte mais profundo nas taxas de juros básicos
 date: 2023-08-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

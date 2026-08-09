@@ -2,7 +2,7 @@
 title: Pastora paraibana tem candidatura lançada para o Nobel da Paz
 date: 2018-12-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

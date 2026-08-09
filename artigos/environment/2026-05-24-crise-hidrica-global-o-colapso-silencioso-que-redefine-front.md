@@ -3,7 +3,7 @@ title: "Crise Hídrica Global: O Colapso Silencioso que Redefine Fronteiras e Ec
 subtitle: "Enquanto negociações climáticas avançam em ritmo burocrático, reservatórios críticos em três continentes atingem níveis históricos de escassez — e as consequências já reescrevem mapas geopolíticos"
 date: 2026-05-24
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - environment
 description: "A crise hídrica global de 2026 transcende o debate ambiental e se consolida como uma das principais forças de reconfiguração geopolítica e econômica do século. Reservatórios estratégicos no Oriente Médio, sul da Europa e América do Sul operam abaixo de 30% da capacidade, enquanto acordos internacionais sobre uso da água enfrentam o maior estresse desde a Convenção de Helsinque de 1992."

@@ -2,7 +2,7 @@
 title: No Nordeste, ministro anuncia obra de barragem e entrega moradias populares
 date: 2020-10-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

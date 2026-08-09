@@ -2,7 +2,7 @@
 title: Joe Biden, o candidato fantasma para a presidência dos EUA
 date: 2020-10-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

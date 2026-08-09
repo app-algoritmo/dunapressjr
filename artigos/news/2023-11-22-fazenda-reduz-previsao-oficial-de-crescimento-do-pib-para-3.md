@@ -2,7 +2,7 @@
 title: Fazenda reduz previsão oficial de crescimento do PIB para 3%
 date: 2023-11-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: PGFN alerta para o fim do prazo para solicitar negociações com benefícios
 date: 2022-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Tribunal Holandês Bloqueia Exportação de Peças F-35 para Israel
 date: 2024-02-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

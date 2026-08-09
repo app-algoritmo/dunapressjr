@@ -2,7 +2,7 @@
 title: Ministério da Justiça notifica Lojas Americanas
 date: 2023-01-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

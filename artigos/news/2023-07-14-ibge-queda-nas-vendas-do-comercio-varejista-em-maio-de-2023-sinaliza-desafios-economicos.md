@@ -3,7 +3,7 @@ title: 'IBGE: Queda nas vendas do comércio varejista em maio de 2023 sinaliza d
   econômicos'
 date: 2023-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

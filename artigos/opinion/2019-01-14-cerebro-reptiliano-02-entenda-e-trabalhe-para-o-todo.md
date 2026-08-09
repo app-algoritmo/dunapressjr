@@ -2,7 +2,7 @@
 title: Cérebro reptiliano - 02 - Entenda e trabalhe para o todo
 date: 2019-01-14
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

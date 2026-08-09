@@ -3,7 +3,7 @@ title: 'Plataforma + Brasil: mais transparência e controle social no repasse de
   da União'
 date: 2020-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

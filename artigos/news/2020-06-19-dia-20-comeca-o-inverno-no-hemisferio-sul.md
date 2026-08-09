@@ -2,7 +2,7 @@
 title: Dia 20 começa o inverno no Hemisfério Sul
 date: 2020-06-19
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ipea lança estudo inédito sobre mercado de trabalho
 date: 2021-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

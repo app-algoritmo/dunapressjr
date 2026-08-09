@@ -2,7 +2,7 @@
 title: 'Conselhos de um Irmão: de Quintus T. Cicero para Marcus T. Cicero'
 date: 2020-04-02
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

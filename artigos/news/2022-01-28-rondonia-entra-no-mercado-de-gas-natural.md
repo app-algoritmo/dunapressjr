@@ -2,7 +2,7 @@
 title: Rondônia entra no mercado de gás natural
 date: 2022-01-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

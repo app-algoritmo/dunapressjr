@@ -2,7 +2,7 @@
 title: Série Este homem quer ser presidente do Brasil - Parte I - Rodrigo Maia
 date: 2020-03-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

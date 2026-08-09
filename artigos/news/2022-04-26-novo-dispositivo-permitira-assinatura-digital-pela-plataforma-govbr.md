@@ -2,7 +2,7 @@
 title: Novo dispositivo permitirá assinatura digital pela plataforma Gov.br
 date: 2022-04-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

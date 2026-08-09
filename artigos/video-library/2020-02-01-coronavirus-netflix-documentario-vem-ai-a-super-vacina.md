@@ -2,7 +2,7 @@
 title: 'Coronavírus: Netflix documentário, vem aí a super vacina'
 date: 2020-02-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Video library
 ---

@@ -2,7 +2,7 @@
 title: 'Legislação e Vida: o novo livro do Professor Hermes Nery'
 date: 2018-12-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

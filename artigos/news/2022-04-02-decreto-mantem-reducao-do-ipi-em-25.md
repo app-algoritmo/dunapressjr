@@ -2,7 +2,7 @@
 title: Decreto mantém redução do IPI em 25%
 date: 2022-04-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

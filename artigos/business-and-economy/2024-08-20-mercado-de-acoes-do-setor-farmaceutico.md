@@ -2,7 +2,7 @@
 title: Mercado de Ações do Setor Farmacêutico
 date: 2024-08-20
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Business and Economy
 ---

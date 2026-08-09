@@ -3,7 +3,7 @@ title: "A Coreia do Sul aposta US$ 7 bilhões em chips de IA para não depender 
 subtitle: "Seul lança o maior pacote estatal de semicondutores da sua história e reposiciona o país como terceira via tecnológica numa corrida que redesenha alianças industriais globais."
 date: 2026-07-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - inteligencia-artificial
 description: "A Coreia do Sul anunciou em julho de 2026 um investimento estatal de US$ 7 bilhões para acelerar a produção doméstica de chips voltados à inteligência artificial, posicionando Samsung e SK Hynix como peças centrais de uma estratégia que recusa a dependência tanto dos EUA quanto da China. O movimento importa agora porque sinaliza que a corrida por soberania em IA deixou de ser um debate e virou linha de orçamento."

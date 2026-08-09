@@ -3,7 +3,7 @@ title: Luiz Philippe de Orleans e Bragança concede entrevista no programa contr
   com soluções chave para o gigante sul americano
 date: 2021-11-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

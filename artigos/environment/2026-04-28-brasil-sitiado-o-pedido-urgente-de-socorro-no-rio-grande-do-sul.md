@@ -2,7 +2,7 @@
 title: 'Brasil sitiado: o pedido urgente de socorro no Rio Grande do Sul'
 date: 2026-04-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Environment
 ---

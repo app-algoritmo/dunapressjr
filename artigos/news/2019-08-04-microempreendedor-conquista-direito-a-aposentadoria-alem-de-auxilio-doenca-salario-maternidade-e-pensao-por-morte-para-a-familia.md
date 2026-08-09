@@ -3,7 +3,7 @@ title: Microempreendedor conquista direito a aposentadoria, além de auxílio-do
   salário-maternidade e pensão por morte para a família
 date: 2019-08-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Petrobras anuncia reajuste nos preços de gasolina e diesel para distribuidoras
 date: 2023-08-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

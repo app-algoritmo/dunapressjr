@@ -2,7 +2,7 @@
 title: Aneel mantém bandeira tarifária verde para julho
 date: 2022-06-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

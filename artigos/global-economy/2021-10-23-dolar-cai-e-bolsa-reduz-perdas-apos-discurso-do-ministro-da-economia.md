@@ -2,7 +2,7 @@
 title: Dólar cai e bolsa reduz perdas após discurso do ministro da Economia
 date: 2021-10-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

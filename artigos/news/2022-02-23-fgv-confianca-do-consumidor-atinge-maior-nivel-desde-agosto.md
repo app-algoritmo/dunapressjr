@@ -2,7 +2,7 @@
 title: 'FGV: confiança do consumidor atinge maior nível desde agosto'
 date: 2022-02-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

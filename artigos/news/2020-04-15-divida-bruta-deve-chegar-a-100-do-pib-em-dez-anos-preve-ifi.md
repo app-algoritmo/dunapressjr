@@ -2,7 +2,7 @@
 title: Dívida bruta deve chegar a 100% do PIB em dez anos, prevê IFI
 date: 2020-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

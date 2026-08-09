@@ -2,7 +2,7 @@
 title: Contas externas têm saldo negativo de US$ 5,9 bilhões em dezembro
 date: 2022-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

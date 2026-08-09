@@ -2,7 +2,7 @@
 title: Indústria de máquinas perde 3,7% da receita liquida de vendas
 date: 2022-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

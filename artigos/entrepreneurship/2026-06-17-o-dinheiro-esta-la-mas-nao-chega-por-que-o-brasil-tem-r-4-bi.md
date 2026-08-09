@@ -3,7 +3,7 @@ title: "O dinheiro está lá, mas não chega: por que o Brasil tem R$ 4 bilhões
 subtitle: "A distância entre o capital disponível nos fundos públicos e privados e o empreendedor que precisa dele revela um gargalo estrutural que nenhuma política isolada conseguiu resolver — até agora."
 date: 2026-06-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - entrepreneurship
 description: "O Brasil tem um dos maiores volumes de capital institucional dedicado a startups da América Latina, mas a taxa de mortalidade de pequenas empresas nos primeiros cinco anos segue acima de 60% — o problema não é a falta de dinheiro, é a arquitetura que o separa de quem precisa. Entender esse nó é urgente porque novas regras da CVM que entram em vigor em setembro de 2026 podem, pela primeira vez, mudar a geometria desse jogo."

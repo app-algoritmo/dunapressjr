@@ -2,7 +2,7 @@
 title: 'Cólica Menstrual: Fisiopatologia e Opções de Tratamento'
 date: 2024-08-22
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Lifestyle
 - Magazine

@@ -2,7 +2,7 @@
 title: A história da Bíblia
 date: 2023-04-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - History and Philosophy
 ---

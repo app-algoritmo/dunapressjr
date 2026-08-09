@@ -3,7 +3,7 @@ title: “O misterioso vírus de Wuhan tem sido usado por certas forças para fa
   a sua agenda maligna”, Cardeal Raymond Leo Burke
 date: 2020-12-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Noruega eleita para o Conselho de Segurança da ONU
 date: 2020-06-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

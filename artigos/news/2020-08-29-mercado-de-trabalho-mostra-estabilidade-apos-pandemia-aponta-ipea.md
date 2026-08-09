@@ -2,7 +2,7 @@
 title: Mercado de trabalho mostra estabilidade após pandemia, aponta Ipea
 date: 2020-08-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

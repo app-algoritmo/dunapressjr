@@ -2,7 +2,7 @@
 title: Em 25 de setembro, Dia Nacional do Trânsito, dirija sem medo!
 date: 2019-09-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

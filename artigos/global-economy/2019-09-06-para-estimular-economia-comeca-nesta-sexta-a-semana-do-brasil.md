@@ -2,7 +2,7 @@
 title: Para estimular economia, começa nesta sexta a Semana do Brasil
 date: 2019-09-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

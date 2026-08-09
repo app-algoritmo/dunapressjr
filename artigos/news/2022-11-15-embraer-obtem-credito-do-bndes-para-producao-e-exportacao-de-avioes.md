@@ -2,7 +2,7 @@
 title: Embraer obtém crédito do BNDES para produção e exportação de aviões
 date: 2022-11-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

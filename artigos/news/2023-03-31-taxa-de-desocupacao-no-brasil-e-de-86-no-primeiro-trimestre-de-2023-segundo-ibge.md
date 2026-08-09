@@ -3,7 +3,7 @@ title: Taxa de desocupação no Brasil é de 8,6% no primeiro trimestre de 2023,
   IBGE
 date: 2023-03-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

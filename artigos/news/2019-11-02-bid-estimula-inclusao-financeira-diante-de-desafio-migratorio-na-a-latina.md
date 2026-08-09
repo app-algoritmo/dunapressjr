@@ -2,7 +2,7 @@
 title: BID estimula inclusão financeira diante de desafio migratório na A. Latina
 date: 2019-11-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

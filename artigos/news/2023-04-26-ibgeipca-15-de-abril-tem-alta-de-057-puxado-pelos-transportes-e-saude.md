@@ -2,7 +2,7 @@
 title: IBGE:IPCA-15 de abril tem alta de 0,57%, puxado pelos Transportes e Saúde
 date: 2023-04-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

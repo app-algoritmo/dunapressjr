@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,14 com inflação no Brasil e alívio externo
 date: 2022-09-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

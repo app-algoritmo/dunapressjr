@@ -3,7 +3,7 @@ title: Produção industrial no Brasil permanece abaixo dos níveis pré-pandemi
   pesquisa do IBGE
 date: 2023-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

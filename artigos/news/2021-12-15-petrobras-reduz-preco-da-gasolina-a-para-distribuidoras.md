@@ -2,7 +2,7 @@
 title: Petrobras reduz preço da gasolina A para distribuidoras
 date: 2021-12-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

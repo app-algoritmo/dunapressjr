@@ -2,7 +2,7 @@
 title: AGU pede que STF reconheça decreto que recompõe alíquota de PIS/Cofins
 date: 2023-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

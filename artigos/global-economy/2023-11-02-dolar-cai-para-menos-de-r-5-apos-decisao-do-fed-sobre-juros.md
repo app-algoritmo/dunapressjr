@@ -2,7 +2,7 @@
 title: Dólar cai para menos de R$ 5 após decisão do Fed sobre juros
 date: 2023-11-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

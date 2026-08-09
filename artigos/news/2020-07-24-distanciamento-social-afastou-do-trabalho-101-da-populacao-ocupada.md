@@ -2,7 +2,7 @@
 title: Distanciamento social afastou do trabalho 10,1% da população ocupada
 date: 2020-07-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

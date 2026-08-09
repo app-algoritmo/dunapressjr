@@ -2,7 +2,7 @@
 title: Transferências cambiais para exterior terão redução de IOF
 date: 2022-07-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

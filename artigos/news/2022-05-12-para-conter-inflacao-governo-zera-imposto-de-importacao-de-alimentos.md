@@ -2,7 +2,7 @@
 title: Para conter inflação, governo zera imposto de importação de alimentos
 date: 2022-05-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

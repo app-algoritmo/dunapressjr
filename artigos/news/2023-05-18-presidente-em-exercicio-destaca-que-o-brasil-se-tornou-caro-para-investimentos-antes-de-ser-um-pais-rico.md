@@ -3,7 +3,7 @@ title: Presidente em exercício destaca que o Brasil se tornou caro para investi
   antes de ser um país rico
 date: 2023-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

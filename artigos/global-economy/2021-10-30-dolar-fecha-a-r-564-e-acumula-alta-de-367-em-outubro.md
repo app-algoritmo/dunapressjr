@@ -2,7 +2,7 @@
 title: Dólar fecha a R$ 5,64 e acumula alta de 3,67% em outubro
 date: 2021-10-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

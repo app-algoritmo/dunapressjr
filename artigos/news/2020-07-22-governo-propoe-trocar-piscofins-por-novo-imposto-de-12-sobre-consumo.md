@@ -2,7 +2,7 @@
 title: Governo propõe trocar PIS/Cofins por novo imposto de 12% sobre consumo
 date: 2020-07-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

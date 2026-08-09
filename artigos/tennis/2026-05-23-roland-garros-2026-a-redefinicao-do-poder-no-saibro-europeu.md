@@ -3,7 +3,7 @@ title: "Roland Garros 2026: A Redefinição do Poder no Saibro Europeu"
 subtitle: "Com uma nova geração consolidada e veteranos ainda competitivos, o Grand Slam parisiense promete ser o mais imprevisível da última década — e os números sustentam essa tese"
 date: 2026-05-23
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tennis
 description: "A edição de 2026 de Roland Garros inaugura-se sob um cenário de transição histórica no tênis mundial. A Duna Press analisa os fatores táticos, físicos e geracionais que tornam este torneio um divisor de águas para o esporte."

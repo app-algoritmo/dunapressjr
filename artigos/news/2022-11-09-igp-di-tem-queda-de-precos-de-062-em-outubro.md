@@ -2,7 +2,7 @@
 title: IGP-DI tem queda de preços de 0,62% em outubro
 date: 2022-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

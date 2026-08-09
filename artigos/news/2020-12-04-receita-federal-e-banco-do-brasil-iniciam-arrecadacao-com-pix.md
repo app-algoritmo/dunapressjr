@@ -2,7 +2,7 @@
 title: Receita Federal e Banco do Brasil iniciam arrecadação com PIX
 date: 2020-12-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

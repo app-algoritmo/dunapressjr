@@ -2,7 +2,7 @@
 title: Petrobras diz que Ibama supervisiona simulado na margem equatorial
 date: 2022-11-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Mais de 60% dos canadenses apoiam a nomeação do príncipe Harry para go
   geral
 date: 2020-01-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

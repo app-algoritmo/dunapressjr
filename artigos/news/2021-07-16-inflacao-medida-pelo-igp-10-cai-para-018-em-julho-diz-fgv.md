@@ -2,7 +2,7 @@
 title: Inflação medida pelo IGP-10 cai para 0,18% em julho, diz FGV
 date: 2021-07-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Entenda as mudanças da PEC Emergencial
 date: 2021-03-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

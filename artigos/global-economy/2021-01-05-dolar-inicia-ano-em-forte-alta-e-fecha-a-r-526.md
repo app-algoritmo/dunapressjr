@@ -2,7 +2,7 @@
 title: Dólar inicia ano em forte alta e fecha a R$ 5,26
 date: 2021-01-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

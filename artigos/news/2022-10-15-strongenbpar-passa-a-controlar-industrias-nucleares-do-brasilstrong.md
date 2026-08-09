@@ -2,7 +2,7 @@
 title: <strong>ENBPar passa a controlar Indústrias Nucleares do Brasil</strong>
 date: 2022-10-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

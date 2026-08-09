@@ -3,7 +3,7 @@ title: STF suspende julgamento com 4 votos a favor e 3 contra prisão após cond
   em 2ª instância
 date: 2019-10-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

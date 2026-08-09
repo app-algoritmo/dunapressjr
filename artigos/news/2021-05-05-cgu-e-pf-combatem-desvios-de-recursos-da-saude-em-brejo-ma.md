@@ -2,7 +2,7 @@
 title: CGU e PF combatem desvios de recursos da saúde em Brejo (MA)
 date: 2021-05-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

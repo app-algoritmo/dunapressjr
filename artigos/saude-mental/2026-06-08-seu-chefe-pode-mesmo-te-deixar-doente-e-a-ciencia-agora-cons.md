@@ -3,7 +3,7 @@ title: "Seu chefe pode mesmo te deixar doente — e a ciência agora consegue me
 subtitle: "Pesquisas de 2025 e 2026 consolidam o que trabalhadores sabem há décadas: ambientes de trabalho tóxicos alteram biomarcadores fisiológicos mensuráveis, abrindo um debate jurídico e clínico sobre responsabilidade corporativa."
 date: 2026-06-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - saude-mental
 description: "A ciência do comportamento organizacional chegou a um ponto de inflexão: é possível agora medir biologicamente o dano que ambientes de trabalho tóxicos causam ao cérebro e ao corpo. O debate deixou os corredores de RH e entrou nos consultórios, nos tribunais e nas salas de conselho."

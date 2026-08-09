@@ -2,7 +2,7 @@
 title: 'O Sentido da Vida: Uma Reflexão sobre a Existência Humana'
 date: 2023-12-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Lifestyle
 ---

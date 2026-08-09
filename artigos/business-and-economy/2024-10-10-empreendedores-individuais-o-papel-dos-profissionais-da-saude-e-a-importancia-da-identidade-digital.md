@@ -3,7 +3,7 @@ title: 'Empreendedores Individuais: O Papel dos Profissionais da Saúde e a Impo
   da Identidade Digital'
 date: 2024-10-10
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Business and Economy
 - Entrepreneurship

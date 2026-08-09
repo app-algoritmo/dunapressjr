@@ -2,7 +2,7 @@
 title: Dilma Rousseff começa a comandar Banco do Brics
 date: 2023-03-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

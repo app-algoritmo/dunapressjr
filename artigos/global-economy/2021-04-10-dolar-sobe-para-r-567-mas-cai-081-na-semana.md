@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,67, mas cai 0,81% na semana
 date: 2021-04-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

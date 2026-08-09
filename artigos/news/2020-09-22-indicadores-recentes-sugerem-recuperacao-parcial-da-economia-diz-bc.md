@@ -2,7 +2,7 @@
 title: Indicadores recentes sugerem recuperação parcial da economia, diz BC
 date: 2020-09-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

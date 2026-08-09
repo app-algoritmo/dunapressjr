@@ -2,7 +2,7 @@
 title: Elon Musk e a Polêmica com a Justiça Brasileira
 date: 2024-04-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Headlines
 ---

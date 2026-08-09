@@ -2,7 +2,7 @@
 title: PEC do orçamento de guerra é aprovada em 2º turno
 date: 2020-04-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

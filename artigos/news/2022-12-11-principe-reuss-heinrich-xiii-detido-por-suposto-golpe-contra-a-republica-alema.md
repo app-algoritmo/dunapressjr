@@ -2,7 +2,7 @@
 title: Príncipe Reuss Heinrich XIII, detido por suposto golpe contra a república alemã
 date: 2022-12-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Fertilizante ecológico pode reduzir dependência de importação
 date: 2022-03-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

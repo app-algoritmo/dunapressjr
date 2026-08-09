@@ -2,7 +2,7 @@
 title: CGU e PF combatem desvio de recursos em nove municípios de Tocantins
 date: 2020-10-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

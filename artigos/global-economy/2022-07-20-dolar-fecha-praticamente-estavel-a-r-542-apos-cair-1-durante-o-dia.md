@@ -2,7 +2,7 @@
 title: Dólar fecha praticamente estável a R$ 5,42 após cair 1% durante o dia
 date: 2022-07-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

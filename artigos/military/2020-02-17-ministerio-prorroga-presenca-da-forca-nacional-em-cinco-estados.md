@@ -2,7 +2,7 @@
 title: Ministério prorroga presença da Força Nacional em cinco estados
 date: 2020-02-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Military
 ---

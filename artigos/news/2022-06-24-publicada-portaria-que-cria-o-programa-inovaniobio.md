@@ -2,7 +2,7 @@
 title: Publicada portaria que cria o Programa InovaNióbio
 date: 2022-06-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

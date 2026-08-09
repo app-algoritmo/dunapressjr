@@ -2,7 +2,7 @@
 title: São Paulo reduz ICMS do etanol de 13,3% para 9,57%
 date: 2022-07-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

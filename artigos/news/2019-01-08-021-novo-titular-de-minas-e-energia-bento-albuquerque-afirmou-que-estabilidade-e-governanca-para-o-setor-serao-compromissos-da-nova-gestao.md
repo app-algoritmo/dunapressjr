@@ -3,7 +3,7 @@ title: 02.1 Novo titular de Minas e Energia, Bento Albuquerque afirmou que estab
   e governança para o setor serão compromissos da nova gestão
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Indicador de tendência do emprego da FGV sobe 1,6 ponto em dezembro
 date: 2023-01-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

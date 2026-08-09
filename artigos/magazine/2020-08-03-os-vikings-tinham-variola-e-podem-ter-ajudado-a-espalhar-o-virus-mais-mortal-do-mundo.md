@@ -3,7 +3,7 @@ title: Os Vikings tinham varíola e podem ter ajudado a espalhar o vírus mais m
   do mundo
 date: 2020-08-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

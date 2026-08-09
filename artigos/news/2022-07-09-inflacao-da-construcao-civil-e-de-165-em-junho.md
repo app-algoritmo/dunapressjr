@@ -2,7 +2,7 @@
 title: Inflação da construção civil é de 1,65% em junho
 date: 2022-07-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

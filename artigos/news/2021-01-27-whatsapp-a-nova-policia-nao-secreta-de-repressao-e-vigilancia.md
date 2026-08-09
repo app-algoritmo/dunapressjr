@@ -2,7 +2,7 @@
 title: Whatsapp, a nova polícia não secreta de repressão e vigilância
 date: 2021-01-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

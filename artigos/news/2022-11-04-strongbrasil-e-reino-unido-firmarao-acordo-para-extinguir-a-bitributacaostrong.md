@@ -2,7 +2,7 @@
 title: <strong>Brasil e Reino Unido firmarão acordo para extinguir a bitributação</strong>
 date: 2022-11-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Debêntures incentivadas captam R$ 4,4 bilhões em abril
 date: 2021-06-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

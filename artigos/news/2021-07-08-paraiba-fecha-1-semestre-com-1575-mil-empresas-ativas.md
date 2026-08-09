@@ -2,7 +2,7 @@
 title: Paraíba fecha 1º semestre com 157,5 mil empresas ativas
 date: 2021-07-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

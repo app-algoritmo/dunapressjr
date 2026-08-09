@@ -2,7 +2,7 @@
 title: Astrônomos descobrem um buraco negro a apenas 1.000 anos-luz da Terra
 date: 2020-05-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

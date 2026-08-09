@@ -2,7 +2,7 @@
 title: Superávit da balança comercial é o mais baixo para outubro desde 2015
 date: 2021-11-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

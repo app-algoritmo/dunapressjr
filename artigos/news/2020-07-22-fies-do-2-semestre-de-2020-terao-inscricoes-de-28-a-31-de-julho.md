@@ -2,7 +2,7 @@
 title: Fies do 2º semestre de 2020 terão inscrições de 28 a 31 de julho
 date: 2020-07-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

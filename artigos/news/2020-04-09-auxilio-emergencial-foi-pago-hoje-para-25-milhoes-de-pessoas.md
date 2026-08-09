@@ -2,7 +2,7 @@
 title: Auxílio emergencial foi pago hoje para 2,5 milhões de pessoas
 date: 2020-04-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

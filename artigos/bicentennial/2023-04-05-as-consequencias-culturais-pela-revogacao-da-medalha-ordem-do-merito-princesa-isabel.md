@@ -3,7 +3,7 @@ title: As consequências culturais pela revogação da medalha Ordem do Mérito 
   Isabel
 date: 2023-04-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Bicentennial
 - News

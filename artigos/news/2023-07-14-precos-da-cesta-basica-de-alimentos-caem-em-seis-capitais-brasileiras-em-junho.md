@@ -2,7 +2,7 @@
 title: Preços da cesta básica de alimentos caem em seis capitais brasileiras em junho
 date: 2023-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

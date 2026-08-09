@@ -2,7 +2,7 @@
 title: Bolsa cai 5,22% em mais um dia de nervosismo no mercado
 date: 2020-03-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

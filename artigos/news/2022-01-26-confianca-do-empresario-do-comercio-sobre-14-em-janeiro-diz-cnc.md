@@ -2,7 +2,7 @@
 title: Confiança do empresário do comércio sobre 1,4% em janeiro, diz CNC
 date: 2022-01-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

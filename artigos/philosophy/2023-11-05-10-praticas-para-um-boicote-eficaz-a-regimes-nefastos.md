@@ -2,7 +2,7 @@
 title: 10 práticas para um Boicote Eficaz a Regimes Nefastos
 date: 2023-11-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Philosophy
 ---

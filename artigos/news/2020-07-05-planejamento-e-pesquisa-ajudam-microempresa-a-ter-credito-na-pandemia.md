@@ -2,7 +2,7 @@
 title: Planejamento e pesquisa ajudam microempresa a ter crédito na pandemia
 date: 2020-07-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

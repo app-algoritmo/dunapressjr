@@ -1,5 +1,5 @@
 ---
-title: Fundação alemã doa milhões  para ajudar sobreviventes do Holocausto em meio
+title: Fundação alemã doa milhões para ajudar sobreviventes do Holocausto em meio
   a pandemia
 date: 2020-04-03
 status: publish

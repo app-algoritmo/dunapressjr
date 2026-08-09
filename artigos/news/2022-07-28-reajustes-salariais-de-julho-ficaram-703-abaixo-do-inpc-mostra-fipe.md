@@ -2,7 +2,7 @@
 title: Reajustes salariais de julho ficaram 70,3% abaixo do INPC, mostra Fipe
 date: 2022-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

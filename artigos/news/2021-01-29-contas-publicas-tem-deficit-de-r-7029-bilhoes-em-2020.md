@@ -2,7 +2,7 @@
 title: Contas públicas têm déficit de R$ 702,9 bilhões em 2020
 date: 2021-01-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

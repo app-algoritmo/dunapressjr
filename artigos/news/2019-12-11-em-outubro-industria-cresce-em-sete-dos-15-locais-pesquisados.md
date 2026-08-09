@@ -2,7 +2,7 @@
 title: Em outubro, indústria cresce em sete dos 15 locais pesquisados
 date: 2019-12-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

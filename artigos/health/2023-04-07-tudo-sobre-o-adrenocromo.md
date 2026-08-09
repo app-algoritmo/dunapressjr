@@ -2,7 +2,7 @@
 title: Tudo sobre o Adrenocromo
 date: 2023-04-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 ---

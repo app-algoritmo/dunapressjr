@@ -2,7 +2,7 @@
 title: CNC projeta maior oferta de vagas temporárias desde o Natal de 2013
 date: 2022-10-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ipea prevê crescimento maior do PIB do setor agropecuário
 date: 2020-02-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

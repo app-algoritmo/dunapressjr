@@ -2,7 +2,7 @@
 title: 'Coronavírus: contágios aumentam e se aproximam a 500 o número de mortes'
 date: 2020-02-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

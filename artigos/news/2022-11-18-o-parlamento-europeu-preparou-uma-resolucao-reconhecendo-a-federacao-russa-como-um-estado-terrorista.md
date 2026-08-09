@@ -3,7 +3,7 @@ title: O Parlamento Europeu preparou uma resolução reconhecendo a Federação 
   como um 'estado terrorista'
 date: 2022-11-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

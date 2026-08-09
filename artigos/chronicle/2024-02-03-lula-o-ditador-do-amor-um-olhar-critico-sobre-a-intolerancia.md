@@ -2,7 +2,7 @@
 title: 'Lula, o Ditador do Amor: Um Olhar Crítico sobre a Intolerância'
 date: 2024-02-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 ---

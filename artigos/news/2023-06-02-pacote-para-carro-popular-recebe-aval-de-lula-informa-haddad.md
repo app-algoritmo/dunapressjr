@@ -2,7 +2,7 @@
 title: Pacote para carro popular recebe aval de Lula, informa Haddad
 date: 2023-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

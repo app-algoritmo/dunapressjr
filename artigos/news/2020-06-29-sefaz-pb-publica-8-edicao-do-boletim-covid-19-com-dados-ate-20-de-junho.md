@@ -2,7 +2,7 @@
 title: SEFAZ-PB publica 8ª edição do ‘Boletim Covid-19’ com dados até 20 de junho
 date: 2020-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

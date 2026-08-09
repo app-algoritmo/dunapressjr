@@ -3,7 +3,7 @@ title: Projeção de safra 2023 revela crescimento consistente em cereais, legum
   e oleaginosas
 date: 2023-10-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 4,146 e fecha no menor nível em quase um mês
 date: 2019-12-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

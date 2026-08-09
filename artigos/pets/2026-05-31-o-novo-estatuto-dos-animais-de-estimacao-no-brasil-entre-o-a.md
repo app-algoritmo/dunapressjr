@@ -3,7 +3,7 @@ title: "O Novo Estatuto dos Animais de Estimação no Brasil: Entre o Afeto, o M
 subtitle: "Com mais de 150 milhões de pets no país, o Brasil consolida-se como segunda maior nação pet do mundo, mas a expansão acelerada do setor expõe contradições profundas entre consumo, bem-estar animal e legislação ainda em construção"
 date: 2026-05-31
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - pets
 description: "O Brasil vive uma revolução silenciosa na relação com animais de estimação. O mercado pet supera R$ 80 bilhões anuais, mas o crescimento exponencial levanta questões urgentes sobre abandono, saúde pública, regulação e os limites éticos da mercantilização do afeto animal."

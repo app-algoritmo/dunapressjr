@@ -2,7 +2,7 @@
 title: Presidente do banco do Brics fala em 'novo capítulo da globalização'
 date: 2021-09-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

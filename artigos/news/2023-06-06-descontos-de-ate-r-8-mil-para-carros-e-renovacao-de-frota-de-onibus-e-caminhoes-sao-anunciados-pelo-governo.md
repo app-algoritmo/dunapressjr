@@ -3,7 +3,7 @@ title: Descontos de até R$ 8 mil para carros e renovação de frota de ônibus 
   são anunciados pelo governo
 date: 2023-06-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

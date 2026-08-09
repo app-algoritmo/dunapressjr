@@ -2,7 +2,7 @@
 title: Telemedicina em tema de inovação e foco para pesquisadores
 date: 2020-07-08
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "O Fim da Era do Dinheiro Barato: Como a Nova Realidade dos Juros Está R
 subtitle: "Com taxas de juro elevadas consolidadas em grandes economias e pressão inflacionária persistente, investidores e empresas enfrentam uma reconfiguração estrutural sem precedentes desde os anos 1980"
 date: 2026-06-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - finances
 description: "A era do dinheiro ultrabarato chegou ao fim e os efeitos colaterais dessa transição estão apenas começando a se manifestar de forma plena. Da renegociação de dívidas corporativas à nova hierarquia de ativos, o cenário financeiro global de 2026 exige uma leitura mais sofisticada do risco e uma revisão profunda das estratégias de alocação."

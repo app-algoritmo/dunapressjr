@@ -2,7 +2,7 @@
 title: Ministério da Economia avalia desbloquear R$ 547,3 mi até o fim do ano
 date: 2022-12-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Governo Central tem déficit primário de R$ 49,97 bilhões em agosto
 date: 2022-09-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

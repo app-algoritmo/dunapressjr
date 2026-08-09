@@ -2,7 +2,7 @@
 title: 'Brics: Vladimir Putin, discursa virtualmente na cimeira 2023'
 date: 2023-08-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - News

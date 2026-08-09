@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,74 em dia de tranquilidade no exterior
 date: 2020-05-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

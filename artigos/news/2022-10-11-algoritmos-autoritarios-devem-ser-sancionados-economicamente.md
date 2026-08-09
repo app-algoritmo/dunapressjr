@@ -2,7 +2,7 @@
 title: Algoritmos autoritários devem ser sancionados economicamente
 date: 2022-10-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Opinion

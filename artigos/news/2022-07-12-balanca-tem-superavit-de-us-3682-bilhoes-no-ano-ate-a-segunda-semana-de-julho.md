@@ -3,7 +3,7 @@ title: Balança tem superávit de US$ 36,82 bilhões no ano, até a segunda sema
   julho
 date: 2022-07-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Citroën e-C4 vs. Lexus UX 300e, o duelo dos elétricos do seguimento da 
   C
 date: 2021-02-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - E-auto
 ---

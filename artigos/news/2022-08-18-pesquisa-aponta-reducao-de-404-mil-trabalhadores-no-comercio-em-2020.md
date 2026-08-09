@@ -2,7 +2,7 @@
 title: Pesquisa aponta redução de 404 mil trabalhadores no comércio em 2020
 date: 2022-08-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Girão cobra do Senado medidas para evitar 'ditadura da toga'
 date: 2022-11-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

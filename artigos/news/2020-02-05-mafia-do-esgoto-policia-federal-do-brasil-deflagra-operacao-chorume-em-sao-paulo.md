@@ -3,7 +3,7 @@ title: 'Máfia do esgoto: Polícia Federal do Brasil deflagra Operação Chorume
   Paulo'
 date: 2020-02-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

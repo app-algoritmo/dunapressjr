@@ -2,7 +2,7 @@
 title: Economia iniciará ano com discussão sobre impostos e novo marco fiscal
 date: 2022-12-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Rede Ebserh articula pesquisa internacional para tratar vacina contra o coronavírus
 date: 2020-07-08
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

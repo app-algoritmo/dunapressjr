@@ -2,7 +2,7 @@
 title: Texto-base da reforma do Imposto de Renda é aprovado na Câmara
 date: 2021-09-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

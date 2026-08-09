@@ -2,7 +2,7 @@
 title: Índice de Custo da Construção apresenta aumento em maio, segundo a FGV
 date: 2023-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

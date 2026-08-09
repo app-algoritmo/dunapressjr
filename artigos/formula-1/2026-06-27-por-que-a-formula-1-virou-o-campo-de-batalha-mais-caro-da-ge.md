@@ -3,7 +3,7 @@ title: "Por que a Fórmula 1 virou o campo de batalha mais caro da geopolítica 
 subtitle: "Com orçamentos que superam PIBs de países pequenos e fabricantes asiáticos disputando espaço no grid, o automobilismo de elite deixou de ser esporte para se tornar laboratório de poder econômico e tecnológico."
 date: 2026-06-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - formula-1
 description: "A Fórmula 1 de 2026 não é mais apenas um campeonato de velocidade — é um tabuleiro onde montadoras, governos e fundos soberanos disputam influência tecnológica e narrativa global. Entender quem entra, quem sai e por que importa tanto quanto qualquer corrida no calendário."

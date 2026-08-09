@@ -3,7 +3,7 @@ title: Concentração e disparidades regionais marcam perfil das empresas export
   brasileiras, revela estudo
 date: 2023-06-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

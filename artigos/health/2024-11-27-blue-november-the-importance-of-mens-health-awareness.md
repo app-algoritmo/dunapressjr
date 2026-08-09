@@ -2,7 +2,7 @@
 title: 'Blue November: The Importance of Men''s Health Awareness'
 date: 2024-11-27
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Health
 - Lifestyle

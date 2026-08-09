@@ -3,7 +3,7 @@ title: 02.1 Em contato telefônico, Jair Bolsonaro reiterou a importância da re
   econômica entre os países
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

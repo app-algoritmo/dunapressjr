@@ -2,7 +2,7 @@
 title: Processo de regularização fundiária na Amazônia em cartilha
 date: 2020-07-31
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

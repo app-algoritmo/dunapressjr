@@ -2,7 +2,7 @@
 title: O nascimento do Cristo e de uma nova oportunidade!
 date: 2018-12-21
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

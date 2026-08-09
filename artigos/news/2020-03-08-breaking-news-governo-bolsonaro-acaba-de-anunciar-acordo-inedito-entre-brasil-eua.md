@@ -2,7 +2,7 @@
 title: 'Breaking news: Governo Bolsonaro acaba de anunciar acordo inédito entre Brasil-EUA'
 date: 2020-03-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

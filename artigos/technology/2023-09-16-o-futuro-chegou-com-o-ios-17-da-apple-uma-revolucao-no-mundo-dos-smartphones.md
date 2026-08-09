@@ -2,7 +2,7 @@
 title: 'O Futuro Chegou com o iOS 17 da Apple: Uma Revolução no Mundo dos Smartphones'
 date: 2023-09-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

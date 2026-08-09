@@ -2,7 +2,7 @@
 title: A cultura do trigo será avaliada no Monitor do Seguro Rural
 date: 2020-07-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

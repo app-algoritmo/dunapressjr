@@ -2,7 +2,7 @@
 title: Prorrogado até 19 de Julho o cadastramento de bolsistas
 date: 2020-07-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: BNDES é um hub de desenvolvimento para o Brasil, diz Montezano
 date: 2022-12-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Sem concorrência, Eletrobras leiloa imóvel, no Rio, por R$ 75 milhões
 date: 2022-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

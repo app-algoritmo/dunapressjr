@@ -2,7 +2,7 @@
 title: Heleno, o General que tem o apoio do maior exercito do Brasil, o povo
 date: 2020-05-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

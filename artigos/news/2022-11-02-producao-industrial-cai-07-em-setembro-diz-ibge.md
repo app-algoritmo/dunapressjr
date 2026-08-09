@@ -2,7 +2,7 @@
 title: Produção industrial cai 0,7% em setembro, diz IBGE
 date: 2022-11-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

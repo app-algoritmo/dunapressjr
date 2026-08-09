@@ -3,7 +3,7 @@ title: "A Inovação em 2026: Entre a Promessa Tecnológica e a Realidade das Or
 subtitle: "Cinco anos após a aceleração digital imposta pela pandemia, o ecossistema global de inovação enfrenta seu teste mais difícil: transformar investimento em impacto mensurável e duradouro"
 date: 2026-05-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - innovation
 description: "Em 2026, o debate sobre inovação amadureceu além do hype tecnológico. Organizações ao redor do mundo enfrentam o desafio real de converter bilhões em investimentos em P&D e inteligência artificial em vantagens competitivas concretas. Este artigo analisa os padrões que separam as empresas que inovam com consistência das que apenas simulam transformação."

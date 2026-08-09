@@ -2,7 +2,7 @@
 title: Com dívida de R$ 40 bilhões ação das Americanas caem
 date: 2023-01-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: <strong>Intenção de consumo alcança maior nível desde abril de 2020</strong>
 date: 2022-11-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Índice de Confiança da Construção (ICST) do FGV IBRE atinge maior ní
   outubro de 2022
 date: 2023-09-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

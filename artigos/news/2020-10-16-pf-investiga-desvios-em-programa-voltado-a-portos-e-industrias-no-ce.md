@@ -2,7 +2,7 @@
 title: PF investiga desvios em programa voltado a portos e indústrias no CE
 date: 2020-10-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

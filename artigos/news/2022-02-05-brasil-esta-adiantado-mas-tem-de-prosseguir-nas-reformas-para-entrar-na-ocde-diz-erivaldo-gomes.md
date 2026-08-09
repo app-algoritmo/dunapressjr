@@ -3,7 +3,7 @@ title: Brasil está adiantado, mas tem de prosseguir nas reformas para entrar na
   diz Erivaldo Gomes
 date: 2022-02-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

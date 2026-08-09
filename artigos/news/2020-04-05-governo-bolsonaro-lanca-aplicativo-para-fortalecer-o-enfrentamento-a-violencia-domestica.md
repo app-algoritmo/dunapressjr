@@ -1,5 +1,5 @@
 ---
-title: Governo Bolsonaro lança aplicativo  para fortalecer o  enfrentamento à violência
+title: Governo Bolsonaro lança aplicativo para fortalecer o enfrentamento à violência
   doméstica
 date: 2020-04-05
 status: publish

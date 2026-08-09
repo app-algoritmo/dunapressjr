@@ -2,7 +2,7 @@
 title: Inflação oficial fica em 0,71% na prévia de janeiro
 date: 2020-01-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

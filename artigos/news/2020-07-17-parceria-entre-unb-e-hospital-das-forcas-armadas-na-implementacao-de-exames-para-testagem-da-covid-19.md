@@ -3,7 +3,7 @@ title: Parceria entre UnB e Hospital das Forças Armadas na implementação de e
   para testagem da covid-19
 date: 2020-07-17
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Noruega para imigrantes: 50 horas de aulas em Formação Cívica'
 date: 2019-08-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

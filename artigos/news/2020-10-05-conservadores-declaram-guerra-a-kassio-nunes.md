@@ -2,7 +2,7 @@
 title: Conservadores declaram guerra a Kássio Nunes
 date: 2020-10-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

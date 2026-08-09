@@ -2,7 +2,7 @@
 title: Taxa de desemprego fica em 11,1% no primeiro trimestre, diz IBGE
 date: 2022-04-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

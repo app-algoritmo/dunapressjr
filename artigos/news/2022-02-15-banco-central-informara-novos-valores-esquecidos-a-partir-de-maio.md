@@ -2,7 +2,7 @@
 title: Banco Central informará novos valores esquecidos a partir de maio
 date: 2022-02-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

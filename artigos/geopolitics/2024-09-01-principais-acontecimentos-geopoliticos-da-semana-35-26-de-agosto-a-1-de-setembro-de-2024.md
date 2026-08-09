@@ -3,7 +3,7 @@ title: 'Principais Acontecimentos Geopolíticos da semana 35: 26 de Agosto a 1º
   Setembro de 2024'
 date: 2024-09-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

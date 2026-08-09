@@ -2,7 +2,7 @@
 title: Produção industrial cresce em 11 dos 15 locais pesquisados pelo IBGE
 date: 2022-04-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

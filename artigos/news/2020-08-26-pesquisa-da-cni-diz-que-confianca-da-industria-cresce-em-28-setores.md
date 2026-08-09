@@ -2,7 +2,7 @@
 title: Pesquisa da CNI diz que confiança da indústria cresce em 28 setores
 date: 2020-08-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

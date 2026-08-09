@@ -1,8 +1,8 @@
 ---
-title: O Futuro do Marketing e a Busca por trabalhos  IA
+title: O Futuro do Marketing e a Busca por trabalhos IA
 date: 2023-12-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

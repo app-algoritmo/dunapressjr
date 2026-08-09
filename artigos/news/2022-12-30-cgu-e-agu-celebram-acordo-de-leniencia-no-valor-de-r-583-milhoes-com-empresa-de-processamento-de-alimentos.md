@@ -3,7 +3,7 @@ title: CGU e AGU celebram acordo de leniência no valor de R$ 583 milhões com e
   de processamento de alimentos
 date: 2022-12-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

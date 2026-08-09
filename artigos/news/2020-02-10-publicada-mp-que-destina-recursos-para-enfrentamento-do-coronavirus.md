@@ -2,7 +2,7 @@
 title: Publicada MP que destina recursos para enfrentamento do coronavírus
 date: 2020-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

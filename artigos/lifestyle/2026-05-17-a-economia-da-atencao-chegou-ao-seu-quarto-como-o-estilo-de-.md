@@ -3,7 +3,7 @@ title: "A Economia da Atenção Chegou ao Seu Quarto: Como o Estilo de Vida Digi
 subtitle: "Entre algoritmos personalizados, fadiga de notificações e a crescente busca por desconexão intencional, entender como gerenciamos nossa atenção tornou-se a questão central do estilo de vida contemporâneo"
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - lifestyle
 description: "Em 2026, o estilo de vida não é mais definido apenas pelo que consumimos ou como nos vestimos, mas fundamentalmente por como distribuímos nossa atenção. A Duna Press analisa as tendências que estão redesenhando rotinas, relações e prioridades em um mundo onde a batalha pelo foco humano nunca foi tão intensa — nem tão lucrativa para quem a vence."

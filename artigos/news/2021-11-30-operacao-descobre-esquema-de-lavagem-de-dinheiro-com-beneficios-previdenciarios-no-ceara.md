@@ -3,7 +3,7 @@ title: Operação descobre esquema de lavagem de dinheiro com benefícios previd
   no Ceará
 date: 2021-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

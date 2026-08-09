@@ -2,7 +2,7 @@
 title: Taxação de energia solar não está definida, afirma governo
 date: 2020-01-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

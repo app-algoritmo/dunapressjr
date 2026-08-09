@@ -2,7 +2,7 @@
 title: PF mira responsáveis por troca de etiquetas de bagagem em aeroporto
 date: 2023-07-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

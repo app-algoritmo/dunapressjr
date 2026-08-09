@@ -2,7 +2,7 @@
 title: Dólar fecha com maior queda em quase duas semanas
 date: 2020-08-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

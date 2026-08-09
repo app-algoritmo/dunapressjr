@@ -2,7 +2,7 @@
 title: Índice que reajusta aluguel acumula inflação de 5,87% em 12 meses
 date: 2020-05-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

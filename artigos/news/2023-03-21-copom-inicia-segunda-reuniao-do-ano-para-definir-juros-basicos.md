@@ -2,7 +2,7 @@
 title: Copom inicia segunda reunião do ano para definir juros básicos
 date: 2023-03-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

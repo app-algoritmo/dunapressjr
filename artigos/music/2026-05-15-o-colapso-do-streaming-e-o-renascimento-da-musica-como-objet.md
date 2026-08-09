@@ -3,7 +3,7 @@ title: "O Colapso do Streaming e o Renascimento da Música como Objeto"
 subtitle: "Quando os algoritmos falharam em criar cultura, o vinil, o cassete e o arquivo físico voltaram para dizer o que as playlists nunca conseguiram"
 date: 2026-05-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - music
 description: "A indústria da música atravessa uma inflexão histórica em 2026: o modelo de streaming, dominante por mais de uma década, começa a mostrar rachaduras estruturais enquanto o consumo físico e a cultura do objeto musical reemergem com força surpreendente. Uma análise sobre o que essa virada diz sobre tecnologia, valor e identidade cultural."

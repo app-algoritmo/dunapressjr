@@ -1,8 +1,8 @@
 ---
-title: 10 coisas a considerar antes de comprar  um cachorro
+title: 10 coisas a considerar antes de comprar um cachorro
 date: 2020-10-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Pets
 ---

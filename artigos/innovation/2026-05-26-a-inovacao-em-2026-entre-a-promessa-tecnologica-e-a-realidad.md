@@ -3,7 +3,7 @@ title: "A Inovação em 2026: Entre a Promessa Tecnológica e a Realidade do Mer
 subtitle: "Cinco anos após a pandemia que acelerou transformações digitais sem precedentes, o ecossistema global de inovação enfrenta seu teste mais rigoroso: separar o que realmente transforma sociedades do que apenas fascina investidores"
 date: 2026-05-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - innovation
 description: "Uma análise aprofundada sobre o estado atual da inovação global em 2026, examinando como empresas, governos e investidores navegam entre ciclos de hype tecnológico e transformações estruturais genuínas, com foco especial no papel da inteligência artificial, da biotecnologia e das pressões regulatórias que redesenham o campo competitivo mundial."

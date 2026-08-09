@@ -3,7 +3,7 @@ title: STF suspende exigências de leis para governo adotar medidas sociais e ec
   contra Covid-19
 date: 2020-03-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

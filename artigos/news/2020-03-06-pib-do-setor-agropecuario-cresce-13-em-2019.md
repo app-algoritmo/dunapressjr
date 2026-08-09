@@ -2,7 +2,7 @@
 title: PIB do setor agropecuário cresce 1,3% em 2019
 date: 2020-03-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

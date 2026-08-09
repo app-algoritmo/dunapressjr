@@ -2,7 +2,7 @@
 title: Produção industrial brasileira apresenta leve crescimento em setembro de 2023
 date: 2023-11-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

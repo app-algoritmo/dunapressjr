@@ -3,7 +3,7 @@ title: "O Colapso da Confiança: Por Que as Democracias Ocidentais Enfrentam Sua
 subtitle: "Em 2026, pesquisas em 40 países revelam que menos de um terço da população acredita que seus governos atuam em seu benefício. O que esse dado catastrófico significa para o futuro da política democrática."
 date: 2026-05-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - politics-and-society
 description: "Um conjunto robusto de dados divulgados ao longo de maio de 2026 confirma o que analistas políticos vinham alertando há anos: a confiança nas instituições democráticas atingiu seu ponto mais baixo desde o pós-Segunda Guerra Mundial. Este artigo examina as causas estruturais desse colapso, seus desdobramentos sociais e as possibilidades reais de reversão antes que o dano se torne irreparável."

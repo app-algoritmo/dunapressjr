@@ -2,7 +2,7 @@
 title: Dia Internacional da Não Violência
 date: 2019-10-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

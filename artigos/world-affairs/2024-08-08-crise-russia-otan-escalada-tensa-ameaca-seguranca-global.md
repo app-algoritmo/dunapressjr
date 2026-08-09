@@ -2,7 +2,7 @@
 title: 'Crise Rússia-OTAN: Escalada Tensa Ameaça Segurança Global'
 date: 2024-08-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

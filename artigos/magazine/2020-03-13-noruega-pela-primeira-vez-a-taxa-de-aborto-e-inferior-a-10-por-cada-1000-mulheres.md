@@ -3,7 +3,7 @@ title: Noruega, pela primeira vez, a taxa de aborto é inferior a 10 por cada 1.
   mulheres
 date: 2020-03-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

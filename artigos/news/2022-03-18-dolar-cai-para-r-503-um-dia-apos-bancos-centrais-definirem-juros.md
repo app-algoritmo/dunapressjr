@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,03, um dia após Bancos Centrais definirem juros
 date: 2022-03-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

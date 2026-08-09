@@ -2,7 +2,7 @@
 title: Operação da PF investiga fraude em aquisição de testes para covid-19
 date: 2021-03-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

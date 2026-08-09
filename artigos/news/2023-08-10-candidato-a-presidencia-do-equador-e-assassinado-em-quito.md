@@ -2,7 +2,7 @@
 title: Candidato à presidência do Equador é assassinado em Quito
 date: 2023-08-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

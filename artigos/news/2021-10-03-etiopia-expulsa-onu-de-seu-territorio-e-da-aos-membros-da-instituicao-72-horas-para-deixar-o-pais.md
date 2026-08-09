@@ -3,7 +3,7 @@ title: Etiópia expulsa ONU de seu território e dá aos membros da instituiçã
   para deixar o país
 date: 2021-10-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

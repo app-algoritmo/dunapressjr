@@ -2,7 +2,7 @@
 title: PR Donald Trump apresenta as diretrizes para a abertura da América novamente
 date: 2020-05-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

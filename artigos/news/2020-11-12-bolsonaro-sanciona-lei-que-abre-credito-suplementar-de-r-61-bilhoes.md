@@ -2,7 +2,7 @@
 title: Bolsonaro sanciona lei que abre crédito suplementar de R$ 6,1 bilhões
 date: 2020-11-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

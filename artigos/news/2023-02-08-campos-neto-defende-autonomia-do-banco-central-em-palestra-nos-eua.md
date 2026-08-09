@@ -2,7 +2,7 @@
 title: Campos Neto defende autonomia do Banco Central em palestra nos EUA
 date: 2023-02-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

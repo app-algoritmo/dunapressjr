@@ -2,7 +2,7 @@
 title: Volume de serviços no Brasil apresenta variação de -0,9% em agosto de 2023
 date: 2023-10-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

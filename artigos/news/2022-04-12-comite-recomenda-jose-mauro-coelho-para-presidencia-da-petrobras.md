@@ -2,7 +2,7 @@
 title: Comitê recomenda José Mauro Coelho para Presidência da Petrobras
 date: 2022-04-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Ibovespa sofre perdas mesmo após deflação, enquanto mercado aguarda co
   juros
 date: 2023-07-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

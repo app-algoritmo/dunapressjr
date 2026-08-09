@@ -3,7 +3,7 @@ title: 'Urgente: Militares venezuelanos ameaçam Jair Bolsonaro na fronteira com
   Brasil'
 date: 2022-12-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 - News

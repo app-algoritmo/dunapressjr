@@ -2,7 +2,7 @@
 title: Cinema norueguês aposta em franquias e refilmagens no segundo semestre de 2019
 date: 2019-08-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 ---

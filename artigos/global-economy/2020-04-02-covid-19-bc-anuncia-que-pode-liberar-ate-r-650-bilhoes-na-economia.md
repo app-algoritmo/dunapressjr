@@ -2,7 +2,7 @@
 title: 'Covid-19: BC anuncia que pode liberar até R$ 650 bilhões na economia'
 date: 2020-04-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

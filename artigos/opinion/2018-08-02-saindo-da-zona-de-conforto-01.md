@@ -2,7 +2,7 @@
 title: "Saindo da zona de conforto - 01"
 date: 2018-08-02
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
   - global-affairs
 ---

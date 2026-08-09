@@ -2,7 +2,7 @@
 title: Inflação do aluguel acumula 33,83% em 12 meses
 date: 2021-07-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

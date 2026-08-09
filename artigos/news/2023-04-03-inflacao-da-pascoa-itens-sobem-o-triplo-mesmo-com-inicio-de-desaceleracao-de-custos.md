@@ -3,7 +3,7 @@ title: 'Inflação da Páscoa: Itens sobem o triplo, mesmo com início de desace
   de custos'
 date: 2023-04-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Mercado espera que economia cresça 0,85% este ano
 date: 2023-03-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

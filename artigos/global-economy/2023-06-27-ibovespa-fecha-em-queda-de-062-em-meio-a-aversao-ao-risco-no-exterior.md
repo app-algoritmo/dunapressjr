@@ -2,7 +2,7 @@
 title: Ibovespa fecha em queda de 0,62% em meio a aversão ao risco no exterior
 date: 2023-06-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

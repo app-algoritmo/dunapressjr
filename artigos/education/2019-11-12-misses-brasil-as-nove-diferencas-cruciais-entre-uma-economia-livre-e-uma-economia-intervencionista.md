@@ -3,7 +3,7 @@ title: 'Misses Brasil: As nove diferenças cruciais entre uma economia livre e u
   economia intervencionista'
 date: 2019-11-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Policy

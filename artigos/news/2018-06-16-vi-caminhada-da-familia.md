@@ -2,7 +2,7 @@
 title: VI Caminhada da Família
 date: 2018-06-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

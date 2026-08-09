@@ -2,7 +2,7 @@
 title: ANP aprova oito empresas para primeira Oferta Permanente de Partilha
 date: 2022-08-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

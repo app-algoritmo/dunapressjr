@@ -2,7 +2,7 @@
 title: O versículo mais abusado da Bíblia
 date: 2026-03-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Culture and History
 ---

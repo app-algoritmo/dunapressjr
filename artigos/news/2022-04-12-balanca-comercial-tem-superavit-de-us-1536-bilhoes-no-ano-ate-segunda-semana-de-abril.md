@@ -3,7 +3,7 @@ title: Balança comercial tem superávit de US$ 15,36 bilhões no ano, até segu
   de abril
 date: 2022-04-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

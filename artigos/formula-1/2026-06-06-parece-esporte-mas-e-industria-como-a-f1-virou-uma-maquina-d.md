@@ -3,7 +3,7 @@ title: "Parece esporte, mas é indústria: como a F1 virou uma máquina de US$ 1
 subtitle: "Enquanto o mundo assiste a ultrapassagens, uma batalha silenciosa por patentes, territórios e influência geopolítica redefine quem controla o futuro do automobilismo."
 date: 2026-06-06
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - formula-1
 description: "A Fórmula 1 encerrou 2025 com receita recorde de US$ 3,65 bilhões e uma base de 826 milhões de fãs globais, mas o que está em jogo em 2026 vai muito além das corridas. A temporada atual é o primeiro teste real de um novo ciclo de motores híbridos que interessa tanto a montadoras quanto a governos que apostam na eletrificação como estratégia nacional."

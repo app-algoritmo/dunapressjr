@@ -2,7 +2,7 @@
 title: Preparação e Resiliência diante da Ameaça de um Conflito Global
 date: 2024-02-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

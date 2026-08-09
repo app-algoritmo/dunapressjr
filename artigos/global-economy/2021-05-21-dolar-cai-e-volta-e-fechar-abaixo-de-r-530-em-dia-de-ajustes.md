@@ -2,7 +2,7 @@
 title: Dólar cai e volta e fechar abaixo de R$ 5,30 em dia de ajustes
 date: 2021-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

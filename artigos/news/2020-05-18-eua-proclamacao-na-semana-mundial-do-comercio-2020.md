@@ -2,7 +2,7 @@
 title: 'EUA: Proclamação na Semana Mundial do Comércio 2020'
 date: 2020-05-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

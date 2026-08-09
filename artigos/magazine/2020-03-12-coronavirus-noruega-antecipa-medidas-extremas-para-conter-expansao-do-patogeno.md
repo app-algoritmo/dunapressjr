@@ -2,7 +2,7 @@
 title: Coronavírus, Noruega antecipa medidas extremas para conter expansão do patógeno
 date: 2020-03-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

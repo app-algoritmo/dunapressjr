@@ -2,7 +2,7 @@
 title: Startups podem obter crédito para acessar soluções tecnológicas
 date: 2022-05-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

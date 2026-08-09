@@ -3,7 +3,7 @@ title: "O que acontece quando um chef abandona o fine dining para cozinhar comid
 subtitle: "Uma geração de cozinheiros formados nas melhores brigadas do mundo está trocando o estrelato Michelin por barracas, quentinhas e mercados populares — e transformando a gastronomia brasileira no processo."
 date: 2026-06-14
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - gastronomia
 description: "Chefs com passagens por restaurantes estrelados estão abandonando o fine dining para trabalhar com comida popular, num movimento que redesenha tanto a identidade gastronômica brasileira quanto o modelo de negócio do setor. O fenômeno, que ganhou força entre 2023 e 2026, levanta perguntas incômodas sobre prestígio, acesso e o que realmente significa cozinhar bem no Brasil."

@@ -2,7 +2,7 @@
 title: Imposto de Importação para carros elétricos será retomado em 2024
 date: 2023-11-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

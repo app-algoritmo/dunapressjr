@@ -2,7 +2,7 @@
 title: Análise de Interesse Geral - Economia, caos e soberania
 date: 2020-04-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Global Economy
 ---

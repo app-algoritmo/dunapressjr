@@ -1,5 +1,5 @@
 ---
-title: 'Série Fatos Da Independência: Início da guerra em  Maranhão'
+title: 'Série Fatos Da Independência: Início da guerra em Maranhão'
 date: 2023-05-20
 status: publish
 author: Joice Ferreira

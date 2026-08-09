@@ -2,7 +2,7 @@
 title: De Havilland DH 106 Comet
 date: 2023-10-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Technology
 ---

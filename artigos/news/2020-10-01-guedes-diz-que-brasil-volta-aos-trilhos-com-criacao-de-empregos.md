@@ -2,7 +2,7 @@
 title: Guedes diz que Brasil “volta aos trilhos” com criação de empregos
 date: 2020-10-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

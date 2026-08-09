@@ -3,7 +3,7 @@ title: "47 cúpulas em 18 meses: o ritmo diplomático que está redesenhando ali
 subtitle: "A aceleração inédita de encontros multilaterais desde janeiro de 2025 revela uma corrida silenciosa por posicionamento geopolítico antes que as regras do próximo ciclo global se consolidem."
 date: 2026-07-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - international-affairs
 description: "O mundo está vivendo a maior densidade de cúpulas diplomáticas desde o fim da Guerra Fria, com 47 encontros multilaterais relevantes entre janeiro de 2025 e junho de 2026. O fenômeno não é acidente de agenda — é sintoma de uma corrida para fixar posições antes que a nova arquitetura de poder global se torne irreversível."

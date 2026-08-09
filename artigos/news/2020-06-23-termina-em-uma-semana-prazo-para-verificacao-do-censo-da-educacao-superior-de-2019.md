@@ -3,7 +3,7 @@ title: Termina em uma semana prazo para verificação do Censo da Educação Sup
   de 2019
 date: 2020-06-23
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

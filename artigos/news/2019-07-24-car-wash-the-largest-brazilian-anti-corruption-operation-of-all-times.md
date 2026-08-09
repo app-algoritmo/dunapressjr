@@ -2,7 +2,7 @@
 title: Car Wash, the largest Brazilian anti-corruption operation of all times
 date: 2019-07-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

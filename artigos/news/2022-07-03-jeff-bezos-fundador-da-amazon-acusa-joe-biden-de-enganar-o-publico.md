@@ -2,7 +2,7 @@
 title: Jeff Bezos, fundador da Amazon acusa Joe Biden de enganar o público
 date: 2022-07-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

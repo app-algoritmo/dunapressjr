@@ -2,7 +2,7 @@
 title: Contatos do celular poderão ser integrados ao Pix a partir de abril
 date: 2021-03-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

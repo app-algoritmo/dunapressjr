@@ -2,7 +2,7 @@
 title: Ministério mantém previsão de queda da economia em 4,7% este ano
 date: 2020-09-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

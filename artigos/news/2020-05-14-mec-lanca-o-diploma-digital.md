@@ -2,7 +2,7 @@
 title: MEC lança o diploma digital
 date: 2020-05-14
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

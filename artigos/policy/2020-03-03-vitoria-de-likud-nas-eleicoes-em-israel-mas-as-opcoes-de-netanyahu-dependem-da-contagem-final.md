@@ -1,5 +1,5 @@
 ---
-title: Vitória de Likud, nas eleições  em Israel,  mas as opções de Netanyahu dependem
+title: Vitória de Likud, nas eleições em Israel, mas as opções de Netanyahu dependem
   da contagem final
 date: 2020-03-03
 status: publish

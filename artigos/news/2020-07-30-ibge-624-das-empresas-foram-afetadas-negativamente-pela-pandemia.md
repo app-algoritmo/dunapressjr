@@ -2,7 +2,7 @@
 title: 'IBGE: 62,4% das empresas foram afetadas negativamente pela pandemia'
 date: 2020-07-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

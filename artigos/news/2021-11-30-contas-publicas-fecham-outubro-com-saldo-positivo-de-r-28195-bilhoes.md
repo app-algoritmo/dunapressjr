@@ -2,7 +2,7 @@
 title: Contas públicas fecham outubro com saldo positivo de R$ 28,195 bilhões
 date: 2021-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Bolsa brasileira encerrou o pregão em queda de 0,82%, aos 107.830 pontos
 date: 2023-02-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: 'Fezes, cartas ensanguentadas e pacotes explosivos: guerra contra a Ucrâ
   chegou às suas embaixadas'
 date: 2022-12-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

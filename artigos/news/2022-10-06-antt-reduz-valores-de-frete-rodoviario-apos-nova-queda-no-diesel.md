@@ -2,7 +2,7 @@
 title: ANTT reduz valores de frete rodoviário após nova queda no diesel
 date: 2022-10-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Cerca de 12,4 milhões devem refazer cadastro no auxílio emergencial
 date: 2020-05-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: OIT volta a analisar reforma trabalhista brasileira
 date: 2019-06-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

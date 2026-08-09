@@ -2,7 +2,7 @@
 title: Governador da Paraíba entrega mais um hospital com 150 leitos
 date: 2020-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

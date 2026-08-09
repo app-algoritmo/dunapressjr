@@ -2,7 +2,7 @@
 title: Dólar encosta em R$ 5,08, mas fecha a semana em queda
 date: 2022-03-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

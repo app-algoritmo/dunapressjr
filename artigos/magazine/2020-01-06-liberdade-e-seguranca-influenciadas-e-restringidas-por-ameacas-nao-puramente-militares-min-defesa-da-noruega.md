@@ -1,9 +1,9 @@
 ---
-title: Liberdade e segurança  influenciadas e restringidas por ameaças não puramente
+title: Liberdade e segurança influenciadas e restringidas por ameaças não puramente
   militares, Min Defesa da Noruega
 date: 2020-01-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

@@ -2,7 +2,7 @@
 title: Testes em brasileiros trazidos da China dão negativos para coronavírus
 date: 2020-02-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

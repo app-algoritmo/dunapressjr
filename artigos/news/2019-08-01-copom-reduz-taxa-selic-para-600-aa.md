@@ -2,7 +2,7 @@
 title: Copom reduz taxa Selic para 6,00% a.a.
 date: 2019-08-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

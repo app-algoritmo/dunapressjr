@@ -2,7 +2,7 @@
 title: Mercado reduz expectativa de inflação para 5,79%
 date: 2022-12-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

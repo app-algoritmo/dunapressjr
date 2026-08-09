@@ -2,7 +2,7 @@
 title: Faixas de contribuição à Previdência dos servidores são reajustadas
 date: 2021-01-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "O mundo parece fragmentado, mas o comércio global bateu recorde em 2025
 subtitle: "Enquanto líderes debatem desglobalização em Davos e Washington, os fluxos reais de mercadorias e dados sugerem uma reconfiguração silenciosa, não um recuo — e o Brasil está no cruzamento dessa disputa."
 date: 2026-07-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-economy
 description: "O comércio global atingiu US$ 33,1 trilhões em 2025, segundo a OMC — o maior volume da história, contrariando a narrativa dominante de desglobalização. O que está mudando não é o tamanho do bolo, mas quem controla as rotas, os cabos e as moedas que movem esse dinheiro."

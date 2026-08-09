@@ -3,7 +3,7 @@ title: Estendidos prazos pelo FNDE para escolas solicitarem livros didáticos no
   de reserva técnica
 date: 2020-07-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

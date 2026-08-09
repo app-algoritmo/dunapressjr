@@ -2,7 +2,7 @@
 title: 'Covid-19: CGU e PF combatem irregularidades na saúde em São Luís (MA)'
 date: 2020-10-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Em novembro, IPCA foi de 0,51%
 date: 2019-12-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

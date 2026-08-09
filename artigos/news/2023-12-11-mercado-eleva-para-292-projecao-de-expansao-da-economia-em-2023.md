@@ -2,7 +2,7 @@
 title: Mercado eleva para 2,92% projeção de expansão da economia em 2023
 date: 2023-12-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

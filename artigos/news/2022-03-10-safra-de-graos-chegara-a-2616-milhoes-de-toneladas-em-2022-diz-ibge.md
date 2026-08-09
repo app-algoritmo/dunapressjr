@@ -2,7 +2,7 @@
 title: Safra de grãos chegará a 261,6 milhões de toneladas em 2022, diz IBGE
 date: 2022-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

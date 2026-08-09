@@ -2,7 +2,7 @@
 title: IGP-M registra queda de preços de 0,56% em novembro, diz FGV
 date: 2022-11-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Novo site do MEC está no ar – Acesso em gov.br/mec
 date: 2020-05-31
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

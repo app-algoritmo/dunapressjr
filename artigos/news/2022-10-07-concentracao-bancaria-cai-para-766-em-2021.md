@@ -2,7 +2,7 @@
 title: Concentração bancária cai para 76,6% em 2021
 date: 2022-10-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

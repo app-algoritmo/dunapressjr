@@ -2,7 +2,7 @@
 title: Descoberto por arqueólogos uma cidade inteira sob as águas do Mediterrâneo
 date: 2020-03-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Confiança do empresário cai 3,3 pontos em outubro, diz FGV
 date: 2022-11-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

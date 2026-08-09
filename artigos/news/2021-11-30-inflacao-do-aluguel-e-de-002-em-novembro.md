@@ -2,7 +2,7 @@
 title: Inflação do aluguel é de 0,02%, em novembro
 date: 2021-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

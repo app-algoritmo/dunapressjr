@@ -2,7 +2,7 @@
 title: Embraer exportará seis jatos comerciais para a americana SkyWest
 date: 2022-10-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

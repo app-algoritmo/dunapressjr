@@ -2,7 +2,7 @@
 title: IPCA registra queda de preços de 0,29% em setembro
 date: 2022-10-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

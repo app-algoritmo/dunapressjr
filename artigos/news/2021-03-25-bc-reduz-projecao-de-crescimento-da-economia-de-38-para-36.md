@@ -2,7 +2,7 @@
 title: BC reduz projeção de crescimento da economia de 3,8% para 3,6%
 date: 2021-03-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Chanceleres dos países do Brics expressam preocupação com a falta de a
   dos países ricos para a erradicação da pobreza global
 date: 2023-06-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

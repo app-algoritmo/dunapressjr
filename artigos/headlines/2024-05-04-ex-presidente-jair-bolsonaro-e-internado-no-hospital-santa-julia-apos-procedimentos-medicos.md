@@ -3,7 +3,7 @@ title: Ex-presidente Jair Bolsonaro é internado no Hospital Santa Júlia após 
   médicos
 date: 2024-05-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Headlines
 ---

@@ -1,9 +1,9 @@
 ---
-title: 'EUA: Estados e universidades limitam o uso do TikTok para  funcionários do
+title: 'EUA: Estados e universidades limitam o uso do TikTok para funcionários do
   governo e estudantes'
 date: 2023-01-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Technology

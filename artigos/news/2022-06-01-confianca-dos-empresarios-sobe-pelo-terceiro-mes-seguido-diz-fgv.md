@@ -2,7 +2,7 @@
 title: Confiança dos empresários sobe pelo terceiro mês seguido, diz FGV
 date: 2022-06-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

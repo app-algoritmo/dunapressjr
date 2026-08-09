@@ -2,7 +2,7 @@
 title: Onde mulheres e agredidos devem recorrer em casos de violência
 date: 2020-05-11
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

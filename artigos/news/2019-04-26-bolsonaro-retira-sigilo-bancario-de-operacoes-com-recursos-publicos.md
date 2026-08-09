@@ -2,7 +2,7 @@
 title: Bolsonaro retira sigilo bancário de operações com recursos públicos
 date: 2019-04-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

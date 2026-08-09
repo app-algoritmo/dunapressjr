@@ -3,7 +3,7 @@ title: Presidente do Governo de Espanha convoca eleições gerais após derrota 
   regionais
 date: 2023-05-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Geopolitics
 ---

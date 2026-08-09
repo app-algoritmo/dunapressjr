@@ -2,7 +2,7 @@
 title: Região Norte é destaque na retomada econômica entre as regiões do país
 date: 2020-11-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Prorrogada autorização para atividades não presenciais em cursos técn
   dezembro
 date: 2020-08-05
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ministro da Economia oferece equipe para transição, diz Barbosa
 date: 2022-11-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

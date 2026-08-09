@@ -2,7 +2,7 @@
 title: Petrobras anuncia aumento de preço da Gasolina para as distribuidoras
 date: 2023-01-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

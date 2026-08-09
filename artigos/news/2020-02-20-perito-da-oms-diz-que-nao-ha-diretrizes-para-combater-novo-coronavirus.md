@@ -2,7 +2,7 @@
 title: Perito da OMS diz que não há diretrizes para combater novo coronavírus
 date: 2020-02-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

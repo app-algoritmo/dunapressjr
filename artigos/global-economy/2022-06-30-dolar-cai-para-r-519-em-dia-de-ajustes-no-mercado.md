@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,19 em dia de ajustes no mercado
 date: 2022-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

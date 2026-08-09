@@ -2,7 +2,7 @@
 title: Ministério da Economia projeta queda de 4,7% na economia este ano
 date: 2020-05-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

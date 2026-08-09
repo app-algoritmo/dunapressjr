@@ -2,7 +2,7 @@
 title: Receita zera PIS/Pasep e Cofins incidentes sobre importações de GLP
 date: 2022-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

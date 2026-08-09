@@ -3,7 +3,7 @@ title: Concurso internacional vai selecionar empresas que desenvolverão o plano
   marketing e de integração do roteiro religioso
 date: 2019-08-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 ---

@@ -2,7 +2,7 @@
 title: Elon Musk será preso por denunciar as sujeiras do twitter?
 date: 2022-12-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

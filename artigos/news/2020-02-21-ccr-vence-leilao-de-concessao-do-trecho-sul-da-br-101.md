@@ -2,7 +2,7 @@
 title: CCR vence leilão de concessão do trecho sul da BR-101
 date: 2020-02-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

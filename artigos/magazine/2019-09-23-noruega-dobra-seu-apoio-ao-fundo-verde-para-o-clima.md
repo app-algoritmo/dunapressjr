@@ -2,7 +2,7 @@
 title: Noruega dobra seu apoio ao Fundo Verde para o Clima
 date: 2019-09-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

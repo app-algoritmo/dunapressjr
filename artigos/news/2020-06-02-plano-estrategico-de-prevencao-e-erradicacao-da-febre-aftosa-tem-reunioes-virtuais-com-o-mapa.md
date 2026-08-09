@@ -3,7 +3,7 @@ title: Plano Estratégico de Prevenção e Erradicação da febre aftosa tem reu
   com o Mapa
 date: 2020-06-02
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

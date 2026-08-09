@@ -2,7 +2,7 @@
 title: Cultivo de alface hidropônico melhora renda de família em Alhandra/PB
 date: 2021-01-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

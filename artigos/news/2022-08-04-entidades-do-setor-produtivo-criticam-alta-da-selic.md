@@ -2,7 +2,7 @@
 title: Entidades do setor produtivo criticam alta da Selic
 date: 2022-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

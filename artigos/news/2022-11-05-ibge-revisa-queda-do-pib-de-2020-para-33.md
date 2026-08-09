@@ -2,7 +2,7 @@
 title: IBGE revisa queda do PIB de 2020 para 3,3%
 date: 2022-11-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

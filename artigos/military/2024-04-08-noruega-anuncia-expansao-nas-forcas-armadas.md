@@ -2,7 +2,7 @@
 title: Noruega Anuncia Expansão nas Forças Armadas!
 date: 2024-04-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 ---

@@ -3,7 +3,7 @@ title: Recuperação da indústria brasileira impulsiona a economia após perío
   atividade
 date: 2023-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

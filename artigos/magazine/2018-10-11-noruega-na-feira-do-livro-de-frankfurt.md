@@ -2,7 +2,7 @@
 title: Noruega na Feira do Livro de Frankfurt
 date: 2018-10-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - News

@@ -3,7 +3,7 @@ title: O papel das políticas europeias para melhorar a eficiência dos combust�
   das usinas
 date: 2020-05-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

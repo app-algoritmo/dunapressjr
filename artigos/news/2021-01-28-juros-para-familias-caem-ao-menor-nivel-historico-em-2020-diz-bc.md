@@ -2,7 +2,7 @@
 title: Juros para famílias caem ao menor nível histórico em 2020, diz BC
 date: 2021-01-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

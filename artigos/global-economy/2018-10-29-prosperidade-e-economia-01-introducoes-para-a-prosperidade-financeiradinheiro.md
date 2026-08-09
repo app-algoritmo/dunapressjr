@@ -2,7 +2,7 @@
 title: Prosperidade e economia – 01 - Introduções para a prosperidade financeira/dinheiro
 date: 2018-10-29
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Global Economy
 ---

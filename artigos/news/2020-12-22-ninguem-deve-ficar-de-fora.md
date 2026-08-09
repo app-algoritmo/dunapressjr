@@ -2,7 +2,7 @@
 title: Ninguém deve ficar de fora
 date: 2020-12-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Vladimir Putin convidado para o G20 de novembro 2022
 date: 2022-09-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

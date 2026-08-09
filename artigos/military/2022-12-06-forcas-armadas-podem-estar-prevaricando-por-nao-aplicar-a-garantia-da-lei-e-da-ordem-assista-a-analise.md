@@ -3,7 +3,7 @@ title: Forças Armadas podem estar prevaricando por não aplicar a Garantia da L
   da Ordem, assista a analise
 date: 2022-12-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 - News

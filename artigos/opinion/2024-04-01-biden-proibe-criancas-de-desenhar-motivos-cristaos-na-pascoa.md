@@ -2,7 +2,7 @@
 title: Biden “proíbe” crianças de desenhar motivos cristãos na Páscoa?
 date: 2024-04-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Opinion
 ---

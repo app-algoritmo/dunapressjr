@@ -2,7 +2,7 @@
 title: 'Urgente: Rússia ordena cessar fogo dias 6 e 7 de janeiro'
 date: 2023-01-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

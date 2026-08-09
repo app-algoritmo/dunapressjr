@@ -3,7 +3,7 @@ title: Pesquisa da Fundação Dom Cabral revela tendências na internacionaliza�
   empresas brasileiras
 date: 2023-09-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

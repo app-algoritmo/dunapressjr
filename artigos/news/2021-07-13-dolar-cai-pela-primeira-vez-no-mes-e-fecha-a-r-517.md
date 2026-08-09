@@ -2,7 +2,7 @@
 title: Dólar cai pela primeira vez no mês e fecha a R$ 5,17
 date: 2021-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

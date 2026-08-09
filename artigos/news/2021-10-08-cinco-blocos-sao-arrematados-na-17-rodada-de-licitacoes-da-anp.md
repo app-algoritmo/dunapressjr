@@ -2,7 +2,7 @@
 title: Cinco blocos são arrematados na 17ª Rodada de Licitações da ANP
 date: 2021-10-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

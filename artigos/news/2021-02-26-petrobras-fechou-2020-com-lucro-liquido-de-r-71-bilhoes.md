@@ -2,7 +2,7 @@
 title: Petrobras fechou 2020 com lucro líquido de R$ 7,1 bilhões
 date: 2021-02-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

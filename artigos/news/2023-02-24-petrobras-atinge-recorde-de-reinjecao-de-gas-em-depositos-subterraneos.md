@@ -2,7 +2,7 @@
 title: Petrobras atinge recorde de reinjeção de gás em depósitos subterrâneos
 date: 2023-02-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

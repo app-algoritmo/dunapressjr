@@ -2,7 +2,7 @@
 title: Poupança tem retirada líquida recorde de R$ 22,02 bilhões em agosto
 date: 2022-09-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

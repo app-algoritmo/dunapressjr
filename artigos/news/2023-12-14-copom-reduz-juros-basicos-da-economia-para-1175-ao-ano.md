@@ -2,7 +2,7 @@
 title: Copom reduz juros básicos da economia para 11,75% ao ano
 date: 2023-12-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

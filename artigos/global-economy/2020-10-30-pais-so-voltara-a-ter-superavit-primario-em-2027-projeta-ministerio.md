@@ -2,7 +2,7 @@
 title: País só voltará a ter superávit primário em 2027, projeta ministério
 date: 2020-10-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

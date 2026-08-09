@@ -3,7 +3,7 @@ title: A II Guerra Mundial, Documentário com 24 episódios em vídeo, dos 2.174
   que mudaram o mundo
 date: 2020-01-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Video library
 ---

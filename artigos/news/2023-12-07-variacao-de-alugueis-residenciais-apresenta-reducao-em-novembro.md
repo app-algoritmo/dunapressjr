@@ -2,7 +2,7 @@
 title: Variação de aluguéis residenciais apresenta redução em novembro
 date: 2023-12-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

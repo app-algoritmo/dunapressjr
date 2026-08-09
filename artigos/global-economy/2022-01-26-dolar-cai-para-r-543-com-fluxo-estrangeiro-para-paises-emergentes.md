@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,43, com fluxo estrangeiro para países emergentes
 date: 2022-01-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

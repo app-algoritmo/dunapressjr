@@ -3,7 +3,7 @@ title: Sefaz-PB publica ‘Boletim Covid-19’ nº 9 com dados do segundo trimes
   ano
 date: 2020-07-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

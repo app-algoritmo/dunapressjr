@@ -2,7 +2,7 @@
 title: Censo Demográfico de 2022 revela crescimento populacional desacelerado no Brasil
 date: 2023-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

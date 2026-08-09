@@ -4,7 +4,7 @@ title: 02.1 Em primeiro discurso após tomar posse, ministro explicou agenda que
   aconteceu nesta quarta-feira
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Esclarecido pelo Mapa a investidores estrangeiros que regularização fun
   será importante para preservação da Amazônia
 date: 2020-07-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

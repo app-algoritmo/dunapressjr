@@ -2,7 +2,7 @@
 title: Marinha britânica protegerá águas de pesca em caso de não acordo no Brexit
 date: 2020-12-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

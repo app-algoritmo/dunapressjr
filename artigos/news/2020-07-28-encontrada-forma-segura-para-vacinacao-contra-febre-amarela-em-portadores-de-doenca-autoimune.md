@@ -3,7 +3,7 @@ title: Encontrada forma segura para vacinação contra febre amarela em portador
   doença autoimune
 date: 2020-07-28
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

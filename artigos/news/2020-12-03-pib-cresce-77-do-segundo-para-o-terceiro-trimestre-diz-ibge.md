@@ -2,7 +2,7 @@
 title: PIB cresce 7,7% do segundo para o terceiro trimestre, diz IBGE
 date: 2020-12-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

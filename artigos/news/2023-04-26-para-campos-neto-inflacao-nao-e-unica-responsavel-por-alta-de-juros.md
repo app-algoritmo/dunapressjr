@@ -2,7 +2,7 @@
 title: Para Campos Neto, inflação não é única responsável por alta de juros
 date: 2023-04-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

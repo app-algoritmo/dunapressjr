@@ -2,7 +2,7 @@
 title: Salão do Livro de Genebra - cobertura exclusiva Duna Press
 date: 2018-04-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Culture and History
 ---

@@ -3,7 +3,7 @@ title: Ex-primeiro-ministro do Paquistão, Imran Khan, é preso por acusações 
   e terrorismo
 date: 2023-05-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Geopolitics
 ---

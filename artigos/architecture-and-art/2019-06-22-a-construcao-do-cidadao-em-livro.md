@@ -2,7 +2,7 @@
 title: A construção do cidadão em livro
 date: 2019-06-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 ---

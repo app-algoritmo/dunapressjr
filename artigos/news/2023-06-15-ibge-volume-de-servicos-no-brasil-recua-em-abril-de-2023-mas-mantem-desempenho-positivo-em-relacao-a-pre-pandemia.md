@@ -3,7 +3,7 @@ title: 'IBGE: Volume de serviços no Brasil recua em abril de 2023, mas mantém 
   positivo em relação à pré-pandemia'
 date: 2023-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

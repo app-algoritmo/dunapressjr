@@ -2,7 +2,7 @@
 title: TCU aprova continuidade do processo de desestatização da CeasaMinas
 date: 2022-09-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: '15 de dezembro: dia do Arquiteto no Brasil'
 date: 2018-12-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

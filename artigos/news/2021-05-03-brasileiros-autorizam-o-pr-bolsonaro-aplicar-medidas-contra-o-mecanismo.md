@@ -2,7 +2,7 @@
 title: Brasileiros autorizam o Pr. Bolsonaro aplicar medidas contra o mecanismo
 date: 2021-05-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

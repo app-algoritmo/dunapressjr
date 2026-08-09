@@ -2,7 +2,7 @@
 title: 'CNC: intenção de consumo das famílias mantém ritmo de crescimento'
 date: 2021-07-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

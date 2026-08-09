@@ -2,7 +2,7 @@
 title: Ibovespa encerra em alta de 0,31%
 date: 2023-02-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

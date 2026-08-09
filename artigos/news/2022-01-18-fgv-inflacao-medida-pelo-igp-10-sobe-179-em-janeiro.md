@@ -2,7 +2,7 @@
 title: 'FGV: inflação medida pelo IGP-10 sobe 1,79% em janeiro'
 date: 2022-01-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

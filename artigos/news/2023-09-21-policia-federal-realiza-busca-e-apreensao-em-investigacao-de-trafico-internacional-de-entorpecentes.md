@@ -3,7 +3,7 @@ title: Polícia Federal realiza busca e apreensão em investigação de tráfico
   de entorpecentes
 date: 2023-09-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

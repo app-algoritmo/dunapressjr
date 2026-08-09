@@ -3,7 +3,7 @@ title: "O clube dos 'neutros' já tem 40 países — e o Brasil está no centro 
 subtitle: "A emergência de um bloco informal de nações que recusam a lógica de blocos está redesenhando a geopolítica global, e Brasília virou palco de uma batalha silenciosa entre Washington e Pequim pelo coração desse movimento."
 date: 2026-06-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitics
 description: "Cerca de 40 países que se recusam a escolher entre Estados Unidos e China formam hoje um polo de influência real, não apenas retórico — e o Brasil, sob pressão simultânea de Washington e Pequim, tornou-se o termômetro mais sensível dessa reconfiguração. Entender quem são esses atores e o que querem determina muito do que o país poderá fazer, ou não, nos próximos dez anos."

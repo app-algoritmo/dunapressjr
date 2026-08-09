@@ -3,7 +3,7 @@ title: 'Reestruturação na Liderança da Ucrânia: Zelensky Demite Principal Ge
   em Meio a Reinício dos Esforços de Guerra'
 date: 2024-02-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

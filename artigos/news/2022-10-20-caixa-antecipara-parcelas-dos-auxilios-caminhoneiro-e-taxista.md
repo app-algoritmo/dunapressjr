@@ -2,7 +2,7 @@
 title: Caixa antecipará parcelas dos auxílios Caminhoneiro e Taxista
 date: 2022-10-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

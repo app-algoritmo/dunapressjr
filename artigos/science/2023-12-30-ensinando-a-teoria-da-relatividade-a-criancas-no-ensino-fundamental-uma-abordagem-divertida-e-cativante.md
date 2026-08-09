@@ -3,7 +3,7 @@ title: 'Ensinando a Teoria da Relatividade a Crianças no Ensino Fundamental: Um
   Divertida e Cativante'
 date: 2023-12-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Science
 - Technology

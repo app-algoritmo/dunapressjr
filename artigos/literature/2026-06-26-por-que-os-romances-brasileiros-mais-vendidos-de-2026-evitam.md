@@ -3,7 +3,7 @@ title: "Por que os romances brasileiros mais vendidos de 2026 evitam falar do Br
 subtitle: "Uma virada no mercado editorial nacional coloca em debate o paradoxo entre o sucesso comercial da ficção escapista e o silêncio sobre o país que está nas ruas."
 date: 2026-06-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - literature
 description: "Os dez romances nacionais mais vendidos no primeiro semestre de 2026 têm em comum um traço surpreendente: nenhum se passa no Brasil contemporâneo. O fenômeno levanta uma questão incômoda sobre o que os leitores brasileiros estão buscando — e o que os autores estão, talvez, evitando."

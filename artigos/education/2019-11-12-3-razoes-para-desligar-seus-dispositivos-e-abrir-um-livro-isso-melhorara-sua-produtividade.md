@@ -3,7 +3,7 @@ title: 3 razões para desligar seus dispositivos e abrir um livro, isso melhorar
   produtividade
 date: 2019-11-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Opinion

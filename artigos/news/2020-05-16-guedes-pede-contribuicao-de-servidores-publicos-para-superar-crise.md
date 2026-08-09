@@ -2,7 +2,7 @@
 title: Guedes pede contribuição de servidores públicos para superar crise
 date: 2020-05-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

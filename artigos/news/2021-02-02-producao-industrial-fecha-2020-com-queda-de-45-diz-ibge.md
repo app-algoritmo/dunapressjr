@@ -2,7 +2,7 @@
 title: Produção industrial fecha 2020 com queda de 4,5%, diz IBGE
 date: 2021-02-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

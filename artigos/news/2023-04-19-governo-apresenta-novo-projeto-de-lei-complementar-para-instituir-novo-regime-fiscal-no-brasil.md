@@ -3,7 +3,7 @@ title: Governo apresenta novo projeto de lei complementar para instituir novo re
   fiscal no Brasil
 date: 2023-04-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

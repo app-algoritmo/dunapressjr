@@ -3,7 +3,7 @@ title: Reforma tributária promete simplificação, mas Impactos no bolso dos co
   geram incertezas
 date: 2023-08-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Bolsa sobe quase 10%, e dólar cai para R$ 5,08 em dia de recuperação
 date: 2020-03-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

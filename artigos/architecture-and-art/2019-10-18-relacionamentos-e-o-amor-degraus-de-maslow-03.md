@@ -2,7 +2,7 @@
 title: Relacionamentos e o amor – Degraus de Maslow 03
 date: 2019-10-18
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Architecture and Art
 ---

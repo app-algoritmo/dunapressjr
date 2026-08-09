@@ -2,7 +2,7 @@
 title: Desocupação no Brasil registra menor taxa em oito anos
 date: 2023-12-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

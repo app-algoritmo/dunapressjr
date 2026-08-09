@@ -2,7 +2,7 @@
 title: 'IBGE: Taxa de desocupação estável e população desocupada reduzida'
 date: 2023-05-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

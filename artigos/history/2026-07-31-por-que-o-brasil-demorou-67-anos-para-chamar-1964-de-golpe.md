@@ -3,7 +3,7 @@ title: "Por que o Brasil demorou 67 anos para chamar 1964 de golpe?"
 subtitle: "A revisão historiográfica em curso sobre o regime militar revela menos sobre o passado e mais sobre as disputas de identidade nacional que ainda organizam a política brasileira de 2026."
 date: 2026-07-31
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - history
 description: "Durante décadas, manuais escolares, decretos oficiais e discursos presidenciais usaram a palavra 'revolução' para descrever o que aconteceu no Brasil em 31 de março de 1964. Entender por que essa nomenclatura resistiu tanto — e o que mudou — é entender por que o país ainda briga com o espelho."

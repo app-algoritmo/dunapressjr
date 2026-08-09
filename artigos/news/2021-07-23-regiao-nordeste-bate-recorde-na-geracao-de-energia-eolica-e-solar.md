@@ -2,7 +2,7 @@
 title: Região Nordeste bate recorde na geração de energia eólica e solar
 date: 2021-07-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

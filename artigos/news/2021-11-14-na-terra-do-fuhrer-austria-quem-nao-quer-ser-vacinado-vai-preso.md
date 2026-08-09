@@ -2,7 +2,7 @@
 title: Na terra do Führer (Austria), quem não quer ser vacinado vai preso
 date: 2021-11-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

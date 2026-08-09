@@ -2,7 +2,7 @@
 title: 'Fundo Soberano da Noruega em Alerta: Riscos no Mercado de Ações Pedem Cautela'
 date: 2024-10-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

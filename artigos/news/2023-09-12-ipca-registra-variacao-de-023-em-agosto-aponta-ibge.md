@@ -2,7 +2,7 @@
 title: IPCA registra variação de 0,23% em agosto, aponta IBGE
 date: 2023-09-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

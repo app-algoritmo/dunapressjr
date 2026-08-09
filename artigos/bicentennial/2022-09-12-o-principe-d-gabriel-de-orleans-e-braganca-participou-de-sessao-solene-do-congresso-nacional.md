@@ -3,7 +3,7 @@ title: O Príncipe D. Gabriel de Orleans e Bragança Participou de Sessão Solen
   Congresso Nacional
 date: 2022-09-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Bicentennial
 - News

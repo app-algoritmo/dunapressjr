@@ -2,7 +2,7 @@
 title: Adaptação em máscaras para tratar pacientes da epidemia
 date: 2020-05-15
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

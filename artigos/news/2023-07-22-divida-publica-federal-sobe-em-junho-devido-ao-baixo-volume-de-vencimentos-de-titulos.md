@@ -3,7 +3,7 @@ title: Dívida Pública Federal sobe em junho devido ao baixo volume de vencimen
   de títulos
 date: 2023-07-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

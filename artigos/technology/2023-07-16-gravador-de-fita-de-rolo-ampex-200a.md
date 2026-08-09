@@ -2,7 +2,7 @@
 title: Gravador de Fita de rolo Ampex 200A
 date: 2023-07-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Technology
 ---

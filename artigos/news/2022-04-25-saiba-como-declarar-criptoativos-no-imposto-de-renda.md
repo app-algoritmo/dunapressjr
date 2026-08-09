@@ -2,7 +2,7 @@
 title: Saiba como declarar criptoativos no Imposto de Renda
 date: 2022-04-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

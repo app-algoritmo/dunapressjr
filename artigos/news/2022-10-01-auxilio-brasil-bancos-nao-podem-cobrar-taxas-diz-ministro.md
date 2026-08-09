@@ -2,7 +2,7 @@
 title: 'Auxílio Brasil: bancos não podem cobrar taxas, diz ministro'
 date: 2022-10-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

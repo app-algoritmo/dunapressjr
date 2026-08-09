@@ -3,7 +3,7 @@ title: 'FGV/IBRE: IPC-S da segunda quadrissemana de novembro de apresenta varia√
   de 0,46%'
 date: 2023-11-16
 status: publish
-author: Joabson Joao
+author: "Joabson Jo√£o"
 categories:
 - News
 ---

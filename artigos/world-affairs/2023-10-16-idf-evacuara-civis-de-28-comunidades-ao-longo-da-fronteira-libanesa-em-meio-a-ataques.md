@@ -3,7 +3,7 @@ title: IDF evacuará civis de 28 comunidades ao longo da fronteira libanesa em m
   a ataques
 date: 2023-10-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

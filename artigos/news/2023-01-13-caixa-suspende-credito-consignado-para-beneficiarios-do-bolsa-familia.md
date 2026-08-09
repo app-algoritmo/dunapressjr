@@ -2,7 +2,7 @@
 title: Caixa suspende crédito consignado para beneficiários do Bolsa Família
 date: 2023-01-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

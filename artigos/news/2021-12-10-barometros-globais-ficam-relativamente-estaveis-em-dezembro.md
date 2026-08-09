@@ -2,7 +2,7 @@
 title: Barômetros Globais ficam relativamente estáveis em dezembro
 date: 2021-12-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

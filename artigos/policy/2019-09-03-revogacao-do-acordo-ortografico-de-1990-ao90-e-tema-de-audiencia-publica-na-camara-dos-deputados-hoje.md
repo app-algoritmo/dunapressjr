@@ -3,7 +3,7 @@ title: Revogação do Acordo Ortográfico de 1990 (AO/90) é tema de Audiência 
   na Câmara dos Deputados hoje
 date: 2019-09-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

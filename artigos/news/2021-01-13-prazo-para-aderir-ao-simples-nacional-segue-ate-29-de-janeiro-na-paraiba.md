@@ -2,7 +2,7 @@
 title: Prazo para aderir ao Simples Nacional segue até 29 de janeiro na Paraíba
 date: 2021-01-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

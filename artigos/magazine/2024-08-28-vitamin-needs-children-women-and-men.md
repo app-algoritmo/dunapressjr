@@ -2,7 +2,7 @@
 title: 'Vitamin Needs: Children, Women and Men'
 date: 2024-08-28
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Magazine
 ---

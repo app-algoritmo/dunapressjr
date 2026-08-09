@@ -2,7 +2,7 @@
 title: Repassado R$ 375 milhões para alimentação escolar pelo FNDE
 date: 2020-06-04
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

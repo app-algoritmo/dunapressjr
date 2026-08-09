@@ -2,7 +2,7 @@
 title: Produção de petróleo cresce 5,4% de dezembro para janeiro, diz ANP
 date: 2021-03-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

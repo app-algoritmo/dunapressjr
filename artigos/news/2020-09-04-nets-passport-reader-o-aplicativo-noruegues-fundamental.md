@@ -2,7 +2,7 @@
 title: Nets Passport Reader, o aplicativo norueguês fundamental
 date: 2020-09-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Parlamentares britânicos aprovam acordo de saída da UE e viram página 
   do Brexit
 date: 2020-01-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

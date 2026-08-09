@@ -2,7 +2,7 @@
 title: Emissão de debêntures incentivadas capta R$ 3,7 bilhões em maio
 date: 2022-07-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

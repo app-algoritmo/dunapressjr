@@ -2,7 +2,7 @@
 title: Segurança Pública e Defesa Nacional nos 200 dias de Governo Bolsonaro
 date: 2019-07-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

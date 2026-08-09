@@ -3,7 +3,7 @@ title: Setor industrial expressa preocupação com isenções e alíquotas difer
   na proposta de reforma tributária
 date: 2023-08-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Acordo individual com Vale permite indenização eficaz, diz defensoria
 date: 2019-04-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "Longevidade em Debate: O Que a Ciência Realmente Sabe Sobre Viver Mais 
 subtitle: "Entre promessas biotecnológicas e evidências consolidadas, especialistas alertam para a diferença entre aumentar anos de vida e garantir qualidade nesse percurso"
 date: 2026-05-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - health
 description: "A corrida pela longevidade ganhou força nos últimos anos com bilhões investidos em biotecnologia, suplementos e terapias experimentais. Mas até onde a ciência comprova essas promessas? A Duna Press ouviu especialistas e analisa o estado real do conhecimento sobre envelhecimento saudável em 2026."

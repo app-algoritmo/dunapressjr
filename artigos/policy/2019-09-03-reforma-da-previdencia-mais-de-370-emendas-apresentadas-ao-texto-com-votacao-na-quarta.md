@@ -3,7 +3,7 @@ title: 'Reforma da Previdência: mais de 370 emendas apresentadas ao texto, com 
   na quarta'
 date: 2019-09-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

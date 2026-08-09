@@ -2,7 +2,7 @@
 title: Noruega incentiva comercialização de pesquisas de cientistas e estudantes
 date: 2018-10-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Policy

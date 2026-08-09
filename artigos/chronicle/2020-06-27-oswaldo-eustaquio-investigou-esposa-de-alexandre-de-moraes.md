@@ -1,8 +1,8 @@
 ---
-title: Oswaldo Eustáquio  investigou esposa de Alexandre de Moraes
+title: Oswaldo Eustáquio investigou esposa de Alexandre de Moraes
 date: 2020-06-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 ---

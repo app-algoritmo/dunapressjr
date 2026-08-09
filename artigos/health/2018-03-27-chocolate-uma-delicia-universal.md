@@ -2,7 +2,7 @@
 title: Chocolate, uma delícia universal!
 date: 2018-03-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 ---

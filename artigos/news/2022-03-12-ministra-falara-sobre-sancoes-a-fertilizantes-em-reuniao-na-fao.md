@@ -2,7 +2,7 @@
 title: Ministra falará sobre sanções a fertilizantes em reunião na FAO
 date: 2022-03-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

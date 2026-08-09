@@ -2,7 +2,7 @@
 title: Congresso busca consenso para reduzir preço dos combustíveis, diz Lira
 date: 2022-02-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -4,7 +4,7 @@ title: 7.01 Presidente da República Jair Messias Bolsonaro ressaltou aspecto t�
   Econômico e Social (BNDES)
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

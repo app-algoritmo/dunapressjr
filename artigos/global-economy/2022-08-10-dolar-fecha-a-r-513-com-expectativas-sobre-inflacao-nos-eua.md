@@ -2,7 +2,7 @@
 title: Dólar fecha a R$ 5,13 com expectativas sobre inflação nos EUA
 date: 2022-08-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

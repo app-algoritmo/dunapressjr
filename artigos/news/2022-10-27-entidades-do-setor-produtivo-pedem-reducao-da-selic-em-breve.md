@@ -2,7 +2,7 @@
 title: Entidades do setor produtivo pedem redução da Selic em breve
 date: 2022-10-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Pix se consolida como o principal meio de pagamento para pequenos negóci
   no Brasil
 date: 2023-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

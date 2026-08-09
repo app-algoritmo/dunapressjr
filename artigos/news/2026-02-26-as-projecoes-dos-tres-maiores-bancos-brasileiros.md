@@ -2,7 +2,7 @@
 title: As projeções dos três maiores bancos brasileiros
 date: 2026-02-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

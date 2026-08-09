@@ -2,7 +2,7 @@
 title: Petrobras reduz preços do diesel e da gasolina nas refinarias
 date: 2021-04-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

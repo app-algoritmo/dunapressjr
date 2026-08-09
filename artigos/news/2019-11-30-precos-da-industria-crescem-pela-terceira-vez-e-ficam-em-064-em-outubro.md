@@ -2,7 +2,7 @@
 title: Preços da indústria crescem pela terceira vez e ficam em 0,64% em outubro
 date: 2019-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

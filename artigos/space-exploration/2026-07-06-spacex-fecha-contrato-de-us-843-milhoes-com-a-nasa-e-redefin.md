@@ -3,7 +3,7 @@ title: "SpaceX fecha contrato de US$ 843 milhões com a NASA e redefine quem man
 subtitle: "O acordo para o módulo lunar Artemis II coloca a empresa de Elon Musk no centro da geopolítica espacial justo quando China e Europa aceleram seus próprios programas tripulados"
 date: 2026-07-06
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - space-exploration
 description: "A NASA assinou em junho de 2026 um contrato de US$ 843 milhões com a SpaceX para o módulo de descida lunar da missão Artemis II, consolidando o modelo de parceria público-privada como eixo central da exploração espacial americana. O movimento acontece enquanto China planeja sua primeira missão tripulada à Lua para 2029 e a ESA debate autonomia estratégica — o que torna esta semana um ponto de inflexão real na disputa pelo espaço cislunar."

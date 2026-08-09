@@ -3,7 +3,7 @@ title: Um informe do Fórum Mundial Econômico aponta que as comunidades LGBT+ s
   'segredo do sucesso' pós-pandemia das cidades
 date: 2020-06-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

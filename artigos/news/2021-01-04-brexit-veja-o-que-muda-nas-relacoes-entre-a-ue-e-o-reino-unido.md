@@ -2,7 +2,7 @@
 title: 'Brexit: veja o que muda nas relações entre a UE e o Reino Unido'
 date: 2021-01-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

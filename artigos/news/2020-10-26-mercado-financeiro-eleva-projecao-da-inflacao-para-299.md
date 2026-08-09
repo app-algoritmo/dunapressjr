@@ -2,7 +2,7 @@
 title: Mercado financeiro eleva projeção da inflação para 2,99%
 date: 2020-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

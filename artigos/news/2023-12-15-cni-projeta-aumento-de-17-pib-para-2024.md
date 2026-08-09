@@ -2,7 +2,7 @@
 title: CNI projeta aumento de 1,7% PIB para 2024
 date: 2023-12-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

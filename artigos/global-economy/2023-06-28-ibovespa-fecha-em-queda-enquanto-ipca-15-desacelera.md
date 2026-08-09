@@ -2,7 +2,7 @@
 title: Ibovespa fecha em queda enquanto IPCA-15 desacelera
 date: 2023-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

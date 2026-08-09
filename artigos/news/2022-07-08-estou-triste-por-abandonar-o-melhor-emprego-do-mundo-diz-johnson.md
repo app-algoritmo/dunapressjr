@@ -2,7 +2,7 @@
 title: '''Estou triste por abandonar o melhor emprego do mundo'', diz Johnson'
 date: 2022-07-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

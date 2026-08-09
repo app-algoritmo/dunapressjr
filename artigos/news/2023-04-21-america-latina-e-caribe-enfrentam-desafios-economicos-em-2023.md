@@ -2,7 +2,7 @@
 title: América Latina e Caribe enfrentam desafios econômicos em 2023
 date: 2023-04-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

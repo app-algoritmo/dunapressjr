@@ -2,7 +2,7 @@
 title: Saiba como obter o selo do Inmetro
 date: 2022-08-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

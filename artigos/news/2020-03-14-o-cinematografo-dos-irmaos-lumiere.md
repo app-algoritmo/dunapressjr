@@ -2,7 +2,7 @@
 title: O Cinematógrafo dos Irmãos Lumière
 date: 2020-03-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

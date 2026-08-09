@@ -3,7 +3,7 @@ title: 'Noruega: Suas Majestades, o Rei e a Rainha, e a Princesa Märtha Louise 
   presentes no culto tradicional do Dia de Natal na Capela Holmenkollen, em Oslo'
 date: 2019-12-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

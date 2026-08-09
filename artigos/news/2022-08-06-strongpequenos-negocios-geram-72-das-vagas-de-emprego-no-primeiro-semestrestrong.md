@@ -2,7 +2,7 @@
 title: <strong>Pequenos negócios geram 72% das vagas de emprego no primeiro semestre</strong>
 date: 2022-08-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

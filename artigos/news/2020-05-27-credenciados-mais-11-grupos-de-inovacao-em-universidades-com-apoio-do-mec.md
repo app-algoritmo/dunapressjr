@@ -2,7 +2,7 @@
 title: Credenciados mais 11 grupos de inovação em universidades com apoio do MEC
 date: 2020-05-27
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

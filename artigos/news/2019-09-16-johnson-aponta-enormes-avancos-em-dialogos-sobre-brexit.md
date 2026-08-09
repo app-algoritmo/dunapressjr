@@ -2,7 +2,7 @@
 title: Johnson aponta 'enormes avanços' em diálogos sobre Brexit
 date: 2019-09-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

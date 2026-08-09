@@ -3,7 +3,7 @@ title: Conheça a importância das proteínas para a construção e reparação 
   em nosso organismo
 date: 2020-05-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 ---

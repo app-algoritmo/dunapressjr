@@ -3,7 +3,7 @@ title: PBGás e Fiep formam Grupo de Trabalho para tratar sobre os efeitos da no
   lei do gás no mercado
 date: 2020-11-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

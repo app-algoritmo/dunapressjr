@@ -3,7 +3,7 @@ title: A Polícia Federal do Brasil desarticula organização criminosa que prat
   crimes cibernéticos
 date: 2019-07-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

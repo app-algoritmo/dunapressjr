@@ -3,7 +3,7 @@ title: 'Urgente: acaba de ser publicado nos EUA um estudo sobre as suspeitas urn
   eletrônicas'
 date: 2022-12-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

@@ -2,7 +2,7 @@
 title: Indicadores Industriais apresentam “imobilidade preocupante”, diz CNI
 date: 2022-04-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

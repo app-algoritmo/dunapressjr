@@ -2,7 +2,7 @@
 title: Moro, a mentira tem perna curta
 date: 2020-04-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 ---

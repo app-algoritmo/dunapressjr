@@ -2,7 +2,7 @@
 title: Vitória esmagadora dos Trabalhistas na Grã-Bretanha
 date: 2024-07-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Headlines
 ---

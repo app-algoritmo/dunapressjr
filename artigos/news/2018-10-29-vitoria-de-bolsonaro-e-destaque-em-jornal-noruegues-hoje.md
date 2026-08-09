@@ -2,7 +2,7 @@
 title: Vitória de Bolsonaro é destaque em jornal norueguês hoje
 date: 2018-10-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

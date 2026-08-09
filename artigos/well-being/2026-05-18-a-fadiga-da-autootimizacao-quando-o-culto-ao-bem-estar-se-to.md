@@ -3,7 +3,7 @@ title: "A Fadiga da Autootimização: Quando o Culto ao Bem-Estar se Torna Outro
 subtitle: "A indústria global do wellness movimenta mais de 6 trilhões de dólares ao ano prometendo equilíbrio e saúde — mas pesquisadores e clínicos alertam que a obsessão com rotinas perfeitas pode estar gerando um novo tipo de sofrimento silencioso"
 date: 2026-05-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - well-being
 description: "O mercado do bem-estar nunca foi tão robusto — e nunca gerou tanto paradoxo. Uma análise sobre como a cultura da autootimização permanente está transformando práticas saudáveis em fontes de ansiedade, culpa e exaustão, e o que os especialistas recomendam para romper esse ciclo."

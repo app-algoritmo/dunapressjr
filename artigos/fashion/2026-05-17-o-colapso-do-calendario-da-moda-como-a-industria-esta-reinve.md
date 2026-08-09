@@ -3,7 +3,7 @@ title: "O Colapso do Calendário da Moda: Como a Indústria Está Reinventando S
 subtitle: "Com marcas abandonando o modelo tradicional de coleções sazonais e consumidores cada vez mais exigentes por autenticidade, o setor fashion enfrenta sua maior ruptura estrutural em décadas"
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - fashion
 description: "A indústria da moda atravessa uma transformação silenciosa mas profunda: o calendário de desfiles e coleções — estrutura que organizou o setor por mais de um século — está se fragmentando. Entre pressões econômicas, demandas por sustentabilidade e a ascensão de um consumidor que rejeita o ciclo frenético de tendências, grandes e pequenas marcas buscam novos modelos de existência. Esta análise examina as forças por trás dessa ruptura e o que pode surgir do outro lado."

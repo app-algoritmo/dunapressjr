@@ -1,8 +1,8 @@
 ---
-title: Cercada pelo coronavírus,  Noruega resiste à ameaça dos países vizinhos
+title: Cercada pelo coronavírus, Noruega resiste à ameaça dos países vizinhos
 date: 2020-02-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

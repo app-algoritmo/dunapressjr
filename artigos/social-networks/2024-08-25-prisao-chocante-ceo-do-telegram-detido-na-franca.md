@@ -2,7 +2,7 @@
 title: 'Prisão Chocante: CEO do Telegram Detido na França'
 date: 2024-08-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Social networks
 ---

@@ -3,7 +3,7 @@ title: "Por que a Fórmula 1 virou o negócio mais cobiçado do esporte global �
 subtitle: "Com valuation acima de US$ 20 bilhões e novos proprietários de fortunas soberanas disputando franquias, a F1 deixou de ser corrida e tornou-se o ativo geopolítico mais veloz do planeta."
 date: 2026-06-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - formula-1
 description: "A Fórmula 1 ultrapassou US$ 20 bilhões em valor de mercado e atrai fundos soberanos do Oriente Médio, investidores americanos e governos asiáticos que enxergam nas corridas uma ferramenta de soft power e inovação tecnológica. Para o Brasil — que sediou um GP com 300 mil espectadores em 2025 e debate a entrada de capital nacional numa equipe —, entender essa nova geometria do poder é urgente."

@@ -2,7 +2,7 @@
 title: A Importância das Estatuas para a Memória do Homem
 date: 2020-06-14
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - Chronicle
 ---

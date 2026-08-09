@@ -2,7 +2,7 @@
 title: Presidente crê em inflação menor em 2023
 date: 2022-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

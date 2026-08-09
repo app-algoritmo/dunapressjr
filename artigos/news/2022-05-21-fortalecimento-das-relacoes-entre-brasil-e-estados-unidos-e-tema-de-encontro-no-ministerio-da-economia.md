@@ -3,7 +3,7 @@ title: Fortalecimento das relações entre Brasil e Estados Unidos é tema de en
   no Ministério da Economia
 date: 2022-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

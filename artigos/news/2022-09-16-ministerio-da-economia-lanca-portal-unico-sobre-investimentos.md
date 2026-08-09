@@ -2,7 +2,7 @@
 title: Ministério da Economia lança portal único sobre investimentos
 date: 2022-09-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

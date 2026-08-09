@@ -2,7 +2,7 @@
 title: Aluguéis residenciais sobem 0,59% em maio deste ano
 date: 2022-06-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

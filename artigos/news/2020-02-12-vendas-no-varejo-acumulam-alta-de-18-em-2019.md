@@ -2,7 +2,7 @@
 title: Vendas no varejo acumulam alta de 1,8% em 2019
 date: 2020-02-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: E se seus vizinhos fossem... Vampiros?
 date: 2019-10-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

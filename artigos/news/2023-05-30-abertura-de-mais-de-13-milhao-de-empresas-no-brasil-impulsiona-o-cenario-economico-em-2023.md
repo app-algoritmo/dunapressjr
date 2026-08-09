@@ -3,7 +3,7 @@ title: Abertura de mais de 1,3 milhão de empresas no Brasil impulsiona o cenár
   em 2023
 date: 2023-05-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

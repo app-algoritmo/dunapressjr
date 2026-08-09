@@ -3,7 +3,7 @@ title: Governador da Paraíba assina protocolo de intenções para instalação 
   eólico em Junco do Seridó e Santa Luzia
 date: 2021-04-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

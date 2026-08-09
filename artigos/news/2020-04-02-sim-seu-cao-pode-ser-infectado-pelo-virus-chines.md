@@ -2,7 +2,7 @@
 title: Sim, seu cão pode ser infectado pelo vírus chinês
 date: 2020-04-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

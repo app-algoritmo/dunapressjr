@@ -2,7 +2,7 @@
 title: CMN flexibiliza organização de agentes autônomos em empresas
 date: 2022-02-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

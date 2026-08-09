@@ -2,7 +2,7 @@
 title: Banco Central divulga estatísticas monetárias e de crédito
 date: 2023-02-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

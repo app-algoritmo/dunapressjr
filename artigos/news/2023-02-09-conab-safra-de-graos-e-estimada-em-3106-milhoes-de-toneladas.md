@@ -2,7 +2,7 @@
 title: 'CONAB: Safra de grãos é estimada em 310,6 milhões de toneladas'
 date: 2023-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Simone Tebet confirma relatores para propostas do pacote Mais Brasil
 date: 2019-11-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

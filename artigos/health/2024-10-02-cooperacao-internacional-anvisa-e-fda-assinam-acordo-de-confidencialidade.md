@@ -2,7 +2,7 @@
 title: 'Cooperação Internacional: Anvisa e FDA Assinam Acordo de Confidencialidade'
 date: 2024-10-02
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Health
 - Science

@@ -2,7 +2,7 @@
 title: 'Amanhã é dia de NoEs: Reino da Noruega X Reino da Espanha'
 date: 2019-03-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Sports

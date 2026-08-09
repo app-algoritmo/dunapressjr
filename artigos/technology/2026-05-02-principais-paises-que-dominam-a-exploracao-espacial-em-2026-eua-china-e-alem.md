@@ -2,7 +2,7 @@
 title: "Principais Países que Dominam a Exploração Espacial em 2026: EUA, China e Além"
 date: 2026-05-02
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - technology
 tags:

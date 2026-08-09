@@ -2,7 +2,7 @@
 title: BNDES anuncia audiência pública para desestatização da CBTU-MG
 date: 2022-02-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

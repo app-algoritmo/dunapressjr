@@ -3,7 +3,7 @@ title: Os EUA encontram cádmio, mercúrio, chumbo e arsênico em produtos infan
   uma subsidiária da Nestlé
 date: 2021-02-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

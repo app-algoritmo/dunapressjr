@@ -2,7 +2,7 @@
 title: Inmetro lança modelo regulatório com foco na melhoria do ambiente de negócios
 date: 2022-02-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

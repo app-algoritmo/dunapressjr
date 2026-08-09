@@ -2,7 +2,7 @@
 title: Brasil comemora a abertura do mercado canadense para carne brasileira
 date: 2022-03-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

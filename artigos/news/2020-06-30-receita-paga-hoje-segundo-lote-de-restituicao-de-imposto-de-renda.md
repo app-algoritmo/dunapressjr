@@ -2,7 +2,7 @@
 title: Receita paga hoje segundo lote de restituição de Imposto de Renda
 date: 2020-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

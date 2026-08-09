@@ -2,7 +2,7 @@
 title: Riscos fiscais levam BC a adotar política mais contracionista
 date: 2021-08-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

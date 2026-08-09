@@ -2,7 +2,7 @@
 title: Bolsonaro sanciona lei que torna Pronampe permanente
 date: 2021-06-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

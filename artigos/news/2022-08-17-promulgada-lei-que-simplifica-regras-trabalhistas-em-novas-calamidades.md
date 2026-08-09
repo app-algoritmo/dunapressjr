@@ -2,7 +2,7 @@
 title: Promulgada lei que simplifica regras trabalhistas em novas calamidades
 date: 2022-08-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

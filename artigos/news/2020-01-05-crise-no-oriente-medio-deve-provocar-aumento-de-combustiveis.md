@@ -2,7 +2,7 @@
 title: Crise no Oriente Médio deve provocar aumento de combustíveis
 date: 2020-01-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

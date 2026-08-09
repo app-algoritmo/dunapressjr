@@ -2,7 +2,7 @@
 title: Dólar fecha em alta e aproxima-se de R$ 5,40 depois de queda
 date: 2020-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

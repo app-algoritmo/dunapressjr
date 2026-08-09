@@ -3,7 +3,7 @@ title: "Trabalhar menos horas aumentou a produtividade em 40% — e as empresas 
 subtitle: "Ensaios controlados em 14 países revelam que a semana de quatro dias não é tendência de RH: é uma reorganização profunda de como o cérebro humano performa sob pressão e autonomia."
 date: 2026-07-13
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - personal-development
 description: "Dados de experimentos conduzidos entre 2022 e 2025 em empresas do Brasil, Reino Unido e Japão mostram que reduzir a jornada semanal elevou entregas, reduziu absenteísmo e reteve talentos. O fenômeno expõe um paradoxo que poucos gestores ainda estão dispostos a enfrentar: mais tempo no escritório pode ser o principal inimigo da performance real."

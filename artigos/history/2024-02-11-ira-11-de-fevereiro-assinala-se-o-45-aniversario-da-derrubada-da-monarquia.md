@@ -2,7 +2,7 @@
 title: 'Irã: 11 de Fevereiro, assinala-se o 45º aniversário da derrubada da monarquia'
 date: 2024-02-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - History
 - Policy

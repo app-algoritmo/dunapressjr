@@ -2,7 +2,7 @@
 title: Balança comercial tem superávit de US$ 1,69 bilhão na primeira semana de janeiro
 date: 2023-01-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

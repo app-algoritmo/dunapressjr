@@ -2,7 +2,7 @@
 title: Inflação medida pelo IGP-M registra queda de 1,93% em junho, segundo a FGV
 date: 2023-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

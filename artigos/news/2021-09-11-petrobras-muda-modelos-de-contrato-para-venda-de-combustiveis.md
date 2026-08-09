@@ -2,7 +2,7 @@
 title: Petrobras muda modelos de contrato para venda de combustíveis
 date: 2021-09-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

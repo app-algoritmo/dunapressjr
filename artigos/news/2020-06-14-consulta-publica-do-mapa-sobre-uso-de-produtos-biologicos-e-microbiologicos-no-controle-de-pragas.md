@@ -3,7 +3,7 @@ title: Consulta pública do Mapa sobre uso de produtos biológicos e microbioló
   no controle de pragas
 date: 2020-06-14
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

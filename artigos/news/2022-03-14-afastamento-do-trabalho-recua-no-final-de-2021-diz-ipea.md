@@ -2,7 +2,7 @@
 title: Afastamento do trabalho recua no final de 2021, diz Ipea
 date: 2022-03-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Brasil e Emirados Árabes Unidos concluem série de acordos
 date: 2019-10-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

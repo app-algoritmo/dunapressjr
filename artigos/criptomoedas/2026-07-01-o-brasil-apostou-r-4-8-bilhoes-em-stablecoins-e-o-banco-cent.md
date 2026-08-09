@@ -3,7 +3,7 @@ title: "O Brasil apostou R$ 4,8 bilhões em stablecoins — e o Banco Central ag
 subtitle: "Com volume de stablecoins ultrapassando o de Bitcoin nas carteiras brasileiras, o regulador lança consulta pública que pode redesenhar as regras do mercado cripto até o fim de 2026."
 date: 2026-07-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - criptomoedas
 description: "O volume transacionado em stablecoins por brasileiros superou R$ 4,8 bilhões no primeiro semestre de 2026, tornando o Brasil o quinto maior mercado global dessas moedas digitais atreladas ao dólar. O Banco Central abriu consulta pública em junho para definir se essas ferramentas devem ser tratadas como moeda, ativo financeiro ou categoria própria — uma decisão que afeta desde startups até tesourarias de multinacionais."

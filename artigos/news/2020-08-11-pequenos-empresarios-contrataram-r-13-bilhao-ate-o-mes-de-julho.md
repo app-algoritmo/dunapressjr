@@ -2,7 +2,7 @@
 title: Pequenos empresários contrataram R$ 1,3 bilhão até o mês de julho
 date: 2020-08-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

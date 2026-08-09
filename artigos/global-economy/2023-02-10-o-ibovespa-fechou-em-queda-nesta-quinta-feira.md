@@ -2,7 +2,7 @@
 title: O Ibovespa fechou em queda nesta quinta-feira
 date: 2023-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

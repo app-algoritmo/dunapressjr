@@ -2,7 +2,7 @@
 title: Faturamento da indústria supera período pré-pandemia, diz CNI
 date: 2020-10-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Ministério da Economia prorroga os prazos das prestações dos parcelame
   tributários
 date: 2020-05-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

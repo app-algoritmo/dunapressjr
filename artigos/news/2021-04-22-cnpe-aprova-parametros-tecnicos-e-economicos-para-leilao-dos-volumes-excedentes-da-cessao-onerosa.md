@@ -3,7 +3,7 @@ title: CNPE aprova parâmetros técnicos e econômicos para Leilão dos Volumes 
   da Cessão Onerosa
 date: 2021-04-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

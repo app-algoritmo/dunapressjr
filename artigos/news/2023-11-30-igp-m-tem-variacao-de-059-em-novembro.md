@@ -2,7 +2,7 @@
 title: IGP-M tem variação de 0,59% em novembro
 date: 2023-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

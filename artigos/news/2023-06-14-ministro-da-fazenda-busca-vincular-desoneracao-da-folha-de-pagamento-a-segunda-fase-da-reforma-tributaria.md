@@ -3,7 +3,7 @@ title: Ministro da Fazenda busca vincular desoneração da folha de pagamento à
   fase da reforma tributária
 date: 2023-06-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

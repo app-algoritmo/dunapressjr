@@ -2,7 +2,7 @@
 title: Inflação medida pelo IGP-10 sobe para 2,48% em abril
 date: 2022-04-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Coronavírus, 168 morrem na Itália no dia mais mortal desde a chegada do
   ao país
 date: 2020-03-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

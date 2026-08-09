@@ -2,7 +2,7 @@
 title: 'CC50 Harvard: Garanta o seu futuro profissional e econômico'
 date: 2024-01-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Courses and Careers
 - Personal Development

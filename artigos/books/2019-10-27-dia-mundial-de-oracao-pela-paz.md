@@ -2,7 +2,7 @@
 title: Dia Mundial de Oração pela Paz
 date: 2019-10-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

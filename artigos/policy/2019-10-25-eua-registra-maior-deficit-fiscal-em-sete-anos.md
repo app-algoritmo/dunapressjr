@@ -2,7 +2,7 @@
 title: EUA registra maior déficit fiscal em sete anos
 date: 2019-10-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Queda no Índice Geral de Preços indica deflação e impacta setores da 
   brasileira
 date: 2023-05-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

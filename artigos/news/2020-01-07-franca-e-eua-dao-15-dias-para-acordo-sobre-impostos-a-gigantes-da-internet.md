@@ -2,7 +2,7 @@
 title: França e EUA dão 15 dias para acordo sobre impostos a gigantes da Internet
 date: 2020-01-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

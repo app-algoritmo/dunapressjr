@@ -2,7 +2,7 @@
 title: O que os noruegueses andam ouvindo na Noruega?
 date: 2018-10-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 - Magazine

@@ -2,7 +2,7 @@
 title: A face oculta de Getúlio Vargas
 date: 2024-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

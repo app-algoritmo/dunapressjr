@@ -2,7 +2,7 @@
 title: Intellectual Property Protection in the Pharmaceutical Regulation Sector
 date: 2024-08-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Personal Development
 ---

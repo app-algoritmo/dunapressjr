@@ -2,7 +2,7 @@
 title: Ibovespa fecha no azul com petróleo e NY em alta
 date: 2023-10-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

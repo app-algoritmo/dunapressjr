@@ -2,7 +2,7 @@
 title: A Escravidão pelas Dívidas - Parte II
 date: 2020-03-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Global Economy
 ---

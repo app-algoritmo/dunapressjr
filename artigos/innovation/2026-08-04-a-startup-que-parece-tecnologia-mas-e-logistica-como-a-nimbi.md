@@ -3,7 +3,7 @@ title: "A startup que parece tecnologia mas é logística: como a Nimbi virou o 
 subtitle: "Enquanto o Brasil debate quem vai ser o próximo unicórnio de consumo, uma empresa B2B praticamente desconhecida do grande público já processa mais de R$ 80 bilhões em transações anuais — e levanta uma questão incômoda sobre onde está o real valor da inovação nacional."
 date: 2026-08-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - innovation
 description: "A Nimbi processa R$ 80 bilhões em compras corporativas por ano sem aparecer nos rankings de glamour do ecossistema brasileiro — um caso que revela onde a inovação de verdade costuma se esconder. O paradoxo importa agora porque o Brasil discute sua próxima onda de startups e pode estar mirando no alvo errado."

@@ -2,7 +2,7 @@
 title: Bolsa fecha no maior nível em quase cinco meses
 date: 2020-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

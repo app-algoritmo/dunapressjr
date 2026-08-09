@@ -3,7 +3,7 @@ title: Abertas Inscrições para evento online do hospital universitário da Red
   em Juiz de Fora
 date: 2020-07-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

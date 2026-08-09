@@ -3,7 +3,7 @@ title: "Longevidade em Crise: O Sistema de Saúde Global Enfrenta o Desafio de u
 subtitle: "Com projeções indicando que um em cada seis habitantes do planeta terá mais de 60 anos até 2030, governos e sistemas de saúde correm contra o tempo para reformular estruturas que ainda operam com a lógica do século XX"
 date: 2026-06-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - health
 description: "A transição demográfica global acelera a pressão sobre sistemas de saúde já sobrecarregados. Entre avanços tecnológicos promissores e lacunas estruturais profundas, o mundo precisa decidir agora como vai cuidar de uma população que envelhece em ritmo sem precedentes históricos."

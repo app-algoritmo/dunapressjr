@@ -2,7 +2,7 @@
 title: Ibovespa sobrevive às volatilidades e encerra o dia em alta de 1,53%
 date: 2023-08-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

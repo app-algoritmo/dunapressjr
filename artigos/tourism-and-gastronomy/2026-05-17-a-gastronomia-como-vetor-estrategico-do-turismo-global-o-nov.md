@@ -3,7 +3,7 @@ title: "A Gastronomia como Vetor Estratégico do Turismo Global: O Novo Mapa das
 subtitle: "Destinos que investem em identidade culinária registam crescimento acima da média no fluxo de visitantes e na permanência média — uma tendência que redefine as prioridades do setor"
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tourism-and-gastronomy
 description: "O turismo gastronómico consolidou-se como um dos segmentos de maior crescimento no setor das viagens. Análise aprofundada sobre como destinos que apostam na identidade culinária local estão a capturar novos perfis de visitantes, gerar maior receita per capita e construir vantagens competitivas duradouras num mercado cada vez mais disputado."

@@ -3,7 +3,7 @@ title: 'IBGE: INPC registra leve alta em abril, mas acumula variação abaixo do
   anterior'
 date: 2023-05-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

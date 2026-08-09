@@ -3,7 +3,7 @@ title: Bancos brasileiros registram lucro líquido de R$ 139 bilhões em 2022, p
   enfrentam desafios no segundo semestre
 date: 2023-05-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

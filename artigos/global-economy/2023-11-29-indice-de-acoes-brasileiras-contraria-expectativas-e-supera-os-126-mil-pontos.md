@@ -2,7 +2,7 @@
 title: Índice de ações brasileiras contraria expectativas e supera os 126 mil pontos
 date: 2023-11-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

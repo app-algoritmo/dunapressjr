@@ -2,7 +2,7 @@
 title: Balança comercial tem superávit de US$ 4,71 bilhões em março
 date: 2020-04-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: MP libera R$ 10,9 bi para auxílios a caminhoneiros e taxistas
 date: 2022-07-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

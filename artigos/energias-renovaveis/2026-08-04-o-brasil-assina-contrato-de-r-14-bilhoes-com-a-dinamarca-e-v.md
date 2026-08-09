@@ -3,7 +3,7 @@ title: "O Brasil assina contrato de R$ 14 bilhões com a Dinamarca — e vira o 
 subtitle: "Um acordo fechado em julho de 2026 entre o governo brasileiro e o consórcio dinamarquês Ørsted-Copenhagen Infrastructure Partners redesenha o mapa da geopolítica energética global e coloca o Ceará no centro de uma disputa que antes pertencia ao Golfo Pérsico."
 date: 2026-08-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - energias-renovaveis
 description: "Um consórcio dinamarquês assinou em julho de 2026 o maior contrato de hidrogênio verde da América Latina, R$ 14 bilhões para produção no litoral do Ceará, com exportação prevista para a Europa a partir de 2029. O acordo posiciona o Brasil como potência renovável emergente num mercado global que deve movimentar US$ 600 bilhões ao ano até 2035 — e levanta questões sérias sobre quem, de fato, vai capturar o valor dessa transição."

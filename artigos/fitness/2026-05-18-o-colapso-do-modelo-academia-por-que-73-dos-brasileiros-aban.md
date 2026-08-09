@@ -3,7 +3,7 @@ title: "O Colapso do Modelo Academia: Por Que 73% dos Brasileiros Abandonam o Tr
 subtitle: "Dados inéditos revelam que a indústria fitness movimenta R$ 12 bilhões ao ano no Brasil, mas opera sobre uma falha estrutural silenciosa que ninguém quer discutir abertamente"
 date: 2026-05-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - fitness
 description: "Uma análise profunda sobre os mecanismos psicológicos, econômicos e estruturais que explicam por que a maioria dos brasileiros não consegue manter uma rotina de exercícios consistente, e o que isso revela sobre um modelo de negócios que lucra exatamente com esse fracasso."

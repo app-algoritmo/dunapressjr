@@ -2,7 +2,7 @@
 title: Petrobras devolve concessões de distribuição de gás natural no Uruguai
 date: 2019-10-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Polícia Federal deflagra operação para combater corrupção na OAB em SP
 date: 2020-11-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

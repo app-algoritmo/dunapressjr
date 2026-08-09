@@ -2,7 +2,7 @@
 title: Congresso promulga emenda para pagamento de auxílio emergencial
 date: 2021-03-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

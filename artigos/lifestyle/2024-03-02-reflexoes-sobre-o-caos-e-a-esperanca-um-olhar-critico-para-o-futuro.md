@@ -2,7 +2,7 @@
 title: 'Reflexões sobre o Caos e a Esperança: Um Olhar Crítico para o Futuro'
 date: 2024-03-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Lifestyle
 ---

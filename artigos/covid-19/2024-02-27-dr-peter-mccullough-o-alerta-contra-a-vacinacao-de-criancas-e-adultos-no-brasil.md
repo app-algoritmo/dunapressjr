@@ -3,7 +3,7 @@ title: 'Dr. Peter McCullough: O Alerta Contra a Vacinação de Crianças e Adult
   Brasil'
 date: 2024-02-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Covid-19
 ---

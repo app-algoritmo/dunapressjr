@@ -2,7 +2,7 @@
 title: <strong>Tesouro paga R$ 725,64 milhões em dívidas de estados</strong>
 date: 2022-11-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: EUA darão à Huawei mais 90 dias para comprar de fornecedores americanos
   fontes
 date: 2019-08-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: A Monarquia de hoje na Noruega
 date: 2020-08-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

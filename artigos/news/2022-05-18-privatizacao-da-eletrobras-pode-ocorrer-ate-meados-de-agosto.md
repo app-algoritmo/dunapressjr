@@ -2,7 +2,7 @@
 title: Privatização da Eletrobras pode ocorrer até meados de agosto
 date: 2022-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Receita Federal bate recorde de arrecadação em abril: R$ 195 bilhões'
 date: 2022-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

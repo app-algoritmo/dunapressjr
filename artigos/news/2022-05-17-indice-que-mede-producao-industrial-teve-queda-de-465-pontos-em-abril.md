@@ -2,7 +2,7 @@
 title: Índice que mede produção industrial teve queda de 46,5 pontos em abril
 date: 2022-05-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

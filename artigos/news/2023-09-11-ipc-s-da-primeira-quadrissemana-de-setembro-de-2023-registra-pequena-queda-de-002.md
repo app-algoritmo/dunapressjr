@@ -3,7 +3,7 @@ title: IPC-S da primeira quadrissemana de setembro de 2023 registra pequena qued
   de 0,02%
 date: 2023-09-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

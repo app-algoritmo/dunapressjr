@@ -2,7 +2,7 @@
 title: Aumento da temperatura vai afetar a produção de feijão no Brasil
 date: 2023-03-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

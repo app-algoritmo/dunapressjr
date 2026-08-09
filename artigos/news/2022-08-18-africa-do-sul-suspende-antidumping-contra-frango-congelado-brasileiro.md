@@ -2,7 +2,7 @@
 title: África do Sul suspende antidumping contra frango congelado brasileiro
 date: 2022-08-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

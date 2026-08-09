@@ -2,7 +2,7 @@
 title: Decreto prorroga por até 120 dias prazos dos acordos do benefício emergencial
 date: 2020-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Petrobras reverte provisão de R$ 1,3 bilhão do 4º trimestre de 2019
 date: 2020-02-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

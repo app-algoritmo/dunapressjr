@@ -2,7 +2,7 @@
 title: Brasil, Japão e Estados Unidos lançam Diálogo Trilateral
 date: 2020-11-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

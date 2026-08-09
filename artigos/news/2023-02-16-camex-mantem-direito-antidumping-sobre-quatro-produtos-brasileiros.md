@@ -2,7 +2,7 @@
 title: Camex mantém direito antidumping sobre quatro produtos brasileiros
 date: 2023-02-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

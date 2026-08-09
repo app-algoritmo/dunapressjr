@@ -3,7 +3,7 @@ title: Conselho de Normas Internacionais de Contabilidade (Iasb) orienta aplica√
   da IFRS 9
 date: 2020-04-01
 status: publish
-author: Joabson Joao
+author: "Joabson Jo√£o"
 categories:
 - Global Economy
 ---

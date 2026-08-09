@@ -2,7 +2,7 @@
 title: Facebook deixa vazar dados de 533 milhões de pessoas
 date: 2021-04-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

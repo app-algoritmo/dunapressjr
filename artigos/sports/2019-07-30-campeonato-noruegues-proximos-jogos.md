@@ -2,7 +2,7 @@
 title: 'Campeonato norueguês: próximos jogos'
 date: 2019-07-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Sports
 ---

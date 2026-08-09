@@ -2,7 +2,7 @@
 title: 5 om dagen norueguês
 date: 2019-08-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Food
 ---

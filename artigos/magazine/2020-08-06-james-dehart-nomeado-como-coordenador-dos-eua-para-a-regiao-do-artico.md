@@ -2,7 +2,7 @@
 title: James DeHart nomeado como Coordenador dos EUA para a região do Ártico
 date: 2020-08-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

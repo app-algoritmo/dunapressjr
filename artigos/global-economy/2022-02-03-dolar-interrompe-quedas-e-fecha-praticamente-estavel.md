@@ -2,7 +2,7 @@
 title: Dólar interrompe quedas e fecha praticamente estável
 date: 2022-02-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

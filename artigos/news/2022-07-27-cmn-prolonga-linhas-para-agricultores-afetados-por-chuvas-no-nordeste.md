@@ -2,7 +2,7 @@
 title: CMN prolonga linhas para agricultores afetados por chuvas no Nordeste
 date: 2022-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

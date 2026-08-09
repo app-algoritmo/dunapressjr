@@ -2,7 +2,7 @@
 title: Reajustes salariais por negociações, em junho, chegam a 12%
 date: 2022-06-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Repensar a Educação, Inger Enkvist
 date: 2021-05-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

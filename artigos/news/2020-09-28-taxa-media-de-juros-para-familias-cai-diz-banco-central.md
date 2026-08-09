@@ -2,7 +2,7 @@
 title: Taxa média de juros para famílias cai, diz Banco Central
 date: 2020-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

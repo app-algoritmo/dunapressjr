@@ -2,7 +2,7 @@
 title: Um ano 'presa' na Noruega, 11 coisas que aprendi sobre o povo norueguês
 date: 2021-03-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Tourism and Gastronomy
 ---

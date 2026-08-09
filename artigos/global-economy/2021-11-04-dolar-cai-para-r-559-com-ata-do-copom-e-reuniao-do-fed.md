@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,59 com ata do Copom e reunião do Fed
 date: 2021-11-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

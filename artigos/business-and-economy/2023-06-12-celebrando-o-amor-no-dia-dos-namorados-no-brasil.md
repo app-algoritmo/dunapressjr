@@ -2,7 +2,7 @@
 title: Celebrando o Amor no Dia dos Namorados no Brasil
 date: 2023-06-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Business and Economy
 - Events

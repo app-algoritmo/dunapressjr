@@ -2,7 +2,7 @@
 title: Declaração do IR de anos anteriores também pode ser enviada à Receita
 date: 2020-06-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

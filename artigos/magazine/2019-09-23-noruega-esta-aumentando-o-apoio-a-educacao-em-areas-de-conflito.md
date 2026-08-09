@@ -2,7 +2,7 @@
 title: Noruega está aumentando o apoio à educação em áreas de conflito
 date: 2019-09-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

@@ -2,7 +2,7 @@
 title: Evento na B3 marca início da privatização da Eletrobras
 date: 2022-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

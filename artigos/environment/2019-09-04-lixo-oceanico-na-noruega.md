@@ -2,7 +2,7 @@
 title: Lixo oceânico na Noruega
 date: 2019-09-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Environment
 - Magazine

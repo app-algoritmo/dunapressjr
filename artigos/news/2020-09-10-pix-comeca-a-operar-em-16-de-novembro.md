@@ -2,7 +2,7 @@
 title: Pix começa a operar em 16 de novembro
 date: 2020-09-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

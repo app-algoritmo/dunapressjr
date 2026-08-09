@@ -3,7 +3,7 @@ title: Ibovespa fecha em alta impulsionado por Petrobras e expectativas de afrou
   monetário pelo Banco Central
 date: 2023-08-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

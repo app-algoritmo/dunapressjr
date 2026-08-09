@@ -2,7 +2,7 @@
 title: Setor de serviços cai 0,6% de setembro para outubro
 date: 2022-12-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

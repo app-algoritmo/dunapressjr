@@ -2,7 +2,7 @@
 title: Painel Telebrasil discutirá 5G, internet 3.0 e sustentabilidade
 date: 2022-06-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

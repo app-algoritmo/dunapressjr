@@ -2,7 +2,7 @@
 title: Brasil busca diversificar e alavancar exportações aos Emirados Árabes
 date: 2022-02-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

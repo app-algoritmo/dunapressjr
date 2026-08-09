@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,18 após três dias de queda
 date: 2021-09-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

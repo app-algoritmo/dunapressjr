@@ -2,7 +2,7 @@
 title: Produção de motocicletas aumenta 18% no primeiro semestre de 2022
 date: 2022-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

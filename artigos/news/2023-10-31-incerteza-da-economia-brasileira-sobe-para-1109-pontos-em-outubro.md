@@ -2,7 +2,7 @@
 title: Incerteza da Economia Brasileira sobe para 110,9 pontos em outubro
 date: 2023-10-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

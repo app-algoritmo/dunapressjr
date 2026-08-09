@@ -2,7 +2,7 @@
 title: Governo zera Imposto de Importação de medicamentos para diversos tipos de câncer
 date: 2021-10-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Israel planeja enviar 10.000 soldados para capturar a cidade de Gaza e ma
   Sinwar
 date: 2023-10-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

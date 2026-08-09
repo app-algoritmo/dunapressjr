@@ -2,7 +2,7 @@
 title: Grandes bancos da China se preparam para riscos da pandemia
 date: 2020-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: PGFN realiza acordo de Transação Individual com empresa do setor automotivo
 date: 2021-04-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

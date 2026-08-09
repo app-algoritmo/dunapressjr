@@ -2,7 +2,7 @@
 title: País registra perda de 10,9 mil vagas de empregos formais em junho
 date: 2020-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

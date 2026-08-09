@@ -2,7 +2,7 @@
 title: Caixa lança linha de antecipação de frete para caminhoneiros
 date: 2022-02-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

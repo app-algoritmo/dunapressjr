@@ -2,7 +2,7 @@
 title: Controle suas finanças com um gerenciamento adequado e eficaz
 date: 2023-05-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Finances
 - Financial Education

@@ -2,7 +2,7 @@
 title: Diante do cenário global negativo o índice Ibovespa fecha em queda de 0,70%
 date: 2023-02-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

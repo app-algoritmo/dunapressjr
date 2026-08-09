@@ -2,7 +2,7 @@
 title: Prévia da carga tributária sobe para 33,9% do PIB em 2021
 date: 2022-04-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "Brasileiros dormem 6h14 por noite e agora pagam para recuperar o que ent
 subtitle: "O sono virou produto premium no Brasil urbano — e a corrida por clínicas, aplicativos e retiros de descanso revela quanto a cultura da produtividade cobrou um preço que só agora está sendo contabilizado."
 date: 2026-06-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - lifestyle
 description: "Pesquisa da USP divulgada em maio de 2026 confirma que o brasileiro urbano dorme, em média, 6h14 por noite — 46 minutos abaixo do mínimo recomendado pela medicina do sono. O paradoxo é que o mesmo público que glorificou a privação agora movimenta um mercado de R$ 4,2 bilhões em soluções para dormir melhor."

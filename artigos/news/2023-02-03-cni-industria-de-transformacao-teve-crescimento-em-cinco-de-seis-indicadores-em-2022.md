@@ -3,7 +3,7 @@ title: 'CNI: Indústria de transformação teve crescimento em cinco de seis ind
   em 2022'
 date: 2023-02-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

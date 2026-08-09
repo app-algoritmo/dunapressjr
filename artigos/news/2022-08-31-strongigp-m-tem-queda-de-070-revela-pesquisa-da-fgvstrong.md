@@ -2,7 +2,7 @@
 title: <strong>IGP-M tem queda de 0,70%, revela pesquisa da FGV</strong>
 date: 2022-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

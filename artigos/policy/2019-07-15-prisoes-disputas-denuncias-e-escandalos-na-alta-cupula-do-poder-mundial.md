@@ -2,7 +2,7 @@
 title: Prisões, disputas, denúncias e escândalos na alta cúpula do poder mundial
 date: 2019-07-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

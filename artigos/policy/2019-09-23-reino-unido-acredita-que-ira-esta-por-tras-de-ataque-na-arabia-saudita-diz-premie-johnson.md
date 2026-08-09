@@ -3,7 +3,7 @@ title: Reino Unido acredita que Irã está por trás de ataque na Arábia Saudit
   premiê Johnson
 date: 2019-09-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

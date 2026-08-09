@@ -2,7 +2,7 @@
 title: 31 novos projetos selecionados pelo Capes, para combate à pandemia
 date: 2020-06-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

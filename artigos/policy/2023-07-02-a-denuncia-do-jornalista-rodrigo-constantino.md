@@ -2,7 +2,7 @@
 title: A denúncia do Jornalista Rodrigo Constantino
 date: 2023-07-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Um breve resumo da Operação Zelotes
 date: 2020-04-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

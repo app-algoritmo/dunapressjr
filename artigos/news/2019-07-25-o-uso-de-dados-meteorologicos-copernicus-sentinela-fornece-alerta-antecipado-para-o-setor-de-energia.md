@@ -3,7 +3,7 @@ title: O uso de dados meteorológicos Copernicus Sentinela fornece alerta anteci
   para o setor de energia
 date: 2019-07-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

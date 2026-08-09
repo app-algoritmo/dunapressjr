@@ -3,7 +3,7 @@ title: Líder do maior movimento conservador do Brasil é destaque para as elei�
   municipais em São Paulo
 date: 2020-10-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

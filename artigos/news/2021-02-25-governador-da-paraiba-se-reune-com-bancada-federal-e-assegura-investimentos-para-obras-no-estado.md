@@ -3,7 +3,7 @@ title: Governador da Paraíba se reúne com bancada federal e assegura investime
   para obras no Estado
 date: 2021-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

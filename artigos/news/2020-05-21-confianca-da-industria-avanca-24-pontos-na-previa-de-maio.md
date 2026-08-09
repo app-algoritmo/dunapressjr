@@ -2,7 +2,7 @@
 title: Confiança da indústria avança 2,4 pontos na prévia de maio
 date: 2020-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

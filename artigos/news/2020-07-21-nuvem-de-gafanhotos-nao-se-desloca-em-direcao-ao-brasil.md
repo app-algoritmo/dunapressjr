@@ -2,7 +2,7 @@
 title: Nuvem de gafanhotos não se desloca em direção ao Brasil
 date: 2020-07-21
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

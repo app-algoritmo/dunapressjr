@@ -3,7 +3,7 @@ title: "Janaína Torres abre cozinha-laboratório em Salvador e aposta que o Nor
 subtitle: "A chef premiada deixa São Paulo temporariamente para investigar ingredientes do sertão baiano e transformar pesquisa em cardápio — um movimento que sinaliza uma virada na geografia do fine dining nacional."
 date: 2026-07-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - gastronomia
 description: "Janaína Torres, eleita melhor chef da América Latina em 2024 pelo World's 50 Best, instala laboratório gastronômico em Salvador para mapear ingredientes do sertão baiano ainda fora dos menus de alta cozinha. O movimento aponta uma redistribuição do poder criativo da gastronomia brasileira, historicamente concentrado no eixo São Paulo-Rio."

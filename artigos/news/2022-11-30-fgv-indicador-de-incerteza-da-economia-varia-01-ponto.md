@@ -2,7 +2,7 @@
 title: 'FGV: Indicador de Incerteza da Economia varia 0,1 ponto'
 date: 2022-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

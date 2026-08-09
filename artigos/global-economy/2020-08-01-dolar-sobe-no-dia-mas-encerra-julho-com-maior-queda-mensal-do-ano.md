@@ -2,7 +2,7 @@
 title: Dólar sobe no dia, mas encerra julho com maior queda mensal do ano
 date: 2020-08-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

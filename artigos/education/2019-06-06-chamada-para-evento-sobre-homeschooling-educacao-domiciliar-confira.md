@@ -2,7 +2,7 @@
 title: Chamada para Evento sobre Homeschooling (Educação domiciliar), confira!
 date: 2019-06-06
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Education
 - News

@@ -2,7 +2,7 @@
 title: 'Tributação CFC: Uma maneira de os países ricos roubarem dos pobres?'
 date: 2020-09-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

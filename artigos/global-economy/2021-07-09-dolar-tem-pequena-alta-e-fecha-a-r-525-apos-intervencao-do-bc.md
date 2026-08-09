@@ -2,7 +2,7 @@
 title: Dólar tem pequena alta e fecha a R$ 5,25 após intervenção do BC
 date: 2021-07-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: "A Reinvenção da Mesa Brasileira: Como a Nova Geração de Chefs Está 
 subtitle: "Entre ingredientes nativos esquecidos, técnicas de fermentação ancestral e um movimento crescente de valorização do produtor local, a gastronomia brasileira vive seu momento mais criativo e politicamente consciente das últimas décadas"
 date: 2026-05-31
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - gastronomia
 description: "Uma nova geração de chefs brasileiros está promovendo uma revolução silenciosa nas cozinhas do país, resgatando ingredientes nativos dos biomas, revisitando técnicas indígenas e quilombolas e colocando o Brasil no centro do debate gastronômico global. A análise da Duna Press mapeia esse movimento, seus protagonistas e os desafios estruturais que ainda freiam seu pleno desenvolvimento."

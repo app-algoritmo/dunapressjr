@@ -2,7 +2,7 @@
 title: 'IBGE: Cresce o abate de bovinos e frangos e cai o de suínos no 2º tri de 2023'
 date: 2023-09-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

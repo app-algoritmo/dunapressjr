@@ -2,7 +2,7 @@
 title: 'Tentativa de Incriminação: O Caso do Ex-Presidente Bolsonaro'
 date: 2024-02-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

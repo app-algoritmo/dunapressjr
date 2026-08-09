@@ -2,7 +2,7 @@
 title: Auxílio emergencial começa a ser pago na quinta-feira (9)
 date: 2020-04-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

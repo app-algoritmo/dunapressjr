@@ -3,7 +3,7 @@ title: "Brasileiros pagam R$ 1,70 de juros para cada R$ 1,00 que tomam emprestad
 subtitle: "Com a Selic em 10,5% ao ano e o rotativo do cartão de crédito chegando a 440% ao ano, a distância entre quem constrói patrimônio e quem financia o consumo alheio nunca foi tão mensurável."
 date: 2026-06-24
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - financial-education
 description: "O rotativo do cartão de crédito no Brasil cobra, em média, 440% ao ano — a taxa mais alta entre 20 economias monitoradas pelo Banco Mundial. Entender como essa armadilha funciona, e por que ela é juridicamente permitida, é o primeiro passo para sair do lado errado da equação."

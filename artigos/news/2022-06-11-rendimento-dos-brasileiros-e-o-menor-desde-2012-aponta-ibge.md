@@ -2,7 +2,7 @@
 title: Rendimento dos brasileiros é o menor desde 2012, aponta IBGE
 date: 2022-06-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

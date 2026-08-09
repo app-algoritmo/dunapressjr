@@ -2,7 +2,7 @@
 title: 'Work Until You Die: Denmark''s Proposed New Retirement Age'
 date: 2024-11-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

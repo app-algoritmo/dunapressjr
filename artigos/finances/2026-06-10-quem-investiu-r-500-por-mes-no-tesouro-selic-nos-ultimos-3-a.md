@@ -3,7 +3,7 @@ title: "Quem investiu R$ 500 por mês no Tesouro Selic nos últimos 3 anos acumu
 subtitle: "Com a Selic a 13,75% e o debate sobre cortes de juros voltando à pauta em 2026, entender onde o dinheiro realmente rende — e por quê a simplicidade vence a sofisticação na maioria dos casos — se tornou uma competência essencial para a classe média brasileira."
 date: 2026-06-10
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - finances
 description: "Dados de desempenho dos últimos três anos mostram que estratégias simples de renda fixa superaram a maioria dos fundos de gestão ativa disponíveis para o investidor comum. Em um momento em que o Banco Central sinaliza novos movimentos nos juros, saber o que fazer com R$ 300 a R$ 2.000 por mês pode definir a diferença entre estagnação e independência financeira em dez anos."

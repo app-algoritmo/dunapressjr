@@ -3,7 +3,7 @@ title: Secretaria de Política Econômica destaca a importância de medidas estr
   para a geração de emprego
 date: 2021-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

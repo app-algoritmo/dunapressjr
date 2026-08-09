@@ -3,7 +3,7 @@ title: Novo regime de metas de inflação é aprovado pelo CMN com horizonte mai
   a partir de 2025
 date: 2023-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'URGENTE: Nível do Rio Taquari atinge marca histórica, Defesa Civil emi
   de emergência'
 date: 2024-05-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Environment
 ---

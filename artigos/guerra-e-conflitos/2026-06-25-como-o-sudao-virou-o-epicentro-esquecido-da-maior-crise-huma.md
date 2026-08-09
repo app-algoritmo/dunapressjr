@@ -3,7 +3,7 @@ title: "Como o Sudão virou o epicentro esquecido da maior crise humanitária do
 subtitle: "Com 12 milhões de deslocados e uma guerra civil que completa 26 meses em junho de 2026, o Sudão concentra mais sofrimento per capita do que qualquer outro conflito ativo — e quase nenhuma cobertura."
 date: 2026-06-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - guerra-e-conflitos
 description: "O Sudão registra, em junho de 2026, o maior número de deslocados internos do mundo — 12,4 milhões de pessoas — depois de 26 meses de guerra entre as Forças Armadas Sudanesas e as Forças de Apoio Rápido. O conflito, alimentado por ouro, armas estrangeiras e rivalidades regionais, permanece invisível nas grandes pautas globais enquanto a fome estrutural avança sobre Darfur e Cartum."

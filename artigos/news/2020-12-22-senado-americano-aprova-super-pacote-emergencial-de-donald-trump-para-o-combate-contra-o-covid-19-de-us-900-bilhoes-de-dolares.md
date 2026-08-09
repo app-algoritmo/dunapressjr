@@ -3,7 +3,7 @@ title: Senado Americano aprova super pacote emergencial de Donald Trump para o c
   contra o covid-19 de US$ 900 bilhões de dólares
 date: 2020-12-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

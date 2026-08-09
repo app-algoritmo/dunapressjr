@@ -2,7 +2,7 @@
 title: Vacina contra covid-19 será gratuita na Noruega
 date: 2020-10-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

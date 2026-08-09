@@ -2,7 +2,7 @@
 title: O Poder do Silêncio
 date: 2019-10-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Architecture and Art
 - Education

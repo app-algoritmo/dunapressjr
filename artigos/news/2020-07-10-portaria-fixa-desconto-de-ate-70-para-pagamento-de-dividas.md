@@ -2,7 +2,7 @@
 title: Portaria fixa desconto de até 70% para pagamento de dívidas
 date: 2020-07-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

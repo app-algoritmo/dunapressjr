@@ -2,7 +2,7 @@
 title: '500 dias de governo: MEC expõe ações feitas com relação à pandemia'
 date: 2020-05-18
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

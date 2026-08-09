@@ -3,7 +3,7 @@ title: Começa hoje o primeiro curso digital grátis de Educação Moral e Cívi
   no modelo pedagógico norueguês
 date: 2019-10-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - News

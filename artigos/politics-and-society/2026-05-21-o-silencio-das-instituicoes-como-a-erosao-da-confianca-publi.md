@@ -3,7 +3,7 @@ title: "O Silêncio das Instituições: Como a Erosão da Confiança Pública Re
 subtitle: "Em um país onde menos de 20% da população confia nos partidos políticos, a crise de representatividade deixa de ser sintoma e passa a ser a própria doença — com consequências que vão muito além das urnas"
 date: 2026-05-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - politics-and-society
 description: "A desconfiança nas instituições brasileiras atingiu níveis históricos em 2026, e o fenômeno já não pode ser lido como mero mal-estar cívico passageiro. Uma análise sobre como a erosão da legitimidade institucional está redesenhando o comportamento eleitoral, alimentando movimentos antissistema e colocando em xeque os pilares da governança democrática no país."

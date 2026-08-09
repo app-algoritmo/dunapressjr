@@ -2,7 +2,7 @@
 title: Réveillon Patriota e Acampamento Conservador
 date: 2018-12-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

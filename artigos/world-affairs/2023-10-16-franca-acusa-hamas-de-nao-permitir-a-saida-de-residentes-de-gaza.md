@@ -2,7 +2,7 @@
 title: França acusa Hamas de não permitir a saída de residentes de Gaza
 date: 2023-10-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

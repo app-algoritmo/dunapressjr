@@ -2,7 +2,7 @@
 title: A Florida Cup agita o mundo!
 date: 2019-01-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Sports
 ---

@@ -2,7 +2,7 @@
 title: Protocolo de Biossegurança para retorno às aulas lançado pelo MEC
 date: 2020-07-02
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

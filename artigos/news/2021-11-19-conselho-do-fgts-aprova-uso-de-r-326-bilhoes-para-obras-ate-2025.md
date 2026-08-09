@@ -2,7 +2,7 @@
 title: Conselho do FGTS aprova uso de R$ 326 bilhões para obras até 2025
 date: 2021-11-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

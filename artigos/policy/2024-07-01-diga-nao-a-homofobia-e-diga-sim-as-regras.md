@@ -2,7 +2,7 @@
 title: Diga Não à Homofobia e Diga Sim às Regras
 date: 2024-07-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

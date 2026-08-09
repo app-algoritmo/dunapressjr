@@ -2,7 +2,7 @@
 title: Capacidade de geração de energia eólica deve bater recorde neste ano
 date: 2023-04-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

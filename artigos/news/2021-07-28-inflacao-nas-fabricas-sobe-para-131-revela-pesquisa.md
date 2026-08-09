@@ -2,7 +2,7 @@
 title: Inflação nas fábricas sobe para 1,31%, revela pesquisa
 date: 2021-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

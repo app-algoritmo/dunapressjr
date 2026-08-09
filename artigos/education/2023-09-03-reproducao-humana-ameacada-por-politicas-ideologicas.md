@@ -2,7 +2,7 @@
 title: Reprodução humana ameaçada por políticas ideológicas
 date: 2023-09-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Science

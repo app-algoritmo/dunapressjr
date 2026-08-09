@@ -2,7 +2,7 @@
 title: Produção de veículos sobe 0,4% em abril, diz balanço da Anfavea
 date: 2022-05-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

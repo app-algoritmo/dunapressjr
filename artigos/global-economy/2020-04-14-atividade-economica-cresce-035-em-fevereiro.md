@@ -2,7 +2,7 @@
 title: Atividade econômica cresce 0,35% em fevereiro
 date: 2020-04-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

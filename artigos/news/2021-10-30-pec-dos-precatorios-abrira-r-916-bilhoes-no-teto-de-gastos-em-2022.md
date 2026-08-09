@@ -2,7 +2,7 @@
 title: PEC dos Precatórios abrirá R$ 91,6 bilhões no teto de gastos em 2022
 date: 2021-10-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

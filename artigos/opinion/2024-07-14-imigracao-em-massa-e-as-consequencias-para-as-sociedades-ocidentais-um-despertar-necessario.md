@@ -3,7 +3,7 @@ title: 'Imigração em Massa e as Consequências para as Sociedades Ocidentais: 
   Necessário'
 date: 2024-07-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Opinion
 - Tourism and Gastronomy

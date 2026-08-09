@@ -2,7 +2,7 @@
 title: A Relação Indireta entre Humanos Modernos e Neandertais
 date: 2024-07-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - History
 ---

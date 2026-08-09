@@ -3,7 +3,7 @@ title: Ministério da Mulher, da Família e dos Direitos Humanos lança programa
   ao uso inteligente da tecnologia
 date: 2019-07-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

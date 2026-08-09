@@ -2,7 +2,7 @@
 title: <strong>O Primeiro Concerto Musical Público</strong>
 date: 2021-01-30
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

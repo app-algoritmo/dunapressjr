@@ -3,7 +3,7 @@ title: Reforma tributária é aprovada pela Câmara dos Deputados e gera repercu
   entre os senadores
 date: 2023-07-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

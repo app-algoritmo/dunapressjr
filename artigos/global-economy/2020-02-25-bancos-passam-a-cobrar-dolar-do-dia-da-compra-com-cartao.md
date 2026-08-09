@@ -2,7 +2,7 @@
 title: Bancos passam a cobrar dólar do dia da compra com cartão
 date: 2020-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

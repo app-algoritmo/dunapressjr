@@ -2,7 +2,7 @@
 title: 'Operação Espadas de Ferro: Israel atinge 100 mortos e 900 feridos'
 date: 2023-10-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

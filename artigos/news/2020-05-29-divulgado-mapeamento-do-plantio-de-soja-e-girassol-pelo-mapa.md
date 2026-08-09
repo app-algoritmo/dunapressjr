@@ -2,7 +2,7 @@
 title: Divulgado mapeamento do plantio de soja e girassol pelo Mapa
 date: 2020-05-29
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

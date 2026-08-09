@@ -2,7 +2,7 @@
 title: Turismo de negócios cresce 9,5% em 2019, aponta setor
 date: 2020-02-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Após dois meses de queda, indústria cresce 0,3%, revela IBGE
 date: 2022-12-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

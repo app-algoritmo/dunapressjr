@@ -2,7 +2,7 @@
 title: Entidades empresariais aprovam nova queda da Selic
 date: 2020-06-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

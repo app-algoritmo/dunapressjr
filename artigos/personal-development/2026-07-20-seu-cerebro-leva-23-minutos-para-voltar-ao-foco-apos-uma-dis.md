@@ -3,7 +3,7 @@ title: "Seu cérebro leva 23 minutos para voltar ao foco após uma distração �
 subtitle: "Pesquisas de neurociência aplicada estão mudando a forma como líderes estruturam o trabalho profundo, mas o ambiente corporativo brasileiro ainda opera contra a biologia."
 date: 2026-07-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - personal-development
 description: "Um dado da Universidade da Califórnia — 23 minutos para recuperar o foco após qualquer interrupção — virou referência silenciosa entre os profissionais de melhor desempenho do mundo. No Brasil, onde reuniões desnecessárias consomem em média 31% da semana de trabalho, entender essa matemática pode ser a diferença entre uma carreira estagnada e uma em aceleração."

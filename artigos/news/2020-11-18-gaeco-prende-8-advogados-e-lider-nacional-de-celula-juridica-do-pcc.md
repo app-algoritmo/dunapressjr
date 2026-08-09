@@ -2,7 +2,7 @@
 title: Gaeco prende 8 advogados e líder nacional de célula jurídica do PCC
 date: 2020-11-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

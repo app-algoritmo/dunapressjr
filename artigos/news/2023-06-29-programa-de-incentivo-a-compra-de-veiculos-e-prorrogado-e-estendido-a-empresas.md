@@ -2,7 +2,7 @@
 title: Programa de Incentivo à Compra de Veículos é Prorrogado e Estendido a Empresas
 date: 2023-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

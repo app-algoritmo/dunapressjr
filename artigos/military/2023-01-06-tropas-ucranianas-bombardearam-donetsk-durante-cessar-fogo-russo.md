@@ -2,7 +2,7 @@
 title: Tropas ucranianas bombardearam Donetsk durante cessar-fogo russo
 date: 2023-01-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 - News

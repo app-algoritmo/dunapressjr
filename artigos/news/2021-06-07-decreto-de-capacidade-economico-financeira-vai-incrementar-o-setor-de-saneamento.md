@@ -2,7 +2,7 @@
 title: Decreto de capacidade econômico-financeira vai incrementar o setor de saneamento
 date: 2021-06-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

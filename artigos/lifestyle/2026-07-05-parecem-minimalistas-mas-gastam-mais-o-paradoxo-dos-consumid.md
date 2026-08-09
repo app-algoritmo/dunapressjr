@@ -3,7 +3,7 @@ title: "Parecem minimalistas, mas gastam mais: o paradoxo dos 'consumidores cons
 subtitle: "Uma geração que rejeitou o consumismo de massa está reinventando — e em muitos casos intensificando — os próprios padrões de gasto sob o rótulo de estilo de vida sustentável."
 date: 2026-07-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - lifestyle
 description: "Pesquisa do Ibope Inteligência divulgada em junho de 2026 revela que brasileiros que se identificam como 'consumidores conscientes' gastam, em média, 23% mais por item do que o restante da população urbana. O dado reacende um debate urgente: afinal, consumo consciente é uma transformação real de comportamento ou uma nova camada de sofisticação para quem pode pagar por ela?"

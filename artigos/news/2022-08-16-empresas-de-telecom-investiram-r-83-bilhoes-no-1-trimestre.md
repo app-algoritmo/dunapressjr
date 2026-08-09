@@ -2,7 +2,7 @@
 title: Empresas de telecom investiram R$ 8,3 bilhões no 1º trimestre
 date: 2022-08-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

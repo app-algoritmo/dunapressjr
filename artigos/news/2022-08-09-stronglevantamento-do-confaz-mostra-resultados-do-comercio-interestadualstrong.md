@@ -2,7 +2,7 @@
 title: <strong>Levantamento do Confaz mostra resultados do comércio interestadual</strong>
 date: 2022-08-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

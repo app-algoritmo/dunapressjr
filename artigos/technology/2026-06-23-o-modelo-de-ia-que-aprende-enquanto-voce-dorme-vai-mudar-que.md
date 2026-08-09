@@ -3,7 +3,7 @@ title: "O modelo de IA que aprende enquanto você dorme vai mudar quem paga a co
 subtitle: "A corrida pelos chamados 'modelos contínuos' — que atualizam seus parâmetros em tempo real sem retreinamento — reacende um debate antigo sobre quem financia a infraestrutura digital e quem lucra com ela."
 date: 2026-06-23
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - technology
 description: "Uma nova geração de sistemas de IA que aprende de forma contínua — sem as pausas caras de retreinamento — começa a sair dos laboratórios em 2026, comprimindo ciclos de atualização de meses para horas. O movimento pressiona reguladores, redistribui custos entre Big Techs e provedores de nuvem, e levanta uma questão que o Brasil ainda não respondeu: quem paga pela infraestrutura quando o modelo nunca para de crescer?"

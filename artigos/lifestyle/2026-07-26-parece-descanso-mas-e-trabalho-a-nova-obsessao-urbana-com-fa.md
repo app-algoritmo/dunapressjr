@@ -3,7 +3,7 @@ title: "Parece descanso, mas é trabalho: a nova obsessão urbana com 'fazer nad
 subtitle: "O chamado 'ócio produtivo' saiu das retretas de wellness e chegou às agendas de executivos e profissionais liberais como protocolo deliberado — e os dados mostram que não é modismo."
 date: 2026-07-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - lifestyle
 description: "Cada vez mais brasileiros das grandes cidades estão agendando blocos de tempo vazio como estratégia consciente de desempenho — não de fuga. O movimento, que já movimenta um mercado estimado em R$ 4,2 bilhões em serviços de 'desaceleração intencional' no país, redesenha o que significa cuidar de si em 2026."

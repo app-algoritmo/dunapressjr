@@ -2,7 +2,7 @@
 title: Setor da construção empregou 2 milhões de pessoas em 2020, diz IBGE
 date: 2022-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

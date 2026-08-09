@@ -2,7 +2,7 @@
 title: Dep. Bia Kicis protocola a Lei Constantino contra estupradores
 date: 2020-11-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

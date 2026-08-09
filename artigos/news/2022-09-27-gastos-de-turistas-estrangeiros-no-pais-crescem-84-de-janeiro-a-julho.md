@@ -2,7 +2,7 @@
 title: Gastos de turistas estrangeiros no país crescem 84% de janeiro a julho
 date: 2022-09-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

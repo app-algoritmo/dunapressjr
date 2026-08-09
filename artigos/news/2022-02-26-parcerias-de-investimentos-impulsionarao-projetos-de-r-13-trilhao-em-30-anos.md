@@ -2,7 +2,7 @@
 title: Parcerias de investimentos impulsionarão projetos de R$ 1,3 trilhão em 30 anos
 date: 2022-02-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

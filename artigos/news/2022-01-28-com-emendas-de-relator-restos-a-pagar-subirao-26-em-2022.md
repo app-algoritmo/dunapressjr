@@ -2,7 +2,7 @@
 title: Com emendas de relator, restos a pagar subirão 2,6% em 2022
 date: 2022-01-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

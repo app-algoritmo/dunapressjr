@@ -1,5 +1,5 @@
 ---
-title: 'Coronavírus atualização:  Brasil registra 3.417 casos confirmados de coronavírus
+title: 'Coronavírus atualização: Brasil registra 3.417 casos confirmados de coronavírus
   e 92 mortes'
 date: 2020-03-28
 status: publish

@@ -2,7 +2,7 @@
 title: Arrecadação da União tem segunda queda no ano
 date: 2023-07-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Porsche Taycan, o poderoso esportivo elétrico de 408 cv.
 date: 2021-02-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - E-auto
 ---

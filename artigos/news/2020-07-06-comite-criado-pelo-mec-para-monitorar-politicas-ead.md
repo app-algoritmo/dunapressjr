@@ -2,7 +2,7 @@
 title: Comitê criado pelo Mec para monitorar políticas Ead
 date: 2020-07-06
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

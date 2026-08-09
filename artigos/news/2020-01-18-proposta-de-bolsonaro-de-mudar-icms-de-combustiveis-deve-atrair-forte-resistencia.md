@@ -2,7 +2,7 @@
 title: Proposta de Bolsonaro de mudar ICMS de combustíveis deve atrair forte resistência
 date: 2020-01-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

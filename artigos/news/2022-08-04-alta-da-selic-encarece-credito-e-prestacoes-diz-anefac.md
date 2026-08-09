@@ -2,7 +2,7 @@
 title: Alta da Selic encarece crédito e prestações, diz Anefac
 date: 2022-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

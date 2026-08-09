@@ -2,7 +2,7 @@
 title: O dia que Bolsonaro contou tudo
 date: 2022-12-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

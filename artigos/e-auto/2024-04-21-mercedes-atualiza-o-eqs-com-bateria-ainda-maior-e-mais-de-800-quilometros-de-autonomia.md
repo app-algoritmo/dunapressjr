@@ -3,7 +3,7 @@ title: Mercedes atualiza o EQS com bateria ainda maior e mais de 800 quilômetro
   autonomia
 date: 2024-04-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - E-auto
 ---

@@ -2,7 +2,7 @@
 title: 27F Dia Nacional do Livro Didático e os desafios para a educação
 date: 2021-02-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

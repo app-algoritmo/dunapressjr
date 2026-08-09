@@ -2,7 +2,7 @@
 title: 'A Retórica na História: Cícero Versus Catilina'
 date: 2020-05-06
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

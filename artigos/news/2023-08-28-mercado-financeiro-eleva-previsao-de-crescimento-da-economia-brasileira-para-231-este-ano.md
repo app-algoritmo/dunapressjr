@@ -3,7 +3,7 @@ title: Mercado financeiro eleva previsão de crescimento da economia brasileira 
   2,31% este ano
 date: 2023-08-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Estudo de variantes do coronavírus prevê a evolução do vírus para es
   vacinas atuais
 date: 2021-03-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

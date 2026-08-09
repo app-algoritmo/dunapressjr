@@ -2,7 +2,7 @@
 title: CGU, MPF e PF combatem irregularidades em municípios paraibanos
 date: 2020-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

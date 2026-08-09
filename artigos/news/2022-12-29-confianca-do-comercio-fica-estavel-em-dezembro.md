@@ -2,7 +2,7 @@
 title: Confiança do comércio fica estável em dezembro
 date: 2022-12-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

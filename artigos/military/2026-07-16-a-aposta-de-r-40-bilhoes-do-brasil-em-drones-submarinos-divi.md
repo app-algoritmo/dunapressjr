@@ -3,7 +3,7 @@ title: "A aposta de R$ 40 bilhões do Brasil em drones submarinos divide o Exér
 subtitle: "O programa PROSUB entra em nova fase com tecnologia autônoma que promete redesenhar o equilíbrio naval no Atlântico Sul — mas revela fissuras internas sobre onde investir os próximos reais da defesa."
 date: 2026-07-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - military
 description: "O Brasil discute a incorporação de veículos subaquáticos autônomos ao PROSUB, programa que já custou R$ 40 bilhões e entregou dois submarinos convencionais. A decisão sobre priorizar tecnologia autônoma ou acelerar o submarino nuclear revela uma disputa estratégica silenciosa que definirá a postura militar brasileira na próxima década."

@@ -3,7 +3,7 @@ title: Consulta pública para Catálogo Nacional de Cursos Técnicos obteve mais
   contribuições
 date: 2020-07-14
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

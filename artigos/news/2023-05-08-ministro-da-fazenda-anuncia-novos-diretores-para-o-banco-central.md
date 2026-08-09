@@ -2,7 +2,7 @@
 title: Ministro da Fazenda anuncia novos diretores para o Banco Central
 date: 2023-05-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

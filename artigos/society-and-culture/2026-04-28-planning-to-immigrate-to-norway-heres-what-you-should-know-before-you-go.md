@@ -2,7 +2,7 @@
 title: Planning to Immigrate to Norway? Here’s What You Should Know Before You Go
 date: 2026-04-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Society and Culture
 ---

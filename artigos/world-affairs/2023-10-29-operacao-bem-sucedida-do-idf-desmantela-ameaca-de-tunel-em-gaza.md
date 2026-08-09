@@ -2,7 +2,7 @@
 title: Operação bem-sucedida do IDF desmantela ameaça de túnel em Gaza
 date: 2023-10-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

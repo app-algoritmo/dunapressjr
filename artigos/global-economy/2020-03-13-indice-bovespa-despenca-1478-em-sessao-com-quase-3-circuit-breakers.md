@@ -2,7 +2,7 @@
 title: Índice Bovespa despenca 14,78% em sessão com quase 3 circuit breakers
 date: 2020-03-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

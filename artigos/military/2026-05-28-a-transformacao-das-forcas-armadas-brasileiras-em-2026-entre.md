@@ -3,7 +3,7 @@ title: "A Transformação das Forças Armadas Brasileiras em 2026: Entre Moderni
 subtitle: "Num cenário de reconfiguração geopolítica global, o Brasil enfrenta a complexa tarefa de modernizar seu aparato militar com recursos limitados, enquanto pressões externas e internas redefinem prioridades estratégicas"
 date: 2026-05-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - military
 description: "Em 2026, as Forças Armadas brasileiras atravessam um momento decisivo: a necessidade de modernização tecnológica e doutrinária colide com restrições fiscais persistentes e um ambiente geopolítico regional cada vez mais volátil. A Duna Press analisa os vetores que moldam o futuro da defesa nacional."

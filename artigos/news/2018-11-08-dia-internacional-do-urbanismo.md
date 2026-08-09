@@ -2,7 +2,7 @@
 title: Dia Internacional do Urbanismo
 date: 2018-11-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

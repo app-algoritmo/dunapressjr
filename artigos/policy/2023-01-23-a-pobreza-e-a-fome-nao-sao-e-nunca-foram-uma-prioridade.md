@@ -2,7 +2,7 @@
 title: A pobreza e a fome não são e nunca foram uma prioridade
 date: 2023-01-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 - World Affairs

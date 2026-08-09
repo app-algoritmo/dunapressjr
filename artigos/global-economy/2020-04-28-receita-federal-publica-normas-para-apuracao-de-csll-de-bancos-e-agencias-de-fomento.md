@@ -3,7 +3,7 @@ title: Receita Federal publica normas para apuração de CSLL de bancos e agênc
   fomento
 date: 2020-04-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

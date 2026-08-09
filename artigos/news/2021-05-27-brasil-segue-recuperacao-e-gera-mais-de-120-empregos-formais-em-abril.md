@@ -2,7 +2,7 @@
 title: Brasil segue recuperação e gera mais de 120 empregos formais em abril
 date: 2021-05-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

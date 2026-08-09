@@ -2,7 +2,7 @@
 title: Municípios começam a receber recursos destinados à assistência social
 date: 2020-05-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

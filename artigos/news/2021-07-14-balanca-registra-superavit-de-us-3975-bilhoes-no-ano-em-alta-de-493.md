@@ -2,7 +2,7 @@
 title: Balança registra superávit de US$ 39,75 bilhões no ano, em alta de 49,3%
 date: 2021-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "A Crise Silenciosa da Saúde Mental no Trabalho: O Que os Dados de 2026 
 subtitle: "Burnout, ansiedade crônica e depressão ocupacional atingem níveis recordes no Brasil e no mundo, enquanto empresas e sistemas de saúde ainda engatinham em respostas estruturais eficazes"
 date: 2026-05-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - health
 description: "Os índices de adoecimento mental relacionado ao trabalho atingiram patamares históricos em 2026, segundo dados da OMS e do Ministério da Saúde. A Duna Press analisa as causas estruturais, os grupos mais vulneráveis e o que especialistas apontam como caminhos reais de enfrentamento desta epidemia invisível."

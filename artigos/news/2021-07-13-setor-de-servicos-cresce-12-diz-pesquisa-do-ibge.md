@@ -2,7 +2,7 @@
 title: Setor de serviços cresce 1,2%, diz pesquisa do IBGE
 date: 2021-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

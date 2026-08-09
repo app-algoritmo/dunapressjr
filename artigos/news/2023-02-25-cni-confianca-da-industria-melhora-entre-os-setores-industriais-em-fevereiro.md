@@ -2,7 +2,7 @@
 title: 'CNI: Confiança da indústria melhora entre os setores industriais em fevereiro'
 date: 2023-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

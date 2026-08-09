@@ -3,7 +3,7 @@ title: "O museu que o Brasil quase perdeu duas vezes está sendo reconstruído c
 subtitle: "Oito anos após o incêndio que destruiu 92,7% do acervo do Museu Nacional do Rio de Janeiro, uma parceria entre a UFRJ, o Google Arts & Culture e pesquisadores de 14 países avança na reconstrução digital de peças que existem agora apenas em fotografias antigas e relatos de viajantes do século XIX."
 date: 2026-07-31
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - culture-and-history
 description: "A reconstrução digital do acervo do Museu Nacional do Rio, destruído em 2018, entra em fase pública em agosto de 2026 com ferramentas de IA que recriam objetos a partir de registros fragmentados — o projeto levanta uma pergunta que vai além da tecnologia: o que um país decide guardar diz tudo sobre o que ele decide ser."

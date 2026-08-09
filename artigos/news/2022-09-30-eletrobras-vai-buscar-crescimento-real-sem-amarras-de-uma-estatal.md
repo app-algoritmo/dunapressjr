@@ -2,7 +2,7 @@
 title: Eletrobras vai buscar crescimento real 'sem amarras de uma estatal'
 date: 2022-09-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

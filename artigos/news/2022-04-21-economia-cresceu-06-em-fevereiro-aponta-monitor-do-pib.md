@@ -2,7 +2,7 @@
 title: Economia cresceu 0,6% em fevereiro, aponta Monitor do PIB
 date: 2022-04-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

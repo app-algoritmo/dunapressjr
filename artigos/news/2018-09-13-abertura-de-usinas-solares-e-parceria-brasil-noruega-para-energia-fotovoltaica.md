@@ -2,7 +2,7 @@
 title: Abertura de usinas solares e parceria Brasil-Noruega para energia fotovoltaica
 date: 2018-09-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: O regime iraniano aprofunda seu isolamento global e enfrenta os maiores p
   em anos
 date: 2022-12-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

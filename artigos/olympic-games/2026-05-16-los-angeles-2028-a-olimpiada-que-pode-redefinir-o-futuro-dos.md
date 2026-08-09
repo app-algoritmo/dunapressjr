@@ -3,7 +3,7 @@ title: "Los Angeles 2028: A Olimpíada que Pode Redefinir o Futuro dos Jogos"
 subtitle: "Com dois anos de antecedência, a edição americana promete ser um divisor de águas para o movimento olímpico — entre a grandiosidade comercial e a pressão por relevância global"
 date: 2026-05-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - olympic-games
 description: "A dois anos dos Jogos Olímpicos de Los Angeles, a Duna Press analisa os desafios estruturais, as apostas comerciais e as tensões geopolíticas que tornam LA28 uma das edições mais complexas e decisivas da história moderna do olimpismo."

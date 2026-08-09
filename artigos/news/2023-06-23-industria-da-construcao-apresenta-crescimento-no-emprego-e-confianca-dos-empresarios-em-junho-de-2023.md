@@ -3,7 +3,7 @@ title: Indústria da construção apresenta crescimento no emprego e confiança 
   em junho de 2023
 date: 2023-06-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

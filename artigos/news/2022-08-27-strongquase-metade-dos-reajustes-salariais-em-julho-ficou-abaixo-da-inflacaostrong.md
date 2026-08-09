@@ -2,7 +2,7 @@
 title: <strong>Quase metade dos reajustes salariais em julho ficou abaixo da inflação</strong>
 date: 2022-08-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

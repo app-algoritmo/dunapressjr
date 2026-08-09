@@ -3,7 +3,7 @@ title: "Quem são os cinco jogadores com menos de 22 anos que podem virar o circ
 subtitle: "A geração que cresce na sombra de Sinner e Alcaraz já acumula títulos ATP e semifinais de Grand Slam — e o circuito começa a perceber que a transição não vai esperar."
 date: 2026-07-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tennis
 description: "Cinco tenistas com menos de 22 anos acumulam resultados expressivos no circuito ATP em 2026 e ameaçam encurtar o reinado de Sinner e Alcaraz antes do previsto. Entender quem são esses jogadores e por que emergem agora é a pergunta mais relevante do tênis global neste segundo semestre."

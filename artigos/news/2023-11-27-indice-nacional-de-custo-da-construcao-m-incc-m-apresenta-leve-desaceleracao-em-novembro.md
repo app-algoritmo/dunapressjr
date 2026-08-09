@@ -3,7 +3,7 @@ title: Índice Nacional de Custo da Construção – M (INCC-M) apresenta leve d
   em novembro
 date: 2023-11-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

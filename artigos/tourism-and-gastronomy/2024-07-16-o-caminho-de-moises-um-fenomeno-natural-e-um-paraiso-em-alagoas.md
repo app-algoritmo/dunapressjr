@@ -2,7 +2,7 @@
 title: 'O Caminho de Moisés: Um Fenômeno Natural e Um Paraíso em Alagoas'
 date: 2024-07-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Tourism and Gastronomy
 ---

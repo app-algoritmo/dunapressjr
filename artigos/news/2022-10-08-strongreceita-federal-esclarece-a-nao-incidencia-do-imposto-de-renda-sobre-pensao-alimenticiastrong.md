@@ -3,7 +3,7 @@ title: <strong>Receita Federal esclarece a não incidência do Imposto de Renda 
   pensão alimentícia</strong>
 date: 2022-10-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

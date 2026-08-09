@@ -2,7 +2,7 @@
 title: PREVbarco retoma atividades do ano para atendimento à região amazônica
 date: 2022-02-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

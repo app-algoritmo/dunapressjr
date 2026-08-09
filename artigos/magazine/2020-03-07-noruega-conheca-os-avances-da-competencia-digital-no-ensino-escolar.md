@@ -2,7 +2,7 @@
 title: Noruega, conheça os avances da competência digital no ensino escolar
 date: 2020-03-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

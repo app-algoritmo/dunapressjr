@@ -2,7 +2,7 @@
 title: Inflação para famílias com renda baixa sobe para de 0,82% em março
 date: 2021-04-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

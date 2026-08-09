@@ -2,7 +2,7 @@
 title: Governo anuncia medidas para regularizar dívidas do Simples após veto
 date: 2022-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

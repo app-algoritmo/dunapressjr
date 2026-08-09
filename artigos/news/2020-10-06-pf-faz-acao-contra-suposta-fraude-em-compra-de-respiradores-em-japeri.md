@@ -2,7 +2,7 @@
 title: PF faz ação contra suposta fraude em compra de respiradores em Japeri
 date: 2020-10-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

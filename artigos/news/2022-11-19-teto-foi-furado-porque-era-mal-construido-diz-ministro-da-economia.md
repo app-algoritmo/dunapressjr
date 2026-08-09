@@ -2,7 +2,7 @@
 title: Teto foi furado porque era mal construído, diz ministro da Economia
 date: 2022-11-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

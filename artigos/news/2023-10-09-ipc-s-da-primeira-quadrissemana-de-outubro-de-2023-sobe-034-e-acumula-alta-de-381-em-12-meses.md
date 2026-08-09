@@ -3,7 +3,7 @@ title: IPC-S da primeira quadrissemana de outubro de 2023 sobe 0,34% e acumula a
   de 3,81% em 12 meses
 date: 2023-10-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

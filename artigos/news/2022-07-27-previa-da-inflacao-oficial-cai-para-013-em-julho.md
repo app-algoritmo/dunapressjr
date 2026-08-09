@@ -2,7 +2,7 @@
 title: Prévia da inflação oficial cai para 0,13% em julho
 date: 2022-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

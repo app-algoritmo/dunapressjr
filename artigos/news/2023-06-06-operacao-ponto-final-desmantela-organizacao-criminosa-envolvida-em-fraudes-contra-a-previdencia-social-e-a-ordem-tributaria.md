@@ -3,7 +3,7 @@ title: Operação Ponto Final desmantela organização criminosa envolvida em fr
   contra a Previdência Social e a ordem tributária
 date: 2023-06-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

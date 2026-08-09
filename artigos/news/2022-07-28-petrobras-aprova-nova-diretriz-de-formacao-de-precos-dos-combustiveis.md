@@ -2,7 +2,7 @@
 title: Petrobras aprova nova diretriz de formação de preços dos combustíveis
 date: 2022-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Fitch eleva perspectiva da nota do Brasil de negativa para estável
 date: 2022-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

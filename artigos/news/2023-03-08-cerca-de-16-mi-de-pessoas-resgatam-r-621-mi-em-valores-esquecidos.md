@@ -2,7 +2,7 @@
 title: Cerca de 1,6 mi de pessoas resgatam R$ 62,1 mi em valores esquecidos
 date: 2023-03-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

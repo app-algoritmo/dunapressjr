@@ -3,7 +3,7 @@ title: 'Ao vivo: Bolsonaro participa da Cerimônia de Cumprimentos dos Oficiais 
   das Forças Armadas'
 date: 2022-12-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 - News

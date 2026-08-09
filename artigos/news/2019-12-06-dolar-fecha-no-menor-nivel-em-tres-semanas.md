@@ -2,7 +2,7 @@
 title: Dólar fecha no menor nível em três semanas
 date: 2019-12-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

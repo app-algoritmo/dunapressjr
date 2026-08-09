@@ -2,7 +2,7 @@
 title: Argentina diz que fechou acordo com credores sobre dívida de US$ 65 bi
 date: 2020-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

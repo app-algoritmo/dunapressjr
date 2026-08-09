@@ -3,7 +3,7 @@ title: "O trabalhador brasileiro ganhou R$ 87 a mais por mês — e ainda não s
 subtitle: "Com desemprego em 6,2% e salário real em alta pelo terceiro trimestre seguido, o Brasil de 2026 exibe números que não combinam com a sensação de aperto que domina as conversas de botequim e sala de reunião."
 date: 2026-06-10
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - economia-brasileira
 description: "O Brasil fecha o primeiro semestre de 2026 com desemprego no menor patamar em 12 anos e salário médio real em alta de 4,1% — mas a combinação de juros altos, crédito caro e inflação de serviços desfaz boa parte do ganho antes de chegar ao bolso. Entender esse paradoxo é entender por que a economia cresce no papel e aperta na vida real."

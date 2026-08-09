@@ -3,7 +3,7 @@ title: "Se a IA pode raciocinar, quem decide o que é certo ainda somos nós?"
 subtitle: "A chegada de sistemas de linguagem com capacidade argumentativa reacende um debate filosófico que Emmanuel Kant inaugurou em 1785 — e que nunca foi tão urgente quanto em julho de 2026."
 date: 2026-07-24
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - philosophy
 description: "Quando máquinas passam a construir argumentos morais coerentes, a velha pergunta sobre o fundamento da ética deixa de ser acadêmica e vira questão de governança, negócio e vida cotidiana. Entender por que a razão humana ainda importa — ou se ainda importa — é o exercício filosófico mais prático de 2026."

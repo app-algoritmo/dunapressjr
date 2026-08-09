@@ -2,7 +2,7 @@
 title: Número de imóveis novos cresceu 24,6% até outubro de 2021
 date: 2022-02-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Noruega comercializa cinco vezes mais tomates do que no passado
 date: 2019-08-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

@@ -3,7 +3,7 @@ title: Concerto de Natal - Pró Monarquia com presença de S.A.I.R Dom Bertrand 
   e Bragança
 date: 2017-12-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

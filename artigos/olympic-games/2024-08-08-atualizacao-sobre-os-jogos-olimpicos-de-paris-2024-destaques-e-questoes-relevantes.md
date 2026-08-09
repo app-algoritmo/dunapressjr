@@ -2,7 +2,7 @@
 title: 'Atualização sobre os Jogos Olímpicos de Paris 2024: Destaques e Questões Relevantes'
 date: 2024-08-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Olympic Games
 ---

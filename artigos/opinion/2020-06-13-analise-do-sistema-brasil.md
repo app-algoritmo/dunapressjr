@@ -2,7 +2,7 @@
 title: Análise do sistema Brasil
 date: 2020-06-13
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

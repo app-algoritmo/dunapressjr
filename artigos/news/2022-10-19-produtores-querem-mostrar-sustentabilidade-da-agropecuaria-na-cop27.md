@@ -2,7 +2,7 @@
 title: Produtores querem mostrar sustentabilidade da agropecuária na COP27
 date: 2022-10-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

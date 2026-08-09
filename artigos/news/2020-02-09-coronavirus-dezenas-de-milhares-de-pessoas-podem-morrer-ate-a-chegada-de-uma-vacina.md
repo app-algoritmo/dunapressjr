@@ -3,7 +3,7 @@ title: 'Coronavírus: Dezenas de milhares de pessoas podem morrer até a chegada
   uma vacina'
 date: 2020-02-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

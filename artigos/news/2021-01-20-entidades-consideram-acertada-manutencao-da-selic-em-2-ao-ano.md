@@ -2,7 +2,7 @@
 title: Entidades consideram acertada manutenção da Selic em 2% ao ano
 date: 2021-01-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

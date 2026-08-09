@@ -3,7 +3,7 @@ title: Segmento de bares, restaurantes, lanchonetes e similares tem primeiro mê
   isenção de ICMS na Paraíba
 date: 2021-04-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

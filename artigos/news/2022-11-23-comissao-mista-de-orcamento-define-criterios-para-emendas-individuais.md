@@ -2,7 +2,7 @@
 title: Comissão Mista de Orçamento define critérios para emendas individuais
 date: 2022-11-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

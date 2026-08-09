@@ -3,7 +3,7 @@ title: Finalizados estudos para a modelagem de concessão de sete Terminais Pesq
   Públicos
 date: 2021-04-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

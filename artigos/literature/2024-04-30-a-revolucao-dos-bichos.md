@@ -2,7 +2,7 @@
 title: A Revolução dos Bichos
 date: 2024-04-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Literature
 ---

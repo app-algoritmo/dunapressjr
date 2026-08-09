@@ -3,7 +3,7 @@ title: Passou de 700 estabelecimentos habilitados para exportar produção brasi
   para 24 países
 date: 2020-06-05
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

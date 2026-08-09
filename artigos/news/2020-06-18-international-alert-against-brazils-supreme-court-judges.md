@@ -2,7 +2,7 @@
 title: International alert against Brazil's supreme court judges
 date: 2020-06-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

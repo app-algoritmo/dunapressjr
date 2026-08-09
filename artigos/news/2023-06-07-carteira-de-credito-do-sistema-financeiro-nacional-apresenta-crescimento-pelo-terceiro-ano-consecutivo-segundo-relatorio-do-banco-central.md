@@ -3,7 +3,7 @@ title: Carteira de crédito do Sistema Financeiro Nacional apresenta crescimento
   terceiro ano consecutivo, segundo relatório do Banco Central
 date: 2023-06-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

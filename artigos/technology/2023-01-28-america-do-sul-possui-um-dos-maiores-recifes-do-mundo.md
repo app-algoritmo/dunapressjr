@@ -1,5 +1,5 @@
 ---
-title: América do Sul  possui um dos maiores recifes do mundo
+title: América do Sul possui um dos maiores recifes do mundo
 date: 2023-01-28
 status: publish
 author: Joice Ferreira

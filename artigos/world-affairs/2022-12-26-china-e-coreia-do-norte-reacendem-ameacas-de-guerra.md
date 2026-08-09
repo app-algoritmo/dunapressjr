@@ -2,7 +2,7 @@
 title: China e Coréia do Norte reacendem ameaças de guerra
 date: 2022-12-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

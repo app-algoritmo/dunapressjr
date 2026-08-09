@@ -2,7 +2,7 @@
 title: <strong>Parlamentares apresentam 6.640 emendas ao Orçamento de 2023</strong>
 date: 2022-11-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

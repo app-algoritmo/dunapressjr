@@ -3,7 +3,7 @@ title: "A Guerra das Drones: Como os Veículos Aéreos Não Tripulados Estão Re
 subtitle: "Da Ucrânia ao Oriente Médio, a proliferação de drones de baixo custo transformou radicalmente a dinâmica das guerras modernas, desafiando doutrinas militares consolidadas e nivelando o campo de batalha entre potências e atores não estatais"
 date: 2026-06-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - guerra-e-conflitos
 description: "A ascensão dos drones como arma dominante nos conflitos contemporâneos representa uma das maiores revoluções militares das últimas décadas. Baratos, versáteis e mortais, esses veículos estão reformulando estratégias, alterando a lógica dos gastos em defesa e colocando em xeque a superioridade convencional de exércitos tradicionais. Uma análise aprofundada sobre como essa tecnologia está moldando o presente e o futuro das guerras."

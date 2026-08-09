@@ -2,7 +2,7 @@
 title: Conab diz que frutas registram queda de preços
 date: 2023-01-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

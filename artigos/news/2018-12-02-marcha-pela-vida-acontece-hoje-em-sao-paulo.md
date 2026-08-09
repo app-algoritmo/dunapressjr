@@ -2,7 +2,7 @@
 title: Marcha pela VIDA acontece hoje em São Paulo
 date: 2018-12-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

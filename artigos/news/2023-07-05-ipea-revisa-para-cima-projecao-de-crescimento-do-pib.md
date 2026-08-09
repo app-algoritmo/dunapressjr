@@ -2,7 +2,7 @@
 title: IPEA revisa para cima projeção de crescimento do PIB
 date: 2023-07-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: IBGE estima safra recorde de 296,2 milhões de toneladas neste ano
 date: 2023-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

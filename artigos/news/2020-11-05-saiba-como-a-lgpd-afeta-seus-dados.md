@@ -2,7 +2,7 @@
 title: Saiba como a LGPD afeta seus dados
 date: 2020-11-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Produção de veículos cai 4,6% de dezembro para janeiro, diz Anfavea
 date: 2021-02-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

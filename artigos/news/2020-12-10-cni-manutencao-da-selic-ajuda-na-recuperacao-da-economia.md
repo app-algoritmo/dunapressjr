@@ -2,7 +2,7 @@
 title: 'CNI: manutenção da Selic ajuda na recuperação da economia'
 date: 2020-12-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

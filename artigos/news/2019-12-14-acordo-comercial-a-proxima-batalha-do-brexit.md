@@ -2,7 +2,7 @@
 title: Acordo comercial, a próxima batalha do Brexit
 date: 2019-12-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

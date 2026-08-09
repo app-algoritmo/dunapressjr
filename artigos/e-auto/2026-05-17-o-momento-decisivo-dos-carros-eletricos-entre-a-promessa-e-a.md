@@ -3,7 +3,7 @@ title: "O Momento Decisivo dos Carros Elétricos: Entre a Promessa e a Realidade
 subtitle: "Com vendas em aceleração na Europa e na Ásia, mas infraestrutura ainda fragmentada, o setor de e-autos enfrenta em 2026 sua prova mais exigente: transformar adoção de nicho em mobilidade de massa."
 date: 2026-05-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - e-auto
 description: "O mercado global de veículos elétricos vive em 2026 um ponto de inflexão. As vendas crescem, os preços caem e a tecnologia avança, mas gargalos estruturais — da rede de carregamento à cadeia de baterias — ainda ameaçam a promessa de uma transição energética plena no setor de transportes."

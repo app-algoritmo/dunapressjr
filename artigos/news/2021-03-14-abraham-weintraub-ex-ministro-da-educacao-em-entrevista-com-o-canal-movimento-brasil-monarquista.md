@@ -3,7 +3,7 @@ title: Abraham Weintraub, ex-ministro da Educação em entrevista com o canal Mo
   Brasil Monarquista
 date: 2021-03-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Inflação para famílias com renda mais baixa é de 0,82% em fevereiro
 date: 2021-03-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

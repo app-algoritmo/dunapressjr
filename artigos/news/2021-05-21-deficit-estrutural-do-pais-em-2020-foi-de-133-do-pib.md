@@ -2,7 +2,7 @@
 title: Déficit estrutural do país em 2020 foi de -1,33% do PIB
 date: 2021-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

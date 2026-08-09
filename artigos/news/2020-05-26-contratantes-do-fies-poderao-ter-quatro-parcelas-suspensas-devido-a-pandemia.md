@@ -2,7 +2,7 @@
 title: Contratantes do Fies poderão ter quatro parcelas suspensas devido a pandemia
 date: 2020-05-26
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

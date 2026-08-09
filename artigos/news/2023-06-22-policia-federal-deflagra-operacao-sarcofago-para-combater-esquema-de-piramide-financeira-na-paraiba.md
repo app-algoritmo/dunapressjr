@@ -3,7 +3,7 @@ title: Polícia Federal deflagra Operação Sarcófago para combater esquema de 
   financeira na Paraíba
 date: 2023-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

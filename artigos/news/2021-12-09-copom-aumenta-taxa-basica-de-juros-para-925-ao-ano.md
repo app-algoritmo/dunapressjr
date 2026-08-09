@@ -2,7 +2,7 @@
 title: Copom aumenta taxa básica de juros para 9,25% ao ano
 date: 2021-12-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

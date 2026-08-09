@@ -2,7 +2,7 @@
 title: Inflação para famílias com renda mais baixa ficou em 0,55% em janeiro
 date: 2020-02-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Assista: Eclipse Solar Total Transmitido pela NASA em Duna Press!'
 date: 2024-04-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Astronomy
 ---

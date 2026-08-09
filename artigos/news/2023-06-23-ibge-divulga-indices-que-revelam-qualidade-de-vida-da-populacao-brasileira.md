@@ -2,7 +2,7 @@
 title: IBGE divulga índices que revelam qualidade de vida da população brasileira
 date: 2023-06-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

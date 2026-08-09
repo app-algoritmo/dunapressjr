@@ -2,7 +2,7 @@
 title: Brasil bate recorde em geração de energia renovável
 date: 2023-02-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

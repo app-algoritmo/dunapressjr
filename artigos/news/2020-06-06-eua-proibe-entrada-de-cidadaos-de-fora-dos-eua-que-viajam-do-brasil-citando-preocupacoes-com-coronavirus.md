@@ -3,7 +3,7 @@ title: EUA proíbe entrada de cidadãos de fora dos EUA que viajam do Brasil, ci
   preocupações com coronavírus
 date: 2020-06-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: O consumismo - Planejado para te manter viciado
 date: 2018-11-16
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Global Economy
 - Opinion

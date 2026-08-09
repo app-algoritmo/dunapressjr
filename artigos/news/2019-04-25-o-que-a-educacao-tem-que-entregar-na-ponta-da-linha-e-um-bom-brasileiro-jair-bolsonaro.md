@@ -3,7 +3,7 @@ title: O que a educação tem que entregar na ponta da linha é um bom brasileir
   Bolsonaro'
 date: 2019-04-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

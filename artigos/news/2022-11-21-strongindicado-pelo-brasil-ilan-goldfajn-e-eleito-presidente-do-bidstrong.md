@@ -2,7 +2,7 @@
 title: <strong>Indicado pelo Brasil, Ilan Goldfajn é eleito presidente do BID</strong>
 date: 2022-11-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

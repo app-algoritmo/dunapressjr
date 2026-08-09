@@ -3,7 +3,7 @@ title: Presidente do Banco Central presta contas ao Senado e aborda decisões de
   Monetária
 date: 2023-08-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

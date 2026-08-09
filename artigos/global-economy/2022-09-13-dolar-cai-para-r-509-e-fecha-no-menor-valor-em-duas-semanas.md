@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,09 e fecha no menor valor em duas semanas
 date: 2022-09-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

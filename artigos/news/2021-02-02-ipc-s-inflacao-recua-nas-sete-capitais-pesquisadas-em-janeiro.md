@@ -2,7 +2,7 @@
 title: 'IPC-S: inflação recua nas sete capitais pesquisadas em janeiro'
 date: 2021-02-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

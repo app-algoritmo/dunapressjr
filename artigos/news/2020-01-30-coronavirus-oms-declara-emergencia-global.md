@@ -2,7 +2,7 @@
 title: 'Coronavírus: OMS declara emergência global'
 date: 2020-01-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

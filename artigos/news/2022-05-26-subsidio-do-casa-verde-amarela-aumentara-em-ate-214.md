@@ -2,7 +2,7 @@
 title: Subsídio do Casa Verde Amarela aumentará em até 21,4%
 date: 2022-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Balança tem superávit de US$ 6,94 bilhões em julho, até a quarta semana
 date: 2021-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

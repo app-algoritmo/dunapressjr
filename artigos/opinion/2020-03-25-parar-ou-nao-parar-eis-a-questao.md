@@ -2,7 +2,7 @@
 title: Parar ou não parar... Eis a Questão
 date: 2020-03-25
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

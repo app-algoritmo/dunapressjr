@@ -2,7 +2,7 @@
 title: II Encontro Monárquico Fluminense
 date: 2018-08-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

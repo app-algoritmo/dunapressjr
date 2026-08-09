@@ -2,7 +2,7 @@
 title: Confiança do consumidor cai pelo quarto mês consecutivo
 date: 2021-01-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Câmara pode votar destaques à nova Lei de Licitações
 date: 2019-07-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

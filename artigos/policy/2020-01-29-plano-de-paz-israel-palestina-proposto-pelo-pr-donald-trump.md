@@ -2,7 +2,7 @@
 title: Plano de paz Israel-Palestina Proposto pelo PR Donald Trump
 date: 2020-01-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

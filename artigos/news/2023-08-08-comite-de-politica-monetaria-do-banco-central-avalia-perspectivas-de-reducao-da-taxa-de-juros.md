@@ -3,7 +3,7 @@ title: Comitê de política monetária do Banco Central avalia perspectivas de r
   da taxa de juros
 date: 2023-08-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

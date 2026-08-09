@@ -3,7 +3,7 @@ title: 'IBGE: Preços da indústria brasileira apresentam terceiro resultado pos
   em outubro'
 date: 2023-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

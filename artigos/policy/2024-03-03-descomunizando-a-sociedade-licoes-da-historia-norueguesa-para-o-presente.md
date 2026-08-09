@@ -2,7 +2,7 @@
 title: 'Descomunizando a Sociedade: Lições da História Norueguesa para o presente'
 date: 2024-03-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Dólar recua e Ibovespa apresenta alta, apesar da crise chinesa
 date: 2021-09-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

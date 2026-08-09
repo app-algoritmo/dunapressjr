@@ -2,7 +2,7 @@
 title: 'Workshop Imigração para Noruega: pessoal, familiar ou negócios'
 date: 2019-08-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - News

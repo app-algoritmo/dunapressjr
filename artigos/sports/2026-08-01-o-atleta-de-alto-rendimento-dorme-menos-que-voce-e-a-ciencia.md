@@ -3,7 +3,7 @@ title: "O atleta de alto rendimento dorme menos que você — e a ciência quer 
 subtitle: "Uma nova frente de pesquisa aplicada está redesenhando rotinas de sono em delegações olímpicas, e o Brasil chegou tarde — mas não tão tarde quanto parece."
 date: 2026-08-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - sports
 description: "Pesquisas publicadas em 2025 revelam que atletas de elite dormem, em média, 6,2 horas por noite — menos do que a maioria dos adultos sedentários. O Comitê Olímpico do Brasil está incorporando protocolos de cronobiologia ao plano de preparação para Los Angeles 2028, numa aposta que pode redefinir quem sobe ao pódio."

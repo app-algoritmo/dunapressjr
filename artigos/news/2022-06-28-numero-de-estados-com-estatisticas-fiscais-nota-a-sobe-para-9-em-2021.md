@@ -2,7 +2,7 @@
 title: Número de estados com estatísticas fiscais nota A sobe para 9 em 2021
 date: 2022-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Bomba atômica brasileira ganha força com idéia legislativa no site do 
   Federal
 date: 2020-10-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

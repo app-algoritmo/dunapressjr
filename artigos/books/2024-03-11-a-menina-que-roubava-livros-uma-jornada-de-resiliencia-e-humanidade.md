@@ -2,7 +2,7 @@
 title: 'A Menina que Roubava Livros: Uma Jornada de Resiliência e Humanidade'
 date: 2024-03-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 ---

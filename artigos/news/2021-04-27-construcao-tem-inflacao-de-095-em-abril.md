@@ -2,7 +2,7 @@
 title: Construção tem inflação de 0,95% em abril
 date: 2021-04-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Eurodeputada Alemã Adverte a OMS: Um Chamado à Resistência Contra o P
   Não Eleito dos Globalistas'
 date: 2024-01-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: 'IBGE: desemprego segue em queda e chega a 8,3% em outubro'
 date: 2022-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

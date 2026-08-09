@@ -2,7 +2,7 @@
 title: "Da Renda Básica Universal para a “Renda Alta Universal” num Mundo de IA'"
 date: 2026-05-01
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - global-economy
 tags:

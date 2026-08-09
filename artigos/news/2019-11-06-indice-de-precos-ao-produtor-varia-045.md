@@ -2,7 +2,7 @@
 title: Índice de Preços ao Produtor varia 0,45%
 date: 2019-11-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

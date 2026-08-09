@@ -2,7 +2,7 @@
 title: Confira situação dos hospitais universitários federais em 5 de junho
 date: 2020-06-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

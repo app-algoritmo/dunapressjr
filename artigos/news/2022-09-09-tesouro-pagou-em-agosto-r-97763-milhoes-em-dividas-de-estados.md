@@ -2,7 +2,7 @@
 title: Tesouro pagou em agosto R$ 977,63 milhões em dívidas de estados
 date: 2022-09-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

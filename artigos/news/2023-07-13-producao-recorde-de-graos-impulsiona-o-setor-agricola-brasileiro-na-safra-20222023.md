@@ -2,7 +2,7 @@
 title: Produção recorde de grãos impulsiona o setor agrícola brasileiro na safra 2022/2023
 date: 2023-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Pesquisa do IBGE mostra concentração de riqueza no país em 2018
 date: 2020-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

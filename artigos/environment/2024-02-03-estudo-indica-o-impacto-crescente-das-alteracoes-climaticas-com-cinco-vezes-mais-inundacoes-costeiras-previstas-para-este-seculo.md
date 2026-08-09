@@ -3,7 +3,7 @@ title: Estudo indica o Impacto Crescente das Alterações Climáticas Com Cinco 
   Mais Inundações Costeiras Previstas para Este Século
 date: 2024-02-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Environment
 - Geopolitics

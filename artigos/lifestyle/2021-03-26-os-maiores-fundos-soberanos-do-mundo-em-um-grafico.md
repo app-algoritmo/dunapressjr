@@ -2,7 +2,7 @@
 title: Os maiores fundos soberanos do mundo - em um gráfico
 date: 2021-03-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Lifestyle
 - Magazine

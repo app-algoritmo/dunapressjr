@@ -2,7 +2,7 @@
 title: Projeto sobre a África é destaque no projeto Educador Nota 10
 date: 2020-07-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Jair Bolsonaro sofre atentado em Minas Gerais
 date: 2018-09-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

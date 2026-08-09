@@ -2,7 +2,7 @@
 title: <strong>Recuo da inflação pode fazer juros caírem em 2023, diz ministro</strong>
 date: 2022-09-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

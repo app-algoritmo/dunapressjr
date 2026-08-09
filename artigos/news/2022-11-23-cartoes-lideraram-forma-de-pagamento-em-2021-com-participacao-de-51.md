@@ -2,7 +2,7 @@
 title: Cartões lideraram forma de pagamento em 2021 com participação de 51%
 date: 2022-11-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

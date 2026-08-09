@@ -3,7 +3,7 @@ title: 'IBGE: Pesquisa revela os principais produtos e atividades da indústria 
   em 2021'
 date: 2023-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

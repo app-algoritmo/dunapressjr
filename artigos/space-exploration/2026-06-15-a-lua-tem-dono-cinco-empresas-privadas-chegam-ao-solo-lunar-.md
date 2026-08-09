@@ -3,7 +3,7 @@ title: "A Lua tem dono? Cinco empresas privadas chegam ao solo lunar antes que q
 subtitle: "Com missões comerciais multiplicando pousos lunares a partir de 2025 e nenhum marco legal global vigente, a corrida pelo subsolo da Lua expõe uma lacuna jurídica que pode redesenhar a geopolítica do século XXI."
 date: 2026-06-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - space-exploration
 description: "Cinco empresas privadas — americanas, japonesas e de capital misto — já pousaram ou têm missões confirmadas na Lua para 2026, enquanto nenhum tratado internacional regula exploração comercial do subsolo lunar. O vazio jurídico é o novo campo de disputa entre Estados Unidos, China e um bloco emergente de nações que querem assento à mesa antes que os recursos sejam repartidos sem elas."

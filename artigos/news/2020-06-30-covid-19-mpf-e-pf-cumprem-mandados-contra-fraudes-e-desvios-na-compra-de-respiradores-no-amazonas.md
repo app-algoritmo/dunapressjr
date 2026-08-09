@@ -3,7 +3,7 @@ title: 'Covid-19: MPF e PF cumprem mandados contra fraudes e desvios na compra d
   respiradores no Amazonas'
 date: 2020-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

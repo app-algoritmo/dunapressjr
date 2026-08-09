@@ -2,7 +2,7 @@
 title: BC projeta crescimento de 1,7% do PIB para 2022
 date: 2022-06-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

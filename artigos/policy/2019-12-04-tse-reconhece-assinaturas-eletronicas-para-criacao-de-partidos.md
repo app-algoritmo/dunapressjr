@@ -2,7 +2,7 @@
 title: TSE reconhece assinaturas eletrônicas para criação de partidos
 date: 2019-12-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

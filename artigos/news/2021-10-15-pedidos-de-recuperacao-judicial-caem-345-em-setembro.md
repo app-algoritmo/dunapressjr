@@ -2,7 +2,7 @@
 title: Pedidos de recuperação judicial caem 34,5% em setembro
 date: 2021-10-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

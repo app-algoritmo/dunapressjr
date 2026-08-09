@@ -2,7 +2,7 @@
 title: Produção de grãos no Brasil deve ter alta de 15% na safra 2022/23, aponta Conab
 date: 2023-04-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

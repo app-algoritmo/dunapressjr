@@ -3,7 +3,7 @@ title: Programa Brasil Mais é retomado com objetivo de ampliar a produtividade 
   empresas brasileiras
 date: 2020-10-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

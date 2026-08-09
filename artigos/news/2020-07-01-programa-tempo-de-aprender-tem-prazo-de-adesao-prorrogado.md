@@ -2,7 +2,7 @@
 title: Programa Tempo de Aprender tem prazo de adesão prorrogado
 date: 2020-07-01
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

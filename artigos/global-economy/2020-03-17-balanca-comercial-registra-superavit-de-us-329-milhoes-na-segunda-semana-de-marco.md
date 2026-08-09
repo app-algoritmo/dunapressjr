@@ -3,7 +3,7 @@ title: Balança comercial registra superávit de US$ 329 milhões na segunda sem
   março
 date: 2020-03-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

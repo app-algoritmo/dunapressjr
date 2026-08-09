@@ -2,7 +2,7 @@
 title: BC eleva exigência para funcionamento de fintechs de maior porte
 date: 2022-03-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Quase 10 milhões de pessoas usarão dinheiro do FGTS para pagar dívidas
 date: 2019-09-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

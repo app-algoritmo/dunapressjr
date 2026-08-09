@@ -2,7 +2,7 @@
 title: Anatel libera 5G em mais sete capitais a partir de segunda-feira
 date: 2022-09-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

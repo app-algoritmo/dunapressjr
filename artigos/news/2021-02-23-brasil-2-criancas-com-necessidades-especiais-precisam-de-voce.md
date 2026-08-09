@@ -2,7 +2,7 @@
 title: 'Brasil: 2 crianças com necessidades especiais precisam de você'
 date: 2021-02-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

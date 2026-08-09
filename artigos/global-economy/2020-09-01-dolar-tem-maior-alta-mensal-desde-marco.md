@@ -2,7 +2,7 @@
 title: Dólar tem maior alta mensal desde março
 date: 2020-09-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

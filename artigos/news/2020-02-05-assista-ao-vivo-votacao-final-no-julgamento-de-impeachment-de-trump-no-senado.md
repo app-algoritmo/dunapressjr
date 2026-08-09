@@ -1,8 +1,8 @@
 ---
-title: 'Assista ao vivo:  votação final no julgamento de impeachment de Trump no Senado'
+title: 'Assista ao vivo: votação final no julgamento de impeachment de Trump no Senado'
 date: 2020-02-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

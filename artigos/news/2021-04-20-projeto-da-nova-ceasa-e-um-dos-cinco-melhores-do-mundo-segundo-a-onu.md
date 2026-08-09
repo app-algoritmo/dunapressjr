@@ -2,7 +2,7 @@
 title: Projeto da Nova Ceasa é um dos cinco melhores do mundo segundo a ONU
 date: 2021-04-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Petrobras abre 734 vagas para Programa Jovem Aprendiz
 date: 2022-04-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Revisão histórica da economia brasileira revela mudanças significativa
   novo olhar
 date: 2023-08-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: STF ignora Bolsonaro, decisões de prefeitos e governadores triplicam pob
   o fim da Lava Jato
 date: 2021-03-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

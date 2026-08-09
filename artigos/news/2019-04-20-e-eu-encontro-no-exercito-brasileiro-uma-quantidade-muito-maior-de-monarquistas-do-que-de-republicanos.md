@@ -3,7 +3,7 @@ title: '''E eu encontro no exército brasileiro uma quantidade muito maior de Mo
   do que de Republicanos.'''
 date: 2019-04-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

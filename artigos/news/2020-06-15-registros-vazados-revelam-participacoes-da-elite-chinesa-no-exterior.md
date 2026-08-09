@@ -2,7 +2,7 @@
 title: Registros vazados revelam participações da elite chinesa no exterior
 date: 2020-06-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

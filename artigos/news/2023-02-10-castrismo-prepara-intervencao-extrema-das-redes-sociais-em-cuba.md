@@ -2,7 +2,7 @@
 title: Castrismo prepara intervenção extrema das redes sociais em Cuba
 date: 2023-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

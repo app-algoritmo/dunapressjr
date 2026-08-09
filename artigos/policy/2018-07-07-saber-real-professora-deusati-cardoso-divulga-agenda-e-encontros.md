@@ -2,7 +2,7 @@
 title: 'Saber Real: Professora Deusati Cardoso divulga agenda e encontros'
 date: 2018-07-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

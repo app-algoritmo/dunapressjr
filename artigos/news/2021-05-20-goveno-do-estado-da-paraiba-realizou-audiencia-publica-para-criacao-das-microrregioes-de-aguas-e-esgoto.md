@@ -3,7 +3,7 @@ title: Goveno do Estado da Paraíba realizou Audiência Pública para criação 
   de águas e esgoto
 date: 2021-05-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

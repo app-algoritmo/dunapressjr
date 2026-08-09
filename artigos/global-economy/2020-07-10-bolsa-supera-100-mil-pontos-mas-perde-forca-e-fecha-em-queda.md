@@ -2,7 +2,7 @@
 title: Bolsa supera 100 mil pontos, mas perde força e fecha em queda
 date: 2020-07-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

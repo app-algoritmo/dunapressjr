@@ -2,7 +2,7 @@
 title: Israel Adverte Sobre Ataque 'Letal' Contra a Faixa de Gaza
 date: 2023-10-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

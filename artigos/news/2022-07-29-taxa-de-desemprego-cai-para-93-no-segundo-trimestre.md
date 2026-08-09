@@ -2,7 +2,7 @@
 title: Taxa de desemprego cai para 9,3% no segundo trimestre
 date: 2022-07-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

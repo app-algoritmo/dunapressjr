@@ -2,7 +2,7 @@
 title: Consulta pública pelo FNDE para definir especificações de novos ônibus escolares
 date: 2020-06-18
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

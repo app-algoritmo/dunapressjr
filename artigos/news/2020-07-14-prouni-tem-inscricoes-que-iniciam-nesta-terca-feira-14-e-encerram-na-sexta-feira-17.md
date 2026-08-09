@@ -3,7 +3,7 @@ title: ProUni tem inscrições que iniciam nesta terça-feira (14) e encerram na
   (17)
 date: 2020-07-14
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

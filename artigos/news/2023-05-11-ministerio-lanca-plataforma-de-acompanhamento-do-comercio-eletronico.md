@@ -2,7 +2,7 @@
 title: Ministério lança plataforma de acompanhamento do comércio eletrônico
 date: 2023-05-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: '''É possível discordar e ainda ser amigo'''
 date: 2019-08-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

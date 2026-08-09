@@ -2,7 +2,7 @@
 title: Secex publica portaria para simplificar regras dos regimes de drawback
 date: 2022-08-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: CMN permite liquidação antecipada de debêntures de infraestrutura
 date: 2019-09-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

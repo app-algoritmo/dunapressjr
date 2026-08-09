@@ -3,7 +3,7 @@ title: Isenção para importações de até US$ 50 reduz o crescimento do PIB e 
   de empregos no Brasil, afirma a CNI
 date: 2023-07-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

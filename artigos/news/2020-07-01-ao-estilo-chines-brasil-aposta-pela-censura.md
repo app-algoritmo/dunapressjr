@@ -2,7 +2,7 @@
 title: Ao estilo chinês, Brasil aposta pela censura
 date: 2020-07-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Índice de Confiança de Serviços (ICS) cai para 95,3 pontos em outubro
 date: 2023-10-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

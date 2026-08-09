@@ -3,7 +3,7 @@ title: 'Previsão do Fed: Recessão leve nos EUA no final do ano devido a evento
   setor bancário'
 date: 2023-04-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

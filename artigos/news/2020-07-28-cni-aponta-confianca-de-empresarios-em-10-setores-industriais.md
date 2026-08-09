@@ -2,7 +2,7 @@
 title: CNI aponta confiança de empresários em 10 setores industriais
 date: 2020-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

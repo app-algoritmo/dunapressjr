@@ -3,7 +3,7 @@ title: 'IBGE: Uso de tecnologias digitais avançadas em empresas industriais bra
   atinge 84,9% em 2022'
 date: 2023-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

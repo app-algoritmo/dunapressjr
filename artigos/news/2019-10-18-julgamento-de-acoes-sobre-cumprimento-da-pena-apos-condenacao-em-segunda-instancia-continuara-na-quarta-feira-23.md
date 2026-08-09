@@ -3,7 +3,7 @@ title: Julgamento de ações sobre cumprimento da pena após condenação em seg
   continuará na quarta-feira (23)
 date: 2019-10-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Em 2023: Eles queriam estímulos sem fim, eles tiveram estagflação'
 date: 2023-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

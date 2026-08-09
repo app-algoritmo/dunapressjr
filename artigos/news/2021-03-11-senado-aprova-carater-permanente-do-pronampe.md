@@ -2,7 +2,7 @@
 title: Senado aprova caráter permanente do Pronampe
 date: 2021-03-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

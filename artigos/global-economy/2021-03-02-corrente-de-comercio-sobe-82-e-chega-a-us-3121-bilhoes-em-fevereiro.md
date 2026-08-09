@@ -2,7 +2,7 @@
 title: Corrente de comércio sobe 8,2% e chega a US$ 31,21 bilhões em fevereiro
 date: 2021-03-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

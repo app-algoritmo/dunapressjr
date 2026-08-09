@@ -2,7 +2,7 @@
 title: Produção industrial fecha 2021 com alta em 9 de 15 locais pesquisados
 date: 2022-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Inflação dos aluguéis fecha o ano em 5,45%
 date: 2022-12-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

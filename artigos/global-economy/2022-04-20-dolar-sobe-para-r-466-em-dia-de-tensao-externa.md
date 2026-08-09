@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 4,66 em dia de tensão externa
 date: 2022-04-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: Governo Central registra déficit primário de R$ 45 bilhões em maio, co
   para Previdência Social
 date: 2023-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

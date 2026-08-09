@@ -2,7 +2,7 @@
 title: Reino Unido investe R$ 18 milhões para aprimorar INPI
 date: 2020-02-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

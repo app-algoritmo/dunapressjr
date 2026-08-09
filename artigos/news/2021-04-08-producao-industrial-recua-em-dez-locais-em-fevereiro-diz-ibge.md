@@ -2,7 +2,7 @@
 title: Produção industrial recua em dez locais em fevereiro, diz IBGE
 date: 2021-04-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

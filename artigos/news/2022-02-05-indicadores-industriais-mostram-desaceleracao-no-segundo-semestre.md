@@ -2,7 +2,7 @@
 title: Indicadores Industriais mostram desaceleração no segundo semestre
 date: 2022-02-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

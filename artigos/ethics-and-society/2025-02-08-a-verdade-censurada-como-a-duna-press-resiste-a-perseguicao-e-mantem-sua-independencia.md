@@ -3,7 +3,7 @@ title: 'A Verdade Censurada: Como a Duna Press Resiste à Perseguição e Manté
   Independência'
 date: 2025-02-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Ethics and Society
 ---

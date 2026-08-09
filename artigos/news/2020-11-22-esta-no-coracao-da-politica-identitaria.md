@@ -2,7 +2,7 @@
 title: '''Está no coração da política identitária'''
 date: 2020-11-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

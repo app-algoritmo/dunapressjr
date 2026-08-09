@@ -2,7 +2,7 @@
 title: Setor produtivo critica aumento dos juros básicos
 date: 2021-09-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

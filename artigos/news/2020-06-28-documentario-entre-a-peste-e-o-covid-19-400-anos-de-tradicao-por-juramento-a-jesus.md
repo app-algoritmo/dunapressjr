@@ -3,7 +3,7 @@ title: 'Documentário: Entre a peste e o Covid-19, 400 anos de tradição por ju
   a Jesus'
 date: 2020-06-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

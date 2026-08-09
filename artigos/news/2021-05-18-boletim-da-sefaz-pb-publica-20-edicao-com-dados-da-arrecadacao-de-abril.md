@@ -2,7 +2,7 @@
 title: Boletim da SEFAZ-PB publica 20ª edição com dados da arrecadação de abril
 date: 2021-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

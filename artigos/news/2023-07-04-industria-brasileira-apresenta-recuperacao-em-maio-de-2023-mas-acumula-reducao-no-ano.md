@@ -3,7 +3,7 @@ title: Indústria brasileira apresenta recuperação em maio de 2023, mas acumul
   no ano
 date: 2023-07-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

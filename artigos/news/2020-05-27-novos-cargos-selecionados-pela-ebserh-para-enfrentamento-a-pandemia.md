@@ -2,7 +2,7 @@
 title: Novos cargos selecionados pela Ebserh para enfrentamento a pandemia
 date: 2020-05-27
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

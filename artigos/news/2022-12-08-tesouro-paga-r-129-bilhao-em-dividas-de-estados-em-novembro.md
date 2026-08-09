@@ -2,7 +2,7 @@
 title: Tesouro paga R$ 1,29 bilhão em dívidas de estados em novembro
 date: 2022-12-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

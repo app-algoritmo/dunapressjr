@@ -3,7 +3,7 @@ title: 7 de setembro e você está fora do Brasil? Você pode celebrar com roupa
   personalizados!
 date: 2019-09-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

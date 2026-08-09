@@ -2,7 +2,7 @@
 title: 'Coronavírus: Ministério da Saúde monitora três casos suspeitos'
 date: 2020-01-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

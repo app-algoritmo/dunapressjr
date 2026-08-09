@@ -2,7 +2,7 @@
 title: MPs de contratos trabalhistas preservaram mais de 1 milhão de empregos
 date: 2020-04-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

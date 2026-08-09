@@ -3,7 +3,7 @@ title: Indicadores macroeconômicos confirmam recuperação da atividade e conso
   fiscal
 date: 2022-05-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

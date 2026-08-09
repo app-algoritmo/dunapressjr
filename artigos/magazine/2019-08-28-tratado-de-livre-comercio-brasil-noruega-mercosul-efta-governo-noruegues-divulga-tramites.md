@@ -3,7 +3,7 @@ title: 'Tratado de Livre Comércio Brasil-Noruega, Mercosul-EFTA: governo norueg
   divulga trâmites'
 date: 2019-08-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

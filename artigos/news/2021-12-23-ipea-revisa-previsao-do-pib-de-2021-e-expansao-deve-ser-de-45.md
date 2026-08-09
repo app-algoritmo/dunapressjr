@@ -2,7 +2,7 @@
 title: Ipea revisa previsão do PIB de 2021 e expansão deve ser de 4,5%
 date: 2021-12-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

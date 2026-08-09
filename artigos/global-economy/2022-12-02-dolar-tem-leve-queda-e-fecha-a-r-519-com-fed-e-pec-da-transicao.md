@@ -2,7 +2,7 @@
 title: Dólar tem leve queda e fecha a R$ 5,19 com Fed e PEC da Transição
 date: 2022-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

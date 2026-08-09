@@ -2,7 +2,7 @@
 title: Ativistas debatem o papel da imprensa na informação e interpretação
 date: 2019-09-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

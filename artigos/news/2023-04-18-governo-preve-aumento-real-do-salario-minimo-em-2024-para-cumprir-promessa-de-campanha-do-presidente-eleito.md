@@ -3,7 +3,7 @@ title: Governo prevê aumento real do salário mínimo em 2024 para cumprir prom
   de campanha do presidente eleito
 date: 2023-04-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

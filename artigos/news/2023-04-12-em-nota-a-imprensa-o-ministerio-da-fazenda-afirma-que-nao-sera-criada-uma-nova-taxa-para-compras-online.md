@@ -3,7 +3,7 @@ title: Em nota à imprensa, o Ministério da Fazenda afirma que não será criad
   nova taxa para compras online
 date: 2023-04-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

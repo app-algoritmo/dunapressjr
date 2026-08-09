@@ -2,7 +2,7 @@
 title: MD americano declara que Covid-19 é uma fraude, não existe e é fictícia
 date: 2021-12-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

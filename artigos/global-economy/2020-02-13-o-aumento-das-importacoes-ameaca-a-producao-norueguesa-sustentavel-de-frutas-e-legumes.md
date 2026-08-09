@@ -3,7 +3,7 @@ title: O aumento das importações ameaça a produção norueguesa sustentável 
   e legumes
 date: 2020-02-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Morre Kenny Rogers
 date: 2020-03-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

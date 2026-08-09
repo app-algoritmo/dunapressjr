@@ -2,7 +2,7 @@
 title: Quais funções desempenha o presidente do banco BRICS?
 date: 2023-03-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

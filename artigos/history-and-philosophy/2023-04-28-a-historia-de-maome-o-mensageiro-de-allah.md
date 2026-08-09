@@ -2,7 +2,7 @@
 title: 'A história de Maomé: O Mensageiro de Allah'
 date: 2023-04-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - History and Philosophy
 ---

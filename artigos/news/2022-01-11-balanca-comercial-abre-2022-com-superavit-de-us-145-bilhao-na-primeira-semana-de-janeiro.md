@@ -3,7 +3,7 @@ title: Balança comercial abre 2022 com superávit de US$ 1,45 bilhão na primei
   de janeiro
 date: 2022-01-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

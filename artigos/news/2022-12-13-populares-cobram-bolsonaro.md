@@ -2,7 +2,7 @@
 title: Populares cobram Bolsonaro
 date: 2022-12-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

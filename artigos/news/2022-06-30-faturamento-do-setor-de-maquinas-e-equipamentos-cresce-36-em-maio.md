@@ -2,7 +2,7 @@
 title: Faturamento do setor de máquinas e equipamentos cresce 3,6% em maio
 date: 2022-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

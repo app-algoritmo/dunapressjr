@@ -2,7 +2,7 @@
 title: Índice Geral de Preços - 10 (IGP-10) registra queda de 1,10% em julho
 date: 2023-07-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

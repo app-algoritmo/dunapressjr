@@ -3,7 +3,7 @@ title: Decreto é alterado para reforçar a privacidade do cidadão no compartil
   de dados entre órgãos públicos
 date: 2022-12-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

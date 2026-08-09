@@ -2,7 +2,7 @@
 title: Projeto da LDO prevê crescimento de 2,5% para o próximo ano
 date: 2022-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

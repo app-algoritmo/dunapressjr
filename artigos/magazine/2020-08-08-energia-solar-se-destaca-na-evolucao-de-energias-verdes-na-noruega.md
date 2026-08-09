@@ -2,7 +2,7 @@
 title: Energia solar se destaca na evolução de energias verdes na Noruega
 date: 2020-08-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

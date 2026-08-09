@@ -2,7 +2,7 @@
 title: Reuniões bilaterais nos EUA fortalecem laços do Brasil com a economia mundial
 date: 2022-10-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

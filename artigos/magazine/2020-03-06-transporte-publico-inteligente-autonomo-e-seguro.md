@@ -2,7 +2,7 @@
 title: Transporte público inteligente, autônomo e seguro
 date: 2020-03-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

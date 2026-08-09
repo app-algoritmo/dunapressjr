@@ -3,7 +3,7 @@ title: SESSÃO SOLENE DE INSTALAÇÃO DO ANO JUDICIÁRIO DE 2019 DISCURSO DO PRE
   MINISTRO DIAS TOFFOLI
 date: 2019-02-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

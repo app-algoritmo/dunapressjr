@@ -2,7 +2,7 @@
 title: Bolsas da Europa se recuperam e operam em alta hoje
 date: 2020-03-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

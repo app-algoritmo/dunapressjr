@@ -2,7 +2,7 @@
 title: Inflação pelo IGP-DI cai para 1,5% em fevereiro
 date: 2022-03-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: "Colapso dos Aquíferos Globais: A Crise Hídrica Que Avança em Silêncio"
 date: 2026-05-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - environment
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778574139/Colapso_dos_Aqui%CC%81feros_Globais_-_A_Crise_Hi%CC%81drica_Que_Avanc%CC%A7a_em_Sile%CC%82ncio_ycxxtk.jpg"

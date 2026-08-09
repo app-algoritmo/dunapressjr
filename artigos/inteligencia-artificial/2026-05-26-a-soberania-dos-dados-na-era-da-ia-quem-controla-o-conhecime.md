@@ -3,7 +3,7 @@ title: "A Soberania dos Dados na Era da IA: Quem Controla o Conhecimento Control
 subtitle: "À medida que sistemas de inteligência artificial se tornam infraestrutura crítica, a disputa pelo controle dos dados que os alimentam redefine equilíbrios de poder entre nações, corporações e cidadãos"
 date: 2026-05-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - inteligencia-artificial
 description: "A inteligência artificial já não é apenas tecnologia — é poder. Em 2026, a batalha pelo controle dos dados que treinam os grandes modelos de linguagem e sistemas autônomos passou a definir quais países e empresas deterão influência estratégica nas próximas décadas. Esta análise examina as tensões geopolíticas, os movimentos regulatórios e o que está verdadeiramente em jogo nessa disputa silenciosa."

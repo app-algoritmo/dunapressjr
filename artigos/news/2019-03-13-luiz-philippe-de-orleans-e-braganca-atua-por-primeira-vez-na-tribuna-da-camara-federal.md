@@ -3,7 +3,7 @@ title: Luiz Philippe de Orleans e Bragança atua por primeira vez na tribuna da 
   federal
 date: 2019-03-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

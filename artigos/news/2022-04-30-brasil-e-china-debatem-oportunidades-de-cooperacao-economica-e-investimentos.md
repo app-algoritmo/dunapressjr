@@ -2,7 +2,7 @@
 title: Brasil e China debatem oportunidades de cooperação econômica e investimentos
 date: 2022-04-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

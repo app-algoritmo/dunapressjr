@@ -2,7 +2,7 @@
 title: Brasil arranca seu 5G com Ericsson e Nokia
 date: 2021-04-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

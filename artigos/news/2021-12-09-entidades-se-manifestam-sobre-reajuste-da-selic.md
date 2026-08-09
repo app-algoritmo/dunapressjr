@@ -2,7 +2,7 @@
 title: Entidades se manifestam sobre reajuste da Selic
 date: 2021-12-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

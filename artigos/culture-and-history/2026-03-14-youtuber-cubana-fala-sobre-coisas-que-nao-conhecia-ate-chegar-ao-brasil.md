@@ -2,7 +2,7 @@
 title: Youtuber cubana fala sobre coisas que não conhecia até chegar ao Brasil
 date: 2026-03-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Culture and History
 - News

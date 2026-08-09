@@ -2,7 +2,7 @@
 title: O Dia Internacional da Família
 date: 2019-05-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

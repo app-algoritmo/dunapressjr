@@ -2,7 +2,7 @@
 title: Contas públicas têm déficit recorde de R$ 81 bilhões em julho, diz BC
 date: 2020-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

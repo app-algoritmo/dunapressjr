@@ -2,7 +2,7 @@
 title: 'Geração 100: O exercício faz com que os idosos vivam mais?'
 date: 2020-10-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Abertas, pelo Programa Novos Caminhos, 24,7 mil novas vagas de qualifica√
   profissional a dist√¢ncia
 date: 2020-07-16
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: ITA e engenharia militar pesquisando e atuando na pandemia
 date: 2020-07-17
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

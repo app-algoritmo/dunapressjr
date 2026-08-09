@@ -2,7 +2,7 @@
 title: 'Noruega e a linguagem de sinais: acessibilidade, inclusão e excelência'
 date: 2018-10-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - News

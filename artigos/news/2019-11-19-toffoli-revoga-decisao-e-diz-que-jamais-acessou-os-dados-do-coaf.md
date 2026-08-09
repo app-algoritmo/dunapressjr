@@ -2,7 +2,7 @@
 title: Toffoli revoga decisão e diz que “JAMAIS ACESSOU” os dados do Coaf
 date: 2019-11-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

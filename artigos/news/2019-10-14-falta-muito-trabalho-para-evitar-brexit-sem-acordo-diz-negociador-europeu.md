@@ -2,7 +2,7 @@
 title: '''Falta muito trabalho'' para evitar Brexit sem acordo, diz negociador europeu'
 date: 2019-10-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

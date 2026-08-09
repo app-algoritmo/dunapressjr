@@ -2,7 +2,7 @@
 title: MAPA vem trabalhando para garantir total abastecimento durante a pandemia
 date: 2020-05-27
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

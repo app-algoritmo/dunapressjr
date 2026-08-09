@@ -2,7 +2,7 @@
 title: ANP assina contratos relativos à 17ª Rodada de Licitações
 date: 2022-03-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

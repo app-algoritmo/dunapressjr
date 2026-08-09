@@ -3,7 +3,7 @@ title: Em uma hora e meia teste rápido desenvolvido na UFPE e no HC pode detect
   a Covid-19
 date: 2020-07-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

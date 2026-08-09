@@ -3,7 +3,7 @@ title: "Giro d'Italia 2026: A Batalha Tática que Está Redefinindo o Ciclismo d
 subtitle: "Com três semanas de corrida a pleno vapor, a edição 109 do Giro d'Italia expõe uma nova geração de escaladores que desafia os dogmas tradicionais da liderança em pelotão e reescreve as regras da estratégia alpina."
 date: 2026-05-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - cycling
 description: "A edição 2026 do Giro d'Italia está sendo marcada por uma revolução tática silenciosa: jovens escaladores de menos de 25 anos dominam os tempos nas chegadas em altitude, enquanto as grandes equipes reformulam suas estratégias de desgaste e cronometragem. A Duna Press analisa os dados, os protagonistas e o que essa corrida revela sobre o futuro do ciclismo profissional."

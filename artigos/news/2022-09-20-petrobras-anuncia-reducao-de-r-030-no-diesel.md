@@ -2,7 +2,7 @@
 title: Petrobras anuncia redução de R$ 0,30 no diesel
 date: 2022-09-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

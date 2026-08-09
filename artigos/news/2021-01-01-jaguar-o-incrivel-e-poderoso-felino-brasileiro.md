@@ -1,8 +1,8 @@
 ---
-title: Jaguar, o incrível e poderoso felino  brasileiro
+title: Jaguar, o incrível e poderoso felino brasileiro
 date: 2021-01-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: FBI Busca informações sobre indivíduos que incitam à violência duran
   pacíficas protegidas pela primeira emenda
 date: 2020-06-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

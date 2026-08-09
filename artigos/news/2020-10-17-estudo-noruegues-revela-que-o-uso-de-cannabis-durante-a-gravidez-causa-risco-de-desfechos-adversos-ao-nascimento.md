@@ -3,7 +3,7 @@ title: Estudo norueguês revela que o uso de cannabis durante a gravidez causa r
   de desfechos adversos ao nascimento
 date: 2020-10-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

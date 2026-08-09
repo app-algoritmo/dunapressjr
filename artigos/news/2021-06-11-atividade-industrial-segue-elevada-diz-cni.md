@@ -2,7 +2,7 @@
 title: Atividade industrial segue elevada, diz CNI
 date: 2021-06-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,07 com otimismo em relação a vacinas
 date: 2020-12-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

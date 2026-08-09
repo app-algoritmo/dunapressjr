@@ -3,7 +3,7 @@ title: Queda de 0,18% no IPC-S da terceira quadrissemana de agosto de 2023, apon
   FGV/Ibre
 date: 2023-08-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

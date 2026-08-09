@@ -3,7 +3,7 @@ title: "Parecer ocupado é a nova preguiça: o que a ciência diz sobre como pro
 subtitle: "Enquanto empresas medem presença e reuniões, pesquisadores de Stanford e da London Business School documentam que os líderes mais eficazes trabalham menos horas do que seus pares — e entregam mais."
 date: 2026-06-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - personal-development
 description: "A cultura do esforço visível — reuniões em cascata, jornadas de 12 horas, inbox zerado às 23h — esconde um paradoxo documentado: os profissionais que mais entregam são os que protegem blocos de tempo sem interrupção. Entender essa virada é urgente num momento em que o Brasil debate a semana de quatro dias e empresas globais revisam o que significa, de fato, ser produtivo."

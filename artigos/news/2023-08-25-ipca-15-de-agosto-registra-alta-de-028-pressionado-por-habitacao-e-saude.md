@@ -2,7 +2,7 @@
 title: IPCA-15 de agosto registra alta de 0,28%, pressionado por habitação e saúde
 date: 2023-08-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

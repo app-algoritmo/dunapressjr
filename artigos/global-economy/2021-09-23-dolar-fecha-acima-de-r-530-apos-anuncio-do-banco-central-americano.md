@@ -2,7 +2,7 @@
 title: Dólar fecha acima de R$ 5,30 após anúncio do Banco Central americano
 date: 2021-09-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

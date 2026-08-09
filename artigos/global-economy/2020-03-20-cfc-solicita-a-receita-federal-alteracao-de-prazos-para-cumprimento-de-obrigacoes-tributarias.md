@@ -3,7 +3,7 @@ title: CFC solicita à Receita Federal alteração de prazos para cumprimento de
   tributárias
 date: 2020-03-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

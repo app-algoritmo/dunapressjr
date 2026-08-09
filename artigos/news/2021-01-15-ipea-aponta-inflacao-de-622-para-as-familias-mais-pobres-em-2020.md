@@ -2,7 +2,7 @@
 title: Ipea aponta inflação de 6,22% para as famílias mais pobres em 2020
 date: 2021-01-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

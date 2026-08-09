@@ -2,7 +2,7 @@
 title: Political death under Lula da Silva management
 date: 2023-11-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

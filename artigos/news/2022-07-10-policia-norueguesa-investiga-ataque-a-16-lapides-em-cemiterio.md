@@ -2,7 +2,7 @@
 title: Polícia norueguesa investiga ataque à 16 lápides em cemitério
 date: 2022-07-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

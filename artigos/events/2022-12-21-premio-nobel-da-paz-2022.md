@@ -2,7 +2,7 @@
 title: Prêmio Nobel da Paz 2022
 date: 2022-12-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Events
 - News

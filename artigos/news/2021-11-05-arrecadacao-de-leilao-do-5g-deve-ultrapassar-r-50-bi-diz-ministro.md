@@ -2,7 +2,7 @@
 title: Arrecadação de leilão do 5G deve ultrapassar R$ 50 bi, diz ministro
 date: 2021-11-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

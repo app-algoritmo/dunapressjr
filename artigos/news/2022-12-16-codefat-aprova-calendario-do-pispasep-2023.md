@@ -2,7 +2,7 @@
 title: Codefat aprova calendário do PIS/Pasep 2023
 date: 2022-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

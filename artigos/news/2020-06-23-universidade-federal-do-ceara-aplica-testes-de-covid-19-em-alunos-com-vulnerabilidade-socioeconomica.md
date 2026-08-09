@@ -3,7 +3,7 @@ title: Universidade Federal do Ceará aplica testes de Covid-19 em alunos com vu
   socioeconômica
 date: 2020-06-23
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

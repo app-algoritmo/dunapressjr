@@ -2,7 +2,7 @@
 title: Mais 60 mercados para exportação de produtos agropecuários
 date: 2020-05-26
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

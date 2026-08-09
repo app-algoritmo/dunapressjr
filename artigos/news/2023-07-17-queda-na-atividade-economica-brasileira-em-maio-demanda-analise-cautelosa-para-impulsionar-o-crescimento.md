@@ -3,7 +3,7 @@ title: Queda na atividade econômica brasileira em maio demanda análise cautelo
   impulsionar o crescimento
 date: 2023-07-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

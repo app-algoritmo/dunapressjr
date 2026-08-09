@@ -2,7 +2,7 @@
 title: Projeção do Banco Central aponta piora no saldo das contas externas em 2023
 date: 2023-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

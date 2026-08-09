@@ -3,7 +3,7 @@ title: No Porto de Cabedelo/PB, movimentação de granéis sólidos no semestre 
   maior do que em 2019
 date: 2020-07-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

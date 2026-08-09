@@ -2,7 +2,7 @@
 title: A Importância da Cadeia Fria de Vacinas na Preservação da Eficácia
 date: 2024-08-20
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Health
 - Technology

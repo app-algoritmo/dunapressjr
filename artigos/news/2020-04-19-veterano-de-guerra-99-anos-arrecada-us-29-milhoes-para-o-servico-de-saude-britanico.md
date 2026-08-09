@@ -1,5 +1,5 @@
 ---
-title: Veterano de guerra, 99 anos arrecada  US $ 29 milhões para o serviço de saúde
+title: Veterano de guerra, 99 anos arrecada US $ 29 milhões para o serviço de saúde
   britânico
 date: 2020-04-19
 status: publish

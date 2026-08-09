@@ -2,7 +2,7 @@
 title: Conheça as regras previstas na MP que regulamenta o trabalho remoto
 date: 2022-04-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

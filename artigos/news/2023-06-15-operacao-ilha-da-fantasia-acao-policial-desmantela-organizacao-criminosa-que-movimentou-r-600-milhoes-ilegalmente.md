@@ -3,7 +3,7 @@ title: 'Operação Ilha da Fantasia: Ação Policial Desmantela Organização Cr
   que movimentou R$ 600 Milhões Ilegalmente'
 date: 2023-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

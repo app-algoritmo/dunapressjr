@@ -2,7 +2,7 @@
 title: Terremoto na Síria ultrapassa 2.600 mortos
 date: 2023-02-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

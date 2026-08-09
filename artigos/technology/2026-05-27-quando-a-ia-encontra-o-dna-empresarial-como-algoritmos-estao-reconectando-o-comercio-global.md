@@ -2,7 +2,7 @@
 title: "Quando a IA encontra o DNA empresarial: como algoritmos estão reconectando o comércio global"
 date: 2026-05-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
   - technology
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1779869052/Quando_a_IA_encontra_o_DNA_empresarial_-_como_algoritmos_esta%CC%83o_reconectando_o_come%CC%81rcio_global_-_Oslo_Meet_shqgmw.jpg"

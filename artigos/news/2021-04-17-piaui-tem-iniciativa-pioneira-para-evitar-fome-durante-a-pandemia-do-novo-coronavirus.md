@@ -2,7 +2,7 @@
 title: Piauí tem iniciativa pioneira para evitar fome durante a pandemia do novo coronavírus
 date: 2021-04-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

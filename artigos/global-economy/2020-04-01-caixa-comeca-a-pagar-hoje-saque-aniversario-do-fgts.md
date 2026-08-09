@@ -2,7 +2,7 @@
 title: Caixa começa a pagar hoje saque-aniversário do FGTS
 date: 2020-04-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

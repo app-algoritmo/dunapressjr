@@ -2,7 +2,7 @@
 title: EUA adotará controles mais severos sobre investimentos externos
 date: 2020-01-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

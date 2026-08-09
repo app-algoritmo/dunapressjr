@@ -2,7 +2,7 @@
 title: Macron Consegue Unir Esquerda Francesa e Derrota Marine Le Pen no Segundo Turno
 date: 2024-07-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

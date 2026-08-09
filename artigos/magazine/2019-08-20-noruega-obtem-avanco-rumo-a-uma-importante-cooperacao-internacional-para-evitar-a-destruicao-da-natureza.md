@@ -3,7 +3,7 @@ title: Noruega obtém avanço rumo a uma importante cooperação internacional p
   a destruição da natureza
 date: 2019-08-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - News

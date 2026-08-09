@@ -3,7 +3,7 @@ title: Receita Federal investiga lavagem de dinheiro em esquema de desvio de rec
   da Covid-19 no RN
 date: 2020-10-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

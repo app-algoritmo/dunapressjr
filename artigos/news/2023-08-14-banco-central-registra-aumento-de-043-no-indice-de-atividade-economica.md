@@ -2,7 +2,7 @@
 title: Banco Central registra aumento de 0,43% no índice de atividade econômica
 date: 2023-08-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

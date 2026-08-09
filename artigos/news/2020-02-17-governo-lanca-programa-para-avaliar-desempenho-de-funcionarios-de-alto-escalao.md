@@ -2,7 +2,7 @@
 title: Governo lança programa para avaliar desempenho de funcionários de alto escalão
 date: 2020-02-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

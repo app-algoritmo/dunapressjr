@@ -3,7 +3,7 @@ title: Ex presidente Temer e ministros do STF são recebidos em Nova York como l
   golpitas pelos manisfestantes
 date: 2022-11-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

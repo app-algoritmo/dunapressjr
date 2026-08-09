@@ -2,7 +2,7 @@
 title: 'Urgente: Chef Militar Sueco Avisa sobre Possível Conflito'
 date: 2024-06-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

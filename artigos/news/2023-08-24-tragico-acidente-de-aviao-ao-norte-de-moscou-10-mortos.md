@@ -2,7 +2,7 @@
 title: 'Trágico Acidente de Avião ao Norte de Moscou: 10 Mortos'
 date: 2023-08-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

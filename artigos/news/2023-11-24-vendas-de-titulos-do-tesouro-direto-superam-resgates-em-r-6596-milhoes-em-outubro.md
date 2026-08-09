@@ -3,7 +3,7 @@ title: Vendas de títulos do tesouro direto superam resgates em R$ 659,6 milhõe
   outubro
 date: 2023-11-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

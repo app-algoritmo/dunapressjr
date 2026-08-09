@@ -3,7 +3,7 @@ title: Índice de Confiança do Consumidor (ICC) atinge o maior nível desde jan
   de 2019, impulsionado por expectativas futuras
 date: 2023-07-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

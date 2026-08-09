@@ -2,7 +2,7 @@
 title: Dra Nise Yamaguchi fala sobre o uso da hidroxicloraquina
 date: 2020-05-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

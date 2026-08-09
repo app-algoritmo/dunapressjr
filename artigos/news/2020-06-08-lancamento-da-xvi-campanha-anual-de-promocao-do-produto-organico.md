@@ -2,7 +2,7 @@
 title: Lançamento da XVI Campanha Anual de Promoção do Produto Orgânico
 date: 2020-06-08
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

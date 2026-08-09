@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,17 com juros americanos e Rússia
 date: 2022-09-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,11 +2,11 @@
 title: "MIMBAI: A Plataforma de IA que Quer Transformar a Gestão Organizacional a Partir da Noruega"
 date: 2026-06-14
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - technology
 subtitle: "Como uma plataforma desenvolvida em Oslo quer unificar a geração de documentos executivos com inteligência artificial — e o que isso significa para o mercado B2B europeu"
-description: "Uma plataforma de IA desenvolvida em Oslo está apostando numa abordagem diferente para o mercado B2B: em vez de integrar IA a ferramentas já existentes, o MIMBAI propõe ser o ponto de partida — onde organizações geram projetos, relatórios, análises financeiras, documentos de RH e apresentações num único ambiente. Num ecossistema com mais de 350 empresas de IA mapeadas na Noruega, o diferencial é a horizontalidade: qualquer setor, qualquer tamanho. 🔗 mimbai.com"
+description: "Uma plataforma de IA desenvolvida em Oslo está apostando numa abordagem diferente para o mercado B2B: em vez de integrar IA a ferramentas já existentes, o MIMBAI propõe ser o ponto de partida — onde organizações geram projetos, relatórios, análises financeiras, documentos de RH e apresentações num único ambiente. Num ecossistema com mais de 350 empresas de IA mapeadas na Noruega, o diferencial é a horizontalidade: qualquer setor, qualquer tamanho. mimbai.com"
 ---
 
 **Por Paulo Fernando De Barros** · Tecnologia · Oslo, Noruega

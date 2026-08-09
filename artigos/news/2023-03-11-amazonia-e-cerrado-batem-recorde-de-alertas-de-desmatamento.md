@@ -2,7 +2,7 @@
 title: Amazônia e Cerrado batem recorde de alertas de desmatamento
 date: 2023-03-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

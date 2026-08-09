@@ -2,7 +2,7 @@
 title: Nova parcela do auxílio emergencial começa a ser paga na segunda
 date: 2020-05-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

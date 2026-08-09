@@ -2,7 +2,7 @@
 title: IGP-DI fecha 2021 com inflação acumulada de 17,74%
 date: 2022-01-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Aprovada PEC que proíbe União de criar despesas sem apontar receita
 date: 2022-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

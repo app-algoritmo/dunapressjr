@@ -2,7 +2,7 @@
 title: Dólar comercial fecha abaixo de R$ 5 pela primeira vez em duas semanas
 date: 2020-03-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

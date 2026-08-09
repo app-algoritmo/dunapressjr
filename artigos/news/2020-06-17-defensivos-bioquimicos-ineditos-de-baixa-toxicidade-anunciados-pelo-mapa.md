@@ -2,7 +2,7 @@
 title: Defensivos bioquímicos inéditos de baixa toxicidade anunciados pelo Mapa
 date: 2020-06-17
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

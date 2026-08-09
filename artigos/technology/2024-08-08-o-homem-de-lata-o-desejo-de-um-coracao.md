@@ -2,7 +2,7 @@
 title: 'O Homem de Lata: O Desejo de um Coração'
 date: 2024-08-08
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Technology
 ---

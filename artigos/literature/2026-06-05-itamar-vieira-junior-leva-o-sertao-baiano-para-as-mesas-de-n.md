@@ -3,7 +3,7 @@ title: "Itamar Vieira Junior leva o sertão baiano para as mesas de negociação
 subtitle: "Após 'Torto Arado' ultrapassar 700 mil cópias vendidas e ser traduzido para 27 idiomas, o autor se torna o principal vetor de internacionalização da literatura brasileira contemporânea — e o mercado editorial europeu está reorganizando apostas em torno do seu próximo livro."
 date: 2026-06-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - literature
 description: "Itamar Vieira Junior negocia o novo romance com editoras alemãs, francesas e britânicas antes mesmo de ter o manuscrito finalizado — fenômeno raro para um autor brasileiro. O movimento redefine quem dita o ritmo da literatura do Sul Global no mercado internacional."

@@ -3,7 +3,7 @@ title: Taxa de Desocupação no Brasil Atinge 8,8% no Primeiro Trimestre, afetan
   Estados
 date: 2023-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

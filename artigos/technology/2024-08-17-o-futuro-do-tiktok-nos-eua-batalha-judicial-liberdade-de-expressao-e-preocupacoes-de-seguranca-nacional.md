@@ -3,7 +3,7 @@ title: 'O Futuro do TikTok nos EUA: Batalha Judicial, Liberdade de Expressão e 
   de Segurança Nacional'
 date: 2024-08-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

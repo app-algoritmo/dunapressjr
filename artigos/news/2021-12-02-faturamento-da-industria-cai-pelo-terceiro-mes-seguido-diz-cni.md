@@ -2,7 +2,7 @@
 title: Faturamento da indústria cai pelo terceiro mês seguido, diz CNI
 date: 2021-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

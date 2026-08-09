@@ -2,7 +2,7 @@
 title: 'Vídeo: Enfermeira desmaia após receber vacina COVID-19'
 date: 2020-12-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Veja como funciona a vaquinha virtual nas eleições
 date: 2022-05-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

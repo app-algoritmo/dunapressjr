@@ -2,7 +2,7 @@
 title: Banco do Brasil é eleito o mais sustentável do mundo pela quarta vez
 date: 2023-01-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

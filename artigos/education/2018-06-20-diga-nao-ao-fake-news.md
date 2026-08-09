@@ -2,7 +2,7 @@
 title: Diga não ao fake news!
 date: 2018-06-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

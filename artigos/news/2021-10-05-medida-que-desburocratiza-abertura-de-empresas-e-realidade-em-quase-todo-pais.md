@@ -2,7 +2,7 @@
 title: Medida que desburocratiza abertura de empresas é realidade em quase todo país
 date: 2021-10-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

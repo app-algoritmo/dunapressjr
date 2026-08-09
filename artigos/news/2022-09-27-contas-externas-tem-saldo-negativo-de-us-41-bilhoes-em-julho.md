@@ -2,7 +2,7 @@
 title: Contas externas têm saldo negativo de US$ 4,1 bilhões em julho
 date: 2022-09-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,25, refletindo bom humor externo
 date: 2022-10-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

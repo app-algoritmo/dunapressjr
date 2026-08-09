@@ -2,7 +2,7 @@
 title: 'Abras: consumo nos lares acumula alta de 2,84% de janeiro a setembro'
 date: 2022-11-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

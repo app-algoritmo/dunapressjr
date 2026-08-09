@@ -2,7 +2,7 @@
 title: Ibovespa fecha acima dos 120 mil pontos impulsionado por setor aéreo e Petrobras
 date: 2023-07-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

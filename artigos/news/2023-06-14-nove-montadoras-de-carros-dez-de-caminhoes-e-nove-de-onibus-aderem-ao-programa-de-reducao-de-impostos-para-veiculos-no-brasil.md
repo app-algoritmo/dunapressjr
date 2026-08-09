@@ -3,7 +3,7 @@ title: Nove montadoras de carros, dez de caminhões e nove de ônibus aderem ao 
   de redução de impostos para veículos no Brasil
 date: 2023-06-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

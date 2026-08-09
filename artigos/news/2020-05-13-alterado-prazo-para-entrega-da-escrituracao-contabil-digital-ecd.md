@@ -2,7 +2,7 @@
 title: Alterado prazo para entrega da Escrituração Contábil Digital (ECD)
 date: 2020-05-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

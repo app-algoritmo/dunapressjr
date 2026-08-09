@@ -2,7 +2,7 @@
 title: Superávit da balança bate recorde anual em nove meses, com US$ 56,4 bilhões
 date: 2021-10-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

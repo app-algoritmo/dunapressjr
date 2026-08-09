@@ -2,7 +2,7 @@
 title: É assim que nos sentimos - qualidade de vida e condições de vida
 date: 2021-05-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

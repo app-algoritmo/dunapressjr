@@ -2,7 +2,7 @@
 title: O Brasil perto do Caos - A realidade, para quem a quer conhecer
 date: 2022-11-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 - News

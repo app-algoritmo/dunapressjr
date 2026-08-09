@@ -3,7 +3,7 @@ title: Ibovespa fecha em queda de 0,48% impulsionado por empresas do setor de mi
   de ferro
 date: 2023-05-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

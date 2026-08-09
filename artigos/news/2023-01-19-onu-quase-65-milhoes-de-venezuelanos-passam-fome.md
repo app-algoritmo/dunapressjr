@@ -2,7 +2,7 @@
 title: 'ONU: quase 6,5 milhões de venezuelanos passam fome'
 date: 2023-01-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "A Nova Geometria da Guerra: Como os Conflitos de 2026 Redefinem as Front
 subtitle: "Da Ucrânia ao Indo-Pacífico, passando pelo Sahel africano, a arquitetura dos conflitos armados contemporâneos revela uma transição profunda nas lógicas de poder, tecnologia e alianças que moldarão o século XXI"
 date: 2026-05-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - guerra-e-conflitos
 description: "Em maio de 2026, o mapa dos conflitos globais apresenta uma complexidade sem precedentes na era do pós-Guerra Fria. A simultaneidade de guerras convencionais, insurgências tecnológicas e competições híbridas entre potências redesenha as fronteiras do poder mundial e desafia os instrumentos tradicionais da diplomacia e do direito internacional."

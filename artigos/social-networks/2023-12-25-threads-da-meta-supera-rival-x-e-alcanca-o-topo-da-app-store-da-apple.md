@@ -2,7 +2,7 @@
 title: Threads da Meta Supera Rival X e Alcança o Topo da App Store da Apple
 date: 2023-12-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Social networks
 ---

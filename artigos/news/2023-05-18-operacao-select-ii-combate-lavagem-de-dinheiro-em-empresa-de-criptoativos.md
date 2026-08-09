@@ -2,7 +2,7 @@
 title: Operação Select II combate lavagem de dinheiro em empresa de criptoativos
 date: 2023-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

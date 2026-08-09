@@ -2,7 +2,7 @@
 title: Cai estimativa do mercado financeiro para inflação, diz BC
 date: 2020-02-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: Câmara do TCE/PB julga irregular contrato de organização social para g
   de hospital em Mamanguape
 date: 2020-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

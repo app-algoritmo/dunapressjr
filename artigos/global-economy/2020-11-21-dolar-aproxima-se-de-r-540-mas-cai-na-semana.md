@@ -2,7 +2,7 @@
 title: Dólar aproxima-se de R$ 5,40, mas cai na semana
 date: 2020-11-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

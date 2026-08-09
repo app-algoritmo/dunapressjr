@@ -2,7 +2,7 @@
 title: 'Brasil em 2024: Reflexões sobre a Democracia e os Presos Políticos'
 date: 2024-07-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

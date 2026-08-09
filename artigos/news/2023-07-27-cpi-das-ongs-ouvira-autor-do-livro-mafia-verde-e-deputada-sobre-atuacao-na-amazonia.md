@@ -3,7 +3,7 @@ title: CPI das ONGs ouvirá autor do livro 'Máfia Verde' e deputada sobre atua�
   Amazônia
 date: 2023-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Live debate sobre cidadãos da cidade de Búzios-RJ contra a tirania administrativa
 date: 2020-12-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

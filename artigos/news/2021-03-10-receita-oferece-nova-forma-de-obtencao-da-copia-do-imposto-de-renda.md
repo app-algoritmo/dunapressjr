@@ -2,7 +2,7 @@
 title: Receita oferece nova forma de obtenção da cópia do Imposto de Renda
 date: 2021-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

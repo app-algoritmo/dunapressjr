@@ -3,7 +3,7 @@ title: Governo do Estado da Paraíba lança chamada pública para contratação 
   de crédito de R$ 200 milhões
 date: 2020-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

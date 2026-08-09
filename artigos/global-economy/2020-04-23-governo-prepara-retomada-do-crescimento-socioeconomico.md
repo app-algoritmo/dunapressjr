@@ -2,7 +2,7 @@
 title: Governo prepara retomada do crescimento socioeconômico
 date: 2020-04-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

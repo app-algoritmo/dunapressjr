@@ -3,7 +3,7 @@ title: Registrado 21 produtos técnicos pelo Mapa para uso como componentes indu
   na formulação de defensivos agrícolas
 date: 2020-07-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

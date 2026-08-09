@@ -2,7 +2,7 @@
 title: Índice Nacional de Custo da Construção sobe 0,64% em janeiro
 date: 2022-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

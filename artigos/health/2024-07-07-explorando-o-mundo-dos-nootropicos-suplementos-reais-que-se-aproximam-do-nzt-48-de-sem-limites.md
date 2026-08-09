@@ -3,7 +3,7 @@ title: 'Explorando o Mundo dos Nootrópicos: Suplementos Reais que se Aproximam 
   NZT-48 de ''Sem Limites'''
 date: 2024-07-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 ---

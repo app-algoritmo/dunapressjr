@@ -2,7 +2,7 @@
 title: Estudo analisa impactos da redução de impostos sobre a produtividade
 date: 2022-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Reforma da Previdência deve ser votada em segundo turno em duas semanas
 date: 2019-10-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

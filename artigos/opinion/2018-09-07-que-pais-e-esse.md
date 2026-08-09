@@ -2,7 +2,7 @@
 title: Que país é esse?
 date: 2018-09-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

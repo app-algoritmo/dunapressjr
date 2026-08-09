@@ -3,7 +3,7 @@ title: EUA implantará frota para Salvaguardar os interesses nacionais dos EUA n
   regiões ártica e antártica
 date: 2020-06-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: <strong>IGP-M cai 0,95% em setembro, diz FGV</strong>
 date: 2022-09-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

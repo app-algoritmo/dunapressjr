@@ -3,7 +3,7 @@ title: "Parecer ocupado é fácil: o que separa quem avança de quem apenas corr
 subtitle: "Pesquisas recentes sobre cognição e desempenho profissional revelam que a sensação de produtividade e a produtividade real são processos neurológicos distintos — e confundi-los custa caro."
 date: 2026-08-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - personal-development
 description: "Num momento em que 'estar sempre disponível' virou símbolo de comprometimento, a ciência do comportamento organizacional aponta na direção oposta: os profissionais que mais crescem trabalham menos horas, mas com decisões radicalmente melhores sobre onde colocam atenção. Entender essa distinção pode ser a virada mais concreta de carreira em 2026."

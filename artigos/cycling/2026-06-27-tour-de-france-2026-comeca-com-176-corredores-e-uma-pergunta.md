@@ -3,7 +3,7 @@ title: "Tour de France 2026 começa com 176 corredores e uma pergunta que nenhum
 subtitle: "A maior corrida do mundo inicia seu centésimo vigésimo terceiro capítulo em Barceloneta com o pelotão mais jovem em 18 anos — e a bicicleta elétrica de carga rondando os bastidores como metáfora incômoda do futuro do esporte."
 date: 2026-06-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - cycling
 description: "O Tour de France 2026 arranca neste sábado com o pelotão mais jovem em quase duas décadas e um debate silencioso sobre o que o ciclismo profissional deve ao ciclismo urbano que explodiu nas cidades. O esporte mais assistido do calendário europeu enfrenta uma bifurcação rara: nunca foi tão popular nas ruas e nunca esteve tão distante da conversa cotidiana sobre mobilidade e clima."

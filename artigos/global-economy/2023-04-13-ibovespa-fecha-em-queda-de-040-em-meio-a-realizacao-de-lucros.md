@@ -2,7 +2,7 @@
 title: Ibovespa fecha em queda de 0,40% em meio a realização de lucros
 date: 2023-04-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

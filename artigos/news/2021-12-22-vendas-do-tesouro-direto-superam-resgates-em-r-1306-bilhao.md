@@ -2,7 +2,7 @@
 title: Vendas do Tesouro Direto superam resgates em R$ 1,306 bilhão
 date: 2021-12-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

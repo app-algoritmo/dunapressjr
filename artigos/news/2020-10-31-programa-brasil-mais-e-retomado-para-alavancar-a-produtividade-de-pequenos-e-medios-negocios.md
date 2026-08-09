@@ -3,7 +3,7 @@ title: Programa Brasil Mais é retomado para alavancar a produtividade de pequen
   e médios negócios
 date: 2020-10-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

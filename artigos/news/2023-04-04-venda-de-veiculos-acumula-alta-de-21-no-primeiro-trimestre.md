@@ -2,7 +2,7 @@
 title: Venda de veículos acumula alta de 21% no primeiro trimestre
 date: 2023-04-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

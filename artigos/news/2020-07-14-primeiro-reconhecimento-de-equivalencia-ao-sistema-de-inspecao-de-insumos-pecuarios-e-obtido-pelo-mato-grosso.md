@@ -3,7 +3,7 @@ title: Primeiro reconhecimento de equivalência ao Sistema de Inspeção de Insu
   é obtido pelo Mato Grosso
 date: 2020-07-14
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

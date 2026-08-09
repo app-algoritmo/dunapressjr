@@ -2,7 +2,7 @@
 title: O Papel das Ciências Regulatórias na Indústria e na Sociedade
 date: 2024-10-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

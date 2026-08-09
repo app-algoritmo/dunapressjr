@@ -3,7 +3,7 @@ title: "A Reconfiguração da Ordem Global: Potências Emergentes e o Fim da Uni
 subtitle: "À medida que Washington enfrenta pressões internas e externas sem precedentes, Pequim, Moscou e novos blocos do Sul Global redesenham as linhas de força que definem o século XXI"
 date: 2026-05-14
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - world-affairs
 description: "O sistema internacional atravessa uma transição estrutural profunda. Em 2026, a hegemonia americana — já fragilizada desde a crise financeira de 2008 e os desdobramentos das guerras do Oriente Médio — encontra-se diante do seu teste mais severo. Este artigo analisa os vetores de força que estão redesenhando a arquitetura do poder mundial e o que isso significa para as próximas décadas."

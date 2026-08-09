@@ -2,7 +2,7 @@
 title: UE reduz previsão de crescimento na zona euro para 2019 e 2020
 date: 2019-11-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

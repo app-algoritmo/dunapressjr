@@ -2,7 +2,7 @@
 title: Bolsa cai pelo segundo dia e perde 2,48% em agosto
 date: 2021-09-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

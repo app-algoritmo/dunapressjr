@@ -2,7 +2,7 @@
 title: Arroz geneticamente modificado para acabar com a fome
 date: 2023-02-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Food
 ---

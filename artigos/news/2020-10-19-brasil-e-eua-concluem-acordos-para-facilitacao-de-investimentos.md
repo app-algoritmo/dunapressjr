@@ -2,7 +2,7 @@
 title: Brasil e EUA concluem acordos para facilitação de investimentos
 date: 2020-10-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

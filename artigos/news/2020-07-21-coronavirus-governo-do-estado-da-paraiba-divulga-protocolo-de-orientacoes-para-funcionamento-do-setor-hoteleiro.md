@@ -3,7 +3,7 @@ title: 'Coronavírus: Governo do Estado da Paraíba divulga protocolo de orienta
   para funcionamento do setor hoteleiro'
 date: 2020-07-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

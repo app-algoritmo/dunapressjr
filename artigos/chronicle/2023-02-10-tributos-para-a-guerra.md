@@ -2,7 +2,7 @@
 title: Tributos para a guerra
 date: 2023-02-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 ---

@@ -2,7 +2,7 @@
 title: Brasil crescerá entre 3% e 4% nos próximos anos, diz ministro
 date: 2022-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Contaminações do coronavírus ultrapassam 2 mil em todo o mundo
 date: 2020-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

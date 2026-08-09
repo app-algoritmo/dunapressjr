@@ -2,7 +2,7 @@
 title: O que é um exoplaneta?
 date: 2020-10-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

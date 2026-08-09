@@ -3,7 +3,7 @@ title: Abertas 4,3 mil vagas para especialização de professores em educação 
   e tecnológica pelo Mec
 date: 2020-07-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Leilão de biodiesel tem 1 bi de litros arrematados para maio e junho
 date: 2021-04-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Plano Safra 2022/2023 anuncia R$ 340,8 bilhões para a agropecuária
 date: 2022-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

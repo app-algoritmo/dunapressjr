@@ -2,7 +2,7 @@
 title: China anuncia avanços substanciais na negociação comercial com EUA
 date: 2019-10-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Novo governo argentino renegocia dívida com FMI
 date: 2019-12-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

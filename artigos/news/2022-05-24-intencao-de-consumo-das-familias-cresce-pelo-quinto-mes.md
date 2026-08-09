@@ -2,7 +2,7 @@
 title: Intenção de Consumo das Famílias cresce pelo quinto mês
 date: 2022-05-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

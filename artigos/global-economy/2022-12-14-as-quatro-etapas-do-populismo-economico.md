@@ -2,7 +2,7 @@
 title: As quatro etapas do populismo econômico
 date: 2022-12-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

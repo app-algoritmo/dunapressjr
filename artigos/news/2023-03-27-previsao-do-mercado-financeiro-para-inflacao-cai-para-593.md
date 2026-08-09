@@ -2,7 +2,7 @@
 title: Previsão do mercado financeiro para inflação cai para 5,93%
 date: 2023-03-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Portaria esclarece pontos da Lei Complementar nº 173/2020
 date: 2020-07-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

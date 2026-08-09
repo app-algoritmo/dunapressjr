@@ -2,7 +2,7 @@
 title: Comercialização de petróleo arrecadará R$ 210 milhões para o Tesouro
 date: 2023-01-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

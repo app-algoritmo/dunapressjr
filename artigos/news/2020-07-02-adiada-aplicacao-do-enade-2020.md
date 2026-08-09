@@ -2,7 +2,7 @@
 title: Adiada aplicação do Enade 2020
 date: 2020-07-02
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

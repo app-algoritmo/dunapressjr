@@ -3,7 +3,7 @@ title: Sefaz - PB publica 16ª edição do ‘Boletim Covid-19’ com dados da a
   de dezembro
 date: 2021-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

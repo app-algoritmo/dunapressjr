@@ -2,7 +2,7 @@
 title: Novo executivo da Americanas pede atenção da empresa para evitar erros
 date: 2023-03-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

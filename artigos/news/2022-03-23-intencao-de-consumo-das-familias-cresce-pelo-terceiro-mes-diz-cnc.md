@@ -2,7 +2,7 @@
 title: Intenção de consumo das famílias cresce pelo terceiro mês, diz CNC
 date: 2022-03-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

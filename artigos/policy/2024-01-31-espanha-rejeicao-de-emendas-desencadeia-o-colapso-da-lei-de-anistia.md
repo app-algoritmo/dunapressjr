@@ -2,7 +2,7 @@
 title: 'Espanha: Rejeição de Emendas Desencadeia o Colapso da Lei de Anistia'
 date: 2024-01-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

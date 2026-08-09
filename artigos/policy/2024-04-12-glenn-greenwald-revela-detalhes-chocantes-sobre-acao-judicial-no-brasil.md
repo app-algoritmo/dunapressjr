@@ -2,7 +2,7 @@
 title: Glenn Greenwald Revela Detalhes Chocantes sobre Ação Judicial no Brasil
 date: 2024-04-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

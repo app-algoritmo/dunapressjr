@@ -2,7 +2,7 @@
 title: Ministro defende aperfeiçoamento de marcos legais do setor energético
 date: 2022-12-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

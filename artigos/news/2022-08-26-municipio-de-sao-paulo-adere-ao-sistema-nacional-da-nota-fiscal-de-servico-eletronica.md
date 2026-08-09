@@ -3,7 +3,7 @@ title: Município de São Paulo adere ao Sistema Nacional da Nota Fiscal de Serv
   eletrônica
 date: 2022-08-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

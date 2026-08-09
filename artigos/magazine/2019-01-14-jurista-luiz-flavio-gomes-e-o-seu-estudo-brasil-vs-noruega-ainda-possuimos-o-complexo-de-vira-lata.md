@@ -3,7 +3,7 @@ title: 'Jurista Luiz Flávio Gomes e o seu estudo Brasil vs. Noruega: ainda poss
   o complexo de vira-lata?'
 date: 2019-01-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Policy

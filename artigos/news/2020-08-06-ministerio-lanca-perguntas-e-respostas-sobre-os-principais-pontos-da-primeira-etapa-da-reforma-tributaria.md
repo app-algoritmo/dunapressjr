@@ -3,7 +3,7 @@ title: Ministério lança “Perguntas e Respostas” sobre os principais pontos
   etapa da Reforma Tributária
 date: 2020-08-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

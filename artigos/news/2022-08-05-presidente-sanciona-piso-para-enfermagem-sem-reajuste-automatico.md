@@ -2,7 +2,7 @@
 title: Presidente sanciona piso para enfermagem sem reajuste automático
 date: 2022-08-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

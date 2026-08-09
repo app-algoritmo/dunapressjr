@@ -3,7 +3,7 @@ title: "72% dos brasileiros urbanos dormem menos de 7 horas — e um mercado de 
 subtitle: "A privação de sono virou negócio, comportamento e debate de saúde pública ao mesmo tempo: entender essa equação mudou a forma como cidades, empresas e indivíduos encaram a noite."
 date: 2026-06-07
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - lifestyle
 description: "Pesquisa da FioCruz publicada em março de 2026 revelou que 72% dos moradores de grandes cidades brasileiras dormem abaixo do mínimo recomendado — e essa estatística alimenta um mercado de suplementos, tecnologia e serviços que movimenta R$ 4 bilhões por ano. O paradoxo: quanto mais o brasileiro paga para dormir melhor, mais ele parece dormir pior."

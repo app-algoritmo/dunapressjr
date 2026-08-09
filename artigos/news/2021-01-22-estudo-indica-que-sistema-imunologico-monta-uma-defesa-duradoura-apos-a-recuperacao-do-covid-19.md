@@ -3,7 +3,7 @@ title: Estudo indica que sistema imunológico monta uma defesa duradoura após a
   do COVID-19
 date: 2021-01-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

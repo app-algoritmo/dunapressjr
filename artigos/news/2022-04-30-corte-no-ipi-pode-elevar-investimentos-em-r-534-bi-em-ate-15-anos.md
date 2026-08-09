@@ -2,7 +2,7 @@
 title: Corte no IPI pode elevar investimentos em R$ 534 bi em até 15 anos
 date: 2022-04-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

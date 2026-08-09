@@ -2,7 +2,7 @@
 title: El Ratón, filho de El Chapo, é preso e causa onda de violência no México
 date: 2023-01-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

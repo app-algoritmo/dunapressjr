@@ -3,7 +3,7 @@ title: Polícia Federal deflagra Operação Bahamut contra lavagem de dinheiro d
   internacional de drogas
 date: 2023-07-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

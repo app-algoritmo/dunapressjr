@@ -2,7 +2,7 @@
 title: Acompanhe oportunidades e perspectivas para produção de Açaí
 date: 2020-05-23
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

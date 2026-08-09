@@ -3,7 +3,7 @@ title: Câmara aprova projeto que prorroga início de licença-maternidade em ca
   internação
 date: 2019-03-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Petrobras inicia processo de venda dos campos de Uruguá e Tambaú
 date: 2021-09-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

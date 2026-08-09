@@ -3,7 +3,7 @@ title: "Aristóteles tinha razão há 2.370 anos — e o mundo corporativo levou
 subtitle: "A ressurgência do conceito grego de 'phronesis' nos maiores programas de liderança do mundo revela que a filosofia clássica pode ser a tecnologia de gestão que faltava."
 date: 2026-07-31
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - philosophy
 description: "O conceito aristotélico de phronesis — a sabedoria prática de agir bem diante da incerteza — foi incorporado em 2025 ao currículo oficial da Harvard Business School e de ao menos 14 outras escolas de gestão globais. Num mundo onde algoritmos tomam decisões técnicas em milissegundos, a pergunta que sobrou para os humanos é exatamente a que Aristóteles formulou há 24 séculos: como agir com virtude quando nenhuma regra cobre a situação?"

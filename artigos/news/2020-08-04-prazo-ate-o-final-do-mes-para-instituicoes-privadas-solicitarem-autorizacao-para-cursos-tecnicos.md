@@ -3,7 +3,7 @@ title: Prazo até o final do mês para instituições privadas solicitarem autor
   para cursos técnicos
 date: 2020-08-04
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

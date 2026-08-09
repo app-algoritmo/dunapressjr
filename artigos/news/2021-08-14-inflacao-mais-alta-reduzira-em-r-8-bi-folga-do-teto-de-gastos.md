@@ -2,7 +2,7 @@
 title: Inflação mais alta reduzirá em R$ 8 bi folga do teto de gastos
 date: 2021-08-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

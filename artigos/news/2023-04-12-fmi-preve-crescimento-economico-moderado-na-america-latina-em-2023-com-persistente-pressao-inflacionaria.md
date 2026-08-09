@@ -3,7 +3,7 @@ title: FMI prevê crescimento econômico moderado na América Latina em 2023, co
   pressão inflacionária
 date: 2023-04-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

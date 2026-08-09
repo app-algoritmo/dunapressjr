@@ -2,7 +2,7 @@
 title: Receita liberou hoje consulta sobre restituição do Imposto de Renda
 date: 2022-06-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

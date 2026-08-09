@@ -2,7 +2,7 @@
 title: Estilo de Vida, Yoga e Medicina Quântica
 date: 2024-08-08
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Health
 ---

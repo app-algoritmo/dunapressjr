@@ -2,7 +2,7 @@
 title: Orçamento de 2023 prevê déficit primário de R$ 63,7 bi
 date: 2022-09-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

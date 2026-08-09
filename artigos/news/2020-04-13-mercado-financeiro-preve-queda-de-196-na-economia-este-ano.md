@@ -2,7 +2,7 @@
 title: Mercado financeiro prevê queda de 1,96% na economia este ano
 date: 2020-04-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

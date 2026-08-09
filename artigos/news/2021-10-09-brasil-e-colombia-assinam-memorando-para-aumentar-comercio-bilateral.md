@@ -2,7 +2,7 @@
 title: Brasil e Colômbia assinam memorando para aumentar comércio bilateral
 date: 2021-10-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

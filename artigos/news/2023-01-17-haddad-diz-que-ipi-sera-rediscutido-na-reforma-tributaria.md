@@ -2,7 +2,7 @@
 title: Haddad diz que IPI será rediscutido na reforma tributária
 date: 2023-01-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

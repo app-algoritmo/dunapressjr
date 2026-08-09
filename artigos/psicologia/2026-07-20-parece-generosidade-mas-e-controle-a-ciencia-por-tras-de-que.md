@@ -3,7 +3,7 @@ title: "Parece generosidade, mas é controle: a ciência por trás de quem dá d
 subtitle: "Pesquisadores mapearam o mecanismo neurológico que transforma altruísmo em moeda de troca — e como reconhecer quando você está dos dois lados dessa equação"
 date: 2026-07-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - psicologia
 description: "Um estudo publicado em 2025 no *Nature Human Behaviour* identificou padrões cerebrais distintos entre generosidade genuína e generosidade instrumental — aquela usada para criar dívidas emocionais. Entender a diferença muda a forma como você lê suas relações mais próximas."

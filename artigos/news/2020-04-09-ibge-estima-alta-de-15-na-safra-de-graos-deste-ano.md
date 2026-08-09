@@ -2,7 +2,7 @@
 title: IBGE estima alta de 1,5% na safra de grãos deste ano
 date: 2020-04-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

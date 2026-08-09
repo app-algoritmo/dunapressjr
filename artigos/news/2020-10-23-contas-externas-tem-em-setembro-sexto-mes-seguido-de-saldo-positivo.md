@@ -2,7 +2,7 @@
 title: Contas externas têm em setembro sexto mês seguido de saldo positivo
 date: 2020-10-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

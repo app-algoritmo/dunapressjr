@@ -3,7 +3,7 @@ title: Indústria da Construção registra crescimento significativo em 2021, ap
   da crise econômica
 date: 2023-05-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

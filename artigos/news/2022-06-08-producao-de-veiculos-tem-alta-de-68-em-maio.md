@@ -2,7 +2,7 @@
 title: Produção de veículos tem alta de 6,8% em maio
 date: 2022-06-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

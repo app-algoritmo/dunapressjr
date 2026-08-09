@@ -2,7 +2,7 @@
 title: Dólar fecha no menor valor em uma semana após eleições no Congresso
 date: 2021-02-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

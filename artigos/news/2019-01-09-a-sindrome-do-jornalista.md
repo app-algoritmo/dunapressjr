@@ -2,7 +2,7 @@
 title: A Síndrome do Jornalista
 date: 2019-01-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

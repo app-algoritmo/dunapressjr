@@ -3,7 +3,7 @@ title: Doações para ajuda humanitária, pela Campanha “Amazônia Contra a Co
   aos povos da floresta
 date: 2020-06-28
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

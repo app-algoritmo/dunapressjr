@@ -2,7 +2,7 @@
 title: Monumento reinaugurado para o bicentenário é depredado no Rio
 date: 2022-12-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

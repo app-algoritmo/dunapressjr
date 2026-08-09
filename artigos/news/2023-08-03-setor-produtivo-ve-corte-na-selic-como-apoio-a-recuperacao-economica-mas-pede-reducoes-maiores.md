@@ -3,7 +3,7 @@ title: Setor produtivo vê corte na Selic como apoio à recuperação econômica
   reduções maiores
 date: 2023-08-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

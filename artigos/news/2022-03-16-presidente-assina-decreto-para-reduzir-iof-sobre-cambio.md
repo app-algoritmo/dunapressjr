@@ -2,7 +2,7 @@
 title: Presidente assina decreto para reduzir IOF sobre câmbio
 date: 2022-03-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

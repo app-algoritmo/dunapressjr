@@ -3,7 +3,7 @@ title: "R$ 4,2 bilhões em 18 meses: o novo mapa do dinheiro árabe no futebol e
 subtitle: "Enquanto o PSG tenta reconquistar a Champions e o Newcastle mira seu primeiro título inglês em 70 anos, os investidores do Golfo Pérsico transformam silenciosamente as regras do jogo econômico e político do futebol mundial."
 date: 2026-07-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - soccer
 description: "Entre janeiro de 2025 e julho de 2026, fundos soberanos ligados a Arábia Saudita, Qatar e Emirados Árabes injetaram o equivalente a R$ 4,2 bilhões em clubes europeus — cifra que já supera o total dos dez anos anteriores. A disputa não é mais apenas por taças: é por influência cultural, soft power e o controle do maior espetáculo de massas do planeta."

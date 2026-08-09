@@ -2,7 +2,7 @@
 title: Pequenas e microempresas poderão ter dívidas com a União parceladas
 date: 2020-08-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

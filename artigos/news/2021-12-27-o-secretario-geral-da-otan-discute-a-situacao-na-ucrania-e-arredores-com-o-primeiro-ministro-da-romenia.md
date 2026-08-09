@@ -3,7 +3,7 @@ title: O Secretário-Geral da OTAN discute a situação na Ucrânia e arredores 
   Primeiro-Ministro da Romênia
 date: 2021-12-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

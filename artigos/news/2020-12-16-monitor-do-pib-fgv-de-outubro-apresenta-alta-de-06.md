@@ -2,7 +2,7 @@
 title: Monitor do PIB-FGV de outubro apresenta alta de 0,6%
 date: 2020-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

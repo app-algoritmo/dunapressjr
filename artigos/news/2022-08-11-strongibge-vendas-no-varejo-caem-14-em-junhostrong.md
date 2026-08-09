@@ -2,7 +2,7 @@
 title: '<strong>IBGE: vendas no varejo caem 1,4% em junho</strong>'
 date: 2022-08-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

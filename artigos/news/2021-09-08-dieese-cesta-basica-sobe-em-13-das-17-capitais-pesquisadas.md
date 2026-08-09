@@ -2,7 +2,7 @@
 title: 'Dieese: cesta básica sobe em 13 das 17 capitais pesquisadas'
 date: 2021-09-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

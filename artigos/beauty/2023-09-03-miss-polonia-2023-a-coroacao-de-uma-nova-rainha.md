@@ -2,7 +2,7 @@
 title: 'Miss Polônia 2023: A Coroação de Uma Nova Rainha'
 date: 2023-09-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Beauty
 - Fashion

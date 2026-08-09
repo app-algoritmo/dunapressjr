@@ -3,7 +3,7 @@ title: Depreciação cambial contribui para que subsídios creditícios relacion
   empréstimos ao BNDES voltem a recuar até o 4º bimestre
 date: 2020-09-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

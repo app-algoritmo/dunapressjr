@@ -2,7 +2,7 @@
 title: Especialistas pedem mudanças na legislação após caso Lojas Americanas
 date: 2023-02-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

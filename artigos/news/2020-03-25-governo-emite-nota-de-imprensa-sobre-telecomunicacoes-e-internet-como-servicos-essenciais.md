@@ -1,5 +1,5 @@
 ---
-title: Governo emite Nota de  Imprensa sobre Telecomunicações e Internet como serviços
+title: Governo emite Nota de Imprensa sobre Telecomunicações e Internet como serviços
   essenciais
 date: 2020-03-25
 status: publish

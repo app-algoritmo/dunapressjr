@@ -2,7 +2,7 @@
 title: 'Malcolm Forest convida: Festa do Clube dos 21'
 date: 2019-05-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

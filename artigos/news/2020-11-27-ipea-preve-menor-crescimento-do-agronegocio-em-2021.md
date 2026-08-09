@@ -2,7 +2,7 @@
 title: Ipea prevê menor crescimento do agronegócio em 2021
 date: 2020-11-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

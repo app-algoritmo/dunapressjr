@@ -2,7 +2,7 @@
 title: Netanyahu ordena que o Exército 'se prepare para qualquer cenário'
 date: 2023-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

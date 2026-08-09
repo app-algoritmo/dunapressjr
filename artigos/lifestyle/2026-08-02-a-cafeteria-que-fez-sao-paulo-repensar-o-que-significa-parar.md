@@ -3,7 +3,7 @@ title: "A cafeteria que fez São Paulo repensar o que significa parar por 20 min
 subtitle: "O movimento das 'terceiras pausas' ganha força nas grandes cidades brasileiras e revela uma geração que está redesenhando sua relação com o tempo livre urbano."
 date: 2026-08-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - lifestyle
 description: "Uma rede de cafeterias paulistanas que proíbe laptops nas mesas está registrando fila de espera de até 40 minutos — e o paradoxo diz muito sobre o que profissionais urbanos realmente procuram quando saem do escritório. O fenômeno aponta para uma virada silenciosa no comportamento de consumo das grandes cidades brasileiras."

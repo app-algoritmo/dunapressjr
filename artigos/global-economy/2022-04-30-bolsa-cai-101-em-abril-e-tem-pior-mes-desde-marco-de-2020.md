@@ -2,7 +2,7 @@
 title: Bolsa cai 10,1% em abril e tem pior mês desde março de 2020
 date: 2022-04-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

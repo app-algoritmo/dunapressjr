@@ -2,7 +2,7 @@
 title: Polícia Federal combate fraudes contra o Programa de Integração Social – PIS
 date: 2023-03-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

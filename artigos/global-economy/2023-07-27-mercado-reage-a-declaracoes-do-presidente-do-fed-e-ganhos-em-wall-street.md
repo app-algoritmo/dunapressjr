@@ -2,7 +2,7 @@
 title: Mercado reage a declarações do presidente do Fed e ganhos em Wall Street
 date: 2023-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

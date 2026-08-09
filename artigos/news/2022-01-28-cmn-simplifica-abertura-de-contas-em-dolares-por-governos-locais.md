@@ -2,7 +2,7 @@
 title: CMN simplifica abertura de contas em dólares por governos locais
 date: 2022-01-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

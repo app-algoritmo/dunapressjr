@@ -2,7 +2,7 @@
 title: Paradigma Newtoniano-Cartesiano
 date: 2020-05-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Opinion
 ---

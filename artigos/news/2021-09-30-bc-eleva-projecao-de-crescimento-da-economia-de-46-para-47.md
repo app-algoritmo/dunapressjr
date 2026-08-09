@@ -2,7 +2,7 @@
 title: BC eleva projeção de crescimento da economia de 4,6% para 4,7%
 date: 2021-09-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

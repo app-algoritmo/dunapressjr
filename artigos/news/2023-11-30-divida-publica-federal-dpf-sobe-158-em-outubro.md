@@ -2,7 +2,7 @@
 title: Dívida Pública Federal (DPF) sobe 1,58% em outubro
 date: 2023-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

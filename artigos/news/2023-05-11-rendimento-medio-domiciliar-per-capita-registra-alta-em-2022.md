@@ -2,7 +2,7 @@
 title: Rendimento médio domiciliar per capita registra alta em 2022
 date: 2023-05-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

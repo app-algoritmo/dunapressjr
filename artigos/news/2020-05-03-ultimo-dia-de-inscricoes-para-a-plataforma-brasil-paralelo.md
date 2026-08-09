@@ -2,7 +2,7 @@
 title: Último Dia de Inscrições para a Plataforma Brasil Paralelo
 date: 2020-05-03
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Lista de espera do Sisu é divulgada na página do sistema
 date: 2020-07-27
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

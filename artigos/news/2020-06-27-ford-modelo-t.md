@@ -2,7 +2,7 @@
 title: Ford Modelo T
 date: 2020-06-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

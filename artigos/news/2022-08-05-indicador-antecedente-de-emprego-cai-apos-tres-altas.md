@@ -2,7 +2,7 @@
 title: Indicador antecedente de emprego cai após três altas
 date: 2022-08-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

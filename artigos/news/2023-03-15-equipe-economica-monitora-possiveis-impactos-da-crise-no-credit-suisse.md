@@ -2,7 +2,7 @@
 title: Equipe econômica monitora possíveis impactos da crise no Credit Suisse
 date: 2023-03-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

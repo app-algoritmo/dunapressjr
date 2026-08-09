@@ -2,7 +2,7 @@
 title: Presidente sanciona Orçamento de 2022, com vetos
 date: 2022-01-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

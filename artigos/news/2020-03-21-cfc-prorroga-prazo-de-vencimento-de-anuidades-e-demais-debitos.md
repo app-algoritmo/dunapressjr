@@ -2,7 +2,7 @@
 title: CFC prorroga prazo de vencimento de anuidades e demais débitos
 date: 2020-03-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

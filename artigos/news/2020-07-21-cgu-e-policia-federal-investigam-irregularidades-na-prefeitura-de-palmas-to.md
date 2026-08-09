@@ -2,7 +2,7 @@
 title: CGU e Polícia Federal investigam irregularidades na Prefeitura de Palmas (TO)
 date: 2020-07-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

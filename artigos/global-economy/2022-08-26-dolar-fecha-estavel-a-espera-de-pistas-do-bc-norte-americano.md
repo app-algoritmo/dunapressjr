@@ -2,7 +2,7 @@
 title: Dólar fecha estável à espera de pistas do BC norte-americano
 date: 2022-08-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

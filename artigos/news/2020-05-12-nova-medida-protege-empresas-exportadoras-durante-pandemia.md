@@ -2,7 +2,7 @@
 title: Nova medida protege empresas exportadoras durante pandemia
 date: 2020-05-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

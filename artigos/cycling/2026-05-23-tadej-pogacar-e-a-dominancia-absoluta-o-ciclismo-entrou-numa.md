@@ -3,7 +3,7 @@ title: "Tadej Pogačar e a Dominância Absoluta: O Ciclismo Entrou numa Era de U
 subtitle: "A temporada 2026 reacende o debate sobre paridade competitiva no pelotão mundial enquanto o esloveno continua a redefinir os limites do esporte"
 date: 2026-05-23
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - cycling
 description: "Com mais uma campanha dominante em 2026, Tadej Pogačar consolida sua posição como o ciclista mais dominante da geração moderna, levantando questões estruturais sobre competitividade, modelo de equipes e o futuro do esporte de alto rendimento."

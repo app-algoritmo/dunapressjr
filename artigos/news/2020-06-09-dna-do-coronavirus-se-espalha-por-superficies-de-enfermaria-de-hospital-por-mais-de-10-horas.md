@@ -1,9 +1,9 @@
 ---
-title: DNA do coronavírus se espalha por superfícies de  enfermaria de hospital por
+title: DNA do coronavírus se espalha por superfícies de enfermaria de hospital por
   mais de 10 horas
 date: 2020-06-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

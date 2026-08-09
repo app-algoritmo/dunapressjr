@@ -2,7 +2,7 @@
 title: Protestos crescem na China e pedem renúncia de Xi Jinping
 date: 2022-11-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

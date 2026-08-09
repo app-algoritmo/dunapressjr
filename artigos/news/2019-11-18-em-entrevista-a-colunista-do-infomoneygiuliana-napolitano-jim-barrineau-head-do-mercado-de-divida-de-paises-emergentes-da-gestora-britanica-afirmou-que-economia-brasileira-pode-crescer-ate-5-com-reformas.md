@@ -4,7 +4,7 @@ title: Em entrevista a colunista do Infomoney,Giuliana Napolitano, Jim Barrineau
   economia brasileira pode crescer até 5% com reformas
 date: 2019-11-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

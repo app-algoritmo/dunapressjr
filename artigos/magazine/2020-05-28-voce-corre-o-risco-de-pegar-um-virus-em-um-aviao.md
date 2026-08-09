@@ -2,7 +2,7 @@
 title: Você corre o risco de pegar um vírus em um avião?
 date: 2020-05-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

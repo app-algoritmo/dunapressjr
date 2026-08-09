@@ -2,7 +2,7 @@
 title: IGP-M acumula inflação de 28,94% em 12 meses, diz FGV
 date: 2021-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

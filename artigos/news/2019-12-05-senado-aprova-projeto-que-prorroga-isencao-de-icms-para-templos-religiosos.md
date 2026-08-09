@@ -2,7 +2,7 @@
 title: Senado aprova projeto que prorroga isenção de ICMS para templos religiosos
 date: 2019-12-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

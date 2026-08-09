@@ -2,7 +2,7 @@
 title: UFPB desenvolve robô virtual que tira dúvidas sobre o coronavírus
 date: 2020-06-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

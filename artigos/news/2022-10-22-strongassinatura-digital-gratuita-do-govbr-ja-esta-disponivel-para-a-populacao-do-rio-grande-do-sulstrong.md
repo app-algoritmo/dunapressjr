@@ -3,7 +3,7 @@ title: <strong>Assinatura digital gratuita do GOV.BR já está disponível para 
   do Rio Grande do Sul</strong>
 date: 2022-10-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

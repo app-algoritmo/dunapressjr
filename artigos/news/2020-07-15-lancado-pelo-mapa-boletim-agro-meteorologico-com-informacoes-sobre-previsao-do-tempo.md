@@ -3,7 +3,7 @@ title: Lançado pelo Mapa Boletim Agro Meteorológico, com informações sobre p
   do tempo
 date: 2020-07-15
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

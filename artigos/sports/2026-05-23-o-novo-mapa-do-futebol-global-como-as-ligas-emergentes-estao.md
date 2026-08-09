@@ -3,7 +3,7 @@ title: "O Novo Mapa do Futebol Global: Como as Ligas Emergentes Estão Redesenha
 subtitle: "Com investimentos bilionários na Arábia Saudita, crescimento acelerado da MLS e a ascensão das competições asiáticas, o eixo tradicional Europa-Brasil começa a perder sua hegemonia histórica no futebol mundial"
 date: 2026-05-23
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - sports
 description: "O futebol mundial atravessa uma transformação estrutural profunda em 2026. Ligas que até pouco tempo atrás eram consideradas de segundo escalão passaram a rivalizar financeiramente com as grandes potências europeias, alterando rotas de transferências, padrões salariais e o próprio equilíbrio de poder dentro da FIFA e das confederações continentais."

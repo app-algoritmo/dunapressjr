@@ -2,7 +2,7 @@
 title: Companhia de energia elétrica do RS é arrematada por R$ 928 milhões
 date: 2022-07-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

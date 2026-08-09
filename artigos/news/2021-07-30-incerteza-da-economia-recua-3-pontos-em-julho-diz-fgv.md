@@ -2,7 +2,7 @@
 title: Incerteza da economia recua 3 pontos em julho, diz FGV
 date: 2021-07-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

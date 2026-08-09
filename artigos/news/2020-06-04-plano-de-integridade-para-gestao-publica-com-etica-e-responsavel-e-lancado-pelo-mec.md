@@ -3,7 +3,7 @@ title: Plano de Integridade para gestão pública com ética e responsável é l
   pelo MEC
 date: 2020-06-04
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

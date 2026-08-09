@@ -3,7 +3,7 @@ title: A polícia de Oslo acusou 'uma pessoa da área local' por tentativa de ho
   depois de ter sido baleada em ou perto de uma mesquita em Bærum
 date: 2019-08-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

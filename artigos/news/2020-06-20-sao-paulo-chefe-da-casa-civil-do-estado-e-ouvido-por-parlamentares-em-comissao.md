@@ -2,7 +2,7 @@
 title: 'São Paulo: Chefe da Casa Civil do Estado é ouvido por parlamentares em comissão'
 date: 2020-06-20
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - News
 ---

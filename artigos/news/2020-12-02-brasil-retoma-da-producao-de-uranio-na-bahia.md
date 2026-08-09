@@ -2,7 +2,7 @@
 title: Brasil retoma da produção de urânio na Bahia
 date: 2020-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

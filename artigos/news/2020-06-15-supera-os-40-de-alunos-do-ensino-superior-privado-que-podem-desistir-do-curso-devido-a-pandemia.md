@@ -3,7 +3,7 @@ title: Supera os 40% de alunos do ensino superior privado que podem desistir do 
   devido à pandemia
 date: 2020-06-15
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

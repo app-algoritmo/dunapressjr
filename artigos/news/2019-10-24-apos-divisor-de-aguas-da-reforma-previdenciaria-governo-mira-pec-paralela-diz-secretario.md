@@ -3,7 +3,7 @@ title: Após 'divisor de águas' da reforma previdenciária, governo mira PEC pa
   diz secretário
 date: 2019-10-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

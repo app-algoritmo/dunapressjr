@@ -2,7 +2,7 @@
 title: Polícia Federal revista a residência do governador do Rio de janeiro
 date: 2020-05-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Edital do exame Revalida sairá em Julho
 date: 2020-05-19
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

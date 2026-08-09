@@ -2,7 +2,7 @@
 title: Atividade econômica brasileira apresenta crescimento em julho
 date: 2023-09-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

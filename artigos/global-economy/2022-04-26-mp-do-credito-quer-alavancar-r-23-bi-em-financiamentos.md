@@ -2,7 +2,7 @@
 title: MP do Crédito quer alavancar R$ 23 bi em financiamentos
 date: 2022-04-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

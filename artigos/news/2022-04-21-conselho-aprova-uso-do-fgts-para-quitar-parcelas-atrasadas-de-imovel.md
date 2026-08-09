@@ -2,7 +2,7 @@
 title: Conselho aprova uso do FGTS para quitar parcelas atrasadas de imóvel
 date: 2022-04-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

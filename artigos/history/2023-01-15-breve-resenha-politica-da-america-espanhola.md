@@ -2,7 +2,7 @@
 title: Breve resenha política da América espanhola
 date: 2023-01-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - History
 - Policy

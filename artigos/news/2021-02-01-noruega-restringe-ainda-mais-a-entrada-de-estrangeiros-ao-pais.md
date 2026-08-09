@@ -2,7 +2,7 @@
 title: Noruega restringe ainda mais a entrada de estrangeiros ao país
 date: 2021-02-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

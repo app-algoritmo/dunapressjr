@@ -2,7 +2,7 @@
 title: Mercosul retoma negociações do Acordo de Livre Comércio com Coreia do Sul
 date: 2021-06-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

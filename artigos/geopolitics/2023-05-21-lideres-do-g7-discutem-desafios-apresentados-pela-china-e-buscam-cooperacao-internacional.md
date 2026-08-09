@@ -3,7 +3,7 @@ title: Líderes do G7 discutem desafios apresentados pela China e buscam coopera
   internacional
 date: 2023-05-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Geopolitics
 ---

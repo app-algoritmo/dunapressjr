@@ -3,7 +3,7 @@ title: Alíquota do novo imposto sobre valor agregado (IVA) da reforma tributár
   variar entre 20,03% e 30,7%, aponta relatório da IFI
 date: 2023-08-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

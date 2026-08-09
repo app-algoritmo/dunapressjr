@@ -2,7 +2,7 @@
 title: Venda de reservas externas é decisão do BC, diz secretário especial
 date: 2020-11-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

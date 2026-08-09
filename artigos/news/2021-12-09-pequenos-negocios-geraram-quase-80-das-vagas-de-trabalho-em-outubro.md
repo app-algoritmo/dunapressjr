@@ -2,7 +2,7 @@
 title: Pequenos negócios geraram quase 80% das vagas de trabalho em outubro
 date: 2021-12-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

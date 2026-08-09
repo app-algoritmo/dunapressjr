@@ -2,7 +2,7 @@
 title: "Minimalism: Less is More on the Path to Happiness"
 date: 2025-01-02
 status: publish
-author: "Paulo Fernando De Barros"
+author: "Paulo Fernando de Barros"
 categories: "Personal Development"
 ---
 

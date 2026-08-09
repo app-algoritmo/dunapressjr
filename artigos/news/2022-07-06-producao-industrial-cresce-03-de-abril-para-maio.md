@@ -2,7 +2,7 @@
 title: Produção industrial cresce 0,3% de abril para maio
 date: 2022-07-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

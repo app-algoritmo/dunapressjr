@@ -3,7 +3,7 @@ title: Inflação em queda e estímulos na China impulsionam Ibovespa para maior
   desde 2021
 date: 2023-07-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

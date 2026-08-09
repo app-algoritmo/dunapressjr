@@ -2,7 +2,7 @@
 title: Irã e Venezuela têm 200 navios para transportar petróleo com documentos falsos
 date: 2022-12-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

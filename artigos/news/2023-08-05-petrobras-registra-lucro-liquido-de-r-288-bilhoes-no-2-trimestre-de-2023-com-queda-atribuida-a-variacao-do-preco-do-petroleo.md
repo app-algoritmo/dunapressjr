@@ -3,7 +3,7 @@ title: Petrobras registra lucro líquido de R$ 28,8 bilhões no 2º trimestre de
   com queda atribuída à variação do preço do petróleo
 date: 2023-08-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

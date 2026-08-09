@@ -3,7 +3,7 @@ title: Ministério da Economia alemão não vê perspectivas de lançamento do N
   2 no médio prazo
 date: 2022-02-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Story
 ---

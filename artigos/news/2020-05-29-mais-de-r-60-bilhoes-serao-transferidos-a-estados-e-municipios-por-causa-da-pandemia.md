@@ -3,7 +3,7 @@ title: Mais de R$ 60 bilhões serão transferidos a estados e municípios por ca
   pandemia
 date: 2020-05-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

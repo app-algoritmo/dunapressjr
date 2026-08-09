@@ -2,7 +2,7 @@
 title: Produção industrial nacional recua 0,6% em julho de 2023
 date: 2023-09-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "Seu cachorro realmente sente sua falta — ou apenas aprende que você v
 subtitle: "A ciência do vínculo humano-animal avança rápido, o mercado pet brasileiro segue junto, mas a distância entre o que os donos acreditam e o que os estudos confirmam ainda é surpreendente."
 date: 2026-08-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - pets
 description: "Pesquisas publicadas em 2025 e 2026 refinam o que sabemos sobre o apego real entre cães, gatos e seus tutores — com implicações diretas para um mercado brasileiro que movimentou R$ 68 bilhões em 2025. Entender a diferença entre apego genuíno e condicionamento muda a forma de cuidar e, cada vez mais, o que as empresas vendem."

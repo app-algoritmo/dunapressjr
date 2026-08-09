@@ -2,7 +2,7 @@
 title: Indústria da construção civil deve crescer 4% este ano, prevê CBIC
 date: 2021-07-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

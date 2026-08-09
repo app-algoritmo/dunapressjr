@@ -2,7 +2,7 @@
 title: Índice de variação dos aluguéis cai 0,31% em junho, diz FGV
 date: 2022-07-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

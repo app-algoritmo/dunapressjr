@@ -2,7 +2,7 @@
 title: Economia do Brasil encolherá 5,2% por causa de pandemia, prevê Cepal
 date: 2020-04-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

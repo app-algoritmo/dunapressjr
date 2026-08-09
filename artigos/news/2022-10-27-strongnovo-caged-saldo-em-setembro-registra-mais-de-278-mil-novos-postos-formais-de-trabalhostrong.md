@@ -3,7 +3,7 @@ title: '<strong>Novo Caged: Saldo em setembro registra mais de 278 mil novos pos
   formais de trabalho</strong>'
 date: 2022-10-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

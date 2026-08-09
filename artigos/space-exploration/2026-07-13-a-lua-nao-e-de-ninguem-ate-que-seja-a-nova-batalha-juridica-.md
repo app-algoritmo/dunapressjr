@@ -3,7 +3,7 @@ title: "A lua não é de ninguém — até que seja: a nova batalha jurídica qu
 subtitle: "Enquanto SpaceX, Blue Origin e consórcios chineses aceleram missões lunares com fins comerciais, a ausência de um regime internacional de propriedade e exploração cria um vácuo legal que pode custar trilhões — e reeditará as disputas coloniais do século XIX em órbita."
 date: 2026-07-13
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - space-exploration
 description: "A corrida para explorar hélio-3 e água lunar está avançando mais rápido do que qualquer tratado internacional consegue acompanhar. O vácuo jurídico criado pelo silêncio do Tratado do Espaço Exterior de 1967 sobre mineração comercial pode definir quem domina a economia do espaço profundo — e o Brasil tem assento nessa mesa, se quiser."

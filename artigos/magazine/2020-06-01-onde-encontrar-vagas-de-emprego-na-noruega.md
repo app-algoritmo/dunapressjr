@@ -2,7 +2,7 @@
 title: Onde encontrar vagas de emprego na Noruega?
 date: 2020-06-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

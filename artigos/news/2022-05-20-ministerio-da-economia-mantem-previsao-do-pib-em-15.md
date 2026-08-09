@@ -2,7 +2,7 @@
 title: Ministério da Economia mantém previsão do PIB em 1,5%
 date: 2022-05-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

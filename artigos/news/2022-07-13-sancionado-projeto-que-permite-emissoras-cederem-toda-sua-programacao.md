@@ -2,7 +2,7 @@
 title: Sancionado projeto que permite emissoras cederem toda sua programação
 date: 2022-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

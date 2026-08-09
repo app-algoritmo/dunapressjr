@@ -3,7 +3,7 @@ title: "Parece especulação, mas é infraestrutura: como o blockchain saiu das 
 subtitle: "Em 2026, bancos centrais, fundos soberanos e tesourarias corporativas já não debatem se devem usar blockchain — debatem como fazê-lo sem perder o controle."
 date: 2026-07-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - criptomoedas
 description: "A adoção institucional de ativos digitais atingiu um ponto de inflexão em 2026: não se trata mais de tolerância ao risco, mas de competição por posicionamento em uma nova camada financeira global. Quem ainda trata o tema como nicho especulativo pode estar lendo o mapa errado."

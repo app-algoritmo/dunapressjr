@@ -2,7 +2,7 @@
 title: Coronavírus, quais países estão fechados e quem é o próximo?
 date: 2020-03-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

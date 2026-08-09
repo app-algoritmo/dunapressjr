@@ -2,7 +2,7 @@
 title: Ibovespa encerrou a sexta-feira em queda
 date: 2023-11-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

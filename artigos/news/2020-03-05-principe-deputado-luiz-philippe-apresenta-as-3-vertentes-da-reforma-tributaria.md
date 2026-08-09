@@ -2,7 +2,7 @@
 title: Príncipe Deputado Luiz Philippe apresenta as 3 vertentes da Reforma Tributária
 date: 2020-03-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

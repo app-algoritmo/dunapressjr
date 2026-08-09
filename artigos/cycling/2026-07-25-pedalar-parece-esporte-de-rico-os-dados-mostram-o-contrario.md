@@ -3,7 +3,7 @@ title: "Pedalar parece esporte de rico — os dados mostram o contrário"
 subtitle: "Enquanto o Tour de France 2026 domina as telas, uma silenciosa revolução de duas rodas redesenha como brasileiros se movem, trabalham e investem nas cidades"
 date: 2026-07-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - cycling
 description: "O ciclismo vive um paradoxo visível: é glamourizado nas grandes voltas europeias e ainda estigmatizado nas ruas brasileiras — mas os números de uso, investimento e geração de renda em 2026 contam uma história diferente da narrativa do preconceito. Entender essa virada importa agora porque as decisões de infraestrutura tomadas neste ano determinarão o perfil de mobilidade das cidades brasileiras pela próxima década."

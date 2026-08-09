@@ -2,7 +2,7 @@
 title: Bolsonaro entra com ação no STF questionando inquérito das fake news
 date: 2021-08-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'As Consequências da Terceira Guerra Mundial: O Silêncio dos Contribuintes'
 date: 2024-01-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Editorial
 - Geopolitics

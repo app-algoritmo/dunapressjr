@@ -2,7 +2,7 @@
 title: Simplificação de obrigações tributárias para empresas vai a sanção
 date: 2023-07-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

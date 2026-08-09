@@ -2,7 +2,7 @@
 title: 'Ao Vivo: despedida da Rainha Elizabeth II'
 date: 2022-09-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

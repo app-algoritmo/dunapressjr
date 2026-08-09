@@ -2,7 +2,7 @@
 title: A História do Budismo
 date: 2023-09-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - History and Philosophy
 ---

@@ -2,7 +2,7 @@
 title: Indicador de mercado de trabalho da FGV sobe 1,6 ponto em abril
 date: 2021-05-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

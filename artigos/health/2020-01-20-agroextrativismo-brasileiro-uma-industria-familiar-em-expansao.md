@@ -2,7 +2,7 @@
 title: Agroextrativismo brasileiro, uma indústria familiar em expansão
 date: 2020-01-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 ---

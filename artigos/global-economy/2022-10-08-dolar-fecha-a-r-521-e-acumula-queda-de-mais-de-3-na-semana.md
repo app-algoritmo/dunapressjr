@@ -2,7 +2,7 @@
 title: Dólar fecha a R$ 5,21 e acumula queda de mais de 3% na semana
 date: 2022-10-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

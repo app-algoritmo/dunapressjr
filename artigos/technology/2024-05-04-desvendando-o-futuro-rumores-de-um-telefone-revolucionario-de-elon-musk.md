@@ -2,7 +2,7 @@
 title: 'Desvendando o Futuro: Rumores de um Telefone Revolucionário de Elon Musk'
 date: 2024-05-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

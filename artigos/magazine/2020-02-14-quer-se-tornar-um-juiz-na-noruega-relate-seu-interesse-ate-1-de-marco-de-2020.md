@@ -1,8 +1,8 @@
 ---
-title: Quer se tornar um juiz na Noruega?, relate seu interesse até 1º de março de  2020
+title: Quer se tornar um juiz na Noruega?, relate seu interesse até 1º de março de 2020
 date: 2020-02-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

@@ -3,7 +3,7 @@ title: Secretários de Fazenda definem alíquota única para operações com pla
   de importação de remessas expressas
 date: 2023-06-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

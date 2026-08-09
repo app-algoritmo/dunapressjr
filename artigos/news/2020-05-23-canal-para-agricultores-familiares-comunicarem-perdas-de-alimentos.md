@@ -2,7 +2,7 @@
 title: Canal para agricultores familiares comunicarem perdas de alimentos
 date: 2020-05-23
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

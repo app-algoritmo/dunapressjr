@@ -2,7 +2,7 @@
 title: Convocação para a Coletânea 'Neon Punk'
 date: 2024-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Literature
 ---

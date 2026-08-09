@@ -2,7 +2,7 @@
 title: Índice de Confiança do Empresário Industrial cai 0,4 ponto
 date: 2022-03-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

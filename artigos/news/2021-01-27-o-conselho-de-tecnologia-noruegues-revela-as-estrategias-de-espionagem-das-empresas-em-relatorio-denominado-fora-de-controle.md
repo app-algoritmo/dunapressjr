@@ -3,7 +3,7 @@ title: O Conselho de Tecnologia norueguês revela as estratégias de espionagem 
   empresas em relatório denominado 'Fora de Controle'
 date: 2021-01-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

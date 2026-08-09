@@ -2,7 +2,7 @@
 title: Previsões do mercado financeiro indicam redução contínua na inflação
 date: 2023-11-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

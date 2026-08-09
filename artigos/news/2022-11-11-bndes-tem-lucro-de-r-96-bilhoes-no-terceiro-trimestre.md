@@ -2,7 +2,7 @@
 title: BNDES tem lucro de R$ 9,6 bilhões no terceiro trimestre
 date: 2022-11-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

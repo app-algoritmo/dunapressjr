@@ -3,7 +3,7 @@ title: O uso das palavras Deus, Pátria e família incendeiam a mídia nefasta b
   causando a queda do secretário Roberto Alvim do governo Bolsonaro
 date: 2020-01-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Opinion

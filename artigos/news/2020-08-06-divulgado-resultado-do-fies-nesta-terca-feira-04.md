@@ -2,7 +2,7 @@
 title: Divulgado resultado do Fies nesta terça-feira (04)
 date: 2020-08-06
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

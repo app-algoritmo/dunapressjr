@@ -2,7 +2,7 @@
 title: Explorando o Legado de Sabedoria de Sócrates!
 date: 2024-07-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

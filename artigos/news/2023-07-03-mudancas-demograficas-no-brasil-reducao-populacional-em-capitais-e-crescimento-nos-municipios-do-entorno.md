@@ -3,7 +3,7 @@ title: 'Mudanças demográficas no Brasil: Redução populacional em capitais e 
   nos municípios do entorno'
 date: 2023-07-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

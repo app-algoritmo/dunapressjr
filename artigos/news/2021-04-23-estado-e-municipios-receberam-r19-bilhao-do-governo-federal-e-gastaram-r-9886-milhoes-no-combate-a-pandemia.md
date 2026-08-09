@@ -3,7 +3,7 @@ title: Estado e municípios receberam R$1,9 bilhão do Governo Federal e gastara
   988,6 milhões no combate à pandemia
 date: 2021-04-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

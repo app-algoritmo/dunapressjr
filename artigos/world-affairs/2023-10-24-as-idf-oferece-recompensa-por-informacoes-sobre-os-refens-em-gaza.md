@@ -2,7 +2,7 @@
 title: As IDF oferece recompensa por informações sobre os reféns em Gaza
 date: 2023-10-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

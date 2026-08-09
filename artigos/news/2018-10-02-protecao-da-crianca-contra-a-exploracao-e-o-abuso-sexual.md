@@ -2,7 +2,7 @@
 title: Proteção da criança contra a exploração e o abuso sexual
 date: 2018-10-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

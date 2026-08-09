@@ -2,7 +2,7 @@
 title: Felicidade, necessidades e condições das crianças no mundo
 date: 2019-11-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

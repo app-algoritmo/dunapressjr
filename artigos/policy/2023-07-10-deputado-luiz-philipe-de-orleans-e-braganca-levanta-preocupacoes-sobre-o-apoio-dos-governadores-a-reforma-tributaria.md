@@ -3,7 +3,7 @@ title: Deputado Luiz Philipe de Orleans e Bragança levanta preocupações sobre
   dos governadores à reforma tributária
 date: 2023-07-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

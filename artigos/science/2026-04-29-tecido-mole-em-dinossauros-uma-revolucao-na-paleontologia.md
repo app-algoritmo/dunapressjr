@@ -2,7 +2,7 @@
 title: "Tecido Mole em Dinossauros: Uma Revolução na Paleontologia"
 date: 2026-04-29
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - science
 ---

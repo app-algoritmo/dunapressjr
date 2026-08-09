@@ -2,7 +2,7 @@
 title: Operação Petróleo Real fiscaliza postos de combustíveis em SC
 date: 2022-11-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

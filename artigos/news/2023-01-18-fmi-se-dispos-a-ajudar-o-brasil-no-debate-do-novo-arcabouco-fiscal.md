@@ -2,7 +2,7 @@
 title: FMI se dispôs a ajudar o Brasil no debate do novo arcabouço fiscal
 date: 2023-01-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

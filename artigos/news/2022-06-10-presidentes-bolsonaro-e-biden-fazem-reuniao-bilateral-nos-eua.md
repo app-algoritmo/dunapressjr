@@ -2,7 +2,7 @@
 title: Presidentes Bolsonaro e Biden fazem reunião bilateral nos EUA
 date: 2022-06-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

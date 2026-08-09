@@ -2,7 +2,7 @@
 title: 'Japão: Naruhito presta homenagem ao pai em seu primeiro discurso como imperador'
 date: 2019-05-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

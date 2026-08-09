@@ -2,7 +2,7 @@
 title: Carga tributária bruta do Governo Geral chega a 33,90% do PIB em 2021
 date: 2022-04-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

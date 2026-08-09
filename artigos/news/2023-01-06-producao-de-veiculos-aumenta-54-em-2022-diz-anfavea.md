@@ -2,7 +2,7 @@
 title: Produção de veículos aumenta 5,4% em 2022, diz Anfavea
 date: 2023-01-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

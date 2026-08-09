@@ -2,7 +2,7 @@
 title: Governo peruano declara estado de emergência por 30 dias
 date: 2022-12-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

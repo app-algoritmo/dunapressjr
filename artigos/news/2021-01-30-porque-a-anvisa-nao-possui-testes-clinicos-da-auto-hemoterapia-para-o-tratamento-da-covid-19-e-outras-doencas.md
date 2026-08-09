@@ -3,7 +3,7 @@ title: Porque a Anvisa não possui testes clínicos da Auto-Hemoterapia para o t
   da covid-19 e outras doenças?
 date: 2021-01-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

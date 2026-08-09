@@ -3,7 +3,7 @@ title: 'Semana Noruega-Brasil com seminários no Rio e em São Paulo: Aquicultur
   Energias renováveis'
 date: 2018-10-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - News

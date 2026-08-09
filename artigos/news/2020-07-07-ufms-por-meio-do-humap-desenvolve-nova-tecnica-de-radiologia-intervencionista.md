@@ -2,7 +2,7 @@
 title: UFMS, por meio do Humap, desenvolve nova técnica de radiologia intervencionista
 date: 2020-07-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

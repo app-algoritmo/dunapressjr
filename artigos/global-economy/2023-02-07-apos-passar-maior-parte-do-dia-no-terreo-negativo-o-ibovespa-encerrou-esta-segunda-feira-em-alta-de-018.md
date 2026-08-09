@@ -3,7 +3,7 @@ title: Após passar maior parte do dia no térreo negativo, o Ibovespa encerrou 
   segunda-feira em alta de 0,18%
 date: 2023-02-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

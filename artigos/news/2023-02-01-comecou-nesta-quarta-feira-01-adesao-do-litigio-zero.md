@@ -2,7 +2,7 @@
 title: Começou nesta quarta-feira (01) adesão do Litígio Zero
 date: 2023-02-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

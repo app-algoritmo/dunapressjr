@@ -2,7 +2,7 @@
 title: <strong>Clima econômico do Brasil cresce 30 pontos, revela FGV</strong>
 date: 2022-11-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

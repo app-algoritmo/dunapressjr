@@ -2,7 +2,7 @@
 title: BC aprova mudança para liberar compras com cartão Visa no WhatsApp
 date: 2022-11-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

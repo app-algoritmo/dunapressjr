@@ -3,7 +3,7 @@ title: "O Brasil tem 47 atletas no ranking mundial top-10 e ainda debate se espo
 subtitle: "Enquanto a delegação brasileira bate recordes de presença em competições internacionais em 2026, o financiamento federal ao esporte de alto rendimento segue abaixo do patamar de 2012 — e o paradoxo revela muito sobre como o país enxerga seus campeões."
 date: 2026-07-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - sports
 description: "O Brasil acumula 47 atletas entre os dez melhores do mundo em suas modalidades, mas investe proporcionalmente menos em esporte de alto rendimento do que em 2012, ano do auge olímpico brasileiro. O paradoxo entre desempenho e investimento expõe uma tensão estrutural que define — e limita — o futuro do esporte nacional."

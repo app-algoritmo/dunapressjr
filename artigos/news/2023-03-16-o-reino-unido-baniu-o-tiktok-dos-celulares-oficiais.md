@@ -2,7 +2,7 @@
 title: O Reino Unido baniu o TikTok dos celulares oficiais
 date: 2023-03-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

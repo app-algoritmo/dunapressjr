@@ -2,7 +2,7 @@
 title: Banco Central inicia testes com plataforma do real digital
 date: 2023-03-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

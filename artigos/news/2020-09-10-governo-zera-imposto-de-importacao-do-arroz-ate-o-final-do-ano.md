@@ -2,7 +2,7 @@
 title: Governo zera imposto de importação do arroz até o final do ano
 date: 2020-09-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

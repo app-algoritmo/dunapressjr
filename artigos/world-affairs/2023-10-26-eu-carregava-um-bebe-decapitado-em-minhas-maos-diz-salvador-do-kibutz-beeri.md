@@ -2,7 +2,7 @@
 title: Eu carregava um bebê decapitado em minhas mãos', diz salvador do Kibutz Be'eri
 date: 2023-10-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

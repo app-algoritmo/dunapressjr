@@ -3,7 +3,7 @@ title: Receita abre nesta terça-feira (24) consulta ao primeiro lote de restitu
   do IRPF 2022
 date: 2022-05-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

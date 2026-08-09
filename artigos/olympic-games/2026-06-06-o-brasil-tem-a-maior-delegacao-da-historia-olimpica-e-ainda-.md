@@ -3,7 +3,7 @@ title: "O Brasil tem a maior delegação da história olímpica — e ainda não
 subtitle: "A 51 dias dos Jogos de Los Angeles 2028, o COB apresenta números recordes de classificados, mas o debate real está nos modelos de financiamento, na renovação geracional e no que significa 'ser potência olímpica' numa era em que medalha não é mais o único critério."
 date: 2026-06-06
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - olympic-games
 description: "O Brasil projeta sua maior delegação olímpica da história para Los Angeles 2028, com mais de 320 atletas já classificados em junho de 2026 — mas o recorde de participação esconde uma tensão estrutural: o país ainda distribui recursos esportivos com critérios do século passado. Entender essa equação é entender por que o Brasil ganha medalhas apesar do sistema, não graças a ele."

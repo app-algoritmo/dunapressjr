@@ -3,7 +3,7 @@ title: "Quem vai ser dono da Lua — e por que essa disputa já começou sem que
 subtitle: "Enquanto SpaceX, Blue Origin e agências estatais aceleram programas de pouso lunar, o vácuo jurídico no espaço se torna o novo campo de batalha geopolítico do século 21."
 date: 2026-06-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - space-exploration
 description: "A corrida para retornar à Lua não é mais ficção científica nem monopólio de governos: empresas privadas e potências rivais competem por recursos, rotas e posições estratégicas em solo lunar. O que parece aventura tecnológica é, na prática, a maior disputa por território não regulamentado desde o século XIX."

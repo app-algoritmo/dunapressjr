@@ -2,7 +2,7 @@
 title: Tesouro libera 1ª parcela de auxílio a estados, municípios e DF
 date: 2020-06-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

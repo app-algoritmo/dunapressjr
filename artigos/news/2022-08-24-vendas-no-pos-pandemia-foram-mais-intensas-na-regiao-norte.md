@@ -2,7 +2,7 @@
 title: Vendas no pós-pandemia foram mais intensas na Região Norte
 date: 2022-08-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

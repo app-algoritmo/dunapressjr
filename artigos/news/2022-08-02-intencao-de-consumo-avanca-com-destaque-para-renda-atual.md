@@ -2,7 +2,7 @@
 title: Intenção de consumo avança, com destaque para renda atual
 date: 2022-08-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

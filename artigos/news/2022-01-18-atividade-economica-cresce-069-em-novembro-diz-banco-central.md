@@ -2,7 +2,7 @@
 title: Atividade econômica cresce 0,69% em novembro, diz Banco Central
 date: 2022-01-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

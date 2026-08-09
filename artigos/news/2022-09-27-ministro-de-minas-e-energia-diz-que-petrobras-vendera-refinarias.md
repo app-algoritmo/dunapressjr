@@ -2,7 +2,7 @@
 title: Ministro de Minas e Energia diz que Petrobras venderá refinarias
 date: 2022-09-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

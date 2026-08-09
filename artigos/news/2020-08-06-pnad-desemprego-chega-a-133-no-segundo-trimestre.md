@@ -2,7 +2,7 @@
 title: 'Pnad: desemprego chega a 13,3% no segundo trimestre'
 date: 2020-08-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

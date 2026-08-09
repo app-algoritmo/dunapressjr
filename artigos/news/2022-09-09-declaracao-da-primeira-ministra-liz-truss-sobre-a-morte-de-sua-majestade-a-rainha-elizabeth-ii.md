@@ -3,7 +3,7 @@ title: Declaração da primeira-ministra Liz Truss sobre a morte de Sua Majestad
   Rainha Elizabeth II
 date: 2022-09-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

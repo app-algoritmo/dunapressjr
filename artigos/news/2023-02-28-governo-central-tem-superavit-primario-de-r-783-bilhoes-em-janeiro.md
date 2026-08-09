@@ -2,7 +2,7 @@
 title: Governo Central tem superávit primário de R$ 78,3 bilhões em janeiro
 date: 2023-02-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

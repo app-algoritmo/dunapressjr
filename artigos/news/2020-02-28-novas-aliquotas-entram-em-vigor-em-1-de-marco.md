@@ -2,7 +2,7 @@
 title: Novas alíquotas entram em vigor em 1º de março
 date: 2020-02-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

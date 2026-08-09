@@ -3,12 +3,12 @@ title: "O Brasil planta com drone e colhe com dado: como a agricultura de precis
 subtitle: "A tecnologia que começou nos grandes latifúndios do Cerrado chegou às cooperativas da agricultura familiar — e está redesenhando quem decide o que o país come."
 date: 2026-08-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - agriculture
 description: "A agricultura de precisão — drones, sensores e inteligência artificial aplicados ao campo — ultrapassou 4 milhões de hectares monitorados no Brasil em 2026, chegando pela primeira vez às pequenas propriedades via cooperativas. O dado muda a conversa sobre quem lidera a modernização do agro e o que isso significa para a mesa dos brasileiros."
 featuredImage: "https://images.unsplash.com/photo-1781332151527-d4098002ef15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTA1ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYyNzQ4MDV8&ixlib=rb-4.1.0&q=80&w=1080"
-photoAuthor: "Bernd 📷 Dittrich"
+photoAuthor: "Bernd Dittrich"
 photoAuthorUrl: "https://unsplash.com/@hdbernd"
 photoSource: "Unsplash"
 tags:

@@ -3,7 +3,7 @@ title: "O Brasil que exporta vento: como 11 GW de energia eólica offshore redef
 subtitle: "Com um pipeline offshore que supera o da maioria dos países europeus e leilões previstos para 2027, o Brasil entra na disputa por um mercado de US$ 1 trilhão — mas o prazo para ocupar o lugar certo na cadeia é menor do que parece."
 date: 2026-07-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - energias-renovaveis
 description: "O Brasil acumula um pipeline de 11 GW em projetos eólicos offshore em análise no Ibama e na Marinha, posicionando-se como um dos maiores mercados emergentes do segmento no mundo. A janela para garantir protagonismo na cadeia produtiva global — e não apenas ser mais um comprador de turbinas europeias — está se fechando antes dos primeiros leilões."

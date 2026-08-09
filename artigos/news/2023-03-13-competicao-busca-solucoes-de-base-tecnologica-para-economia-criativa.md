@@ -2,7 +2,7 @@
 title: Competição busca soluções de base tecnológica para economia criativa
 date: 2023-03-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

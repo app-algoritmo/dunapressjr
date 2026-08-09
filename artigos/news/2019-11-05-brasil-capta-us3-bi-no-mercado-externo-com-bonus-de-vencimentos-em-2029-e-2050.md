@@ -3,7 +3,7 @@ title: Brasil capta US$3 bi no mercado externo com bônus de vencimentos em 2029
   2050
 date: 2019-11-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

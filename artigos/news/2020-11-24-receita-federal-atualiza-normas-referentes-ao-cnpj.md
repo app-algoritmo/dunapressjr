@@ -2,7 +2,7 @@
 title: Receita Federal atualiza normas referentes ao CNPJ
 date: 2020-11-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

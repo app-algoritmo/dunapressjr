@@ -2,7 +2,7 @@
 title: UFGO tem físicos e biólogos pesquisando medicamentos para combater o Coronavírus
 date: 2020-06-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'FGV: Índice de Variação de Aluguéis Residenciais varia 4,20% em jane
   2023'
 date: 2023-02-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

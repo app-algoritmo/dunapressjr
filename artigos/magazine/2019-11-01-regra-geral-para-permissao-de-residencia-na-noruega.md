@@ -2,7 +2,7 @@
 title: Regra geral para permissão de residência na Noruega
 date: 2019-11-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Tourism and Gastronomy

@@ -2,7 +2,7 @@
 title: Governo prepara fiscais para evitar novas tragédias em barragens
 date: 2019-03-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

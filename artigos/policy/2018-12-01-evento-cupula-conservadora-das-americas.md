@@ -2,7 +2,7 @@
 title: 'Evento: Cúpula Conservadora das Américas'
 date: 2018-12-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

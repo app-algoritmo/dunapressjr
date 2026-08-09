@@ -3,7 +3,7 @@ title: Nordeste será a próxima região de desenvolvimento do Brasil, através 
   Agronordeste, por tecnologias e assistência técnica
 date: 2020-07-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

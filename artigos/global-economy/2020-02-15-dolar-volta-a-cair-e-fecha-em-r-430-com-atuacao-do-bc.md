@@ -2,7 +2,7 @@
 title: Dólar volta a cair e fecha em R$ 4,30 com atuação do BC
 date: 2020-02-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

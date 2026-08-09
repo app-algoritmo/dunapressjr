@@ -2,7 +2,7 @@
 title: Copom iniciou quinta reunião do ano para definir taxa Selic
 date: 2022-08-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Receita Federal regulamenta Programa Nacional de Apoio às Microempresas 
   de Pequeno Porte
 date: 2020-06-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

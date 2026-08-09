@@ -2,7 +2,7 @@
 title: Índice de Operação de Governança do Ministério da Economia supera a meta prevista
 date: 2021-04-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

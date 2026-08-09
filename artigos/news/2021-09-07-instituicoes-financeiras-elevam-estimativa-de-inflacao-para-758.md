@@ -2,7 +2,7 @@
 title: Instituições financeiras elevam estimativa de inflação para 7,58%
 date: 2021-09-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

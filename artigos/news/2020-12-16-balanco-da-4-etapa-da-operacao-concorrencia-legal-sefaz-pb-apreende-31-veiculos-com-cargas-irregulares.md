@@ -3,7 +3,7 @@ title: 'Balanço da 4ª etapa da ‘OPERAÇÃO CONCORRÊNCIA LEGAL’: SEFAZ - P
   31 veículos com cargas irregulares'
 date: 2020-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

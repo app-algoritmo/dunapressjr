@@ -3,7 +3,7 @@ title: Receita abre nesta quinta-feira, 24/3, consulta a lote residual de restit
   do IRPF de exercícios anteriores
 date: 2022-03-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Índice Nacional da Construção Civil sobe 1,48% em julho
 date: 2022-08-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

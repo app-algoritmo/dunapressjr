@@ -2,7 +2,7 @@
 title: "KC-390 vs C-130: Explorando Maravilhas Magníficas da Engenharia e a Preferência Crescente da OTAN pelo KC-390 Brasileiro"
 date: 2026-05-03
 status: publish
-author: Duna Press Redação
+author: "Redação Duna Press"
 categories:
   - technology
 tags:

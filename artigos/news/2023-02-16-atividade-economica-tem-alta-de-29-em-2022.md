@@ -2,7 +2,7 @@
 title: Atividade econômica tem alta de 2,9% em 2022
 date: 2023-02-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

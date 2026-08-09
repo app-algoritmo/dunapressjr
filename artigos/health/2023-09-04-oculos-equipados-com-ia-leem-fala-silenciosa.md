@@ -2,7 +2,7 @@
 title: Óculos equipados com IA lêem fala silenciosa
 date: 2023-09-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 - Science

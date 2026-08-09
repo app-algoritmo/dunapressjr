@@ -2,7 +2,7 @@
 title: '17 de Maio: O Dia Nacional da Noruega'
 date: 2024-05-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Culture and History
 - Magazine

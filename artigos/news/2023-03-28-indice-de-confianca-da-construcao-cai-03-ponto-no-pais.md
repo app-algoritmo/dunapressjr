@@ -2,7 +2,7 @@
 title: Índice de Confiança da Construção cai 0,3 ponto no país
 date: 2023-03-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "Seu cachorro sente sua ansiedade antes de você? A ciência finalmente t
 subtitle: "Pesquisas publicadas em 2025 revelam que cães detectam alterações bioquímicas humanas com até 93% de precisão — e isso está mudando desde protocolos clínicos até o mercado pet brasileiro, que fatura R$ 68 bilhões ao ano."
 date: 2026-06-14
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - pets
 description: "Estudos recentes comprovam que cães identificam o estado emocional humano por sinais químicos no suor e na respiração, com precisão superior à de muitos dispositivos vestíveis. No Brasil, onde o mercado pet cresceu 14% em 2024 e já supera o setor de brinquedos infantis, essa descoberta abre um novo capítulo tanto para a medicina quanto para quem simplesmente divide o sofá com um vira-lata."

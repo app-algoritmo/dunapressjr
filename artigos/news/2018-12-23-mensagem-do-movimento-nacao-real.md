@@ -2,7 +2,7 @@
 title: Mensagem do Movimento Nação Real
 date: 2018-12-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

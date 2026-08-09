@@ -1,5 +1,5 @@
 ---
-title: Por determinação da ANS,  exame de detecção do Coronavírus será  procedimento
+title: Por determinação da ANS, exame de detecção do Coronavírus será procedimento
   obrigatório
 date: 2020-03-16
 status: publish

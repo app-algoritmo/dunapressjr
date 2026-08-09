@@ -2,7 +2,7 @@
 title: 'O Impacto do Açúcar no Câncer de Mama: Prevenção e Dietas Pós-Cirurgia'
 date: 2024-10-25
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Health
 - Science

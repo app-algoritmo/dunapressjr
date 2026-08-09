@@ -2,7 +2,7 @@
 title: Chilenos aguardam 2023 com 89% de pessimismo
 date: 2022-12-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

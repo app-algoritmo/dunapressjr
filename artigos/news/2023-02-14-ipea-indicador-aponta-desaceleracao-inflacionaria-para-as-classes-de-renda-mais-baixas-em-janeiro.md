@@ -3,7 +3,7 @@ title: 'IPEA: Indicador aponta desaceleração inflacionária para as classes de
   mais baixas em janeiro'
 date: 2023-02-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

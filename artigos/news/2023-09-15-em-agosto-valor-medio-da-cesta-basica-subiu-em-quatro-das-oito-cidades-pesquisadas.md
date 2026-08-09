@@ -2,7 +2,7 @@
 title: Em agosto, valor médio da cesta básica subiu em quatro das oito cidades pesquisadas
 date: 2023-09-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

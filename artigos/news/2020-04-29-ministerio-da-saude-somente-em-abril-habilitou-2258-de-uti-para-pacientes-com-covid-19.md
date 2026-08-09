@@ -1,5 +1,5 @@
 ---
-title: Ministério da Saúde somente em abril habilitou 2.258  de UTI para pacientes
+title: Ministério da Saúde somente em abril habilitou 2.258 de UTI para pacientes
   com Covid-19
 date: 2020-04-29
 status: publish

@@ -3,7 +3,7 @@ title: Fotos do XIV Prêmio Paul Donovan Kigar de honra ao mérito por realizaç
   vida
 date: 2018-12-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

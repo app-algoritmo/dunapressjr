@@ -3,7 +3,7 @@ title: 'Tensões na Igreja Católica: Conservadorismo versus Progressismo nas B�
   para Casais do mesmo sexo'
 date: 2023-12-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

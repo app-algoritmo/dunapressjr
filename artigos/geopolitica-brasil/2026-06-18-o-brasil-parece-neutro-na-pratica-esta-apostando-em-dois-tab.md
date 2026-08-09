@@ -3,7 +3,7 @@ title: "O Brasil parece neutro: na prática, está apostando em dois tabuleiros 
 subtitle: "Entre a cúpula do Mercosul em julho e a presidência pro tempore do BRICS em 2025, Brasília acumula protagonismo diplomático inédito — mas a estratégia da 'ambiguidade ativa' começa a cobrar seu preço nos bastidores."
 date: 2026-06-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitica-brasil
 description: "O Brasil acumula em 2026 dois palcos diplomáticos de peso simultâneo — a presidência do Mercosul e os desdobramentos pós-cúpula do BRICS — e a aposta na autonomia estratégica começa a revelar contradições internas que vão muito além do discurso da multipolaridade. Entender a geometria real da política externa brasileira é entender onde o país pretende estar em 2030."

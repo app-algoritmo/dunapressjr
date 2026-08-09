@@ -2,7 +2,7 @@
 title: Prefeitura do Rio autoriza criptomoedas para pagamento do IPTU 2023
 date: 2022-10-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

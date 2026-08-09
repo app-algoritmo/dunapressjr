@@ -1,5 +1,5 @@
 ---
-title: Conheça o que é  Botulismo
+title: Conheça o que é Botulismo
 date: 2021-12-18
 status: publish
 author: Joice Ferreira

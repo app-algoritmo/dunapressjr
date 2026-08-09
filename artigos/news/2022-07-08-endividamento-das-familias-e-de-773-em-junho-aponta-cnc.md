@@ -2,7 +2,7 @@
 title: Endividamento das famílias é de 77,3% em junho, aponta CNC
 date: 2022-07-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

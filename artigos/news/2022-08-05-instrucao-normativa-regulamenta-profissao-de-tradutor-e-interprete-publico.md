@@ -2,7 +2,7 @@
 title: Instrução Normativa regulamenta profissão de tradutor e intérprete público
 date: 2022-08-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

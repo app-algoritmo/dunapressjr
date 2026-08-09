@@ -2,7 +2,7 @@
 title: Consórcio Infraestrutura MG vence leilão de lote rodoviário em Minas
 date: 2022-08-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

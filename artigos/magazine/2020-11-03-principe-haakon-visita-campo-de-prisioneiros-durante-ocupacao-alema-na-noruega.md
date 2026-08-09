@@ -2,7 +2,7 @@
 title: Principe Haakon visita campo de prisioneiros durante ocupação alemã na Noruega
 date: 2020-11-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

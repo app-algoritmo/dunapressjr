@@ -2,7 +2,7 @@
 title: Testamos o novo serviço de transferências PayPal Brasil e veja o que aconteceu
 date: 2022-10-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

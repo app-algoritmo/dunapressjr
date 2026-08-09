@@ -2,7 +2,7 @@
 title: Implantes dentários crescem 15% ao ano no Brasil
 date: 2020-11-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

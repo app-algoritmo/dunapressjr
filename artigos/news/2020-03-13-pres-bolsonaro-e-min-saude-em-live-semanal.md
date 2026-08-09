@@ -2,7 +2,7 @@
 title: Pres. Bolsonaro e Min. Saúde em live semanal
 date: 2020-03-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

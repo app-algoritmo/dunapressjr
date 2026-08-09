@@ -3,7 +3,7 @@ title: "O Brasil parece neutro — mas está fazendo uma escolha muito clara"
 subtitle: "Entre BRICS e Mercosul, a política externa brasileira de 2026 não é omissão: é uma aposta calculada em multipolaridade que começa a cobrar seu preço."
 date: 2026-07-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitica-brasil
 description: "O Brasil acumula cadeiras em blocos rivais — BRICS, G20, Mercosul, CELAC — e apresenta isso como equilíbrio estratégico. Mas com a rodada de Doha climática em Belém marcada para novembro e a eleição americana redesenhando alianças, a conta da ambiguidade começa a chegar."

@@ -2,7 +2,7 @@
 title: Varejo paraibano cresce 12,8% em setembro, revela IBGE
 date: 2020-11-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

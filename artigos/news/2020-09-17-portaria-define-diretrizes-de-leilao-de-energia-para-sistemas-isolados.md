@@ -2,7 +2,7 @@
 title: Portaria define diretrizes de leilão de energia para sistemas isolados
 date: 2020-09-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

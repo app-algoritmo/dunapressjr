@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,24 com medo de recessão no exterior
 date: 2022-09-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: 'Banco Central: futuro dos juros dependerá de guerra e outros choques'
 date: 2022-04-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

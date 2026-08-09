@@ -2,7 +2,7 @@
 title: Tesouro lança painel de monitoramento dos gastos da União com combate à COVID-19
 date: 2020-04-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Comissão de Orçamento da ALPB aprova MP que vai beneficiar pequenos negócios
 date: 2020-06-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

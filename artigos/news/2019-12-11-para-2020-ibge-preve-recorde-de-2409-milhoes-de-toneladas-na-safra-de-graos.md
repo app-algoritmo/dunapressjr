@@ -2,7 +2,7 @@
 title: Para 2020, IBGE prevê recorde de 240,9 milhões de toneladas na safra de grãos
 date: 2019-12-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

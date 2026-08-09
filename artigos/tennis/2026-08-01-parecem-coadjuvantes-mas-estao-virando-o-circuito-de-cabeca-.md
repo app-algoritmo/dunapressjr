@@ -3,7 +3,7 @@ title: "Parecem coadjuvantes, mas estão virando o circuito de cabeça para baix
 subtitle: "Uma geração de tenistas nascidos após 2000 acumulou mais títulos ATP e WTA no primeiro semestre de 2026 do que em qualquer período equivalente desde a estreia de Rafael Nadal em 2001 — e os bastidores revelam por que isso não é acidente."
 date: 2026-08-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tennis
 description: "Tenistas nascidos após 2000 dominaram 11 dos 18 torneios Masters e WTA 1000 disputados até julho de 2026, quebrando um padrão de longevidade que definia o esporte há duas décadas. Entender como isso aconteceu exige olhar para além das quadras — para academias, dados biomecânicos e uma mudança silenciosa na forma como o tênis forma campeões."

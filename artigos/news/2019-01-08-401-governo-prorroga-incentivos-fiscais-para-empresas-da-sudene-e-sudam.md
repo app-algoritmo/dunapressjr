@@ -2,7 +2,7 @@
 title: 4.01 Governo prorroga incentivos fiscais para empresas da Sudene e Sudam
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

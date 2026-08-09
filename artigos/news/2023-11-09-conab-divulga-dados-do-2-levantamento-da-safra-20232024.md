@@ -2,7 +2,7 @@
 title: Conab divulga dados do 2º levantamento da safra 2023/2024
 date: 2023-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

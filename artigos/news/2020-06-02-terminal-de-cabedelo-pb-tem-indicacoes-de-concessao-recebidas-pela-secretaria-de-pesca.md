@@ -3,7 +3,7 @@ title: Terminal de Cabedelo (PB) tem indicações de concessão recebidas pela S
   de Pesca
 date: 2020-06-02
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

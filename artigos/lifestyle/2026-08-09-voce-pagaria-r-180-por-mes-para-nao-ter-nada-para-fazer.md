@@ -3,7 +3,7 @@ title: "Você pagaria R$ 180 por mês para não ter nada para fazer?"
 subtitle: "O mercado de 'tempo deliberadamente vazio' cresce 34% ao ano no Brasil e revela uma virada silenciosa na forma como profissionais urbanos encaram produtividade, descanso e identidade."
 date: 2026-08-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - lifestyle
 description: "Clubes de ócio estruturado, retiros de silêncio e assinaturas de 'nada' movimentam um nicho crescente entre brasileiros de 30 a 50 anos que pagam para desacelerar com intenção. O fenômeno expõe uma contradição produtiva: em 2026, o luxo mais caro pode ser exatamente a ausência de agendas."

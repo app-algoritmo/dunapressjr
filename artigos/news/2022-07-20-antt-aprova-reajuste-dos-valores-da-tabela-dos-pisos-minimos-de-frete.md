@@ -2,7 +2,7 @@
 title: ANTT aprova reajuste dos valores da tabela dos pisos mínimos de frete
 date: 2022-07-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

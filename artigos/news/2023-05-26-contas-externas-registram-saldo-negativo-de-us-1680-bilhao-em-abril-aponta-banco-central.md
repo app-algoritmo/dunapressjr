@@ -3,7 +3,7 @@ title: Contas externas registram saldo negativo de US$ 1,680 bilhão em abril, a
   Banco Central
 date: 2023-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

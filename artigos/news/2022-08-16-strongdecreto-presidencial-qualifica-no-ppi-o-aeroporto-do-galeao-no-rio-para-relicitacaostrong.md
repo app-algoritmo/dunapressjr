@@ -3,7 +3,7 @@ title: <strong>Decreto presidencial qualifica no PPI o Aeroporto do Galeão, no 
   para relicitação</strong>
 date: 2022-08-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

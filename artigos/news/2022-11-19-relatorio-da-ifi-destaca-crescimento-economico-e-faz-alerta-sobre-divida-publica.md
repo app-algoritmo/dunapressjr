@@ -2,7 +2,7 @@
 title: Relatório da IFI destaca crescimento econômico e faz alerta sobre dívida pública
 date: 2022-11-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

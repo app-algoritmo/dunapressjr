@@ -2,7 +2,7 @@
 title: FMI diz que solução rápida para a Argentina 'é difícil'
 date: 2019-09-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

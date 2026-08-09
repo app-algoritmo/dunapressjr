@@ -3,7 +3,7 @@ title: Operação Cordyceps combate extração e venda irregular de minérios, s
   fiscal e lavagem de dinheiro
 date: 2023-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

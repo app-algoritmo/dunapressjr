@@ -2,7 +2,7 @@
 title: Sancionada lei de apoio à renovação da frota de caminhões e ônibus
 date: 2022-09-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

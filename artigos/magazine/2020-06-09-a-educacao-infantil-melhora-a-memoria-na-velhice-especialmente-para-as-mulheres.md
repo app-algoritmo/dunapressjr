@@ -2,7 +2,7 @@
 title: A educação infantil melhora a memória na velhice - especialmente para as mulheres
 date: 2020-06-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

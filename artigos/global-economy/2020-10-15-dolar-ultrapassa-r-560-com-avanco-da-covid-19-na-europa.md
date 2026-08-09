@@ -2,7 +2,7 @@
 title: Dólar ultrapassa R$ 5,60 com avanço da covid-19 na Europa
 date: 2020-10-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

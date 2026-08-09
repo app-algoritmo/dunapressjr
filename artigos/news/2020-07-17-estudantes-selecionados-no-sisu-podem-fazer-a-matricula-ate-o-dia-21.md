@@ -2,7 +2,7 @@
 title: Estudantes selecionados no Sisu podem fazer a matrícula até o dia 21
 date: 2020-07-17
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

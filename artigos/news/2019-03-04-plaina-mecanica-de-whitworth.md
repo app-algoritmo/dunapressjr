@@ -2,7 +2,7 @@
 title: Plaina Mecânica de Whitworth
 date: 2019-03-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Lindum, a empresa norueguesa modelo em gestão de resíduos
 date: 2018-12-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Environment

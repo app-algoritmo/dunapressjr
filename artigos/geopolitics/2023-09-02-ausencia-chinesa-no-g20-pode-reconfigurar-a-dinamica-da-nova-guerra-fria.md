@@ -2,7 +2,7 @@
 title: Ausência Chinesa no G20 Pode Reconfigurar a Dinâmica da Nova Guerra Fria
 date: 2023-09-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

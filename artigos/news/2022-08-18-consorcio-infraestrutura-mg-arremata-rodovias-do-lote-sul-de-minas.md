@@ -2,7 +2,7 @@
 title: Consórcio Infraestrutura MG arremata rodovias do lote Sul de Minas
 date: 2022-08-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

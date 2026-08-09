@@ -2,7 +2,7 @@
 title: Governo Central tem segundo maior déficit para meses de maio
 date: 2022-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

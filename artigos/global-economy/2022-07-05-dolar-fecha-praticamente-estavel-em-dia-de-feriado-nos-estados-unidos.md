@@ -2,7 +2,7 @@
 title: Dólar fecha praticamente estável em dia de feriado nos Estados Unidos
 date: 2022-07-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

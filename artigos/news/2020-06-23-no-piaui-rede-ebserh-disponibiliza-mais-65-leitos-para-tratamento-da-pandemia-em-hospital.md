@@ -3,7 +3,7 @@ title: No Piauí, rede Ebserh, disponibiliza mais 65 leitos para tratamento da p
   em hospital
 date: 2020-06-23
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

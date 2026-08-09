@@ -2,7 +2,7 @@
 title: LDO-Fundo Eleitoral de R$ 5,7 bilhões
 date: 2021-12-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

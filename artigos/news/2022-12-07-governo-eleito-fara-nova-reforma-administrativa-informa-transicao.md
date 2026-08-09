@@ -2,7 +2,7 @@
 title: Governo eleito fará nova reforma administrativa, informa transição
 date: 2022-12-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

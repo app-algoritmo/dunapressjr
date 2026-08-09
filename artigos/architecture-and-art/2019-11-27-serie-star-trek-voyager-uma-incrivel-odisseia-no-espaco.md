@@ -2,7 +2,7 @@
 title: Série Star Trek 'Voyager', uma incrível odisseia no espaço
 date: 2019-11-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 ---

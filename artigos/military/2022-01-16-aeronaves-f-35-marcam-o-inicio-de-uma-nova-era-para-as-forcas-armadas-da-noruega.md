@@ -2,7 +2,7 @@
 title: Aeronaves F-35 marcam o início de uma nova era para as Forças Armadas da Noruega
 date: 2022-01-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 - News

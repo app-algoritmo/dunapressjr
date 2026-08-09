@@ -2,7 +2,7 @@
 title: Projetos selecionados para Telemedicina e Análise de Dados Médicos
 date: 2020-06-29
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

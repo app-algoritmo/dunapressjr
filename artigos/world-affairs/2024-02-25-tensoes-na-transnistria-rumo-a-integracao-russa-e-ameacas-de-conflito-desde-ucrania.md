@@ -3,7 +3,7 @@ title: 'Tensões na Transnístria: Rumo à Integração Russa e Ameaças de Conf
   Ucrânia'
 date: 2024-02-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

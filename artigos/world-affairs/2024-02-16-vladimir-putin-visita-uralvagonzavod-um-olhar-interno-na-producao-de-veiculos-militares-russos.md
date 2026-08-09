@@ -3,7 +3,7 @@ title: 'Vladimir Putin visita Uralvagonzavod: Um Olhar Interno na Produção de 
   Militares Russos'
 date: 2024-02-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

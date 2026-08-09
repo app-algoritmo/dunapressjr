@@ -2,7 +2,7 @@
 title: Economia abre consulta pública para debater nova Lei de Licitações
 date: 2021-04-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

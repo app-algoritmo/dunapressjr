@@ -2,7 +2,7 @@
 title: 'Coronavírus: Estrangeiros evacuados do epicentro do vírus'
 date: 2020-01-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

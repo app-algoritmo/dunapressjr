@@ -2,7 +2,7 @@
 title: IGP-DI registra inflação de 2,01% em janeiro
 date: 2022-02-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

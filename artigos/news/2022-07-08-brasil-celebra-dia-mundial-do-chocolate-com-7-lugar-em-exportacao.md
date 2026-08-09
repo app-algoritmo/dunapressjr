@@ -2,7 +2,7 @@
 title: Brasil celebra Dia Mundial do Chocolate com 7º lugar em exportação
 date: 2022-07-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

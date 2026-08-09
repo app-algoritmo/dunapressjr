@@ -2,7 +2,7 @@
 title: Desenvolvido ventiladores pulmonares por alunos e professores do Inatel
 date: 2020-05-17
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

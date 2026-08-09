@@ -3,7 +3,7 @@ title: Mercado financeiro eleva crescimento do PIB e reduz estimativa de inflaç
   no Brasil
 date: 2023-06-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

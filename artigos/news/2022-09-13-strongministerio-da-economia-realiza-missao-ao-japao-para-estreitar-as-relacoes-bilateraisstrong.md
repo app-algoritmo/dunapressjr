@@ -3,7 +3,7 @@ title: <strong>Ministério da Economia realiza missão ao Japão para estreitar 
   bilaterais</strong>
 date: 2022-09-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

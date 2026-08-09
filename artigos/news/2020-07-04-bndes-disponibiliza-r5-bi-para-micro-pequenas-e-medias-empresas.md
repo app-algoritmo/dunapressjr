@@ -2,7 +2,7 @@
 title: BNDES disponibiliza R$5 bi para micro, pequenas e médias empresas
 date: 2020-07-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

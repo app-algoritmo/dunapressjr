@@ -3,7 +3,7 @@ title: Tebet quer pautar quantas sessões forem necessárias na CCJ do Senado pa
   anticrime avançar
 date: 2019-12-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

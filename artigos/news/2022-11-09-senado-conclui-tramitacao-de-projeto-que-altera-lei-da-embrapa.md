@@ -2,7 +2,7 @@
 title: Senado conclui tramitação de projeto que altera Lei da Embrapa
 date: 2022-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Rússia Aumenta Tarifas de Eletricidade Nuclear
 date: 2024-01-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

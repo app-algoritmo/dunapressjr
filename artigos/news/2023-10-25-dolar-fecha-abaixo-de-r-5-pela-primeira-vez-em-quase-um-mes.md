@@ -2,7 +2,7 @@
 title: Dólar fecha abaixo de R$ 5 pela primeira vez em quase um mês
 date: 2023-10-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

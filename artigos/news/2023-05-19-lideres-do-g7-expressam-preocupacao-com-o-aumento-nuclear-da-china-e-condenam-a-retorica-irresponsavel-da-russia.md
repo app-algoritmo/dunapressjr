@@ -3,7 +3,7 @@ title: Líderes do G7 expressam preocupação com o aumento nuclear da China e c
   a retórica irresponsável da Rússia
 date: 2023-05-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

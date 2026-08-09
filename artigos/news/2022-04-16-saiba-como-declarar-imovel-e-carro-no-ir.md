@@ -2,7 +2,7 @@
 title: Saiba como declarar imóvel e carro no IR
 date: 2022-04-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

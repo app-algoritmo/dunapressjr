@@ -2,7 +2,7 @@
 title: 'Bolsonaro retorna às ruas: O poder popular contra a perseguição estatal'
 date: 2024-02-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

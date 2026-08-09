@@ -3,7 +3,7 @@ title: Governo federal e Companhia Docas/PB promovem novo marco histórico no de
   portuário da Paraíba
 date: 2022-04-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Reforço escolar para crianças internadas no hospital da Rede Ebserh de 
   Luís
 date: 2020-07-16
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

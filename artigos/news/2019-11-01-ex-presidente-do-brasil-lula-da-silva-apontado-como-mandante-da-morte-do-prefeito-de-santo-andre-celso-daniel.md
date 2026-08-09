@@ -3,7 +3,7 @@ title: Ex Presidente do Brasil Lula da Silva apontado como mandante da morte do 
   de Santo André Celso Daniel
 date: 2019-11-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

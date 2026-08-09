@@ -3,7 +3,7 @@ title: 'Cinco momentos-chave da entrevista de Tucker Carlson com Putin: Elon Mus
   é imparável'
 date: 2024-02-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - Technology

@@ -2,7 +2,7 @@
 title: IGP-10 registra inflação de 0,74% em junho, diz FGV
 date: 2022-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Começa nesta terça-feira pagamento do abono salarial do Pasep
 date: 2022-02-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

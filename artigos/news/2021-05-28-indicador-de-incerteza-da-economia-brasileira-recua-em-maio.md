@@ -2,7 +2,7 @@
 title: Indicador de incerteza da economia brasileira recua em maio
 date: 2021-05-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

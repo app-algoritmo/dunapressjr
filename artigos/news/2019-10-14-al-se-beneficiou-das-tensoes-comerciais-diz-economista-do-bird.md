@@ -2,7 +2,7 @@
 title: '''AL se beneficiou das tensões comerciais'', diz economista do Bird'
 date: 2019-10-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: A Guarda do Rei HM Harald da Noruega
 date: 2020-03-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

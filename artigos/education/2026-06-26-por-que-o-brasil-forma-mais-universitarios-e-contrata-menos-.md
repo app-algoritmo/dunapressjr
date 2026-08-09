@@ -3,7 +3,7 @@ title: "Por que o Brasil forma mais universitários e contrata menos profissiona
 subtitle: "O paradoxo entre a expansão do ensino superior brasileiro e o esvaziamento do mercado de trabalho qualificado revela uma crise silenciosa de pertinência curricular que nenhuma política pública ousou enfrentar de frente."
 date: 2026-06-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - education
 description: "O Brasil atingiu em 2025 o maior número de matrículas no ensino superior de sua história — 10,1 milhões de estudantes —, mas empresas relatam dificuldade crescente para preencher vagas que exigem raciocínio analítico e adaptabilidade. O descompasso entre o diploma e a competência é a aposta mais cara que o país faz sem perceber."

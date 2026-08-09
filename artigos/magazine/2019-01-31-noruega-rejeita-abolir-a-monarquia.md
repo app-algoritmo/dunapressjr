@@ -2,7 +2,7 @@
 title: Noruega rejeita abolir a monarquia
 date: 2019-01-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - News

@@ -2,7 +2,7 @@
 title: AGU vai acompanhar de perto cumprimento da legislação eleitoral
 date: 2022-07-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

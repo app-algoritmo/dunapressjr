@@ -2,7 +2,7 @@
 title: Rede de pesquisa ajudará no enfrentamento ao novo coronavírus
 date: 2020-02-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

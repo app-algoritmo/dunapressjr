@@ -2,7 +2,7 @@
 title: Índice de Confiança da Indústria (ICI) do FGV IBRE cai 0,4 ponto em setembro
 date: 2023-09-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

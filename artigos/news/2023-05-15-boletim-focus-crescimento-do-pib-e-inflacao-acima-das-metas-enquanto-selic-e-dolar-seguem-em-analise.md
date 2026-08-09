@@ -3,7 +3,7 @@ title: 'Boletim Focus: Crescimento do PIB e inflação acima das metas, enquanto
   e dólar seguem em análise'
 date: 2023-05-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

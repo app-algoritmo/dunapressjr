@@ -3,7 +3,7 @@ title: Aprovada pesquisa em edital da Capes para nova estratégia de tratamento 
   pacientes com coronavírus
 date: 2020-07-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

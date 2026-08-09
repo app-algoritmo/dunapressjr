@@ -2,7 +2,7 @@
 title: 'O Legado de Olavo de Carvalho e a Ascensão de Renato Amoedo: Uma Análise Contemporânea'
 date: 2024-07-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Financial Education
 ---

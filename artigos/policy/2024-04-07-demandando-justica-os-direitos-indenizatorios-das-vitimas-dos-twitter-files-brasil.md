@@ -3,7 +3,7 @@ title: 'Demandando Justiça: Os Direitos Indenizatórios das Vítimas dos ''Twit
   Brasil'''
 date: 2024-04-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

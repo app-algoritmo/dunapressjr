@@ -3,7 +3,7 @@ title: 'IBGE: Brasil registra crescimento de 4,8% na capacidade de armazenamento
   primeiro semestre de 2023'
 date: 2023-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

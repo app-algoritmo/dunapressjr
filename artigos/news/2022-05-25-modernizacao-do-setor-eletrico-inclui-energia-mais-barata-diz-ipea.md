@@ -2,7 +2,7 @@
 title: Modernização do setor elétrico inclui energia mais barata, diz Ipea
 date: 2022-05-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: "A Era dos Materiais Programáveis: Como a Matéria Inteligente Vai Redesenhar a Civilização"
 date: 2026-05-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - science
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778599934/A_Era_dos_Materiais_Programa%CC%81veis-_Como_a_Mate%CC%81ria_Inteligente_Vai_Redesenhar_a_Civilizac%CC%A7a%CC%83o_qzvozv.jpg"

@@ -3,7 +3,7 @@ title: Medidas de prevenção para pandemia estabelecidas para frigoríficos e l
   pelo Mapa
 date: 2020-06-19
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

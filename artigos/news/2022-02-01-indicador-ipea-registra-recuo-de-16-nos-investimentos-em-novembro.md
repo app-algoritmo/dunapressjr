@@ -2,7 +2,7 @@
 title: Indicador Ipea registra recuo de 1,6% nos investimentos em novembro
 date: 2022-02-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Governo quer aumentar ações de promoção do agro brasileiro no exterior
 date: 2021-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Mercado vai valorizar mais comunicação do que capacidade técnica
 date: 2019-09-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

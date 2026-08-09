@@ -3,7 +3,7 @@ title: Decreto exclui do imposto de importação o valor da capatazia realizada 
   nacional
 date: 2022-07-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

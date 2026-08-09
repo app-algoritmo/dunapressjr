@@ -2,7 +2,7 @@
 title: Atividade econômica brasileira registra queda em agosto
 date: 2023-10-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

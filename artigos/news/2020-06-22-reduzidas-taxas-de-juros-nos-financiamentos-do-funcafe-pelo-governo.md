@@ -2,7 +2,7 @@
 title: Reduzidas taxas de juros nos financiamentos do Funcafé pelo governo
 date: 2020-06-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

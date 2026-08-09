@@ -2,7 +2,7 @@
 title: Concerto de Natal 15.12.18 - Compareça com sua Família
 date: 2018-12-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

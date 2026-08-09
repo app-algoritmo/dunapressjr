@@ -3,7 +3,7 @@ title: Câmara dos Deputados dos EUA abrirá inquérito de impeachment contra Tr
   controvérsia ucraniana
 date: 2019-09-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

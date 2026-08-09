@@ -3,7 +3,7 @@ title: 'Regeneração Celular Cerebral: Abordagens para Populações Afetadas pe
   de Saneamento Básico'
 date: 2024-07-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 ---

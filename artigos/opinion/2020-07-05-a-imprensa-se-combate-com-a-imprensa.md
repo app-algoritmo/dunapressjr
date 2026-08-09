@@ -2,7 +2,7 @@
 title: A imprensa se combate com a imprensa
 date: 2020-07-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Opinion
 ---

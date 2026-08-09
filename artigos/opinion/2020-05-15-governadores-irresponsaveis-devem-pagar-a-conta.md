@@ -2,7 +2,7 @@
 title: Governadores irresponsáveis devem pagar a conta
 date: 2020-05-15
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

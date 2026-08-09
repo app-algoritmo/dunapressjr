@@ -2,7 +2,7 @@
 title: Saque imediato do FGTS deve ser declarado no Imposto de Renda
 date: 2020-06-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

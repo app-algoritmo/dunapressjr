@@ -3,7 +3,7 @@ title: Alunos de baixa renda de instituições federais terão internet fornecid
   MEC
 date: 2020-07-02
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

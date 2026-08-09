@@ -2,7 +2,7 @@
 title: IBGE:IPCA de maio registra desaceleração, com alta de 0,23%
 date: 2023-06-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

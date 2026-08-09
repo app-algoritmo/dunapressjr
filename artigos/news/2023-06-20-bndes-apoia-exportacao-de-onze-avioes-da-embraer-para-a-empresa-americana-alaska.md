@@ -2,7 +2,7 @@
 title: BNDES apoia exportação de onze aviões da Embraer para a empresa americana Alaska
 date: 2023-06-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

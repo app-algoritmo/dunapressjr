@@ -2,7 +2,7 @@
 title: Promotoria ajuíza ação de improbidade contra ex-prefeito de Mamanguape/PB
 date: 2020-06-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

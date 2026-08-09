@@ -2,7 +2,7 @@
 title: Inmet emite alerta vermelho para chuvas no Rio Grande do Sul e em Santa Catarina
 date: 2020-07-08
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Lâmpada Incandescente Tungsram
 date: 2020-05-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

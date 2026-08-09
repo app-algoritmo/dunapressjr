@@ -2,7 +2,7 @@
 title: 'Documentário: Um golpe devastador para a “Teoria do Gênero”'
 date: 2018-03-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Documentaries
 ---

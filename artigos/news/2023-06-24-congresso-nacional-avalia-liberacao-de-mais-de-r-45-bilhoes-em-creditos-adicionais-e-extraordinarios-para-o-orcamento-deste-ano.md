@@ -3,7 +3,7 @@ title: Congresso Nacional avalia liberação de mais de R$ 4,5 bilhões em créd
   e extraordinários para o Orçamento deste ano
 date: 2023-06-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

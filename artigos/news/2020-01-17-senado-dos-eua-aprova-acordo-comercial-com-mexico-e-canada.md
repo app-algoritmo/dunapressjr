@@ -2,7 +2,7 @@
 title: Senado dos EUA aprova acordo comercial com México e Canadá
 date: 2020-01-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

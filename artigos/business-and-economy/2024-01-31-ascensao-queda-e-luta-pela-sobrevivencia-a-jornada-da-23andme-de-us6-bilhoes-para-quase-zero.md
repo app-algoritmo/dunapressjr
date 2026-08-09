@@ -3,7 +3,7 @@ title: 'Ascensão, Queda e Luta pela Sobrevivência: A Jornada da 23andMe de US$
   para Quase Zero'
 date: 2024-01-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Business and Economy
 - Finances

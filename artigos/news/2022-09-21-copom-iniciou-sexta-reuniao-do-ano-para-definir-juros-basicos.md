@@ -2,7 +2,7 @@
 title: Copom iniciou sexta reunião do ano para definir juros básicos
 date: 2022-09-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

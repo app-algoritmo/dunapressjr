@@ -3,7 +3,7 @@ title: 'IBGE: Comércio varejista cresce 0,8% em março de 2023, impulsionado po
   setores'
 date: 2023-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

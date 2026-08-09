@@ -2,7 +2,7 @@
 title: O que o governo e os argentinos devem fazer para acabar com a inflação?
 date: 2023-01-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Inovação da rede Ebserh impulsiona estudo multicêntrico sobre tratamen
   para suor excessivo
 date: 2020-07-28
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

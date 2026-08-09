@@ -2,7 +2,7 @@
 title: Vendas cresceram 13,4% no mês de agosto
 date: 2020-09-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

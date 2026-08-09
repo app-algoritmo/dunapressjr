@@ -2,7 +2,7 @@
 title: Bolsonaro só tem seus 58 milhões de eleitores
 date: 2020-06-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Opinion
 ---

@@ -2,7 +2,7 @@
 title: Lives sobre Censo Escolar realizadas pelo Inep
 date: 2020-06-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

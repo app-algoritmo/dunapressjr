@@ -2,7 +2,7 @@
 title: Receita Federal investiga esquema de fraude em deduções do IR
 date: 2020-06-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

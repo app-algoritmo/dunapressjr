@@ -3,7 +3,7 @@ title: Mais 100 laboratórios de prototipagem para educação profissional tem i
   do MEC para serem criados
 date: 2020-05-28
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

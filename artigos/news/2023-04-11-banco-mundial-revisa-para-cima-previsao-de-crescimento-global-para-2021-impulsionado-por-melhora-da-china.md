@@ -3,7 +3,7 @@ title: Banco Mundial revisa para cima previsão de crescimento global para 2021,
   por melhora da China
 date: 2023-04-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

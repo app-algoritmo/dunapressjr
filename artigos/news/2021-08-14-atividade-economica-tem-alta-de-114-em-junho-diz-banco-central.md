@@ -2,7 +2,7 @@
 title: Atividade econômica tem alta de 1,14% em junho, diz Banco Central
 date: 2021-08-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

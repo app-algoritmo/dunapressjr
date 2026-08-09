@@ -2,7 +2,7 @@
 title: Ministro da Ciência e Tecnologia destaca importância das startups
 date: 2022-10-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

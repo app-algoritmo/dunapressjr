@@ -2,7 +2,7 @@
 title: BC divulga minutas sobre nova Lei de Câmbio e Capitais Internacionais
 date: 2022-10-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

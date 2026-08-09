@@ -2,7 +2,7 @@
 title: Registros no PIX podem começar a ser feitos a partir de 5 de outubro
 date: 2020-08-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

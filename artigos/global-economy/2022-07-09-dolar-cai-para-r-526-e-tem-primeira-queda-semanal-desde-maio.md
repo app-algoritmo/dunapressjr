@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,26 e tem primeira queda semanal desde maio
 date: 2022-07-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

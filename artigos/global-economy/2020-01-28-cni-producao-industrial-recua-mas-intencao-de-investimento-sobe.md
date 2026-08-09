@@ -2,7 +2,7 @@
 title: 'CNI: produção industrial recua, mas intenção de investimento sobe'
 date: 2020-01-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

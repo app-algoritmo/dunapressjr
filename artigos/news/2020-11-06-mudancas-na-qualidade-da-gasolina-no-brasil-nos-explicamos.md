@@ -2,7 +2,7 @@
 title: Mudanças na qualidade da gasolina no Brasil? nós explicamos!!
 date: 2020-11-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

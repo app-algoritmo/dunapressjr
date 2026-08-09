@@ -3,7 +3,7 @@ title: "O Brasil joga nos dois times ao mesmo tempo — e isso pode ser sua maio
 subtitle: "Com assento nos BRICS, negociações ativas com a UE e presidência do G20 ainda reverberando, Brasília acumula credenciais raras num mundo que exige escolhas — mas até quando essa ambiguidade sustenta?"
 date: 2026-07-30
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitica-brasil
 description: "O Brasil ocupa simultaneamente espaços no BRICS ampliado, no Mercosul em renegociação com a UE e em fóruns multilaterais do Sul Global — uma posição que poucos países no mundo conseguem sustentar. A questão de julho de 2026 é saber se essa pluralidade diplomática gera poder real ou apenas prestígio sem conversão."

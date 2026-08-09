@@ -2,7 +2,7 @@
 title: Economia surpreende 'favoravelmente' no 1º trimestre, diz BC
 date: 2021-05-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

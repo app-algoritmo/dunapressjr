@@ -2,7 +2,7 @@
 title: Desemprego chega a 9,4% em abril, diz Ipea
 date: 2022-06-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

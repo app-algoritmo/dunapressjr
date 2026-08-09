@@ -2,7 +2,7 @@
 title: 'Auxílio Emergencial: 94% dos brasileiros já movimentaram recursos'
 date: 2020-05-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

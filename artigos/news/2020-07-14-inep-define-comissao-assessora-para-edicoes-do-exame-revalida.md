@@ -2,7 +2,7 @@
 title: Inep define comissão assessora para edições do exame Revalida
 date: 2020-07-14
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

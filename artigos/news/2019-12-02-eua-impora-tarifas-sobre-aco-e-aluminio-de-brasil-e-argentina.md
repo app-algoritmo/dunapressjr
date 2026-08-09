@@ -2,7 +2,7 @@
 title: EUA imporá tarifas sobre aço e alumínio de Brasil e Argentina
 date: 2019-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

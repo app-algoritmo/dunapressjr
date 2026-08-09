@@ -2,7 +2,7 @@
 title: Mobbing no trabalho?, como encarar e denunciar
 date: 2020-01-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 ---

@@ -3,7 +3,7 @@ title: Hospital Universitário de Dourados tem mais 38 leitos para pacientes em 
   da epidemia
 date: 2020-07-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

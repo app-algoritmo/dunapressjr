@@ -2,7 +2,7 @@
 title: Conab diz que produção de grãos deve atingir 308 milhões de toneladas
 date: 2022-08-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

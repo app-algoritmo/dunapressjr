@@ -2,7 +2,7 @@
 title: Apresentação da Duna Press e Chiara d’Offreducci
 date: 2026-04-26
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Magazine
 ---

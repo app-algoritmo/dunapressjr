@@ -2,7 +2,7 @@
 title: Ministro quer aprovação do novo marco regulatório do gás este ano
 date: 2020-12-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

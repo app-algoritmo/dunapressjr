@@ -2,7 +2,7 @@
 title: Bolsa cai para menor nível desde agosto com crise no Credit Suisse
 date: 2023-03-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

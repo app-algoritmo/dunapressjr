@@ -2,7 +2,7 @@
 title: Dólar cai a R$ 5,16 com expectativas sobre juros no Brasil e nos EUA
 date: 2022-09-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

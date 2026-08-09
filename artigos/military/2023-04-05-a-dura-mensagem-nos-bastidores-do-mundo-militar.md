@@ -2,7 +2,7 @@
 title: A dura mensagem nos bastidores do mundo militar
 date: 2023-04-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 - News

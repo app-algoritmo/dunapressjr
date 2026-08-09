@@ -2,7 +2,7 @@
 title: Governo registra superávit e inflação pode ficar abaixo de 7% em 2022
 date: 2022-09-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

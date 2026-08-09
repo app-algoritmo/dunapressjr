@@ -3,7 +3,7 @@ title: '04 de Outubro: Dia de São Francisco de Assis: O Santo Empreendedor e In
   Social'
 date: 2024-10-04
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Lifestyle
 - Religiosity

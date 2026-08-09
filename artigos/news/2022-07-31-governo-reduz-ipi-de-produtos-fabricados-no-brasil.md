@@ -2,7 +2,7 @@
 title: Governo reduz IPI de produtos fabricados no Brasil
 date: 2022-07-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

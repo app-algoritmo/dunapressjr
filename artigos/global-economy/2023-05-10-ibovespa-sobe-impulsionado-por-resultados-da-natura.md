@@ -2,7 +2,7 @@
 title: Ibovespa sobe impulsionado por resultados da Natura
 date: 2023-05-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

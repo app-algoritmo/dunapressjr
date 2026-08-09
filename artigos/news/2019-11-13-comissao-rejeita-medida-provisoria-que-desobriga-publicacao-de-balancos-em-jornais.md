@@ -3,7 +3,7 @@ title: Comissão rejeita medida provisória que desobriga publicação de balan�
   jornais
 date: 2019-11-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar sobe e fecha a R$ 5,82 com tensões no Brasil e no exterior
 date: 2020-05-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

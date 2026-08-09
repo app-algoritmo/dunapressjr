@@ -2,7 +2,7 @@
 title: Receita começa a receber nesta segunda declarações do Imposto de Renda
 date: 2020-03-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

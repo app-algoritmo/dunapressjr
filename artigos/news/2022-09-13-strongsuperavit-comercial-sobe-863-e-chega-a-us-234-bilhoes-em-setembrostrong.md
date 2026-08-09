@@ -2,7 +2,7 @@
 title: <strong>Superávit comercial sobe 86,3% e chega a US$ 2,34 bilhões em setembro</strong>
 date: 2022-09-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

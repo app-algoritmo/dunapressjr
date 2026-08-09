@@ -3,7 +3,7 @@ title: Ibovespa cai 2,4% e dólar sobe ante real em meio a preocupações fiscai
   do Copom e Fed
 date: 2023-05-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

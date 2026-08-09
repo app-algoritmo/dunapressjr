@@ -2,7 +2,7 @@
 title: Venda de imóveis cresceu 9,7% em 2019
 date: 2020-03-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

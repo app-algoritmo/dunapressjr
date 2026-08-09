@@ -2,7 +2,7 @@
 title: Aumento de núcleos de inflação preocupa, diz presidente do BC
 date: 2021-12-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

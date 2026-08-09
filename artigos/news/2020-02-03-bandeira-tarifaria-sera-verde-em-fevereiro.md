@@ -2,7 +2,7 @@
 title: Bandeira tarifária será verde em fevereiro
 date: 2020-02-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

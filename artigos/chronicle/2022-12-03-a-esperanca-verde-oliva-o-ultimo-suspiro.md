@@ -2,7 +2,7 @@
 title: A esperança verde oliva, o último suspiro
 date: 2022-12-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 - Policy

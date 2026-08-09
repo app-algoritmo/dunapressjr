@@ -3,7 +3,7 @@ title: Coronavírus, Itália fecha tudo, blinda o país e ordena que 60 milhões
   fiquem em casa
 date: 2020-03-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Arcabouço fiscal só será enviado ao Congresso na segunda, diz Tebet
 date: 2023-04-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

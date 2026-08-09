@@ -2,7 +2,7 @@
 title: 'Covid-19: Distanciamento social, quarentena e isolamento na Noruega'
 date: 2020-08-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

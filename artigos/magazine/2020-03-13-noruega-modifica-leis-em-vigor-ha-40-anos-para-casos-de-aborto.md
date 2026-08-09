@@ -2,7 +2,7 @@
 title: Noruega modifica leis em vigor há 40 anos para casos de aborto
 date: 2020-03-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

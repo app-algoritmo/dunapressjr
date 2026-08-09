@@ -2,7 +2,7 @@
 title: Governo federal assina contrato de concessão dos sete aeroportos do Bloco Norte
 date: 2021-10-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

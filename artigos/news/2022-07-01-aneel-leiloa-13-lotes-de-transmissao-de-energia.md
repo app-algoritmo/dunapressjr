@@ -2,7 +2,7 @@
 title: Aneel leiloa 13 lotes de transmissão de energia
 date: 2022-07-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Guedes fecha Davos com sucesso e revela cartel brasileiro 6+6
 date: 2020-01-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

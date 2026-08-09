@@ -2,7 +2,7 @@
 title: Cai tempo médio para abertura de empresas no país
 date: 2021-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

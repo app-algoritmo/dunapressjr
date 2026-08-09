@@ -2,7 +2,7 @@
 title: BB lança linha para compra de meios de transporte pouco poluentes
 date: 2022-08-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

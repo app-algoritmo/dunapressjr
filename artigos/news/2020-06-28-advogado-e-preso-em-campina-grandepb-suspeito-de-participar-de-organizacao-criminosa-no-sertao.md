@@ -3,7 +3,7 @@ title: Advogado é preso em Campina Grande/PB suspeito de participar de organiza
   criminosa no Sertão
 date: 2020-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

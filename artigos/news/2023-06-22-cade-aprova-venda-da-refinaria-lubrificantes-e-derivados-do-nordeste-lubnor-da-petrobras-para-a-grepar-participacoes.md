@@ -3,7 +3,7 @@ title: Cade aprova venda da Refinaria Lubrificantes e Derivados do Nordeste (Lub
   da Petrobras para a Grepar Participações
 date: 2023-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

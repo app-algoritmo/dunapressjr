@@ -2,7 +2,7 @@
 title: Caixa oferece crédito de R$ 300 a R$ 1 mil pelo celular
 date: 2021-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

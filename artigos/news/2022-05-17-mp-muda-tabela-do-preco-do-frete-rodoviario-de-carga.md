@@ -2,7 +2,7 @@
 title: MP muda tabela do preço do frete rodoviário de carga
 date: 2022-05-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

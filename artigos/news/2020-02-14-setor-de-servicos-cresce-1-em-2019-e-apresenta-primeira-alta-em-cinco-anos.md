@@ -2,7 +2,7 @@
 title: Setor de serviços cresce 1% em 2019 e apresenta primeira alta em cinco anos
 date: 2020-02-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

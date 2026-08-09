@@ -2,7 +2,7 @@
 title: Xi Jinping Insta o Exército Chinês a Se Preparar para a Guerra
 date: 2024-10-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

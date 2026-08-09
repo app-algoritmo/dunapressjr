@@ -2,7 +2,7 @@
 title: Como é a economia do monitoramento e como pagamos com nossos próprios dados
 date: 2021-01-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

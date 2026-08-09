@@ -3,7 +3,7 @@ title: BNDES anuncia recursos de R$ 3,6 bilhões para colheita da safrinha e pac
   de medidas para a indústria
 date: 2023-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Indicador de emprego da FGV atinge menor nível desde agosto de 2020
 date: 2022-02-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

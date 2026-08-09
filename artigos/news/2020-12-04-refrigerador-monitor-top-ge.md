@@ -2,7 +2,7 @@
 title: Refrigerador Monitor Top GE
 date: 2020-12-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

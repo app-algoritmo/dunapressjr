@@ -3,7 +3,7 @@ title: "Bitcoin nos balanços corporativos: a aposta que virou estratégia de so
 subtitle: "Enquanto reguladores globais ainda debatem as regras do jogo, empresas de capital aberto já moveram bilhões para ativos digitais — e os números de 2026 mostram que a janela de entrada está se fechando para quem ainda hesita."
 date: 2026-07-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - criptomoedas
 description: "A adoção institucional de criptomoedas deixou de ser experimento e virou linha de balanço: em julho de 2026, mais de 70 empresas listadas em bolsas globais declararam exposição direta a Bitcoin ou Ethereum em seus relatórios trimestrais. O debate já não é se instituições vão entrar no mercado cripto, mas quem vai definir as regras enquanto o jogo acontece."

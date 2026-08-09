@@ -2,7 +2,7 @@
 title: Governo quer reforma tributária neutra, diz ministro Guedes
 date: 2021-09-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

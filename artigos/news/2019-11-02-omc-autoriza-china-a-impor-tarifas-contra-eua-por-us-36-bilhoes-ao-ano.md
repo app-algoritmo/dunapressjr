@@ -2,7 +2,7 @@
 title: OMC autoriza China a impor tarifas contra EUA por US$ 3,6 bilhões ao ano
 date: 2019-11-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

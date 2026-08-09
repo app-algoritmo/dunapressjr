@@ -2,7 +2,7 @@
 title: 'Triunfo Russo em Avdiivka: Uma Virada Decisiva no Conflito Ucraniano'
 date: 2024-02-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

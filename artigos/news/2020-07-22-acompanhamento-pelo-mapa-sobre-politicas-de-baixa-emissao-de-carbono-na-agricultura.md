@@ -2,7 +2,7 @@
 title: Acompanhamento pelo Mapa sobre políticas de baixa emissão de carbono na agricultura
 date: 2020-07-22
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

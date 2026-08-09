@@ -3,7 +3,7 @@ title: Governador da Paraíba discute expansão de investimentos em tecnologia 4
   representantes da Tim
 date: 2020-09-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

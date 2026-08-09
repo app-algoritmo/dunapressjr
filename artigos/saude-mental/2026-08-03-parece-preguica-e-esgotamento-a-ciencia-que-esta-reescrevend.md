@@ -3,7 +3,7 @@ title: "Parece preguiça, é esgotamento: a ciência que está reescrevendo o qu
 subtitle: "Novos estudos em neurociência comportamental derrubam décadas de moralização sobre produtividade e abrem um debate urgente sobre como empresas brasileiras precisam redesenhar o ambiente de trabalho até 2027."
 date: 2026-08-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - saude-mental
 description: "A ciência comportamental acumula evidências de que o que chamamos de falta de motivação no trabalho é, em grande parte, uma resposta neurobiológica mensurável ao ambiente — não um defeito de caráter. O debate chega ao Brasil num momento em que o burnout já é a segunda maior causa de afastamento pelo INSS e empresas começam a ser responsabilizadas judicialmente."

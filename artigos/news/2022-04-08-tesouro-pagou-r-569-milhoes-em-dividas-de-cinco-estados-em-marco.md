@@ -2,7 +2,7 @@
 title: Tesouro pagou R$ 569 milhões em dívidas de cinco estados em março
 date: 2022-04-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

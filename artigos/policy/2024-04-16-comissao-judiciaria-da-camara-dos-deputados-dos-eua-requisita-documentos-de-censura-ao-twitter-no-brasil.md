@@ -3,7 +3,7 @@ title: Comissão Judiciária da Câmara dos Deputados dos EUA Requisita Document
   Censura ao Twitter no Brasil
 date: 2024-04-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

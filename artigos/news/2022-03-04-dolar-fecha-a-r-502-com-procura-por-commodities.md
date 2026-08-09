@@ -2,7 +2,7 @@
 title: Dólar fecha a R$ 5,02 com procura por commodities
 date: 2022-03-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

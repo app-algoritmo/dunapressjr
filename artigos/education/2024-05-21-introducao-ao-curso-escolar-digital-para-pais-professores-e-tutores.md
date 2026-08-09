@@ -2,7 +2,7 @@
 title: Introdução ao Curso Escolar Digital para Pais, Professores e Tutores
 date: 2024-05-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

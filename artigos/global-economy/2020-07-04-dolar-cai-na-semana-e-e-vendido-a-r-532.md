@@ -2,7 +2,7 @@
 title: Dólar cai na semana e é vendido a R$ 5,32
 date: 2020-07-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

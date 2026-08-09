@@ -2,7 +2,7 @@
 title: IPC-S sobe em seis capitais brasileiras em fevereiro, diz FGV
 date: 2021-03-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

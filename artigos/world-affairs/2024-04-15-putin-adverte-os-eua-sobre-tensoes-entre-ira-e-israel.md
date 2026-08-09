@@ -2,7 +2,7 @@
 title: Putin Adverte os EUA Sobre Tensões entre Irã e Israel
 date: 2024-04-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: USP prevê perda de 6,5% do orçamento com redução do ICMS
 date: 2022-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

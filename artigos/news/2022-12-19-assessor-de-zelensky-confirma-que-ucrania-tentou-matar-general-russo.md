@@ -2,7 +2,7 @@
 title: Assessor de Zelensky confirma que Ucrânia tentou matar General russo
 date: 2022-12-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

@@ -3,7 +3,7 @@ title: 'Retiradas recordes na poupança: brasileiros continuam a sacar bilhões 
   a cenário econômico desafiador'
 date: 2023-06-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

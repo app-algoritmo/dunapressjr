@@ -2,7 +2,7 @@
 title: Índice de Confiança da Indústria atinge maior nível em dez anos
 date: 2020-12-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

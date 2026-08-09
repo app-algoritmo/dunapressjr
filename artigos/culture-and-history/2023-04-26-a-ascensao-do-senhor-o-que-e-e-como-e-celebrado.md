@@ -2,7 +2,7 @@
 title: A ascensão do Senhor, o que é e como é celebrado
 date: 2023-04-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Culture and History
 - Education

@@ -2,7 +2,7 @@
 title: Em março, cesta básica ficou mais barata em 13 capitais brasileiras
 date: 2023-04-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

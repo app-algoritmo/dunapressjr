@@ -2,7 +2,7 @@
 title: ANP assina 58 contratos de concessão da Oferta Permanente
 date: 2022-12-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

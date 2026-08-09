@@ -2,7 +2,7 @@
 title: Cofiex aprova US$ 959 milhões em recursos externos para projetos no Brasil
 date: 2020-08-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

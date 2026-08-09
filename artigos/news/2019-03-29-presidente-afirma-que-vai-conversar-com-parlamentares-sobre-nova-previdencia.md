@@ -2,7 +2,7 @@
 title: Presidente afirma que vai conversar com parlamentares sobre Nova Previdência
 date: 2019-03-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

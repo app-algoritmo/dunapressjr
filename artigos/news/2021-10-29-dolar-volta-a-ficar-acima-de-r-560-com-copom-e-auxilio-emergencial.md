@@ -2,7 +2,7 @@
 title: Dólar volta a ficar acima de R$ 5,60 com Copom e auxílio emergencial
 date: 2021-10-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

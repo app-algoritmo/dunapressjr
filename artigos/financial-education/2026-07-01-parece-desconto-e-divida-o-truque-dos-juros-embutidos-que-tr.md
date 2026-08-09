@@ -3,7 +3,7 @@ title: "Parece desconto, é dívida: o truque dos juros embutidos que transforma
 subtitle: "Com a Selic a 10,5% ao ano e o endividamento das famílias brasileiras em 48,7% da renda, entender onde o crédito se esconde no preço é a diferença entre construir patrimônio ou financiar o lucro de terceiros."
 date: 2026-07-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - financial-education
 description: "O parcelamento sem juros é um dos produtos financeiros mais mal compreendidos do Brasil — e um dos mais lucrativos para quem o oferece. Num momento em que 48,7% da renda das famílias já está comprometida com dívidas, aprender a ler o preço real de uma compra parcelada pode valer mais do que qualquer aplicação financeira."

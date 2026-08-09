@@ -2,7 +2,7 @@
 title: IBGE prevê altas de safra de 4,4% em 2020 e de 1,9% em 2021
 date: 2020-12-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

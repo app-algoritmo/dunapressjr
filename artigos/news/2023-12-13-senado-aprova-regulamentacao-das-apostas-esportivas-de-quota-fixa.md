@@ -2,7 +2,7 @@
 title: Senado aprova regulamentação das apostas esportivas de quota fixa
 date: 2023-12-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

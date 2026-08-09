@@ -2,7 +2,7 @@
 title: Copom iniciou a oitava reunião do ano para definir juros básicos
 date: 2022-12-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

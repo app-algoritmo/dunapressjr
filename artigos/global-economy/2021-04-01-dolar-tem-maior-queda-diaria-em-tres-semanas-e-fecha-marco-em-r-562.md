@@ -2,7 +2,7 @@
 title: Dólar tem maior queda diária em três semanas e fecha março em R$ 5,62
 date: 2021-04-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

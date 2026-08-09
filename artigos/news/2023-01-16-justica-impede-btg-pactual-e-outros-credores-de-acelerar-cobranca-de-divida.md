@@ -2,7 +2,7 @@
 title: Justiça impede BTG Pactual e outros credores de acelerar cobrança de dívida
 date: 2023-01-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

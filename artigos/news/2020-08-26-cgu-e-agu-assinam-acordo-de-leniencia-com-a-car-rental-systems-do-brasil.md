@@ -2,7 +2,7 @@
 title: CGU e AGU assinam acordo de leniência com a Car Rental Systems do Brasil
 date: 2020-08-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

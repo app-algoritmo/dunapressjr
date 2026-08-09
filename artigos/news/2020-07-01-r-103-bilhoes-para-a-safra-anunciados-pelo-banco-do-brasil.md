@@ -2,7 +2,7 @@
 title: R$ 103 bilhões para a safra anunciados pelo Banco do Brasil
 date: 2020-07-01
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

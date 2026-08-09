@@ -1,5 +1,5 @@
 ---
-title: Juramento de D. Pedro I e da Imperatriz  Leopoldina à Constituição do Império
+title: Juramento de D. Pedro I e da Imperatriz Leopoldina à Constituição do Império
 date: 2022-09-15
 status: publish
 author: Joice Ferreira

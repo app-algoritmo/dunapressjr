@@ -2,7 +2,7 @@
 title: O Impacto do Saneamento na Saúde Pública e no Desenvolvimento Cognitivo
 date: 2024-06-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Environment
 - Health

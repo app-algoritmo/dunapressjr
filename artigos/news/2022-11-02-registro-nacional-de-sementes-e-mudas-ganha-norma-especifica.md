@@ -2,7 +2,7 @@
 title: Registro Nacional de Sementes e Mudas ganha norma específica
 date: 2022-11-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Banco Mundial reduz projeção para alta do PIB global em 2023, de 3,0% a 1,7%
 date: 2023-01-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

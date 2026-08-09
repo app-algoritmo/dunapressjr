@@ -2,7 +2,7 @@
 title: Haddad defende reforma tributária progressista em documento ao FMI
 date: 2023-04-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

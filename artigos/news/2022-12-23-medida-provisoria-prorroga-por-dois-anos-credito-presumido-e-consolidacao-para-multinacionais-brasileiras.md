@@ -3,7 +3,7 @@ title: Medida Provisória prorroga por dois anos crédito presumido e consolida�
   multinacionais brasileiras
 date: 2022-12-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Reforma tributária é questão central para o governo, diz Geraldo Alckmin
 date: 2023-01-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

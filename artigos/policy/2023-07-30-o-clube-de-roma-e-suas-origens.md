@@ -2,7 +2,7 @@
 title: O clube de Roma e suas origens
 date: 2023-07-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

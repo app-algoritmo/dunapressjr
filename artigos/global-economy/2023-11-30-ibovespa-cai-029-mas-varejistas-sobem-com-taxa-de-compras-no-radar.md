@@ -2,7 +2,7 @@
 title: Ibovespa cai 0,29%, mas varejistas sobem com taxa de compras no radar
 date: 2023-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

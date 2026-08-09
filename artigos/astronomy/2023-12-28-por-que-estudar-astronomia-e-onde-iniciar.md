@@ -2,7 +2,7 @@
 title: Por que estudar astronomia e onde iniciar
 date: 2023-12-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Astronomy
 - Science

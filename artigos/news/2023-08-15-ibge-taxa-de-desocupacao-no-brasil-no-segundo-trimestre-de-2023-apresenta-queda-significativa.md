@@ -3,7 +3,7 @@ title: 'IBGE: Taxa de desocupação no Brasil no segundo trimestre de 2023 apres
   queda significativa'
 date: 2023-08-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

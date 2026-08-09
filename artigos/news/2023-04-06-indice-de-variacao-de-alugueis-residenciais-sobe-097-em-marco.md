@@ -2,7 +2,7 @@
 title: Índice de Variação de Aluguéis Residenciais sobe 0,97% em março
 date: 2023-04-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

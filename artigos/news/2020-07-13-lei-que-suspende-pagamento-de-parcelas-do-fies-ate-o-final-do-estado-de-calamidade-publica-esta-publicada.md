@@ -3,7 +3,7 @@ title: Lei que suspende pagamento de parcelas do Fies até o final do estado de 
   pública está publicada
 date: 2020-07-13
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

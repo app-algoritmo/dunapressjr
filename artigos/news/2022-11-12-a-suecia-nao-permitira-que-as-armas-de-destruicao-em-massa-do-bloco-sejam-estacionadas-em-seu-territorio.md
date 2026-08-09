@@ -3,7 +3,7 @@ title: A Suécia não permitirá que as armas de destruição em massa do bloco 
   em seu território
 date: 2022-11-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

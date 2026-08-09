@@ -3,7 +3,7 @@ title: "O pet é da família, mas a conta chega no fim do mês: o paradoxo do me
 subtitle: "O Brasil é o terceiro maior mercado pet do mundo, movimentando R$ 68 bilhões em 2025, mas a ciência do vínculo humano-animal está redesenhando o que chamamos de cuidado — e quem pode pagar por ele."
 date: 2026-07-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - pets
 description: "O mercado pet brasileiro faturou R$ 68 bilhões em 2025 e segue crescendo mesmo em período de juros altos e consumo restrito — um paradoxo que revela como a relação entre humanos e animais mudou estruturalmente. Entender essa virada importa agora porque ela afeta desde o bolso das famílias até as políticas públicas de saúde e urbanismo."

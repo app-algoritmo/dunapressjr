@@ -3,7 +3,7 @@ title: Fapesq recebe propostas para Programa de Desenvolvimento Científico e Te
   Regional da Paraíba
 date: 2020-07-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

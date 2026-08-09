@@ -3,7 +3,7 @@ title: Bolsonaro não foi eleito para deixar país igual, diz chanceler Ernesto 
   – Bloomberg, 7 de janeiro de 2019
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

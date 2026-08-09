@@ -2,7 +2,7 @@
 title: 'IBGE: Inflação oficial ficou 0,53% em janeiro'
 date: 2023-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

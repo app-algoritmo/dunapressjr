@@ -2,7 +2,7 @@
 title: Máquina de Costura Singer “Turtle Back”
 date: 2019-04-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: CMN amplia limite de crédito para entes subnacionais e promove medidas p
   o setor agrícola
 date: 2023-05-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Os cuidados essenciais que o seu pet merece
 date: 2023-03-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Pets

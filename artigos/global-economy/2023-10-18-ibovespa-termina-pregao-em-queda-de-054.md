@@ -2,7 +2,7 @@
 title: Ibovespa termina pregão em queda de 0,54%
 date: 2023-10-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

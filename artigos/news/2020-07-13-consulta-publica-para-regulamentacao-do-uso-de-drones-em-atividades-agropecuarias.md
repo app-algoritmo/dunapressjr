@@ -2,7 +2,7 @@
 title: Consulta pública para regulamentação do uso de drones em atividades agropecuárias
 date: 2020-07-13
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar bate recorde e fecha em R$ 5,84 após corte de juros
 date: 2020-05-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

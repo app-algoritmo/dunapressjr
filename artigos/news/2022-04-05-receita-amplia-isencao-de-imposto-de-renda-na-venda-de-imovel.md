@@ -2,7 +2,7 @@
 title: Receita amplia isenção de Imposto de Renda na venda de imóvel
 date: 2022-04-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

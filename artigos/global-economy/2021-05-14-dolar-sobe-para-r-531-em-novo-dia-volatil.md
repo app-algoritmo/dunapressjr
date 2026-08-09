@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,31 em novo dia volátil
 date: 2021-05-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

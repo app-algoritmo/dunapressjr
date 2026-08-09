@@ -2,7 +2,7 @@
 title: Ibovespa registra importante alta
 date: 2023-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

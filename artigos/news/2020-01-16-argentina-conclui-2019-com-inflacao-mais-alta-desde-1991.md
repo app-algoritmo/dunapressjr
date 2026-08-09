@@ -2,7 +2,7 @@
 title: Argentina conclui 2019 com inflação mais alta desde 1991
 date: 2020-01-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

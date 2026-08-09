@@ -3,7 +3,7 @@ title: Acordo comercial EUA-China está à vista após progresso em conversas de
   nível
 date: 2019-11-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

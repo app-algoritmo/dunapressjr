@@ -2,7 +2,7 @@
 title: Republicanos no Congresso dos EUA investigam a retirada do Afeganistão
 date: 2023-01-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

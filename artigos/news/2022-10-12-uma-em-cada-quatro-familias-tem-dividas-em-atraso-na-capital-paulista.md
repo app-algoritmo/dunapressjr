@@ -2,7 +2,7 @@
 title: Uma em cada quatro famílias tem dívidas em atraso na capital paulista
 date: 2022-10-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

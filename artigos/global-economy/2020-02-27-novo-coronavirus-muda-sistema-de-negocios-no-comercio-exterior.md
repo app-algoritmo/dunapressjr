@@ -2,7 +2,7 @@
 title: Novo coronavírus muda sistema de negócios no comércio exterior
 date: 2020-02-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: <strong>Fontes renováveis na matriz energética devem aumentar em 2022, 
   MME</strong>
 date: 2022-08-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

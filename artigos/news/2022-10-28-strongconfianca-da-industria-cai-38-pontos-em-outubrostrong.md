@@ -2,7 +2,7 @@
 title: <strong>Confiança da indústria cai 3,8 pontos em outubro</strong>
 date: 2022-10-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

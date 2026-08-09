@@ -3,7 +3,7 @@ title: Se a Rússia armar a Venezuela, poderemos aceitar uma base militar dos EU
   país!” Jair Bolsonaro
 date: 2019-01-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

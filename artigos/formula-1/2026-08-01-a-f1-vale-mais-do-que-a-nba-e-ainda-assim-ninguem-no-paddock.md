@@ -3,7 +3,7 @@ title: "A F1 vale mais do que a NBA — e ainda assim ninguém no paddock sabe e
 subtitle: "Com valuation acima de US$ 20 bilhões e receitas recordes em 2025, a Fórmula 1 vive seu paradoxo mais sofisticado: quanto maior o negócio, mais opaco o modelo de distribuição de poder entre equipes, FIA e Liberty Media."
 date: 2026-08-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - formula-1
 description: "A Fórmula 1 ultrapassou US$ 20 bilhões em valuation e bate recordes de receita, mas o modelo de governança entre Liberty Media, FIA e as dez equipes acumula tensões que podem redesenhar o esporte até 2027. Entender essa arquitetura é entender quem, de fato, dirige a categoria."

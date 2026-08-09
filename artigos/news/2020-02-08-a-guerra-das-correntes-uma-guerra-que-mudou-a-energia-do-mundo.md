@@ -2,7 +2,7 @@
 title: A Guerra das Correntes - Uma guerra que mudou a energia do mundo
 date: 2020-02-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

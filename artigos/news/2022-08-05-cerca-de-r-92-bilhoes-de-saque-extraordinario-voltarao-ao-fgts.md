@@ -2,7 +2,7 @@
 title: Cerca de R$ 9,2 bilhões de saque extraordinário voltarão ao FGTS
 date: 2022-08-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

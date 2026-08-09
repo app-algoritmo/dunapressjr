@@ -2,7 +2,7 @@
 title: 'CNC: Intenção de consumo cresce, mas otimismo perde fôlego'
 date: 2023-03-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

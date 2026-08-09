@@ -2,7 +2,7 @@
 title: Educação domiciliar, direito natural, primordial e originário
 date: 2019-05-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Books
 - Education

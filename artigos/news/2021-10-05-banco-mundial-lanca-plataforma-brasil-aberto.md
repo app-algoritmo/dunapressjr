@@ -2,7 +2,7 @@
 title: Banco Mundial lança plataforma Brasil Aberto
 date: 2021-10-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

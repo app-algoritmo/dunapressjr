@@ -2,7 +2,7 @@
 title: Arrecadação federal de impostos atinge R$ 251 bilhões em janeiro
 date: 2026-03-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

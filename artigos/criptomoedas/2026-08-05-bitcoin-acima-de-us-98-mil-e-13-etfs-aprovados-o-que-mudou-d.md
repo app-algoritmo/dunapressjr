@@ -3,7 +3,7 @@ title: "Bitcoin acima de US$ 98 mil e 13 ETFs aprovados: o que mudou de verdade 
 subtitle: "Com patrimônio combinado superior a US$ 120 bilhões sob gestão em produtos regulados, o mercado cripto de 2026 já não é o mesmo de 2021 — mas os riscos estruturais também evoluíram."
 date: 2026-08-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - criptomoedas
 description: "O volume gerido por ETFs de Bitcoin nos EUA ultrapassou US$ 120 bilhões em julho de 2026, consolidando uma virada estrutural no mercado cripto. O fenômeno redefine riscos, oportunidades e o papel do Brasil nessa nova geografia financeira."

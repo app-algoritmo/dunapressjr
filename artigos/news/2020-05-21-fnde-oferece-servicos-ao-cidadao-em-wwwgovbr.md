@@ -2,7 +2,7 @@
 title: FNDE oferece serviços ao cidadão em www.gov.br
 date: 2020-05-21
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

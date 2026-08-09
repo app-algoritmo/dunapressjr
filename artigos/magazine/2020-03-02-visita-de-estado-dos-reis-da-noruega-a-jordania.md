@@ -2,7 +2,7 @@
 title: Visita de Estado dos Reis da Noruega à Jordânia
 date: 2020-03-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

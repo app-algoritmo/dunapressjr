@@ -3,7 +3,7 @@ title: Marinhas da OTAN realizam exercício anual de defesa coletiva da Costa No
   no Mar Báltico
 date: 2023-09-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - Military

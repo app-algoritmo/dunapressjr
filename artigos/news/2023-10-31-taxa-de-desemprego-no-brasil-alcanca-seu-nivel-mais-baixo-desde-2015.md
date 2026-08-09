@@ -2,7 +2,7 @@
 title: Taxa de desemprego no Brasil alcança seu nível mais baixo desde 2015
 date: 2023-10-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Confiança do comércio cai 0,9 ponto em abril, diz FGV
 date: 2022-04-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

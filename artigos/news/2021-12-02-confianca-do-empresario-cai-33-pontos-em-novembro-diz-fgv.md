@@ -2,7 +2,7 @@
 title: Confiança do empresário cai 3,3 pontos em novembro, diz FGV
 date: 2021-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

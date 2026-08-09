@@ -2,7 +2,7 @@
 title: Dólar fecha a R$ 5,18, com tensão menor na Ucrânia
 date: 2022-02-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

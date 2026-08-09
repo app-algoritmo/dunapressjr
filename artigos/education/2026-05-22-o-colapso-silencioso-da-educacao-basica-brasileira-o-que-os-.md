@@ -3,7 +3,7 @@ title: "O Colapso Silencioso da Educação Básica Brasileira: O Que os Números
 subtitle: "Por trás dos índices de aprovação crescentes, uma crise de aprendizado profunda ameaça uma geração inteira de brasileiros — e o debate público ainda não chegou onde precisa"
 date: 2026-05-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - education
 description: "Taxas de aprovação escolar sobem consistentemente no Brasil, mas avaliações independentes revelam que milhões de estudantes concluem o ensino fundamental sem dominar leitura funcional ou matemática básica. A Duna Press analisa o paradoxo entre os números oficiais e a realidade nas salas de aula."

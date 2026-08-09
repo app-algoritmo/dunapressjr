@@ -2,7 +2,7 @@
 title: Produção industrial recua 1,3% em abril, diz IBGE
 date: 2021-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

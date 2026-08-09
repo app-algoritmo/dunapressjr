@@ -2,7 +2,7 @@
 title: Publicado decreto que aumenta IOF para custear Auxílio Brasil
 date: 2021-09-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

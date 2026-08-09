@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,21 após dois dias de queda
 date: 2021-07-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

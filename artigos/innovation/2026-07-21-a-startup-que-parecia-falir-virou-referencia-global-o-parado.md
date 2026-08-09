@@ -3,7 +3,7 @@ title: "A startup que parecia falir virou referência global: o paradoxo silenci
 subtitle: "Enquanto o mercado apostava no fim das fintechs de nicho, três empresas nascidas no Brasil entre 2021 e 2023 fecharam rodadas acima de US$ 50 milhões em 2026 — e nenhuma delas é do setor que você imagina."
 date: 2026-07-21
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - innovation
 description: "O ecossistema de inovação brasileiro atravessou um ciclo severo de contração entre 2022 e 2024, mas uma nova geração de startups sobreviveu justamente por ter ignorado as apostas convencionais do setor. Entender o que estas empresas fizeram diferente é entender para onde o capital inteligente está migrando agora."

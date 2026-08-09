@@ -2,7 +2,7 @@
 title: 'Auxílio emergencial: cadastros de 7 a 10 de abril podem ser revistos'
 date: 2020-04-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

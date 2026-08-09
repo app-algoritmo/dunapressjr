@@ -2,7 +2,7 @@
 title: Estatísticas do setor externo revelam melhora nas contas
 date: 2023-09-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

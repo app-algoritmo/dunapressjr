@@ -3,7 +3,7 @@ title: Superávit da balança comercial chega a US$ 22,89 bilhões em 2022, até
   semana de maio
 date: 2022-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

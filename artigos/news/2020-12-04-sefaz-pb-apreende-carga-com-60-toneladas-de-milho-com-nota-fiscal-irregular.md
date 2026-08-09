@@ -2,7 +2,7 @@
 title: Sefaz-PB apreende carga com 60 toneladas de milho com nota fiscal irregular
 date: 2020-12-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

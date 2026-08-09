@@ -2,7 +2,7 @@
 title: Nenhuma Bala Sequer para Ucrânia, Robert Fico
 date: 2023-10-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

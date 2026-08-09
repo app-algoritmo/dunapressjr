@@ -2,7 +2,7 @@
 title: Dólar fecha a R$ 5,16 e vale mais do que euro
 date: 2022-08-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

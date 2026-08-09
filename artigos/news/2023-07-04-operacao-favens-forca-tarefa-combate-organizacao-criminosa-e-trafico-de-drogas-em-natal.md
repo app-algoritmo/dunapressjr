@@ -3,7 +3,7 @@ title: 'Operação Favens: Força-Tarefa combate organização criminosa e tráf
   em Natal'
 date: 2023-07-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

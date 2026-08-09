@@ -3,7 +3,7 @@ title: "A Epidemia Silenciosa do Esgotamento Cognitivo: Como a Sobrecarga de Inf
 subtitle: "Pesquisadores alertam que a exposição contínua a fluxos digitais ininterruptos compromete funções executivas, memória de trabalho e capacidade de tomada de decisão — e os efeitos podem ser mais duradouros do que se imaginava"
 date: 2026-05-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - psicologia
 description: "O esgotamento cognitivo deixou de ser uma queixa isolada para se tornar um fenômeno clínico documentado em escala global. Neste artigo, a Duna Press examina os mecanismos neuropsicológicos por trás da sobrecarga informacional, os grupos mais vulneráveis e o que a ciência já sabe — e ainda não sabe — sobre reversão dos danos."

@@ -2,7 +2,7 @@
 title: Volume de serviços no Brasil mantém crescimento em julho de 2023, aponta IBGE
 date: 2023-09-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

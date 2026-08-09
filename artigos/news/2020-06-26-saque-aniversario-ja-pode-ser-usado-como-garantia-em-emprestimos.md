@@ -2,7 +2,7 @@
 title: Saque-aniversário já pode ser usado como garantia em empréstimos
 date: 2020-06-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

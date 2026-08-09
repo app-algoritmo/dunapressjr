@@ -2,7 +2,7 @@
 title: 'Ipea: setor agropecuário pode crescer até 2,5% apesar da covid-19'
 date: 2020-05-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

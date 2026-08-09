@@ -2,7 +2,7 @@
 title: Duna Press Magazine - Comunicado
 date: 2024-07-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

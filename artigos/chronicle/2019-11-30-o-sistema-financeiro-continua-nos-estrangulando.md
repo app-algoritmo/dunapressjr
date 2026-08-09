@@ -2,7 +2,7 @@
 title: O Sistema financeiro continua nos estrangulando
 date: 2019-11-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Chronicle
 ---

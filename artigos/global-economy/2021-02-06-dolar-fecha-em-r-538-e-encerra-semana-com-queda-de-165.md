@@ -2,7 +2,7 @@
 title: Dólar fecha em R$ 5,38 e encerra semana com queda de 1,65%
 date: 2021-02-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Quem Mandou Matar Kadafi? A Principal Coordenadora da Guerra contra a Líbia
 date: 2024-05-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

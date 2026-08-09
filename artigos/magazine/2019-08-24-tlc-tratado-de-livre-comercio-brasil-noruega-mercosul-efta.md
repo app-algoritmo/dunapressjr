@@ -2,7 +2,7 @@
 title: TLC Tratado de Livre Comércio Brasil-Noruega, Mercosul-EFTA
 date: 2019-08-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - News

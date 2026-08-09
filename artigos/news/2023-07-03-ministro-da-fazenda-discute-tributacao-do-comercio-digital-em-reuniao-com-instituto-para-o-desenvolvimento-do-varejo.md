@@ -3,7 +3,7 @@ title: Ministro da Fazenda discute tributação do comércio digital em reunião
   para o Desenvolvimento do Varejo
 date: 2023-07-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

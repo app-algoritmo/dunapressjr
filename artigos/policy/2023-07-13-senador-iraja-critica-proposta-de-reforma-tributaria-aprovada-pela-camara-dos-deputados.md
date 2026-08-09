@@ -3,7 +3,7 @@ title: Senador Irajá critica proposta de reforma tributária aprovada pela Câm
   Deputados
 date: 2023-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

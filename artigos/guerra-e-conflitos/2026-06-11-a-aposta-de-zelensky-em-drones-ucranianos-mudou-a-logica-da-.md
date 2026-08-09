@@ -3,7 +3,7 @@ title: "A aposta de Zelensky em drones ucranianos mudou a lógica da guerra — 
 subtitle: "Ao construir uma indústria nacional de armamentos no meio do conflito, a Ucrânia deixa de ser apenas receptora de ajuda e passa a ditar termos sobre como guerras modernas devem ser travadas."
 date: 2026-06-11
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - guerra-e-conflitos
 description: "A Ucrânia produziu mais de 4 milhões de drones em 2025 e exportou tecnologia para três países europeus — uma virada industrial que redesenha o equilíbrio de poder dentro da própria aliança ocidental. O que começou como necessidade de sobrevivência tornou-se uma doutrina militar que questiona o modelo tradicional de dependência armamentista."

@@ -2,7 +2,7 @@
 title: IGP-DI tem inflação de 2,17% em março, diz FGV
 date: 2021-04-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

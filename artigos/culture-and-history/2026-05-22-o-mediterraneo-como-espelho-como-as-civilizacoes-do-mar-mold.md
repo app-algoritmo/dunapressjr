@@ -3,7 +3,7 @@ title: "O Mediterrâneo Como Espelho: Como as Civilizações do Mar Moldaram o M
 subtitle: "Da Fenícia à União Europeia, o mare nostrum continua sendo o laboratório onde culturas colidem, negociam e se reinventam — uma análise sobre a persistência histórica de um espaço que nunca deixou de ser central"
 date: 2026-05-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - culture-and-history
 description: "O Mediterrâneo não é apenas uma região geográfica — é um arquétipo de como civilizações distintas podem compartilhar um espaço comum sem apagar suas diferenças. Esta análise examina como os povos do mare nostrum construíram um modelo de intercâmbio cultural que ainda ressoa nas estruturas políticas, artísticas e filosóficas do século XXI."

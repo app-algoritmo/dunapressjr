@@ -2,7 +2,7 @@
 title: Brasil tem saldo de mais de 231 mil empresas abertas em outubro
 date: 2020-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Ibovespa fecha em queda à espera da PEC da Transição
 date: 2022-11-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Ministro fala sobre ações para ajudar a cidade de Petrópolis
 date: 2022-02-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

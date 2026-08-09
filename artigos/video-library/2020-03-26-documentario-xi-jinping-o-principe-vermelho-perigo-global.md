@@ -2,7 +2,7 @@
 title: 'Documentário: Xi Jinping, o príncipe vermelho, perigo global'
 date: 2020-03-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Video library
 ---

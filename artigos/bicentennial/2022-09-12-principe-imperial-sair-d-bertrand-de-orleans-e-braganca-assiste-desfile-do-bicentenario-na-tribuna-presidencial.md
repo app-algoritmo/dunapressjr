@@ -3,7 +3,7 @@ title: Príncipe Imperial S.A.I.R D. Bertrand de Orleans e Bragança assiste Des
   do Bicentenário na Tribuna Presidencial
 date: 2022-09-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Bicentennial
 - News

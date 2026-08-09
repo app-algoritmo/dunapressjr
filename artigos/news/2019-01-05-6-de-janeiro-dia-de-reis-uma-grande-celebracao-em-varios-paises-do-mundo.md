@@ -2,7 +2,7 @@
 title: 6 de janeiro “Dia de Reis” uma grande celebração em vários países do mundo!
 date: 2019-01-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

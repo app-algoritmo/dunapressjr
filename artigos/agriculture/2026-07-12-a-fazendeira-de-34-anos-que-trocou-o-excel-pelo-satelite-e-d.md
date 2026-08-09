@@ -3,7 +3,7 @@ title: "A fazendeira de 34 anos que trocou o Excel pelo satélite — e dobrou a
 subtitle: "Camila Rorato, de Sorriso (MT), virou referência nacional ao integrar sensoriamento remoto e agricultura de precisão na gestão familiar, apontando o caminho que o agronegócio brasileiro ainda hesita em escalar."
 date: 2026-07-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - agriculture
 description: "Camila Rorato, produtora rural de 34 anos em Sorriso (MT), dobrou sua produtividade de soja em três safras usando sensoriamento remoto e mapas de variabilidade do solo, sem expandir sua área de 1.200 hectares. O caso expõe uma tensão central do campo brasileiro: a tecnologia já existe, está provada e é acessível — mas barreiras de crédito, conectividade e assistência técnica ainda mantêm a maior parte dos agricultores familiares fora dessa virada."

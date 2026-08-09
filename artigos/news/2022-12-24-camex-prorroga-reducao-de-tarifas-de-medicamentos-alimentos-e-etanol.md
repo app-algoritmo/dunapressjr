@@ -2,7 +2,7 @@
 title: Camex prorroga redução de tarifas de medicamentos, alimentos e etanol
 date: 2022-12-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

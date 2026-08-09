@@ -2,7 +2,7 @@
 title: Primeiro ministro de Israel, Benjamin Netanyahu recebe o Presidente Jair Bolsonaro
 date: 2019-03-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

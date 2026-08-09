@@ -2,7 +2,7 @@
 title: Presidente negocia PEC para zerar impostos sobre combustíveis
 date: 2022-01-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

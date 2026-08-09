@@ -2,7 +2,7 @@
 title: O uso de máscara representa medo e obediência cega, não ciência
 date: 2021-04-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 ---

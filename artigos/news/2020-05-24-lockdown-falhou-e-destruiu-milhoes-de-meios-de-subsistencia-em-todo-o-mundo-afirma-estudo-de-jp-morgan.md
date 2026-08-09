@@ -3,7 +3,7 @@ title: Lockdown falhou e destruiu milhões de meios de subsistência em todo o m
   afirma estudo de  JP Morgan
 date: 2020-05-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

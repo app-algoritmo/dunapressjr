@@ -2,7 +2,7 @@
 title: Reforma tributária não trará aumento de imposto, diz Guedes
 date: 2021-07-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

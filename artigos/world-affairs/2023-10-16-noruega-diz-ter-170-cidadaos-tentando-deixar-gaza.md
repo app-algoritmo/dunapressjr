@@ -2,7 +2,7 @@
 title: Noruega diz ter 170 cidadãos tentando deixar Gaza
 date: 2023-10-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

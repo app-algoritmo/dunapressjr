@@ -3,7 +3,7 @@ title: 'Em Defesa da Vida: A Importância da Participação Popular na Decisão 
   o Aborto na Suprema Corte Brasileira'
 date: 2023-09-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

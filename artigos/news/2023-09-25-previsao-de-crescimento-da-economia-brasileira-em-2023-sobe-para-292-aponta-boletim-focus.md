@@ -3,7 +3,7 @@ title: Previsão de crescimento da economia brasileira em 2023 sobe para 2,92%, 
   Boletim Focus
 date: 2023-09-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

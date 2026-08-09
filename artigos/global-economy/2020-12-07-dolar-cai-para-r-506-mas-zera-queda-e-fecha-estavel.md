@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,06, mas zera queda e fecha estável
 date: 2020-12-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

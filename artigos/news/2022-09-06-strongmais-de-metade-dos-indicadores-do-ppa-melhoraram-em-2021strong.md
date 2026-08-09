@@ -2,7 +2,7 @@
 title: <strong>Mais de metade dos indicadores do PPA melhoraram em 2021</strong>
 date: 2022-09-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

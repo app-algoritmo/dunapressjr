@@ -3,7 +3,7 @@ title: Rio e Pará têm os maiores percentuais de crescimento de receitas corren
   no 2º bimestre
 date: 2022-06-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

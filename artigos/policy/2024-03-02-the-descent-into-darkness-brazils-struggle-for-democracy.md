@@ -2,7 +2,7 @@
 title: 'The Descent into Darkness: Brazil''s Struggle for Democracy'
 date: 2024-03-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

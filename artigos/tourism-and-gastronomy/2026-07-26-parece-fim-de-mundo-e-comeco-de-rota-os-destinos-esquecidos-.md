@@ -3,7 +3,7 @@ title: "Parece fim de mundo, é começo de rota: os destinos 'esquecidos' do Bra
 subtitle: "Enquanto Gramado lota e Búzios cobra diária de hotel cinco estrelas a R$ 2.400, uma nova geração de investidores e viajantes encontrou valor justamente onde o Brasil parou de olhar."
 date: 2026-07-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tourism-and-gastronomy
 description: "Municípios brasileiros considerados periféricos no mapa turístico acumularam R$ 4,2 bilhões em investimentos privados entre 2024 e 2026, atraindo desde fundos internacionais até chefs com estrelas Michelin. O movimento redefine o que significa 'destino de valor' — e coloca em xeque o modelo de turismo de massa que dominou o país nas últimas duas décadas."

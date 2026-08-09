@@ -2,7 +2,7 @@
 title: O que é o voto de confiança na política governamental?
 date: 2022-06-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Magazine

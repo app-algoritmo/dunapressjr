@@ -3,7 +3,7 @@ title: O mundo em alerta sobre as violações constitucionais e fraude eleitoral
   Brasil
 date: 2022-11-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

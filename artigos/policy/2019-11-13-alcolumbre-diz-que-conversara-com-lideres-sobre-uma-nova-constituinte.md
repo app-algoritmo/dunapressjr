@@ -2,7 +2,7 @@
 title: Alcolumbre diz que conversará com líderes sobre uma nova Constituinte
 date: 2019-11-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

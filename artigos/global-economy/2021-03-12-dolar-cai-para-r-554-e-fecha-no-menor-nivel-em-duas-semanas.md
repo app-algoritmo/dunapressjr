@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,54 e fecha no menor nível em duas semanas
 date: 2021-03-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

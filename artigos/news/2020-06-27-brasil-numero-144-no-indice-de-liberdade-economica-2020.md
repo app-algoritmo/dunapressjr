@@ -2,7 +2,7 @@
 title: Brasil número 144 no índice de liberdade econômica 2020
 date: 2020-06-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

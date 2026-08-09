@@ -2,7 +2,7 @@
 title: Empréstimos do BNDES a governos estrangeiros podem ser proibido
 date: 2020-01-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

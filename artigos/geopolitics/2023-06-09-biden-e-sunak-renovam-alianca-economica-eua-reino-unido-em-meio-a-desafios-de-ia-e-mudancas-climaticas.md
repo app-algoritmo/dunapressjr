@@ -3,7 +3,7 @@ title: Biden e Sunak renovam aliança econômica EUA-Reino Unido em meio a desaf
   de IA e mudanças climáticas
 date: 2023-06-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Geopolitics
 ---

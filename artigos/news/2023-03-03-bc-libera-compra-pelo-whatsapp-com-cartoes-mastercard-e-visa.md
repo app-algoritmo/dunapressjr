@@ -2,7 +2,7 @@
 title: BC libera compra pelo WhatsApp com cartões Mastercard e Visa
 date: 2023-03-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

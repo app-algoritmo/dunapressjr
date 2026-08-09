@@ -2,7 +2,7 @@
 title: Congresso aprova Lei de Diretrizes Orçamentárias para 2022
 date: 2021-07-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

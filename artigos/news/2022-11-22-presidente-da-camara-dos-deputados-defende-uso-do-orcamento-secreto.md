@@ -2,7 +2,7 @@
 title: Presidente da Câmara dos Deputados defende uso do orçamento secreto
 date: 2022-11-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

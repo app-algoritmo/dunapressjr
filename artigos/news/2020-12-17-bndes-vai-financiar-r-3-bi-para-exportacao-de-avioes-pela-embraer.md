@@ -2,7 +2,7 @@
 title: BNDES vai financiar R$ 3 bi para exportação de aviões pela Embraer
 date: 2020-12-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

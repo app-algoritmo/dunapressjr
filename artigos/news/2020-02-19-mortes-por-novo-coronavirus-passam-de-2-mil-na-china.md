@@ -2,7 +2,7 @@
 title: Mortes por novo coronavírus passam de 2 mil na China
 date: 2020-02-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

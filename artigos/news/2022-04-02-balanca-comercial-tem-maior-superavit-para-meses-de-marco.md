@@ -2,7 +2,7 @@
 title: Balança comercial tem maior superávit para meses de março
 date: 2022-04-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

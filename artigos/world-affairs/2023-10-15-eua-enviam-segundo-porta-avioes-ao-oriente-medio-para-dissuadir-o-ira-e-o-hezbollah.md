@@ -2,7 +2,7 @@
 title: EUA Enviam Segundo Porta-Aviões ao Oriente Médio para Dissuadir o Irã e o Hezbollah
 date: 2023-10-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: 'XP Investimentos: A Revolução do Mercado Financeiro no Brasil'
 date: 2024-09-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Finances
 - Financial Education

@@ -3,7 +3,7 @@ title: "Dormir mal envelhece o cérebro: o que 20 anos de dados revelam sobre o 
 subtitle: "Pesquisa longitudinal publicada em julho de 2026 pela Universidade de Oxford reposiciona a privação de sono como fator de risco cognitivo comparável ao tabagismo — e muda o cálculo do que chamamos de prevenção."
 date: 2026-07-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - health
 description: "Um estudo acompanhou 8.900 adultos britânicos por duas décadas e concluiu que dormir menos de seis horas por noite de forma consistente acelera em até 30% o declínio cognitivo entre os 50 e os 70 anos. O achado transforma o sono de hábito pessoal em prioridade de saúde pública — e coloca em xeque a cultura do trabalho que ainda glorifica quem dorme pouco."

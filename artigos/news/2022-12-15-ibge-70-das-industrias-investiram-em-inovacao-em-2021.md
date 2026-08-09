@@ -2,7 +2,7 @@
 title: 'IBGE: 70% das indústrias investiram em inovação em 2021'
 date: 2022-12-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

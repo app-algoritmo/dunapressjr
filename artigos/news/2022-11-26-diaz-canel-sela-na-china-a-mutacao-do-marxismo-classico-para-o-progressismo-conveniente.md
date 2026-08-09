@@ -3,7 +3,7 @@ title: Díaz-Canel sela na China a mutação do marxismo clássico para o progre
   conveniente
 date: 2022-11-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

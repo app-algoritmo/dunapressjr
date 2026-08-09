@@ -2,7 +2,7 @@
 title: Dólar atinge menor valor em mais de um ano
 date: 2023-06-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

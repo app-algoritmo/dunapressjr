@@ -3,7 +3,7 @@ title: MIT e Ericsson firmam acordos de colaboração para pesquisar a próxima 
   de redes móveis
 date: 2022-10-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

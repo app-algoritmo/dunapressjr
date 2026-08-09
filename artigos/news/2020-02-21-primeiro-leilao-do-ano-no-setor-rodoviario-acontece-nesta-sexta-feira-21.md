@@ -2,7 +2,7 @@
 title: Primeiro leilão do ano no setor rodoviário acontece nesta sexta-feira (21)
 date: 2020-02-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

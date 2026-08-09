@@ -2,7 +2,7 @@
 title: Homeschooling - Uma quebra de paradigma
 date: 2018-09-25
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

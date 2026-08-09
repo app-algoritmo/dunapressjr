@@ -2,7 +2,7 @@
 title: Varejo ganhou mais 204 mil lojas em 2021, diz CNC
 date: 2022-03-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

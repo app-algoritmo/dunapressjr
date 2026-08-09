@@ -2,7 +2,7 @@
 title: Desde o nascimento, em 1860, Mapa acompanhou a evolução do setor agrícola brasileiro
 date: 2020-07-28
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

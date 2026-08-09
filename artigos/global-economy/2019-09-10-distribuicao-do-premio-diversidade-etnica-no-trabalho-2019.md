@@ -2,7 +2,7 @@
 title: Distribuição do Prêmio Diversidade Étnica no Trabalho 2019
 date: 2019-09-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

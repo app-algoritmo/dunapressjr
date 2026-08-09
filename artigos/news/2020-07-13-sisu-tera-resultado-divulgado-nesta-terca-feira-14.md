@@ -2,7 +2,7 @@
 title: Sisu terá resultado divulgado nesta terça-feira (14)
 date: 2020-07-13
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

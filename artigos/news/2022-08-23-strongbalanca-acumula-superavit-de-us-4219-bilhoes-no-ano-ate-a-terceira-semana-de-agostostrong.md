@@ -3,7 +3,7 @@ title: <strong>Balança acumula superávit de US$ 42,19 bilhões no ano até a t
   semana de agosto</strong>
 date: 2022-08-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

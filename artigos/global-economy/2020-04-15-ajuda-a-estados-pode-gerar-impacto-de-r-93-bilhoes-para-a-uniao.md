@@ -2,7 +2,7 @@
 title: Ajuda a estados pode gerar impacto de R$ 93 bilhões para a União
 date: 2020-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

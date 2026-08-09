@@ -2,7 +2,7 @@
 title: STF mantém validade da jornada de trabalho de 12 x 36 por acordo individual
 date: 2023-07-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

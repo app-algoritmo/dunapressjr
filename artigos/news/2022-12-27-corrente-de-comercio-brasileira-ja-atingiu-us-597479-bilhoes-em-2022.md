@@ -2,7 +2,7 @@
 title: Corrente de comércio brasileira já atingiu US$ 597,479 bilhões em 2022
 date: 2022-12-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: A eminente prisão de Alexandre de Moraes
 date: 2022-12-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

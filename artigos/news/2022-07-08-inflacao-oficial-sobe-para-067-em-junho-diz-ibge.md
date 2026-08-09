@@ -2,7 +2,7 @@
 title: Inflação oficial sobe para 0,67% em junho, diz IBGE
 date: 2022-07-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Serão cedidos cinco terminais pesqueiros à iniciativa privada em 2021
 date: 2020-08-04
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Brasil-Noruega: governantes e povos indígenas se unem para preservar a 
   tropical'
 date: 2018-09-30
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Porto de Cabedelo/PB supera 2019 com movimentação de mais de 1 milhão 
   de cargas em 2020
 date: 2021-01-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

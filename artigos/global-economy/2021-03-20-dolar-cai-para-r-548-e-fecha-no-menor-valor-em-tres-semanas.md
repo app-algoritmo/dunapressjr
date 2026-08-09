@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,48 e fecha no menor valor em três semanas
 date: 2021-03-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

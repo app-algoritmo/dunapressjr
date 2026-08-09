@@ -3,7 +3,7 @@ title: "Turismo Gastronômico em Alta: Como a Mesa Virou o Principal Destino das
 subtitle: "A experiência culinária deixou de ser um atrativo secundário e passou a ser o motor central das decisões de viagem, redesenhando rotas, economias locais e identidades culturais em todo o mundo"
 date: 2026-05-24
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tourism-and-gastronomy
 description: "O turismo gastronômico consolidou-se como um dos segmentos de maior crescimento no setor de viagens global. Uma análise aprofundada revela como destinos que investem em sua identidade culinária capturam viajantes de alto valor agregado, estimulam economias locais e constroem narrativas culturais duradouras — ao mesmo tempo em que enfrentam desafios de autenticidade e sustentabilidade."

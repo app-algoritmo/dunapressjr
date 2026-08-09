@@ -2,7 +2,7 @@
 title: Barreiras de fiscalização se intensificam nesta quarta-feira em João Pessoa
 date: 2020-06-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

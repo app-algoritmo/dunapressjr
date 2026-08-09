@@ -3,7 +3,7 @@ title: "A startup brasileira que convenceu a NASA a testar seu software de monit
 subtitle: "A MapBiomas acaba de fechar parceria técnica com a agência espacial americana para validar algoritmos de detecção de desmatamento em tempo real — um caso que redesenha o mapa da tecnologia climática feita no Brasil."
 date: 2026-07-14
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - innovation
 description: "A MapBiomas, plataforma brasileira de monitoramento territorial nascida dentro da USP e do INPE, firmou acordo técnico com a NASA para testar seus algoritmos de detecção de desmatamento em biomas fora do Brasil. O movimento sinaliza uma virada: o Sul Global exportando infraestrutura de dados ambientais para o Norte, e não o contrário."

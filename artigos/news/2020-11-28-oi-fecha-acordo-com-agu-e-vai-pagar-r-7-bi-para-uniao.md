@@ -2,7 +2,7 @@
 title: Oi fecha acordo com AGU e vai pagar R$ 7 bi para União
 date: 2020-11-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

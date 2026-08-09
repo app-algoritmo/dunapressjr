@@ -2,7 +2,7 @@
 title: <strong>Prazo para parcelar débitos de emissoras de rádio e TV acaba hoje</strong>
 date: 2022-11-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

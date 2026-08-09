@@ -2,7 +2,7 @@
 title: Índice que reajusta aluguel acumula inflação de 31,15% em 12 meses
 date: 2021-03-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

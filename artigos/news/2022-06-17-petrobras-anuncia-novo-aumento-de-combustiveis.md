@@ -2,7 +2,7 @@
 title: Petrobras anuncia novo aumento de combustíveis
 date: 2022-06-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

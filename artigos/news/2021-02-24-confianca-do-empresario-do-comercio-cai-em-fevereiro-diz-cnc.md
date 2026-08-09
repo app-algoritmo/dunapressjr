@@ -2,7 +2,7 @@
 title: Confiança do empresário do comércio cai em fevereiro, diz CNC
 date: 2021-02-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

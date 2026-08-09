@@ -2,7 +2,7 @@
 title: Polícia Federal deflagra 2ª fase da Operação Iraúna
 date: 2023-05-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

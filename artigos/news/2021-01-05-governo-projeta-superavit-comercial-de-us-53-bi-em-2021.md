@@ -2,7 +2,7 @@
 title: Governo projeta superávit comercial de US$ 53 bi em 2021
 date: 2021-01-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

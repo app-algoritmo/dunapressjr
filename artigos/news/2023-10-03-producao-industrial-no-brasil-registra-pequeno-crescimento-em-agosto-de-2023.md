@@ -2,7 +2,7 @@
 title: Produção industrial no Brasil registra pequeno crescimento em agosto de 2023
 date: 2023-10-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

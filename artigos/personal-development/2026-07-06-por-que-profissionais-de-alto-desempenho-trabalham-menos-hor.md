@@ -3,7 +3,7 @@ title: "Por que profissionais de alto desempenho trabalham menos horas do que vo
 subtitle: "Pesquisas recentes derrubam o mito da jornada exaustiva e apontam para um modelo de produtividade baseado em foco intenso, recuperação deliberada e decisões de onde não gastar energia."
 date: 2026-07-06
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - personal-development
 description: "A crença de que trabalhar mais horas equivale a produzir mais está sendo sistematicamente desmentida pela ciência do desempenho e pela prática de líderes de referência global. Entender o que separa esforço de resultado é, em 2026, uma vantagem competitiva concreta."

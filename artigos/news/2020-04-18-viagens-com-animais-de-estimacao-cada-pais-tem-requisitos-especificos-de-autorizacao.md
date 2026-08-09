@@ -1,5 +1,5 @@
 ---
-title: Viagens com animais de estimação, cada país tem requisitos específicos de  autorização
+title: Viagens com animais de estimação, cada país tem requisitos específicos de autorização
 date: 2020-04-18
 status: publish
 author: Joice Ferreira

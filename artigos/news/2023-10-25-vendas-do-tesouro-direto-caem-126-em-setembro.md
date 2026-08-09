@@ -2,7 +2,7 @@
 title: Vendas do Tesouro Direto caem 12,6% em setembro
 date: 2023-10-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

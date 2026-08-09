@@ -2,7 +2,7 @@
 title: Anatel aprova compra da Oi Móvel por Vivo, TIM e Claro
 date: 2022-02-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

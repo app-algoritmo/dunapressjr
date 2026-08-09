@@ -3,7 +3,7 @@ title: Comissão do Senado aprova prorrogação da desoneração da folha de pag
   por mais quatro anos
 date: 2023-06-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

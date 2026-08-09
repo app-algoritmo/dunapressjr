@@ -2,7 +2,7 @@
 title: Ibovespa fecha em alta de 1,90% nesta sexta-feira (1)
 date: 2023-09-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

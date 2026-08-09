@@ -2,7 +2,7 @@
 title: Dólar fecha estável, vendido a R$ 5,11
 date: 2022-08-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

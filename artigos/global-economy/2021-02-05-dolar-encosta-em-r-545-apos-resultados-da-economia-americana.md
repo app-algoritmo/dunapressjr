@@ -2,7 +2,7 @@
 title: Dólar encosta em R$ 5,45 após resultados da economia americana
 date: 2021-02-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

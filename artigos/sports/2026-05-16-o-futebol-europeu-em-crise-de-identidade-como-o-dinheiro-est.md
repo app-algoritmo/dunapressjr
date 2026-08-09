@@ -3,7 +3,7 @@ title: "O Futebol Europeu em Crise de Identidade: Como o Dinheiro Está a Redese
 subtitle: "A explosão dos contratos televisivos, a chegada dos fundos soberanos e a crescente influência das ligas asiáticas colocam em causa o modelo tradicional do futebol europeu e obrigam as federações a repensarem o seu papel no ecossistema desportivo global."
 date: 2026-05-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - sports
 description: "O futebol europeu enfrenta uma transformação estrutural sem precedentes. Entre a pressão financeira das ligas do Médio Oriente e da Ásia, a fragmentação dos direitos televisivos e o debate sobre o teto salarial, o modelo que dominou o desporto mundial durante um século está a ser posto em causa. A Duna Press analisa os vetores desta mudança e o que pode estar em jogo para os próximos anos."

@@ -2,7 +2,7 @@
 title: Twitter perde venda da plataforma por representações falsas e enganosas
 date: 2022-07-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

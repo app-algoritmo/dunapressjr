@@ -2,7 +2,7 @@
 title: 'Estromatólitos: Testemunhas Vivas da Antiga Terra'
 date: 2024-04-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Science
 ---

@@ -2,7 +2,7 @@
 title: Ministros da Noruega convidam empresárias para apresentação de plano de ação
 date: 2019-08-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

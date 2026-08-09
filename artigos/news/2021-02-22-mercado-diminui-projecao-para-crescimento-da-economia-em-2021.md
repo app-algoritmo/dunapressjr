@@ -2,7 +2,7 @@
 title: Mercado diminui projeção para crescimento da economia em 2021
 date: 2021-02-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Entenda as principais mudanças da MP da Liberdade Econômica
 date: 2019-08-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

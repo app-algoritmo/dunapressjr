@@ -3,7 +3,7 @@ title: Acordo entre União e Estados que assegura redução dos preços dos comb
   e eletricidade é homologado pelo STF
 date: 2022-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: <strong>Bombeiros do DF já podem acessar a versão digital da identidade
   na plataforma GOV.BR</strong>
 date: 2022-10-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

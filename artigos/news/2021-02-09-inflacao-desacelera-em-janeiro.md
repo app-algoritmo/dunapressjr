@@ -2,7 +2,7 @@
 title: Inflação desacelera em janeiro
 date: 2021-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

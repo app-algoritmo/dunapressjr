@@ -3,7 +3,7 @@ title: 7 de Setembro, dia da Independência, mensagem oficial do Chefe da Casa I
   do Brasil,  S.A.I.R Dom Luiz de Orleans
 date: 2019-09-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

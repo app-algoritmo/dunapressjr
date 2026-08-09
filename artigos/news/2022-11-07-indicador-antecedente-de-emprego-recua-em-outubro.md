@@ -2,7 +2,7 @@
 title: Indicador Antecedente de Emprego recua em outubro
 date: 2022-11-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

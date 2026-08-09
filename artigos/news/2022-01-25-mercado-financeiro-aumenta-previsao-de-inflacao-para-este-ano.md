@@ -2,7 +2,7 @@
 title: Mercado financeiro aumenta previsão de inflação para este ano
 date: 2022-01-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

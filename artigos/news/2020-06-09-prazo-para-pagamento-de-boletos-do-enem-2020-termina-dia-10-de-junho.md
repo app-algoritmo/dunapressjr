@@ -2,7 +2,7 @@
 title: Prazo para pagamento de boletos do Enem 2020 termina dia 10 de Junho
 date: 2020-06-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

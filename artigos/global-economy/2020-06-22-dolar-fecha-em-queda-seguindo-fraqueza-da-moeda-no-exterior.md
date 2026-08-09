@@ -2,7 +2,7 @@
 title: Dólar fecha em queda seguindo fraqueza da moeda no exterior
 date: 2020-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

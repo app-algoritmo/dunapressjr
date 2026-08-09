@@ -2,7 +2,7 @@
 title: Inflação pelo IGP-M sobe para 0,59% em junho
 date: 2022-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

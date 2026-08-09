@@ -3,7 +3,7 @@ title: 'Ítalo-Brasileira Pioneira: Dr. Natália Bellan, a Primeira Cientista co
   em Inteligência Regulatória no Mundo'
 date: 2024-07-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Science
 - Technology

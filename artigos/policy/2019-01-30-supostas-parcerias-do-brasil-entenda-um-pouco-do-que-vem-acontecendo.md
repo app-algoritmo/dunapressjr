@@ -2,7 +2,7 @@
 title: Supostas parcerias do Brasil - Entenda um pouco do que vem acontecendo
 date: 2019-01-30
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Policy
 ---

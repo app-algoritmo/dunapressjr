@@ -2,7 +2,7 @@
 title: Indicador Antecedente de Emprego registra aumento em junho
 date: 2023-07-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

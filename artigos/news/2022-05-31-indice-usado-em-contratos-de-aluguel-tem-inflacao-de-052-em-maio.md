@@ -2,7 +2,7 @@
 title: Índice usado em contratos de aluguel tem inflação de 0,52% em maio
 date: 2022-05-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

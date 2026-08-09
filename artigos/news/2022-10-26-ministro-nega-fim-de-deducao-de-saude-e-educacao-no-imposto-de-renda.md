@@ -2,7 +2,7 @@
 title: Ministro nega fim de dedução de saúde e educação no imposto de renda
 date: 2022-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

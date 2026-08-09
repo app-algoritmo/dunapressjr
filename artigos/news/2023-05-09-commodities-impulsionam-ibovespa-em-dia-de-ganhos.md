@@ -2,7 +2,7 @@
 title: Commodities impulsionam Ibovespa em dia de ganhos
 date: 2023-05-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

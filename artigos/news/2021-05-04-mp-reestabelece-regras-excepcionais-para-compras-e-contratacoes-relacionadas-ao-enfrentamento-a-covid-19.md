@@ -3,7 +3,7 @@ title: MP reestabelece regras excepcionais para compras e contratações relacio
   ao enfrentamento à Covid-19
 date: 2021-05-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

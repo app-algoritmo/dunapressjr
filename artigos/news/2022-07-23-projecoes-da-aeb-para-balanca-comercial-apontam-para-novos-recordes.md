@@ -2,7 +2,7 @@
 title: Projeções da AEB para balança comercial apontam para novos recordes
 date: 2022-07-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

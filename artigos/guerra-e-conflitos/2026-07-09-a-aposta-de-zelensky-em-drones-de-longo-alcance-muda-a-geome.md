@@ -3,7 +3,7 @@ title: "A aposta de Zelensky em drones de longo alcance muda a geometria da guer
 subtitle: "Com ataques a 1.200 km de profundidade no território russo registrados em julho de 2026, a Ucrânia abandona a lógica defensiva e testa os limites do que seus aliados ocidentais estão dispostos a tolerar."
 date: 2026-07-09
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - guerra-e-conflitos
 description: "A Ucrânia consolidou em julho de 2026 uma doutrina de guerra baseada em drones de fabricação doméstica com capacidade de alcançar Moscou e refinarias no Volga — uma virada que redistribui custos militares e pressiona a coesão da aliança ocidental. O debate agora não é mais sobre quanto tempo Kiev aguenta, mas sobre qual tipo de guerra o Ocidente está disposto a financiar."

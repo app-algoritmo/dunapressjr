@@ -2,7 +2,7 @@
 title: Homeschooling - Uma excelente alternativa!
 date: 2018-10-04
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

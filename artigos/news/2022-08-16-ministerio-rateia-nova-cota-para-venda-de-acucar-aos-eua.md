@@ -2,7 +2,7 @@
 title: Ministério rateia nova cota para venda de açúcar aos EUA
 date: 2022-08-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Por que estudar Business Intelligence na Noruega?
 date: 2018-07-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

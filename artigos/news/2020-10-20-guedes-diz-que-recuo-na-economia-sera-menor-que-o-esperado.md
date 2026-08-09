@@ -2,7 +2,7 @@
 title: Guedes diz que recuo na economia será menor que o esperado
 date: 2020-10-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

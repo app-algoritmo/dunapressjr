@@ -2,7 +2,7 @@
 title: A aceleração da floração causada pelas abelhas
 date: 2020-06-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

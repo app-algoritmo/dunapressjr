@@ -2,7 +2,7 @@
 title: Consumo nos lares brasileiros registra aumento no primeiro quadrimestre
 date: 2023-05-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "47 países assinaram o Acordo de Cingapura em 72 horas — e o Brasil fi
 subtitle: "A nova arquitetura de arbitragem comercial multilateral consolidada na cúpula de junho de 2026 redesenha rotas de investimento global, e a ausência brasileira repete um padrão que já custou caro em 2019."
 date: 2026-06-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - international-affairs
 description: "Em menos de três dias, 47 nações aderiram ao novo protocolo de arbitragem comercial firmado em Cingapura, criando um sistema que pode redirecionar até US$ 2,3 trilhões em contratos internacionais. O Brasil optou por aguardar, repetindo a hesitação que o deixou de fora do primeiro Acordo de Cingapura sobre Mediação em 2019 — e pagando o preço político e econômico da demora."

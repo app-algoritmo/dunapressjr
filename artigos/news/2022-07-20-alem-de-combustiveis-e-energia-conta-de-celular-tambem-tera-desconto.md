@@ -2,7 +2,7 @@
 title: Além de combustíveis e energia, conta de celular também terá desconto
 date: 2022-07-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

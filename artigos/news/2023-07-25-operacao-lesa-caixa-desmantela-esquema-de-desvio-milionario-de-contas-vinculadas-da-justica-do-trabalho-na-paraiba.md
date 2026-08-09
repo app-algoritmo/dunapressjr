@@ -3,7 +3,7 @@ title: Operação Lesa Caixa desmantela esquema de desvio milionário de contas 
   da Justiça do Trabalho na Paraíba
 date: 2023-07-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

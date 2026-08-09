@@ -2,7 +2,7 @@
 title: Vendas do varejo crescem 0,7% em setembro
 date: 2019-11-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

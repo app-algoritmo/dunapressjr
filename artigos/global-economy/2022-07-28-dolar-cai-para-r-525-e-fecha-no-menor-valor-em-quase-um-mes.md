@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,25 e fecha no menor valor em quase um mês
 date: 2022-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

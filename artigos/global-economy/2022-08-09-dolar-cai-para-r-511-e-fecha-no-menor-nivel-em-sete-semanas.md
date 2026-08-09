@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,11 e fecha no menor nível em sete semanas
 date: 2022-08-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

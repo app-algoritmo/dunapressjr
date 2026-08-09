@@ -3,7 +3,7 @@ title: Johnson pressiona por votação de acordo do Brexit após ser forçado a 
   adiamento
 date: 2019-10-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

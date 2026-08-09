@@ -2,7 +2,7 @@
 title: Brasil alcança recorde na produção de petróleo e gás em setembro
 date: 2023-11-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

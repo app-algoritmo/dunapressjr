@@ -3,7 +3,7 @@ title: "O Empreendedor de 2026: Entre a Inteligência Artificial e a Crise da Or
 subtitle: "Quando ferramentas cognitivas automatizam a execução, o diferencial competitivo migra para a capacidade humana de formular perguntas relevantes — e poucos fundadores estão preparados para essa transição"
 date: 2026-05-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - entrepreneurship
 description: "Em 2026, o ecossistema empreendedor enfrenta uma paradoxo inédito: nunca houve tantas ferramentas disponíveis para construir empresas, e nunca foi tão difícil construir algo verdadeiramente original. A análise examina como a proliferação de IA generativa está redesenhando o perfil do empreendedor competitivo e quais habilidades separam os fundadores que crescem dos que ficam para trás."

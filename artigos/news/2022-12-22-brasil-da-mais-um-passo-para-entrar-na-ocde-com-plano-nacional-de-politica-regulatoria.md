@@ -3,7 +3,7 @@ title: Brasil dá mais um passo para entrar na OCDE com Plano Nacional de Polít
   Regulatória
 date: 2022-12-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

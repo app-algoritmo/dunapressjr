@@ -2,7 +2,7 @@
 title: Alemanha, Noruega e Reino Unido pedem mais ambição na proteção florestal global
 date: 2019-09-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

@@ -2,7 +2,7 @@
 title: Rendimento domiciliar per capita no Brasil foi de R$ 1.625 em 2022
 date: 2023-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

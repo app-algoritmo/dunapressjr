@@ -2,7 +2,7 @@
 title: 'Como Investir no Mercado Voluntário de Carbono: Um Setor em Crescimento'
 date: 2024-10-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Environment
 ---

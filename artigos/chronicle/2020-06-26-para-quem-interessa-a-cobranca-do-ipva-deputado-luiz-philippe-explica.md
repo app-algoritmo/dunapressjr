@@ -2,7 +2,7 @@
 title: Para quem interessa a cobrança do IPVA? – Deputado Luiz Philippe explica
 date: 2020-06-26
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Chronicle
 ---

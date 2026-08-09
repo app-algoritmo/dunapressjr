@@ -2,7 +2,7 @@
 title: Afeganistão continua produzindo ópio e metanfetamina com o Talibã
 date: 2023-03-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

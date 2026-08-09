@@ -2,7 +2,7 @@
 title: Minas Gerais em situação de emergência
 date: 2019-04-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

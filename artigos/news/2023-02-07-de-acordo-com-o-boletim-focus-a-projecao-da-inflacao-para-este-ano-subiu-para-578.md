@@ -3,7 +3,7 @@ title: De acordo com o Boletim Focus, a projeção da inflação para este ano s
   5,78%
 date: 2023-02-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Índice que reajusta aluguéis cai 0,04% em fevereiro
 date: 2020-02-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

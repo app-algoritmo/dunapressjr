@@ -3,7 +3,7 @@ title: 72 milhões transferidos para estados e municípios pelo FNDE para manute
   de transporte escolar
 date: 2020-06-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

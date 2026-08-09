@@ -3,7 +3,7 @@ title: "Por que seu cachorro entende suas emoções melhor do que muitos humanos
 subtitle: "Pesquisas de 2025 revelam que cães processam expressões faciais humanas em área cerebral equivalente à nossa — e isso está redesenhando o mercado pet e as políticas de bem-estar animal no Brasil."
 date: 2026-07-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - pets
 description: "Estudos publicados em 2025 por pesquisadores da USP e da Universidade de Lincoln confirmam que cães possuem circuitos neurais dedicados ao reconhecimento emocional humano — uma descoberta que vai muito além da curiosidade científica e começa a influenciar desde protocolos veterinários até decisões de investimento num setor que movimentou R$ 68 bilhões no Brasil em 2025. O momento importa porque o país acaba de aprovar o Marco Regulatório do Bem-Estar Animal, e a ciência agora dá substância jurídica e econômica ao que tutores já intuíam."

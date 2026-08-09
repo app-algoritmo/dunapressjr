@@ -3,7 +3,7 @@ title: "O tratado que ninguém lembra criou o mundo em que vivemos: 75 anos da p
 subtitle: "Assinado em setembro de 1951 em São Francisco, o acordo que encerrou formalmente a Segunda Guerra no Pacífico redesenhou fronteiras, alianças e tensões que ainda determinam a geopolítica asiática em 2026."
 date: 2026-07-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - history
 description: "Em setembro de 1951, 48 países assinaram o Tratado de São Francisco e devolveram a soberania ao Japão — mas excluíram China e União Soviética, plantando as sementes das disputas territoriais que hoje mantêm o Indo-Pacífico em tensão permanente. Setenta e cinco anos depois, o acordo mais esquecido do pós-guerra continua sendo o documento que mais explica o presente."

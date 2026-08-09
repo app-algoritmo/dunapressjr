@@ -2,7 +2,7 @@
 title: Para o Sisu candidatos devem usar a senha cadastrada em acesso.gov.br
 date: 2020-07-06
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

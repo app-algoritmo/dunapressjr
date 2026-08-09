@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,08 em dia de otimismo externo
 date: 2020-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Intenção de Consumo das Famílias cai 0,6% em fevereiro
 date: 2021-02-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

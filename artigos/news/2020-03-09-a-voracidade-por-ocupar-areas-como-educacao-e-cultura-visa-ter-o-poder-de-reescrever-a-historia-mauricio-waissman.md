@@ -1,5 +1,5 @@
 ---
-title: A voracidade por ocupar áreas como Educação e   Cultura visa ter o poder de
+title: A voracidade por ocupar áreas como Educação e Cultura visa ter o poder de
   reescrever a História, Maurício Waissman
 date: 2020-03-09
 status: publish

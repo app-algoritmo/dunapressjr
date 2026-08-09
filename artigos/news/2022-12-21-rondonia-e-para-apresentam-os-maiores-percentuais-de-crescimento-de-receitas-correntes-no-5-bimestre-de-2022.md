@@ -3,7 +3,7 @@ title: Rondônia e Pará apresentam os maiores percentuais de crescimento de rec
   correntes no 5º bimestre de 2022
 date: 2022-12-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

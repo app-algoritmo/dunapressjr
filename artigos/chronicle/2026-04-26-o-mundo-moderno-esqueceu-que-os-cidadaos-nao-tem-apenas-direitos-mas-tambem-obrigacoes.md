@@ -3,7 +3,7 @@ title: O mundo moderno esqueceu que os cidadãos não têm apenas direitos, mas 
   obrigações
 date: 2026-04-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 - Policy

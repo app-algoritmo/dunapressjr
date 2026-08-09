@@ -2,7 +2,7 @@
 title: Ministério cancela antecipação de 2ª parcela de auxílio emergencial
 date: 2020-04-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

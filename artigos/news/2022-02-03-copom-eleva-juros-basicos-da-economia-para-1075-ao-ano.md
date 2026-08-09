@@ -2,7 +2,7 @@
 title: Copom eleva juros básicos da economia para 10,75% ao ano
 date: 2022-02-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

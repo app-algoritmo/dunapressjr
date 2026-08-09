@@ -3,7 +3,7 @@ title: Aos 48 anos ela concluiu matemática do fundamental e médio para aplicar
   escolar em casa
 date: 2021-04-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

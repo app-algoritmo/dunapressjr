@@ -2,7 +2,7 @@
 title: Brasil Eleições 2022 - Enquete Duna Press
 date: 2022-01-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Opinion
 ---

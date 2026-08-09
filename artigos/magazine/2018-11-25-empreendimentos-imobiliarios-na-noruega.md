@@ -2,7 +2,7 @@
 title: Empreendimentos imobiliários na Noruega
 date: 2018-11-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

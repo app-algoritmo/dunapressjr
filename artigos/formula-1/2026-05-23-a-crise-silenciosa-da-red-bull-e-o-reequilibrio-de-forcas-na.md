@@ -3,7 +3,7 @@ title: "A Crise Silenciosa da Red Bull e o Reequilíbrio de Forças na Fórmula 
 subtitle: "Com o novo ciclo regulatório já em curso, a hegemonia austríaca enfrenta seu maior desafio desde a era Vettel, enquanto Mercedes e Ferrari reposicionam suas fichas em uma temporada que promete reescrever hierarquias"
 date: 2026-05-23
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - formula-1
 description: "A temporada 2026 da Fórmula 1 marca uma inflexão histórica no equilíbrio de poder entre as equipes. Com regulamentos técnicos inteiramente reformulados — motores híbridos de nova geração e carros radicalmente mais leves — a Red Bull enfrenta uma transição turbulenta, enquanto Mercedes e Ferrari surgem como candidatas reais ao título. Uma análise aprofundada sobre o que os dados, as sessões de treino e os bastidores revelam sobre os primeiros meses desta temporada decisiva."

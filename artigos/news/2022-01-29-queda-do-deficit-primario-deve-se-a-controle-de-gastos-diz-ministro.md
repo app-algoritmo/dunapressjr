@@ -2,7 +2,7 @@
 title: Queda do déficit primário deve-se a controle de gastos, diz ministro
 date: 2022-01-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

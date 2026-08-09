@@ -2,7 +2,7 @@
 title: 'Minas e Energia: Brasil pode ficar 50 dias sem importar diesel'
 date: 2022-07-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

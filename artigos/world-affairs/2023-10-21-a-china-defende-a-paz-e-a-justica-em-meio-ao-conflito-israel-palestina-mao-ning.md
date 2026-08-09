@@ -3,7 +3,7 @@ title: A China Defende a Paz e a Justiça em Meio ao Conflito Israel-Palestina, 
   Ning
 date: 2023-10-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

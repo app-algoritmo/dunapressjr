@@ -2,7 +2,7 @@
 title: 'Caged: país registra saldo de 277 mil novas vagas formais de trabalho'
 date: 2022-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

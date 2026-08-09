@@ -2,7 +2,7 @@
 title: Bolsa cai 1,67% e atinge menor nível desde agosto
 date: 2022-12-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

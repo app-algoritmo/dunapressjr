@@ -2,7 +2,7 @@
 title: Cuidados para idosos durante a pandemia é tema de revista em quadrinhos
 date: 2020-06-26
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

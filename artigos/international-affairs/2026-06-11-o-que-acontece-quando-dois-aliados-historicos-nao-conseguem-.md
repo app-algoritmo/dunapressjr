@@ -3,7 +3,7 @@ title: "O que acontece quando dois aliados históricos não conseguem mais conco
 subtitle: "A cúpula do G7 em Kananaskis revelou, em junho de 2026, uma fissura estrutural na arquitetura diplomática ocidental — não entre adversários, mas entre parceiros que partilham os mesmos valores no papel."
 date: 2026-06-11
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - international-affairs
 description: "A cúpula do G7 em Kananaskis, no Canadá, encerrou-se com um comunicado conjunto de 42 páginas que esconde mais do que revela: três dos sete membros assinaram com ressalvas explícitas sobre comércio e apoio à Ucrânia. O episódio não é um tropeço protocolar — é o sinal mais claro de que o multilateralismo ocidental está sendo redesenhado a partir de dentro."

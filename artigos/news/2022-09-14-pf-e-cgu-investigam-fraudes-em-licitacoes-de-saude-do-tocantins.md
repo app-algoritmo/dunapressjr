@@ -2,7 +2,7 @@
 title: PF e CGU investigam fraudes em licitações de saúde do Tocantins
 date: 2022-09-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Instagram vs. realidade: lugares do mundo que só existem nas redes sociais'
 date: 2022-12-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Tourism and Gastronomy
 ---

@@ -2,7 +2,7 @@
 title: Americanas propõe aporte de R$ 10 bilhões a credores
 date: 2023-03-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

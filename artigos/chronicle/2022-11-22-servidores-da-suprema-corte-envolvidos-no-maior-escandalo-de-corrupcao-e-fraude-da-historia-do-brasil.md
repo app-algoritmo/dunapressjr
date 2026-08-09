@@ -3,7 +3,7 @@ title: Servidores da suprema corte envolvidos no maior escândalo de corrupção
   da história do Brasil
 date: 2022-11-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 - Policy

@@ -2,7 +2,7 @@
 title: Bolsa reage e volta a subir após quatro sessões de queda
 date: 2020-10-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

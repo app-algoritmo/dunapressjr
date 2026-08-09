@@ -3,7 +3,7 @@ title: "O Brasil exporta mais cultura do que aço — e ainda não percebeu o ta
 subtitle: "Enquanto o país debate reindustrialização, a economia criativa já movimenta R$ 316 bilhões por ano e ocupa 6,4 milhões de pessoas, mas segue sem política de Estado à altura do seu peso real."
 date: 2026-07-10
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - culture-and-history
 description: "A economia criativa brasileira movimenta mais de R$ 316 bilhões anuais e emprega 6,4 milhões de trabalhadores — números que rivalizam com setores industriais tradicionais, mas que seguem sem o mesmo prestígio político ou investimento estratégico. Entender por que o Brasil ainda trata cultura como ornamento, e não como ativo econômico e geopolítico, é a questão central de um debate que começa a mudar de tom em 2026."

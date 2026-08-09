@@ -2,7 +2,7 @@
 title: Busca por crédito tem queda de 25,7% em abril
 date: 2020-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

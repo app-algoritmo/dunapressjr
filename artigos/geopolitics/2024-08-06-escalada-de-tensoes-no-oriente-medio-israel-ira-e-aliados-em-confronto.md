@@ -2,7 +2,7 @@
 title: 'Escalada de Tensões no Oriente Médio: Israel, Irã e Aliados em Confronto'
 date: 2024-08-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 - Military

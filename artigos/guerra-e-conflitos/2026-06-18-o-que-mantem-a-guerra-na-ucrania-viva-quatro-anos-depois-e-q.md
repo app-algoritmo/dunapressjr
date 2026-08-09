@@ -3,7 +3,7 @@ title: "O que mantém a guerra na Ucrânia viva quatro anos depois — e quem ai
 subtitle: "Com frentes estabilizadas mas longe de congeladas, o conflito entrou numa fase de desgaste calculado que remodela alianças, orçamentos e mercados de energia em escala global."
 date: 2026-06-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - guerra-e-conflitos
 description: "Quatro anos após a invasão em larga escala, a guerra na Ucrânia persiste numa lógica de desgaste mútuo que nenhum dos lados consegue romper militarmente — e os custos econômicos, políticos e humanos continuam se redistribuindo silenciosamente pelo planeta. Entender quem financia, quem recua e quem lucra nesse equilíbrio precário é a chave para ler o mundo de 2026."

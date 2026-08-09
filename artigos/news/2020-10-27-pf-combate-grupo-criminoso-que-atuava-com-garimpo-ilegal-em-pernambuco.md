@@ -2,7 +2,7 @@
 title: PF combate grupo criminoso que atuava com garimpo ilegal em Pernambuco
 date: 2020-10-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

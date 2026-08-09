@@ -3,7 +3,7 @@ title: Coronavírus, uma arma perfeita para ditadores, PR Bolsonaro veta artigos
   PL 1179/2020
 date: 2020-06-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Rede TransformaGov chega à Paraíba e passa a atender toda a região Nordeste
 date: 2022-04-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Como são classificados os livros em uma biblioteca
 date: 2021-04-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Culture and History
 ---

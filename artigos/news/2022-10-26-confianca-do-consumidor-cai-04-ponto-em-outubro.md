@@ -2,7 +2,7 @@
 title: Confiança do Consumidor cai 0,4 ponto em outubro
 date: 2022-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: <strong>Setor de serviços cresce 1,1% em julho, diz IBGE</strong>
 date: 2022-09-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Como o isolamento social reflete na sociedade
 date: 2020-05-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 ---

@@ -2,7 +2,7 @@
 title: Tesouro eleva para R$ 4,9 tri teto da Dívida Pública Federal para 2020
 date: 2020-08-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

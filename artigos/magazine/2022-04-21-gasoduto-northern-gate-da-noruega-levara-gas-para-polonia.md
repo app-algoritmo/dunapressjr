@@ -2,7 +2,7 @@
 title: Gasoduto Northern Gate da Noruega levará gás para Polônia
 date: 2022-04-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

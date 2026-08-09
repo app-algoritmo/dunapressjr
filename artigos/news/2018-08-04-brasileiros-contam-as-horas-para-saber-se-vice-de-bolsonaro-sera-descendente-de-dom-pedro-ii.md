@@ -3,7 +3,7 @@ title: Brasileiros contam as horas para saber se vice de Bolsonaro será descend
   de Dom Pedro II
 date: 2018-08-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

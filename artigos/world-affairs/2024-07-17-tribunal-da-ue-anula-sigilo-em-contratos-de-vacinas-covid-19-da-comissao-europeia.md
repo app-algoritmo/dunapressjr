@@ -2,7 +2,7 @@
 title: Tribunal da UE Anula Sigilo em Contratos de Vacinas Covid-19 da Comissão Europeia
 date: 2024-07-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

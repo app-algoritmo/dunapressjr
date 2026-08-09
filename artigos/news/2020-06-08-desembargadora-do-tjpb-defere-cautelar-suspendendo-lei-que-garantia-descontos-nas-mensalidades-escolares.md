@@ -3,7 +3,7 @@ title: Desembargadora do TJPB defere cautelar suspendendo lei que garantia desco
   nas mensalidades escolares
 date: 2020-06-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

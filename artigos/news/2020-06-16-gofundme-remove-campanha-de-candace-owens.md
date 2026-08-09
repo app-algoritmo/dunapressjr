@@ -2,7 +2,7 @@
 title: GoFundMe remove campanha de Candace Owens
 date: 2020-06-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

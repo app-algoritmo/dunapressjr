@@ -2,7 +2,7 @@
 title: O Mundo à Beira do Abismo
 date: 2024-06-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: Varejo paraibano cresce 16% e tem 2ª maior alta do Nordeste
 date: 2020-10-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

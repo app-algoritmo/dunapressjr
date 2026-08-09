@@ -2,7 +2,7 @@
 title: Bolsa sobe quase 1% e atinge maior nível desde julho de 2021
 date: 2023-11-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

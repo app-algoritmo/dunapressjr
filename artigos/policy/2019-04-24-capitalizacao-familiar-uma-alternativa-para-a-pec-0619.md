@@ -2,7 +2,7 @@
 title: Capitalização familiar, uma alternativa para a PEC 06/19
 date: 2019-04-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

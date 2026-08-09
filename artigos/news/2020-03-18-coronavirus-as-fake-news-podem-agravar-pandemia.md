@@ -1,5 +1,5 @@
 ---
-title: 'Coronavírus:  As ''Fake News'' podem agravar pandemia'
+title: 'Coronavírus: As ''Fake News'' podem agravar pandemia'
 date: 2020-03-18
 status: publish
 author: Joice Ferreira

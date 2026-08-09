@@ -3,7 +3,7 @@ title: "Los Angeles 2028 começa a ser decidida agora — e o Brasil já ocupa 3
 subtitle: "A dois anos dos Jogos norte-americanos, as disputas por cotas de vagas, transmissão e influência política dentro do COI revelam que a competição real começa muito antes da cerimônia de abertura."
 date: 2026-08-01
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - olympic-games
 description: "A dois anos de Los Angeles 2028, o Brasil ampliou sua presença nas instâncias decisórias do COI e do COB, ocupando três cadeiras em comissões que definem regras, cotas e formatos das modalidades. Entender esse movimento é entender quem molda o esporte global antes que qualquer atleta pise na pista."

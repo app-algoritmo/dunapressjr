@@ -3,7 +3,7 @@ title: Dois bilhões de pessoas sem saneamento adequado e com alto risco de cont
   coronavírus
 date: 2020-06-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

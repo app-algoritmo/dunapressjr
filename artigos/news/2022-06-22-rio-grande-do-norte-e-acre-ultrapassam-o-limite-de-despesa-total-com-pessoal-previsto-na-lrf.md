@@ -3,7 +3,7 @@ title: Rio Grande do Norte e Acre ultrapassam o limite de Despesa Total com Pess
   previsto na LRF
 date: 2022-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

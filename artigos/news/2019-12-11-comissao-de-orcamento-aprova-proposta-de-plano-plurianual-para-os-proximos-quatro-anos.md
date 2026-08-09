@@ -3,7 +3,7 @@ title: Comissão de Orçamento aprova proposta de Plano Plurianual para os próx
   quatro anos
 date: 2019-12-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

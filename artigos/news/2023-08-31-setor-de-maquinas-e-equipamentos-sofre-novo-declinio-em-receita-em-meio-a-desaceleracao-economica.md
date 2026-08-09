@@ -3,7 +3,7 @@ title: Setor de máquinas e equipamentos sofre novo declínio em receita em meio
   econômica
 date: 2023-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

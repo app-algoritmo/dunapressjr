@@ -3,7 +3,7 @@ title: Saldo devedor das garantias concedias pela União era de R$ 311,99 bilhõ
   fim do 2º quadrimestre
 date: 2020-09-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

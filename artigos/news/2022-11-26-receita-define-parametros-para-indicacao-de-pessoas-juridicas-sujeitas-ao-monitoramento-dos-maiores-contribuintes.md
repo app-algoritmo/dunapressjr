@@ -3,7 +3,7 @@ title: Receita define parâmetros para indicação de pessoas jurídicas sujeita
   dos maiores contribuintes
 date: 2022-11-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

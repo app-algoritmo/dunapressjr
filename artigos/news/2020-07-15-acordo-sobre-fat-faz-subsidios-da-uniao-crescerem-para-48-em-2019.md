@@ -2,7 +2,7 @@
 title: Acordo sobre FAT faz subsídios da União crescerem para 4,8% em 2019
 date: 2020-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

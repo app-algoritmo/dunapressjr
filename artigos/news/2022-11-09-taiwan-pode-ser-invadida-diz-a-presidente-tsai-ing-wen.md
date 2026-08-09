@@ -2,7 +2,7 @@
 title: Taiwan pode ser invadida, diz a presidente Tsai Ing-wen
 date: 2022-11-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

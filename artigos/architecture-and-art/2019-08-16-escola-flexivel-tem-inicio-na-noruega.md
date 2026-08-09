@@ -2,7 +2,7 @@
 title: Escola Flexível tem início na Noruega
 date: 2019-08-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 - Education

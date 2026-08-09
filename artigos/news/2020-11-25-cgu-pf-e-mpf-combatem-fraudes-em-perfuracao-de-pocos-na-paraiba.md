@@ -2,7 +2,7 @@
 title: CGU, PF e MPF combatem fraudes em perfuração de poços na Paraíba
 date: 2020-11-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

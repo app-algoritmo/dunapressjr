@@ -2,7 +2,7 @@
 title: Por que Elon Musk chama para 'processar Fauci'
 date: 2022-12-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

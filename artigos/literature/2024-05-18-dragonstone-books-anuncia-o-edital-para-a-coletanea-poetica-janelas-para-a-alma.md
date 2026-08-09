@@ -3,7 +3,7 @@ title: DragonStone Books anuncia o edital para a coletânea Poética 'Janelas pa
   Alma'
 date: 2024-05-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Literature
 ---

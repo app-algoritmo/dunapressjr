@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,23 e atinge maior nível em um mês
 date: 2022-09-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

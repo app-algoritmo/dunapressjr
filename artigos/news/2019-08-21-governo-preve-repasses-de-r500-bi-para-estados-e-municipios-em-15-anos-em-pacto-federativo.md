@@ -3,7 +3,7 @@ title: Governo prevê repasses de R$500 bi para Estados e municípios em 15 anos
   pacto federativo
 date: 2019-08-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

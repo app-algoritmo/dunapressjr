@@ -2,7 +2,7 @@
 title: Irã descobre campo de petróleo com reservas de 53 bilhões de barris
 date: 2019-11-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

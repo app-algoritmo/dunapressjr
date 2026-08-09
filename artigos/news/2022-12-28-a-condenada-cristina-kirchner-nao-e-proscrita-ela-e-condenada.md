@@ -2,7 +2,7 @@
 title: A condenada Cristina Kirchner não é proscrita... ela é condenada
 date: 2022-12-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Mercado financeiro eleva projeção da inflação para 3,02%
 date: 2020-11-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Indicador de Incerteza da Economia (IIE-Br) da FGV sobe 5,0 pontos
 date: 2023-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

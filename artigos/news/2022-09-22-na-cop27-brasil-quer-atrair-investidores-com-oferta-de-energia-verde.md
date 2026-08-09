@@ -2,7 +2,7 @@
 title: Na COP27, Brasil quer atrair investidores com oferta de energia verde
 date: 2022-09-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Programa de Seguro Rural 2020 anunciado com orçamento recorde
 date: 2020-06-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

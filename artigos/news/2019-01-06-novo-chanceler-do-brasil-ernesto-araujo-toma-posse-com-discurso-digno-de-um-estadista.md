@@ -3,7 +3,7 @@ title: Novo Chanceler do Brasil, Ernesto Araújo toma posse com discurso digno d
   estadista
 date: 2019-01-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

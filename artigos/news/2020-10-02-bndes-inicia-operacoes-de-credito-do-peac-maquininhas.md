@@ -2,7 +2,7 @@
 title: BNDES inicia operações de crédito do Peac Maquininhas
 date: 2020-10-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

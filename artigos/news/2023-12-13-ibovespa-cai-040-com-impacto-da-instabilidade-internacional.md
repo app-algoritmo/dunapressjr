@@ -2,7 +2,7 @@
 title: Ibovespa cai 0,40% com impacto da instabilidade internacional
 date: 2023-12-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

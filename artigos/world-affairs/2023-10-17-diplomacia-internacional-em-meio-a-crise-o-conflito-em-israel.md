@@ -2,7 +2,7 @@
 title: 'Diplomacia Internacional em Meio à Crise: O Conflito em Israel'
 date: 2023-10-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

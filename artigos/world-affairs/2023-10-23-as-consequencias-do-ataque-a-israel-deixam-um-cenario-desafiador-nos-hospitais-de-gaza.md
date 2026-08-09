@@ -3,7 +3,7 @@ title: As consequências do ataque à Israel deixam um Cenário desafiador nos h
   de Gaza
 date: 2023-10-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

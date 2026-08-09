@@ -2,7 +2,7 @@
 title: 'O Impacto do Glúten na Saúde: Intoxicação, Alergias e Alimentos a Serem Evitados'
 date: 2024-10-09
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Food
 - Well-being

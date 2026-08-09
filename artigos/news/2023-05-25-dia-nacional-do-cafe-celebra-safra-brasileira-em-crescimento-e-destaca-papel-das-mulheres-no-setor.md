@@ -3,7 +3,7 @@ title: Dia Nacional do Café celebra safra brasileira em crescimento e destaca p
   das mulheres no setor
 date: 2023-05-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

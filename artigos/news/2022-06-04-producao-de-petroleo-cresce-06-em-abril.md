@@ -2,7 +2,7 @@
 title: Produção de petróleo cresce 0,6% em abril
 date: 2022-06-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

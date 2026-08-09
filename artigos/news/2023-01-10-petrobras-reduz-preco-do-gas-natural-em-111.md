@@ -2,7 +2,7 @@
 title: Petrobras reduz preço do gás natural em 11,1%
 date: 2023-01-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Programa PEAC Maquininhas beneficia mais de 20 mil pequenos negócios
 date: 2020-11-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

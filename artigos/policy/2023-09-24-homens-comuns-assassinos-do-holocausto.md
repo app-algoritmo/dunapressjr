@@ -2,7 +2,7 @@
 title: 'Homens Comuns: Assassinos do Holocausto'
 date: 2023-09-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

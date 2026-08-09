@@ -3,7 +3,7 @@ title: "O fungo que come plástico em 90 dias virou aposta de startups brasileir
 subtitle: "Pesquisadores da USP e da UFPR identificaram cepas nativas do Aspergillus tubingensis capazes de degradar polietileno em condições tropicais, abrindo uma corrida tecnológica antes mesmo de a biologia ter todas as respostas."
 date: 2026-07-07
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - science
 description: "Cepas brasileiras do fungo Aspergillus tubingensis mostram capacidade de degradar plástico comum em até 90 dias em temperatura ambiente, resultado que supera experimentos europeus conduzidos em laboratório refrigerado. O achado já mobiliza investidores e startups nacionais, enquanto a bioquímica por trás do fenômeno ainda está sendo decifrada."

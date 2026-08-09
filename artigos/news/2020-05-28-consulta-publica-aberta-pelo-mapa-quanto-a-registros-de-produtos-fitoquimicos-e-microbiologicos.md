@@ -3,7 +3,7 @@ title: Consulta pública aberta pelo MAPA quanto a registros de produtos fitoqu�
   e microbiológicos
 date: 2020-05-28
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

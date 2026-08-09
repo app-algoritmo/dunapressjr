@@ -2,7 +2,7 @@
 title: Escrever é Melhor que Digitar para Aprender
 date: 2024-01-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Science
 ---

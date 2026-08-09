@@ -2,7 +2,7 @@
 title: Brasil gera 180.005 empregos formais em abril, aponta Novo Caged
 date: 2023-06-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

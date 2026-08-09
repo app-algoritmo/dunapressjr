@@ -3,7 +3,7 @@ title: "O Brasil ganhou medalhas em Los Angeles, mas o debate real está nos bas
 subtitle: "Enquanto atletas brasileiros sobem ao pódio nos Jogos de Los Angeles 2028, uma disputa silenciosa sobre financiamento, governança e legado redefine o papel do país no cenário olímpico global."
 date: 2026-08-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - olympic-games
 description: "Com os Jogos de Los Angeles 2028 se aproximando, o Brasil vive um paradoxo: cresce em medalhas e encolhe em estrutura. O modelo de financiamento olímpico brasileiro está sob revisão e o que for decidido nos próximos 24 meses vai determinar o tamanho do país no esporte mundial por uma geração."

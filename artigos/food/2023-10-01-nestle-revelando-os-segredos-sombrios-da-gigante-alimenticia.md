@@ -2,7 +2,7 @@
 title: 'Nestlé: Revelando os Segredos Sombrios da Gigante Alimentícia'
 date: 2023-10-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Food
 - Social networks

@@ -2,7 +2,7 @@
 title: Petrobras reduz preço da gasolina e aumenta preço do diesel nas distribuidoras
 date: 2023-10-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

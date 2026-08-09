@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,21 à espera de dados da economia americana
 date: 2022-10-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

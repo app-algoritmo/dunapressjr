@@ -3,7 +3,7 @@ title: Tesouro lança credenciamento para que empresas e bancos possam recolher 
   por meio do PagTesouro
 date: 2020-06-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

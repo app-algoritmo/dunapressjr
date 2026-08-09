@@ -2,7 +2,7 @@
 title: Toda vida europeia morreu em Auschwitz
 date: 2017-12-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

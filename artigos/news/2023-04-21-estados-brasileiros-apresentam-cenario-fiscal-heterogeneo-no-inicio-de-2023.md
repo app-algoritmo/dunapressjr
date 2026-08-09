@@ -2,7 +2,7 @@
 title: Estados brasileiros apresentam cenário fiscal heterogêneo no início de 2023
 date: 2023-04-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

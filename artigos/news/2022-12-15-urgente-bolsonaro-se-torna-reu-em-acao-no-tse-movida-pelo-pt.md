@@ -2,7 +2,7 @@
 title: 'Urgente: Bolsonaro se torna réu em ação no TSE movida pelo PT'
 date: 2022-12-15
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

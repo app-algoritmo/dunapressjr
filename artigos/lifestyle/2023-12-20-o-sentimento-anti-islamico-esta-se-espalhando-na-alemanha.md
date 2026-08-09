@@ -2,7 +2,7 @@
 title: O sentimento anti-islâmico está se espalhando na Alemanha
 date: 2023-12-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Lifestyle
 - Tourism and Gastronomy

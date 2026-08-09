@@ -2,7 +2,7 @@
 title: Como declarar compra e venda de imóvel no IR
 date: 2021-03-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

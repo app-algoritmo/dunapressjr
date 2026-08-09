@@ -2,7 +2,7 @@
 title: MP institui programa de acesso a crédito para pequena e média empresa
 date: 2020-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

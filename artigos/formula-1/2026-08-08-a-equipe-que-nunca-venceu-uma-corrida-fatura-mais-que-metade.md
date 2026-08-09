@@ -3,7 +3,7 @@ title: "A equipe que nunca venceu uma corrida fatura mais que metade dos campeõ
 subtitle: "O modelo de negócio da Fórmula 1 pós-2021 inverteu a lógica do esporte: receita e vitória deixaram de andar juntas, e isso está redesenhando quem tem poder real no paddock."
 date: 2026-08-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - formula-1
 description: "Com o teto de gastos fixado em US$ 135 milhões por temporada e o fundo de premiação redistribuído pelo Acordo de Concórdia de 2021, equipes sem um único troféu constroem valuations bilionários e atraem capital soberano do Golfo Pérsico. O paradoxo financeiro da F1 moderna revela que o campeonato de pilotos e o campeonato de investidores correm em pistas paralelas — e a segunda faixa pode ser mais lucrativa."

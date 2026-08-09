@@ -2,7 +2,7 @@
 title: O Uso da Maconha pode causar Esquizofrenia e Ataque Psicótico
 date: 2023-09-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Policy

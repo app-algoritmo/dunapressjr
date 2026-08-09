@@ -2,7 +2,7 @@
 title: Teste negativo para coronavírus leva mais tripulantes a deixar navio
 date: 2020-02-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Tornado destróe armazem de vacinas da Pfizer
 date: 2023-07-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Covid-19
 ---

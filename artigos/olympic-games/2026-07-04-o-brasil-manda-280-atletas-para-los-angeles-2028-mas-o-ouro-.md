@@ -3,7 +3,7 @@ title: "O Brasil manda 280 atletas para Los Angeles 2028, mas o ouro mais disput
 subtitle: "Enquanto o País bate recordes de classificação para os próximos Jogos, uma disputa silenciosa sobre quem controla o esporte brasileiro pode definir o futuro do movimento olímpico nacional."
 date: 2026-07-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - olympic-games
 description: "O Brasil projeta sua maior delegação olímpica da história para Los Angeles 2028, com 280 atletas já no radar do Comitê Olímpico Brasileiro — mas a real disputa acontece fora das pistas, entre federações, patrocinadores e o modelo de financiamento que vai moldar uma geração. Entender essa engrenagem é entender por que medalhas virão, e por que outras não."

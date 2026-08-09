@@ -2,7 +2,7 @@
 title: Portaria regulamenta suspensão de pagamentos por parte dos RPPS municipais
 date: 2020-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

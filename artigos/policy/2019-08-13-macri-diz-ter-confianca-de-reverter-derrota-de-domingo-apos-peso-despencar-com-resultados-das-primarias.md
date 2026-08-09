@@ -3,7 +3,7 @@ title: Macri diz ter confiança de reverter derrota de domingo após peso despen
   com resultados das primárias
 date: 2019-08-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

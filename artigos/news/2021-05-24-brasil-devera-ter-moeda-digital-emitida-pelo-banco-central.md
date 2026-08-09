@@ -2,7 +2,7 @@
 title: Brasil deverá ter moeda digital emitida pelo Banco Central
 date: 2021-05-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Dólar fica praticamente estável e fecha vendido a R$ 5,41
 date: 2021-05-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Juros do cheque especial sobem para 124,5% ao ano, informa BC
 date: 2021-05-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

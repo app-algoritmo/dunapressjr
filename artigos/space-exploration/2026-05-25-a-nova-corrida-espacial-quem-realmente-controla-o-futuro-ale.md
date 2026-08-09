@@ -3,7 +3,7 @@ title: "A Nova Corrida Espacial: Quem Realmente Controla o Futuro Além da Atmos
 subtitle: "Entre governos, bilionários e potências emergentes, a disputa pelo domínio do espaço em 2026 revela tensões geopolíticas, ambições comerciais e questões éticas que a humanidade ainda não está preparada para responder"
 date: 2026-05-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - space-exploration
 description: "A exploração espacial em 2026 não é mais um projeto exclusivo de superpotências nacionais. Com SpaceX, Blue Origin e atores chineses dominando manchetes, a Duna Press analisa quem de fato detém o poder além da atmosfera terrestre e quais as implicações para a humanidade nas próximas décadas."

@@ -2,7 +2,7 @@
 title: Marinha do Brasil e USP produzirão respiradores artificiais em massa
 date: 2020-05-11
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Plano Novo Normal: Paraíba tem 62% dos municípios em bandeira laranja'
 date: 2021-02-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

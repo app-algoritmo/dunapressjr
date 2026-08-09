@@ -2,7 +2,7 @@
 title: IGP-DI registra queda de 1,45% em junho, segundo FGV/Ibre
 date: 2023-07-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

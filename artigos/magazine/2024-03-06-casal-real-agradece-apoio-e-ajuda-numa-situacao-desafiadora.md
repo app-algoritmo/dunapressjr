@@ -2,7 +2,7 @@
 title: Casal real agradece apoio e ajuda 'numa situação desafiadora'
 date: 2024-03-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Policy

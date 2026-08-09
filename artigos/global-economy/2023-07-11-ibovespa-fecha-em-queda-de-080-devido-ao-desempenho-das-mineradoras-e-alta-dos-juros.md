@@ -3,7 +3,7 @@ title: Ibovespa fecha em queda de 0,80% devido ao desempenho das mineradoras e a
   dos juros
 date: 2023-07-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

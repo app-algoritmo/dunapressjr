@@ -3,7 +3,7 @@ title: "Byung-Chul Han releu Heidegger em Berlim e o resultado incomoda Silicon 
 subtitle: "O filósofo sul-coreano radicado na Alemanha apresentou em maio de 2026 uma conferência que reformula a crítica ao desempenho como nova forma de servidão — e o argumento chegou antes aos bastidores de Davos do que às universidades brasileiras."
 date: 2026-06-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - philosophy
 description: "Byung-Chul Han revisitou Heidegger em uma conferência em Berlim para argumentar que a cultura da produtividade radical é a nova forma de exploração — desta vez autoimposta. O debate chegou ao Fórum Econômico Mundial antes de alcançar as salas de aula brasileiras, e isso diz algo urgente sobre quem define os limites do nosso tempo."

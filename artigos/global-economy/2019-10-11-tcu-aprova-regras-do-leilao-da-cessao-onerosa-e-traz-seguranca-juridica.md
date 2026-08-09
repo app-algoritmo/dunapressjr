@@ -2,7 +2,7 @@
 title: TCU aprova regras do leilão da cessão onerosa e traz segurança jurídica
 date: 2019-10-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: 'Elon Musk Monta 100.000 GPUs Nvidia em 19 Dias: Um Feito que Normalmente
   4 Anos, Segundo Jensen Huang'
 date: 2024-10-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

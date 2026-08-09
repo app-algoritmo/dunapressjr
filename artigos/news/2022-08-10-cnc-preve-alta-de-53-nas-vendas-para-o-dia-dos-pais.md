@@ -2,7 +2,7 @@
 title: CNC prevê alta de 5,3% nas vendas para o Dia dos Pais
 date: 2022-08-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

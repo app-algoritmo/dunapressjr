@@ -2,7 +2,7 @@
 title: Custo da cesta básica sobe em 14 capitais brasileiras
 date: 2023-05-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

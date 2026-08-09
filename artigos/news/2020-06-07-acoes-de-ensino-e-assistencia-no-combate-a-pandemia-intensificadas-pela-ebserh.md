@@ -2,7 +2,7 @@
 title: Ações de ensino e assistência no combate à pandemia intensificadas pela Ebserh
 date: 2020-06-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Marcos Rogério denuncia invasão da Fazenda Norbrasil em Rondônia
 date: 2022-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

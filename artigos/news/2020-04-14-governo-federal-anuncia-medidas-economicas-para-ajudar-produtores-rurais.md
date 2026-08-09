@@ -2,7 +2,7 @@
 title: Governo Federal anuncia medidas econômicas para ajudar produtores rurais
 date: 2020-04-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

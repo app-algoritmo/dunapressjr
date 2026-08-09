@@ -2,7 +2,7 @@
 title: IBGE iniciou ação do Censo 2022 pesquisando entorno de domicílios
 date: 2022-06-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

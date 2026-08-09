@@ -2,7 +2,7 @@
 title: Ibovespa inicia outubro com queda de 1,29%
 date: 2023-10-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

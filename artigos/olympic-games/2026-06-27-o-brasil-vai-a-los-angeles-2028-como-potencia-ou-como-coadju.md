@@ -3,7 +3,7 @@ title: "O Brasil vai a Los Angeles 2028 como potência ou como coadjuvante? A re
 subtitle: "Com o COB reformulando sua política de alto rendimento e o calendário olímpico se aproximando, as decisões tomadas nos próximos 18 meses definirão se o país chega à Califórnia como protagonista ou repete o ciclo de expectativas não cumpridas."
 date: 2026-06-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - olympic-games
 description: "O Brasil encerrou Paris 2024 com 12 medalhas e a 20ª posição no quadro geral — resultado honesto, mas aquém do potencial identificado em esportes como atletismo, ginástica e esportes de combate. Com Los Angeles 2028 a dois anos e dois meses de distância, o Comitê Olímpico do Brasil redesenha sua estratégia de financiamento e identificação de talentos em um momento em que o esporte global se profissionaliza em velocidade sem precedente."

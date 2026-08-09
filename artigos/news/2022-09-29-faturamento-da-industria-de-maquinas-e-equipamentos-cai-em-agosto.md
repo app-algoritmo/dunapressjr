@@ -2,7 +2,7 @@
 title: Faturamento da indústria de máquinas e equipamentos cai em agosto
 date: 2022-09-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

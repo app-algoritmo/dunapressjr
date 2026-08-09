@@ -2,7 +2,7 @@
 title: IGP-DI Cai 0,40% em Julho
 date: 2023-08-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Expectativas econômicas no Brasil para 2023 mostram crescimento impulsio
   pelo setor agropecuário
 date: 2023-05-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -1,8 +1,8 @@
 ---
-title: Allan do Santos,  jornalista brasileiro perseguido por ministros do STF
+title: Allan do Santos, jornalista brasileiro perseguido por ministros do STF
 date: 2020-01-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Prorrogada mais de 20 mil bolsas de mestrado e doutorado pela Capes
 date: 2020-06-25
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

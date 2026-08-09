@@ -3,7 +3,7 @@ title: Receita abre nesta sexta-feira (24) consulta ao lote residual de restitui
   do IRPF de março de 2023
 date: 2023-03-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

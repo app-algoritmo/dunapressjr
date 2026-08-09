@@ -3,7 +3,7 @@ title: Força-Tarefa do Sistema Único de Segurança Pública realiza Operação
   contra o crime organizado na Paraíba
 date: 2023-07-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

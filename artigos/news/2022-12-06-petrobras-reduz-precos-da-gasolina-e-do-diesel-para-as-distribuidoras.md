@@ -2,7 +2,7 @@
 title: Petrobras reduz preços da gasolina e do diesel para as distribuidoras
 date: 2022-12-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

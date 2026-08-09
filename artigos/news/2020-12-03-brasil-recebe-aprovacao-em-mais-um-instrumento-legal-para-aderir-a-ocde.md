@@ -2,7 +2,7 @@
 title: Brasil recebe aprovação em mais um instrumento legal para aderir a OCDE
 date: 2020-12-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

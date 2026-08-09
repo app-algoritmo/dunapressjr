@@ -2,7 +2,7 @@
 title: 'IBGE: IPCA de outubro atinge 0,24%, marcando o quarto mês consecutivo em alta'
 date: 2023-11-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

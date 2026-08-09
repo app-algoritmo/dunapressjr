@@ -3,7 +3,7 @@ title: 'São Paulo: Medidas para atenuar impactos da pandemia do coronavírus pa
   nas comissões permanentes'
 date: 2020-06-16
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - News
 ---

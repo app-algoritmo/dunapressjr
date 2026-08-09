@@ -2,7 +2,7 @@
 title: Karl Marx e a diferença entre comunismo e socialismo
 date: 2022-12-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

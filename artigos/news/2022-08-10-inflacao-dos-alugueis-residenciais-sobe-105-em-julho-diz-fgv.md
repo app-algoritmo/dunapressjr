@@ -2,7 +2,7 @@
 title: Inflação dos aluguéis residenciais sobe 1,05% em julho, diz FGV
 date: 2022-08-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Inflação é de 0,54% em janeiro, maior resultado para o mês desde 2016
 date: 2022-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

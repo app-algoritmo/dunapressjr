@@ -2,7 +2,7 @@
 title: Testemunhos Palestinos de Presença de Tanques Israelenses na Faixa de Gaza
 date: 2023-10-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

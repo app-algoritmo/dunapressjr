@@ -2,7 +2,7 @@
 title: Camex torna definitivo corte de 10% de tarifa comum do Mercosul
 date: 2022-08-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Governo eleva previsão de crescimento da economia para 2,7%
 date: 2022-09-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

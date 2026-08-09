@@ -2,7 +2,7 @@
 title: Governo propõe meta de déficit primário de R$ 247 bi para 2021
 date: 2020-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

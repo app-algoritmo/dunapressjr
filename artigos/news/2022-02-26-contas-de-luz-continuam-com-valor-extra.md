@@ -2,7 +2,7 @@
 title: Contas de luz continuam com valor extra
 date: 2022-02-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

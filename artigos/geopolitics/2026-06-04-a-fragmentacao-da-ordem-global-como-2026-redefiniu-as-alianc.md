@@ -3,7 +3,7 @@ title: "A Fragmentação da Ordem Global: Como 2026 Redefiniu as Alianças do S�
 subtitle: "Entre blocos rivais, potências emergentes e a erosão das instituições multilaterais, o mundo enfrenta uma reconfiguração geopolítica sem precedentes desde o fim da Guerra Fria"
 date: 2026-06-04
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitics
 description: "A primeira metade de 2026 consolidou tendências que analistas vinham sinalizando há anos: o sistema internacional baseado em regras está sendo substituído por uma lógica de blocos concorrentes, onde a pragmática sobrepõe os princípios e antigas certezas diplomáticas são descartadas em tempo real."

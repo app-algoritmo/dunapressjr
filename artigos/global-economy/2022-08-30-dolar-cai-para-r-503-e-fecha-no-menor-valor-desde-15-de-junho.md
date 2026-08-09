@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,03 e fecha no menor valor desde 15 de junho
 date: 2022-08-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

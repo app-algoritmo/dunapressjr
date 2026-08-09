@@ -3,7 +3,7 @@ title: 'CNI: Produção industrial apresenta pior evolução para o mês de feve
   2017'
 date: 2023-03-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

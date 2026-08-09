@@ -3,7 +3,7 @@ title: 'IBGE: Variação no índice nacional da construção civil reflete desaf
   setor em outubro'
 date: 2023-11-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Saldo na caderneta de poupança registra terceira queda consecutiva em setembro
 date: 2023-10-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

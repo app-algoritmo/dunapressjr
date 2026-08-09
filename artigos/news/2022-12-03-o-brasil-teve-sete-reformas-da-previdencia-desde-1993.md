@@ -2,7 +2,7 @@
 title: O Brasil teve sete reformas da previdência desde 1993
 date: 2022-12-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

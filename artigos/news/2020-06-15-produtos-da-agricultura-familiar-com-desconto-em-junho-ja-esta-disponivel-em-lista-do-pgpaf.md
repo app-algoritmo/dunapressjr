@@ -3,7 +3,7 @@ title: Produtos da agricultura familiar com desconto em junho já está disponí
   lista do PGPAF
 date: 2020-06-15
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

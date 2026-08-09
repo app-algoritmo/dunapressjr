@@ -2,7 +2,7 @@
 title: 'IBGE: Em janeiro, vendas no varejo têm alta de 3,8%'
 date: 2023-04-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

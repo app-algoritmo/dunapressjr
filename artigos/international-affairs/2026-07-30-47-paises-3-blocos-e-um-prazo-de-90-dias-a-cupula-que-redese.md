@@ -3,7 +3,7 @@ title: "47 países, 3 blocos e um prazo de 90 dias: a cúpula que redesenha as r
 subtitle: "A reunião ministerial da OMC em Genebra encerrou julho com um acordo provisório inédito sobre subsídios industriais — e um silêncio revelador dos Estados Unidos."
 date: 2026-07-30
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - international-affairs
 description: "A 14ª Conferência Ministerial da OMC produziu um acordo provisório entre 47 países sobre limites a subsídios industriais — o primeiro avanço concreto da organização em quatro anos. A ausência dos EUA na assinatura e a posição ambígua do Brasil revelam que o texto de Genebra é menos um destino do que o início de uma negociação mais dura."

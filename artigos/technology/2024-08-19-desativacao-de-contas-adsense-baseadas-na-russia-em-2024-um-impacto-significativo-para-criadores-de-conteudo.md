@@ -3,7 +3,7 @@ title: 'Desativação de Contas AdSense Baseadas na Rússia em 2024: Um Impacto 
   para Criadores de Conteúdo'
 date: 2024-08-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

@@ -2,7 +2,7 @@
 title: Painel permite acompanhamento de dados sobre a arrecadação nos estados
 date: 2020-07-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

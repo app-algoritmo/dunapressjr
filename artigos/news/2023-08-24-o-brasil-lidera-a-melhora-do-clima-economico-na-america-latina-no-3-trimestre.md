@@ -2,7 +2,7 @@
 title: O Brasil lidera a melhora do Clima Econômico na América Latina no 3º Trimestre
 date: 2023-08-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

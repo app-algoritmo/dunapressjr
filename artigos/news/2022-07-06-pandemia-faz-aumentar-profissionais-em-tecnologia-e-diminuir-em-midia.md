@@ -2,7 +2,7 @@
 title: Pandemia faz aumentar profissionais em tecnologia e diminuir em mídia
 date: 2022-07-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

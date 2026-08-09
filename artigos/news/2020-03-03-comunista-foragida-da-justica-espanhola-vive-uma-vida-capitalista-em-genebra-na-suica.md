@@ -3,7 +3,7 @@ title: Comunista foragida da justiça espanhola vive uma vida capitalista em Gen
   na Suíça
 date: 2020-03-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

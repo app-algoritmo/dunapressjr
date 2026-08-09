@@ -3,7 +3,7 @@ title: Índice de Variação de Aluguéis Residenciais (IVAR) registra aceleraç
   de 2023
 date: 2023-08-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

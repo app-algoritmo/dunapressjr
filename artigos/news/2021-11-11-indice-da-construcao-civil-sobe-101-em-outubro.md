@@ -2,7 +2,7 @@
 title: Índice da construção civil sobe 1,01% em outubro
 date: 2021-11-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

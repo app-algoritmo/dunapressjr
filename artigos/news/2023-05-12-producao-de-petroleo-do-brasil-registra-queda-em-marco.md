@@ -2,7 +2,7 @@
 title: Produção de petróleo do Brasil registra queda em março
 date: 2023-05-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

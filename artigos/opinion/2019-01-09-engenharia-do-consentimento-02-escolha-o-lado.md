@@ -2,7 +2,7 @@
 title: Engenharia do Consentimento - 02 - Escolha o lado
 date: 2019-01-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

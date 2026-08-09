@@ -2,7 +2,7 @@
 title: PR Bolsonaro desafia governadores a reduzir imposto sobre combustíveis
 date: 2020-02-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

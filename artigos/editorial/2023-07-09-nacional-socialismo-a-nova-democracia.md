@@ -2,7 +2,7 @@
 title: Nacional Socialismo, a nova “Democracia”
 date: 2023-07-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Editorial
 ---

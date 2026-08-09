@@ -2,7 +2,7 @@
 title: Novo presidente da Petrobras toma posse hoje
 date: 2022-04-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

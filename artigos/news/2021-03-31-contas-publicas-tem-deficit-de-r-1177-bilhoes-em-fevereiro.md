@@ -2,7 +2,7 @@
 title: Contas públicas têm déficit de R$ 11,77 bilhões em fevereiro
 date: 2021-03-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Confiança do comércio sobe em abril
 date: 2021-04-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

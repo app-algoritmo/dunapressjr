@@ -3,7 +3,7 @@ title: Superávit comercial sobe 161% e chega a US$ 2,43 bilhões na primeira se
   de junho
 date: 2021-06-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "O eleitor de 2026 já decidiu antes do debate — e os partidos ainda n�
 subtitle: "Pesquisas de intenção de voto revelam uma cristalização precoce de preferências que desafia a lógica tradicional das campanhas eleitorais brasileiras e redesenha o papel dos candidatos na reta final."
 date: 2026-06-11
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - politics-and-society
 description: "Com seis meses para as eleições de outubro de 2026, levantamentos nacionais apontam que mais de 60% dos eleitores já têm candidato definido — um fenômeno inédito neste momento do ciclo eleitoral. Entender por que isso acontece agora pode ser a diferença entre uma campanha relevante e um monólogo caro."

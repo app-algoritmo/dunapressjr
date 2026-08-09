@@ -2,7 +2,7 @@
 title: Dívidas do Simples poderão ser pagas ou renegociadas até 31 de março
 date: 2022-01-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

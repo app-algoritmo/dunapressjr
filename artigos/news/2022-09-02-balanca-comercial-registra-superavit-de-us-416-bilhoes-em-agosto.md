@@ -2,7 +2,7 @@
 title: Balança comercial registra superávit de US$ 4,16 bilhões em agosto
 date: 2022-09-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

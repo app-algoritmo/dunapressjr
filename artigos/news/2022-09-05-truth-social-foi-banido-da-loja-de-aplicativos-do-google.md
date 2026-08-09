@@ -2,7 +2,7 @@
 title: Truth Social foi banido da loja de aplicativos do Google
 date: 2022-09-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

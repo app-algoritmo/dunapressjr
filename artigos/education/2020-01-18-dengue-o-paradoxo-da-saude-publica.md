@@ -2,7 +2,7 @@
 title: 'Dengue: O paradoxo da saúde pública'
 date: 2020-01-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

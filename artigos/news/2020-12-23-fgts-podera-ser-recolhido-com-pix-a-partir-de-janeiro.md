@@ -2,7 +2,7 @@
 title: FGTS poderá ser recolhido com Pix a partir de janeiro
 date: 2020-12-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

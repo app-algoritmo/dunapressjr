@@ -2,7 +2,7 @@
 title: CMN fixa em 3% a meta de inflação para 2025
 date: 2022-06-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

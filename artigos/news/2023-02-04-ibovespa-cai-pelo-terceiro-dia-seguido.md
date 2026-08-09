@@ -2,7 +2,7 @@
 title: Ibovespa cai pelo terceiro dia seguido
 date: 2023-02-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

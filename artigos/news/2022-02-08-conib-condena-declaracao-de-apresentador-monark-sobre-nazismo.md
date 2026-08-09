@@ -1,5 +1,5 @@
 ---
-title: Conib condena declaração de apresentador Monark  sobre nazismo
+title: Conib condena declaração de apresentador Monark sobre nazismo
 date: 2022-02-08
 status: publish
 author: Joice Ferreira

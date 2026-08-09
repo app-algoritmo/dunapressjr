@@ -2,7 +2,7 @@
 title: Ufam divulga artigo sobre uso de produtos naturais no tratamento ao coronavírus
 date: 2020-07-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

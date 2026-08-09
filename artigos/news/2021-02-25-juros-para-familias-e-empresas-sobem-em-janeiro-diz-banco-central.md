@@ -2,7 +2,7 @@
 title: Juros para famílias e empresas sobem em janeiro, diz Banco Central
 date: 2021-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

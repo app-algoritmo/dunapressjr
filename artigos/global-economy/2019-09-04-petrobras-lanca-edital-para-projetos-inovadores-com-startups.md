@@ -2,7 +2,7 @@
 title: Petrobras lança edital para projetos inovadores com startups
 date: 2019-09-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

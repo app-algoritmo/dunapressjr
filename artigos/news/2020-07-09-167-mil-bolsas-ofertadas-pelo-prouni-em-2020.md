@@ -2,7 +2,7 @@
 title: 167 mil bolsas ofertadas pelo Prouni em 2020
 date: 2020-07-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

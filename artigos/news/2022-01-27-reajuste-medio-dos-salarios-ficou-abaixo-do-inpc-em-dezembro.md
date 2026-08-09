@@ -2,7 +2,7 @@
 title: Reajuste médio dos salários ficou abaixo do INPC em dezembro
 date: 2022-01-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

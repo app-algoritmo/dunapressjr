@@ -2,7 +2,7 @@
 title: Consequências Devastadoras do Bloqueio do X para Ciência e Tecnologia no Brasil
 date: 2024-08-31
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

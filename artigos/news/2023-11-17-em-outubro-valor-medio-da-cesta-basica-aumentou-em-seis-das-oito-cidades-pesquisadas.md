@@ -2,7 +2,7 @@
 title: Em outubro, valor médio da cesta básica aumentou em seis das oito cidades pesquisadas
 date: 2023-11-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

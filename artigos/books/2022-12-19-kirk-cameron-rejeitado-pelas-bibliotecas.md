@@ -2,7 +2,7 @@
 title: Kirk Cameron rejeitado pelas bibliotecas
 date: 2022-12-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Books
 - Education

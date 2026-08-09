@@ -2,7 +2,7 @@
 title: Intenção de consumo das famílias volta a crescer após cinco quedas
 date: 2020-09-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

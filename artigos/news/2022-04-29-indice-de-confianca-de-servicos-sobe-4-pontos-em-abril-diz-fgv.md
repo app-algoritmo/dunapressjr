@@ -2,7 +2,7 @@
 title: Índice de Confiança de Serviços sobe 4 pontos em abril, diz FGV
 date: 2022-04-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

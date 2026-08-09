@@ -2,7 +2,7 @@
 title: Superávit dos estados aumenta em 2019 com alta da receita e queda do investimento
 date: 2020-08-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

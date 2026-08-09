@@ -2,7 +2,7 @@
 title: Produtores rurais da região Norte receberam R$ 7,6 bi de crédito em 2019
 date: 2020-03-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

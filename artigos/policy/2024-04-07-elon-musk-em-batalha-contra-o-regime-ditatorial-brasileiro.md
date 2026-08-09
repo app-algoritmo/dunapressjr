@@ -2,7 +2,7 @@
 title: Elon Musk em Batalha Contra o Regime Ditatorial Brasileiro
 date: 2024-04-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

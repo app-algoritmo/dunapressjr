@@ -2,7 +2,7 @@
 title: Bancos poderão retomar financiamentos do Plano Safra 2021/2022
 date: 2022-06-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

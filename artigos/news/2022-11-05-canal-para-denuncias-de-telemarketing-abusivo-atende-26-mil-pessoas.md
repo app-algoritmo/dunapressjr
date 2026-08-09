@@ -2,7 +2,7 @@
 title: Canal para denúncias de telemarketing abusivo atende 26 mil pessoas
 date: 2022-11-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

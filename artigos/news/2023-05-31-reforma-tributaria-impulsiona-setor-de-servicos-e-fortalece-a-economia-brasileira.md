@@ -2,7 +2,7 @@
 title: Reforma Tributária impulsiona setor de Serviços e fortalece a economia brasileira
 date: 2023-05-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

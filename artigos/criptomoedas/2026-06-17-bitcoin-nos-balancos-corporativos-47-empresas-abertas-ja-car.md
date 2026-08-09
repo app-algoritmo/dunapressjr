@@ -3,7 +3,7 @@ title: "Bitcoin nos balanços corporativos: 47 empresas abertas já carregam R$ 
 subtitle: "Enquanto a adoção institucional de bitcoin acelera globalmente com novos padrões contábeis do FASB em vigor desde janeiro de 2025, companhias brasileiras enfrentam um vácuo regulatório que transforma cautela legítima em desvantagem competitiva real."
 date: 2026-06-17
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - criptomoedas
 description: "Quarenta e sete empresas de capital aberto ao redor do mundo já registram bitcoin como ativo de reserva em seus balanços, somando o equivalente a R$ 2 trilhões em exposição combinada. No Brasil, onde a regulação da CVM ainda não equiparou o tratamento contábil ao padrão internacional, o movimento corporativo existe mas permanece invisível — e isso tem um custo mensurável."

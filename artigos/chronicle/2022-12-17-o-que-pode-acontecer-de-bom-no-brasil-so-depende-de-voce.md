@@ -2,7 +2,7 @@
 title: O que pode acontecer de bom no Brasil, só depende de você
 date: 2022-12-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Chronicle
 - News

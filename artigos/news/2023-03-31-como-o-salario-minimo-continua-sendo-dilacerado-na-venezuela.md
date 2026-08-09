@@ -2,7 +2,7 @@
 title: Como o salário mínimo continua sendo dilacerado na Venezuela
 date: 2023-03-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

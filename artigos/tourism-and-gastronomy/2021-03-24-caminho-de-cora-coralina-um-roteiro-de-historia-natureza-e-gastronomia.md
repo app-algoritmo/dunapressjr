@@ -2,7 +2,7 @@
 title: Caminho de Cora Coralina, um roteiro de história, natureza e gastronomia
 date: 2021-03-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Tourism and Gastronomy
 ---

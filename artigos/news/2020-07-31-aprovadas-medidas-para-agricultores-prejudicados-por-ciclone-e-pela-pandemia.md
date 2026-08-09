@@ -2,7 +2,7 @@
 title: Aprovadas medidas para agricultores prejudicados por ciclone e pela pandemia
 date: 2020-07-31
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

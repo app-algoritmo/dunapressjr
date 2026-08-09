@@ -2,7 +2,7 @@
 title: Câmbio e commodities tiveram efeito sobre preços dos alimentos, diz IFI
 date: 2020-09-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Legislação Responsável: O Poder das Leis na Definição do Nosso Futuro'
 date: 2024-07-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Opinion
 ---

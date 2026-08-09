@@ -2,7 +2,7 @@
 title: Passivos da União superam ativos em US$ 2,9 trilhões, diz Tesouro
 date: 2020-07-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

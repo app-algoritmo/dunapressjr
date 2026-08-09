@@ -2,7 +2,7 @@
 title: Lula avança com o Fundo Amazônia
 date: 2023-01-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

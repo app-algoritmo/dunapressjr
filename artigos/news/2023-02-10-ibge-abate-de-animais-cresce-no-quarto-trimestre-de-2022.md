@@ -2,7 +2,7 @@
 title: 'IBGE: Abate de animais cresce no quarto trimestre de 2022'
 date: 2023-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: "A Crise Silenciosa da Saúde Mental no Brasil: O Que os Números de 2026 Revelam"
 date: 2026-05-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - health
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778577640/A_Crise_Silenciosa_da_Sau%CC%81de_Mental_no_Brasil_-_O_Que_os_Nu%CC%81meros_de_2026_Revelam_ec2xww.jpg"

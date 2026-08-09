@@ -3,7 +3,7 @@ title: "Quem trabalha 55 horas por semana toma decisões piores do que quem trab
 subtitle: "Pesquisas da OIT e de universidades britânicas mostram que excesso de horas não apenas reduz produtividade, mas inverte a lógica de quem sobe mais rápido na carreira."
 date: 2026-07-27
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - personal-development
 description: "Trabalhar mais de 55 horas semanais deteriora cognição, criatividade e capacidade de julgamento — três ativos centrais de qualquer carreira de alto impacto. O paradoxo é que os profissionais mais ocupados raramente percebem a queda, o que torna o problema mais difícil de corrigir do que parece."

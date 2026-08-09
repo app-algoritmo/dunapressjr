@@ -2,7 +2,7 @@
 title: Congresso promulga emenda do Orçamento de Guerra
 date: 2020-05-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

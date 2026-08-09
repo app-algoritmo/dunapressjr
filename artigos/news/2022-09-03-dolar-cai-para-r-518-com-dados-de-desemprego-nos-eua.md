@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 5,18 com dados de desemprego nos EUA
 date: 2022-09-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

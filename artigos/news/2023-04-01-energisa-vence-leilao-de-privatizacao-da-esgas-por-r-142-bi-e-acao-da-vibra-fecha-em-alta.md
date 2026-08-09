@@ -3,7 +3,7 @@ title: Energisa vence leilão de privatização da ESGás por R$ 1,42 bi e açã
   fecha em alta
 date: 2023-04-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

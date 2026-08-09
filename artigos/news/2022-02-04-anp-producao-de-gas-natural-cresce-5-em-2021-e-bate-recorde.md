@@ -2,7 +2,7 @@
 title: 'ANP: produção de gás natural cresce 5% em 2021 e bate recorde'
 date: 2022-02-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

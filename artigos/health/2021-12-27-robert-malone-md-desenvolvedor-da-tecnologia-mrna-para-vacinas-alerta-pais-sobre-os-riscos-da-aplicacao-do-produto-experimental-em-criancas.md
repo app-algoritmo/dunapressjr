@@ -3,7 +3,7 @@ title: Robert Malone MD, desenvolvedor da tecnologia mRNA para vacinas, alerta p
   sobre os riscos da aplicação do produto experimental em crianças
 date: 2021-12-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 ---

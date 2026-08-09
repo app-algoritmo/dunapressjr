@@ -3,7 +3,7 @@ title: "O futebol brasileiro vale bilhões — então por que os clubes ainda qu
 subtitle: "Com receitas recordes e audiências globais, a contradição financeira do futebol nacional expõe um modelo de gestão que resiste à modernização mesmo quando ela é lucrativa"
 date: 2026-08-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - soccer
 description: "Os clubes brasileiros movimentaram R$ 6,8 bilhões em receitas em 2025, segundo o Itaú BBA, mas mais de 60% seguem com dívidas superiores ao próprio faturamento anual. O paradoxo revela não uma crise passageira, mas uma escolha estrutural — e alguns clubes estão começando a quebrá-la."

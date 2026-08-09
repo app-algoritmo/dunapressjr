@@ -2,7 +2,7 @@
 title: Economia e FIEC apresentam resultados de projeto sobre a redução do Custo Brasil
 date: 2021-04-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

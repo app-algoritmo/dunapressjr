@@ -2,7 +2,7 @@
 title: Economia segue em processo de recuperação gradual, diz BC
 date: 2020-02-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

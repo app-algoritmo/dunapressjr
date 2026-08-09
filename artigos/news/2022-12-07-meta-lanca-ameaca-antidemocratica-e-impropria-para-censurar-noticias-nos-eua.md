@@ -3,7 +3,7 @@ title: Meta lança ameaça 'antidemocrática e imprópria' para censurar notíci
   EUA
 date: 2022-12-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

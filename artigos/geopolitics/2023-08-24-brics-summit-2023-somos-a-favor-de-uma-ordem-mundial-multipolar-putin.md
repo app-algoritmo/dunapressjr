@@ -1,8 +1,8 @@
 ---
-title: 'Brics Summit 2023: Somos a favor de uma ordem mundial multipolar,  Putin'
+title: 'Brics Summit 2023: Somos a favor de uma ordem mundial multipolar, Putin'
 date: 2023-08-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

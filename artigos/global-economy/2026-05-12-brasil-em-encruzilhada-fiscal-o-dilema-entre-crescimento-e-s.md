@@ -2,7 +2,7 @@
 title: "Brasil em Encruzilhada Fiscal: O Dilema Entre Crescimento e Sustentabilidade da Dívida em 2026"
 date: 2026-05-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-economy
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778599767/Brasil_em_Encruzilhada_Fiscal-_O_Dilema_Entre_Crescimento_e_Sustentabilidade_da_Di%CC%81vida_em_2026_fisjqe.jpg"

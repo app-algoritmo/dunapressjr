@@ -2,7 +2,7 @@
 title: Proposta de reforma administrativa prevê criação de novos vínculos
 date: 2020-09-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

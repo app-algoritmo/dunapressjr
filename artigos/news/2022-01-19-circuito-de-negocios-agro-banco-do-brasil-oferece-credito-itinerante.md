@@ -2,7 +2,7 @@
 title: Circuito de Negócios Agro Banco do Brasil oferece crédito itinerante
 date: 2022-01-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: "Por que seu intestino pode saber que você está estressado antes do seu
 subtitle: "A neurociência do eixo intestino-cérebro chegou aos consultórios brasileiros e está redesenhando o que entendemos sobre ansiedade, imunidade e decisão."
 date: 2026-07-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - science
 description: "Pesquisas publicadas em 2025 e 2026 consolidaram o papel do microbioma intestinal na regulação do humor e das respostas imunes — e grupos brasileiros estão entre os protagonistas desse campo. Entender essa via de mão dupla entre intestino e cérebro pode mudar tanto o tratamento da ansiedade quanto a forma como avaliamos o que comemos no dia a dia."

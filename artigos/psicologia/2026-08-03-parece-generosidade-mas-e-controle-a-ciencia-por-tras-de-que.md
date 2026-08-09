@@ -3,7 +3,7 @@ title: "Parece generosidade, mas é controle: a ciência por trás de quem doa p
 subtitle: "Pesquisas recentes em neurociência social revelam que o altruísmo pode ser um mecanismo sofisticado de poder — e que o cérebro do receptor sabe disso antes da mente consciente."
 date: 2026-08-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - psicologia
 description: "Estudos publicados em 2025 no journal Nature Human Behaviour identificaram padrões cerebrais distintos entre quem recebe um favor genuíno e quem recebe um favor instrumental — e o receptor detecta a diferença em menos de 200 milissegundos. Entender essa fronteira tênue entre generosidade e dominância pode mudar como você lê suas relações mais próximas."

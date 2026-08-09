@@ -3,7 +3,7 @@ title: "O aluno que aprende com IA tira notas melhores — mas o que ele perde n
 subtitle: "Enquanto escolas brasileiras correm para adotar ferramentas de inteligência artificial, pesquisadores começam a documentar um paradoxo: ganho de desempenho imediato, perda gradual de autonomia cognitiva."
 date: 2026-07-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - education
 description: "Dados preliminares de universidades brasileiras e americanas mostram que estudantes que usam IA regularmente performam melhor em tarefas estruturadas, mas apresentam dificuldade crescente em resolver problemas abertos. O debate chega em momento crítico: o Brasil tem 2026 como ano-pivô para definir como — e para quem — a tecnologia entrará nas salas de aula públicas."

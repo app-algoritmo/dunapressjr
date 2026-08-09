@@ -2,7 +2,7 @@
 title: Exportações do agronegócio batem recorde em janeiro
 date: 2023-02-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

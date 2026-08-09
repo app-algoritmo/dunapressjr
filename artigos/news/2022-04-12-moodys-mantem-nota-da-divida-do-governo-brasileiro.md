@@ -2,7 +2,7 @@
 title: Moody’s mantém nota da dívida do governo brasileiro
 date: 2022-04-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

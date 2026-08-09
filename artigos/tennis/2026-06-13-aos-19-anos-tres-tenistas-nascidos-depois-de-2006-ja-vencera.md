@@ -3,7 +3,7 @@ title: "Aos 19 anos, três tenistas nascidos depois de 2006 já venceram torneio
 subtitle: "Uma geração de jovens prodígios rompe o calendário, desafia contratos de patrocínio e obriga a ATP a repensar regras de acesso criadas quando Federer tinha 16 anos."
 date: 2026-06-13
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tennis
 description: "Três tenistas com menos de 20 anos já conquistaram títulos ATP em 2026, pressionando uma estrutura pensada para proteger jovens que, paradoxalmente, agora os atrasa. O fenômeno redesenha patrocínios, ranking e até a física do jogo moderno."

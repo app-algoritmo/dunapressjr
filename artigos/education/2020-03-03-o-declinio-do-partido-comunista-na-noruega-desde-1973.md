@@ -2,7 +2,7 @@
 title: O Declínio do Partido Comunista na Noruega desde 1973
 date: 2020-03-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Policy

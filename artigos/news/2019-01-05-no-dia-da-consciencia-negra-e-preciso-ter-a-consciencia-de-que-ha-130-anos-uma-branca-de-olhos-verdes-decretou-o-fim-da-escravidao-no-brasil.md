@@ -3,7 +3,7 @@ title: No Dia da Consciência NEGRA, é preciso ter a consciência de que há 13
   uma BRANCA de olhos verdes decretou o fim da escravidão no Brasil
 date: 2019-01-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

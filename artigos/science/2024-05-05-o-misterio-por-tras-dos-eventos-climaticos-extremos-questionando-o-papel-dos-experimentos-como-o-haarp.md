@@ -3,7 +3,7 @@ title: 'O Mistério por Trás dos Eventos Climáticos Extremos: Questionando o P
   dos Experimentos como o HAARP'
 date: 2024-05-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Science
 ---

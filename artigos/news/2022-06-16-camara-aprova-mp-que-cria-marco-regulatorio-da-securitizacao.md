@@ -2,7 +2,7 @@
 title: Câmara aprova MP que cria marco regulatório da securitização
 date: 2022-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Governo Central tem superávit primário de R$ 10,95 bilhões em setembro
 date: 2022-10-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Chefe de inteligência na Colômbia deixa cargo após entrega de dados fa
   à ONU
 date: 2019-10-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

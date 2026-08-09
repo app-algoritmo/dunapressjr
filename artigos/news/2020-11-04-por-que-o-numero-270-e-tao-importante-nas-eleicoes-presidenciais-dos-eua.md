@@ -2,7 +2,7 @@
 title: Por que o número 270 é tão importante nas eleições presidenciais dos EUA?
 date: 2020-11-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

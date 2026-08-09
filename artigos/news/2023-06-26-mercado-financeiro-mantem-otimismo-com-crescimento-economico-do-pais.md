@@ -2,7 +2,7 @@
 title: Mercado financeiro mantém otimismo com crescimento econômico do país
 date: 2023-06-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

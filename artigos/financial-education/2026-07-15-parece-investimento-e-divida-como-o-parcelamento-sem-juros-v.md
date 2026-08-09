@@ -3,7 +3,7 @@ title: "Parece investimento, é dívida: como o parcelamento sem juros virou a a
 subtitle: "Com a Selic a 10,5% ao ano e o endividamento familiar acima de 78% segundo o Banco Central, entender o custo invisível do crédito fácil deixou de ser opcional."
 date: 2026-07-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - financial-education
 description: "O parcelamento sem juros, apresentado como vantagem, esconde um mecanismo que corrói o poder de construção de patrimônio da classe média — e os números do endividamento brasileiro em 2026 mostram que a conta chegou. Entender a diferença entre crédito como ferramenta e crédito como armadilha pode mudar a trajetória financeira de uma família inteira."

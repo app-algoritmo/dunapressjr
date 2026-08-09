@@ -2,7 +2,7 @@
 title: Intenção de Consumo das Famílias cresce 2,9%
 date: 2022-07-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

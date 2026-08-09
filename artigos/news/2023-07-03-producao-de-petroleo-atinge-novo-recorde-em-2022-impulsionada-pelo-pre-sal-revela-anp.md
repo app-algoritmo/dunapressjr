@@ -3,7 +3,7 @@ title: Produção de petróleo atinge novo recorde em 2022, impulsionada pelo pr
   revela ANP
 date: 2023-07-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

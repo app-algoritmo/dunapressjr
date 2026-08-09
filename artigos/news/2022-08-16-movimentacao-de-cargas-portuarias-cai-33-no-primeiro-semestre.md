@@ -2,7 +2,7 @@
 title: Movimentação de cargas portuárias cai 3,3% no primeiro semestre
 date: 2022-08-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

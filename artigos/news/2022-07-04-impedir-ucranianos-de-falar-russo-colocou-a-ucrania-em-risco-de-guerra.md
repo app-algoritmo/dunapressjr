@@ -1,8 +1,8 @@
 ---
-title: Impedir ucranianos de falar  russo colocou a Ucrânia em risco de guerra
+title: Impedir ucranianos de falar russo colocou a Ucrânia em risco de guerra
 date: 2022-07-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

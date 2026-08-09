@@ -2,7 +2,7 @@
 title: Entorno regional é prioritário, diz Bolsonaro em reunião do Mercosul
 date: 2022-07-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

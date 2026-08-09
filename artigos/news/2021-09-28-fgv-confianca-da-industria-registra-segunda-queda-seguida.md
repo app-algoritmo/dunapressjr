@@ -2,7 +2,7 @@
 title: 'FGV: Confiança da Indústria registra segunda queda seguida'
 date: 2021-09-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

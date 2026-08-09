@@ -2,7 +2,7 @@
 title: Venezuela “enfrenta fila” para comprar gasolina
 date: 2022-12-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

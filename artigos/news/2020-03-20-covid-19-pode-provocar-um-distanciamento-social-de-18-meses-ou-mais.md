@@ -2,7 +2,7 @@
 title: COVID-19 pode provocar um distanciamento social de 18 meses ou mais
 date: 2020-03-20
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

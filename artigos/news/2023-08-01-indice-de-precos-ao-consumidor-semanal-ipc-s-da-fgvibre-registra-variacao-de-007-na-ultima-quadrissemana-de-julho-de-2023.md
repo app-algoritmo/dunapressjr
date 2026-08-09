@@ -3,7 +3,7 @@ title: Índice de Preços ao Consumidor Semanal (IPC-S) da FGV/Ibre registra var
   de 0,07% na última quadrissemana de julho de 2023
 date: 2023-08-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

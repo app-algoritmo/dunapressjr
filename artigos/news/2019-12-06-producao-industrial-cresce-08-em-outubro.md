@@ -2,7 +2,7 @@
 title: Produção industrial cresce 0,8% em outubro
 date: 2019-12-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

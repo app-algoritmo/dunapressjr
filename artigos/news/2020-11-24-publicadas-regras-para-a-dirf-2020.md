@@ -2,7 +2,7 @@
 title: Publicadas regras para a DIRF 2020
 date: 2020-11-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

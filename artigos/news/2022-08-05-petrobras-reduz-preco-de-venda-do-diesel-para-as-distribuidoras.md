@@ -2,7 +2,7 @@
 title: Petrobras reduz preço de venda do diesel para as distribuidoras
 date: 2022-08-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

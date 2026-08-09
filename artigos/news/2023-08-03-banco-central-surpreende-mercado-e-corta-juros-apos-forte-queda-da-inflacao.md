@@ -2,7 +2,7 @@
 title: Banco Central surpreende mercado e corta juros após forte queda da inflação
 date: 2023-08-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

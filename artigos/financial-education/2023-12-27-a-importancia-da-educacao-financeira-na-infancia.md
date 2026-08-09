@@ -2,7 +2,7 @@
 title: A Importância da Educação Financeira na Infância
 date: 2023-12-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Financial Education
 ---

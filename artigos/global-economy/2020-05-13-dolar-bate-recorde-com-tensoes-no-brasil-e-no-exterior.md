@@ -2,7 +2,7 @@
 title: Dólar bate recorde com tensões no Brasil e no exterior
 date: 2020-05-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

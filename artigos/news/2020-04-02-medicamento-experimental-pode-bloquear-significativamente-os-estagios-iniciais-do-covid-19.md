@@ -3,7 +3,7 @@ title: Medicamento experimental pode bloquear significativamente os estágios in
   do COVID-19
 date: 2020-04-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

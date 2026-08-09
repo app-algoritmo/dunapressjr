@@ -2,7 +2,7 @@
 title: 'Reafirmando a Identidade Russa: Uma Nova Era na Educação Histórica'
 date: 2024-05-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

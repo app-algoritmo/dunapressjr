@@ -2,7 +2,7 @@
 title: Nomeações para a Suprema Corte
 date: 2022-03-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Policy

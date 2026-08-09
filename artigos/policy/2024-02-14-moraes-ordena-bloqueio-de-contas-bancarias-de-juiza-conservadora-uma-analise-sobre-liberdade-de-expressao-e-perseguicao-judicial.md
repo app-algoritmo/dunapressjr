@@ -3,7 +3,7 @@ title: 'Moraes ordena bloqueio de contas bancárias de juíza conservadora: Uma 
   sobre liberdade de expressão e perseguição judicial'
 date: 2024-02-14
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

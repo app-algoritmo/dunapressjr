@@ -3,7 +3,7 @@ title: Governador da Paraíba anuncia nesta segunda a retomada de obras suspensa
   pandemia
 date: 2020-07-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

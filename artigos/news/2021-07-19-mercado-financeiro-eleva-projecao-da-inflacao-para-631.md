@@ -2,7 +2,7 @@
 title: Mercado financeiro eleva projeção da inflação para 6,31%
 date: 2021-07-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

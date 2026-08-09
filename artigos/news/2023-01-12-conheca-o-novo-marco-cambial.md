@@ -2,7 +2,7 @@
 title: Conheça o Novo marco cambial
 date: 2023-01-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

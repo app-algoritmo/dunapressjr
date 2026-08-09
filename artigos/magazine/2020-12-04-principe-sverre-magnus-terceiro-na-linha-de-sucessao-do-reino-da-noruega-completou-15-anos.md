@@ -1,9 +1,9 @@
 ---
-title: Príncipe Sverre Magnus, terceiro na linha de sucessão do reino da Noruega  completou
+title: Príncipe Sverre Magnus, terceiro na linha de sucessão do reino da Noruega completou
   15 anos
 date: 2020-12-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

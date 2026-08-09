@@ -2,7 +2,7 @@
 title: Atuação da PGFN junto ao Supremo evita perda de R$ 472 bilhões
 date: 2022-11-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

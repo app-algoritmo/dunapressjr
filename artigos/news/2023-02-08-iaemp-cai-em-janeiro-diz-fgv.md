@@ -2,7 +2,7 @@
 title: IAEmp cai em janeiro, diz FGV
 date: 2023-02-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

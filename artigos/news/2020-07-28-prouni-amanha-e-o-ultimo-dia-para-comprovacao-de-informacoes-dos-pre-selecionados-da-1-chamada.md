@@ -3,7 +3,7 @@ title: 'Prouni: amanhã é o último dia para comprovação de informações dos
   da 1ª chamada'
 date: 2020-07-28
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

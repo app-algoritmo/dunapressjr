@@ -2,7 +2,7 @@
 title: IGP-10 acumula taxa de 31,16% em 12 meses, diz FGV
 date: 2021-03-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

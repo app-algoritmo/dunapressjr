@@ -3,7 +3,7 @@ title: Donald Trump é indicado ao Prêmio Nobel da Paz sobre acordo de paz Isra
   Árabes Unidos
 date: 2021-02-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

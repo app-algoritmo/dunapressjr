@@ -2,7 +2,7 @@
 title: R$ 254 milhões para hospitais universitários da Rede antecipados pela Ebserh
 date: 2020-06-14
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

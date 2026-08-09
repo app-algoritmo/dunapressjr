@@ -3,7 +3,7 @@ title: "Sítio com 12.000 anos no Piauí revela que humanos chegaram ao Brasil a
 subtitle: "Novas datações em Pedra Furada reacendem a disputa científica sobre a origem dos primeiros americanos e expõem a fragilidade da proteção ao patrimônio arqueológico brasileiro."
 date: 2026-06-26
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - arqueologia
 description: "Novas análises em sítios arqueológicos do Piauí sugerem presença humana no Brasil há pelo menos 12.000 anos — e possivelmente muito antes —, desafiando o modelo clássico de colonização das Américas. O problema é que boa parte desse patrimônio está sob pressão de obras, garimpo e subfinanciamento científico."

@@ -3,7 +3,7 @@ title: Avanço na relação entre Brasil e Estados Unidos é destacado durante e
   com empresários dos dois países
 date: 2022-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

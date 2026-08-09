@@ -2,7 +2,7 @@
 title: Noruega instala usinas de energia em 92 portos
 date: 2020-02-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

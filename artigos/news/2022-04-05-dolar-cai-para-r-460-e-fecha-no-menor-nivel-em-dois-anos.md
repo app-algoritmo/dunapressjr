@@ -2,7 +2,7 @@
 title: Dólar cai para R$ 4,60 e fecha no menor nível em dois anos
 date: 2022-04-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

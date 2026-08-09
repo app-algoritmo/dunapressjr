@@ -2,7 +2,7 @@
 title: A Importância dos Ensinamentos Cristãos na Infância
 date: 2024-05-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 ---

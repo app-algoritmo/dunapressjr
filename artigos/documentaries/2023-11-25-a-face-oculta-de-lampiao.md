@@ -2,7 +2,7 @@
 title: A face oculta de Lampião
 date: 2023-11-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Documentaries
 - Video library

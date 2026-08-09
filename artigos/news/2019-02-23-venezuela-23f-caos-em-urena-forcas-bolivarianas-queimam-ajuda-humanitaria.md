@@ -2,7 +2,7 @@
 title: Venezuela 23F - Caos em Ureña - Forças bolivarianas queimam ajuda humanitária
 date: 2019-02-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

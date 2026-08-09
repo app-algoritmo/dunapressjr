@@ -2,7 +2,7 @@
 title: Huawei está no centro de guerra comercial entre EUA e China
 date: 2020-01-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

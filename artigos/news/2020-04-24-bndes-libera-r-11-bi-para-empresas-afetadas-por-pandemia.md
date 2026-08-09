@@ -2,7 +2,7 @@
 title: BNDES libera R$ 1,1 bi para empresas afetadas por pandemia
 date: 2020-04-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

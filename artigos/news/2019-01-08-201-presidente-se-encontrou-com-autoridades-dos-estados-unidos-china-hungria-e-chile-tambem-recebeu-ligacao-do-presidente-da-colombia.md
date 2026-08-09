@@ -3,7 +3,7 @@ title: 2.01 Presidente se encontrou com autoridades dos Estados Unidos, China, H
   e Chile. Também recebeu ligação do presidente da Colômbia
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

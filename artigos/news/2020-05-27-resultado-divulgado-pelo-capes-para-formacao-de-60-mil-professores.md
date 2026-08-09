@@ -2,7 +2,7 @@
 title: Resultado divulgado pelo Capes para formação de 60 mil professores
 date: 2020-05-27
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Votações no Plenário esta semana começam com projeto que altera regra
   e partidárias
 date: 2019-09-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

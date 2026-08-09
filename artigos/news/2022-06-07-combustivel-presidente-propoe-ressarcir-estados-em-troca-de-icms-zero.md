@@ -2,7 +2,7 @@
 title: 'Combustível: presidente propõe ressarcir estados em troca de ICMS zero'
 date: 2022-06-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

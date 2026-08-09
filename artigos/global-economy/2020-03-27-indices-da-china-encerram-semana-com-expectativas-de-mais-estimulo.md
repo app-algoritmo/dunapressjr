@@ -2,7 +2,7 @@
 title: Índices da China encerram semana com expectativas de mais estímulo
 date: 2020-03-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

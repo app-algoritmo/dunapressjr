@@ -3,7 +3,7 @@ title: Novas fotos mostram de perto várias instalações usadas pelos soldados 
   em Al Asad destruídas na ofensiva iraniana
 date: 2020-01-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

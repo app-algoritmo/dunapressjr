@@ -2,7 +2,7 @@
 title: 'Guedes: corte de impostos atenua reajuste do diesel em dois terços'
 date: 2022-03-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

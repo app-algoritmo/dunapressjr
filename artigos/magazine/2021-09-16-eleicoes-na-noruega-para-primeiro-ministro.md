@@ -2,7 +2,7 @@
 title: Eleições na Noruega para Primeiro Ministro
 date: 2021-09-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 - Policy

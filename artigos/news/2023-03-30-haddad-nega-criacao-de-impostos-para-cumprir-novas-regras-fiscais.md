@@ -2,7 +2,7 @@
 title: Haddad nega criação de impostos para cumprir novas regras fiscais
 date: 2023-03-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

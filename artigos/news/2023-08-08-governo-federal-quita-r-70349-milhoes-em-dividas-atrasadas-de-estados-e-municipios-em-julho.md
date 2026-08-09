@@ -3,7 +3,7 @@ title: Governo federal quita R$ 703,49 milhões em dívidas atrasadas de estados
   em julho
 date: 2023-08-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

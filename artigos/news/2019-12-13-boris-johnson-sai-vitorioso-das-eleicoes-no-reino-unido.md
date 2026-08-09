@@ -2,7 +2,7 @@
 title: Boris Johnson sai vitorioso das eleições no Reino Unido
 date: 2019-12-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

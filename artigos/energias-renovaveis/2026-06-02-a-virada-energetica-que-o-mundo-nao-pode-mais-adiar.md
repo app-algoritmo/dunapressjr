@@ -3,7 +3,7 @@ title: "A Virada Energética que o Mundo Não Pode Mais Adiar"
 subtitle: "Com recordes de capacidade instalada e pressão crescente sobre a infraestrutura de transmissão, 2026 marca o ponto de inflexão definitivo na transição para as energias renováveis — mas os desafios estruturais ainda ameaçam o ritmo das mudanças"
 date: 2026-06-02
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - energias-renovaveis
 description: "Em 2026, a capacidade global de energia renovável atingiu marcos históricos, mas a velocidade da expansão expõe fragilidades críticas nas redes de transmissão, nos mecanismos de armazenamento e nas políticas de integração regional. Este artigo analisa o cenário atual, os gargalos que persistem e o que está em jogo para a próxima década."

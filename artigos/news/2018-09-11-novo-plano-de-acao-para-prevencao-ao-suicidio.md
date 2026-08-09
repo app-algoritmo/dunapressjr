@@ -2,7 +2,7 @@
 title: Novo plano de ação para prevenção ao Suicídio
 date: 2018-09-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Receitas e Despesas: Variações desafiam equilíbrio fiscal'
 date: 2023-05-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

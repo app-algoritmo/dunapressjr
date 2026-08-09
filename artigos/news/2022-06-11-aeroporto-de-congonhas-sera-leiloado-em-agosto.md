@@ -2,7 +2,7 @@
 title: Aeroporto de Congonhas será leiloado em agosto
 date: 2022-06-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

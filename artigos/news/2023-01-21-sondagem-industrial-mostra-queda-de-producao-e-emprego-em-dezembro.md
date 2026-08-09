@@ -2,7 +2,7 @@
 title: Sondagem industrial mostra queda de produção e emprego em dezembro
 date: 2023-01-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

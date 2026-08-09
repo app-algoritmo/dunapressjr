@@ -2,7 +2,7 @@
 title: O Impacto da Instabilidade Fiscal no Brasil e as Reações no Mercado Global
 date: 2024-10-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

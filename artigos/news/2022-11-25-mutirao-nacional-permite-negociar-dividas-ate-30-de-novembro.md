@@ -2,7 +2,7 @@
 title: Mutirão nacional permite negociar dívidas até 30 de novembro
 date: 2022-11-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

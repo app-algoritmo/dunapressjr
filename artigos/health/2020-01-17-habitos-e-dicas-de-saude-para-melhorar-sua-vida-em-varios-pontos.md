@@ -2,7 +2,7 @@
 title: Hábitos e dicas de saúde para melhorar sua vida em vários pontos
 date: 2020-01-17
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Health
 ---

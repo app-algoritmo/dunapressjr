@@ -3,7 +3,7 @@ title: "A Nova Geometria do Poder: Como 2026 Redesenhou as Alianças Globais"
 subtitle: "Entre a fragmentação do Ocidente, a ascensão multipolar e os novos eixos de influência, o mundo de meados de 2026 exige uma releitura profunda das categorias que durante décadas definiram a ordem internacional."
 date: 2026-05-28
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitics
 description: "A ordem geopolítica global atravessa uma inflexão histórica em 2026. O enfraquecimento das instituições multilaterais, a competição sino-americana em novos domínios e a reconfiguração das alianças tradicionais desenham um mapa de poder radicalmente diferente do que existia há apenas cinco anos. Este artigo analisa os vetores centrais dessa transformação."

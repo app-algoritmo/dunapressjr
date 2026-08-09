@@ -3,7 +3,7 @@ title: Catástrofe Climática no Rio Grande do Sul Revela Abandono Institucional
   Solidariedade
 date: 2024-05-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Environment
 ---

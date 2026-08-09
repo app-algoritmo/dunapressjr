@@ -2,7 +2,7 @@
 title: Governo assina concessão do cais pesqueiro do Porto de Fortaleza
 date: 2020-04-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

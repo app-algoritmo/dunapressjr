@@ -2,7 +2,7 @@
 title: Ibovespa sobe 0,11% em terceiro pregão seguido de alta
 date: 2023-11-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

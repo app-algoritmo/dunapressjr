@@ -2,7 +2,7 @@
 title: Reforma tributária está pronta para ir ao Congresso, diz Guedes
 date: 2020-07-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

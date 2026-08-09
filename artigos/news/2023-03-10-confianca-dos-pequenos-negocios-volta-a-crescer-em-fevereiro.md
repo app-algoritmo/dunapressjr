@@ -2,7 +2,7 @@
 title: Confiança dos pequenos negócios volta a crescer em fevereiro
 date: 2023-03-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

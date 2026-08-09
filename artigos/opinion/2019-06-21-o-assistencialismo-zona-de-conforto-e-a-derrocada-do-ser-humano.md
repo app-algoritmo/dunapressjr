@@ -2,7 +2,7 @@
 title: O assistencialismo, zona de conforto e a derrocada do ser humano
 date: 2019-06-21
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Opinion
 ---

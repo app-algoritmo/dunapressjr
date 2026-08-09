@@ -3,7 +3,7 @@ title: "A Corrida pelos Chips de IA: Como a Guerra do Silício Está Redesenhand
 subtitle: "Com investimentos que ultrapassam US$ 500 bilhões em 2026, a disputa pelo domínio dos semicondutores para inteligência artificial deixou de ser uma questão tecnológica para se tornar o principal vetor de poder entre nações no século XXI"
 date: 2026-05-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - technology
 description: "A disputa global por chips de inteligência artificial intensificou-se de forma sem precedentes em 2026, com Estados Unidos, China, União Europeia e nações emergentes travando uma batalha multidimensional que envolve investimentos bilionários, restrições comerciais e uma corrida por soberania tecnológica. Este artigo analisa os principais movimentos desse tabuleiro e o que está em jogo para o futuro da economia digital."

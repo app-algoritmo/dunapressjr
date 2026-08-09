@@ -2,7 +2,7 @@
 title: Vendas do Tesouro Direto superam resgates em R$ 1,1 bilhão em setembro
 date: 2022-10-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

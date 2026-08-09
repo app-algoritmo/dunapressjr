@@ -3,7 +3,7 @@ title: Com representantes da Marinha, corpo do Príncipe Imperial S.A.I.R D. Lui
   velado e enterrado em São Paulo
 date: 2022-07-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Bicentennial
 - News

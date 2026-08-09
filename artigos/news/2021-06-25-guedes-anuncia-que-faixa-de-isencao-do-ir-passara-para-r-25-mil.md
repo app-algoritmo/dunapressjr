@@ -2,7 +2,7 @@
 title: Guedes anuncia que faixa de isenção do IR passará para R$ 2,5 mil
 date: 2021-06-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Escolas têm a obrigação de fornecer acompanhamento extra para os alunos
 date: 2018-08-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Imagens apocalípticas em Síria e Türkiye
 date: 2023-02-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

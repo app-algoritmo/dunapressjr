@@ -2,7 +2,7 @@
 title: Programa da Amazônia Legal tem prazo de término para dia 30 de Junho
 date: 2020-06-23
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

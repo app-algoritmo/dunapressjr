@@ -2,7 +2,7 @@
 title: 'Campos Neto: alta de juros em ano eleitoral mostra critério técnico'
 date: 2023-04-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

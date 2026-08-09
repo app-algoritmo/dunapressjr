@@ -2,7 +2,7 @@
 title: STF divulga íntegra do vídeo da reunião ministerial de 22 de abril de 2020
 date: 2020-05-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

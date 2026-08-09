@@ -2,7 +2,7 @@
 title: Nervosismo externo faz dólar subir para R$ 5,37
 date: 2022-07-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

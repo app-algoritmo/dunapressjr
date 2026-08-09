@@ -3,7 +3,7 @@ title: Movimento de advogados emite manifesto de repúdio apresentado perante o 
   Penal Internacional contra o PR Jair Bolsonaro
 date: 2019-12-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

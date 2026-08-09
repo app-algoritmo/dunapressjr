@@ -2,7 +2,7 @@
 title: PPSA registra arrecadação recorde para a União
 date: 2022-06-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

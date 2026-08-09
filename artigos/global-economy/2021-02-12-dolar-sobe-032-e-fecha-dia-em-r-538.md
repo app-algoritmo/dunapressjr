@@ -2,7 +2,7 @@
 title: Dólar sobe 0,32% e fecha dia em R$ 5,38
 date: 2021-02-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

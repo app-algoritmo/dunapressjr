@@ -3,7 +3,7 @@ title: Assessor ucraniano nega relação direta com ataques em Moscou, mas prev�
   no número de drones
 date: 2023-05-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Geopolitics
 ---

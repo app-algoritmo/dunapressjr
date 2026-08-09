@@ -2,7 +2,7 @@
 title: Produção industrial varia 0,1%
 date: 2023-11-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

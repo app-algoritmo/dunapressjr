@@ -2,7 +2,7 @@
 title: <strong>IGP–10 tem deflação de 1,04% em outubro</strong>
 date: 2022-10-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

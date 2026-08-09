@@ -3,7 +3,7 @@ title: "Tour de France 2026 começa em 15 dias e 3 brasileiros estão no radar d
 subtitle: "Com a largada marcada para Bilbao em 4 de julho, o ciclismo profissional vive um momento raro: crescimento de público nas grandes cidades, novas apostas táticas e uma geração de corredores do Sul Global disputando espaço nas equipes WorldTour."
 date: 2026-06-06
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - cycling
 description: "A menos de três semanas do Tour de France 2026, o ciclismo profissional acumula sinais de transformação: crescimento de 34% no número de ciclistas urbanos no Brasil em dois anos e uma nova geração de corredores de países emergentes disputando vagas nas principais equipes do mundo. Entender esse movimento é entender para onde vai o esporte — e quem vai pagar a conta."

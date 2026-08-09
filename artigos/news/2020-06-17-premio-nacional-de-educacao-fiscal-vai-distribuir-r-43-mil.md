@@ -2,7 +2,7 @@
 title: Prêmio Nacional de Educação Fiscal vai distribuir R$ 43 mil
 date: 2020-06-17
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

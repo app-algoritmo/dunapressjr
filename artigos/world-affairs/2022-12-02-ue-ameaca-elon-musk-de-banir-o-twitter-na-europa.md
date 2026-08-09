@@ -2,7 +2,7 @@
 title: UE ameaça Elon Musk de banir o Twitter na Europa
 date: 2022-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - World Affairs
 ---

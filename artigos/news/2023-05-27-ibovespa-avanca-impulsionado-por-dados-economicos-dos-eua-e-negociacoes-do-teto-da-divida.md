@@ -3,7 +3,7 @@ title: Ibovespa avança impulsionado por dados econômicos dos EUA e negociaçõ
   teto da dívida
 date: 2023-05-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

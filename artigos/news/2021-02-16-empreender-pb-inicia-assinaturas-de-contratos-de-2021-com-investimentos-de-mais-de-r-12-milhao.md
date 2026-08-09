@@ -3,7 +3,7 @@ title: Empreender PB inicia assinaturas de contratos de 2021 com investimentos d
   mais de R$ 1,2 milhão
 date: 2021-02-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

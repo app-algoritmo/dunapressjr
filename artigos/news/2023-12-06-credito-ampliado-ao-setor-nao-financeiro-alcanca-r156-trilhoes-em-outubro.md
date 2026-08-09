@@ -2,7 +2,7 @@
 title: Crédito ampliado ao setor não financeiro alcança R$15,6 Trilhões em outubro
 date: 2023-12-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

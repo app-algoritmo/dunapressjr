@@ -2,7 +2,7 @@
 title: O comunismo é o inimigo da liberdade
 date: 2022-12-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

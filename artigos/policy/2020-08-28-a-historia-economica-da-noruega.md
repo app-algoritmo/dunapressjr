@@ -2,7 +2,7 @@
 title: A História Econômica da Noruega
 date: 2020-08-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

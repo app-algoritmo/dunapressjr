@@ -3,7 +3,7 @@ title: Rússia anuncia medidas para reequilibrar sistema de segurança após ent
   da Finlândia na Otan
 date: 2023-04-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

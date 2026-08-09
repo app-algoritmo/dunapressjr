@@ -2,7 +2,7 @@
 title: Juros do cheque especial ficam em 165,6% ao ano em janeiro
 date: 2020-02-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

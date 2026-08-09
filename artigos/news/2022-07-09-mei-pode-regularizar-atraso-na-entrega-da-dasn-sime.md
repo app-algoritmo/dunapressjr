@@ -2,7 +2,7 @@
 title: MEI pode regularizar atraso na entrega da DASN-SIME
 date: 2022-07-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

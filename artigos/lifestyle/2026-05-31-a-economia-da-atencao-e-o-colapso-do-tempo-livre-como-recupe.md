@@ -3,7 +3,7 @@ title: "A Economia da Atenção e o Colapso do Tempo Livre: Como Recuperar a Sua
 subtitle: "Num mundo onde cada minuto de descanso virou oportunidade de consumo digital, especialistas e dados recentes apontam para uma crise silenciosa de esgotamento — e para os caminhos concretos de saída"
 date: 2026-05-31
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - lifestyle
 description: "A promessa de hiperconectividade transformou o tempo livre em mais uma arena de produtividade e consumo. Em 2026, os dados mostram que adultos em países urbanos dormem menos, descansam menos e relatam níveis recordes de ansiedade. Este artigo analisa as causas estruturais desse fenômeno e apresenta abordagens práticas e críticas para reconquistar a autonomia sobre o próprio tempo."

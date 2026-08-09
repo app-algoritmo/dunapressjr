@@ -2,7 +2,7 @@
 title: Empresários poderão parcelar multas aplicadas pelo governo
 date: 2020-06-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

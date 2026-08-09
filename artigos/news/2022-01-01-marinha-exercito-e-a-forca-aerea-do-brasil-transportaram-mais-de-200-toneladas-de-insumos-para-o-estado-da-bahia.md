@@ -3,7 +3,7 @@ title: Marinha, Exército e a Força Aérea do Brasil transportaram mais de 200 
   de insumos para o estado da Bahia
 date: 2022-01-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

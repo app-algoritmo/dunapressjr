@@ -2,7 +2,7 @@
 title: Devido aos impactos econômicos, Ibovespa cai 1,67%, aos 105.798 pontos
 date: 2023-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

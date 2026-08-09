@@ -3,7 +3,7 @@ title: "A economia brasileira cresceu 3,2% em 2025 — então por que o trabalha
 subtitle: "O PIB avança, o desemprego cai ao menor nível em duas décadas, mas a combinação de juros reais acima de 8% e inflação de serviços persistente cria um paradoxo que define o humor do país em 2026."
 date: 2026-07-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - economia-brasileira
 description: "O Brasil fechou 2025 com crescimento de 3,2% do PIB e desemprego na casa dos 6,1%, números que seriam celebrados em qualquer mandato anterior — mas a taxa Selic em 13,25% ao ano e a inflação de serviços acumulando 6,8% nos últimos 12 meses explicam por que a expansão econômica ainda não chegou ao bolso de quem trabalha com carteira assinada. Entender essa distância é a chave para interpretar as apostas do governo federal para o segundo semestre de 2026."

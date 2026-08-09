@@ -3,7 +3,7 @@ title: "A IA que 'cria' ainda depende de milhões de humanos invisíveis para fu
 subtitle: "Por trás da autonomia exibida pelos modelos de linguagem mais avançados, uma cadeia global de trabalhadores mal remunerados treina, filtra e corrige os sistemas que prometem substituir o trabalho humano."
 date: 2026-06-30
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - technology
 description: "Os grandes modelos de linguagem vendem autonomia, mas funcionam com base em redes de anotadores humanos em Quênia, Filipinas e Brasil que ganham entre US$ 1 e US$ 3 por hora. O paradoxo expõe a contradição central da era da IA — e pressiona reguladores, empresas e investidores a repensarem o custo real da inovação."

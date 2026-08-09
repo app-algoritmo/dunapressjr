@@ -2,7 +2,7 @@
 title: Prêmio internacional para nova escola
 date: 2022-08-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Education
 - Magazine

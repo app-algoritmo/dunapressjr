@@ -2,7 +2,7 @@
 title: Inflação provoca alta de 14,2% na busca por crédito, aponta Serasa
 date: 2021-10-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

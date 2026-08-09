@@ -2,7 +2,7 @@
 title: Confirmação de Foco da Doença de Newcastle no Rio Grande do Sul
 date: 2024-07-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 ---

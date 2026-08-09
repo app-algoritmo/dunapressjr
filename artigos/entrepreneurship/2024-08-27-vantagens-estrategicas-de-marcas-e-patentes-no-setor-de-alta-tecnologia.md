@@ -2,7 +2,7 @@
 title: Vantagens Estratégicas de Marcas e Patentes no Setor de Alta Tecnologia
 date: 2024-08-27
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - Entrepreneurship
 - Magazine

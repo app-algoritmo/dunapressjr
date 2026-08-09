@@ -2,7 +2,7 @@
 title: Produtos atingidos pelo ciclone no Sul do país estão tendo atenção do Mapa
 date: 2020-07-08
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

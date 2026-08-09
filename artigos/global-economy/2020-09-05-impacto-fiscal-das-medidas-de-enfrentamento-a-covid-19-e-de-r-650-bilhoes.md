@@ -2,7 +2,7 @@
 title: Impacto fiscal das medidas de enfrentamento à Covid-19 é de R$ 650 bilhões
 date: 2020-09-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

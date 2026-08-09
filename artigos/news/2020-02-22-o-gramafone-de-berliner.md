@@ -2,7 +2,7 @@
 title: O Gramafone de Berliner
 date: 2020-02-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

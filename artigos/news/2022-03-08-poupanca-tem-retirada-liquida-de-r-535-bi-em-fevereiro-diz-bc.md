@@ -2,7 +2,7 @@
 title: Poupança tem retirada líquida de R$ 5,35 bi em fevereiro, diz BC
 date: 2022-03-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Governo publica redução de até 25% das alíquotas do IPI
 date: 2022-02-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

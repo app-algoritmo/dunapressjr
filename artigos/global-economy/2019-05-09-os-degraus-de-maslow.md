@@ -2,7 +2,7 @@
 title: Os Degraus de Maslow
 date: 2019-05-09
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Global Economy
 - Opinion

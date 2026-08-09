@@ -2,7 +2,7 @@
 title: Valor das exportações cresce 31,4% em janeiro, diz FGV
 date: 2022-02-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

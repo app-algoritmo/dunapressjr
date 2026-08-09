@@ -2,7 +2,7 @@
 title: 'Conquista Marcante do Irã: Lançamento Simultâneo de Três Satélites em Órbita'
 date: 2024-01-29
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

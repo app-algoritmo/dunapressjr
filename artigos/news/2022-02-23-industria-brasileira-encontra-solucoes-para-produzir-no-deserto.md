@@ -2,7 +2,7 @@
 title: Indústria brasileira encontra soluções para produzir no deserto
 date: 2022-02-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

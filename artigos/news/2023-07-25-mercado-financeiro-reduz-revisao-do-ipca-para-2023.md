@@ -2,7 +2,7 @@
 title: Mercado Financeiro reduz revisão do IPCA para 2023
 date: 2023-07-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

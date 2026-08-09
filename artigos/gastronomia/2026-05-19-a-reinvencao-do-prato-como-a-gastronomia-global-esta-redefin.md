@@ -3,7 +3,7 @@ title: "A Reinvenção do Prato: Como a Gastronomia Global Está Redefinindo Ide
 subtitle: "Entre a pressão climática, o avanço das proteínas alternativas e a valorização das cozinhas ancestrais, o setor alimentar vive uma das suas transformações mais profundas — e mais politicamente carregadas — das últimas décadas"
 date: 2026-05-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - gastronomia
 description: "Em 2026, a gastronomia deixou de ser apenas um reflexo cultural para se tornar um campo de disputa ativa entre tradição e inovação, soberania alimentar e mercado globalizado. Este artigo analisa as forças que estão moldando o que comemos, como produzimos e o que isso diz sobre quem somos."

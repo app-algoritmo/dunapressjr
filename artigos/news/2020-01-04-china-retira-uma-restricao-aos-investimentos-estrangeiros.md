@@ -2,7 +2,7 @@
 title: China retira uma restrição aos investimentos estrangeiros
 date: 2020-01-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

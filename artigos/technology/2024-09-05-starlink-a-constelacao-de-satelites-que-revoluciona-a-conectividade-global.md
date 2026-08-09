@@ -2,7 +2,7 @@
 title: 'Starlink: A Constelação de Satélites que Revoluciona a Conectividade Global'
 date: 2024-09-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

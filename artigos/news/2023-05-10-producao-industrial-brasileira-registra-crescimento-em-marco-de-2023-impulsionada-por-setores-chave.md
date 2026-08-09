@@ -3,7 +3,7 @@ title: Produção industrial brasileira registra crescimento em março de 2023, 
   por setores-chave
 date: 2023-05-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

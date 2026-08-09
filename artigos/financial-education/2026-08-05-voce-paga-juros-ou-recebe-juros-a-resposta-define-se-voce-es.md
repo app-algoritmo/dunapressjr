@@ -3,7 +3,7 @@ title: "Você paga juros ou recebe juros? A resposta define se você está const
 subtitle: "Com a taxa Selic a 10,5% ao ano e o rotativo do cartão de crédito ultrapassando 400% ao ano, a distância entre quem acumula riqueza e quem financia o consumo alheio nunca foi tão matematicamente clara no Brasil."
 date: 2026-08-05
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - financial-education
 description: "Uma única pergunta separa quem constrói patrimônio de quem o transfere para bancos e financeiras: você é pagador ou recebedor de juros? Com o crédito rotativo brasileiro cobrando mais de 400% ao ano e o Tesouro Direto rendendo acima de 10%, entender esse mecanismo em 2026 pode mudar a trajetória financeira de qualquer família."

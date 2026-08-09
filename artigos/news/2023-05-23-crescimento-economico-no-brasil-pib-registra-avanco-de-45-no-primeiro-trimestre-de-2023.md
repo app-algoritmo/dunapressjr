@@ -3,7 +3,7 @@ title: 'Crescimento econômico no Brasil: PIB registra avanço de 4,5% no primei
   de 2023'
 date: 2023-05-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: '''Super Terça'': EUA se preparam para primárias da disputa presidencial'
 date: 2020-03-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

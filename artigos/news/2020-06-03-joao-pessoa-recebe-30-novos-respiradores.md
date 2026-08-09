@@ -2,7 +2,7 @@
 title: João Pessoa recebe 30 novos respiradores
 date: 2020-06-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

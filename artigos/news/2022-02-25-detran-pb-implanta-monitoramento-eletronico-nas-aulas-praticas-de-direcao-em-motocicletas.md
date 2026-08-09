@@ -3,7 +3,7 @@ title: Detran-PB implanta monitoramento eletrônico nas aulas práticas de dire�
   motocicletas
 date: 2022-02-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

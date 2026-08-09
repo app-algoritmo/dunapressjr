@@ -3,7 +3,7 @@ title: Ministério divulga resultado de seleção da nova gestora do Centro de B
   da Amazônia
 date: 2022-09-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

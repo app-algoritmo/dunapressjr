@@ -3,7 +3,7 @@ title: Investimento de R$ 16,8 milhões da Ebserh na reforma e ampliação das s
   de energia do HUB
 date: 2020-07-27
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

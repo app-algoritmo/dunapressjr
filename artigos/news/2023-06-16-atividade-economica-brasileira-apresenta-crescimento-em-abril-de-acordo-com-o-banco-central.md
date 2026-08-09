@@ -3,7 +3,7 @@ title: Atividade econômica brasileira apresenta crescimento em abril, de acordo
   o Banco Central
 date: 2023-06-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

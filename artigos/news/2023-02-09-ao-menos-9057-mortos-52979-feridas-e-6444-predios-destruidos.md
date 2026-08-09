@@ -2,7 +2,7 @@
 title: Ao menos 9.057 mortos, 52.979 feridas e 6.444 prédios destruídos
 date: 2023-02-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

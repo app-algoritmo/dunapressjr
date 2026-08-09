@@ -2,7 +2,7 @@
 title: Dólar sobe para R$ 5,25 e fecha no maior valor em dez dias
 date: 2020-04-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

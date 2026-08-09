@@ -2,7 +2,7 @@
 title: Arrecadação federal cresce 1,69% em 2019 e tem melhor resultado em 5 anos
 date: 2020-01-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

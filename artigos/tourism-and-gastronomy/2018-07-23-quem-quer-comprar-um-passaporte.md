@@ -2,7 +2,7 @@
 title: Quem quer comprar um passaporte?
 date: 2018-07-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Tourism and Gastronomy
 ---

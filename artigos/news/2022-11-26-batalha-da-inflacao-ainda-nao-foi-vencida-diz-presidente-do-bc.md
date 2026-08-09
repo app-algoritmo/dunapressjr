@@ -2,7 +2,7 @@
 title: Batalha da inflação ainda não foi vencida, diz presidente do BC
 date: 2022-11-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

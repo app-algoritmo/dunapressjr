@@ -3,7 +3,7 @@ title: "O mundo parece se dividir em dois blocos — mas o que cresce mesmo são
 subtitle: "Enquanto Washington e Pequim constroem narrativas de confronto bipolar, uma terceira força silenciosa reescreve as regras do jogo geopolítico global em 2026."
 date: 2026-06-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - geopolitics
 description: "A ideia de um mundo dividido entre EUA e China simplifica demais uma reconfiguração mais sutil: países como Índia, Turquia, Indonésia e Brasil acumulam protagonismo exatamente por se recusarem a orbitar qualquer polo. Para o Brasil, esse momento representa a janela mais rara em décadas — e o risco de desperdiçá-la é concreto."

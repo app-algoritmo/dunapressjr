@@ -2,7 +2,7 @@
 title: Escritores e tradutores contra Acordo Ortográfico de 1990
 date: 2018-08-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

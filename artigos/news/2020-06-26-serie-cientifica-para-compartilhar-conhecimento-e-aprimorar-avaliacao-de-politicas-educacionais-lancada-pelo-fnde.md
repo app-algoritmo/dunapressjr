@@ -3,7 +3,7 @@ title: Série científica para compartilhar conhecimento e aprimorar avaliação
   educacionais lançada pelo FNDE
 date: 2020-06-26
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

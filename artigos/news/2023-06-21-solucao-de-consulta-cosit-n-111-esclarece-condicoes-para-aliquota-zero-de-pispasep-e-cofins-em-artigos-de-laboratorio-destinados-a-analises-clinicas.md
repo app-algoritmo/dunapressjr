@@ -3,7 +3,7 @@ title: Solução de Consulta COSIT nº 111 esclarece condições para alíquota 
   PIS/Pasep e Cofins em artigos de laboratório destinados a análises clínicas
 date: 2023-06-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Governo revê estimativa para o PIB de 1,5% para 2%
 date: 2022-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

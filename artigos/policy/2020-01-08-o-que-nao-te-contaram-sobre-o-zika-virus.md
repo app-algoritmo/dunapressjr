@@ -2,7 +2,7 @@
 title: O que não te contaram sobre o Zika Vírus
 date: 2020-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

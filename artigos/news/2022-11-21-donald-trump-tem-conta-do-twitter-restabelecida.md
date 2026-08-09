@@ -2,7 +2,7 @@
 title: Donald Trump tem conta do twitter restabelecida
 date: 2022-11-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

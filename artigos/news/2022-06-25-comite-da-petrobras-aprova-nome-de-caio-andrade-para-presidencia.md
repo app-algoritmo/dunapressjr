@@ -2,7 +2,7 @@
 title: Comitê da Petrobras aprova nome de Caio Andrade para presidência
 date: 2022-06-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

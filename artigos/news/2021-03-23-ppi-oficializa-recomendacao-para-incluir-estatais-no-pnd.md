@@ -2,7 +2,7 @@
 title: PPI oficializa recomendação para incluir estatais no PND
 date: 2021-03-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

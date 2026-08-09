@@ -2,7 +2,7 @@
 title: Suspensão de eleições de reitores em instituições federais
 date: 2020-06-15
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

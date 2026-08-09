@@ -2,7 +2,7 @@
 title: Preços da indústria têm quinto resultado negativo consecutivo em junho de 2023
 date: 2023-07-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

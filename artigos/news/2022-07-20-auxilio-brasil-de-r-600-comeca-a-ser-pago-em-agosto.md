@@ -2,7 +2,7 @@
 title: Auxílio Brasil de R$ 600 começa a ser pago em agosto
 date: 2022-07-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

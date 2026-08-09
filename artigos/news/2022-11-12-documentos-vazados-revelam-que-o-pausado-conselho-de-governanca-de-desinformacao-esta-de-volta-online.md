@@ -3,7 +3,7 @@ title: Documentos vazados revelam que o 'Pausado' 'Conselho de Governança de De
   está de volta online
 date: 2022-11-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

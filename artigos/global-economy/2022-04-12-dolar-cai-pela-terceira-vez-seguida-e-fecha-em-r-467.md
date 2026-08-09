@@ -2,7 +2,7 @@
 title: Dólar cai pela terceira vez seguida e fecha em R$ 4,67
 date: 2022-04-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

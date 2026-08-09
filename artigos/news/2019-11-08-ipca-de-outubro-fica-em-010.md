@@ -2,7 +2,7 @@
 title: IPCA de outubro fica em 0,10%
 date: 2019-11-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

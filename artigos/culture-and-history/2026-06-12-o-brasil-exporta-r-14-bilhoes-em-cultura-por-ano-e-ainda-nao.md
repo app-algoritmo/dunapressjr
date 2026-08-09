@@ -3,7 +3,7 @@ title: "O Brasil exporta R$ 14 bilhões em cultura por ano — e ainda não sabe
 subtitle: "A economia criativa brasileira movimenta mais do que o agronegócio de vários estados, mas segue tratada como política de segunda linha enquanto competidores globais transformam identidade em geopolítica."
 date: 2026-06-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - culture-and-history
 description: "O Brasil possui o maior acervo vivo de culturas originárias e populares do hemisfério sul, mas sua economia criativa ainda carece de estratégia nacional coerente. Enquanto Coreia do Sul e México transformaram identidade em poder geopolítico e bilhões em exportações, o país deixa na mesa um ativo que nenhum outro tem."

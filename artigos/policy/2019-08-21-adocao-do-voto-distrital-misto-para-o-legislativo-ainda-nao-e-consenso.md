@@ -2,7 +2,7 @@
 title: Adoção do voto distrital misto para o Legislativo ainda não é consenso
 date: 2019-08-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: "Byung-Chul Han diz que você escolheu sua própria jaula — e os dados 
 subtitle: "O filósofo sul-coreano radicado em Berlim virou referência silenciosa em debates corporativos, políticas de saúde mental e até jurisprudência trabalhista — mas sua tese central ainda incomoda quem prefere culpar o sistema"
 date: 2026-07-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - philosophy
 description: "Byung-Chul Han argumenta que a sociedade do desempenho transformou cada indivíduo em explorador de si mesmo — e relatórios de burnout corporativo de 2025 e 2026 estão inadvertidamente confirmando sua tese. Entender o argumento do filósofo não é exercício acadêmico: é pré-requisito para qualquer debate sério sobre produtividade, saúde e liberdade no Brasil de hoje."

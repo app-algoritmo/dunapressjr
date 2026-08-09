@@ -2,7 +2,7 @@
 title: 'A São Paulo de Maio: O Aferro do Paulista Frente ao Covid-19'
 date: 2020-05-11
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - Opinion
 ---

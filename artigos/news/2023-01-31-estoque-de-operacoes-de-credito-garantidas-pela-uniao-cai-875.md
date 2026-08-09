@@ -2,7 +2,7 @@
 title: Estoque de operações de crédito garantidas pela União cai 8,75%
 date: 2023-01-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

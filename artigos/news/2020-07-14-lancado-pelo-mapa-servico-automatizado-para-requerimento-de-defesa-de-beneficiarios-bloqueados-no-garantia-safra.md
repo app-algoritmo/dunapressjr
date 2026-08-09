@@ -3,7 +3,7 @@ title: Lançado pelo Mapa serviço automatizado para requerimento de defesa de b
   bloqueados no Garantia-Safra
 date: 2020-07-14
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

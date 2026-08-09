@@ -2,7 +2,7 @@
 title: Dólar fecha abaixo de R$ 5,40 pela primeira vez em quatro meses
 date: 2022-01-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

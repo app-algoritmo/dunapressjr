@@ -2,7 +2,7 @@
 title: IGP-M desacelera e chega a 0,21% em julho
 date: 2022-07-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

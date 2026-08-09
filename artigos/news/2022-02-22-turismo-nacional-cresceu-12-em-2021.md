@@ -2,7 +2,7 @@
 title: Turismo nacional cresceu 12% em 2021
 date: 2022-02-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

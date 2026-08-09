@@ -2,7 +2,7 @@
 title: Haddad espera déficit primário entre 0,5% e 1% do PIB em 2023
 date: 2023-01-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Líder do Partido do Brexit, Farage, não concorrerá em eleição britânica
 date: 2019-11-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Produtores e governo discutem formas de ampliar a exportação de frutas
 date: 2022-02-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

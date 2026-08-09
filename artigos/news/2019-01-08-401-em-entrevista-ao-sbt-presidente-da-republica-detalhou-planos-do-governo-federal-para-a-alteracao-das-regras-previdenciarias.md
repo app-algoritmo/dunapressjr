@@ -3,7 +3,7 @@ title: 4.01 Em entrevista ao SBT, presidente da República detalhou planos do go
   federal para a alteração das regras previdenciárias
 date: 2019-01-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

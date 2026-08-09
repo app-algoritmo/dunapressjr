@@ -3,7 +3,7 @@ title: "A Crise de Identidade do Futebol Moderno: Entre o Espetáculo e a Essên
 subtitle: "À medida que o calendário se expande e os contratos milionários dominam as manchetes, surge uma questão inevitável: o futebol ainda sabe quem é?"
 date: 2026-05-23
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - soccer
 description: "Uma análise aprofundada sobre as contradições que moldam o futebol contemporâneo em 2026: a expansão excessiva do calendário, a financeirização do esporte e o distanciamento progressivo entre clubes e suas bases tradicionais de torcedores."

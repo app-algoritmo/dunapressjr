@@ -3,7 +3,7 @@ title: DragonStone Books Convida Escritores Iniciantes a Explorar o Terror em 'O
   ao Luar'
 date: 2024-01-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Literature
 ---

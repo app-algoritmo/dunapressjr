@@ -2,7 +2,7 @@
 title: 'IBGE: IPCA-15 foi de 0,69% em março'
 date: 2023-03-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

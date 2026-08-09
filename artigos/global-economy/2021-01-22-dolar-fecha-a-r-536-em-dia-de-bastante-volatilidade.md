@@ -2,7 +2,7 @@
 title: Dólar fecha a R$ 5,36 em dia de bastante volatilidade
 date: 2021-01-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

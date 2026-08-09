@@ -3,7 +3,7 @@ title: IBGE divulgou estimativas preliminares que apontam desafios no cenário a
   para o próximo ano
 date: 2023-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

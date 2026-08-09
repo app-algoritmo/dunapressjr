@@ -3,7 +3,7 @@ title: R$ 400 milhões para alimentação de estudantes da rede pública repassa
   FNDE
 date: 2020-07-07
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Itália proíbe farinhas de insetos
 date: 2023-04-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Food
 ---

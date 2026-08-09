@@ -2,7 +2,7 @@
 title: Copom mantém juros básicos da economia em 2% ao ano
 date: 2020-12-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

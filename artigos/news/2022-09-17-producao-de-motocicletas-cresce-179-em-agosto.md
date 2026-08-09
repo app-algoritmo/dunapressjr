@@ -2,7 +2,7 @@
 title: Produção de motocicletas cresce 17,9% em agosto
 date: 2022-09-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Argentina informa ao Mapa que nuvem de gafanhotos continua a se deslocar 
   direção ao Uruguai
 date: 2020-06-25
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

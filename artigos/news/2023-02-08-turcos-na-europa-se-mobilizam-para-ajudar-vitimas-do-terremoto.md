@@ -2,7 +2,7 @@
 title: Turcos na Europa se mobilizam para ajudar vítimas do terremoto
 date: 2023-02-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

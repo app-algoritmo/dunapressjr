@@ -3,7 +3,7 @@ title: Proagro poderá pagar até R$1,89 bilhões de indenizações do seguro ru
   no Rio Grande do Sul
 date: 2020-05-29
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

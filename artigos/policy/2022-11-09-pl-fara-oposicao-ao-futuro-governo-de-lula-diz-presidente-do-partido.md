@@ -2,7 +2,7 @@
 title: PL fará oposição ao futuro governo de Lula, diz presidente do partido
 date: 2022-11-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

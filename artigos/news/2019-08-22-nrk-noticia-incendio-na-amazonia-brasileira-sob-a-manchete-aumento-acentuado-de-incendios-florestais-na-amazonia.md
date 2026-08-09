@@ -3,7 +3,7 @@ title: NRK noticia incêndio na Amazônia brasileira sob a manchete 'aumento ace
   de incêndios florestais na Amazônia'
 date: 2019-08-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

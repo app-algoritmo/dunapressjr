@@ -2,7 +2,7 @@
 title: 'Lampedusa: Uma Análise da Cobertura e das Teorias por Trás da Invasão de Migrantes'
 date: 2023-09-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Geopolitics
 ---

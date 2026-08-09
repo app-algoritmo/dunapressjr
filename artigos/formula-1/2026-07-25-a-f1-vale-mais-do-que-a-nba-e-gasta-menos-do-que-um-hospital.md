@@ -3,7 +3,7 @@ title: "A F1 vale mais do que a NBA e gasta menos do que um hospital universitá
 subtitle: "Com receita projetada de US$ 3,65 bilhões em 2026 e um teto de custos que mudou o DNA da competição, a Fórmula 1 virou o estudo de caso favorito de escolas de negócios — e ninguém no paddock quer admitir por quê."
 date: 2026-07-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - formula-1
 description: "A Fórmula 1 ultrapassou a NBA em valor de mercado e opera com um teto de gastos que transformou a competição num laboratório de eficiência industrial raro no esporte mundial. Entender como isso aconteceu explica não só quem vencerá os próximos campeonatos, mas quem vai dominar a mobilidade elétrica e autônoma da próxima década."

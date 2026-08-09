@@ -2,7 +2,7 @@
 title: Confiança da indústria atinge maior nível em nove anos
 date: 2020-10-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

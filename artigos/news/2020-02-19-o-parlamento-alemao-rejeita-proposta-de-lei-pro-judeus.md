@@ -1,5 +1,5 @@
 ---
-title: O Parlamento Alemão rejeita  proposta de lei Pró Judeus
+title: O Parlamento Alemão rejeita proposta de lei Pró Judeus
 date: 2020-02-19
 status: publish
 author: Joice Ferreira

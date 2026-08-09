@@ -3,7 +3,7 @@ title: Aprovado o texto-base da reforma da Previdência; Senado vota últimos de
   nesta quarta
 date: 2019-10-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

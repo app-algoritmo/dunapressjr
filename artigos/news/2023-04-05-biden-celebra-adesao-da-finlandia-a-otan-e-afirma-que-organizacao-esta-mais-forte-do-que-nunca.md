@@ -3,7 +3,7 @@ title: Biden celebra adesão da Finlândia à Otan e afirma que organização es
   forte do que nunca'
 date: 2023-04-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

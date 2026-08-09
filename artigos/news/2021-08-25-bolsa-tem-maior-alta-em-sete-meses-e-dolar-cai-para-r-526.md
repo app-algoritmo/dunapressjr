@@ -2,7 +2,7 @@
 title: Bolsa tem maior alta em sete meses e dólar cai para R$ 5,26
 date: 2021-08-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

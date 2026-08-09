@@ -3,7 +3,7 @@ title: "SpaceX fecha contrato de US$ 3,4 bilhões com o Pentágono — e muda as
 subtitle: "O acordo firmado em julho de 2026 para transporte de carga militar em órbita baixa transforma a Starship de foguete comercial em infraestrutura estratégica dos Estados Unidos, redesenhando alianças e rivalidades no espaço."
 date: 2026-08-03
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - space-exploration
 description: "A SpaceX assinou em julho de 2026 um contrato de US$ 3,4 bilhões com o Departamento de Defesa dos EUA para operações de transporte espacial de uso dual — civil e militar. O movimento consolida a Starship como coluna vertebral da estratégia americana no espaço e pressiona China, Europa e o próprio mercado privado a acelerarem suas apostas."

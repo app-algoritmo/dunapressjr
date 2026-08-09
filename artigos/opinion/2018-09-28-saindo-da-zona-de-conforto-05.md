@@ -2,7 +2,7 @@
 title: "Saindo da zona de conforto! - 05"
 date: 2018-09-28
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
   - global-affairs
 ---

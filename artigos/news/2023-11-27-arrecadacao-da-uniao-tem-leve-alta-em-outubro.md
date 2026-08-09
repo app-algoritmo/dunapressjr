@@ -2,7 +2,7 @@
 title: Arrecadação da União tem leve alta em outubro
 date: 2023-11-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

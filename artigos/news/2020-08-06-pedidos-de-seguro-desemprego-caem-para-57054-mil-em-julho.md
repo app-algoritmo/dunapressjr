@@ -2,7 +2,7 @@
 title: Pedidos de seguro-desemprego caem para 570,54 mil em julho
 date: 2020-08-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: PIB desaba no Brasil -2% em maio contrariando previsão de estabilidade
 date: 2023-07-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

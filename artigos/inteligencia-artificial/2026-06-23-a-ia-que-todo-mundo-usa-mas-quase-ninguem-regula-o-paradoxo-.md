@@ -3,7 +3,7 @@ title: "A IA que todo mundo usa, mas quase ninguém regula: o paradoxo que defin
 subtitle: "Enquanto modelos de linguagem processam mais decisões do que qualquer tribunal do mundo, os marcos legais que deveriam enquadrá-los ainda engatinham — e o Brasil está no meio dessa disputa sem ter escolhido um lado."
 date: 2026-06-23
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - inteligencia-artificial
 description: "Em junho de 2026, mais de 700 milhões de pessoas usam ferramentas de IA generativa no trabalho — mas apenas 31 países possuem algum marco regulatório em vigor. O Brasil tramita seu próprio projeto no Congresso enquanto EUA e China consolidam modelos opostos que pressionam o Sul Global a escolher uma fila."

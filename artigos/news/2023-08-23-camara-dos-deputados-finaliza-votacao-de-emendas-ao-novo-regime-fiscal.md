@@ -2,7 +2,7 @@
 title: Câmara dos Deputados finaliza votação de emendas ao novo regime fiscal
 date: 2023-08-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

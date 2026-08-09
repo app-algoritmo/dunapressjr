@@ -3,7 +3,7 @@ title: Balança Comercial tem superávit de US$ 11,39 bilhões até a segunda se
   abril
 date: 2021-04-13
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

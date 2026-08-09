@@ -2,7 +2,7 @@
 title: Elon Musk Anuncia Katanela, Sua Futura Esposa Robô com Inteligência Artificial
 date: 2024-07-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Technology
 ---

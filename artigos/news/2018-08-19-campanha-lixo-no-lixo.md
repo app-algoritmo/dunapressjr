@@ -2,7 +2,7 @@
 title: Campanha lixo no lixo
 date: 2018-08-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Até sexta-feira segue o prazo para envio de recursos para atendimento es
   no Enem
 date: 2020-06-18
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

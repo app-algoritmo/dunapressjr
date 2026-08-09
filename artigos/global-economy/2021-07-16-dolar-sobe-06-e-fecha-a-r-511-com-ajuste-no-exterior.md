@@ -2,7 +2,7 @@
 title: Dólar sobe 0,6% e fecha a R$ 5,11 com ajuste no exterior
 date: 2021-07-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

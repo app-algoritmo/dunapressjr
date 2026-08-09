@@ -2,7 +2,7 @@
 title: Enem não será utilizado pela Unicamp no próximo vestibular devido a calendário
 date: 2020-07-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Como a Noruega tornou o mundo mais branco
 date: 2023-01-23
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Architecture and Art
 - Culture and History

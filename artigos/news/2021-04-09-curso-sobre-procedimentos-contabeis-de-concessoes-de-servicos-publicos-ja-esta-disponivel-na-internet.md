@@ -3,7 +3,7 @@ title: Curso sobre procedimentos contábeis de concessões de serviços público
   disponível na internet
 date: 2021-04-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

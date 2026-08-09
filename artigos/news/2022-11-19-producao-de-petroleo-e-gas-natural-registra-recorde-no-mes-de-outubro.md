@@ -2,7 +2,7 @@
 title: Produção de petróleo e gás natural registra recorde no mês de outubro
 date: 2022-11-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

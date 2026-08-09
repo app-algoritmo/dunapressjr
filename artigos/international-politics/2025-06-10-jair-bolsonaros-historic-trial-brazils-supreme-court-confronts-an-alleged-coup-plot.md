@@ -3,7 +3,7 @@ title: 'Jair Bolsonaro’s Historic Trial: Brazil’s Supreme Court Confronts an
   Coup Plot'
 date: 2025-06-10
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - International Politics
 ---

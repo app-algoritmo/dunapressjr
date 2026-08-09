@@ -3,7 +3,7 @@ title: "Não são aliens, mas tampouco são nada: o que o Pentágono finalmente 
 subtitle: "Depois de décadas de silêncio oficial, o governo dos EUA reconheceu que centenas de fenômenos aéreos não identificados desafiam as categorias conhecidas — e o debate científico que isso abriu chega agora ao Brasil."
 date: 2026-07-13
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - ufologia
 description: "O Escritório de Resolução de Anomalias de Todos os Domínios (AARO) dos EUA divulgou em junho de 2026 seu relatório mais detalhado até hoje sobre Fenômenos Aéreos Não Identificados, classificando 171 casos como 'inexplicados' após análise rigorosa. O documento reacende um debate que o Brasil ainda trata com constrangimento, mas que universidades e a FAB começam a encarar com outra seriedade."

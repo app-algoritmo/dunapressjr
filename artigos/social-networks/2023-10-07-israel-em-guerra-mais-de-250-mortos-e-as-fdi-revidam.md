@@ -2,7 +2,7 @@
 title: 'Israel em guerra: mais de 250 mortos e as FDI revidam'
 date: 2023-10-07
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Social networks
 ---

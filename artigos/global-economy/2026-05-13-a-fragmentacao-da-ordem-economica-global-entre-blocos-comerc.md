@@ -2,7 +2,7 @@
 title: "A Fragmentação da Ordem Econômica Global: Entre Blocos Comerciais e a Corrida por Autonomia Estratégica"
 date: 2026-05-13
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-economy
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778705336/A_Fragmentac%CC%A7a%CC%83o_da_Ordem_Econo%CC%82mica_Global-_Entre_Blocos_Comerciais_e_a_Corrida_por_Autonomia_Estrate%CC%81gica_k0k9cy.jpg"

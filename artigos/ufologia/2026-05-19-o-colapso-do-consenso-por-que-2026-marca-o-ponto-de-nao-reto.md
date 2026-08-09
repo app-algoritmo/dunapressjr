@@ -3,7 +3,7 @@ title: "O Colapso do Consenso: Por Que 2026 Marca o Ponto de Não Retorno na Dis
 subtitle: "Entre audições no Congresso americano, desclassificações europeias e o crescente corpo de evidências técnicas, a ufologia deixou definitivamente o território da marginalidade para ocupar o centro do debate científico e geopolítico global"
 date: 2026-05-19
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - ufologia
 description: "Uma análise aprofundada sobre como o ano de 2026 consolida uma virada histórica na forma como governos, cientistas e a opinião pública encaram os Fenômenos Aéreos Não Identificados, examinando os vetores políticos, tecnológicos e culturais que tornaram impossível continuar ignorando o tema."

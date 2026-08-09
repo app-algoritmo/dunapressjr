@@ -1,9 +1,9 @@
 ---
-title: Exército do Brasil reativa a 6ª Divisão  'Voluntários da Pátria', fundada pelo
+title: Exército do Brasil reativa a 6ª Divisão 'Voluntários da Pátria', fundada pelo
   Império do Brasil em 1865
 date: 2020-02-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Mais da metade dos argentinos recebem subsídios estatais
 date: 2022-12-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'CAGED: Paraíba registra 14.721 vagas de emprego em novembro'
 date: 2022-12-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

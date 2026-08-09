@@ -2,7 +2,7 @@
 title: Dólar sobe 0,6% em dia de feriado em São Paulo
 date: 2021-01-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: Orientação para o hasteamento da bandeira após a morte de Sua Majestad
   Elizabeth II
 date: 2022-09-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

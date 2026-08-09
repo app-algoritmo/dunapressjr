@@ -3,7 +3,7 @@ title: Princesa Mette-Marit da Noruega recebe trem de livros infantis para Deich
   Bjørvika
 date: 2020-01-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

@@ -2,7 +2,7 @@
 title: Será realizado a partir de 10 de agosto cadastro dos locais do Enem Digital
 date: 2020-08-03
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

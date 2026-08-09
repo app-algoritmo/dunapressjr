@@ -3,7 +3,7 @@ title: "Macron aposta em cúpula trilateral para redesenhar o papel da Europa no
 subtitle: "Com EUA em recuo diplomático e Rússia resistindo a qualquer cessar-fogo formal, a França tenta ocupar o vácuo de liderança ocidental antes que as negociações migrem definitivamente para outro eixo."
 date: 2026-06-18
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - international-affairs
 description: "Emmanuel Macron convocou para o dia 24 de junho uma cúpula trilateral em Paris reunindo Alemanha, Reino Unido e líderes ucranianos, numa tentativa de recolocar a Europa no centro das negociações de paz. O movimento ocorre enquanto Washington sinaliza fadiga diplomática e Moscou mantém posição de que qualquer acordo passa pelo reconhecimento de territórios ocupados — tornando a iniciativa francesa o teste mais concreto do protagonismo europeu desde o início da guerra."

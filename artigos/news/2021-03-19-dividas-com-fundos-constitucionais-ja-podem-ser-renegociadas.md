@@ -2,7 +2,7 @@
 title: Dívidas com fundos constitucionais já podem ser renegociadas
 date: 2021-03-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

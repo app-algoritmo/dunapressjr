@@ -2,7 +2,7 @@
 title: 'Crise Humanitária em Lampedusa: O Desafio da Migração Ilegal no Sul da Itália'
 date: 2023-09-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

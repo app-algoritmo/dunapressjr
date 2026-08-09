@@ -2,7 +2,7 @@
 title: "A Corrida Silenciosa: Como a Computação Quântica Está Redesenhando as Fronteiras da Ciência Moderna"
 date: 2026-05-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - science
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778655136/A_Corrida_Silenciosa-_Como_a_Computac%CC%A7a%CC%83o_Qua%CC%82ntica_Esta%CC%81_Redesenhando_as_Fronteiras_da_Cie%CC%82ncia_Moderna_rg2vqw.jpg"

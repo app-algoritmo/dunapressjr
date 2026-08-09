@@ -2,7 +2,7 @@
 title: Mapa divulga consórcios para ampliação do mercado de Produtos de Origem Animal
 date: 2020-05-31
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

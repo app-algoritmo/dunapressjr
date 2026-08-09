@@ -2,7 +2,7 @@
 title: Termina nesta sexta-feira prazo para inscrição nos cursos oferecidos pelo Capes
 date: 2020-06-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

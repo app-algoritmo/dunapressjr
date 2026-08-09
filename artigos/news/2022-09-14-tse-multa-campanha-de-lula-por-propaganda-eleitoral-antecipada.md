@@ -2,7 +2,7 @@
 title: TSE multa campanha de Lula por propaganda eleitoral antecipada
 date: 2022-09-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

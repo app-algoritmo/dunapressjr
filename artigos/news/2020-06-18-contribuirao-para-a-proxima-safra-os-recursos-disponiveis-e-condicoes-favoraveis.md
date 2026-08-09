@@ -2,7 +2,7 @@
 title: Contribuirão para a próxima safra os recursos disponíveis e condições favoráveis
 date: 2020-06-18
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

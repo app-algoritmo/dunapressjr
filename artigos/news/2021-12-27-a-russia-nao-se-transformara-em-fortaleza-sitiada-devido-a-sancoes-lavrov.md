@@ -2,7 +2,7 @@
 title: A Rússia não se transformará em 'fortaleza sitiada' devido a sanções - Lavrov
 date: 2021-12-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

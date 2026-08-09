@@ -2,7 +2,7 @@
 title: Necessidade de financiamento do governo tem queda em 2019
 date: 2020-10-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

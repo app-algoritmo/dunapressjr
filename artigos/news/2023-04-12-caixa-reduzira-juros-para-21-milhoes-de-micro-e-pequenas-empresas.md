@@ -2,7 +2,7 @@
 title: Caixa reduzirá juros para 2,1 milhões de micro e pequenas empresas
 date: 2023-04-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

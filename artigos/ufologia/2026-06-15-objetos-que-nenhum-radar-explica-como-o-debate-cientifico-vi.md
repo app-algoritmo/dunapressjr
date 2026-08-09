@@ -3,7 +3,7 @@ title: "Objetos que nenhum radar explica: como o debate científico virou polít
 subtitle: "Depois de décadas de silêncio institucional, governos e universidades disputam agora quem define o que é — e o que não é — um fenômeno aéreo não identificado."
 date: 2026-06-15
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - ufologia
 description: "Em 2026, pelo menos seis países — incluindo o Brasil — formalizaram protocolos de registro de fenômenos aéreos não identificados, transformando o que era tabu em agenda de Estado. A virada não é sobre extraterrestres: é sobre quem controla a narrativa do inexplicável e o que isso significa para ciência, defesa e democracia."

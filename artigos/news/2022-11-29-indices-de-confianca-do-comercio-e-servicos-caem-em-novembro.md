@@ -2,7 +2,7 @@
 title: Índices de confiança do comércio e serviços caem em novembro
 date: 2022-11-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

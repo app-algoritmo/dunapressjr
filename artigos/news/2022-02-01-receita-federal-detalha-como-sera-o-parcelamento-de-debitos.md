@@ -2,7 +2,7 @@
 title: Receita Federal detalha como será o parcelamento de débitos
 date: 2022-02-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

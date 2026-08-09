@@ -3,7 +3,7 @@ title: "Trabalhar demais não causa burnout — a ciência diz que é outra cois
 subtitle: "Pesquisas recentes derrubam a narrativa das horas extras como vilã principal do esgotamento e apontam para um fator mais sutil e muito mais difícil de medir: a perda de controle sobre o próprio trabalho."
 date: 2026-07-13
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - saude-mental
 description: "A ciência do comportamento está revisando a principal narrativa sobre burnout: não são as horas extras que esgotam, mas a ausência de autonomia — e essa distinção muda tudo para empresas e trabalhadores brasileiros. Entender esse mecanismo pode redefinir políticas de saúde mental no trabalho antes que o custo social se torne ainda mais alto."

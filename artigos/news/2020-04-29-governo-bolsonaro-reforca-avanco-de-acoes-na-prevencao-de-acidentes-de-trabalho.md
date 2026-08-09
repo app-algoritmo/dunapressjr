@@ -1,5 +1,5 @@
 ---
-title: Governo Bolsonaro reforça avanço de ações  na prevenção de acidentes de trabalho
+title: Governo Bolsonaro reforça avanço de ações na prevenção de acidentes de trabalho
 date: 2020-04-29
 status: publish
 author: Joice Ferreira

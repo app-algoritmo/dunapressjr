@@ -3,7 +3,7 @@ title: Na integra o primeiro discurso de Boris Johnson como primeiro-ministro em
   Street
 date: 2019-07-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

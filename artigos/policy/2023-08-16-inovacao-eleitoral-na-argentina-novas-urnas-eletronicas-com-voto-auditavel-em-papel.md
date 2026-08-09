@@ -3,7 +3,7 @@ title: 'Inovação Eleitoral na Argentina: Novas Urnas Eletrônicas com Voto Aud
   em Papel'
 date: 2023-08-16
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 - Technology

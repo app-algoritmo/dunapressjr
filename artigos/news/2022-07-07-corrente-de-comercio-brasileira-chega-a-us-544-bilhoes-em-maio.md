@@ -2,7 +2,7 @@
 title: Corrente de comércio brasileira chega a US$ 54,4 bilhões em maio
 date: 2022-07-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

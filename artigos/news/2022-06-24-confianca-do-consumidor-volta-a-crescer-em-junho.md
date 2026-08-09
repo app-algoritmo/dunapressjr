@@ -2,7 +2,7 @@
 title: Confiança do consumidor volta a crescer em junho
 date: 2022-06-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

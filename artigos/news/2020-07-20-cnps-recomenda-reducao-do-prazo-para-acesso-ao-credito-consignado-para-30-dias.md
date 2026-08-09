@@ -2,7 +2,7 @@
 title: CNPS recomenda redução do prazo para acesso ao crédito consignado para 30 dias
 date: 2020-07-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

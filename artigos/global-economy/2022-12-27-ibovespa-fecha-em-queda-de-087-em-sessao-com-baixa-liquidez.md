@@ -2,7 +2,7 @@
 title: Ibovespa fecha em queda de 0,87% em sessão com baixa liquidez
 date: 2022-12-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

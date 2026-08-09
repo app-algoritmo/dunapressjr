@@ -2,7 +2,7 @@
 title: RELP-SN – Reenquadramento de Modalidade de Pagamento
 date: 2022-12-16
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

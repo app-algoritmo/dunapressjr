@@ -2,7 +2,7 @@
 title: Estratégias Práticas para Gerenciar seu Dinheiro
 date: 2023-05-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Finances
 - Financial Education

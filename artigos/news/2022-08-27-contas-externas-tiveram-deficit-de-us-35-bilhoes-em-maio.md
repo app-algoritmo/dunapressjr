@@ -2,7 +2,7 @@
 title: Contas externas tiveram déficit de US$ 3,5 bilhões em maio
 date: 2022-08-27
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

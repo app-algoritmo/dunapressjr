@@ -2,7 +2,7 @@
 title: 'Conta de luz: Aneel aprova aumento médio de 12% em São Paulo'
 date: 2022-06-29
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

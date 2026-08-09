@@ -1,8 +1,8 @@
 ---
-title: Italianos elegem a conservadora Giorgia  Meloni para governar o país
+title: Italianos elegem a conservadora Giorgia Meloni para governar o país
 date: 2022-09-25
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 - Policy

@@ -1,9 +1,9 @@
 ---
-title: Príncipe deputado debate sobre a importância de uma  reforma constitucional
+title: Príncipe deputado debate sobre a importância de uma reforma constitucional
   para o Brasil
 date: 2020-06-24
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

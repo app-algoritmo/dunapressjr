@@ -2,7 +2,7 @@
 title: China abre novo mercado para produto brasileiro de origem animal
 date: 2023-04-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

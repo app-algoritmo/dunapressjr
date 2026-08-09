@@ -2,7 +2,7 @@
 title: 'Estado de Israel: 72 Anos de Sobrevivência'
 date: 2020-05-16
 status: publish
-author: Vitor Guerino
+author: "Vítor Guerino"
 categories:
 - History
 ---

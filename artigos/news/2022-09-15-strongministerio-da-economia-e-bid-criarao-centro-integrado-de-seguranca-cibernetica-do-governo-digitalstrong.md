@@ -3,7 +3,7 @@ title: <strong>Ministério da Economia e BID criarão Centro Integrado de Segura
   Cibernética do Governo Digital</strong>
 date: 2022-09-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

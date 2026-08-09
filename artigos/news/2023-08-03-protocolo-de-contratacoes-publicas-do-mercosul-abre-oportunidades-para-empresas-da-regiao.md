@@ -3,7 +3,7 @@ title: Protocolo de Contratações Públicas do Mercosul abre oportunidades para
   da região
 date: 2023-08-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

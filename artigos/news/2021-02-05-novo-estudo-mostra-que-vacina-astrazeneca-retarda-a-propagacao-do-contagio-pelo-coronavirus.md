@@ -3,7 +3,7 @@ title: Novo estudo mostra que vacina AstraZeneca retarda a propagação do cont�
   pelo coronavírus
 date: 2021-02-05
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

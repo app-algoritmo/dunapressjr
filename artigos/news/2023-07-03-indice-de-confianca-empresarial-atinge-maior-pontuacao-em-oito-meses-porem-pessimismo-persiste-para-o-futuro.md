@@ -3,7 +3,7 @@ title: Índice de Confiança Empresarial atinge maior pontuação em oito meses,
   pessimismo persiste para o futuro
 date: 2023-07-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

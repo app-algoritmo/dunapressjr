@@ -3,7 +3,7 @@ title: 'Noruega: O desenvolvimento de vacinas e medicamentos contra a covid-19 e
   na fase inicial'
 date: 2020-05-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

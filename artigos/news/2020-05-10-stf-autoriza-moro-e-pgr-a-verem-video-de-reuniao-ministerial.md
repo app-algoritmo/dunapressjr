@@ -2,7 +2,7 @@
 title: STF autoriza Moro e PGR a verem vídeo de reunião ministerial
 date: 2020-05-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

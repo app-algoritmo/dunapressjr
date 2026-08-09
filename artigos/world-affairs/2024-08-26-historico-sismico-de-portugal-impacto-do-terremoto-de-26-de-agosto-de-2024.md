@@ -2,7 +2,7 @@
 title: 'Histórico Sísmico de Portugal: Impacto do Terremoto de 26 de Agosto de 2024'
 date: 2024-08-26
 status: publish
-author: Natalia Bellan
+author: "Natália Bellan"
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Professor do MIT indiciado por acusações relacionadas a fraude de conce
   para China
 date: 2021-01-22
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

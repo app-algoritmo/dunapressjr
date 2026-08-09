@@ -2,7 +2,7 @@
 title: Meme supremo, o estado paralelo das coisas
 date: 2022-12-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

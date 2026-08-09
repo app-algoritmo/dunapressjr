@@ -2,7 +2,7 @@
 title: Águas do São Francisco chegam ao Ceará nesta sexta-feira
 date: 2020-06-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

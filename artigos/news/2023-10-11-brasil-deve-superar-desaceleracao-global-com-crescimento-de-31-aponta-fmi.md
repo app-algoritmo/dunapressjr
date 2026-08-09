@@ -2,7 +2,7 @@
 title: Brasil deve superar desaceleração global com crescimento de 3,1%, aponta FMI
 date: 2023-10-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

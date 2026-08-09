@@ -3,7 +3,7 @@ title: Senado aprova indicações de Gabriel Galípolo e Ailton Aquino para dire
   do Banco Central
 date: 2023-07-05
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

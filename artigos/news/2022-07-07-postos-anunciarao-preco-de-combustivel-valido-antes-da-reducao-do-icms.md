@@ -2,7 +2,7 @@
 title: Postos anunciarão preço de combustível válido antes da redução do ICMS
 date: 2022-07-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

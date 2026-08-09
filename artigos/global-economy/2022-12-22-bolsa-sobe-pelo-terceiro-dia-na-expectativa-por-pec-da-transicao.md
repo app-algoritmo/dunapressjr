@@ -2,7 +2,7 @@
 title: Bolsa sobe pelo terceiro dia na expectativa por PEC da Transição
 date: 2022-12-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

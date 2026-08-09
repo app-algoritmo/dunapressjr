@@ -3,7 +3,7 @@ title: "A Reconfiguração da Ordem Mundial: Fragmentação, Poder e as Novas Li
 subtitle: "Em meio a guerras, disputas comerciais e crises de governança multilateral, o mundo de 2026 opera sob uma lógica de blocos rivais que redefine alianças, mercados e a própria ideia de segurança global."
 date: 2026-05-14
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - global-affairs
 description: "A ordem internacional de 2026 não é bipolar nem unipolar — é um sistema de multipolaridade fragmentada, no qual potências médias ganham protagonismo, instituições multilaterais perdem legitimidade e a competição entre blocos redefine desde cadeias produtivas até doutrinas militares. Este artigo analisa as principais linhas de força que moldam o sistema internacional contemporâneo."

@@ -3,7 +3,7 @@ title: "Quem são os cinco tenistas abaixo dos 22 anos que estão reescrevendo a
 subtitle: "Uma geração de jovens nascidos depois de 2003 chegou ao top-50 do ranking mundial com estilos de jogo que desconcertam veteranos e forçam mudanças táticas até mesmo nos bastidores das academias europeias."
 date: 2026-06-06
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - tennis
 description: "Cinco tenistas com menos de 22 anos já figuram entre os 50 melhores do mundo em junho de 2026, número não visto desde o ciclo Federer-Nadal-Djokovic no início dos anos 2000. O fenômeno muda o mercado de patrocínios, a lógica dos treinos e o próprio calendário da ATP e WTA."

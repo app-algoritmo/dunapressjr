@@ -3,7 +3,7 @@ title: "Erdoğan voa para Moscou e propõe a Putin um corredor de grãos expandi
 subtitle: "A visita surpresa do presidente turco à Rússia em julho de 2026 reposiciona Ancara como árbitro silencioso entre Ocidente e Leste — e coloca questões concretas sobre quem controla o fluxo de alimentos para o Sul Global."
 date: 2026-07-16
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - international-affairs
 description: "Recep Tayyip Erdoğan chegou a Moscou na quarta-feira, 15 de julho, para uma reunião não anunciada com Vladimir Putin, na qual propôs ampliar o corredor marítimo de grãos do Mar Negro para incluir rotas terrestres via Anatólia. O movimento recoloca a Turquia como peça insubstituível de uma geopolítica alimentar que afeta diretamente 400 milhões de pessoas em países importadores líquidos de trigo."

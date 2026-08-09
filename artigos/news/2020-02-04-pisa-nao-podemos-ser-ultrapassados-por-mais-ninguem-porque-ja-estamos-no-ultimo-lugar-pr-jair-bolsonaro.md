@@ -3,7 +3,7 @@ title: 'PISA: Não podemos ser ultrapassados por mais ninguém, porque já estam
   último lugar, PR Jair Bolsonaro'
 date: 2020-02-04
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

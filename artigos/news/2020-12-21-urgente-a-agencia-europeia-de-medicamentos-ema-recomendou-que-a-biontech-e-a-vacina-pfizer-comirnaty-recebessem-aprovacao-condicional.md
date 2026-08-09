@@ -3,7 +3,7 @@ title: 'Urgente: A Agência Européia de Medicamentos (EMA) recomendou que a Bio
   e a vacina Pfizer Comirnaty recebessem aprovação condicional'
 date: 2020-12-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

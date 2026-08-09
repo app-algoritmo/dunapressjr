@@ -3,7 +3,7 @@ title: "O Retorno do Realismo: Por Que a Filosofia Contemporânea Abandonou o Su
 subtitle: "Após décadas dominadas pelo giro linguístico e pelo construtivismo, uma nova geração de filósofos recoloca o mundo exterior no centro do debate — e as implicações são mais radicais do que parecem"
 date: 2026-05-22
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - philosophy
 description: "O realismo especulativo e suas correntes derivadas representam uma virada silenciosa no pensamento filosófico do século XXI. Abandonar o sujeito como âncora do conhecimento não é apenas uma mudança técnica: é uma revolução que redefine o que significa pensar, existir e agir no mundo."

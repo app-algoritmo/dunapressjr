@@ -1,9 +1,9 @@
 ---
-title: Oferecido atendimento para colaboradores, residentes  e internos no Ceará pela
+title: Oferecido atendimento para colaboradores, residentes e internos no Ceará pela
   Ebserh
 date: 2020-06-15
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

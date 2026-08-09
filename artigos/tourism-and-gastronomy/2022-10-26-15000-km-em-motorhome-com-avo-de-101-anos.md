@@ -2,7 +2,7 @@
 title: 15.000 km em motorhome com avó de 101 anos
 date: 2022-10-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Tourism and Gastronomy
 ---

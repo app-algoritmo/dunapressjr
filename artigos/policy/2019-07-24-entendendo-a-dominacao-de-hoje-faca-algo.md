@@ -2,7 +2,7 @@
 title: Entendendo a dominação de hoje. Faça algo!
 date: 2019-07-24
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - Policy
 ---

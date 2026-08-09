@@ -2,7 +2,7 @@
 title: Arrecadação de tributos federais cresce 4,13% para R$ 165,3 bi em maio
 date: 2022-06-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

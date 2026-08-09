@@ -3,7 +3,7 @@ title: Receita Federal realiza pagamento do segundo lote de restituição do Imp
   de Renda para cinco milhões de contribuintes
 date: 2023-06-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

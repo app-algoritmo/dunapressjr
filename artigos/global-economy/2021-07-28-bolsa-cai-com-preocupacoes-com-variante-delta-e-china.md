@@ -2,7 +2,7 @@
 title: Bolsa cai com preocupações com variante delta e China
 date: 2021-07-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

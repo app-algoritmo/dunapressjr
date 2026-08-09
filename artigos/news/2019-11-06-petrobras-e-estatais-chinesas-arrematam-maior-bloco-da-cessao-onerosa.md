@@ -2,7 +2,7 @@
 title: Petrobras e estatais chinesas arrematam maior bloco da cessão onerosa
 date: 2019-11-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

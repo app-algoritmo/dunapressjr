@@ -2,7 +2,7 @@
 title: Contra praga das bananeiras vinda do exterior Mapa cria plano de ações
 date: 2020-06-10
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

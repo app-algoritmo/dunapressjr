@@ -2,7 +2,7 @@
 title: Carteira de crédito de cooperativas cresce 35,9% em 2021
 date: 2022-10-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Banco Central recebe prêmio internacional por open finance
 date: 2022-06-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

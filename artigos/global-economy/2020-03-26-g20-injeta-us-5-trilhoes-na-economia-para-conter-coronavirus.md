@@ -2,7 +2,7 @@
 title: G20 injeta US$ 5 trilhões na economia para conter coronavírus
 date: 2020-03-26
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

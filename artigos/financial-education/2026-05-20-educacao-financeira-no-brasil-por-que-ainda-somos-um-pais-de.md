@@ -3,7 +3,7 @@ title: "Educação Financeira no Brasil: Por Que Ainda Somos um País de Endivid
 subtitle: "Apesar dos avanços regulatórios e da proliferação de conteúdo sobre finanças pessoais, o brasileiro médio ainda carrega dívidas que comprometem mais de 30% da renda familiar — e os motivos vão muito além da falta de informação"
 date: 2026-05-20
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - financial-education
 description: "O Brasil acumula paradoxos em matéria de educação financeira: nunca se produziu tanto conteúdo sobre o tema, nunca houve tantos cursos, influenciadores e plataformas dedicadas ao assunto — e, ainda assim, o índice de endividamento das famílias brasileiras permanece em patamares historicamente elevados. Este artigo analisa as razões estruturais, comportamentais e institucionais que perpetuam esse ciclo, e o que efetivamente poderia mudar esse cenário."

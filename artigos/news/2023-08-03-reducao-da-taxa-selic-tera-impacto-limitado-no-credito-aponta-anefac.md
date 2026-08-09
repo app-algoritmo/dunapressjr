@@ -2,7 +2,7 @@
 title: Redução da taxa Selic terá impacto limitado no crédito, aponta Anefac
 date: 2023-08-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

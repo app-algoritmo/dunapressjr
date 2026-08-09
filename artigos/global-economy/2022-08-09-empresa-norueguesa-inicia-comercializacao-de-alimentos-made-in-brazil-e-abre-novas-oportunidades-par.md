@@ -3,7 +3,7 @@ title: Empresa norueguesa inicia comercializacao de alimentos made in brazil e a
   novas oportunidades par
 date: 2022-08-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

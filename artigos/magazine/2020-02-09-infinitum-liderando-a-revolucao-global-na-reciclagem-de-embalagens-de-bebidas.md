@@ -2,7 +2,7 @@
 title: 'Infinitum: Liderando a Revolução Global na Reciclagem de Embalagens de Bebidas'
 date: 2020-02-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

@@ -2,7 +2,7 @@
 title: Congresso promulga PEC que aumenta benefícios sociais até dezembro
 date: 2022-07-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

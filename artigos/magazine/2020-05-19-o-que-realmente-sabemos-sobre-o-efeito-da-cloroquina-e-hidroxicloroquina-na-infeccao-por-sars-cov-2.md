@@ -3,7 +3,7 @@ title: O que realmente sabemos sobre o efeito da cloroquina e hidroxicloroquina 
   infecção por SARS-CoV-2?
 date: 2020-05-19
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

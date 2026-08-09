@@ -2,7 +2,7 @@
 title: Endividamento federal volta a subir e atinge R$ 5,87 trilhões
 date: 2022-12-28
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

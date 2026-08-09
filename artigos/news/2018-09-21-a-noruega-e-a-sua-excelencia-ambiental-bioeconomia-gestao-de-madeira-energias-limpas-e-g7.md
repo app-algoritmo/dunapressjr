@@ -3,7 +3,7 @@ title: 'A Noruega e a sua excelência ambiental: Bioeconomia, Gestão de Madeira
   Limpas e G7'
 date: 2018-09-21
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

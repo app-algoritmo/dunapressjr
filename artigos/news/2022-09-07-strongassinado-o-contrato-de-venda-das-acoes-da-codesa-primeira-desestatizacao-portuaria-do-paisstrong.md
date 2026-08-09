@@ -3,7 +3,7 @@ title: <strong>Assinado o contrato de venda das ações da Codesa, primeira dese
   portuária do país</strong>
 date: 2022-09-07
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

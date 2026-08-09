@@ -3,7 +3,7 @@ title: Comissão da ALPB aprova projeto que proíbe reajuste de planos de saúde
   de serviços públicos
 date: 2020-06-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

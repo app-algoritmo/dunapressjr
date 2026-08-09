@@ -2,7 +2,7 @@
 title: "A Corrida pelo Controle da Infraestrutura de IA: Quem Vai Decidir o Futuro da Computação Global"
 date: 2026-05-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - technology
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778599500/A_Corrida_pelo_Controle_da_Infraestrutura_de_IA_-_Quem_Vai_Decidir_o_Futuro_da_Computac%CC%A7a%CC%83o_Global_annrpg.jpg"

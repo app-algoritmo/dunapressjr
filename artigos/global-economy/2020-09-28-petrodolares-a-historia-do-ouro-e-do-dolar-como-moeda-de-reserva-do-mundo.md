@@ -2,7 +2,7 @@
 title: Petrodólares, a história do ouro e do dólar como moeda de reserva do mundo
 date: 2020-09-28
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 - Policy

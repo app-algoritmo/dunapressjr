@@ -2,7 +2,7 @@
 title: Microempreendedor individual é incluído em programa de crédito
 date: 2022-08-24
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

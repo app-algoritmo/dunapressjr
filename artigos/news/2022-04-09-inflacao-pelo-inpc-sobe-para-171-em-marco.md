@@ -2,7 +2,7 @@
 title: Inflação pelo INPC sobe para 1,71% em março
 date: 2022-04-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

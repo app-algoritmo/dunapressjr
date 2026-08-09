@@ -2,7 +2,7 @@
 title: Esquerda se fortalece com Ex-Presidente Lula solto?
 date: 2019-11-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

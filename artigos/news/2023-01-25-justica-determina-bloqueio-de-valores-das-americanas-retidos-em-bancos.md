@@ -2,7 +2,7 @@
 title: Justiça determina bloqueio de valores das Americanas retidos em bancos
 date: 2023-01-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

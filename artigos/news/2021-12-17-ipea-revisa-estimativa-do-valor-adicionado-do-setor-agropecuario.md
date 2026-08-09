@@ -2,7 +2,7 @@
 title: Ipea revisa estimativa do valor adicionado do setor agropecuário
 date: 2021-12-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

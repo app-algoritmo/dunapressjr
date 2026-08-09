@@ -2,7 +2,7 @@
 title: "O Colapso Silencioso da Saúde Mental no Pós-Pandemia: O Brasil Ainda Não Acordou"
 date: 2026-05-12
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - health
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778662266/O_Colapso_Silencioso_da_Sau%CC%81de_Mental_no_Po%CC%81s-Pandemia-_O_Brasil_Ainda_Na%CC%83o_Acordou_jpdkvy.jpg"

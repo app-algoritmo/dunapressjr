@@ -2,7 +2,7 @@
 title: Pacheco freia pressa no debate sobre institutos de pesquisas
 date: 2022-10-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Policy
 ---

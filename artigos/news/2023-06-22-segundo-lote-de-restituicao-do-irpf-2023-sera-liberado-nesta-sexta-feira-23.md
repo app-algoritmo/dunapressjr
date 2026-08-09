@@ -2,7 +2,7 @@
 title: Segundo lote de restituição do IRPF 2023 será liberado nesta sexta-feira (23)
 date: 2023-06-22
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Combate ao desemprego deve ser prioridade para 41% da população
 date: 2021-03-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

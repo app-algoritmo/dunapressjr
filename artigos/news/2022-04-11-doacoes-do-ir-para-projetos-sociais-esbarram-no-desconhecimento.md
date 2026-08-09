@@ -2,7 +2,7 @@
 title: Doações do IR para projetos sociais esbarram no desconhecimento
 date: 2022-04-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

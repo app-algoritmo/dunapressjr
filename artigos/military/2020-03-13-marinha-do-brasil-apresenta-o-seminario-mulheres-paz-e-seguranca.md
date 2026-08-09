@@ -2,7 +2,7 @@
 title: Marinha do Brasil apresenta o Seminário 'Mulheres, Paz e Segurança'
 date: 2020-03-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Military
 ---

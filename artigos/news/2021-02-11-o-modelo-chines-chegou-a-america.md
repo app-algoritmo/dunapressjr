@@ -2,7 +2,7 @@
 title: O modelo chinês chegou à América
 date: 2021-02-11
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

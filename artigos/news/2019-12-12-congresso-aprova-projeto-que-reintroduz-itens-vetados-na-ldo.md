@@ -2,7 +2,7 @@
 title: Congresso aprova projeto que reintroduz itens vetados na LDO
 date: 2019-12-12
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

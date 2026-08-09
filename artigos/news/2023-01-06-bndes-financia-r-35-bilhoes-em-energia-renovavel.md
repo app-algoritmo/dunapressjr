@@ -2,7 +2,7 @@
 title: BNDES financia R$ 3,5 bilhões em energia renovável
 date: 2023-01-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

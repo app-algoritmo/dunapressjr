@@ -2,7 +2,7 @@
 title: Desenvolvendo a Infraestrutura Energética para Carros Elétricos no Brasil
 date: 2023-09-17
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Business and Economy
 - E-auto

@@ -2,7 +2,7 @@
 title: OCDE Prepara um novo plano Marshall para Ucrânia
 date: 2022-06-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

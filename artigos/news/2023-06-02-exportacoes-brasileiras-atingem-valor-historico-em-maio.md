@@ -2,7 +2,7 @@
 title: Exportações brasileiras atingem valor histórico em maio
 date: 2023-06-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

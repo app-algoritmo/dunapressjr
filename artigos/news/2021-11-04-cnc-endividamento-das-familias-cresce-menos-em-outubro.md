@@ -2,7 +2,7 @@
 title: 'CNC: endividamento das famílias cresce menos em outubro'
 date: 2021-11-04
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

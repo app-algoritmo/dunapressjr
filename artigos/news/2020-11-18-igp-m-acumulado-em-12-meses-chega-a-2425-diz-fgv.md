@@ -2,7 +2,7 @@
 title: IGP-M acumulado em 12 meses chega a 24,25%, diz FGV
 date: 2020-11-18
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

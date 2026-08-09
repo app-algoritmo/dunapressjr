@@ -2,7 +2,7 @@
 title: IGP-10 varia 0,19% em novembro de 2019
 date: 2019-11-19
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

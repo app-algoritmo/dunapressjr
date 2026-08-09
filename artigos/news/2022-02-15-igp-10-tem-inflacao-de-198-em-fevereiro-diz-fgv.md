@@ -2,7 +2,7 @@
 title: IGP-10 tem inflação de 1,98% em fevereiro, diz FGV
 date: 2022-02-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

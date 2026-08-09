@@ -2,7 +2,7 @@
 title: <strong>Vendas no comércio recuam 0,8% em julho, mostra IBGE</strong>
 date: 2022-09-15
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Senado americano inicia audiências de confirmação da juíza Amy Coney Barrett
 date: 2020-10-13
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

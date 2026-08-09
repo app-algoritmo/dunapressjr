@@ -1,5 +1,5 @@
 ---
-title: Governo Federal concede  novo crédito habitacional para famílias assentadas
+title: Governo Federal concede novo crédito habitacional para famílias assentadas
 date: 2020-10-01
 status: publish
 author: Joice Ferreira

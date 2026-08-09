@@ -3,7 +3,7 @@ title: 'Descubra os mistérios da noite em ''Modus Operandi'': Uma coletânea de
   e intriga'
 date: 2024-02-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Literature
 ---

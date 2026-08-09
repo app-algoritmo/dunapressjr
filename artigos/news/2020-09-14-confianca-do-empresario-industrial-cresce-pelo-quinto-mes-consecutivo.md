@@ -2,7 +2,7 @@
 title: Confiança do empresário industrial cresce pelo quinto mês consecutivo
 date: 2020-09-14
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

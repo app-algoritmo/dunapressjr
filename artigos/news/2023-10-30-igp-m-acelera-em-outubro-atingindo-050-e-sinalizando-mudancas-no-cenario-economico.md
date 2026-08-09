@@ -3,7 +3,7 @@ title: IGP-M acelera em outubro, atingindo 0,50% e sinalizando mudanças no cen�
   econômico
 date: 2023-10-30
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

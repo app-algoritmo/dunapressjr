@@ -2,7 +2,7 @@
 title: 'ANP: Produções de petróleo e de gás natural bateram recordes em 2022'
 date: 2023-02-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

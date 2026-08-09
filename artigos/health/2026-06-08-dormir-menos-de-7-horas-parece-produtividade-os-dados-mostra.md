@@ -3,7 +3,7 @@ title: "Dormir menos de 7 horas parece produtividade — os dados mostram o opos
 subtitle: "Nova evidência publicada em junho de 2026 pela Lancet reacende o debate sobre privação de sono como risco sistêmico à saúde pública e à economia brasileira."
 date: 2026-06-08
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - health
 description: "Um estudo com 1,2 milhão de participantes em 12 países, publicado pela Lancet em junho de 2026, confirma que dormir menos de 7 horas por noite eleva em 34% o risco de doenças cardiovasculares e reduz em até 23% a capacidade cognitiva funcional. No Brasil, onde 72% dos trabalhadores urbanos relatam sono insuficiente, o tema deixou de ser questão individual e entrou na agenda de saúde coletiva."

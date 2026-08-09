@@ -2,7 +2,7 @@
 title: Dólar fecha em alta após divulgação que EUA estão saindo da crise
 date: 2020-06-17
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Investidores estrangeiros retiraram R$ 1,680 bi da Bolsa brasileira em fevereiro
 date: 2023-03-03
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

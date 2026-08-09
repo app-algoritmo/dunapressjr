@@ -1,9 +1,9 @@
 ---
-title: Canada re-introduz  a tradicional canção Deus Salve a Rainha no parlamento
+title: Canada re-introduz a tradicional canção Deus Salve a Rainha no parlamento
   2020
 date: 2020-03-03
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 ---

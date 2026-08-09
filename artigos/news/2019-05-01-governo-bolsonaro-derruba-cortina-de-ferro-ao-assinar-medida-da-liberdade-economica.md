@@ -2,7 +2,7 @@
 title: Governo Bolsonaro derruba cortina de ferro ao assinar medida da liberdade econômica
 date: 2019-05-01
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

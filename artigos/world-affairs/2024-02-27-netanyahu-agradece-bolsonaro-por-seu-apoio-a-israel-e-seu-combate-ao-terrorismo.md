@@ -2,7 +2,7 @@
 title: Netanyahu Agradece Bolsonaro por seu Apoio a Israel e seu Combate ao Terrorismo
 date: 2024-02-27
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - World Affairs
 ---

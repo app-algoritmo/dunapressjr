@@ -3,7 +3,7 @@ title: "Parece abstenção, mas é recado: o que os 34% que ficaram em casa em 2
 subtitle: "A maior taxa de não-comparecimento em eleições municipais desde 1996 não é apatia — é uma linguagem política que os partidos ainda não aprenderam a ler."
 date: 2026-06-25
 status: publish
-author: Duna Press Redacao
+author: "Redação Duna Press"
 categories:
   - politics-and-society
 description: "Em outubro de 2024, 34% dos eleitores brasileiros não foram às urnas — o maior índice em três décadas de eleições municipais. Com o ciclo presidencial de 2026 se abrindo, entender quem são essas pessoas e o que querem pode ser a chave eleitoral mais subestimada do momento."

@@ -2,7 +2,7 @@
 title: 'Cepal: crescimento da América Latina não reverterá efeitos da pandemia'
 date: 2021-07-09
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

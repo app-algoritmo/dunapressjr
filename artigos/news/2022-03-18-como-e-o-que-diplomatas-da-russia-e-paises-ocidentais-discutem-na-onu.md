@@ -2,7 +2,7 @@
 title: Como e o que diplomatas da Rússia e países ocidentais discutem na ONU
 date: 2022-03-18
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

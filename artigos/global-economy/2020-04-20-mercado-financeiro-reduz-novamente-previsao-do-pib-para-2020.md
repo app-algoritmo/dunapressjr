@@ -2,7 +2,7 @@
 title: Mercado financeiro reduz novamente previsão do PIB para 2020
 date: 2020-04-20
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

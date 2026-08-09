@@ -3,7 +3,7 @@ title: Receita abre nesta sexta-feira, (23), consulta ao último lote de restitu
   do Imposto de Renda
 date: 2022-09-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

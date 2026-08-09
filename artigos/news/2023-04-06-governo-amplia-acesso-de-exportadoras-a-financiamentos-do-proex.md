@@ -2,7 +2,7 @@
 title: Governo amplia acesso de exportadoras a financiamentos do Proex
 date: 2023-04-06
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

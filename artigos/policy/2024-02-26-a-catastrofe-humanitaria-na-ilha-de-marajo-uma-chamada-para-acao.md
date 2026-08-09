@@ -2,7 +2,7 @@
 title: 'A Catástrofe Humanitária na Ilha de Marajó: Uma Chamada para Ação'
 date: 2024-02-26
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Policy
 - Tourism and Gastronomy

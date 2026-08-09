@@ -2,7 +2,7 @@
 title: Antecipada liberação de recursos do Funcafé pelo governo
 date: 2020-06-08
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

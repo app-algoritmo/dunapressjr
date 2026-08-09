@@ -2,7 +2,7 @@
 title: Será divulgada na próxima terça-feira (28) análise curricular do Erce
 date: 2020-07-27
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

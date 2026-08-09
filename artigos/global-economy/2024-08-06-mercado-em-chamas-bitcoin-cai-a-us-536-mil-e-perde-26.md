@@ -2,7 +2,7 @@
 title: 'Mercado em chamas: Bitcoin cai a US$ 53,6 mil e perde 26%'
 date: 2024-08-06
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: Receita atualiza regras de controle de entrada e saída de dinheiro
 date: 2022-12-02
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

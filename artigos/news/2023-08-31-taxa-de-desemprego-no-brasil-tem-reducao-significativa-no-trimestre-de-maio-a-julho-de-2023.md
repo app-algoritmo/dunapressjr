@@ -3,7 +3,7 @@ title: Taxa de desemprego no Brasil tem redução significativa no trimestre de 
   a julho de 2023
 date: 2023-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

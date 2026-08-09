@@ -2,7 +2,7 @@
 title: Ela experimentou ser homem e deu bem errado
 date: 2024-05-02
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Health
 ---

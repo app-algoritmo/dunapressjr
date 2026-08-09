@@ -2,7 +2,7 @@
 title: Paraíba gera saldo de 23.011 empregos formais em 2022, revela Caged
 date: 2023-02-01
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: A união dará garantia de empréstimo externo do BID para o BRDE
 date: 2023-01-23
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

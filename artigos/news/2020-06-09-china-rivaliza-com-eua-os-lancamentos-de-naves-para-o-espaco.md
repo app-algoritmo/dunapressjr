@@ -2,7 +2,7 @@
 title: China rivaliza com EUA os lançamentos de naves para o espaço
 date: 2020-06-09
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

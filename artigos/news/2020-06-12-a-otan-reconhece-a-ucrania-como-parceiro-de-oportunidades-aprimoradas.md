@@ -2,7 +2,7 @@
 title: A OTAN reconhece a Ucrânia como parceiro de oportunidades aprimoradas
 date: 2020-06-12
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - News
 ---

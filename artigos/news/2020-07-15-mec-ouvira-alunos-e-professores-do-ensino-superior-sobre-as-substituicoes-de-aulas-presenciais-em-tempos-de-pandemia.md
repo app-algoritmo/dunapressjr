@@ -3,7 +3,7 @@ title: MEC ouvirá alunos e professores do ensino superior sobre as substituiç�
   aulas presenciais em tempos de pandemia
 date: 2020-07-15
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'FGV: dúvidas na recuperação econômica mundial impactam indicadores'
 date: 2021-02-10
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

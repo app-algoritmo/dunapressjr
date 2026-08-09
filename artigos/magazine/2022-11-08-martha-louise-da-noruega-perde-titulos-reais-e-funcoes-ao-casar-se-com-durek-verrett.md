@@ -3,7 +3,7 @@ title: Martha Louise da Noruega perde títulos reais e funções ao casar-se com
   Verrett
 date: 2022-11-08
 status: publish
-author: Paulo Fernando De Barros
+author: "Paulo Fernando de Barros"
 categories:
 - Magazine
 ---

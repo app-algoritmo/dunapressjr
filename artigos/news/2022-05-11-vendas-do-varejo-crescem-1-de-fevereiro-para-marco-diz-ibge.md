@@ -2,7 +2,7 @@
 title: Vendas do varejo crescem 1% de fevereiro para março, diz IBGE
 date: 2022-05-11
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

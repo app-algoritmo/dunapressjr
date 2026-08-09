@@ -2,7 +2,7 @@
 title: Máquina de Escrever Underwood N°1
 date: 2020-04-25
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

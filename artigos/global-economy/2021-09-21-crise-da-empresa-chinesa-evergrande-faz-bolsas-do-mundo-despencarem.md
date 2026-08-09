@@ -2,7 +2,7 @@
 title: Crise da empresa chinesa Evergrande faz bolsas do mundo despencarem
 date: 2021-09-21
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - Global Economy
 ---

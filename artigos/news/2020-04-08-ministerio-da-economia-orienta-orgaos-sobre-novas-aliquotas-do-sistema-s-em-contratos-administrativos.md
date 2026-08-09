@@ -3,7 +3,7 @@ title: Ministério da Economia orienta órgãos sobre novas alíquotas do Sistem
   contratos administrativos
 date: 2020-04-08
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---

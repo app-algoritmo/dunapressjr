@@ -2,7 +2,7 @@
 title: Poderão ser prorrogadas bolsas de estudos de mestrado e doutorado em três meses
 date: 2020-05-26
 status: publish
-author: Leonardo Gabossa
+author: "Leonardo Garbossa"
 categories:
 - News
 ---

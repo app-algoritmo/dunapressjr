@@ -2,7 +2,7 @@
 title: Melhora das expectativas puxa Índice de Confiança do Comércio
 date: 2022-08-31
 status: publish
-author: Joabson Joao
+author: "Joabson João"
 categories:
 - News
 ---
