@@ -171,12 +171,15 @@ def rodape(editorias, total):
       <li><a href="/assinatura/">Assinatura</a></li>
       <li><a href="/newsletter/">Boletim diário</a></li>
       <li><a href="/arquivo/">Arquivo</a></li>
+      <li><a href="/busca/">Busca</a></li>
       <li><a href="/rss.xml">RSS</a></li>
-      <li><a href="/privacidade/">Privacidade</a></li>
     </ul></div>
   </div>
   <div class="rodape-fim">
-    <span>© {HOJE.year} Duna Press · Todos os direitos reservados</span>
+    <span>© {HOJE.year} Duna Press ·
+      <a href="/privacidade/">Privacidade</a> ·
+      <a href="/cookies/">Cookies</a> ·
+      <a href="/termos/">Termos</a></span>
     <span>Editor responsável: <a href="/principios/">Paulo Fernando de Barros</a></span>
   </div>
 </div></footer>"""
@@ -358,6 +361,90 @@ def montar_estatica(m, arquivo, edicao):
                   meta.get("description", ""), miolo,
                   m["editorias"], len(m["artigos"]), None, edicao,
                   canonico=f'/{arquivo.replace(".md", "")}/')
+
+
+def montar_arquivo(m, edicao):
+    """O acervo inteiro, por ano — inclusive o que está fora do índice de
+    busca. Sair do índice não é sair do site: cada texto continua no
+    endereço em que foi publicado, assinado por quem o escreveu. Esta é a
+    porta de entrada para isso."""
+    eds, todos = m["editorias"], m["artigos"]
+    por_ano = {}
+    for a in todos:
+        if a.get("situacao") == "removido":
+            continue
+        por_ano.setdefault(a["ano"], []).append(a)
+
+    blocos = []
+    for ano in sorted(por_ano, reverse=True):
+        do_ano = sorted(por_ano[ano], key=lambda x: x["data"], reverse=True)
+        indexados = sum(1 for a in do_ano if a.get("indexar", True))
+        eds_ano = Counter(a["editoria_nome"] for a in do_ano)
+        lista = "".join(
+            '<li><a href="%s">%s</a><span class="arq-meta">%s · %s</span></li>'
+            % (a["url"], e(a["titulo"]), e(a["editoria_nome"]),
+               e(data_curta(a["data"])))
+            for a in do_ano[:120])
+        mais = ""
+        if len(do_ano) > 120:
+            mais = ('<p class="arq-mais">Mostrando 120 de %s textos de %s. '
+                    'Use a <a href="/busca/">busca</a> para encontrar um '
+                    'título específico.</p>' % (milhar(len(do_ano)), ano))
+        blocos.append(
+            '<details class="ano"%s><summary><b>%s</b>'
+            '<span class="arq-conta">%s textos · %s no índice de busca</span>'
+            '</summary><p class="arq-eds">%s</p><ul class="arq-lista">%s</ul>%s</details>'
+            % (" open" if ano == max(por_ano) else "", ano,
+               milhar(len(do_ano)), milhar(indexados),
+               e(" · ".join("%s (%d)" % (n, c) for n, c in eds_ano.most_common(5))),
+               lista, mais))
+
+    total = sum(len(v) for v in por_ano.values())
+    miolo = """
+<main class="env">
+  <div class="trilha"><a href="/">Capa</a> › Arquivo</div>
+  <div style="border-bottom:2px solid var(--tinta);padding:12px 0 18px">
+    <h1 style="font-family:var(--display);font-size:44px;font-weight:700;
+      letter-spacing:-.026em;margin:0">Arquivo</h1>
+    <p style="font-family:var(--util);font-size:13px;color:var(--tinta-2);
+      margin:8px 0 0;max-width:64ch">Tudo que o Duna Press publicou desde
+      2017, ano a ano. Parte do acervo está fora do índice dos buscadores —
+      republicação de agência, notas curtas, material duplicado. Continua
+      aqui, no endereço original e assinado por quem escreveu.</p>
+  </div>
+  <div class="arquivo">%s</div>
+</main>""" % "".join(blocos)
+    return pagina("Arquivo — Duna Press",
+                  "O acervo completo do Duna Press, ano a ano, desde 2017.",
+                  miolo, eds, len(todos), None, edicao, canonico="/arquivo/")
+
+
+def montar_busca(m, edicao):
+    """Busca no cliente, sobre um índice estático. Sem servidor, sem
+    rastreamento do que o leitor procura."""
+    eds, todos = m["editorias"], m["artigos"]
+    miolo = """
+<main class="env">
+  <div class="trilha"><a href="/">Capa</a> › Busca</div>
+  <div style="border-bottom:2px solid var(--tinta);padding:12px 0 18px">
+    <h1 style="font-family:var(--display);font-size:44px;font-weight:700;
+      letter-spacing:-.026em;margin:0">Busca</h1>
+    <p style="font-family:var(--util);font-size:13px;color:var(--tinta-2);
+      margin:8px 0 0">Procura por título e linha de apoio. Três letras no
+      mínimo.</p>
+  </div>
+  <div style="padding:26px 0 0;max-width:680px">
+    <label for="busca" class="rotulo" style="display:block;border:0;
+      padding:0;margin-bottom:8px">O que você procura</label>
+    <input id="busca" type="search" autocomplete="off" autofocus
+      placeholder="palavra do título…"
+      style="width:100%;font-family:var(--corpo);font-size:19px;padding:12px 14px;
+      border:1px solid var(--fio-2);background:var(--papel);color:var(--tinta)">
+    <div id="busca-resultado" style="margin-top:26px"></div>
+  </div>
+</main>"""
+    return pagina("Busca — Duna Press", "Busque no acervo do Duna Press.",
+                  miolo, eds, len(todos), None, edicao, canonico="/busca/")
 
 
 def montar_capa(m, edicao):
@@ -623,8 +710,17 @@ def main():
 
     escrever("index.html", montar_capa(m, edicao))
     escrever("autores/index.html", montar_indice_autores(m, edicao))
+    escrever("arquivo/index.html", montar_arquivo(m, edicao))
+    escrever("busca/index.html", montar_busca(m, edicao))
     for arquivo, destino in (("principios.md", "principios"),
-                             ("correcoes.md", "correcoes")):
+                             ("correcoes.md", "correcoes"),
+                             ("quem-somos.md", "quem-somos"),
+                             ("contato.md", "contato"),
+                             ("privacidade.md", "privacidade"),
+                             ("cookies.md", "cookies"),
+                             ("termos.md", "termos"),
+                             ("newsletter.md", "newsletter"),
+                             ("assinatura.md", "assinatura")):
         escrever(f"{destino}/index.html", montar_estatica(m, arquivo, edicao))
     for slug, dados in autores_de(arts).items():
         escrever(f"autores/{slug}/index.html", montar_autor(m, slug, dados, edicao))

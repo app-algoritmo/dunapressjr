@@ -43,10 +43,17 @@ def main():
         sys.exit(1)
 
     # ── Arquivos que precisam existir ────────────────────────────────────
+    # Toda página que o rodapé promete precisa existir. Link do rodapé que
+    # leva a 404 é o tipo de defeito que passa despercebido por meses.
     for rel in ("index.html", "sitemap.xml", "rss.xml", "robots.txt",
-                "autores/index.html", "principios/index.html",
-                "correcoes/index.html", "api/busca.json",
-                "assets/css/jornal.css", "assets/js/jornal.js"):
+                "404.html", "autores/index.html", "principios/index.html",
+                "correcoes/index.html", "arquivo/index.html",
+                "busca/index.html", "quem-somos/index.html",
+                "contato/index.html", "privacidade/index.html",
+                "cookies/index.html", "termos/index.html",
+                "newsletter/index.html", "assinatura/index.html",
+                "api/busca.json", "assets/css/jornal.css",
+                "assets/js/jornal.js"):
         exigir(os.path.exists(os.path.join(SITE, rel)), f"faltando: {rel}")
 
     if falhas:
@@ -63,6 +70,8 @@ def main():
     # Permalink plano: /slug/index.html. Excluímos as pastas de seção,
     # que também têm index.html mas não são matéria.
     secoes = {"autores", "principios", "correcoes", "api", "assets",
+              "arquivo", "busca", "quem-somos", "contato", "privacidade",
+              "cookies", "termos", "newsletter", "assinatura",
               "brasil", "mundo", "economia", "politica", "ciencia-e-saude",
               "tecnologia", "cultura", "esportes", "opiniao"}
     materias = [f for f in glob.glob(os.path.join(SITE, "*", "index.html"))
@@ -102,6 +111,25 @@ def main():
     tamanho = os.path.getsize(os.path.join(SITE, "api", "busca.json")) / 1024
     avisar(tamanho < 2048,
            f"índice de busca com {tamanho:.0f} KB — considere dividir por editoria")
+
+    # ── Nenhum link interno pode levar a 404 ─────────────────────────────
+    alvos = set()
+    for f in ("index.html", "arquivo/index.html", "autores/index.html",
+              "principios/index.html", "quem-somos/index.html"):
+        caminho = os.path.join(SITE, f)
+        if not os.path.exists(caminho):
+            continue
+        h = open(caminho, encoding="utf-8").read()
+        alvos |= set(re.findall(r'href="(/[^"#?]*)"', h))
+    quebrados = []
+    for a in sorted(alvos):
+        rel = a.strip("/")
+        if (os.path.exists(os.path.join(SITE, rel))
+                or os.path.exists(os.path.join(SITE, rel, "index.html"))):
+            continue
+        quebrados.append(a)
+    exigir(not quebrados,
+           "links internos sem destino: " + ", ".join(quebrados[:6]))
 
     # ── Teto de arquivos da plataforma ───────────────────────────────────
     total_arquivos = sum(len(fs) for _, _, fs in os.walk(SITE))
