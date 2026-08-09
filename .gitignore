@@ -26,3 +26,7 @@ Thumbs.db
 # Segredos — nunca commitar
 .env
 *.key
+
+# Slugs canonicos do WordPress: precisam ir ao repositorio,
+# senao o build no Actions gera URLs diferentes das indexadas.
+!dados/wp-canonico.json
