@@ -19,10 +19,10 @@ SITE = os.environ.get("DP_SAIDA", os.path.join(RAIZ, "site"))
 # editorial — decisão editorial se toma em classificar.py, não por acidente.
 MINIMO_SITEMAP = 3000
 
-# Cloudflare Pages: 20.000 arquivos no plano gratuito, 100.000 nos pagos
-# (exige PAGES_WRANGLER_MAJOR_VERSION=4). Avisamos antes de bater no teto,
-# porque estourar significa deploy recusado sem aviso prévio.
-TETO_ARQUIVOS = int(os.environ.get("DP_TETO_ARQUIVOS", "20000"))
+# GitHub Pages não limita a contagem de arquivos, mas recomenda até 1 GB
+# por publicação. O teto abaixo é folgado e serve para pegar build
+# desgovernado; o peso em GB é a checagem que importa de fato.
+TETO_ARQUIVOS = int(os.environ.get("DP_TETO_ARQUIVOS", "250000"))
 
 falhas, avisos = [], []
 
@@ -106,9 +106,15 @@ def main():
            "do Cloudflare Pages — o deploy será recusado")
     folga = TETO_ARQUIVOS - total_arquivos
     avisar(folga > 1500,
-           f"{total_arquivos} arquivos, restam {folga} até o teto de "
-           f"{TETO_ARQUIVOS}. Plano pago libera 100.000 com "
-           "PAGES_WRANGLER_MAJOR_VERSION=4")
+           f"{total_arquivos} arquivos, restam {folga} até o teto configurado "
+           f"de {TETO_ARQUIVOS}")
+
+    # GitHub Pages: 1 GB por publicação é o limite recomendado.
+    peso = sum(os.path.getsize(os.path.join(r, f))
+               for r, _, fs in os.walk(SITE) for f in fs) / (1024 ** 3)
+    exigir(peso < 1.0, f"site com {peso:.2f} GB, acima do limite de 1 GB do "
+                       "GitHub Pages")
+    avisar(peso < 0.7, f"site com {peso:.2f} GB — o limite do GitHub Pages é 1 GB")
 
     # ── Peso da capa ─────────────────────────────────────────────────────
     capa = os.path.getsize(os.path.join(SITE, "index.html")) / 1024
@@ -132,8 +138,11 @@ def relatar(urls=0, materias=0, robots=None, capa=0):
             print(f"  indexadas ........ {robots['index']}")
             print(f"  noindex .......... {robots['noindex']}")
         print(f"capa ............... {capa:.0f} KB")
-        print(f"arquivos ........... {sum(len(fs) for _, _, fs in os.walk(SITE))}"
-              f" / {TETO_ARQUIVOS}")
+        n_arq = sum(len(fs) for _, _, fs in os.walk(SITE))
+        gb = sum(os.path.getsize(os.path.join(r, f))
+                 for r, _, fs in os.walk(SITE) for f in fs) / (1024 ** 3)
+        print(f"arquivos ........... {n_arq}")
+        print(f"peso ............... {gb:.2f} GB / 1 GB")
         print()
 
     for a in avisos:

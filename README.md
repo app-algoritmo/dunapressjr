@@ -127,17 +127,17 @@ não são decorativas — `tools/conferir_pauta.py` roda em todo Pull Request:
 
 ## Publicação
 
-`main` → GitHub Actions → Cloudflare Pages.
+`main` → GitHub Actions → GitHub Pages.
 
 O deploy só acontece se `tools/conferir_build.py` aprovar. Ele interrompe a
 publicação se o sitemap encolher demais, se faltar página obrigatória, se
 alguma matéria sair sem selo de proveniência, ou se o número de arquivos
 passar do teto da plataforma.
 
-> **Teto de arquivos.** O Cloudflare Pages aceita 20.000 arquivos no plano
-> gratuito e 100.000 nos pagos, com `PAGES_WRANGLER_MAJOR_VERSION=4`. Com o
-> acervo inteiro publicado o site tem ~19.600 arquivos — perto do teto
-> gratuito. A conferência avisa antes de estourar.
+> **Limite de publicação.** O GitHub Pages recomenda até 1 GB por site e
+> 100 GB de banda por mês. Com o acervo inteiro o site tem ~19.600 arquivos
+> e cerca de 0,37 GB. A conferência mede o peso a cada build e interrompe a
+> publicação se passar de 1 GB.
 
 ## URLs
 

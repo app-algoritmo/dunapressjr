@@ -27,6 +27,10 @@ def milhar(n):
     return f"{n:,}".replace(",", ".")
 
 
+MARCA_LISTA = re.compile(r"^\s*[-*+]\s+")
+MARCA_NUM = re.compile(r"^\s*\d+[.)]\s+")
+
+
 # ── Markdown mínimo ──────────────────────────────────────────────────────
 def md_para_html(texto):
     texto = re.sub(r"\r\n?", "\n", texto)
@@ -47,12 +51,16 @@ def md_para_html(texto):
             citado = " ".join(l.lstrip("> ").strip() for l in b.split("\n"))
             saida.append(f"<blockquote><p>{inline(citado)}</p></blockquote>"); continue
         if re.match(r"^\s*[-*+]\s+", b):
-            itens = [f"<li>{inline(re.sub(r'^\s*[-*+]\s+', '', l))}</li>"
-                     for l in b.split("\n") if l.strip()]
+            itens = []
+            for l in b.split("\n"):
+                if l.strip():
+                    itens.append("<li>" + inline(MARCA_LISTA.sub("", l)) + "</li>")
             saida.append("<ul>" + "".join(itens) + "</ul>"); continue
         if re.match(r"^\s*\d+[.)]\s+", b):
-            itens = [f"<li>{inline(re.sub(r'^\s*\d+[.)]\s+', '', l))}</li>"
-                     for l in b.split("\n") if l.strip()]
+            itens = []
+            for l in b.split("\n"):
+                if l.strip():
+                    itens.append("<li>" + inline(MARCA_NUM.sub("", l)) + "</li>")
             saida.append("<ol>" + "".join(itens) + "</ol>"); continue
         saida.append(f"<p>{inline(b)}</p>")
     return "\n".join(saida)
@@ -115,8 +123,9 @@ def cabecalho(editorias, atual=None, edicao=0):
     dia = DIAS[HOJE.weekday()]
     data_txt = f"{dia}, {HOJE.day} de {MESES[HOJE.month - 1]} de {HOJE.year}"
     ano_rom = ROMANOS.get(HOJE.year - 2016, str(HOJE.year - 2016))
+    atual_attr = ' aria-current="page"'
     itens = "".join(
-        f'<a href="/{s}/"{" aria-current=\"page\"" if s == atual else ""}>{e(d["nome"])}</a>'
+        '<a href="/%s/"%s>%s</a>' % (s, atual_attr if s == atual else "", e(d["nome"]))
         for s, d in editorias.items())
     return f"""
 <header>
@@ -643,10 +652,59 @@ def main():
         if os.path.isdir(destino):
             shutil.rmtree(destino)
         shutil.copytree(os.path.join(RAIZ_PROJ, pasta), destino)
-    for solto in ("robots.txt", "ads.txt", "CNAME", "_redirects", "site.webmanifest"):
+    open(os.path.join(SAIDA, ".nojekyll"), "w").close()
+    for solto in ("robots.txt", "ads.txt", "CNAME", "site.webmanifest"):
         origem = os.path.join(RAIZ_PROJ, solto)
         if os.path.exists(origem):
             shutil.copy(origem, os.path.join(SAIDA, solto))
+
+    os.makedirs(os.path.join(SAIDA, "api"), exist_ok=True)
+
+    # ── Compatibilidade com os dois formatos de URL antigos ─────────────
+    # O permalink /AAAA/MM/DD/slug/ é o mesmo da era WordPress, então aquelas
+    # URLs voltam a funcionar sozinhas. Restam estas duas, do período em que
+    # o site rodou como página estática com JavaScript. O GitHub Pages não
+    # faz 301, então redirecionamos no próprio HTML — não passa autoridade
+    # de link como um 301 passaria, mas nenhuma delas foi indexada (o
+    # sitemap antigo tinha 91 URLs, nenhuma de matéria).
+    mapa_artigo = {a["arquivo"].replace("artigos/", ""): a["url"] for a in arts}
+    with open(os.path.join(SAIDA, "artigo.html"), "w", encoding="utf-8") as fh:
+        fh.write(r"""<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="robots" content="noindex, follow">
+<title>Redirecionando — Duna Press</title>
+<script>
+(function () {
+  var p = new URLSearchParams(location.search).get("file") || "";
+  var chave = p.replace(/^\/?artigos\//, "");
+  fetch("/api/legado.json").then(function (r) { return r.json(); })
+    .then(function (m) { location.replace(m[chave] || "/"); })
+    .catch(function () { location.replace("/"); });
+})();
+</script></head>
+<body><p>Redirecionando… <a href="/">ir para a capa</a></p></body></html>""")
+
+    with open(os.path.join(SAIDA, "api", "legado.json"), "w", encoding="utf-8") as fh:
+        json.dump(mapa_artigo, fh, ensure_ascii=False, separators=(",", ":"))
+
+    de_para_cat = {}
+    for slug_ed, dados_ed in eds.items():
+        for origem in dados_ed["origens"]:
+            de_para_cat[origem] = slug_ed
+        de_para_cat[slug_ed] = slug_ed
+    with open(os.path.join(SAIDA, "categoria.html"), "w", encoding="utf-8") as fh:
+        fh.write("""<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="robots" content="noindex, follow">
+<title>Redirecionando — Duna Press</title>
+<script>
+var CAT = """ + json.dumps(de_para_cat, ensure_ascii=False) + """;
+(function () {
+  var c = new URLSearchParams(location.search).get("cat") || "";
+  location.replace(CAT[c] ? "/" + CAT[c] + "/" : "/");
+})();
+</script></head>
+<body><p>Redirecionando… <a href="/">ir para a capa</a></p></body></html>""")
 
     indexaveis = [a for a in arts if a.get("indexar", True)]
 
