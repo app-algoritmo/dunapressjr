@@ -121,10 +121,25 @@ def main():
     avisar(capa < 150, f"capa com {capa:.0f} KB, acima do razoável para HTML")
 
     # ── Nenhum link comercial deve sobreviver ao build ───────────────────
-    for f in materias[:400]:
+    # Só interessa o que é LINK, e só dentro do corpo editorial. Citar
+    # "Hotmart" numa reportagem sobre educação é jornalismo; linkar para lá
+    # com parâmetro de afiliado é outra coisa. A versão anterior desta
+    # checagem confundia as duas e barrava a publicação por uma palavra
+    # legítima no texto.
+    CORPO = re.compile(r'<div class="texto[^"]*">(.*?)</div>\s*(?:<aside|<div class="etiquetas"|<section)', re.S)
+    LINK_COMERCIAL = re.compile(
+        r'href="[^"]*(?:nubank\.com\.br/pagar|picpay\.me|pix[-_]?autorizado'
+        r'|hotmart\.com|monetizze|eduzz|kiwify|braip'
+        r'|[?&](?:ref|aff|afiliado)=)[^"]*"', re.I)
+    for f in materias[:600]:
         h = open(f, encoding="utf-8").read()
-        if re.search(r"nubank\.com\.br/pagar|[?&](ref|aff)=|hotmart", h, re.I):
-            falhas.append(f"link comercial em {os.path.relpath(f, SITE)}")
+        m = CORPO.search(h)
+        if not m:
+            continue
+        achado = LINK_COMERCIAL.search(m.group(1))
+        if achado:
+            falhas.append(f"link comercial em {os.path.relpath(f, SITE)}: "
+                          f"{achado.group()[:70]}")
             break
 
     relatar(n, len(materias), robots, capa)
