@@ -157,10 +157,11 @@ img{max-width:100%;display:block;background:var(--papel-3)}
 
 /* ── Página de artigo ────────────────────────────────────── */
 .trilha{font-family:var(--util);font-size:11px;letter-spacing:.1em;
-  text-transform:uppercase;color:var(--tinta-3);padding:22px 0 0}
+  text-transform:uppercase;color:var(--tinta-3);padding:22px 0 0;
+  max-width:760px;margin:0 auto}
 .trilha a{color:var(--marca)}
 .materia{max-width:var(--larg);margin:0 auto;padding:0 28px}
-.cabeca-materia{max-width:880px;margin:0 auto;padding:14px 0 0;text-align:left}
+.cabeca-materia{max-width:760px;margin:0 auto;padding:14px 0 0;text-align:left}
 .cabeca-materia h1{font-family:var(--display);font-weight:700;
   font-size:clamp(34px,5.2vw,62px);line-height:1.06;letter-spacing:-.026em;
   margin:10px 0 0}
@@ -173,9 +174,10 @@ img{max-width:100%;display:block;background:var(--papel-3)}
 .assinatura b{color:var(--tinta);font-weight:600;text-transform:uppercase;
   letter-spacing:.08em;font-size:11px}
 .assinatura .sep{color:var(--fio-2)}
-.abertura{max-width:1080px;margin:28px auto 0}
-.abertura img{width:100%;aspect-ratio:2/1;object-fit:cover;background:var(--papel-3)}
-.texto{max-width:720px;margin:0 auto;padding:34px 0 10px;font-size:20px;
+.assinatura .sep:last-child{display:none}
+.abertura{max-width:980px;margin:30px auto 0}
+.abertura img{width:100%;aspect-ratio:16/9;object-fit:cover;background:var(--papel-3)}
+.texto{max-width:760px;margin:0 auto;padding:34px 0 10px;font-size:20px;
   line-height:1.7}
 .texto p{margin:0 0 1.15em}
 .texto-editorial>p:first-of-type::first-letter{font-size:inherit;float:none;
@@ -199,7 +201,7 @@ img{max-width:100%;display:block;background:var(--papel-3)}
 .foto-corpo{margin:1.9em 0}
 .marca-fim{width:9px;height:9px;background:var(--tinta);display:inline-block;
   margin-left:5px;vertical-align:1px}
-.etiquetas{max-width:720px;margin:26px auto 0;display:flex;flex-wrap:wrap;gap:7px;
+.etiquetas{max-width:760px;margin:26px auto 0;display:flex;flex-wrap:wrap;gap:7px;
   padding-top:18px;border-top:1px solid var(--fio)}
 .etiquetas a{font-family:var(--util);font-size:11px;letter-spacing:.06em;
   text-transform:uppercase;color:var(--tinta-2);border:1px solid var(--fio-2);
@@ -235,7 +237,7 @@ img{max-width:100%;display:block;background:var(--papel-3)}
   .grade-autores>a{border-left:0;padding-left:0}}
 @media(max-width:640px){.ficha{grid-template-columns:1fr;gap:14px}}
 
-.tarja-acervo{margin:18px auto 0;max-width:880px;padding:11px 15px;
+.tarja-acervo{margin:18px auto 0;max-width:760px;padding:11px 15px;
   background:var(--papel-2);border-left:3px solid var(--fio-2);
   font-family:var(--util);font-size:12.5px;color:var(--tinta-2);line-height:1.5}
 .tarja-acervo b{font-weight:700;letter-spacing:.09em;text-transform:uppercase;
