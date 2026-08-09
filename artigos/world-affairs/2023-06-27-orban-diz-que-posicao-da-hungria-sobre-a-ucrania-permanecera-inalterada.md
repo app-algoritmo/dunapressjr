@@ -2,7 +2,7 @@
 title: Orban diz que posição da Hungria sobre a Ucrânia permanecerá inalterada
 date: 2023-06-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

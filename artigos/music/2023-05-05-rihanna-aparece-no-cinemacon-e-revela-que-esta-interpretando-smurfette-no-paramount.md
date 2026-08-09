@@ -2,7 +2,7 @@
 title: "Rihanna aparece no CinemaCon e revela que está interpretando 'Smurfette' no Paramount"
 date: 2023-05-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Music
   - Video library

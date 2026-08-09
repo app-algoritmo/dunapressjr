@@ -3,7 +3,7 @@ title: Viktor Orbán Chama à Mudança Política na Europa em Discurso sobre o E
   da Nação
 date: 2024-02-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

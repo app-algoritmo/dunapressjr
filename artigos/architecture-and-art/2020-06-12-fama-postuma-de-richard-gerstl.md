@@ -2,7 +2,7 @@
 title: Fama póstuma de Richard Gerstl
 date: 2020-06-12
 status: publish
-author: Jessica Jaconetti
+author: "Jéssica Jaconetti"
 categories:
 - Architecture and Art
 ---

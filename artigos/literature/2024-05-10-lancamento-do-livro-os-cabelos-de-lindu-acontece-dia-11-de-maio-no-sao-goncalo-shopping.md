@@ -2,7 +2,7 @@
 title: "LANÇAMENTO DO LIVRO “OS CABELOS DE LINDU” ACONTECE DIA 11 DE MAIO NO SÃO GONÇALO SHOPPING"
 date: 2024-05-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Literature
   - Shopping

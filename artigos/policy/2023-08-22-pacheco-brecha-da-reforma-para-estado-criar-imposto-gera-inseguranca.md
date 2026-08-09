@@ -2,7 +2,7 @@
 title: 'Pacheco: brecha da reforma para estado criar imposto gera insegurança'
 date: 2023-08-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

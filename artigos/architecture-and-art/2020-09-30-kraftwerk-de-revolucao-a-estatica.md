@@ -2,7 +2,7 @@
 title: 'Kraftwerk: de revolução à estática'
 date: 2020-09-30
 status: publish
-author: Jessica Jaconetti
+author: "Jéssica Jaconetti"
 categories:
 - Architecture and Art
 ---

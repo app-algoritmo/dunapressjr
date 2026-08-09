@@ -2,7 +2,7 @@
 title: Proposta da UE sobre transporte de animais ameaça setor agrícola espanhol
 date: 2024-02-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

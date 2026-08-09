@@ -2,7 +2,7 @@
 title: A OMS está se aproximando de expandir seus poderes de vigilância
 date: 2023-03-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

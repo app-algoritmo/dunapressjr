@@ -2,7 +2,7 @@
 title: Petro critica inelegibilidade de Machado na Venezuela
 date: 2024-04-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

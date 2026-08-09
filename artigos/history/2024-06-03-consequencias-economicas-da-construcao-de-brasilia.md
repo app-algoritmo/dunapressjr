@@ -2,7 +2,7 @@
 title: Consequências Econômicas da Construção de Brasília
 date: 2024-06-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - History
 ---

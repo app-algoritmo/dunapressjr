@@ -2,7 +2,7 @@
 title: "Bangu Shopping celebra o Dia do Orgulho Nerd com atrações gratuitas durante o fim de semana"
 date: 2024-05-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Shopping
 ---

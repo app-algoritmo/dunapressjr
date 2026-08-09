@@ -2,7 +2,7 @@
 title: "Arte da sustentabilidade: exposição gratuita apresenta itens decorativos inovadores feitos com resíduos da construção civil"
 date: 2024-02-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
   - Events

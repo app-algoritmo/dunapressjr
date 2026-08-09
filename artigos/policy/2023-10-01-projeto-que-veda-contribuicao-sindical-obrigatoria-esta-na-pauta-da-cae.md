@@ -2,7 +2,7 @@
 title: Projeto que veda contribuição sindical obrigatória está na pauta da CAE
 date: 2023-10-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

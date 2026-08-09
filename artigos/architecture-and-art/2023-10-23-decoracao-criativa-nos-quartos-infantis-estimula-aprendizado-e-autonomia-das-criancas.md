@@ -2,7 +2,7 @@
 title: "Decoração criativa nos quartos infantis estimula aprendizado e autonomia das crianças"
 date: 2023-10-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
   - Features

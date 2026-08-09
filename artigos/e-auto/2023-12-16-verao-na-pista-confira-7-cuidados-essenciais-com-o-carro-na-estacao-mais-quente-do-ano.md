@@ -2,7 +2,7 @@
 title: "Verão na pista: confira 7 cuidados essenciais com o carro na estação mais quente do ano"
 date: 2023-12-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
 ---

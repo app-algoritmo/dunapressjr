@@ -2,7 +2,7 @@
 title: Secretário de Biden admite tacitamente que vacinas de mRNA falharam
 date: 2023-04-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

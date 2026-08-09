@@ -3,7 +3,7 @@ title: Presidente Biden Lamenta Anúncio de Reforma de Mitch McConnell e Elogia 
   de Confiança
 date: 2024-03-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

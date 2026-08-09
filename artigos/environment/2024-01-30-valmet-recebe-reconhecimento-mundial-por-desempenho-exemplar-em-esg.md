@@ -2,7 +2,7 @@
 title: "Valmet recebe reconhecimento mundial por desempenho exemplar em ESG"
 date: 2024-01-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Environment
 ---

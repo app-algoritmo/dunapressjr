@@ -2,7 +2,7 @@
 title: Marinha forma 192 novos Oficiais combatentes
 date: 2023-12-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

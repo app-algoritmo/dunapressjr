@@ -2,7 +2,7 @@
 title: "Aplicativos de transporte: projeto de lei vai pesar no bolso dos usuários?"
 date: 2024-04-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
 ---

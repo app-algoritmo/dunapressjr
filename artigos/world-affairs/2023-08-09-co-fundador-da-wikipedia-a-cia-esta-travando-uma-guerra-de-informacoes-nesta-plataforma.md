@@ -3,7 +3,7 @@ title: Co-fundador da Wikipedia - a CIA está travando uma guerra de informaçõ
   plataforma
 date: 2023-08-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

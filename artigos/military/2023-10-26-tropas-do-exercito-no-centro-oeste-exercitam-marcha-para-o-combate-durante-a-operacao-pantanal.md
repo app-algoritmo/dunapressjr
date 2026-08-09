@@ -3,7 +3,7 @@ title: Tropas do Exército no Centro-Oeste exercitam marcha para o combate duran
   a Operação Pantanal
 date: 2023-10-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

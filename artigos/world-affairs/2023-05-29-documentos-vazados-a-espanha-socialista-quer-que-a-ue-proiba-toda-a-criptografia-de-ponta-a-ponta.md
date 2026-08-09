@@ -3,7 +3,7 @@ title: 'Documentos vazados: a Espanha socialista quer que a UE proíba toda a cr
   de ponta a ponta'
 date: 2023-05-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear 2024 começa em maio com sete etapas pelo Brasil"
 date: 2024-04-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

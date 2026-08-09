@@ -3,7 +3,7 @@ title: 'General romeno adverte: super arma HAARP será usada para aviso geográf
   ''apocalíptico'''
 date: 2023-03-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

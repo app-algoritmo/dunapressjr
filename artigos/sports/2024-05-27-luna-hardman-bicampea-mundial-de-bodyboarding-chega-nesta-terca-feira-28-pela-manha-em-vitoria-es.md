@@ -2,7 +2,7 @@
 title: "Luna Hardman, bicampeã mundial de bodyboarding, chega nesta terça-feira (28) pela manhã, em Vitória (ES)"
 date: 2024-05-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

@@ -2,7 +2,7 @@
 title: Adrenocromo e os úteros artificiais
 date: 2023-04-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

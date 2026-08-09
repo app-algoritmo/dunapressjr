@@ -2,7 +2,7 @@
 title: "Desafio Mecânico do Shimano Fest 2024 levará vencedores para disputar Campeonato Internacional de Mecânicos"
 date: 2024-06-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

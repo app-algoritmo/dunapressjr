@@ -2,7 +2,7 @@
 title: OMS planeja outra 'simulação' de pandemia
 date: 2023-06-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

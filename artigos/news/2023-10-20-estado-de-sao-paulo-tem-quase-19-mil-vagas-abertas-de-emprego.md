@@ -2,7 +2,7 @@
 title: Estado de São Paulo tem quase 19 mil vagas abertas de emprego
 date: 2023-10-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Augusta Brito comemora aprovação de retomada de obras em educação e saúde
 date: 2023-10-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

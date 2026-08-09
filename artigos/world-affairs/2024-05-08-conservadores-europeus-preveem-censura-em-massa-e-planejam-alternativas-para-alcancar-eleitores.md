@@ -3,7 +3,7 @@ title: Conservadores Europeus Preveem Censura em Massa e Planejam Alternativas p
   Alcançar Eleitores
 date: 2024-05-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

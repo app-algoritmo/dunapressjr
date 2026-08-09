@@ -2,7 +2,7 @@
 title: 'A revolta armada: por que Israel não pode esmagar a resistência na Palestina'
 date: 2023-07-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

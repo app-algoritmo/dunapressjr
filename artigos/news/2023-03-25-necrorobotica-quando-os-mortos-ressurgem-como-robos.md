@@ -2,7 +2,7 @@
 title: 'Necrorobótica: Quando os mortos ressurgem como robôs'
 date: 2023-03-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

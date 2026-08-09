@@ -2,7 +2,7 @@
 title: 'José do Egito: Uma História de Inspiração e Resiliência'
 date: 2024-05-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Religiosity
 ---

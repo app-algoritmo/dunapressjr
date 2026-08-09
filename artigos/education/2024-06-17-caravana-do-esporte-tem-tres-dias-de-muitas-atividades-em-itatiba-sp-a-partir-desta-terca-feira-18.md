@@ -2,7 +2,7 @@
 title: "Caravana do Esporte tem três dias de muitas atividades em Itatiba (SP), a partir desta terça-feira (18)"
 date: 2024-06-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

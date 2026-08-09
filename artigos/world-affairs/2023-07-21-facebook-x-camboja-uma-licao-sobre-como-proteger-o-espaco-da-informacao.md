@@ -2,7 +2,7 @@
 title: 'Facebook x Camboja: uma lição sobre como proteger o espaço da informação'
 date: 2023-07-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

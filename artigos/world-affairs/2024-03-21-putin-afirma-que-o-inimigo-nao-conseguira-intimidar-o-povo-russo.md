@@ -2,7 +2,7 @@
 title: Putin afirma que o inimigo não conseguirá intimidar o povo russo
 date: 2024-03-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

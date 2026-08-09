@@ -2,7 +2,7 @@
 title: CPMI ouve nesta segunda o ex-chefe do Departamento de Operações da PM do DF
 date: 2023-06-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

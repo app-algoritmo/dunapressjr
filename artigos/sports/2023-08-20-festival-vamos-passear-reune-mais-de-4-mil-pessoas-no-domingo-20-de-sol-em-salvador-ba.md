@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear reúne mais de 4 mil pessoas no domingo (20) de sol em Salvador (BA)"
 date: 2023-08-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

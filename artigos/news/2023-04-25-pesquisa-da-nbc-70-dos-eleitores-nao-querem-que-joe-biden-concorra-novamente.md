@@ -2,7 +2,7 @@
 title: 'Pesquisa da NBC: 70% dos eleitores não querem que Joe Biden concorra novamente'
 date: 2023-04-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

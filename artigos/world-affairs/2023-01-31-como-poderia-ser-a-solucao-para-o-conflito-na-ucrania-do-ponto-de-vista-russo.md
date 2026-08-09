@@ -2,7 +2,7 @@
 title: Como poderia ser a solução para o conflito na Ucrânia do ponto de vista russo
 date: 2023-01-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

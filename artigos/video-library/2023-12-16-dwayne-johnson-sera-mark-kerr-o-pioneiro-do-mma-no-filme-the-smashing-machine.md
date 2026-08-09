@@ -2,7 +2,7 @@
 title: "Dwayne Johnson será Mark Kerr, o pioneiro do MMA no filme ‘The Smashing Machine’"
 date: 2023-12-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Video library
 ---

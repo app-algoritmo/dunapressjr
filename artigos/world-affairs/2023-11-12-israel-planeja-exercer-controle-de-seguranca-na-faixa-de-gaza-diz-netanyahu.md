@@ -2,7 +2,7 @@
 title: Israel planeja exercer controle de segurança na Faixa de Gaza, diz Netanyahu
 date: 2023-11-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

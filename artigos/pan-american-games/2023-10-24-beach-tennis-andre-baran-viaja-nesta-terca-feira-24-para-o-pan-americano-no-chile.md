@@ -2,7 +2,7 @@
 title: "Beach Tennis: André Baran viaja nesta terça-feira (24) para o Pan-Americano, no Chile"
 date: 2023-10-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Pan American Games
   - Sports

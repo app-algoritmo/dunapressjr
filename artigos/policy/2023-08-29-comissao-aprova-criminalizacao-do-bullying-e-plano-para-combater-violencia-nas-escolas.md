@@ -3,7 +3,7 @@ title: Comissão aprova criminalização do bullying e plano para combater viol�
   nas escolas
 date: 2023-08-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: "Baile Dançante no Caxias Shopping"
 date: 2023-06-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

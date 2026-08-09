@@ -3,7 +3,7 @@ title: Girão aponta perigo de apostas esportivas e destaca audiências pública
   projeto
 date: 2023-10-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

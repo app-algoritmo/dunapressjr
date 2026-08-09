@@ -2,7 +2,7 @@
 title: "Como manter as crianças em atividades físicas durante as férias?"
 date: 2023-12-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

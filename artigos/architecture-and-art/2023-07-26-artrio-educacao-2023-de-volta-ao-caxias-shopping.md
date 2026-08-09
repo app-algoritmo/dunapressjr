@@ -2,7 +2,7 @@
 title: "ArtRio Educação 2023 de volta ao Caxias Shopping"
 date: 2023-07-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
   - Events

@@ -2,7 +2,7 @@
 title: "Mês da Mulher: setor automotivo vivencia ascensão feminina"
 date: 2024-03-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
 ---

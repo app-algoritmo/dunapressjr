@@ -3,7 +3,7 @@ title: Putin Afirma que Atividades Espaciais Russas Não Divergem das Práticas 
   Países, Incluindo os EUA
 date: 2024-02-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

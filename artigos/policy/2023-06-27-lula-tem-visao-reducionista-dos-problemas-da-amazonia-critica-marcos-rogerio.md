@@ -2,7 +2,7 @@
 title: Lula tem visão reducionista dos problemas da Amazônia, critica Marcos Rogério
 date: 2023-06-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

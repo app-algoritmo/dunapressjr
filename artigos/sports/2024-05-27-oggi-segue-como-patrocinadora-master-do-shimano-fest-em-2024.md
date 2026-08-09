@@ -2,7 +2,7 @@
 title: "OGGI segue como patrocinadora máster do Shimano Fest em 2024"
 date: 2024-05-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

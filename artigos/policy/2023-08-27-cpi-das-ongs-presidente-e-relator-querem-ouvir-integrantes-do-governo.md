@@ -2,7 +2,7 @@
 title: 'CPI das ONGs: presidente e relator querem ouvir integrantes do governo'
 date: 2023-08-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

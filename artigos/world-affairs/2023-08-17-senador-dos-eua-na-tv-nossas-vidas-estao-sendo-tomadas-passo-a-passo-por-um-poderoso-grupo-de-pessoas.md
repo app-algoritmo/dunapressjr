@@ -3,7 +3,7 @@ title: 'Senador dos EUA na TV: Nossas vidas estão sendo tomadas passo a passo p
   um poderoso grupo de pessoas'
 date: 2023-08-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

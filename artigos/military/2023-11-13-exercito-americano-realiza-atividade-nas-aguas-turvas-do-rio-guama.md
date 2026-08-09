@@ -2,7 +2,7 @@
 title: Exército Americano realiza atividade nas águas turvas do rio Guamá
 date: 2023-11-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

@@ -2,7 +2,7 @@
 title: "Luisa Stefani vai às oitavas no WTA 1000 de Indian Wells"
 date: 2024-03-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

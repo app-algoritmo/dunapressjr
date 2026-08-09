@@ -2,7 +2,7 @@
 title: "CIEE/PR disponibiliza cursos gratuitos e programas sociais com certificados"
 date: 2024-05-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Courses and Careers
   - Personal Development

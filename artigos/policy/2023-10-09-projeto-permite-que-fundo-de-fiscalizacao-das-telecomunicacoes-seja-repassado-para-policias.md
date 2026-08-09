@@ -3,7 +3,7 @@ title: Projeto permite que fundo de fiscalização das telecomunicações seja r
   para polícias
 date: 2023-10-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

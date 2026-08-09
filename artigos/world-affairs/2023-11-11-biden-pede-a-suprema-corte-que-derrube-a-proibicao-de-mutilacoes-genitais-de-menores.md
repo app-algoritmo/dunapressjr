@@ -3,7 +3,7 @@ title: Biden pede a Suprema Corte que derrube a proibição de mutilações geni
   menores
 date: 2023-11-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

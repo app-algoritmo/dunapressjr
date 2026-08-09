@@ -2,7 +2,7 @@
 title: "Com apoio de aplicativos e matches, empresas inovam nas estratégias de mentoring"
 date: 2023-09-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Business and Economy
 ---

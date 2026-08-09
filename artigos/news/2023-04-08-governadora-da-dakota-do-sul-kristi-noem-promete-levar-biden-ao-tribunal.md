@@ -2,7 +2,7 @@
 title: Governadora da Dakota do Sul, Kristi Noem, promete levar Biden ao tribunal
 date: 2023-04-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

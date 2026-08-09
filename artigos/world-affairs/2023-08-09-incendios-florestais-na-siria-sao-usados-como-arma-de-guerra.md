@@ -2,7 +2,7 @@
 title: Incêndios florestais na Síria são usados ​​como arma de guerra
 date: 2023-08-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

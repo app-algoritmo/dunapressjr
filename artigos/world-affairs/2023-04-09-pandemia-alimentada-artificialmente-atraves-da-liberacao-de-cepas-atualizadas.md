@@ -2,7 +2,7 @@
 title: Pandemia alimentada artificialmente através da liberação de cepas atualizadas
 date: 2023-04-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

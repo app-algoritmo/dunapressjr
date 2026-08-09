@@ -2,7 +2,7 @@
 title: "Copa do Mundo da Vela: Brasil disputa regata com chances de título na Espanha neste sábado (2)"
 date: 2023-12-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

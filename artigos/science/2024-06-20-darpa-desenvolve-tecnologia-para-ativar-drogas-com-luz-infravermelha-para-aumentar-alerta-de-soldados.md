@@ -3,7 +3,7 @@ title: DARPA Desenvolve Tecnologia para Ativar Drogas com Luz Infravermelha para
   Alerta de Soldados
 date: 2024-06-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Science
 ---

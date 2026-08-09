@@ -2,7 +2,7 @@
 title: Rogério Marinho critica volta da contribuição obrigatória aos sindicatos
 date: 2023-09-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

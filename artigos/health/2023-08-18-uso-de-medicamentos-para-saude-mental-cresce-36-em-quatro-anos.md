@@ -2,7 +2,7 @@
 title: "Uso de medicamentos para saúde mental cresce 36% em quatro anos"
 date: 2023-08-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

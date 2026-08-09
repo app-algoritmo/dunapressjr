@@ -2,7 +2,7 @@
 title: 'Usando o exemplo da Ucrânia: como funciona a geopolítica'
 date: 2023-06-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

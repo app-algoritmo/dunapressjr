@@ -2,7 +2,7 @@
 title: "Eficiência logística da Prati-Donaduzzi é reconhecida em prêmio nacional"
 date: 2024-05-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

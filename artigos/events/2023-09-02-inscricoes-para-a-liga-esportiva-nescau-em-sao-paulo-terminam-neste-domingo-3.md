@@ -2,7 +2,7 @@
 title: "Inscrições para a Liga Esportiva NESCAU®, em São Paulo, terminam neste domingo (3)"
 date: 2023-09-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Sports

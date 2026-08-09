@@ -2,7 +2,7 @@
 title: "Grandes doadores do PT ganharam convite para a posse de Lula"
 date: 2023-02-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

@@ -3,7 +3,7 @@ title: 'Movimento Húngaro Adverte Macron sobre Enviar Tropas à Ucrânia: ''Lem
   da Derrota de Napoleão na Rússia'''
 date: 2024-06-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

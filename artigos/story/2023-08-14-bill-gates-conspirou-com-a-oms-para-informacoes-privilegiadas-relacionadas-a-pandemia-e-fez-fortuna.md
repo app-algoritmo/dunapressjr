@@ -3,7 +3,7 @@ title: Bill Gates conspirou com a OMS para informações privilegiadas relaciona
   à pandemia e fez fortuna
 date: 2023-08-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Story
 - World Affairs

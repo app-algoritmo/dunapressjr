@@ -2,7 +2,7 @@
 title: "Imposto de renda devido pode ser direcionado para hospitais 100% SUS"
 date: 2024-03-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

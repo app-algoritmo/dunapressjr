@@ -3,7 +3,7 @@ title: O Governo francês pede aos gendarmes “vigilância extrema” nas igrej
   ao elevado risco de ataques islâmicos
 date: 2023-12-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

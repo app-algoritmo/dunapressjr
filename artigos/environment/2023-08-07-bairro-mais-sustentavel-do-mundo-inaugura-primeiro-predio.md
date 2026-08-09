@@ -2,7 +2,7 @@
 title: "Bairro mais sustentável do mundo inaugura primeiro prédio"
 date: 2023-08-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Environment
 ---

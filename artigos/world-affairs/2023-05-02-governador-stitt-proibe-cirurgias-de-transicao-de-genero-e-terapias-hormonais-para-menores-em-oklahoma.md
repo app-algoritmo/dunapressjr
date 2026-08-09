@@ -3,7 +3,7 @@ title: Governador Stitt proíbe cirurgias de transição de gênero e terapias h
   para menores em Oklahoma
 date: 2023-05-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

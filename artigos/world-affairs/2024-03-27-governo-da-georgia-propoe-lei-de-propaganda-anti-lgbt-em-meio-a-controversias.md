@@ -2,7 +2,7 @@
 title: Governo da Geórgia Propõe Lei de Propaganda Anti-LGBT em Meio a Controvérsias
 date: 2024-03-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

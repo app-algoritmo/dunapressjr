@@ -3,7 +3,7 @@ title: A tomografia computadorizada é a melhor para prever o risco de doenças 
   na meia-idade
 date: 2023-05-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

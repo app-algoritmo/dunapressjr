@@ -3,7 +3,7 @@ title: 'Os Desafios do Gigantismo Estatal no Brasil: Reflexões sobre Eficiênci
   e Desenvolvimento'
 date: 2024-05-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

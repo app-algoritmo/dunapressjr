@@ -3,7 +3,7 @@ title: Presidente do Comitê Militar da OTAN Descarta Ataque Russo aos Membros, 
   Alerta para Ambições Expansivas
 date: 2024-04-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

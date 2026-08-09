@@ -3,7 +3,7 @@ title: 'Documentos: O bombardeio atômico do Japão não foi necessário para ac
   a Segunda Guerra Mundial'
 date: 2023-08-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

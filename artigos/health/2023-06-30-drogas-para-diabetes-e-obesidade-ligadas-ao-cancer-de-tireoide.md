@@ -2,7 +2,7 @@
 title: Drogas para diabetes e obesidade ligadas ao câncer de tireoide
 date: 2023-06-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

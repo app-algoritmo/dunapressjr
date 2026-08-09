@@ -2,7 +2,7 @@
 title: Exército reforça a segurança na fronteira oeste
 date: 2023-11-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

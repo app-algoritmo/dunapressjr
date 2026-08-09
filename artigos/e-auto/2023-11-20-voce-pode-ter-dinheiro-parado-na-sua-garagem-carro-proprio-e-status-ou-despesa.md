@@ -2,7 +2,7 @@
 title: "'Você pode ter dinheiro parado na sua garagem': carro próprio é status ou despesa?"
 date: 2023-11-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
 ---

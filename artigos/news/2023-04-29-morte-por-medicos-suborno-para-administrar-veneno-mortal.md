@@ -2,7 +2,7 @@
 title: 'Morte por médicos: suborno para administrar veneno mortal'
 date: 2023-04-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

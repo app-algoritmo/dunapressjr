@@ -3,7 +3,7 @@ title: Frente Popular para a Libertação da Palestina Adverte contra Presença 
   em Gaza
 date: 2024-05-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

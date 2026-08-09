@@ -2,7 +2,7 @@
 title: Rodrigo Cunha comemora lei que amplia proteção às vítimas de violência doméstica
 date: 2023-11-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

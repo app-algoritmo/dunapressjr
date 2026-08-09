@@ -2,7 +2,7 @@
 title: Brasil enfrenta redução de 40% nos investimentos estrangeiros
 date: 2023-11-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Global Economy
 ---

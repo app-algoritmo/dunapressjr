@@ -2,7 +2,7 @@
 title: Lira tem encontro bilateral com representantes do parlamento árabe
 date: 2023-12-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

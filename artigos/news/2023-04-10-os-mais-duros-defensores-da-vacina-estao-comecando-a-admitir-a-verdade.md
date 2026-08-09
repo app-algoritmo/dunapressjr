@@ -2,7 +2,7 @@
 title: Os mais duros defensores da vacina estão começando a admitir a verdade
 date: 2023-04-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

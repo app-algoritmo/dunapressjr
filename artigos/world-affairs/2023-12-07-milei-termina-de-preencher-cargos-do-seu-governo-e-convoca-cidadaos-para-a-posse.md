@@ -3,7 +3,7 @@ title: Milei termina de preencher cargos do seu Governo e convoca cidadãos para
   posse
 date: 2023-12-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

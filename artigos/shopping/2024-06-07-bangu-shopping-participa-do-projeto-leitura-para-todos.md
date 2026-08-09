@@ -2,7 +2,7 @@
 title: "Bangu Shopping participa do projeto 'Leitura para Todos'"
 date: 2024-06-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Shopping
 ---

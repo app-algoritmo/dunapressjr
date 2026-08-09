@@ -2,7 +2,7 @@
 title: Heinze critica indicação de Flávio Dino para o STF
 date: 2023-12-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

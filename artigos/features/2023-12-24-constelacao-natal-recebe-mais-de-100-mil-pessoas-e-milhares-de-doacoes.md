@@ -2,7 +2,7 @@
 title: "Constelação Natal recebe mais de 100 mil pessoas e milhares de doações"
 date: 2023-12-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

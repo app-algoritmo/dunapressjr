@@ -2,7 +2,7 @@
 title: Promulgado decreto legislativo com acordo de extradição com a Hungria
 date: 2023-08-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: "Claire Williams e o fim de uma era na Fórmula 1?"
 date: 2020-09-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Opinion
   - Sports

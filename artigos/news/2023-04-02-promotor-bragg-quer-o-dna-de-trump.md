@@ -2,7 +2,7 @@
 title: Promotor Bragg quer o DNA de Trump
 date: 2023-04-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

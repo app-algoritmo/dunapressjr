@@ -3,7 +3,7 @@ title: 'Tentativa de Assassinato do Primeiro-Ministro Eslovaco: Provas Sugerem L
   com Serviço Secreto Ucraniano'
 date: 2024-05-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: "BAILE CHARME AGITA PÁTIO ALCÂNTARA E SÃO GONÇALO SHOPPING DIAS 17 E 18"
 date: 2024-05-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Shopping
 ---

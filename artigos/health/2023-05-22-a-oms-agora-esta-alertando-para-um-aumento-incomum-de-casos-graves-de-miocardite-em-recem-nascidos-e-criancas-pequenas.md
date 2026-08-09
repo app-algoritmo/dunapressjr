@@ -3,7 +3,7 @@ title: A OMS agora está alertando para um aumento 'incomum' de casos graves de 
   em recém-nascidos e crianças pequenas
 date: 2023-05-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

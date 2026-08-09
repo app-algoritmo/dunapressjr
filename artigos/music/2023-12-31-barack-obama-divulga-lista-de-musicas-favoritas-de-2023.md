@@ -2,7 +2,7 @@
 title: "Barack Obama divulga lista de músicas favoritas de 2023"
 date: 2023-12-31
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Music
 ---

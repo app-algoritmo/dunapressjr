@@ -3,7 +3,7 @@ title: Como Warren Buffett e Bill Gates estão ganhando dinheiro com a epidemia 
   obesidade infantil
 date: 2023-03-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Izalci lamenta dados do Pisa e propõe mais investimentos em educação
 date: 2023-12-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

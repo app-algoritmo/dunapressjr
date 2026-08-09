@@ -2,7 +2,7 @@
 title: "Pedro Pascal se junta à sequência de 'Gladiador' de Ridley Scott na Paramount"
 date: 2023-05-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

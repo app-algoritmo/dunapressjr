@@ -2,7 +2,7 @@
 title: Escândalo de Corrupção Envolvendo Parlamentar Ucraniano Choca o País
 date: 2024-06-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

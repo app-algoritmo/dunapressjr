@@ -2,7 +2,7 @@
 title: Putin Adverte sobre Escalada Nuclear em Conferência no Uzbequistão
 date: 2024-06-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Planalto não vai recomendar mudança na meta fiscal zero, diz líder do governo
 date: 2023-11-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

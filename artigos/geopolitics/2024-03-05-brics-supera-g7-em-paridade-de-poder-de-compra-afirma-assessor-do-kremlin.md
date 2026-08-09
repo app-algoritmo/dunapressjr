@@ -2,7 +2,7 @@
 title: BRICS supera G7 em paridade de poder de compra, afirma assessor do Kremlin
 date: 2024-03-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

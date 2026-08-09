@@ -2,7 +2,7 @@
 title: "Churrasco do Pequeno Cotolengo conta com maionese sem lactose"
 date: 2023-03-31
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

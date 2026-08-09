@@ -3,7 +3,7 @@ title: Irã rejeita alegação dos EUA sobre o uso de drones iranianos pela Rús
   guerra da Ucrânia
 date: 2023-06-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

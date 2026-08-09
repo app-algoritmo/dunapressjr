@@ -3,7 +3,7 @@ title: Trump Promete Proteger Criptomoedas e Combater CBDCs em Discurso na Conve
   Nacional Libertária
 date: 2024-06-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

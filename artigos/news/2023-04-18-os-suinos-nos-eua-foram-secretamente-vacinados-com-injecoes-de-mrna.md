@@ -2,7 +2,7 @@
 title: Os suínos nos EUA foram secretamente “vacinados” com injeções de mRNA
 date: 2023-04-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

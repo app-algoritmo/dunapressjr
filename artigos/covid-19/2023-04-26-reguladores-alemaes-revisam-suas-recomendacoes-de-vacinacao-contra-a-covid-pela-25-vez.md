@@ -3,7 +3,7 @@ title: Reguladores alemães revisam suas recomendações de vacinação contra a
   pela 25ª vez
 date: 2023-04-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 - Health

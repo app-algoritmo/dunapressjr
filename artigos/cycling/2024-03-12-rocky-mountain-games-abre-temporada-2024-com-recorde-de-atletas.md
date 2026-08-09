@@ -2,7 +2,7 @@
 title: "Rocky Mountain Games abre temporada 2024 com recorde de atletas"
 date: 2024-03-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

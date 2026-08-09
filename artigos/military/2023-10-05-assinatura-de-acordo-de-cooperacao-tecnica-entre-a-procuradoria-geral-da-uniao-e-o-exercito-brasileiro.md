@@ -3,7 +3,7 @@ title: Assinatura de Acordo de Cooperação Técnica entre a Procuradoria-Geral 
   e o Exército Brasileiro
 date: 2023-10-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

@@ -2,7 +2,7 @@
 title: "Caxias Shopping celebra Dia das Mães em ação que valoriza a força da relação entre mãe e filho"
 date: 2023-05-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

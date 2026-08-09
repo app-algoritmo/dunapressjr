@@ -2,7 +2,7 @@
 title: "Em cinco meses, Projeto Escola do IEE capacita 239 profissionais de educação e saúde"
 date: 2023-11-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

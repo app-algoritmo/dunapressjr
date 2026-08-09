@@ -2,7 +2,7 @@
 title: "Esvaziar a bexiga antes de entrar no carro pode salvar a sua vida"
 date: 2023-08-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

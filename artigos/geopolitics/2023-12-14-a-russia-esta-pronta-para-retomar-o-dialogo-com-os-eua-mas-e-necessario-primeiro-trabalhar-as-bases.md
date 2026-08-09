@@ -3,7 +3,7 @@ title: A Rússia está pronta para retomar o diálogo com os EUA, mas é necess�
   trabalhar as bases
 date: 2023-12-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

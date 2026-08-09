@@ -2,7 +2,7 @@
 title: Arthur Lira cobra ajuda do governo federal no caso da Braskem
 date: 2023-12-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

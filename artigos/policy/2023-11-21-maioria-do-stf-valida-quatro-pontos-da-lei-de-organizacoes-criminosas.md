@@ -2,7 +2,7 @@
 title: Maioria do STF valida quatro pontos da Lei de Organizações Criminosas
 date: 2023-11-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

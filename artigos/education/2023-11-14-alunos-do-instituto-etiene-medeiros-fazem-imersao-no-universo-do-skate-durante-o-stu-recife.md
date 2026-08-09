@@ -2,7 +2,7 @@
 title: "Alunos do Instituto Etiene Medeiros fazem imersão no universo do skate durante o STU Recife"
 date: 2023-11-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

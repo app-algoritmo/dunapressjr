@@ -2,7 +2,7 @@
 title: "Dia Mundial da Sepse: busca pelo diagnóstico que salva vidas"
 date: 2023-09-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

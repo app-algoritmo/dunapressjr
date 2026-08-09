@@ -2,7 +2,7 @@
 title: Oficiais russos do FSB neutralizam agente ucraniano em plano de ataque terrorista
 date: 2024-02-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

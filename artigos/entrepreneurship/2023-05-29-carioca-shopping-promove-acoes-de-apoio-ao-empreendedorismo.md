@@ -2,7 +2,7 @@
 title: "CARIOCA SHOPPING PROMOVE AÇÕES DE APOIO AO EMPREENDEDORISMO"
 date: 2023-05-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Entrepreneurship
 ---

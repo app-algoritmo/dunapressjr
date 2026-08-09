@@ -2,7 +2,7 @@
 title: "Turismo de bem-estar: Global Wellness Institute estima crescimento de 21% ao ano até 2025"
 date: 2023-12-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

@@ -3,7 +3,7 @@ title: 'Vitória pró-vida: Estado de Idaho proíbe o aborto em meio à indigna�
   Biden'
 date: 2024-01-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

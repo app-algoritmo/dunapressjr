@@ -3,7 +3,7 @@ title: 'O kirchnerismo busca uma tábua de salvação: o atual ministro do Inter
   seu candidato presidencial'
 date: 2023-06-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

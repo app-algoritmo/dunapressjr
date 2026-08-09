@@ -3,7 +3,7 @@ title: Municípios mais populosos do Paraná registram queda nos homicídios dol
   em 2023
 date: 2023-10-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

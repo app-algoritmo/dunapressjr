@@ -3,7 +3,7 @@ title: A União Europeia de hoje não oferece 'nem paz nem prosperidade', lament
   da Hungria
 date: 2023-06-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

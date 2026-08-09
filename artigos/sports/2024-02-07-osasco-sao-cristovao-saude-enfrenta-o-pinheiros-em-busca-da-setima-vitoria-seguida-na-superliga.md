@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde enfrenta o Pinheiros em busca da sétima vitória seguida na Superliga"
 date: 2024-02-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

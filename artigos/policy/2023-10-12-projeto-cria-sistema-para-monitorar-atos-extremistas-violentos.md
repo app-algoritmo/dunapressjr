@@ -2,7 +2,7 @@
 title: Projeto cria sistema para monitorar atos extremistas violentos
 date: 2023-10-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

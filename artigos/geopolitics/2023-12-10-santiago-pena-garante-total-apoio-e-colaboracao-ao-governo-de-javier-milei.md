@@ -2,7 +2,7 @@
 title: Santiago Peña garante total apoio e colaboração ao governo de Javier Milei
 date: 2023-12-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

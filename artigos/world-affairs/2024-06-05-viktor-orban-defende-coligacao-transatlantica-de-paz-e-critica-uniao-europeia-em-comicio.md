@@ -3,7 +3,7 @@ title: Viktor Orbán Defende 'Coligação Transatlântica de Paz' e Critica Uni�
   em Comício
 date: 2024-06-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

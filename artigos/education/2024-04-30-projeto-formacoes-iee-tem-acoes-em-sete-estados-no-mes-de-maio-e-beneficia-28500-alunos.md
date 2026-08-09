@@ -2,7 +2,7 @@
 title: "Projeto Formações IEE tem ações em sete estados no mês de maio e beneficia 28.500 alunos"
 date: 2024-04-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

@@ -3,7 +3,7 @@ title: Um artigo do tratado de pandemia exigido pela OMS que mostra que não se 
   apenas de saúde
 date: 2023-05-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

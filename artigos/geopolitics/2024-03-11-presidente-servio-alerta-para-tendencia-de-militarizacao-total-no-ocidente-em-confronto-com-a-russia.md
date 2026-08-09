@@ -3,7 +3,7 @@ title: Presidente sérvio alerta para tendência de militarização total no Oci
   em confronto com a Rússia
 date: 2024-03-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

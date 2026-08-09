@@ -2,7 +2,7 @@
 title: "Restam poucas vagas para a etapa final do Rocky Mountain Games 2023"
 date: 2023-08-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Sports

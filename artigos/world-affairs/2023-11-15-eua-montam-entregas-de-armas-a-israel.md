@@ -2,7 +2,7 @@
 title: EUA montam entregas de armas a Israel
 date: 2023-11-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

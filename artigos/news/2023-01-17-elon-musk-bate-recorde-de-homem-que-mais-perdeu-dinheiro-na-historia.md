@@ -2,7 +2,7 @@
 title: "Elon Musk bate recorde de homem que mais perdeu dinheiro na história"
 date: 2023-01-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

@@ -2,7 +2,7 @@
 title: "Netflix divulga o trailer do drama da Guerra ‘Mosul’"
 date: 2020-11-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Video library

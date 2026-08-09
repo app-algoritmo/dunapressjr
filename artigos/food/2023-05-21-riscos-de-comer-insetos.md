@@ -2,7 +2,7 @@
 title: Riscos de comer insetos
 date: 2023-05-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

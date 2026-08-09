@@ -2,7 +2,7 @@
 title: "Empresa de mobilidade urbana investe R$ 800 mil em tecnologia para aprimorar experiência do cliente"
 date: 2024-02-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
   - Technology

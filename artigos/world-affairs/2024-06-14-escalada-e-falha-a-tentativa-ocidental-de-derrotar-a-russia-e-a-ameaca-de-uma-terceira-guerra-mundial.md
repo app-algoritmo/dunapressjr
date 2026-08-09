@@ -3,7 +3,7 @@ title: 'Escalada e Falha: A Tentativa Ocidental de Derrotar a Rússia e a Ameaç
   uma Terceira Guerra Mundial'
 date: 2024-06-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

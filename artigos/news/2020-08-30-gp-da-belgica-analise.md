@@ -2,7 +2,7 @@
 title: "GP da Bélgica: Análise"
 date: 2020-08-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Sports

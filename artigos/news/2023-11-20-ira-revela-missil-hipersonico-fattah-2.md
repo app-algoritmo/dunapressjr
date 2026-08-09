@@ -2,7 +2,7 @@
 title: Irã revela míssil hipersônico ‘Fattah 2’
 date: 2023-11-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

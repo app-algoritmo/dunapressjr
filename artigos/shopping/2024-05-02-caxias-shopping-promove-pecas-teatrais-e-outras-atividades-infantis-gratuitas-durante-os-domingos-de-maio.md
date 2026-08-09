@@ -2,7 +2,7 @@
 title: "Caxias Shopping promove peças teatrais e outras atividades infantis gratuitas durante os domingos de maio"
 date: 2024-05-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Shopping
 ---

@@ -3,7 +3,7 @@ title: Membro da OMS quer realizar 'exercício de simulação' antes da implemen
   do tratado pandêmico
 date: 2023-06-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

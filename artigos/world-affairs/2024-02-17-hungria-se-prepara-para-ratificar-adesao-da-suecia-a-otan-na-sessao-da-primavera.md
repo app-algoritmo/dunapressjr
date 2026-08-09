@@ -2,7 +2,7 @@
 title: Hungria se Prepara para Ratificar Adesão da Suécia à OTAN na Sessão da Primavera
 date: 2024-02-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

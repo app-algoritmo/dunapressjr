@@ -2,7 +2,7 @@
 title: "Borderline: o transtorno que faz pessoas irem do céu ao inferno"
 date: 2022-12-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

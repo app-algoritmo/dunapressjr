@@ -3,7 +3,7 @@ title: 'SP: Deputado cobra reforma tributária para acabar com a guerra fiscal e
   Estados'
 date: 2023-06-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear reúne 3 mil participantes para um domingo de esporte e diversão no Recife (PE)"
 date: 2023-08-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

@@ -2,7 +2,7 @@
 title: Receio do desconhecido não pode travar pesquisas sobre IA, dizem debatedores
 date: 2023-10-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

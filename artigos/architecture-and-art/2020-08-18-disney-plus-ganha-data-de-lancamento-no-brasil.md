@@ -2,7 +2,7 @@
 title: "Disney Plus ganha data de lançamento no Brasil!"
 date: 2020-08-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
 ---

@@ -3,7 +3,7 @@ title: Netanyahu promete que Israel travará uma guerra até vencer, independent
   do processo no tribunal da ONU
 date: 2024-01-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

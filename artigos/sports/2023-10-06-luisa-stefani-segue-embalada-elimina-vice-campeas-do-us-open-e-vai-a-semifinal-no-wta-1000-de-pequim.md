@@ -2,7 +2,7 @@
 title: "Luisa Stefani segue embalada, elimina vice-campeãs do US Open e vai à semifinal no WTA 1000 de Pequim"
 date: 2023-10-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

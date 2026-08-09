@@ -2,7 +2,7 @@
 title: Lula quer suspender as reformas trabalhistas de Temer e Bolsonaro
 date: 2023-01-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

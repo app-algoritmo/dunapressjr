@@ -2,7 +2,7 @@
 title: Processo criminal contra Prigozhin será arquivado, diz Kremlin
 date: 2023-06-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

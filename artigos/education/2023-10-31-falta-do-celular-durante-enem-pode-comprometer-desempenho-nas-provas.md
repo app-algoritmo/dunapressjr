@@ -2,7 +2,7 @@
 title: "Falta do celular durante Enem pode comprometer desempenho nas provas"
 date: 2023-10-31
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

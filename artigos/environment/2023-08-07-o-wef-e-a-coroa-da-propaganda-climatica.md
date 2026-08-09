@@ -2,7 +2,7 @@
 title: O WEF é a coroa da propaganda climática
 date: 2023-08-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Environment
 ---

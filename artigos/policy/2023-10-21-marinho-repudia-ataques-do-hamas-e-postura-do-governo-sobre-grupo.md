@@ -2,7 +2,7 @@
 title: Marinho repudia ataques do Hamas e postura do governo sobre grupo
 date: 2023-10-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

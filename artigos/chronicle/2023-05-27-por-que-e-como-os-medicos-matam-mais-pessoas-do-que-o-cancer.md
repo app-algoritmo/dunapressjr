@@ -2,7 +2,7 @@
 title: Por que e como os médicos matam mais pessoas do que o câncer
 date: 2023-05-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Chronicle
 ---

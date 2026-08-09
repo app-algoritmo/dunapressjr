@@ -2,7 +2,7 @@
 title: Prorrogação do Regime de Emergência em El Salvador é Aprovada
 date: 2024-02-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

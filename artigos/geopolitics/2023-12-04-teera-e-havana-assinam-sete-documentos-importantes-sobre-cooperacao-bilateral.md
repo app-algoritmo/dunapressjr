@@ -2,7 +2,7 @@
 title: Teerã e Havana assinam sete documentos importantes sobre cooperação bilateral
 date: 2023-12-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

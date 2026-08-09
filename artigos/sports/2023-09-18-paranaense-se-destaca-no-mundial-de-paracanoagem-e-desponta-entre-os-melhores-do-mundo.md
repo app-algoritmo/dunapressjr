@@ -2,7 +2,7 @@
 title: "Paranaense se destaca no Mundial de Paracanoagem e desponta entre os melhores do mundo"
 date: 2023-09-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

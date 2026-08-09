@@ -3,7 +3,7 @@ title: Pesquisa mostra que corantes alimentares podem danificar a estrutura do D
   e causar câncer
 date: 2023-05-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

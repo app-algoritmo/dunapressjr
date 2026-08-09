@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde joga por vaga na 25ª final estadual"
 date: 2023-09-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

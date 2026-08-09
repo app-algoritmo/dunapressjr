@@ -2,7 +2,7 @@
 title: 'Covid-19: Estudo desmascara o mito de que sua vida depende da vacina'
 date: 2023-02-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Lei torna obrigatória a divulgação na internet de estoques públicos de remédios
 date: 2023-08-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

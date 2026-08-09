@@ -2,7 +2,7 @@
 title: "Liga Esportiva NESCAU® movimenta 2.400 mil pessoas no interior da Bahia"
 date: 2024-05-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Swimming

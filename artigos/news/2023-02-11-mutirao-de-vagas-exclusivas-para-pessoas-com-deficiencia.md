@@ -2,7 +2,7 @@
 title: "Mutirão de vagas exclusivas para pessoas com deficiência"
 date: 2023-02-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

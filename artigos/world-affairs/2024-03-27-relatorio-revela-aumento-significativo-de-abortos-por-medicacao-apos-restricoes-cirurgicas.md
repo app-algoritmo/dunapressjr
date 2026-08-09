@@ -3,7 +3,7 @@ title: Relatório Revela Aumento Significativo de Abortos por Medicação após 
   Cirúrgicas
 date: 2024-03-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

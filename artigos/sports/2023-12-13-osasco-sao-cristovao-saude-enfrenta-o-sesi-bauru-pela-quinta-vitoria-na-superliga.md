@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde enfrenta o Sesi Bauru pela quinta vitória na Superliga"
 date: 2023-12-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

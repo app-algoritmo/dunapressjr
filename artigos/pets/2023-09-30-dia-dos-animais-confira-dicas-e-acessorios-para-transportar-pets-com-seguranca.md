@@ -2,7 +2,7 @@
 title: "Dia dos Animais: confira dicas e acessórios para transportar pets com segurança"
 date: 2023-09-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Pets
 ---

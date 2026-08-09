@@ -2,7 +2,7 @@
 title: 'Produtos sanguíneos: o papel da BlackRock no massacre da Ucrânia'
 date: 2023-08-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

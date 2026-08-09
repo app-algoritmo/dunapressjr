@@ -2,7 +2,7 @@
 title: "Hall de entrada: boas-vindas e impressão marcante à primeira vista"
 date: 2024-02-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

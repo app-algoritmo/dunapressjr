@@ -3,7 +3,7 @@ title: A demanda do banco central por ouro no primeiro semestre de 2023 foi a ma
   alta de todos os tempos
 date: 2023-08-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

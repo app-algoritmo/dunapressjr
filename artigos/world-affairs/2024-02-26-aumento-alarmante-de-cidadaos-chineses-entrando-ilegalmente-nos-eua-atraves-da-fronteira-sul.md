@@ -3,7 +3,7 @@ title: Aumento Alarmante de Cidadãos Chineses Entrando Ilegalmente nos EUA atra
   da Fronteira Sul
 date: 2024-02-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Zequinha questiona intenção de Lula de financiar gasoduto na Argentina
 date: 2023-06-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

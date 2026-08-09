@@ -2,7 +2,7 @@
 title: "Luisa Stefani se prepara para o WTA 1000 de Roma"
 date: 2024-05-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde enfrenta Barueri fora de casa nesta quarta-feira (22)"
 date: 2023-11-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

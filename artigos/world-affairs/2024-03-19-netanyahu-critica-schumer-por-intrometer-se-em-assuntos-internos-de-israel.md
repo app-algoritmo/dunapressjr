@@ -2,7 +2,7 @@
 title: Netanyahu Critica Schumer por Intrometer-se em Assuntos Internos de Israel
 date: 2024-03-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

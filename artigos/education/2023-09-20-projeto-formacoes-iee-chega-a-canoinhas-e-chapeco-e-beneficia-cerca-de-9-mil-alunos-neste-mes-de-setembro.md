@@ -2,7 +2,7 @@
 title: "Projeto Formações IEE chega a Canoinhas e Chapecó e beneficia cerca de 9 mil alunos neste mês de setembro"
 date: 2023-09-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

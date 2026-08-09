@@ -2,7 +2,7 @@
 title: "Festival Rocky Spirit leva 22 filmes inspiradores sobre esporte e aventura para os cariocas neste final de semana"
 date: 2023-09-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

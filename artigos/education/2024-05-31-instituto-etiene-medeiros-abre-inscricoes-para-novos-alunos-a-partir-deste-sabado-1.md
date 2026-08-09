@@ -2,7 +2,7 @@
 title: "Instituto Etiene Medeiros abre inscrições para novos alunos a partir deste sábado (1)"
 date: 2024-05-31
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

@@ -3,7 +3,7 @@ title: 'Ameaça do ex-presidente Rafael Correa a Fernando Villavicencio: ''Sua f
   vai acabar logo'''
 date: 2023-08-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

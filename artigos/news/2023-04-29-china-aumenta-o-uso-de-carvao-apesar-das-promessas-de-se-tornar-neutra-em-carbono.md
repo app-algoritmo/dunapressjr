@@ -3,7 +3,7 @@ title: China aumenta o uso de carvão apesar das promessas de se tornar “neutr
   carbono”
 date: 2023-04-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

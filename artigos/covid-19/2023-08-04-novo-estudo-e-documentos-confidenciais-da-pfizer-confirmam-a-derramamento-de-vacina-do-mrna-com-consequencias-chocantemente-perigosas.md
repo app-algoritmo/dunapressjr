@@ -3,7 +3,7 @@ title: Novo estudo e documentos confidenciais da Pfizer confirmam a 'derramament
   de vacina' do mRNA com consequências chocantemente perigosas
 date: 2023-08-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: "Três ministros de Lula votaram para derrubar Dilma; saiba mais"
 date: 2022-12-31
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

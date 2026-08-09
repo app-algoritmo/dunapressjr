@@ -2,7 +2,7 @@
 title: Capes tem bloqueio de R$ 116 milhões; organizações estão preocupadas
 date: 2023-10-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Education
 ---

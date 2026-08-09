@@ -2,7 +2,7 @@
 title: Plínio diz que agentes do ICMBio cometem violações em reserva no Acre
 date: 2023-10-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

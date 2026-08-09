@@ -2,7 +2,7 @@
 title: Izalci faz apelo por PMs do 8 de janeiro que estão presos e sem salário
 date: 2023-11-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

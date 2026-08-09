@@ -2,7 +2,7 @@
 title: Estado de SP cria mais de 65 mil empregos formais em agosto
 date: 2023-10-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

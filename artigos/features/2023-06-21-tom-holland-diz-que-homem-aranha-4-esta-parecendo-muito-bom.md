@@ -2,7 +2,7 @@
 title: "Tom Holland diz que 'Homem-Aranha 4' está 'parecendo muito bom'"
 date: 2023-06-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

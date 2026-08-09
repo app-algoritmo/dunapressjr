@@ -2,7 +2,7 @@
 title: "Campanha de doação de sangue supera meta e tem nova data no Caxias Shopping"
 date: 2023-06-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

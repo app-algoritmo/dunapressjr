@@ -3,7 +3,7 @@ title: Principal centro de pesquisa médica do mundo financiou pesquisas no labo
   de Wuhan
 date: 2023-04-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 - Health

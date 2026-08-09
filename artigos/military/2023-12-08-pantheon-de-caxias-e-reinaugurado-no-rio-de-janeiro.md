@@ -2,7 +2,7 @@
 title: Pantheon de Caxias é reinaugurado no Rio de Janeiro
 date: 2023-12-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

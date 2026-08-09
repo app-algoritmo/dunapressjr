@@ -3,7 +3,7 @@ title: Ex-presidente Trump Expulso das Primárias em Illinois; Planeja Recorrer 
   Decisão Judicial
 date: 2024-03-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

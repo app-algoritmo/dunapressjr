@@ -2,7 +2,7 @@
 title: 'O Empate na Ofensiva Ucraniana: Reflexões sobre a Situação Atual'
 date: 2023-08-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

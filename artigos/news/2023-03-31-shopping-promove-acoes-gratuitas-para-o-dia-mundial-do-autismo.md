@@ -2,7 +2,7 @@
 title: "Shopping promove ações gratuitas para o Dia Mundial do Autismo"
 date: 2023-03-31
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

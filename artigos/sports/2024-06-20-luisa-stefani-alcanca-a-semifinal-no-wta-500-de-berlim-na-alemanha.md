@@ -2,7 +2,7 @@
 title: "Luisa Stefani alcança a semifinal no WTA 500 de Berlim, na Alemanha"
 date: 2024-06-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

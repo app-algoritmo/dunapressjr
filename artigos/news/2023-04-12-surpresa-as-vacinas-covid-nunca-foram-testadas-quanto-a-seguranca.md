@@ -2,7 +2,7 @@
 title: Surpresa! As vacinas COVID nunca foram testadas quanto à segurança
 date: 2023-04-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

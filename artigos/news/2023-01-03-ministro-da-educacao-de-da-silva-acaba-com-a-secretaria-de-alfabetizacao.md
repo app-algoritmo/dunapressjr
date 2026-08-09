@@ -2,7 +2,7 @@
 title: Ministro da Educação de da Silva acaba com a Secretaria de Alfabetização
 date: 2023-01-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

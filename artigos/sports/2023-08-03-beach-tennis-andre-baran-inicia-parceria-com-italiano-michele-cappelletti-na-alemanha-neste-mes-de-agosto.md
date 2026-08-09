@@ -2,7 +2,7 @@
 title: "Beach Tennis: André Baran inicia parceria com italiano Michele Cappelletti na Alemanha, neste mês de agosto"
 date: 2023-08-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

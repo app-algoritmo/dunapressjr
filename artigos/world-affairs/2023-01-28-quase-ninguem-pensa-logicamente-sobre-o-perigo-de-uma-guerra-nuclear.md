@@ -2,7 +2,7 @@
 title: Quase ninguém pensa logicamente sobre o perigo de uma guerra nuclear
 date: 2023-01-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

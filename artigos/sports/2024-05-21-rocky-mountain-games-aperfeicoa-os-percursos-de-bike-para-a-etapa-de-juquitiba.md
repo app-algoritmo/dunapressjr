@@ -2,7 +2,7 @@
 title: "Rocky Mountain Games aperfeiçoa os percursos de bike para a etapa de Juquitiba"
 date: 2024-05-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

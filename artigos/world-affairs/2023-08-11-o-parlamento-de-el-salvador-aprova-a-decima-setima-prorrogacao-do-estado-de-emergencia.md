@@ -3,7 +3,7 @@ title: O Parlamento de El Salvador aprova a décima sétima prorrogação do est
   emergência
 date: 2023-08-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

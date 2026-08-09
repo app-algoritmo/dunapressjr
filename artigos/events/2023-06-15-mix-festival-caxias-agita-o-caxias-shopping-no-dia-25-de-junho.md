@@ -2,7 +2,7 @@
 title: "Mix Festival Caxias agita o Caxias Shopping no dia 25 de junho"
 date: 2023-06-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

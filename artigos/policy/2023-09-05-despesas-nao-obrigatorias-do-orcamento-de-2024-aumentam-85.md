@@ -2,7 +2,7 @@
 title: Despesas não obrigatórias do Orçamento de 2024 aumentam 8,5%
 date: 2023-09-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Putin destrói laboratório de adrenocromo na Ucrânia
 date: 2023-01-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

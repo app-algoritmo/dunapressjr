@@ -2,7 +2,7 @@
 title: "Positivo e LEGO Foundation divulgam escolas premiadas com materiais de robótica"
 date: 2023-12-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Technology
 ---

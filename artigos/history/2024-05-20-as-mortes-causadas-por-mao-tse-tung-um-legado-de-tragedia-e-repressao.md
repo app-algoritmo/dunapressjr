@@ -2,7 +2,7 @@
 title: 'As Mortes Causadas por Mao Tse Tung: Um Legado de Tragédia e Repressão'
 date: 2024-05-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - History
 ---

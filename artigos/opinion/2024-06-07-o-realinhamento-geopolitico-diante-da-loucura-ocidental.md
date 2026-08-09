@@ -2,7 +2,7 @@
 title: O Realinhamento Geopolítico diante da Loucura Ocidental
 date: 2024-06-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Opinion
 ---

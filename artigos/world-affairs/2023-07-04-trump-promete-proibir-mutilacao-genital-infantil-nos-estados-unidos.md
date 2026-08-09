@@ -2,7 +2,7 @@
 title: Trump promete proibir mutilação genital infantil nos Estados Unidos
 date: 2023-07-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

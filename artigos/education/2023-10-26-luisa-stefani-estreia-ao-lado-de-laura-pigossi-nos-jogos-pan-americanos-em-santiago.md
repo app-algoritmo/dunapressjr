@@ -2,7 +2,7 @@
 title: "Luisa Stefani estreia ao lado de Laura Pigossi nos Jogos Pan-Americanos, em Santiago"
 date: 2023-10-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Pan American Games

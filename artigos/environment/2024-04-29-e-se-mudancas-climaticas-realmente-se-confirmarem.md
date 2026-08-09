@@ -2,7 +2,7 @@
 title: "E se mudanças climáticas realmente se confirmarem?"
 date: 2024-04-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Environment
 ---

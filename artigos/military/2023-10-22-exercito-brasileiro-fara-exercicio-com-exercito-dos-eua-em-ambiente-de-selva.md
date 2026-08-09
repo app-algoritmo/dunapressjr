@@ -2,7 +2,7 @@
 title: Exército Brasileiro fará exercício com Exército dos EUA em ambiente de selva
 date: 2023-10-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

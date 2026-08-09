@@ -3,7 +3,7 @@ title: '''Bioeticista'' afiliado ao FEM pede modificação genética de humanos 
   induzir intolerância à carne'
 date: 2023-08-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

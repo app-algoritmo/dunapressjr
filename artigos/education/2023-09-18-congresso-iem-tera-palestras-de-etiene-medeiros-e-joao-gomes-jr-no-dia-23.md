@@ -2,7 +2,7 @@
 title: "Congresso IEM terá palestras de Etiene Medeiros e João Gomes Jr. no dia 23"
 date: 2023-09-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Events

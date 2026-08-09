@@ -2,7 +2,7 @@
 title: A responsabilidade do Ocidente pela persistência da guerra na Ucrânia
 date: 2023-03-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

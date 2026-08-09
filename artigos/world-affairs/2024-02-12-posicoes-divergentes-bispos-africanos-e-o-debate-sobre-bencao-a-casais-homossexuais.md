@@ -2,7 +2,7 @@
 title: 'Posições Divergentes: Bispos Africanos e o Debate sobre Benção a Casais homossexuais'
 date: 2024-02-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

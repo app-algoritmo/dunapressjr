@@ -2,7 +2,7 @@
 title: "The Creator: John David Washington luta contra IA no novo suspense sci-fi. Veja o trailer!"
 date: 2023-05-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

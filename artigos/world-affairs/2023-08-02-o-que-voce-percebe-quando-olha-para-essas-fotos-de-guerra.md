@@ -2,7 +2,7 @@
 title: O que você percebe quando olha para essas fotos de guerra?
 date: 2023-08-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

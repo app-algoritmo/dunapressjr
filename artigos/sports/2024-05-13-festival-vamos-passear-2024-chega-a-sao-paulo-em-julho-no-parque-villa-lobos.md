@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear 2024 chega a São Paulo em julho, no Parque Villa-Lobos"
 date: 2024-05-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

@@ -2,7 +2,7 @@
 title: "Rocky Spirit 2023 ilumina a chegada da primavera no Rio de Janeiro"
 date: 2023-09-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

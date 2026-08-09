@@ -2,7 +2,7 @@
 title: Projeto cria política nacional de combate a crimes em áreas rurais
 date: 2023-10-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

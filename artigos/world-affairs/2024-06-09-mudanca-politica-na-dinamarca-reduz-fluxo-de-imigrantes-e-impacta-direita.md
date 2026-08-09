@@ -2,7 +2,7 @@
 title: Mudança Política na Dinamarca Reduz Fluxo de Imigrantes e Impacta Direita
 date: 2024-06-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

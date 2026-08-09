@@ -2,7 +2,7 @@
 title: "Empresas apostam na felicidade de colaboradores como estratégia para combater rotatividade"
 date: 2024-02-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

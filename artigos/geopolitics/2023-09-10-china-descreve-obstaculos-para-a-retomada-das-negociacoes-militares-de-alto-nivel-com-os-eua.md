@@ -3,7 +3,7 @@ title: China descreve “obstáculos” para a retomada das negociações milita
   nível com os EUA
 date: 2023-09-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

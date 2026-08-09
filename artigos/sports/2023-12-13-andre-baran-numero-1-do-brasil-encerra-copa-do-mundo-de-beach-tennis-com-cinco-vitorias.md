@@ -2,7 +2,7 @@
 title: "André Baran, número 1 do Brasil, encerra Copa do Mundo de Beach Tennis com cinco vitórias"
 date: 2023-12-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

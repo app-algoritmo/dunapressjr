@@ -2,7 +2,7 @@
 title: Alemanha forçada a encontrar fundos para Kiev em itens orçamentários não militares
 date: 2023-11-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

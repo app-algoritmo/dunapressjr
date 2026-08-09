@@ -2,7 +2,7 @@
 title: CPMI do 8 Janeiro ouve Mauro Cid na terça-feira
 date: 2023-06-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Marinho critica anúncio do país entrar na Opep durante evento da COP 28
 date: 2023-12-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

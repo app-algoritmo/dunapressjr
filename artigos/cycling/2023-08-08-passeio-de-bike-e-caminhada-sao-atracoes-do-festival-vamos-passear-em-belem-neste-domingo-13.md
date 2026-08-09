@@ -2,7 +2,7 @@
 title: "Passeio de Bike e Caminhada são atrações do Festival Vamos Passear em Belém neste domingo (13)"
 date: 2023-08-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

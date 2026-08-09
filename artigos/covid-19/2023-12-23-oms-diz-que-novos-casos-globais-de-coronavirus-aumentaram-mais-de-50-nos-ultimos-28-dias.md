@@ -3,7 +3,7 @@ title: OMS diz que novos casos globais de coronavírus aumentaram mais de 50% no
   28 dias
 date: 2023-12-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

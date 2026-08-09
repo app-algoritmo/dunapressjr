@@ -2,7 +2,7 @@
 title: "The Walking Dead: A série precisa de mais um spin-off?"
 date: 2020-08-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

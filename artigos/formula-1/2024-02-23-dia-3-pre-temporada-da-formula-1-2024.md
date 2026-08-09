@@ -2,7 +2,7 @@
 title: "Dia 3 | Pré-Temporada da Fórmula 1 2024"
 date: 2024-02-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Formula 1
   - Sports

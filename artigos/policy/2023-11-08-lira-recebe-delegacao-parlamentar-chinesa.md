@@ -2,7 +2,7 @@
 title: Lira recebe delegação parlamentar chinesa
 date: 2023-11-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

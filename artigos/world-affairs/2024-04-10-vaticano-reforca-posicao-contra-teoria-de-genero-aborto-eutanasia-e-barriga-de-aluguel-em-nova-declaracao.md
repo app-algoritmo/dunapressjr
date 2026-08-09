@@ -3,7 +3,7 @@ title: Vaticano reforça posição contra teoria de gênero, aborto, eutanásia 
   de aluguel em nova declaração
 date: 2024-04-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

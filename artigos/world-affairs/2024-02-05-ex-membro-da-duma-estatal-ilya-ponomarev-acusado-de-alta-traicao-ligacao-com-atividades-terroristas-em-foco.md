@@ -3,7 +3,7 @@ title: 'Ex-Membro da Duma Estatal Ilya Ponomarev Acusado de Alta Traição: Liga
   com Atividades Terroristas em Foco'
 date: 2024-02-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

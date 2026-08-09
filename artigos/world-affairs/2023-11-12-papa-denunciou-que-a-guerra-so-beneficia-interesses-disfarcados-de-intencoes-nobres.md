@@ -3,7 +3,7 @@ title: Papa denunciou que a guerra “só beneficia” interesses disfarçados �
   nobres”
 date: 2023-11-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

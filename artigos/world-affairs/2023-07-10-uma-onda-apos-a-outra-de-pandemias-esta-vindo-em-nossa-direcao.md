@@ -2,7 +2,7 @@
 title: '''Uma onda após a outra de pandemias está vindo em nossa direção!'''
 date: 2023-07-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

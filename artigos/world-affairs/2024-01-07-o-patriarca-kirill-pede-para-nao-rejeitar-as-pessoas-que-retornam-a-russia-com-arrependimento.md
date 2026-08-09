@@ -3,7 +3,7 @@ title: O Patriarca Kirill pede para não rejeitar as pessoas que retornam à Rú
   com arrependimento
 date: 2024-01-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

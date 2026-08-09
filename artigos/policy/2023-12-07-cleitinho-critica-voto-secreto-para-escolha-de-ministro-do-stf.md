@@ -2,7 +2,7 @@
 title: Cleitinho critica voto secreto para escolha de ministro do STF
 date: 2023-12-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Pacheco saúda acordo que prorroga prazo para Minas pagar dívida com União
 date: 2023-12-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

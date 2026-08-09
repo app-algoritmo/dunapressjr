@@ -2,7 +2,7 @@
 title: Brasil lança Nova Política Industrial com US$ 60 bilhões em investimentos
 date: 2024-01-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Global Economy
 ---

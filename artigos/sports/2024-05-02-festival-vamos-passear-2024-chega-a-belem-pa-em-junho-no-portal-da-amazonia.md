@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear 2024 chega a Belém (PA) em junho, no Portal da Amazônia"
 date: 2024-05-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

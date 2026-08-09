@@ -3,7 +3,7 @@ title: Entidades criticam falta de apoio a pesquisas clínicas sobre doenças ra
   no Brasil
 date: 2023-08-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

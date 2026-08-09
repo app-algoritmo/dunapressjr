@@ -2,7 +2,7 @@
 title: "Luisa Stefani brilha com Schuurs e conquista, em Doha, no Qatar, seu 3º título de WTA 1000"
 date: 2024-02-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

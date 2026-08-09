@@ -2,7 +2,7 @@
 title: Cientistas malucos estão agora experimentando injeções de mRNA em carne bovina
 date: 2023-04-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

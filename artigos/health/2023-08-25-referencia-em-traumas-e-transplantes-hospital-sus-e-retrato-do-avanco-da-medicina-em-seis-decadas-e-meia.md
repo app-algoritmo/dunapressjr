@@ -2,7 +2,7 @@
 title: "Referência em traumas e transplantes, hospital SUS é retrato do avanço da medicina em seis décadas e meia"
 date: 2023-08-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

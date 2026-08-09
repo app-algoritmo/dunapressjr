@@ -2,7 +2,7 @@
 title: Câmara aprova cota para filmes brasileiros na TV paga
 date: 2023-10-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

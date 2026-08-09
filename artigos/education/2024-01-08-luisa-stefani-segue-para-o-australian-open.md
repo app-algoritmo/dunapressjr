@@ -2,7 +2,7 @@
 title: "Luisa Stefani segue para o Australian Open"
 date: 2024-01-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Tennis

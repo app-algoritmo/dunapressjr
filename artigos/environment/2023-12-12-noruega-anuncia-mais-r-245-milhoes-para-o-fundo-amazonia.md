@@ -2,7 +2,7 @@
 title: Noruega anuncia mais R$ 245 milhões para o Fundo Amazônia
 date: 2023-12-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Environment
 ---

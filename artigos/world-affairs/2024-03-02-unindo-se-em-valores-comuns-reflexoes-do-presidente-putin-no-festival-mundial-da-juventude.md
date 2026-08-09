@@ -3,7 +3,7 @@ title: 'Unindo-se em Valores Comuns: Reflexões do Presidente Putin no Festival 
   da Juventude'
 date: 2024-03-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

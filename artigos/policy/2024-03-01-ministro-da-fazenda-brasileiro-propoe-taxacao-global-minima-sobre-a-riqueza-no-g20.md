@@ -3,7 +3,7 @@ title: Ministro da Fazenda Brasileiro Propõe Taxação Global Mínima sobre a R
   no G20
 date: 2024-03-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Comissão aprova prazo para elaboração de plano de combate à violênci
   crianças em pandemias
 date: 2023-08-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

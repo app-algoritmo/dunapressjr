@@ -3,7 +3,7 @@ title: China pronta para continuar a reforçar relações bilaterais com a Rúss
   Xi Jinping
 date: 2023-11-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

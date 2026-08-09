@@ -2,7 +2,7 @@
 title: As implicações dessas descobertas do telescópio James Webb são enormes
 date: 2023-06-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Astronomy
 ---

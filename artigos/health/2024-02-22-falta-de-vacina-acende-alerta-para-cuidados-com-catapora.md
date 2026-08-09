@@ -2,7 +2,7 @@
 title: "Falta de vacina acende alerta para cuidados com catapora"
 date: 2024-02-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

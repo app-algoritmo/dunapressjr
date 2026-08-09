@@ -2,7 +2,7 @@
 title: "Bangu Shopping promove shows gratuitos no Projeto Música na Praça"
 date: 2023-06-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
   - Events

@@ -2,7 +2,7 @@
 title: "Documentário Aretha no Everest estreia no Festival do Rio"
 date: 2023-10-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Documentaries
   - Sports

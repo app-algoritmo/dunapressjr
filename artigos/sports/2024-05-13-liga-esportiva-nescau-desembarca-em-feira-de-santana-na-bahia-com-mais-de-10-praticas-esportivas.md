@@ -2,7 +2,7 @@
 title: "Liga Esportiva NESCAU® desembarca em Feira de Santana, na Bahia, com mais de 10 práticas esportivas"
 date: 2024-05-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

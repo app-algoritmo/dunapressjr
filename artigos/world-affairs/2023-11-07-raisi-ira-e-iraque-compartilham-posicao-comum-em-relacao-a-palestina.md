@@ -2,7 +2,7 @@
 title: 'Raisi: Irã e Iraque compartilham posição comum em relação à Palestina'
 date: 2023-11-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

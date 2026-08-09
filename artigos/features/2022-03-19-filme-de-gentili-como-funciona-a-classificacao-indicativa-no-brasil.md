@@ -2,7 +2,7 @@
 title: "Filme de Gentili: Como funciona a classificação indicativa no Brasil?"
 date: 2022-03-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

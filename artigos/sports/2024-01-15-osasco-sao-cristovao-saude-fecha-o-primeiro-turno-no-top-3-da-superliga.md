@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde fecha o primeiro turno no top 3 da Superliga"
 date: 2024-01-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

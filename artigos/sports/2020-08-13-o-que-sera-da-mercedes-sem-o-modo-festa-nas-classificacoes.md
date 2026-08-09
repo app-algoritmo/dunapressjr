@@ -2,7 +2,7 @@
 title: "O que será da Mercedes sem o 'modo festa' nas classificações?"
 date: 2020-08-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

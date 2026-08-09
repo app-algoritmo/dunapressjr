@@ -2,7 +2,7 @@
 title: "WhatsApp lança serviço inédito de pagamentos no Brasil"
 date: 2023-04-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Technology

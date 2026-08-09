@@ -2,7 +2,7 @@
 title: "Caxias Shopping oferece atrações gratuitas para celebrar o Dia dos Namorados"
 date: 2024-06-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Shopping
 ---

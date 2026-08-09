@@ -3,7 +3,7 @@ title: Governadora de Nova York Considera Proibição de Máscaras em Espaços P
   Após Aumento de Incidentes Antissemitas
 date: 2024-06-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

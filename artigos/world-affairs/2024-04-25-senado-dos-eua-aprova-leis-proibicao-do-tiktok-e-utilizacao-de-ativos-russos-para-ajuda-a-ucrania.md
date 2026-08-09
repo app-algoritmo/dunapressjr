@@ -3,7 +3,7 @@ title: Senado dos EUA Aprova Leis Proibição do TikTok e Utilização de Ativos
   para Ajuda à Ucrânia
 date: 2024-04-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

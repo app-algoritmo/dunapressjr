@@ -2,7 +2,7 @@
 title: "Ex-presidente, Bolsonaro dá sinais que deixará a vida pública"
 date: 2023-01-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

@@ -2,7 +2,7 @@
 title: Combate ao racismo deve fazer parte do currículo escolar, decide CE
 date: 2023-10-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

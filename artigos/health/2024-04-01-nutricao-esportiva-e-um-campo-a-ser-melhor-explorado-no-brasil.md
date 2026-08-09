@@ -2,7 +2,7 @@
 title: "Nutrição esportiva é um campo a ser melhor explorado no Brasil"
 date: 2024-04-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
   - Sports

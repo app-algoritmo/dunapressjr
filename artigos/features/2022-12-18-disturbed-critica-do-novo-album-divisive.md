@@ -2,7 +2,7 @@
 title: "Disturbed | Crítica do novo álbum 'Divisive'."
 date: 2022-12-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

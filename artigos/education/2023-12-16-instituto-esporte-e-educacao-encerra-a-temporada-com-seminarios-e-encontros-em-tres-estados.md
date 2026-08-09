@@ -2,7 +2,7 @@
 title: "Instituto Esporte e Educação encerra a temporada com seminários e encontros em três estados"
 date: 2023-12-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

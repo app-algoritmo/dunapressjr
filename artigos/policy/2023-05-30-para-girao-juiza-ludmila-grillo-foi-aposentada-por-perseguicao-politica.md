@@ -2,7 +2,7 @@
 title: Para Girão, juíza Ludmila Grillo foi aposentada por perseguição política
 date: 2023-05-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Máquina global de censura acelera para silenciar debate sobre 'soluções' climáticas
 date: 2023-07-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Chronicle
 ---

@@ -2,7 +2,7 @@
 title: "América Andina é tema de exposição fotográfica de Daniel Castellano"
 date: 2023-10-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
   - Events

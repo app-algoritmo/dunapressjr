@@ -2,7 +2,7 @@
 title: A narrativa da eficácia da vacina COVID está em colapso
 date: 2023-04-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

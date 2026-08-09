@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde bate o Pinheiros e está a uma vitória do 17° título Paulista"
 date: 2023-10-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

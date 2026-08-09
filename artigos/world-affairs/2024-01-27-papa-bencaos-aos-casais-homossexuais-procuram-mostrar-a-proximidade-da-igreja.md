@@ -2,7 +2,7 @@
 title: 'Papa: bênçãos aos casais homossexuais “procuram mostrar a proximidade da Igreja”'
 date: 2024-01-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

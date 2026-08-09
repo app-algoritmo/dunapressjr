@@ -3,7 +3,7 @@ title: 'Coreia do Norte Alardeia Avanços Militares: Novos Mísseis de Cruzeiro 
   Antiaéreos Elevam a Tensão Global'
 date: 2024-02-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

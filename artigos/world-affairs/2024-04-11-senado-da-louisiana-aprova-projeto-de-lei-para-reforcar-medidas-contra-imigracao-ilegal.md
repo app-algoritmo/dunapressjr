@@ -3,7 +3,7 @@ title: Senado da Louisiana Aprova Projeto de Lei para Reforçar Medidas Contra I
   Ilegal
 date: 2024-04-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

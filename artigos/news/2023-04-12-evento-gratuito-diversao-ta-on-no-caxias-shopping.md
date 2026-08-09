@@ -2,7 +2,7 @@
 title: "Evento gratuito: Diversão tá ON no Caxias Shopping"
 date: 2023-04-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

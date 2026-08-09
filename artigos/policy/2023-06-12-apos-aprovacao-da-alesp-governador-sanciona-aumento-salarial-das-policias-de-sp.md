@@ -3,7 +3,7 @@ title: Após aprovação da Alesp, governador sanciona aumento salarial das pol�
   de SP
 date: 2023-06-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: "Cardápio premiado: saiba como adicionar queijos finos reconhecidos internacionalmente em jantar especial"
 date: 2024-06-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Tourism and Gastronomy
 ---

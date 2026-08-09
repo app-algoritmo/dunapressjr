@@ -2,7 +2,7 @@
 title: Como isso pode acabar bem?
 date: 2023-06-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

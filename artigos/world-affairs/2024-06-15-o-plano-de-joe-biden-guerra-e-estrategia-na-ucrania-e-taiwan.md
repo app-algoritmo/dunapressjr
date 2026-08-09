@@ -2,7 +2,7 @@
 title: 'O Plano de Joe Biden: Guerra e Estratégia na Ucrânia e Taiwan'
 date: 2024-06-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

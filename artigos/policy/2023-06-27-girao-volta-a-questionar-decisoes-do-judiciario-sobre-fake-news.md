@@ -2,7 +2,7 @@
 title: Girão volta a questionar decisões do Judiciário sobre fake news
 date: 2023-06-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

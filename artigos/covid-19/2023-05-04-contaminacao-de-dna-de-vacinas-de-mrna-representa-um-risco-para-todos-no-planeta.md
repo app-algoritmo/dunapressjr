@@ -3,7 +3,7 @@ title: Contaminação de DNA de “vacinas” de mRNA representa um risco para t
   planeta
 date: 2023-05-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

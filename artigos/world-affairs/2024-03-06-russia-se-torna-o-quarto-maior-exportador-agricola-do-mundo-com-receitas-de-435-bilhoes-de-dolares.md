@@ -3,7 +3,7 @@ title: Rússia se torna o quarto maior exportador agrícola do mundo com receita
   43,5 bilhões de dólares
 date: 2024-03-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

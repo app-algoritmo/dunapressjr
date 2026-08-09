@@ -2,7 +2,7 @@
 title: "Luisa Stefani estreia nesta terça-feira (6) no WTA 500 de Abu Dhabi ao lado de Beatriz Haddad Maia"
 date: 2024-02-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

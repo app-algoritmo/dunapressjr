@@ -3,7 +3,7 @@ title: O Papa agradeceu às autoridades do Vaticano pela sua “delicadeza” na
   dos escândalos da Igreja
 date: 2024-01-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

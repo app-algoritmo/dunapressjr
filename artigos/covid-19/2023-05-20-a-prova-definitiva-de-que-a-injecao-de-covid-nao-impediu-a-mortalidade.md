@@ -2,7 +2,7 @@
 title: A prova definitiva de que a injeção de COVID não impediu a mortalidade
 date: 2023-05-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

@@ -3,7 +3,7 @@ title: Agricultores cercam sede da União Europeia em protesto contra burocracia
   importações baratas
 date: 2024-02-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

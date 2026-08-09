@@ -3,7 +3,7 @@ title: França Enfrenta Protestos Massivos Contra o Rally Nacional Após Vitóri
   Eleições Europeias
 date: 2024-06-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

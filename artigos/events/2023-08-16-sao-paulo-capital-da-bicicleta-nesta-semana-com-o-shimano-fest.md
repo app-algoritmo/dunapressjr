@@ -2,7 +2,7 @@
 title: "São Paulo capital da bicicleta nesta semana com o Shimano Fest"
 date: 2023-08-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Sports

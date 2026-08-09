@@ -2,7 +2,7 @@
 title: "Lewis Hamilton na Ferrari: Uma Mudança que Ressoa na História"
 date: 2024-02-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Formula 1
   - Sports

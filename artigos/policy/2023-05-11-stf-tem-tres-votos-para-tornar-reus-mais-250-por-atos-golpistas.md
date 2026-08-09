@@ -2,7 +2,7 @@
 title: STF tem três votos para tornar réus mais 250 por 'atos golpistas'
 date: 2023-05-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

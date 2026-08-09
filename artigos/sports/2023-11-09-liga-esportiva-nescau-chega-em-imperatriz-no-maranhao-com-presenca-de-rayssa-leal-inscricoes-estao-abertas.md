@@ -2,7 +2,7 @@
 title: "Liga Esportiva NESCAU® chega em Imperatriz, no Maranhão, com presença de Rayssa Leal; inscrições estão abertas"
 date: 2023-11-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

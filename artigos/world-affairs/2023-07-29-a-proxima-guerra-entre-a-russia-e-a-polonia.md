@@ -2,7 +2,7 @@
 title: A próxima guerra entre a Rússia e a Polônia
 date: 2023-07-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

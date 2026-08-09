@@ -3,7 +3,7 @@ title: O aumento de tropas da Finlândia na fronteira com a Rússia pode causar 
   alerta o Kremlin
 date: 2023-11-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

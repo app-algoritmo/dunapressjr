@@ -3,7 +3,7 @@ title: A OMS e a mídia estão alimentando o pânico de outra doença, desta vez
   mortal causada pelo 'aquecimento global'
 date: 2023-03-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

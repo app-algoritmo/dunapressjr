@@ -2,7 +2,7 @@
 title: O número de internações hospitalares por ataques cardíacos atingiu um recorde
 date: 2023-08-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

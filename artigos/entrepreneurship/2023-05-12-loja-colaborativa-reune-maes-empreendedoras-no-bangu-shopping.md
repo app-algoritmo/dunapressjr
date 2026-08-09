@@ -2,7 +2,7 @@
 title: "Loja Colaborativa reúne mães empreendedoras no Bangu Shopping"
 date: 2023-05-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Entrepreneurship
 ---

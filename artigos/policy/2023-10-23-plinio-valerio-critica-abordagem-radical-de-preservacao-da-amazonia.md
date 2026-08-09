@@ -2,7 +2,7 @@
 title: Plínio Valério critica abordagem radical de preservação da Amazônia
 date: 2023-10-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

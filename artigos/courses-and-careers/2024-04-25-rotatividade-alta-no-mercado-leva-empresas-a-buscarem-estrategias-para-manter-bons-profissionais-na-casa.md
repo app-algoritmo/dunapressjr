@@ -2,7 +2,7 @@
 title: "Rotatividade alta no mercado leva empresas a buscarem estratégias para manter bons profissionais na casa"
 date: 2024-04-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Courses and Careers
   - Personal Development

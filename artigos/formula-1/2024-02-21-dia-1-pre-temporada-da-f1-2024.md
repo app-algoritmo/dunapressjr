@@ -2,7 +2,7 @@
 title: "Dia 1 | Pré-temporada da F1 2024"
 date: 2024-02-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Formula 1
   - Sports

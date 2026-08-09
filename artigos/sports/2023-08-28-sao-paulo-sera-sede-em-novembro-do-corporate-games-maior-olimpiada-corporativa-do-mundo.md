@@ -2,7 +2,7 @@
 title: "São Paulo será sede, em novembro, do Corporate Games, maior olimpíada corporativa do mundo"
 date: 2023-08-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

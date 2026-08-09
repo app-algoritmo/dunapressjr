@@ -3,7 +3,7 @@ title: Putin está aberto ao diálogo orientado para resultados, diz Kremlin, co
   a observação de Scholz
 date: 2023-11-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: China pede às Filipinas que parem com palavras e atos errados sobre ques
   relacionadas a Taiwan
 date: 2024-01-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

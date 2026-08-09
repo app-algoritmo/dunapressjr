@@ -2,7 +2,7 @@
 title: "Paul McCartney diz que “gravação final dos Beatles” está trabalhando com vocal de John Lennon feito por IA"
 date: 2023-06-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

@@ -3,7 +3,7 @@ title: 'Avanços na Identificação Biométrica: Contratos e Investimentos Globa
   a Semana'
 date: 2024-05-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Technology
 ---

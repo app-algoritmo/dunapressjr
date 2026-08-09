@@ -3,7 +3,7 @@ title: EUA desenvolvendo uma bomba nuclear gravitacional que é 24 vezes mais po
   que a de Hiroshima
 date: 2023-11-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

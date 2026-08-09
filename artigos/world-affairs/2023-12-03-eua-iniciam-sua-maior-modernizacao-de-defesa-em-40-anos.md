@@ -2,7 +2,7 @@
 title: EUA iniciam sua maior modernização de defesa em 40 anos
 date: 2023-12-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

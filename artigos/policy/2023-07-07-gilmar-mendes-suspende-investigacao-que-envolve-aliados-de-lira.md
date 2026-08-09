@@ -2,7 +2,7 @@
 title: Gilmar Mendes suspende investigação que envolve aliados de Lira
 date: 2023-07-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

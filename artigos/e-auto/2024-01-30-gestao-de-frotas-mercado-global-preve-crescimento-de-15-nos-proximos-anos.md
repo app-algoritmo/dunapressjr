@@ -2,7 +2,7 @@
 title: "Gestão de frotas: mercado global prevê crescimento de 15% nos próximos anos"
 date: 2024-01-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
 ---

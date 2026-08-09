@@ -2,7 +2,7 @@
 title: "Netshoes Run reúne 3 mil participantes no domingo (27) de muito frio na capital paulista"
 date: 2023-08-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

@@ -2,7 +2,7 @@
 title: Política Nacional de Cibersegurança já está vigorando no Brasil
 date: 2023-12-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

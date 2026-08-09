@@ -2,7 +2,7 @@
 title: Girão questiona decisões do STF e o estado da democracia no Brasil
 date: 2023-10-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

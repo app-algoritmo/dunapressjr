@@ -2,7 +2,7 @@
 title: "Pequeno Cotolengo sorteia carro zero em ação de Natal"
 date: 2023-09-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Health

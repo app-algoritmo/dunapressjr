@@ -3,7 +3,7 @@ title: '''Somos o segredinho sujo sobre o qual ninguém quer falar'', diz homem 
   pela vacina da COVID'
 date: 2023-06-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

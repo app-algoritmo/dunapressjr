@@ -2,7 +2,7 @@
 title: O novo primeiro-ministro de Portugal renuncia a governar com o CHEGA
 date: 2024-04-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

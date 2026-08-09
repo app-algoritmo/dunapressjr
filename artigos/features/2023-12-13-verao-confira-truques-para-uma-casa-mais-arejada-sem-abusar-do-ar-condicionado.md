@@ -2,7 +2,7 @@
 title: "Verão: confira truques para uma casa mais arejada sem abusar do ar-condicionado"
 date: 2023-12-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

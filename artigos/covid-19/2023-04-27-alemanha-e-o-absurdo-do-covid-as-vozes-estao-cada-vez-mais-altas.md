@@ -2,7 +2,7 @@
 title: Alemanha e o absurdo do Covid, as vozes estão cada vez mais altas
 date: 2023-04-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 - Health

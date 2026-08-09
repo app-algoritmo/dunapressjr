@@ -2,7 +2,7 @@
 title: Por não ter sido vacinado, homem no Canadá não ganha rim e morre
 date: 2023-08-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: Rússia decepcionada com Áustria e Suíça abandonando a neutralidade
 date: 2023-12-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: "Por que a biossegurança pode salvar vidas"
 date: 2024-04-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

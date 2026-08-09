@@ -2,7 +2,7 @@
 title: Governo húngaro intensifica medidas de proteção infantil e nomeação de diretores
 date: 2024-02-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

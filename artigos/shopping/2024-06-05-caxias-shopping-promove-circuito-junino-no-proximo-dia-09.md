@@ -2,7 +2,7 @@
 title: "Caxias Shopping promove 'Circuito Junino' no proximo dia 09"
 date: 2024-06-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Shopping
 ---

@@ -3,7 +3,7 @@ title: Após o acordo da Pfizer na UE, agora Bill Gates! 'É hora de denunciar 
   práticas obscuras!'
 date: 2023-08-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

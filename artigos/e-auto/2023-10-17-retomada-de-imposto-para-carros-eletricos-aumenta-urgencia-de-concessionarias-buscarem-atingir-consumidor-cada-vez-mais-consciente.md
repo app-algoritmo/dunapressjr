@@ -2,7 +2,7 @@
 title: "Retomada de imposto para carros elétricos aumenta urgência de concessionárias buscarem atingir consumidor cada vez mais consciente"
 date: 2023-10-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
 ---

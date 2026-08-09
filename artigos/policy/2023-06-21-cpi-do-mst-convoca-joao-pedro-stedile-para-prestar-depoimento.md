@@ -2,7 +2,7 @@
 title: CPI do MST convoca João Pedro Stédile para prestar depoimento
 date: 2023-06-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

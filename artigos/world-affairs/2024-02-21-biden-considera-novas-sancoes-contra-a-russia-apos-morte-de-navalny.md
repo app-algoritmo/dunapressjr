@@ -2,7 +2,7 @@
 title: Biden considera novas sanções contra a Rússia após morte de Navalny
 date: 2024-02-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

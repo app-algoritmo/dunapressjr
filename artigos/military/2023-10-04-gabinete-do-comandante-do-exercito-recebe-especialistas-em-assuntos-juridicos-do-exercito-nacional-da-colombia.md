@@ -3,7 +3,7 @@ title: Gabinete do Comandante do Exército recebe especialistas em assuntos jur�
   do Exército Nacional da Colômbia
 date: 2023-10-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

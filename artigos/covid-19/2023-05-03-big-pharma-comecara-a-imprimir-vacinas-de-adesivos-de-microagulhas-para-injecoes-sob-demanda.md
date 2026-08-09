@@ -3,7 +3,7 @@ title: Big Pharma começará a imprimir “vacinas” de adesivos de microagulha
   sob demanda
 date: 2023-05-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

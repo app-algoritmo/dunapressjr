@@ -2,7 +2,7 @@
 title: Comissão vai debater privatização da empresa de saneamento de São Paulo
 date: 2023-10-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

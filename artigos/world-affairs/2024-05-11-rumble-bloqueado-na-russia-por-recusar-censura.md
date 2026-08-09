@@ -2,7 +2,7 @@
 title: Rumble Bloqueado na Rússia por Recusar Censura
 date: 2024-05-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

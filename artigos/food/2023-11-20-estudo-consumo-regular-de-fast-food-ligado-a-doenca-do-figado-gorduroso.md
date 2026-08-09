@@ -2,7 +2,7 @@
 title: 'Estudo: Consumo regular de fast food ligado à doença do fígado gorduroso'
 date: 2023-11-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

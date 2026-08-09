@@ -3,7 +3,7 @@ title: 'CIA e a Maratona Tecnológica: Uma Corrida Sem Fim Contra a China pela S
   da Inteligência Artificial'
 date: 2024-05-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

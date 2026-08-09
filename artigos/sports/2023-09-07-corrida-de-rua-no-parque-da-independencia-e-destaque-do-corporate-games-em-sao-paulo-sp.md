@@ -2,7 +2,7 @@
 title: "Corrida de Rua no Parque da Independência é destaque do Corporate Games, em São Paulo (SP)"
 date: 2023-09-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

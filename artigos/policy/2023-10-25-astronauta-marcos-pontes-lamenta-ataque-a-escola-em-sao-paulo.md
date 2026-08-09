@@ -2,7 +2,7 @@
 title: Astronauta Marcos Pontes lamenta ataque a escola em São Paulo
 date: 2023-10-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

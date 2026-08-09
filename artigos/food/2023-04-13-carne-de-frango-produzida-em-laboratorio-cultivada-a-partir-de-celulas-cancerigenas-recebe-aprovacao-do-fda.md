@@ -3,7 +3,7 @@ title: Carne de frango produzida em laboratório, cultivada a partir de células
   recebe aprovação do FDA
 date: 2023-04-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

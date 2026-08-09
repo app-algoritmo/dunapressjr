@@ -2,7 +2,7 @@
 title: Mourão condena ataque do Hamas e diz que terrorismo é 'perigo para o mundo'
 date: 2023-10-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

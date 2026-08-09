@@ -2,7 +2,7 @@
 title: Girão pede o cancelamento de questões do Enem por 'viés tendencioso'
 date: 2023-11-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

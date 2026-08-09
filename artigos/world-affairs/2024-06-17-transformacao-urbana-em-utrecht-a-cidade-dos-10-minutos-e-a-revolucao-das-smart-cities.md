@@ -3,7 +3,7 @@ title: 'Transformação Urbana em Utrecht: A Cidade dos 10 Minutos e a Revoluç�
   Smart Cities'
 date: 2024-06-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

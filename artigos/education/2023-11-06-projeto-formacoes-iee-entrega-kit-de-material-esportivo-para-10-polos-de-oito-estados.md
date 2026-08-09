@@ -2,7 +2,7 @@
 title: "Projeto Formações IEE entrega kit de material esportivo para 10 polos de oito estados"
 date: 2023-11-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

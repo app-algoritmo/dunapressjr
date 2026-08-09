@@ -2,7 +2,7 @@
 title: 'WEF & King Charles: Todo o sistema global falhou'
 date: 2023-07-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

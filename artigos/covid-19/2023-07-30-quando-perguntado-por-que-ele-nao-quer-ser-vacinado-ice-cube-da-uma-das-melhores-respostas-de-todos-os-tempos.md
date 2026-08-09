@@ -3,7 +3,7 @@ title: Quando perguntado por que ele não quer ser vacinado, Ice Cube dá uma da
   respostas de todos os tempos
 date: 2023-07-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

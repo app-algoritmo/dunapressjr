@@ -2,7 +2,7 @@
 title: "Iluminação de interiores: conforto visual e sofisticação em cada detalhe"
 date: 2024-02-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

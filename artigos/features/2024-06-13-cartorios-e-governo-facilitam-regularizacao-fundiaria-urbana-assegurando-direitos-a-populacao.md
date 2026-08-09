@@ -2,7 +2,7 @@
 title: "Cartórios e Governo facilitam regularização fundiária urbana assegurando direitos à população"
 date: 2024-06-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

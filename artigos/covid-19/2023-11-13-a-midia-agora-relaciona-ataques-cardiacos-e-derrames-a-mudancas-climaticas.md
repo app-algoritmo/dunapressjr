@@ -2,7 +2,7 @@
 title: A mídia agora relaciona ataques cardíacos e derrames à mudanças climáticas
 date: 2023-11-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

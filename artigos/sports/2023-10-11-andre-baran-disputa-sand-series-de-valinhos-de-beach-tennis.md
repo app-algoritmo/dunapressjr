@@ -2,7 +2,7 @@
 title: "André Baran disputa Sand Series de Valinhos de Beach Tennis"
 date: 2023-10-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

@@ -2,7 +2,7 @@
 title: "Última temporada de 'Bom dia, Verônica' chega a Netflix"
 date: 2024-02-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Video library
 ---

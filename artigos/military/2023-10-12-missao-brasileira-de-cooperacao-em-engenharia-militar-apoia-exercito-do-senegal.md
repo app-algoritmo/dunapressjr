@@ -2,7 +2,7 @@
 title: Missão Brasileira de Cooperação em Engenharia Militar apoia Exército do Senegal
 date: 2023-10-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

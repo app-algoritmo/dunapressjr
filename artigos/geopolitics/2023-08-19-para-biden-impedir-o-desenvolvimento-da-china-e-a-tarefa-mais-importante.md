@@ -2,7 +2,7 @@
 title: Para Biden, impedir o desenvolvimento da China é a tarefa mais importante
 date: 2023-08-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

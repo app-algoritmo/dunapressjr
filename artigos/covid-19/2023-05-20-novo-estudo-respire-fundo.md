@@ -2,7 +2,7 @@
 title: 'Novo estudo: Respire fundo'
 date: 2023-05-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

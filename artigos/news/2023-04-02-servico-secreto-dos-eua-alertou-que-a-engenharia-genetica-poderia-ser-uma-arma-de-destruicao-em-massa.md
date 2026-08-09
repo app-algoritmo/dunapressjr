@@ -3,7 +3,7 @@ title: Serviço Secreto dos EUA alertou que a engenharia genética poderia ser u
   de destruição em massa
 date: 2023-04-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

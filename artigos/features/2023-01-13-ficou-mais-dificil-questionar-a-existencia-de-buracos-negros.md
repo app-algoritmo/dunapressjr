@@ -2,7 +2,7 @@
 title: "Ficou mais difícil questionar a existência de buracos negros"
 date: 2023-01-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

@@ -2,7 +2,7 @@
 title: "Madonna presta homenagem à amiga que “salvou sua vida” após um desmaio"
 date: 2023-12-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Music
 ---

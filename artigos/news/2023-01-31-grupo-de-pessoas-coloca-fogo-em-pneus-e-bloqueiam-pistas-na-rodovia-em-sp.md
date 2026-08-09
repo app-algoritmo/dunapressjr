@@ -2,7 +2,7 @@
 title: "Grupo de pessoas coloca fogo em pneus e bloqueiam pistas na rodovia em SP"
 date: 2023-01-31
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

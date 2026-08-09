@@ -2,7 +2,7 @@
 title: "Telegram manda ao STF comprovante de pagamento de multa de R$ 1,2 milhão."
 date: 2023-02-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

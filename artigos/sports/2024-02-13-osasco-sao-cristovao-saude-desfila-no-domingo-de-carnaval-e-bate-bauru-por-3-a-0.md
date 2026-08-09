@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde 'desfila' no domingo de Carnaval e bate Bauru por 3 a 0"
 date: 2024-02-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

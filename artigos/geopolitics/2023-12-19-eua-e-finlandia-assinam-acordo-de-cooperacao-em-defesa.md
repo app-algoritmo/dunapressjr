@@ -2,7 +2,7 @@
 title: EUA e Finlândia assinam acordo de cooperação em defesa
 date: 2023-12-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

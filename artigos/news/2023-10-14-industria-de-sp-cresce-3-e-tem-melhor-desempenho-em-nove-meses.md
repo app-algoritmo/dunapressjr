@@ -2,7 +2,7 @@
 title: Indústria de SP cresce 3% e tem melhor desempenho em nove meses
 date: 2023-10-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

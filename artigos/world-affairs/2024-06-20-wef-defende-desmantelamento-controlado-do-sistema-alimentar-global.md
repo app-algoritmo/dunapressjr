@@ -2,7 +2,7 @@
 title: WEF Defende Desmantelamento Controlado do Sistema Alimentar Global
 date: 2024-06-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

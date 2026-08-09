@@ -3,7 +3,7 @@ title: Putin nega reivindicações territoriais russas sobre a Polônia e outros
   europeus
 date: 2024-02-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

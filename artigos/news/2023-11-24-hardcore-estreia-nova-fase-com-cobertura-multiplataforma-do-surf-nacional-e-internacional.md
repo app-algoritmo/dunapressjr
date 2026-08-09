@@ -2,7 +2,7 @@
 title: "Hardcore estreia nova fase, com cobertura multiplataforma do surf nacional e internacional"
 date: 2023-11-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

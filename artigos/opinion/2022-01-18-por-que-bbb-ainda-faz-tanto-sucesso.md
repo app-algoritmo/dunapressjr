@@ -2,7 +2,7 @@
 title: "Por que BBB ainda faz tanto sucesso?"
 date: 2022-01-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Opinion
 ---

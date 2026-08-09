@@ -2,7 +2,7 @@
 title: Relator da LDO de 2024 busca alternativas para financiamento do Fundo Eleitoral
 date: 2023-11-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

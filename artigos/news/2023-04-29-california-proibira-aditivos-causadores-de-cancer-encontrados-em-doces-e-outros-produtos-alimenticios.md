@@ -3,7 +3,7 @@ title: Califórnia proibirá aditivos causadores de câncer encontrados em doces
   produtos alimentícios
 date: 2023-04-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

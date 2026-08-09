@@ -2,7 +2,7 @@
 title: "Luisa Stefani segue para o WTA 1000 de Cincinnati, nos Estados Unidos"
 date: 2023-08-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

@@ -2,7 +2,7 @@
 title: "Copa do Mundo da Vela: Brasil domina regatas da SSL Gold Cup e assume a ponta nas quartas-de-final"
 date: 2023-11-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

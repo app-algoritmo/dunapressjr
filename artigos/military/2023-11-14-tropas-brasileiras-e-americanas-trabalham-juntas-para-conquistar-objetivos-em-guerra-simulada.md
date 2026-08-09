@@ -3,7 +3,7 @@ title: Tropas brasileiras e americanas trabalham juntas para conquistar objetivo
   em guerra simulada
 date: 2023-11-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

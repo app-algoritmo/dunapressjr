@@ -2,7 +2,7 @@
 title: 'Orçamento 2024: consultorias sugerem cautela sobre perspectiva de crescimento'
 date: 2023-10-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

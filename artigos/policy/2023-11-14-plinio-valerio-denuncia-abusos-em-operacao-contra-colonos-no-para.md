@@ -2,7 +2,7 @@
 title: Plínio Valério denuncia abusos em operação contra colonos no Pará
 date: 2023-11-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

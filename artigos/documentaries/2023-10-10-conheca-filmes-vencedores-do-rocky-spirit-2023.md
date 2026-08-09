@@ -2,7 +2,7 @@
 title: "Conheça filmes vencedores do Rocky Spirit 2023"
 date: 2023-10-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Documentaries
   - Features

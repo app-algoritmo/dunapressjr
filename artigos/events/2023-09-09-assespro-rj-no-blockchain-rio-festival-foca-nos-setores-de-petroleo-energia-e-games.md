@@ -2,7 +2,7 @@
 title: "Assespro-RJ no Blockchain Rio Festival foca nos setores de petróleo, energia e games"
 date: 2023-09-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Technology

@@ -2,7 +2,7 @@
 title: Paim destaca importância da política de cotas para acesso à educação
 date: 2023-10-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

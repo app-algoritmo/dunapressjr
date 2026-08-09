@@ -3,7 +3,7 @@ title: Um grande estudo na Nova Zelândia mostra altas taxas de danos renais ap�
   vacina da Pfizer
 date: 2023-01-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

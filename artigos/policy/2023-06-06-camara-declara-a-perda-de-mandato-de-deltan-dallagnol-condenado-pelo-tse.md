@@ -2,7 +2,7 @@
 title: Câmara declara a perda de mandato de Deltan Dallagnol, condenado pelo TSE
 date: 2023-06-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

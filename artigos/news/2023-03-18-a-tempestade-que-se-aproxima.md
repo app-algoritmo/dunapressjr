@@ -2,7 +2,7 @@
 title: A tempestade que se aproxima
 date: 2023-03-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

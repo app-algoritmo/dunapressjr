@@ -2,7 +2,7 @@
 title: "Comprimidos, cápsulas ou xaropes: existe uma forma farmacêutica ideal para seu medicamento?"
 date: 2024-06-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

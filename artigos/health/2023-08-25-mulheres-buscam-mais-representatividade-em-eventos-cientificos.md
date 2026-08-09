@@ -2,7 +2,7 @@
 title: "Mulheres buscam mais representatividade em eventos científicos"
 date: 2023-08-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

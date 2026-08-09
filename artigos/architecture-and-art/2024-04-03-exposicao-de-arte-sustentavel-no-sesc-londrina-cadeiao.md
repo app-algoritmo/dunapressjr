@@ -2,7 +2,7 @@
 title: "Exposição de arte sustentável no Sesc Londrina Cadeião"
 date: 2024-04-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
   - Events

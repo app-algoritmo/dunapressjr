@@ -2,7 +2,7 @@
 title: Rússia pode rebaixar relações diplomáticas com os EUA, diz diplomata sênior
 date: 2023-11-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

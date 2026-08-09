@@ -2,7 +2,7 @@
 title: Problemas de visão em pacientes após vacinação contra COVID-19
 date: 2023-03-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Pareamento sinérgico de ivermectina e fenbendazol encontrado altamente e
   na prevenção e tratamento do câncer
 date: 2023-07-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

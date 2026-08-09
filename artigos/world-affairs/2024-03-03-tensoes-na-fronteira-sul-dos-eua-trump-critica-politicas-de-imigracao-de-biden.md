@@ -3,7 +3,7 @@ title: 'Tensões na Fronteira Sul dos EUA: Trump Critica Políticas de Imigraç�
   Biden'
 date: 2024-03-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

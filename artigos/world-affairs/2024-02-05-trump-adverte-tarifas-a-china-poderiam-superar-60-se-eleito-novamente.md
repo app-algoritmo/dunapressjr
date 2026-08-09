@@ -2,7 +2,7 @@
 title: 'Trump Adverte: Tarifas à China Poderiam Superar 60% se Eleito Novamente'
 date: 2024-02-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: "Luisa Stefani estreia com vitória e vai às quartas de final no WTA 500 de Berlim, na Alemanha"
 date: 2024-06-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

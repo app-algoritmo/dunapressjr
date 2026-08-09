@@ -2,7 +2,7 @@
 title: China condena encontro dos EUA com manifestantes de Hong Kong
 date: 2024-02-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: "Hospitais de Curitiba promovem benção de animais aberta à comunidade"
 date: 2023-09-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
   - Pets

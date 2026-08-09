@@ -3,7 +3,7 @@ title: Governador Abbott lidera coalizão de 14 estados em apoio à defesa do Te
   na crise fronteiriça
 date: 2024-02-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

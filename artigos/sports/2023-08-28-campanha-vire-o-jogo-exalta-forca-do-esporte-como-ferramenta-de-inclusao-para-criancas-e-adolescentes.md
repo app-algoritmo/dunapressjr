@@ -2,7 +2,7 @@
 title: "Campanha 'Vire o Jogo' exalta força do esporte como ferramenta de inclusão para crianças e adolescentes"
 date: 2023-08-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

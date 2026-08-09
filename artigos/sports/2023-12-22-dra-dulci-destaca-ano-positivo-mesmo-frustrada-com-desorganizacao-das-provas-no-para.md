@@ -2,7 +2,7 @@
 title: "Dra. Dulci destaca ano positivo, mesmo frustrada com desorganização das provas no Pará"
 date: 2023-12-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

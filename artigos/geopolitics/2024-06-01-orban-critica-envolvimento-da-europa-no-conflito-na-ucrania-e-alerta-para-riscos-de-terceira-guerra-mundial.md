@@ -3,7 +3,7 @@ title: Orbán Critica Envolvimento da Europa no Conflito na Ucrânia e Alerta pa
   de Terceira Guerra Mundial
 date: 2024-06-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: "Parece, mas não é: cuidado com as palavras em inglês consideradas 'falsas amigas'"
 date: 2023-12-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

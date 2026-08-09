@@ -2,7 +2,7 @@
 title: China exige que EUA cessem venda de armas e contato militar com Taiwan
 date: 2024-02-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

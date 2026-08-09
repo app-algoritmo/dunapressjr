@@ -2,7 +2,7 @@
 title: "Caos e gritaria: fãs de RBD brigam por lugar na fila para comprar ingressos de show no Rio, VEJA VÍDEOS"
 date: 2023-01-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

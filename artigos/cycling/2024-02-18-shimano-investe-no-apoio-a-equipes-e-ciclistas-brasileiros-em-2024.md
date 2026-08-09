@@ -2,7 +2,7 @@
 title: "Shimano investe no apoio a equipes e ciclistas brasileiros em 2024"
 date: 2024-02-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

@@ -2,7 +2,7 @@
 title: "Luisa Stefani é superada na semifinal do WTA 1000 de Pequim"
 date: 2023-10-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

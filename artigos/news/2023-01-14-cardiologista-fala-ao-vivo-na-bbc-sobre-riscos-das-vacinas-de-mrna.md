@@ -2,7 +2,7 @@
 title: Cardiologista fala ao vivo na BBC sobre riscos das vacinas de mRNA
 date: 2023-01-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

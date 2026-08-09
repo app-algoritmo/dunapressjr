@@ -2,7 +2,7 @@
 title: EUA pesquisam como transformar a varíola dos macacos em arma, afirma Kirillov
 date: 2024-01-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

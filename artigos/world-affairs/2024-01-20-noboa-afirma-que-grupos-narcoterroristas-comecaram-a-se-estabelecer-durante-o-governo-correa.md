@@ -3,7 +3,7 @@ title: Noboa afirma que grupos narcoterroristas “começaram a se estabelecer�
   o Governo Correa
 date: 2024-01-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

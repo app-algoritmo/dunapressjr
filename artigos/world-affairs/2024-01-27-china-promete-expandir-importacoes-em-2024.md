@@ -2,7 +2,7 @@
 title: China promete expandir importações em 2024
 date: 2024-01-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

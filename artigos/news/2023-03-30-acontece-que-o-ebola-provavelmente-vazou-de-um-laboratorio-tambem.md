@@ -2,7 +2,7 @@
 title: Acontece que o Ebola provavelmente vazou de um laboratório também
 date: 2023-03-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

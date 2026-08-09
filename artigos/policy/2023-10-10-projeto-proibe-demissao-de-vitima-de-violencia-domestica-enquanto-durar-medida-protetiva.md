@@ -3,7 +3,7 @@ title: Projeto proíbe demissão de vítima de violência doméstica enquanto du
   protetiva
 date: 2023-10-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: 'Ex-diretor do CDC adverte: Cientistas podem estar desencadeando a próxi
   pandemia com manipulação genética da gripe aviária'
 date: 2024-05-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

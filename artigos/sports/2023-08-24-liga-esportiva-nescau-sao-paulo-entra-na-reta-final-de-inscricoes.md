@@ -2,7 +2,7 @@
 title: "Liga Esportiva NESCAU® São Paulo entra na reta final de inscrições"
 date: 2023-08-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

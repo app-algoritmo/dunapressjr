@@ -3,7 +3,7 @@ title: 'Herança Bendita: Lula herda do governo Bolsonaro R$ 82 bilhões em inve
   contratados para 2023'
 date: 2023-01-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

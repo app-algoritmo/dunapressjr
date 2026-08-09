@@ -2,7 +2,7 @@
 title: "Turismo em destaque: 2023 representa melhor ano do setor desde 2019"
 date: 2024-01-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

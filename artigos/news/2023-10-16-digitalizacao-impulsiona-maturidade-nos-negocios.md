@@ -2,7 +2,7 @@
 title: "Digitalização impulsiona maturidade nos negócios"
 date: 2023-10-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

@@ -2,7 +2,7 @@
 title: "Iphones e Androids vão dizer ADEUS ao WhatsApp muito em breve"
 date: 2022-12-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Technology

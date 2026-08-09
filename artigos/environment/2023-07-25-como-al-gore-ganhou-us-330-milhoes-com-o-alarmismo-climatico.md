@@ -2,7 +2,7 @@
 title: Como Al Gore ganhou US$ 330 milhões com o alarmismo climático
 date: 2023-07-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Environment
 ---

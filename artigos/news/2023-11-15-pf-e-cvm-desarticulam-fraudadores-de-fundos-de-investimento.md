@@ -2,7 +2,7 @@
 title: PF e CVM desarticulam fraudadores de fundos de investimento
 date: 2023-11-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

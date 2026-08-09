@@ -2,7 +2,7 @@
 title: "Frio congela e derruba iguanas de árvores na Flórida; veja o vídeo"
 date: 2022-12-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

@@ -2,7 +2,7 @@
 title: Izalci diz que há presos do 8 de janeiro que correm risco de vida na Papuda
 date: 2023-11-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

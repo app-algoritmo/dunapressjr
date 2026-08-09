@@ -2,7 +2,7 @@
 title: "Pets em apartamento: confira dicas para ter um ambiente pet friendly"
 date: 2023-10-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Pets
 ---

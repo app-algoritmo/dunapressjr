@@ -2,7 +2,7 @@
 title: "Com presença de ministros do STF, Congresso Brasileiro de Direito Eleitoral desembarca em Curitiba"
 date: 2024-06-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

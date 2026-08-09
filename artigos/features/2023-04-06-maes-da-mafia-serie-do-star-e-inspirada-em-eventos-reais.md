@@ -2,7 +2,7 @@
 title: "‘Mães da Máfia’: Série do Star+ é inspirada em eventos reais"
 date: 2023-04-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

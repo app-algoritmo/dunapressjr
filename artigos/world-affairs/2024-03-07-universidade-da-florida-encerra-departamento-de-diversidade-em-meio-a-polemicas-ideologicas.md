@@ -3,7 +3,7 @@ title: Universidade da Flórida encerra Departamento de Diversidade em meio a po
   ideológicas
 date: 2024-03-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

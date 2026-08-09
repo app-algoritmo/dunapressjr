@@ -2,7 +2,7 @@
 title: "Congresso IEM reúne participantes de diversos estados com foco em educação e capacitação"
 date: 2023-09-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

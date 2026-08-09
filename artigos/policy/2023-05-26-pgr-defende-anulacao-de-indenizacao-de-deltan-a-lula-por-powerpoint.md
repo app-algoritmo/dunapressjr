@@ -2,7 +2,7 @@
 title: PGR defende anulação de indenização de Deltan a Lula por powerpoint
 date: 2023-05-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

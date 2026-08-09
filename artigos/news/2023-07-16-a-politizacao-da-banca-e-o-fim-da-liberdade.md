@@ -2,7 +2,7 @@
 title: A politização da banca e o fim da liberdade
 date: 2023-07-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

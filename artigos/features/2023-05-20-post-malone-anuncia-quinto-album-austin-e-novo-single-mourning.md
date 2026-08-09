@@ -2,7 +2,7 @@
 title: "Post Malone anuncia quinto álbum 'Austin' e novo single 'Mourning'"
 date: 2023-05-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

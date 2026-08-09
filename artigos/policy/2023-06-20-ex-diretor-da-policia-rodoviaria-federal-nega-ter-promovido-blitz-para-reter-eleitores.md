@@ -3,7 +3,7 @@ title: Ex-diretor da Polícia Rodoviária Federal nega ter promovido blitz para 
   eleitores
 date: 2023-06-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

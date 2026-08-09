@@ -2,7 +2,7 @@
 title: Confúcio defende investimento na formação de líderes partidários
 date: 2023-08-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

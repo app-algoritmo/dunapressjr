@@ -2,7 +2,7 @@
 title: Os alarmantes números da guerra na Ucrânia
 date: 2023-07-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

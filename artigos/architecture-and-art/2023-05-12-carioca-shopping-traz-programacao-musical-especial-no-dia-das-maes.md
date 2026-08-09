@@ -2,7 +2,7 @@
 title: "Carioca Shopping traz programação musical especial no Dia das Mães"
 date: 2023-05-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
   - Culture and History

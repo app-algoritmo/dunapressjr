@@ -2,7 +2,7 @@
 title: "Agenda de eventos no Pátio Alcântara: shows gratuitos para animar o mês de junho"
 date: 2024-06-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

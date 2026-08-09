@@ -2,7 +2,7 @@
 title: "Farmacêutica busca faturamento de R$ 4 bilhões em 2027"
 date: 2023-12-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

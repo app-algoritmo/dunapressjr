@@ -2,7 +2,7 @@
 title: "Porque estão mudando a sexualidade dos heróis?"
 date: 2022-01-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Opinion
 ---

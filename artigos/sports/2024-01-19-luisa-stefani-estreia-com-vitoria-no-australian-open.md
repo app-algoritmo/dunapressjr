@@ -2,7 +2,7 @@
 title: "Luisa Stefani estreia com vitória no Australian Open"
 date: 2024-01-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

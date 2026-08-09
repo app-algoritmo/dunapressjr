@@ -3,7 +3,7 @@ title: Irã promove testes de mísseis hipersônicos em resposta ao envio de tro
   EUA para a região
 date: 2023-08-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

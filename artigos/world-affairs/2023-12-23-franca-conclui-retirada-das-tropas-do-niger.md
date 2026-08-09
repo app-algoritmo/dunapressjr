@@ -2,7 +2,7 @@
 title: França conclui retirada das tropas do Níger
 date: 2023-12-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: 'Importante cardiologista diz: As injeções de Covid não são seguras para humanos'
 date: 2023-11-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: EUA Enfrentam Desafios Enormes em Confronto com a China
 date: 2024-06-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

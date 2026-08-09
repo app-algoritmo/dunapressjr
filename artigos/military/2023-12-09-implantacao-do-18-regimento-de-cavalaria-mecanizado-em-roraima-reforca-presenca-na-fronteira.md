@@ -3,7 +3,7 @@ title: Implantação do 18° Regimento de Cavalaria Mecanizado em Roraima refor�
   na fronteira
 date: 2023-12-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

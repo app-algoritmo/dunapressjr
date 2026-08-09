@@ -2,7 +2,7 @@
 title: "Kevin Bacon e Kyra Sedgwick estrelarão um filme juntos pela primeira vez em 20 anos"
 date: 2024-02-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Video library
 ---

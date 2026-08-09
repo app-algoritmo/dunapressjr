@@ -2,7 +2,7 @@
 title: O tratado internacional mais perigoso já proposto
 date: 2023-04-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

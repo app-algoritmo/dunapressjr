@@ -2,7 +2,7 @@
 title: Coreia do Sul e EUA iniciam exercício militar Freedom Shield
 date: 2024-03-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

@@ -2,7 +2,7 @@
 title: “Energia sustentável verde” é um eufemismo para despovoamento
 date: 2023-05-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Toffoli nega suspender cassação de Deltan pelo TSE
 date: 2023-06-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

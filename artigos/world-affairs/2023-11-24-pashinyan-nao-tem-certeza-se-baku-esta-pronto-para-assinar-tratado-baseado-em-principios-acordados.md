@@ -3,7 +3,7 @@ title: Pashinyan não tem certeza se Baku está pronto para assinar tratado base
   em princípios acordados
 date: 2023-11-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

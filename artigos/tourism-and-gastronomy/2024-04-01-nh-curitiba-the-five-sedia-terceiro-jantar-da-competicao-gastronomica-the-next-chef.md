@@ -2,7 +2,7 @@
 title: "NH Curitiba The Five sedia terceiro jantar da competição gastronômica The Next Chef"
 date: 2024-04-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Tourism and Gastronomy
 ---

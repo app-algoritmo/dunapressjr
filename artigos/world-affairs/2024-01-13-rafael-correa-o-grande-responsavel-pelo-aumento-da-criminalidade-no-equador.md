@@ -2,7 +2,7 @@
 title: Rafael Correa, o grande responsável pelo aumento da criminalidade no Equador
 date: 2024-01-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

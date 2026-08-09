@@ -2,7 +2,7 @@
 title: "Joaquim Barbosa detona Mourão após crítica a Lula: “Poupe-nos da sua hipocrisia”"
 date: 2023-01-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

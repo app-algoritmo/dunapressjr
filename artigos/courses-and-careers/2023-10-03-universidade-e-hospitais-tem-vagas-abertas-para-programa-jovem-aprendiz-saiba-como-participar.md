@@ -2,7 +2,7 @@
 title: "Universidade e hospitais têm vagas abertas para programa Jovem Aprendiz; saiba como participar"
 date: 2023-10-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Courses and Careers
   - Education

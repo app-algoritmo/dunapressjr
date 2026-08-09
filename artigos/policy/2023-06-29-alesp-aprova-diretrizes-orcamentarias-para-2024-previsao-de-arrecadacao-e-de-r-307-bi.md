@@ -3,7 +3,7 @@ title: Alesp aprova Diretrizes Orçamentárias para 2024; previsão de arrecada�
   de R$ 307 bi
 date: 2023-06-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

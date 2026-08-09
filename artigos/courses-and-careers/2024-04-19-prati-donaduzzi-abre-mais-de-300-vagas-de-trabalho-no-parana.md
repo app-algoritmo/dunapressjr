@@ -2,7 +2,7 @@
 title: "Prati-Donaduzzi abre mais de 300 vagas de trabalho no Paraná"
 date: 2024-04-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Courses and Careers
   - Personal Development

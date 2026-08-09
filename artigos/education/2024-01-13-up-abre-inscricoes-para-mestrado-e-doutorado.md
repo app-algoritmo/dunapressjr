@@ -2,7 +2,7 @@
 title: "UP abre inscrições para mestrado e doutorado"
 date: 2024-01-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

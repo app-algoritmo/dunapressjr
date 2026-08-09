@@ -3,7 +3,7 @@ title: EUA anunciam novo pacote de ajuda militar de 300 milhões de dólares par
   Ucrânia
 date: 2024-03-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

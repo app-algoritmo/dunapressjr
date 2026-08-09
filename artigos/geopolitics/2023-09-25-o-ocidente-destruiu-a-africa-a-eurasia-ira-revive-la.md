@@ -2,7 +2,7 @@
 title: O Ocidente destruiu a África, a Eurásia irá revivê-la
 date: 2023-09-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: "Com vaga garantida nas Olimpíadas de Paris, Confederação Brasileira de Hipismo fecha novo patrocínio"
 date: 2024-01-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

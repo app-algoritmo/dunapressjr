@@ -2,7 +2,7 @@
 title: Projeto define diretrizes para cobertura jornalística de casos de suicídio
 date: 2023-08-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

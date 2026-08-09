@@ -2,7 +2,7 @@
 title: "Luisa Stefani encerra temporada com vitória na Billie Jean King Cup"
 date: 2023-11-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

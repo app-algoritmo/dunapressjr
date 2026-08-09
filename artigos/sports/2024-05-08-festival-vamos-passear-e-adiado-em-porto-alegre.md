@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear é adiado em Porto Alegre"
 date: 2024-05-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

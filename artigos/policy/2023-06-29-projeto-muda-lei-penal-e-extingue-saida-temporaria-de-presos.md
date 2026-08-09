@@ -2,7 +2,7 @@
 title: Projeto muda lei penal e extingue saída temporária de presos
 date: 2023-06-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

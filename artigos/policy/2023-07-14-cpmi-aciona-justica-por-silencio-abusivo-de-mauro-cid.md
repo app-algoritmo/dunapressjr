@@ -2,7 +2,7 @@
 title: CPMI aciona Justiça por silêncio abusivo de Mauro Cid
 date: 2023-07-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

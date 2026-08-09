@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde derruba o Gerdau Minas na primeira partida de 2024"
 date: 2024-01-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

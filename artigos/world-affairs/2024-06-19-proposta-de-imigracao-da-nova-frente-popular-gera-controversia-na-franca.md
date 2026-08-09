@@ -2,7 +2,7 @@
 title: Proposta de Imigração da Nova Frente Popular Gera Controvérsia na França
 date: 2024-06-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

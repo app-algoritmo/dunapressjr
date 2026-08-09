@@ -2,7 +2,7 @@
 title: Senado precisa se aproximar da população, defende Girão
 date: 2023-06-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

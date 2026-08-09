@@ -2,7 +2,7 @@
 title: "Em meio a crescimento de vagas de trabalho e falta de qualificação profissional, programa oferece oportunidade de inserção no mercado de trabalho"
 date: 2023-08-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Business and Economy
   - Education

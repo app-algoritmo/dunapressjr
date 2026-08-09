@@ -2,7 +2,7 @@
 title: "Dra. Dulci ganha ouro e conquista terceiro pódio seguido no Circuito OAB de Corrida do Pará"
 date: 2023-10-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

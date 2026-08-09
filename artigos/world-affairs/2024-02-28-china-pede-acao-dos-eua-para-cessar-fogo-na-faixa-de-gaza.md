@@ -2,7 +2,7 @@
 title: China pede ação dos EUA para cessar-fogo na Faixa de Gaza
 date: 2024-02-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

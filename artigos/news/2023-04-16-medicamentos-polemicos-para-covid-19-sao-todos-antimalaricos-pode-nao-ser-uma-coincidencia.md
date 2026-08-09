@@ -3,7 +3,7 @@ title: 'Medicamentos polêmicos para COVID-19 são todos antimaláricos: pode n�
   uma coincidência'
 date: 2023-04-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

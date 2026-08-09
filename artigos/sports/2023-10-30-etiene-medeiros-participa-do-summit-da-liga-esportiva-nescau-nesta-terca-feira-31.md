@@ -2,7 +2,7 @@
 title: "Etiene Medeiros participa do Summit da Liga Esportiva NESCAU®, nesta terça-feira (31)"
 date: 2023-10-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

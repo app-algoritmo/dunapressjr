@@ -2,7 +2,7 @@
 title: "Beach Tennis: na estreia da dupla, Baran e Cappelletti estão nas quartas de final na Alemanha"
 date: 2023-08-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

@@ -2,7 +2,7 @@
 title: Mortes por vacinação contra a Covid; Esta é a pesquisa mais importante já realizada
 date: 2023-04-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

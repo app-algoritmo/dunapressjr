@@ -2,7 +2,7 @@
 title: STF vai debater regras do Marco Civil da Internet em audiência pública
 date: 2023-03-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

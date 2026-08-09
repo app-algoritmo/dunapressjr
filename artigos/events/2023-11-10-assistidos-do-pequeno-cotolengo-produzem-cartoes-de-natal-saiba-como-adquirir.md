@@ -2,7 +2,7 @@
 title: "Assistidos do Pequeno Cotolengo produzem Cartões de Natal; saiba como adquirir"
 date: 2023-11-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Health

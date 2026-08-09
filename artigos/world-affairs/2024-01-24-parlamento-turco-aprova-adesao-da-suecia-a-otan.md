@@ -2,7 +2,7 @@
 title: Parlamento turco aprova adesão da Suécia à OTAN
 date: 2024-01-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

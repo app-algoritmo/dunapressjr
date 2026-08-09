@@ -2,7 +2,7 @@
 title: CPMI ouvirá na quinta condenado por planejar atentado em Brasília
 date: 2023-06-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

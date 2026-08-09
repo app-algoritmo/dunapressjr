@@ -2,7 +2,7 @@
 title: Miocardite após vacinas de mRNA
 date: 2023-02-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

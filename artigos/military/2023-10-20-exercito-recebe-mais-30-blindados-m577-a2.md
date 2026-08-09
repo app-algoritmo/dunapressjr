@@ -2,7 +2,7 @@
 title: Exército recebe mais 30 blindados M577 A2
 date: 2023-10-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

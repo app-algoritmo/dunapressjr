@@ -2,7 +2,7 @@
 title: Projeto desobriga policiais militares de usar câmeras nas fardas
 date: 2023-07-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: "“Carro caranguejo” estaciona de lado pode ser o fim da temida baliza; veja"
 date: 2023-01-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Technology

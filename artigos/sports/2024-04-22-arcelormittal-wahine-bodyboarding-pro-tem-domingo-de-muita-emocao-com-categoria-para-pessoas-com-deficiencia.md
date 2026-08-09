@@ -2,7 +2,7 @@
 title: "ArcelorMittal Wahine Bodyboarding Pro tem domingo de muita emoção com categoria para Pessoas com Deficiência"
 date: 2024-04-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

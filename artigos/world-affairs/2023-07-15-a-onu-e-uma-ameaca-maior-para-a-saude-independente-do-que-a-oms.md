@@ -2,7 +2,7 @@
 title: A ONU é uma ameaça maior para a saúde independente do que a OMS?
 date: 2023-07-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: A Moderna escondeu efeitos colaterais graves em receptores da vacina Covid
 date: 2023-04-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 - Health

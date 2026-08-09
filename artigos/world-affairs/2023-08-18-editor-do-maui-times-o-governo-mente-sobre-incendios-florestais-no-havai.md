@@ -2,7 +2,7 @@
 title: 'Editor do Maui Times: “O governo mente sobre incêndios florestais no Havaí'
 date: 2023-08-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

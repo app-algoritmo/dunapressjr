@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde faz 3 a 0 sobre Barueri na terceira rodada da Superliga"
 date: 2023-11-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

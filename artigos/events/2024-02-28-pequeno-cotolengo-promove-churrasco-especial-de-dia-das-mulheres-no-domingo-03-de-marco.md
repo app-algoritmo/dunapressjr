@@ -2,7 +2,7 @@
 title: "Pequeno Cotolengo promove churrasco especial de Dia das Mulheres no domingo, 03 de março"
 date: 2024-02-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Health

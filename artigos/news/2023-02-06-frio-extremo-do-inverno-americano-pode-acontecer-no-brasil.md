@@ -2,7 +2,7 @@
 title: "Frio extremo do inverno americano pode acontecer no Brasil?"
 date: 2023-02-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

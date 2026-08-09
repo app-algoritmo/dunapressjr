@@ -2,7 +2,7 @@
 title: 'SP: Deputada propõe aumento do auxílio-alimentação aos Policiais Militares'
 date: 2023-06-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: "Biopark prevê instalação de 90 novas empresas em seu Parque Tecnológico e anuncia novo presidente executivo"
 date: 2023-11-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Technology
 ---

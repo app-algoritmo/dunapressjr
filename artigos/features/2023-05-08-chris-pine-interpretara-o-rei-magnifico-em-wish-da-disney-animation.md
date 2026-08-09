@@ -2,7 +2,7 @@
 title: "Chris Pine interpretará o Rei Magnifico em 'Wish' da Disney Animation"
 date: 2023-05-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

@@ -2,7 +2,7 @@
 title: China e países da Ásia Central inauguram secretariado para cooperação regional
 date: 2024-04-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

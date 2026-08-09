@@ -3,7 +3,7 @@ title: 5 perguntas para a Fundação Gates sobre os seus projetos alimentares e 
   fracassados na África
 date: 2023-09-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

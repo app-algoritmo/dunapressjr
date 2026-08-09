@@ -3,7 +3,7 @@ title: Alemanha usa IA para remover seletivamente conteúdo online e enviar dado
   a polícia
 date: 2023-03-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

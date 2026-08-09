@@ -2,7 +2,7 @@
 title: "Como despertar o hábito da leitura em plena era digital?"
 date: 2023-12-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

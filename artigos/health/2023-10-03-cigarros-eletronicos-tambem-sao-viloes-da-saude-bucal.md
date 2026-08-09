@@ -2,7 +2,7 @@
 title: "Cigarros eletrônicos também são vilões da saúde bucal"
 date: 2023-10-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

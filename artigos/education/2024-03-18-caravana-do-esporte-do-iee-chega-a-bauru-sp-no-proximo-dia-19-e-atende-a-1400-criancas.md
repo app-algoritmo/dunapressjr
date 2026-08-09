@@ -2,7 +2,7 @@
 title: "Caravana do Esporte, do IEE, chega a Bauru (SP) no próximo dia 19 e atende a 1.400 crianças"
 date: 2024-03-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

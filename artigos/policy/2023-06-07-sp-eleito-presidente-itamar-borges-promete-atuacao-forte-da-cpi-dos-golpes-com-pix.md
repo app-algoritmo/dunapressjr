@@ -3,7 +3,7 @@ title: 'SP: Eleito presidente, Itamar Borges promete atuação forte da CPI dos 
   com PIX'
 date: 2023-06-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

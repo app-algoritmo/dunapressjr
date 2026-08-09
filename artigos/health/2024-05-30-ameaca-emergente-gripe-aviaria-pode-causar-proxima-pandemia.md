@@ -2,7 +2,7 @@
 title: 'Ameaça Emergente: Gripe Aviária Pode Causar Próxima Pandemia'
 date: 2024-05-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

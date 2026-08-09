@@ -3,7 +3,7 @@ title: Ministro das Relações Exteriores da China insta os EUA a abandonarem bu
   pela supremacia global
 date: 2024-04-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

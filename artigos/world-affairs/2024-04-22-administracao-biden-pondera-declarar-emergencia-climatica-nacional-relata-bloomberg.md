@@ -3,7 +3,7 @@ title: Administração Biden Pondera Declarar Emergência Climática Nacional, R
   Bloomberg
 date: 2024-04-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

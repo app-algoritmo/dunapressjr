@@ -3,7 +3,7 @@ title: Putin chama o conflito com a Ucrânia de semelhante a uma guerra civil en
   irmãos
 date: 2023-12-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: A Próxima Pandemia
 date: 2023-01-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

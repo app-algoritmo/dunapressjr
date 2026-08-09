@@ -2,7 +2,7 @@
 title: "IEE lança Projeto Formação em Municípios com a Metodologia de Esporte Educacional"
 date: 2024-05-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

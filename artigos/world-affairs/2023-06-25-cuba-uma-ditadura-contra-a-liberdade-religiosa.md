@@ -2,7 +2,7 @@
 title: Cuba, uma ditadura contra a liberdade religiosa
 date: 2023-06-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

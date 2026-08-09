@@ -2,7 +2,7 @@
 title: Israel usa alta tecnologia para influenciar resultados eleitorais
 date: 2023-03-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

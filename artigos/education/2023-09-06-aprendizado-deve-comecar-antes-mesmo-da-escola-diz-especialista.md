@@ -2,7 +2,7 @@
 title: "Aprendizado deve começar antes mesmo da escola, diz especialista"
 date: 2023-09-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

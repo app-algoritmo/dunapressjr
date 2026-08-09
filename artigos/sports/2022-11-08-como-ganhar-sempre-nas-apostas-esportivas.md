@@ -2,7 +2,7 @@
 title: "Como ganhar sempre nas apostas esportivas"
 date: 2022-11-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

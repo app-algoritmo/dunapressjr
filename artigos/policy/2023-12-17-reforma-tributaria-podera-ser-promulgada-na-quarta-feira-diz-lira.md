@@ -2,7 +2,7 @@
 title: Reforma tributária poderá ser promulgada na quarta-feira, diz Lira
 date: 2023-12-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

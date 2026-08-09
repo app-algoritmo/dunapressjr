@@ -2,7 +2,7 @@
 title: "Universidade Positivo recebe festa de abertura do Festival de Curitiba"
 date: 2024-02-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Events

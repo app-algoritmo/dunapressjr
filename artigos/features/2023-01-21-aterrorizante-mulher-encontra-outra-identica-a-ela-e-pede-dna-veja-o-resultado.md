@@ -2,7 +2,7 @@
 title: "Aterrorizante! Mulher encontra outra idêntica a ela e pede DNA; veja o resultado"
 date: 2023-01-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

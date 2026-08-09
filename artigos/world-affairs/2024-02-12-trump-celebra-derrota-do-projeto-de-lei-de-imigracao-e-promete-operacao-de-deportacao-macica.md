@@ -3,7 +3,7 @@ title: Trump Celebra Derrota do Projeto de Lei de Imigração e Promete 'Operaç
   Deportação' Maciça
 date: 2024-02-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

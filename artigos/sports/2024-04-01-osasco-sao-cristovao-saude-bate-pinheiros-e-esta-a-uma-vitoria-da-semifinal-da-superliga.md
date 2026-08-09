@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde bate Pinheiros e está a uma vitória da semifinal da Superliga"
 date: 2024-04-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

@@ -3,7 +3,7 @@ title: 'Kirillov: Fundos Biden e Soros participam do financiamento de bioprojeto
   dos EUA'
 date: 2024-01-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

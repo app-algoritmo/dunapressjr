@@ -2,7 +2,7 @@
 title: Exército Brasileiro testa Módulo de Energia de Campanha em Operação Militar
 date: 2023-10-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

@@ -2,7 +2,7 @@
 title: "Mulheres representam 43% das áreas de produção em indústria do Paraná"
 date: 2024-04-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

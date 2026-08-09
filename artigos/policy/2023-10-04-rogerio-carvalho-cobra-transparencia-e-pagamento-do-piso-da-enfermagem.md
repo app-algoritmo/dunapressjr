@@ -2,7 +2,7 @@
 title: Rogério Carvalho cobra transparência e pagamento do piso da enfermagem
 date: 2023-10-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

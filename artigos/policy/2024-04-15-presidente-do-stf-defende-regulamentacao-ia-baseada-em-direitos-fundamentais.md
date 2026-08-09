@@ -2,7 +2,7 @@
 title: Presidente do STF defende regulamentação IA baseada em direitos fundamentais
 date: 2024-04-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

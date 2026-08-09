@@ -2,7 +2,7 @@
 title: "Série 'Walker' foi renovada para a 4ª temporada pela CW"
 date: 2023-05-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

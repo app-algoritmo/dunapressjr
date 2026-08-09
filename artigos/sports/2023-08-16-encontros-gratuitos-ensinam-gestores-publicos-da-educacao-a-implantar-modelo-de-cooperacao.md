@@ -2,7 +2,7 @@
 title: "Encontros gratuitos ensinam gestores públicos da educação a implantar modelo de cooperação"
 date: 2023-08-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

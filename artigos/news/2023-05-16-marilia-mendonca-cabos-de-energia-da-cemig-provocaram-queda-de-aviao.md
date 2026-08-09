@@ -2,7 +2,7 @@
 title: 'Marília Mendonça: cabos de energia da Cemig provocaram queda de avião'
 date: 2023-05-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

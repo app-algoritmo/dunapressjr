@@ -2,7 +2,7 @@
 title: "Empresas que ofertam vagas afirmativas ainda são minoria no Brasil"
 date: 2023-08-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Business and Economy
 ---

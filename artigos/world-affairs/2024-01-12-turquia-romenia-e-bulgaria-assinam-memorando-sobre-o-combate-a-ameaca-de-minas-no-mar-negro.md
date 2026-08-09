@@ -3,7 +3,7 @@ title: Turquia, Romênia e Bulgária assinam memorando sobre o combate à ameaç
   no Mar Negro
 date: 2024-01-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

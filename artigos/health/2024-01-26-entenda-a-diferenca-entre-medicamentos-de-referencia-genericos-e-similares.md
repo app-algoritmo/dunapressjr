@@ -2,7 +2,7 @@
 title: "Entenda a diferença entre medicamentos de referência, genéricos e similares"
 date: 2024-01-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

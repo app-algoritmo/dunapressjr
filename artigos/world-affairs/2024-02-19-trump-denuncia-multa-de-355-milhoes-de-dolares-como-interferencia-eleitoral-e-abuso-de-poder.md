@@ -3,7 +3,7 @@ title: Trump Denuncia Multa de 355 Milhões de Dólares como 'Interferência Ele
   e 'Abuso de Poder'
 date: 2024-02-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

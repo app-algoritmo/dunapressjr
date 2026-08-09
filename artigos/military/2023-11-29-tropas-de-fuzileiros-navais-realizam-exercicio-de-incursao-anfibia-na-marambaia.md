@@ -2,7 +2,7 @@
 title: Tropas de Fuzileiros Navais realizam exercício de Incursão Anfíbia na Marambaia
 date: 2023-11-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

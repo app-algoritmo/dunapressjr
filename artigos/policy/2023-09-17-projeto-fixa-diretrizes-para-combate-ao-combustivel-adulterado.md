@@ -2,7 +2,7 @@
 title: Projeto fixa diretrizes para combate ao combustível adulterado
 date: 2023-09-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

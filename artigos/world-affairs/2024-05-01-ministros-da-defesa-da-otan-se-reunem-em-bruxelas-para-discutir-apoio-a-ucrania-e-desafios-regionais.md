@@ -3,7 +3,7 @@ title: Ministros da Defesa da OTAN se Reúnem em Bruxelas para Discutir Apoio à
   e Desafios Regionais
 date: 2024-05-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

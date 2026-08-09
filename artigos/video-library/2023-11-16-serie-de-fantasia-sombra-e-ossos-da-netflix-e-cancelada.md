@@ -2,7 +2,7 @@
 title: "Série de fantasia 'Sombra e Ossos' da Netflix é cancelada"
 date: 2023-11-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Video library
 ---

@@ -2,7 +2,7 @@
 title: Presidente do Irã adverte Israel e defende posição firme em relação à Palestina
 date: 2024-04-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

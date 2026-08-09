@@ -2,7 +2,7 @@
 title: "Semana do Consumidor leva descontos de até 90%"
 date: 2023-03-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Business and Economy
   - News

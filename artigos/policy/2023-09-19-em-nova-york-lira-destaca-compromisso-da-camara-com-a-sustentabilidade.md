@@ -2,7 +2,7 @@
 title: Em Nova York, Lira destaca compromisso da Câmara com a sustentabilidade
 date: 2023-09-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

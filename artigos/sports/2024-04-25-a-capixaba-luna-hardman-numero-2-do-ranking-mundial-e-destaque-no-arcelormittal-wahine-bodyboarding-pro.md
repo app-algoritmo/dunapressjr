@@ -2,7 +2,7 @@
 title: "A capixaba Luna Hardman, número 2 do ranking mundial, é destaque no ArcelorMittal Wahine Bodyboarding Pro"
 date: 2024-04-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

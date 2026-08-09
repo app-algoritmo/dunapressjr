@@ -2,7 +2,7 @@
 title: "O diálogo entre pais e filhos adolescentes"
 date: 2020-09-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

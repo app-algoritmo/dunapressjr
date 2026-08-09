@@ -2,7 +2,7 @@
 title: Deputados vão pedir cassação de Nikolas Ferreira por fala transfóbica
 date: 2023-03-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

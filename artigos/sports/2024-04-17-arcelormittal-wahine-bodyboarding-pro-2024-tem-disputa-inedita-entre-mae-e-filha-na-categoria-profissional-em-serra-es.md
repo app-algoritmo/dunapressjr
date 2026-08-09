@@ -2,7 +2,7 @@
 title: "ArcelorMittal Wahine Bodyboarding Pro 2024 tem disputa inédita entre mãe e filha na categoria Profissional, em Serra (ES)"
 date: 2024-04-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

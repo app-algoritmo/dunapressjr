@@ -2,7 +2,7 @@
 title: "Núcleo da Terra teria quase parado e mudado rotação, diz estudo"
 date: 2023-02-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

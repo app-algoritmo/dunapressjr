@@ -2,7 +2,7 @@
 title: "Luisa Stefani se despede nas quartas de final em Cincinnati e segue para o US Open"
 date: 2023-08-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

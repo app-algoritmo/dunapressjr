@@ -2,7 +2,7 @@
 title: Comissão Europeia Inicia Investigação Formal sobre o TikTok por Possíveis Violações
 date: 2024-02-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

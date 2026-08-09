@@ -2,7 +2,7 @@
 title: "Estudo diz que pessoas inteligentes preferem Rock e Heavy Metal"
 date: 2022-12-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

@@ -2,7 +2,7 @@
 title: "Paraná oferece 3,6 mil vagas de estágio; confira as áreas com mais oportunidades"
 date: 2024-03-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

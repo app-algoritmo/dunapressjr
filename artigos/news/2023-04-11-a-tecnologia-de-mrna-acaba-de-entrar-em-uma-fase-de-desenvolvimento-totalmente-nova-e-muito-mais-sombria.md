@@ -3,7 +3,7 @@ title: A tecnologia de mRNA acaba de entrar em uma fase de desenvolvimento total
   nova e muito mais sombria
 date: 2023-04-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

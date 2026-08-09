@@ -2,7 +2,7 @@
 title: Rússia Adverte a NATO sobre Implicações de Enviar Tropas para a Ucrânia
 date: 2024-03-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

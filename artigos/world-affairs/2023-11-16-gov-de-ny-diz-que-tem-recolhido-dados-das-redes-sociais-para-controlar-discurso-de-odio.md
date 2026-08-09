@@ -3,7 +3,7 @@ title: Gov. de NY diz que tem “recolhido dados” das redes sociais para contr
   de ódio”
 date: 2023-11-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

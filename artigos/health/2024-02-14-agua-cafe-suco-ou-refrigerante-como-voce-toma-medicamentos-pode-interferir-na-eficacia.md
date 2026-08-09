@@ -2,7 +2,7 @@
 title: "Água, café, suco ou refrigerante: como você toma medicamentos pode interferir na eficácia"
 date: 2024-02-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

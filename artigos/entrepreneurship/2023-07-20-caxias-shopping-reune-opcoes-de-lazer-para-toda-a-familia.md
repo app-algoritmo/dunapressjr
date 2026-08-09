@@ -2,7 +2,7 @@
 title: "Caxias Shopping reúne opções de lazer para toda a família"
 date: 2023-07-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Entrepreneurship
 ---

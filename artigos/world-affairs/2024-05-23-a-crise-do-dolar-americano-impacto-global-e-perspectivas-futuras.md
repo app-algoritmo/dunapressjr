@@ -2,7 +2,7 @@
 title: 'A Crise do Dólar Americano: Impacto Global e Perspectivas Futuras'
 date: 2024-05-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: 'Biden admite vitória de Trump nas prévias de Iowa: “Ele é o claro f
   do outro lado”'
 date: 2024-01-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

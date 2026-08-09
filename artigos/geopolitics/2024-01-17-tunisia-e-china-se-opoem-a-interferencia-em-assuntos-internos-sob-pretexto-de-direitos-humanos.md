@@ -3,7 +3,7 @@ title: Tunísia e China se opõem à interferência em assuntos internos sob pre
   de direitos humanos
 date: 2024-01-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

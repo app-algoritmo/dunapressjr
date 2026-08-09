@@ -2,7 +2,7 @@
 title: Plínio Valério questiona se vale a pena preservar integralmente a Amazônia
 date: 2023-08-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

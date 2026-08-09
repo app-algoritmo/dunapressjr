@@ -2,7 +2,7 @@
 title: "Rocky Mountain Games divulga a altimetria para as provas de MTB na etapa de Atibaia"
 date: 2024-02-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

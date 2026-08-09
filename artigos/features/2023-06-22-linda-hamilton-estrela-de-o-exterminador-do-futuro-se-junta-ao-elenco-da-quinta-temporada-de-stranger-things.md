@@ -2,7 +2,7 @@
 title: "Linda Hamilton, estrela de 'O Exterminador do Futuro', se junta ao elenco da quinta temporada de 'Stranger Things'"
 date: 2023-06-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

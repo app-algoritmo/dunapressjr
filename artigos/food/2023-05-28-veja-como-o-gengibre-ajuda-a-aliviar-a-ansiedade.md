@@ -2,7 +2,7 @@
 title: Veja como o gengibre ajuda a aliviar a ansiedade
 date: 2023-05-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

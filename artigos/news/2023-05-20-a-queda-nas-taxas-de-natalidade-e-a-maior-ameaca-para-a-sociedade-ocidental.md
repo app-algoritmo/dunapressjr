@@ -2,7 +2,7 @@
 title: A queda nas taxas de natalidade é a maior ameaça para a sociedade ocidental
 date: 2023-05-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

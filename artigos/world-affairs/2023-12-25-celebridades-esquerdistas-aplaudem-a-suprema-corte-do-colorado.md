@@ -2,7 +2,7 @@
 title: Celebridades esquerdistas aplaudem a Suprema Corte do Colorado
 date: 2023-12-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

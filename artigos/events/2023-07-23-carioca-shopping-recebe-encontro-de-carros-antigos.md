@@ -2,7 +2,7 @@
 title: "Carioca Shopping recebe Encontro de Carros Antigos"
 date: 2023-07-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

@@ -2,7 +2,7 @@
 title: "Festival IEM de Natação reúne 400 crianças e adolescentes neste sábado (21), no Recife"
 date: 2023-10-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Swimming

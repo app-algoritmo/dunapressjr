@@ -2,7 +2,7 @@
 title: Relatório do ONS indica provável causa de apagão que afetou 25 estados
 date: 2023-08-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

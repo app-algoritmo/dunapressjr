@@ -2,7 +2,7 @@
 title: "Complexo de Saúde Pequeno Cotolengo inaugura atendimentos voltados a pessoas com autismo"
 date: 2024-04-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

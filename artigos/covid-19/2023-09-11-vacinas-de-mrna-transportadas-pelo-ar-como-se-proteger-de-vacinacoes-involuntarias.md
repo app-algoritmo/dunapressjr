@@ -2,7 +2,7 @@
 title: 'Vacinas de mRNA transportadas pelo ar: como se proteger de vacinações involuntárias'
 date: 2023-09-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

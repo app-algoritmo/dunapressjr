@@ -2,7 +2,7 @@
 title: Intervenção dos EUA deixa rachaduras que levarão anos para cicatrizar
 date: 2023-06-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

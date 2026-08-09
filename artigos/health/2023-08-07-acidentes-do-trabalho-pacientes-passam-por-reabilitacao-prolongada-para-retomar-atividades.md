@@ -2,7 +2,7 @@
 title: "Acidentes do Trabalho: pacientes passam por reabilitação prolongada para retomar atividades"
 date: 2023-08-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

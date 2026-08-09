@@ -2,7 +2,7 @@
 title: "AI Summit in Rio no Museu do Amanhã"
 date: 2024-03-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Technology
 ---

@@ -2,7 +2,7 @@
 title: Trump divulga carta que recebeu de Nixon em 1987
 date: 2023-04-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

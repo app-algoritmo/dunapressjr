@@ -2,7 +2,7 @@
 title: "Carioca Shopping e Aliansce Sonae + brMalls anunciam nova fase do projeto “Leitura para Todos”"
 date: 2023-06-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Books
   - Culture and History

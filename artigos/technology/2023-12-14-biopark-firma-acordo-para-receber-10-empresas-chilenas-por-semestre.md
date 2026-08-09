@@ -2,7 +2,7 @@
 title: "Biopark firma acordo para receber 10 empresas chilenas por semestre"
 date: 2023-12-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Technology
 ---

@@ -2,7 +2,7 @@
 title: Toffoli libera mensagens da Operação Spoofing ao presidente do TCU
 date: 2023-07-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

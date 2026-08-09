@@ -2,7 +2,7 @@
 title: "Netshoes Run, em Franca (SP), encerra primeiro lote de inscrições nesta terça-feira (17)"
 date: 2023-10-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

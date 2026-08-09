@@ -2,7 +2,7 @@
 title: '''Irã avançou em todas as áreas de defesa apesar das sanções'''
 date: 2023-07-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

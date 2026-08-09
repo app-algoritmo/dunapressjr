@@ -2,7 +2,7 @@
 title: Rússia intercepta carregamento de adrenocromo com destino aos Estados Unidos
 date: 2023-02-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

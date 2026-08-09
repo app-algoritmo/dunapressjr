@@ -3,7 +3,7 @@ title: Macron classifica a Rússia como rival, reservando o termo 'inimigo' para
   extremas
 date: 2024-03-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

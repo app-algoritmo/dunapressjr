@@ -2,7 +2,7 @@
 title: Comissão discute desaparecimento de crianças e adolescentes no Brasil
 date: 2023-10-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

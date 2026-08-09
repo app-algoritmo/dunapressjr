@@ -2,7 +2,7 @@
 title: "Juno Temple, de Ted Lasso, consegue papel principal em 'Venom 3'"
 date: 2023-04-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

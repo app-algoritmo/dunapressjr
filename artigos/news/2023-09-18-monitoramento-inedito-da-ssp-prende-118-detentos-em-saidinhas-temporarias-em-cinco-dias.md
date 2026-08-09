@@ -3,7 +3,7 @@ title: Monitoramento inédito da SSP prende 118 detentos em saidinhas temporári
   cinco dias
 date: 2023-09-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

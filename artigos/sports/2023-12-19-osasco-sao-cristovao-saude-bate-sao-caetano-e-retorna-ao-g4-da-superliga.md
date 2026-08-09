@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde bate São Caetano e retorna ao G4 da Superliga"
 date: 2023-12-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

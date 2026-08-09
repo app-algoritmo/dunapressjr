@@ -2,7 +2,7 @@
 title: "Netshoes Run bate recorde de participantes em dia de sol, calor e muita festa pelas ruas de Franca"
 date: 2023-12-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

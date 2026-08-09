@@ -3,7 +3,7 @@ title: Novo estudo sugere que a Califórnia pode ser atingida por um grande terr
   em breve
 date: 2023-04-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

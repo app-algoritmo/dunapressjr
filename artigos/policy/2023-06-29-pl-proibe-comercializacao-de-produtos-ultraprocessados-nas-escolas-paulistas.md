@@ -2,7 +2,7 @@
 title: PL proíbe comercialização de produtos ultraprocessados nas escolas paulistas
 date: 2023-06-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: A Romênia confiscou vagões da Ucrânia com organismos geneticamente modificados
 date: 2023-03-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: "Netshoes Run tem segunda etapa em Franca (SP), no início de dezembro"
 date: 2023-10-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

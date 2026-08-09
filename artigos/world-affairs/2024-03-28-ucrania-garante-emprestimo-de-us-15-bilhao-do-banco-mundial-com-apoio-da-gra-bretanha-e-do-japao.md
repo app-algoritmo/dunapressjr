@@ -3,7 +3,7 @@ title: Ucrânia garante empréstimo de US$ 1,5 bilhão do Banco Mundial com apoi
   Grã-Bretanha e do Japão
 date: 2024-03-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

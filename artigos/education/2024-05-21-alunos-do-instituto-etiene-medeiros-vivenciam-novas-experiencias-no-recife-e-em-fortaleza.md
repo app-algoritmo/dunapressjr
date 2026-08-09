@@ -2,7 +2,7 @@
 title: "Alunos do Instituto Etiene Medeiros vivenciam novas experiências no Recife e em Fortaleza"
 date: 2024-05-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

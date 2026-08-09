@@ -3,7 +3,7 @@ title: Projeto proíbe concessão de benefícios assistenciais a invasores de im
   urbanos e rurais
 date: 2023-07-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

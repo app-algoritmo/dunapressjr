@@ -2,7 +2,7 @@
 title: "SÍNDROME DO PÂNICO: O QUE É, COMO IDENTIFICAR SEUS SINTOMAS E INICIAR SEU TRATAMENTO"
 date: 2022-11-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

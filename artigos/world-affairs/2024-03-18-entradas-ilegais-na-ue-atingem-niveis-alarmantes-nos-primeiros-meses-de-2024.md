@@ -2,7 +2,7 @@
 title: Entradas ilegais na UE atingem níveis alarmantes nos primeiros meses de 2024
 date: 2024-03-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

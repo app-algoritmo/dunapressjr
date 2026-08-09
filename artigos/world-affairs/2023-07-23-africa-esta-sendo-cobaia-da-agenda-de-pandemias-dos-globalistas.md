@@ -2,7 +2,7 @@
 title: África está sendo cobaia da agenda de pandemias dos globalistas
 date: 2023-07-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

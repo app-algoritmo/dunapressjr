@@ -2,7 +2,7 @@
 title: "Projeto Formações IEE chega a três cidades da Paraíba e beneficia cerca de 13.500 alunos neste mês de setembro"
 date: 2023-09-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

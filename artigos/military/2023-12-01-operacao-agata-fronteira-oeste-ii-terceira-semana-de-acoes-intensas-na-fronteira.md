@@ -2,7 +2,7 @@
 title: 'Operação Ágata Fronteira Oeste II: terceira semana de ações intensas na fronteira'
 date: 2023-12-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

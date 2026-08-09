@@ -2,7 +2,7 @@
 title: "Warner Channel exibe 25 pilotos de suas séries históricas"
 date: 2020-09-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

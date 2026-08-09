@@ -3,7 +3,7 @@ title: Fauci mentiu: mais de 120.000 crianças morreram repentinamente após a 
   contra COVID
 date: 2023-08-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: 'Prêmio Nobel: “Não há emergência climática”'
 date: 2023-08-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Environment
 ---

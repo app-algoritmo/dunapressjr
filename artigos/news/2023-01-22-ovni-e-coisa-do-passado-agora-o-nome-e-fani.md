@@ -2,7 +2,7 @@
 title: "OVNI é coisa do passado, agora o nome é FANI"
 date: 2023-01-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - World Affairs

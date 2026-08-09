@@ -2,7 +2,7 @@
 title: Ministro de Lula se autonomeia para conselho com salário extra
 date: 2023-01-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

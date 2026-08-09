@@ -2,7 +2,7 @@
 title: "Programa de Aprendizagem: tire suas dúvidas sobre como ter acesso a oportunidades de inserção no mundo do trabalho"
 date: 2024-03-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

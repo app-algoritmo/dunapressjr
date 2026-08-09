@@ -3,7 +3,7 @@ title: Irã reafirma apoio à estabilidade no Líbano durante encontro diplomát
   Beirute
 date: 2024-02-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

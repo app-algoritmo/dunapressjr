@@ -2,7 +2,7 @@
 title: "SAMPA Saúde em Movimento atende a população em mais quatro parques de São Paulo"
 date: 2024-03-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

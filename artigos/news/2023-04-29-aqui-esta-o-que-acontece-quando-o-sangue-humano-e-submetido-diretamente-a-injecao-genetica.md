@@ -3,7 +3,7 @@ title: Aqui está o que acontece quando o sangue humano é submetido diretamente
   genética
 date: 2023-04-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

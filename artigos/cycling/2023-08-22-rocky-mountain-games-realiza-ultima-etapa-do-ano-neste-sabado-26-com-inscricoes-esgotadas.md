@@ -2,7 +2,7 @@
 title: "Rocky Mountain Games realiza última etapa do ano neste sábado (26) com inscrições esgotadas"
 date: 2023-08-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

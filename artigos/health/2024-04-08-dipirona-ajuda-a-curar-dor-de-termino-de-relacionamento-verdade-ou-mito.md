@@ -2,7 +2,7 @@
 title: "Dipirona ajuda a curar dor de término de relacionamento: verdade ou mito?"
 date: 2024-04-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

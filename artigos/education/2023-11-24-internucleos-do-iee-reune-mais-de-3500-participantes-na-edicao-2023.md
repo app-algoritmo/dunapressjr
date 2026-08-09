@@ -2,7 +2,7 @@
 title: "Internúcleos do IEE reúne mais de 3.500 participantes na edição 2023"
 date: 2023-11-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

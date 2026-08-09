@@ -3,7 +3,7 @@ title: Pediatra de Nova York diz que transição de gênero é uma “coisa norm
   “começa no nascimento ou até antes”
 date: 2023-05-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

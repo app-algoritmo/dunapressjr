@@ -2,7 +2,7 @@
 title: "Imóveis ganham nova apresentação com pequenas modificações nas paredes"
 date: 2024-04-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

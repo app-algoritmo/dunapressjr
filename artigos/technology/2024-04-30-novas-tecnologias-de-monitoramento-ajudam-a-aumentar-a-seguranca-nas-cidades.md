@@ -2,7 +2,7 @@
 title: "Novas tecnologias de monitoramento ajudam a aumentar a segurança nas cidades"
 date: 2024-04-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Technology
 ---

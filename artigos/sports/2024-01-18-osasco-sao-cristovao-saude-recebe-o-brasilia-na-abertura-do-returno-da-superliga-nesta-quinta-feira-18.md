@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde recebe o Brasília na abertura do returno da Superliga nesta quinta-feira (18)"
 date: 2024-01-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

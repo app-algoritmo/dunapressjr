@@ -4,7 +4,7 @@ title: Laboratório biológico vinculado à China descoberto na Califórnia – 
   Covid-19”
 date: 2023-08-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

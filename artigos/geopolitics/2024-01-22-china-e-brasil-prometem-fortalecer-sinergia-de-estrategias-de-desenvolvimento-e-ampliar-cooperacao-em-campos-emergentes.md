@@ -3,7 +3,7 @@ title: China e Brasil prometem fortalecer sinergia de estratégias de desenvolvi
   e ampliar cooperação em campos emergentes
 date: 2024-01-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

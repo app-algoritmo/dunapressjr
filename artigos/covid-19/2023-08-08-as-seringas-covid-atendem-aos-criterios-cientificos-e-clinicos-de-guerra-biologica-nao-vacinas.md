@@ -3,7 +3,7 @@ title: As seringas Covid atendem aos critérios científicos e clínicos de guer
   não 'vacinas'
 date: 2023-08-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

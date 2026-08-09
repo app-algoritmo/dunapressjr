@@ -2,7 +2,7 @@
 title: 'Arquivos do Twitter: Dr. Anthony Fauci ''mentiu sob juramento'''
 date: 2023-04-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

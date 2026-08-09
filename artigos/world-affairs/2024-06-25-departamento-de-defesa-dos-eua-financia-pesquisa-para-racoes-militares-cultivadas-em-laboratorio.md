@@ -3,7 +3,7 @@ title: Departamento de Defesa dos EUA Financia Pesquisa para Rações Militares 
   em Laboratório
 date: 2024-06-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

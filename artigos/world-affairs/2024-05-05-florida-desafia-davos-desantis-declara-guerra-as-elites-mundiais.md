@@ -2,7 +2,7 @@
 title: 'Florida Desafia Davos: DeSantis Declara Guerra às Elites Mundiais'
 date: 2024-05-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

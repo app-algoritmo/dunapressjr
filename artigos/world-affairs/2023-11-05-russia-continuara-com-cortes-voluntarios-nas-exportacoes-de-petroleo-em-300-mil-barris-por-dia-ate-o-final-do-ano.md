@@ -3,7 +3,7 @@ title: Rússia continuará com cortes voluntários nas exportações de petróle
   mil barris por dia até o final do ano
 date: 2023-11-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: A Rússia vê a ação da OTAN como uma escalada grave e ameaça uma resposta massiva
 date: 2024-06-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

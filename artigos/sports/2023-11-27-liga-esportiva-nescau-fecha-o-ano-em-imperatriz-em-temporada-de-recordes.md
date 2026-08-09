@@ -2,7 +2,7 @@
 title: "Liga Esportiva NESCAU® fecha o ano em Imperatriz em temporada de recordes"
 date: 2023-11-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde é superado pelo Maringá na Superliga 23/24"
 date: 2023-11-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

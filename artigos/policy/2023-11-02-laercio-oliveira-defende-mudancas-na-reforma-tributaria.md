@@ -2,7 +2,7 @@
 title: Laércio Oliveira defende mudanças na reforma tributária
 date: 2023-11-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

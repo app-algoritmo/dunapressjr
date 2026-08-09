@@ -3,7 +3,7 @@ title: 'SC: Polícia Civil bate recorde no cumprimento de mandados de prisão e 
   e apreensão'
 date: 2023-11-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

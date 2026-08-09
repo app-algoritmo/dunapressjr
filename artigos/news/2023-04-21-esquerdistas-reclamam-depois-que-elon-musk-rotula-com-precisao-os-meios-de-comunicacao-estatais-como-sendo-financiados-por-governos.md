@@ -3,7 +3,7 @@ title: Esquerdistas reclamam depois que Elon Musk rotula com precisão os meios 
   comunicação estatais como sendo financiados por governos
 date: 2023-04-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

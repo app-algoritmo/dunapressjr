@@ -2,7 +2,7 @@
 title: "Participação da Valmet na ExpoAcotepac 2024 contará com duas palestras"
 date: 2024-02-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Technology
 ---

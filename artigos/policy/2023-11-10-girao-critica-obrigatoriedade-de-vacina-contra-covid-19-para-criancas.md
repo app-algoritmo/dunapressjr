@@ -2,7 +2,7 @@
 title: Girão critica obrigatoriedade de vacina contra covid-19 para crianças
 date: 2023-11-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

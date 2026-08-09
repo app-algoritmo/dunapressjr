@@ -2,7 +2,7 @@
 title: "Dragão pega fogo durante apresentação em parque temático da Disney"
 date: 2023-04-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

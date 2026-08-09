@@ -3,7 +3,7 @@ title: Vice-presidente dos EUA expressou preocupação com eventual retorno de T
   ao poder
 date: 2024-01-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

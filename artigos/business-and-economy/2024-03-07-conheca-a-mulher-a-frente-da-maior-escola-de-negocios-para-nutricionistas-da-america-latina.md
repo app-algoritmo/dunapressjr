@@ -2,7 +2,7 @@
 title: "Conheça a mulher à frente da maior escola de negócios para nutricionistas da América Latina"
 date: 2024-03-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Business and Economy
   - Health

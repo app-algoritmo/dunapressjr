@@ -2,7 +2,7 @@
 title: "Projeto Formações IEE chega a Campo Verde (MT) e beneficia cerca de 3.700 alunos neste mês de setembro"
 date: 2023-09-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

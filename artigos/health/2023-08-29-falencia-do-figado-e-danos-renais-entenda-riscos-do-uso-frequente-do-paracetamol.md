@@ -2,7 +2,7 @@
 title: "Falência do fígado e danos renais: entenda riscos do uso frequente do paracetamol"
 date: 2023-08-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde e Sesi Bauru fazem duelo de líderes invictos nesta sexta"
 date: 2023-09-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

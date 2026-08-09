@@ -2,7 +2,7 @@
 title: "O Louco regressa com novo álbum 'FAMA'"
 date: 2023-06-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

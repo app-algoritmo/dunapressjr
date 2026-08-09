@@ -2,7 +2,7 @@
 title: Especialistas apontam atualizações necessárias na legislação eleitoral
 date: 2023-08-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Partido de Meloni defende medidas pró-vida contra as “sinistras polít
   morte” da esquerda
 date: 2024-04-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

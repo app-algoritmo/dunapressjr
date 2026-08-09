@@ -3,7 +3,7 @@ title: Tribunal dos EUA Bloqueia Expansão da Lei de Justiça das Trabalhadoras 
   para Incluir Aborto
 date: 2024-06-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

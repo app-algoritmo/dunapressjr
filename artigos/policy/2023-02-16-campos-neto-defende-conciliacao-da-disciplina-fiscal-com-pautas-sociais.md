@@ -2,7 +2,7 @@
 title: Campos Neto defende conciliação da disciplina fiscal com pautas sociais
 date: 2023-02-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

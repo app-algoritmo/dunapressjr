@@ -2,7 +2,7 @@
 title: "Luisa Stefani embarca para gira de torneios na grama"
 date: 2024-06-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

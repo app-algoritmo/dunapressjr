@@ -2,7 +2,7 @@
 title: "Já pensou em trabalhar no Metaverso?"
 date: 2023-01-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - World Affairs

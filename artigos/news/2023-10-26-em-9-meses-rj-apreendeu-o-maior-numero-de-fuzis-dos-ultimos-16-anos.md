@@ -2,7 +2,7 @@
 title: Em 9 meses, RJ apreendeu o maior número de fuzis dos últimos 16 anos
 date: 2023-10-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

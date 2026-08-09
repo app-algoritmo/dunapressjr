@@ -2,7 +2,7 @@
 title: A OTAN liderada pelos EUA está afogando a Ucrânia em um banho de sangue
 date: 2023-08-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

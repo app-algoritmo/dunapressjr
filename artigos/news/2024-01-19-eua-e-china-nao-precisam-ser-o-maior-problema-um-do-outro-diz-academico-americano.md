@@ -3,7 +3,7 @@ title: EUA e China não precisam ser o 'maior problema' um do outro, diz acadêm
   americano
 date: 2024-01-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

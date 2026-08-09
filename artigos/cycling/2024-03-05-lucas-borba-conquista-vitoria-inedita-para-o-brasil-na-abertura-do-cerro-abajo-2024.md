@@ -2,7 +2,7 @@
 title: "Lucas Borba conquista vitória inédita para o Brasil na abertura do Cerro Abajo 2024"
 date: 2024-03-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

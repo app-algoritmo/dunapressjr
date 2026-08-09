@@ -3,7 +3,7 @@ title: 'Hipocrisia das Sanções Contra a Rússia: Ministro Húngaro Denuncia Co
   na Chatham House'
 date: 2024-05-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: "Brasil avança às semifinais da Copa do Mundo de Vela"
 date: 2023-12-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

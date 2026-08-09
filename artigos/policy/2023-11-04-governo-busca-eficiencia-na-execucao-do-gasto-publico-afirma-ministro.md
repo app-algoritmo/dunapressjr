@@ -2,7 +2,7 @@
 title: Governo busca eficiência na execução do gasto público, afirma ministro
 date: 2023-11-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

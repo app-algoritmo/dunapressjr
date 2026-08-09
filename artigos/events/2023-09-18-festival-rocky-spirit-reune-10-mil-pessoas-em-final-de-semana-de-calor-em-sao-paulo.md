@@ -2,7 +2,7 @@
 title: "Festival Rocky Spirit reúne 10 mil pessoas em final de semana de calor em São Paulo"
 date: 2023-09-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Sports

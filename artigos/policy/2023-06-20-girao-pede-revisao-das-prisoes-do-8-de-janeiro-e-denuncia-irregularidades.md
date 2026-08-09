@@ -2,7 +2,7 @@
 title: Girão pede revisão das prisões do 8 de janeiro e denuncia irregularidades
 date: 2023-06-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

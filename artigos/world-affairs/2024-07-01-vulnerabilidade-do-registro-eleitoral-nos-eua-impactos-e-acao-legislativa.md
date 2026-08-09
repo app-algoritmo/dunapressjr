@@ -2,7 +2,7 @@
 title: 'Vulnerabilidade do Registro Eleitoral nos EUA: Impactos e Ação Legislativa'
 date: 2024-07-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

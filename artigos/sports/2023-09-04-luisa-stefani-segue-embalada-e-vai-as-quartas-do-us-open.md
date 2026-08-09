@@ -2,7 +2,7 @@
 title: "Luisa Stefani segue embalada e vai às quartas do US Open"
 date: 2023-09-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

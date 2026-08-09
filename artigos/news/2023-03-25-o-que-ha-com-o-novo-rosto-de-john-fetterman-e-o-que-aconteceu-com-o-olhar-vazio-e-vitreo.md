@@ -3,7 +3,7 @@ title: O que há com o novo rosto de John Fetterman? E o que aconteceu com o ol
   vazio e vítreo?
 date: 2023-03-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

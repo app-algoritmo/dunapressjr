@@ -3,7 +3,7 @@ title: Reino Unido se Prepara para Exercícios Conjuntos com Japão e EUA a Part
   2025
 date: 2024-04-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: "Híbridos lutam contra soldados na segunda temporada da série 'Sweet Tooth'"
 date: 2023-04-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

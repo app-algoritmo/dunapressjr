@@ -3,7 +3,7 @@ title: Cientistas estão desenvolvendo uma nanopartícula que pode melhorar as v
   contra o câncer de mRNA
 date: 2023-07-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

@@ -3,7 +3,7 @@ title: Diplomatas europeus temem que Trump possa cortar a ajuda à Ucrânia se f
   presidente dos EUA
 date: 2023-12-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

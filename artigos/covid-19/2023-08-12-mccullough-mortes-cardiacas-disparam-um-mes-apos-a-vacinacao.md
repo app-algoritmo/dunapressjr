@@ -2,7 +2,7 @@
 title: 'McCullough: mortes cardíacas disparam um mês após a vacinação'
 date: 2023-08-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

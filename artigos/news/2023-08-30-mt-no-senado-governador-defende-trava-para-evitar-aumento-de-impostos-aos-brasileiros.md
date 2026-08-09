@@ -3,7 +3,7 @@ title: 'MT: No Senado, governador defende ''trava'' para evitar aumento de impos
   aos brasileiros'
 date: 2023-08-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

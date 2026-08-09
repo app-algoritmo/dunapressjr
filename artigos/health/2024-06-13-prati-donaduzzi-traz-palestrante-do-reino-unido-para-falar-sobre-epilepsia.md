@@ -2,7 +2,7 @@
 title: "Prati-Donaduzzi traz palestrante do Reino Unido para falar sobre epilepsia"
 date: 2024-06-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

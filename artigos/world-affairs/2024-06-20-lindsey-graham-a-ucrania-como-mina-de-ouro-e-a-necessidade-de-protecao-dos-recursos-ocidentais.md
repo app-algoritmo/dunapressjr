@@ -3,7 +3,7 @@ title: 'Lindsey Graham: A Ucrânia como ''Mina de Ouro'' e a Necessidade de Prot
   dos Recursos Ocidentais'
 date: 2024-06-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

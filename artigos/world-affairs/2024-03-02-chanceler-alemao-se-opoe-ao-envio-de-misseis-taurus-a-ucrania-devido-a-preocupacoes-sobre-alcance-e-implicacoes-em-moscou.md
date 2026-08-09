@@ -3,7 +3,7 @@ title: Chanceler Alemão se Opõe ao Envio de Mísseis Taurus à Ucrânia devido
   sobre Alcance e Implicações em Moscou
 date: 2024-03-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

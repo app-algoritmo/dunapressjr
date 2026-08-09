@@ -3,7 +3,7 @@ title: Rússia Promete Resposta Contundente às Sanções dos EUA e Prioriza Des
   Econômico Interno
 date: 2024-02-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

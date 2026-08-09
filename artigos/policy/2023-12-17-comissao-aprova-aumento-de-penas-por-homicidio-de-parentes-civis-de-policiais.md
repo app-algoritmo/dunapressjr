@@ -2,7 +2,7 @@
 title: Comissão aprova aumento de penas por homicídio de parentes civis de policiais
 date: 2023-12-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

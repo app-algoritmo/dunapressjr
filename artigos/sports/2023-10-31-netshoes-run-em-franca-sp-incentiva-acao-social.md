@@ -2,7 +2,7 @@
 title: "Netshoes Run, em Franca (SP), incentiva ação social"
 date: 2023-10-31
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

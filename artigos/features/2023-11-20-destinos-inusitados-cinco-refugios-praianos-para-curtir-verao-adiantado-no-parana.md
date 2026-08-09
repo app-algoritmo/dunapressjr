@@ -2,7 +2,7 @@
 title: "Destinos inusitados: cinco refúgios praianos para curtir verão adiantado no Paraná"
 date: 2023-11-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

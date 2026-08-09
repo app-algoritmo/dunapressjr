@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde intensifica preparação para Superliga"
 date: 2023-10-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

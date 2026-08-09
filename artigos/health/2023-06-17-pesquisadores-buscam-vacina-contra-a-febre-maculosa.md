@@ -2,7 +2,7 @@
 title: Pesquisadores buscam vacina contra a febre maculosa
 date: 2023-06-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

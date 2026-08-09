@@ -2,7 +2,7 @@
 title: A Rússia e os EUA atualmente não têm diálogo sobre a Síria
 date: 2024-01-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

@@ -3,7 +3,7 @@ title: 'Pesquisa revela: 41% dos eleitores americanos temem uma possível guerra
   nos EUA'
 date: 2024-05-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

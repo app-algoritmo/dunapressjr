@@ -2,7 +2,7 @@
 title: "Luisa Stefani segue embalada e retorna à semi do US Open após dois anos"
 date: 2023-09-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

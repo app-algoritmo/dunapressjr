@@ -3,7 +3,7 @@ title: Projeto prevê instalação de sonorizador em rodovia federal para alerta
   sobre entrada no acostamento
 date: 2023-08-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

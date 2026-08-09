@@ -3,7 +3,7 @@ title: 'Novo filme sobre extração de órgãos na Ucrânia: ''Havia crianças, 
   decompostas'''
 date: 2023-06-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

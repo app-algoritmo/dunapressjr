@@ -2,7 +2,7 @@
 title: "Cinco medidas para tornar seus dados mais seguros"
 date: 2023-08-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Social networks
   - Technology

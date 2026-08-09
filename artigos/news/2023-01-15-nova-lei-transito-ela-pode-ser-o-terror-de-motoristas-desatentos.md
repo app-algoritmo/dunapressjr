@@ -2,7 +2,7 @@
 title: "Nova lei trânsito: ela pode ser o terror de motoristas desatentos"
 date: 2023-01-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

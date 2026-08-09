@@ -2,7 +2,7 @@
 title: Os 7 principais problemas cardíacos graves causados ​​​​pelas vacinas do Covid
 date: 2023-04-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 - Health

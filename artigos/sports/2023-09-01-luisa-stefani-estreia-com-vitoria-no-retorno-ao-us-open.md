@@ -2,7 +2,7 @@
 title: "Luisa Stefani estreia com vitória no retorno ao US Open"
 date: 2023-09-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

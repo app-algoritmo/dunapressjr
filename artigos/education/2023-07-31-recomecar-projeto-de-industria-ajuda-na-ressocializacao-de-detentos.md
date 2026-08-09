@@ -2,7 +2,7 @@
 title: "Recomeçar: projeto de indústria ajuda na ressocialização de detentos"
 date: 2023-07-31
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Entrepreneurship

@@ -2,7 +2,7 @@
 title: "Trivium: Resenha do álbum What The Dead Men Say"
 date: 2020-08-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
 ---

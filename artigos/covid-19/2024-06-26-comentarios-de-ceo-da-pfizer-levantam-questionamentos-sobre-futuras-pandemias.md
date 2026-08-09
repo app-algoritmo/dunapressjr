@@ -2,7 +2,7 @@
 title: Comentários de CEO da Pfizer Levantam Questionamentos sobre Futuras Pandemias
 date: 2024-06-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

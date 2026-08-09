@@ -2,7 +2,7 @@
 title: Putin Mantém Alta Confiança Pública, Apesar de Ligeira Queda nas Pesquisas
 date: 2024-04-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

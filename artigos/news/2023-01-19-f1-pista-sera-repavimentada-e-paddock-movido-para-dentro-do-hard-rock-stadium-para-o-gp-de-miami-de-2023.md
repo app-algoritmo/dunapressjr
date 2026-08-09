@@ -2,7 +2,7 @@
 title: "F1: Pista será repavimentada e paddock movido para dentro do Hard Rock Stadium para o GP de Miami de 2023."
 date: 2023-01-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Sports

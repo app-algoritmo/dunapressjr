@@ -2,7 +2,7 @@
 title: Oftalmologistas rastreiam 66 complicações da córnea associadas às vacinas COVID-19
 date: 2023-04-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

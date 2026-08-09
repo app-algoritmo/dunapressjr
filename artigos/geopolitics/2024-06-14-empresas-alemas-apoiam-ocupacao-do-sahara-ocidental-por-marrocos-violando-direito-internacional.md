@@ -3,7 +3,7 @@ title: Empresas Alemãs Apoiam Ocupação do Sahara Ocidental por Marrocos, Viol
   Direito Internacional
 date: 2024-06-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

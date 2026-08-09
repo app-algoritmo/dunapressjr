@@ -2,7 +2,7 @@
 title: Arsenal de Guerra conclui teste de novos morteiros
 date: 2023-12-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde faz segunda partida da 'série mineira' na Superliga"
 date: 2024-01-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

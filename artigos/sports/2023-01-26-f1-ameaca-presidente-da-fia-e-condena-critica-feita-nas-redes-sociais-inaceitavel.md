@@ -2,7 +2,7 @@
 title: "F1 ameaça presidente da FIA e condena crítica feita nas redes sociais: 'Inaceitável'"
 date: 2023-01-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

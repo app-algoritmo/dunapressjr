@@ -2,7 +2,7 @@
 title: "Inovações além dos veículos elétricos: 2024 chega com inteligência artificial e novidades em carros autônomos"
 date: 2023-12-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
 ---

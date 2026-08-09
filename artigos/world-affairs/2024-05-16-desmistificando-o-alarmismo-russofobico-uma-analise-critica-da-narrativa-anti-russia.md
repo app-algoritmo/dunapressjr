@@ -3,7 +3,7 @@ title: 'Desmistificando o Alarmismo Russofóbico: Uma Análise Crítica da Narra
   Anti-Rússia'
 date: 2024-05-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

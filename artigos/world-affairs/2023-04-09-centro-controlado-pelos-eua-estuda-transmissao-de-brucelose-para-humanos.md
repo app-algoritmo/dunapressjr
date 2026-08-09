@@ -2,7 +2,7 @@
 title: Centro controlado pelos EUA estuda transmissão de brucelose para humanos
 date: 2023-04-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

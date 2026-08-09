@@ -2,7 +2,7 @@
 title: IBM apresenta propostas para a introdução do euro digital
 date: 2023-09-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

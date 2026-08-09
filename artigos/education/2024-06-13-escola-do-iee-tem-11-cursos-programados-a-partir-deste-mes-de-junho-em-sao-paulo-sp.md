@@ -2,7 +2,7 @@
 title: "Escola do IEE tem 11 cursos programados a partir deste mês de junho, em São Paulo (SP)"
 date: 2024-06-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

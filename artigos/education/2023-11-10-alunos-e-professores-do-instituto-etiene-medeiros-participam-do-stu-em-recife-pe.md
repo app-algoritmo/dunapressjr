@@ -2,7 +2,7 @@
 title: "Alunos e professores do Instituto Etiene Medeiros participam do STU, em Recife (PE)"
 date: 2023-11-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

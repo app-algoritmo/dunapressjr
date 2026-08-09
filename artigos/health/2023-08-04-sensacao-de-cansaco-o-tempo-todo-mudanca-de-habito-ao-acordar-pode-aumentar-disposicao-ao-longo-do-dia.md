@@ -2,7 +2,7 @@
 title: "Sensação de cansaço o tempo todo? Mudança de hábito ao acordar pode aumentar disposição ao longo do dia"
 date: 2023-08-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

@@ -2,7 +2,7 @@
 title: "Bangu Shopping participa da campanha de vacinação contra a gripe"
 date: 2024-05-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
   - Shopping

@@ -2,7 +2,7 @@
 title: "Mercedes leva atualizações tão esperadas para o GP de Mônaco"
 date: 2023-05-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Formula 1
   - Sports

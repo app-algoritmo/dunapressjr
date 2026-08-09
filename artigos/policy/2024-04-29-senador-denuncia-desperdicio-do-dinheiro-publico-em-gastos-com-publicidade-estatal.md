@@ -3,7 +3,7 @@ title: Senador denuncia 'desperdício do dinheiro público' em gastos com public
   estatal
 date: 2024-04-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

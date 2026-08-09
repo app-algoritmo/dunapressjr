@@ -3,7 +3,7 @@ title: Médicos do Kentucky e Califórnia, receberam pagamentos de bônus por va
   pacientes do Medicaid contra COVID
 date: 2023-04-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

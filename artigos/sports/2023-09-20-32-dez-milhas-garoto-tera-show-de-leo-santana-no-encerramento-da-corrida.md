@@ -2,7 +2,7 @@
 title: "32ª Dez Milhas Garoto terá show de Léo Santana no encerramento da corrida"
 date: 2023-09-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

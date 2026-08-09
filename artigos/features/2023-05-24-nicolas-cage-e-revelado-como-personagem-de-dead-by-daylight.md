@@ -2,7 +2,7 @@
 title: "Nicolas Cage é revelado como personagem de Dead by Daylight"
 date: 2023-05-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

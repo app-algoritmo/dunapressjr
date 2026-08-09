@@ -2,7 +2,7 @@
 title: "Inteligência emocional é valorizada por 34% das empresas na América Latina"
 date: 2023-11-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

@@ -3,7 +3,7 @@ title: O Congresso de El Salvador concedeu a Bukele uma autorização de seis me
   para buscar a reeleição imediata
 date: 2023-12-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

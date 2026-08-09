@@ -2,7 +2,7 @@
 title: "Luisa Stefani alcança em Doha, no Qatar, sua quinta final de WTA 1000"
 date: 2024-02-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

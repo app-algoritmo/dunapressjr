@@ -2,7 +2,7 @@
 title: 'Não é tão doce: estudo liga adoçantes artificiais a danos no fígado'
 date: 2023-05-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

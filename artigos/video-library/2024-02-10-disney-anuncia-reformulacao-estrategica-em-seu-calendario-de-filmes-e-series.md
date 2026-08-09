@@ -2,7 +2,7 @@
 title: "Disney anuncia reformulação estratégica em seu calendário de filmes e séries"
 date: 2024-02-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Video library
 ---

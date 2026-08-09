@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear abre a temporada 2024 no Rio de Janeiro com mais de 4 mil participantes"
 date: 2024-05-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

@@ -3,7 +3,7 @@ title: Girão critica decisão do STF sobre escritórios de advocacia de familia
   juízes
 date: 2023-08-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

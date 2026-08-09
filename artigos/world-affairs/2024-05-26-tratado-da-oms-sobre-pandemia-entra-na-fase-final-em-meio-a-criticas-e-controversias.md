@@ -2,7 +2,7 @@
 title: Tratado da OMS sobre Pandemia Entra na Fase Final em Meio a Críticas e Controvérsias
 date: 2024-05-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

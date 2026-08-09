@@ -3,7 +3,7 @@ title: 'O Reino Unido Deve Evitar Assinar o Tratado sobre a Pandemia: Um Alerta 
   Telegraph'
 date: 2024-05-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Cinco ministérios contarão com recursos de R$ 1,296 bi orçados em outros órgãos
 date: 2023-10-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

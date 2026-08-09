@@ -2,7 +2,7 @@
 title: "Terceira Idade: como recuperar a massa muscular perdida com o passar do tempo"
 date: 2023-08-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

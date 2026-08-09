@@ -3,7 +3,7 @@ title: PIB mineiro cresce 4,4% no segundo trimestre com resultados positivos em 
   indústria e serviços
 date: 2023-09-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: "Rocky Mountain Games define calendário com novidades para a temporada 2024"
 date: 2023-12-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

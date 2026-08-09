@@ -2,7 +2,7 @@
 title: "Liga Esportiva NESCAU® desembarca na capital mineira com os embaixadores Etiene Medeiros e Amorinha"
 date: 2024-06-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

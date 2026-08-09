@@ -2,7 +2,7 @@
 title: "Estreia da natação, lendas do esporte e recorde de público confirmam sucesso do Rocky Mountain Games Juquitiba"
 date: 2024-06-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

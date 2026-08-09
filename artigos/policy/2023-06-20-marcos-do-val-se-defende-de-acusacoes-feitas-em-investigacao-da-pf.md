@@ -2,7 +2,7 @@
 title: Marcos do Val se defende de acusações feitas em investigação da PF
 date: 2023-06-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

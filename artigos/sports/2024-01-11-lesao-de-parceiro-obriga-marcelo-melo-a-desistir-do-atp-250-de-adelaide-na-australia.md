@@ -2,7 +2,7 @@
 title: "Lesão de parceiro obriga Marcelo Melo a desistir do ATP 250 de Adelaide, na Austrália"
 date: 2024-01-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

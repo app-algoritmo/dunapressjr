@@ -2,7 +2,7 @@
 title: Polônia em risco de confronto direto com Rússia e Bielorrússia, diz Medvedev
 date: 2023-11-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

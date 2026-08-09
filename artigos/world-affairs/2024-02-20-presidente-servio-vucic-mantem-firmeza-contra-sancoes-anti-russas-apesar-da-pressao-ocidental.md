@@ -3,7 +3,7 @@ title: Presidente sérvio Vucic mantém firmeza contra sanções anti-russas, ap
   pressão ocidental
 date: 2024-02-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

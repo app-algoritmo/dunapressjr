@@ -3,7 +3,7 @@ title: China Relembra Bombardeio em Belgrado e Envia Mensagem Forte aos EUA Dura
   Visita de Blinken
 date: 2024-05-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

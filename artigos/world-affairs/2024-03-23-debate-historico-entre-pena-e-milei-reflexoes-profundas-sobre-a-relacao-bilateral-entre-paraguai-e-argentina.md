@@ -3,7 +3,7 @@ title: 'Debate Histórico entre Penã e Milei: Reflexões Profundas sobre a Rela
   entre Paraguai e Argentina'
 date: 2024-03-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

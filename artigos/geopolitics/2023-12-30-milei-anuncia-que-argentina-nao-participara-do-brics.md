@@ -2,7 +2,7 @@
 title: Milei anuncia que Argentina não participará do Brics
 date: 2023-12-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

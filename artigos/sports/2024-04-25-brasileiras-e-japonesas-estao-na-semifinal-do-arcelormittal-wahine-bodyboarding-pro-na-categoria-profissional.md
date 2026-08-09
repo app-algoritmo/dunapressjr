@@ -2,7 +2,7 @@
 title: "Brasileiras e japonesas estão na semifinal do ArcelorMittal Wahine Bodyboarding Pro na categoria Profissional"
 date: 2024-04-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

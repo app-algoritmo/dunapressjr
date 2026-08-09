@@ -2,7 +2,7 @@
 title: Biden continua mentindo que os EUA 'não querem cercar' a China
 date: 2023-07-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

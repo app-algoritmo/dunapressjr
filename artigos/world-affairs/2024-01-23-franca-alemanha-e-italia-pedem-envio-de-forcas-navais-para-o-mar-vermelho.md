@@ -2,7 +2,7 @@
 title: França, Alemanha e Itália pedem envio de forças navais para o Mar Vermelho
 date: 2024-01-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

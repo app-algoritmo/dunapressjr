@@ -2,7 +2,7 @@
 title: Rússia mantém termos para negociações com a Ucrânia, diz presidente do Senado
 date: 2023-12-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: "Luisa Stefani vence batalha contra favoritas e vai às oitavas do US Open"
 date: 2023-09-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

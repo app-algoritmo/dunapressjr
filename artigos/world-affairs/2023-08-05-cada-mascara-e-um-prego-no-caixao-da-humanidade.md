@@ -2,7 +2,7 @@
 title: Cada máscara é um prego no caixão da humanidade
 date: 2023-08-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: 'Tucker Carlson: A Guerra Espiritual e a Ameaça da Terceira Guerra Mundial'
 date: 2024-06-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

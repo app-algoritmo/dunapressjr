@@ -2,7 +2,7 @@
 title: A tentativa de ataque a Milei durante sua posse como presidente da Argentina
 date: 2023-12-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

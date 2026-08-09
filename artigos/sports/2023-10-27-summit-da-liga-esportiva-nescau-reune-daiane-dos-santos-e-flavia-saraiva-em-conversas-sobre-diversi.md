@@ -2,7 +2,7 @@
 title: "Summit da Liga Esportiva NESCAU® reúne Daiane dos Santos e Flávia Saraiva em conversas sobre diversi"
 date: 2023-10-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

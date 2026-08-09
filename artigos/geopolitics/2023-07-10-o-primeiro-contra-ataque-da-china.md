@@ -2,7 +2,7 @@
 title: O primeiro contra-ataque da China
 date: 2023-07-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

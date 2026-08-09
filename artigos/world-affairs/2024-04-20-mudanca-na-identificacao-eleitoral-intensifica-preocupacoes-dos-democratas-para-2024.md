@@ -3,7 +3,7 @@ title: Mudança na Identificação Eleitoral Intensifica Preocupações dos Demo
   para 2024
 date: 2024-04-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

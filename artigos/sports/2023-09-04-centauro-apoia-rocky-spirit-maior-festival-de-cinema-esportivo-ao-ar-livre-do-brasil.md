@@ -2,7 +2,7 @@
 title: "Centauro apoia Rocky Spirit, maior festival de cinema esportivo ao ar livre do Brasil"
 date: 2023-09-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

@@ -2,7 +2,7 @@
 title: 'CEO da Worldcoin: ''Haverá algo como World ID... quer você queira ou não'''
 date: 2023-07-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

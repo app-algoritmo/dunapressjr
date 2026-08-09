@@ -2,7 +2,7 @@
 title: "Shoppings do Rio promovem projeto “Leitura Para Todos”"
 date: 2023-10-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Shopping

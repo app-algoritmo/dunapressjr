@@ -3,7 +3,7 @@ title: Zelensky queria se encontrar com o presidente brasileiro, mas Lula recuso
   – jornal
 date: 2023-12-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

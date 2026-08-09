@@ -3,7 +3,7 @@ title: Proposta de Auxílio Militar de US$ 17,6 Bilhões a Israel Gera Debate no
   ao Excluir Assistência à Ucrânia
 date: 2024-02-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: 'A Expansão das Bases Militares da China: Um Desafio Estratégico aos EU
   à Índia'
 date: 2024-06-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

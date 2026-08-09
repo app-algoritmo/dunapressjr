@@ -2,7 +2,7 @@
 title: "Cigarro eletrônico é tão prejudicial à saúde quanto o comum"
 date: 2024-01-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

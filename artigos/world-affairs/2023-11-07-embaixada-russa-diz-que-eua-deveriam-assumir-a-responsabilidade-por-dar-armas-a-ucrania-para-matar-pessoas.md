@@ -3,7 +3,7 @@ title: Embaixada russa diz que EUA deveriam assumir a responsabilidade por dar a
   à Ucrânia para matar pessoas
 date: 2023-11-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

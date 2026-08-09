@@ -2,7 +2,7 @@
 title: "Big Brother Brasil e a irracionalidade da fama"
 date: 2022-01-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Opinion
 ---

@@ -2,7 +2,7 @@
 title: "Beach Tennis: André Baran é campeão do ITF BT 400 de Aruba"
 date: 2023-11-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

@@ -3,7 +3,7 @@ title: Eurodeputado explica por que 'tratado totalitário de pandemia' nunca dev
   acontecer
 date: 2023-07-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

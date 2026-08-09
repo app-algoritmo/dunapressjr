@@ -2,7 +2,7 @@
 title: Piloto alerta sobre catástrofe para a indústria da aviação devido às injeções
 date: 2023-11-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

@@ -3,7 +3,7 @@ title: George e Alex Soros doam valor máximo permitido para a campanha de reele
   de Biden
 date: 2023-07-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

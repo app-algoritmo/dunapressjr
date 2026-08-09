@@ -2,7 +2,7 @@
 title: "Terceiro do ranking mundial, André Baran joga Copa do Mundo de Beach Tennis a partir desta terça-feira (5)"
 date: 2023-12-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

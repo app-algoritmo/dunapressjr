@@ -2,7 +2,7 @@
 title: "Fungo de The Last of Us existe na vida real: Saiba mais"
 date: 2023-01-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

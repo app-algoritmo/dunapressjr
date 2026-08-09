@@ -2,7 +2,7 @@
 title: "Mercado nacional de veículos retoma fôlego nas vendas, enquanto produção recua"
 date: 2023-08-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Business and Economy
   - Technology

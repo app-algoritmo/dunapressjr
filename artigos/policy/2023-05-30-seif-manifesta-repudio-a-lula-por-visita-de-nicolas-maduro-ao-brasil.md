@@ -2,7 +2,7 @@
 title: Seif manifesta repúdio a Lula por visita de Nicolás Maduro ao Brasil
 date: 2023-05-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

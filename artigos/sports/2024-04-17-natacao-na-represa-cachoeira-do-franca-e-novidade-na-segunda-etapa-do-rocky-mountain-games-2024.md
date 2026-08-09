@@ -2,7 +2,7 @@
 title: "Natação na Represa Cachoeira do França é novidade na segunda etapa do Rocky Mountain Games 2024"
 date: 2024-04-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Swimming

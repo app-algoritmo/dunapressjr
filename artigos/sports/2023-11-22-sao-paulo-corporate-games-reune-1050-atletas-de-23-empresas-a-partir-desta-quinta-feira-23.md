@@ -2,7 +2,7 @@
 title: "São Paulo Corporate Games reúne 1.050 atletas de 23 empresas a partir desta quinta-feira (23)"
 date: 2023-11-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

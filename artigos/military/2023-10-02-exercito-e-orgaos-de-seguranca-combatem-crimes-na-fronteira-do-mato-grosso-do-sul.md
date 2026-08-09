@@ -3,7 +3,7 @@ title: Exército e órgãos de segurança combatem crimes na fronteira do Mato G
   do Sul
 date: 2023-10-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

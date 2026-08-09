@@ -3,7 +3,7 @@ title: 'Corrida para Adquirir Propriedades em Ruínas: Incêndios no Havaí Leva
   Perguntas'
 date: 2023-08-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

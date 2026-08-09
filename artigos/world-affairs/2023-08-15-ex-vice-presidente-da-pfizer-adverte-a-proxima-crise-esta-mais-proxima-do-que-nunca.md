@@ -3,7 +3,7 @@ title: 'Ex-vice-presidente da Pfizer adverte: a próxima crise está mais próxi
   que nunca'
 date: 2023-08-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

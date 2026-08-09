@@ -2,7 +2,7 @@
 title: "Bangu Shopping recebe Feira das Flores com agricultores e artistas florais"
 date: 2023-07-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Agriculture
   - Architecture and Art

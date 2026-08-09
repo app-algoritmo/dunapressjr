@@ -2,7 +2,7 @@
 title: Sumiço de metralhadoras é maior furto do Exército desde 2009
 date: 2023-10-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

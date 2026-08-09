@@ -2,7 +2,7 @@
 title: 'Brasil: Juiz da corte suprema manifesta preferência em ato político'
 date: 2023-07-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Mundo centrado nos EUA chegando ao fim, afirma o Kremlin
 date: 2023-12-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

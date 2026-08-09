@@ -2,7 +2,7 @@
 title: 'Dr Mercola: É por isso que os pediatras estão promovendo as vacinas?'
 date: 2023-05-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

@@ -3,7 +3,7 @@ title: Os EUA buscam a desmilitarização da Ucrânia para consolidar territóri
   afirma alto funcionário russo
 date: 2024-04-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

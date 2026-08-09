@@ -2,7 +2,7 @@
 title: "Netflix revela trailer da 6ª temporada de Black Mirror"
 date: 2023-04-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

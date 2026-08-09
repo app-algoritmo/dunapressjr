@@ -2,7 +2,7 @@
 title: O uso da comida como arma está em pleno andamento
 date: 2023-07-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Deputado vira réu no STF por ofensas a ministro
 date: 2023-06-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: "Educação inclusiva nas escolas contribui para saúde mental de estudantes"
 date: 2023-09-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Health

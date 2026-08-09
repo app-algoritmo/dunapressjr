@@ -3,7 +3,7 @@ title: O YouTube baniu Ruth Institute por alertar o público sobre a ligação a
   de mama
 date: 2023-07-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

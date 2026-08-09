@@ -2,7 +2,7 @@
 title: "6 dicas de planejamento financeiro para quem está ingressando no mundo do trabalho"
 date: 2023-10-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Global Economy
 ---

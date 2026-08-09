@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde derrota o Praia Clube fora de casa e volta ao G4 da Superliga"
 date: 2024-01-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

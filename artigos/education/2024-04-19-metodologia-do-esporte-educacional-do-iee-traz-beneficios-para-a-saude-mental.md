@@ -2,7 +2,7 @@
 title: "Metodologia do Esporte Educacional, do IEE, traz benefícios para a saúde mental"
 date: 2024-04-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

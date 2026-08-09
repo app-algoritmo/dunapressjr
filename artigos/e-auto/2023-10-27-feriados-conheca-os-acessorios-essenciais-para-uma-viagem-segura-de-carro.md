@@ -2,7 +2,7 @@
 title: "Feriados: conheça os acessórios essenciais para uma viagem segura de carro"
 date: 2023-10-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
 ---

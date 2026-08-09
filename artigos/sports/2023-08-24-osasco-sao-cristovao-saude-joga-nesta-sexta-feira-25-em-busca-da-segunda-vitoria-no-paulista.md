@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde joga nesta sexta-feira (25) em busca da segunda vitória no Paulista"
 date: 2023-08-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

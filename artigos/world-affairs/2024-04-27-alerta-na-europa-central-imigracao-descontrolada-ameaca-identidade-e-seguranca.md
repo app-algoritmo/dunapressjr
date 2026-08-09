@@ -2,7 +2,7 @@
 title: 'Alerta na Europa Central: Imigração Descontrolada Ameaça Identidade e Segurança'
 date: 2024-04-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

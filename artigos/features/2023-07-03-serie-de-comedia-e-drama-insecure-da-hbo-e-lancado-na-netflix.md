@@ -2,7 +2,7 @@
 title: "Série de comédia e drama 'Insecure' da HBO é lançado na Netflix"
 date: 2023-07-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

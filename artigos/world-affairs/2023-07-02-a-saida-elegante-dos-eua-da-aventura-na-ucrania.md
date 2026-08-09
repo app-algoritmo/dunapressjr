@@ -2,7 +2,7 @@
 title: A saída elegante dos EUA da aventura na Ucrânia?
 date: 2023-07-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

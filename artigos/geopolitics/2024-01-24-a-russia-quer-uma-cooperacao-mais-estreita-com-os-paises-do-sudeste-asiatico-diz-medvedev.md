@@ -3,7 +3,7 @@ title: A Rússia quer uma cooperação mais estreita com os países do Sudeste A
   diz Medvedev
 date: 2024-01-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

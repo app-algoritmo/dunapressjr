@@ -3,7 +3,7 @@ title: O Ministério Público colombiano acusa formalmente Nicolás Petro de lav
   de dinheiro
 date: 2024-01-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Breve lista de operações de subversão da USAID
 date: 2023-03-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

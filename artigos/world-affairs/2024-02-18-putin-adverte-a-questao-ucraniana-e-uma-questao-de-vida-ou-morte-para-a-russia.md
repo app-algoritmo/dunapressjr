@@ -2,7 +2,7 @@
 title: 'Putin Adverte: A Questão Ucraniana é uma Questão de Vida ou Morte para a Rússia'
 date: 2024-02-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Você é a população que eles querem controlar
 date: 2023-07-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

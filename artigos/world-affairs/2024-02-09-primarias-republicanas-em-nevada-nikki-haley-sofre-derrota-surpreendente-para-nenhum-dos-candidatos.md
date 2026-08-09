@@ -3,7 +3,7 @@ title: 'Primárias Republicanas em Nevada: Nikki Haley Sofre Derrota Surpreenden
   para ''Nenhum dos Candidatos'''
 date: 2024-02-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

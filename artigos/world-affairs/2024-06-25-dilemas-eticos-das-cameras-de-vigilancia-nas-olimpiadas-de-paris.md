@@ -2,7 +2,7 @@
 title: Dilemas Éticos das Câmeras de Vigilância nas Olimpíadas de Paris
 date: 2024-06-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

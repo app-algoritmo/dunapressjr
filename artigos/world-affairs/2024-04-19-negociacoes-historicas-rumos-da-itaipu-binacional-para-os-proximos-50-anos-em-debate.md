@@ -3,7 +3,7 @@ title: 'Negociações Históricas: Rumos da Itaipu Binacional para os Próximos 
   em Debate'
 date: 2024-04-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

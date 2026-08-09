@@ -2,7 +2,7 @@
 title: Possível Míssil Balístico Atravessa Espaço Aéreo Espanhol, Informam Cientistas
 date: 2024-04-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

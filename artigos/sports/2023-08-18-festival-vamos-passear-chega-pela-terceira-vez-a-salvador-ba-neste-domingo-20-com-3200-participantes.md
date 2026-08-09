@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear chega pela terceira vez a Salvador (BA), neste domingo (20), com 3.200 participantes"
 date: 2023-08-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

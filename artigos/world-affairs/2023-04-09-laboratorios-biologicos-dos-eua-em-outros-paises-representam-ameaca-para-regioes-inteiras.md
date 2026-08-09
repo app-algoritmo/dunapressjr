@@ -3,7 +3,7 @@ title: Laboratórios biológicos dos EUA em outros países representam ameaça p
   inteiras
 date: 2023-04-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

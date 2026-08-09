@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde reedita final do Campeonato Paulista neste domingo (16)"
 date: 2023-11-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

@@ -2,7 +2,7 @@
 title: "Beach Tennis: André Baran joga em Garopaba, Santa Catarina, a partir desta sexta-feira (15)"
 date: 2023-12-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

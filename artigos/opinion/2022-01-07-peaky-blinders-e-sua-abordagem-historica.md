@@ -2,7 +2,7 @@
 title: "Peaky Blinders e sua abordagem histórica"
 date: 2022-01-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Opinion
 ---

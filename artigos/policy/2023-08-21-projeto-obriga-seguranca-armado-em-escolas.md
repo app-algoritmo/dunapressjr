@@ -2,7 +2,7 @@
 title: Projeto obriga segurança armado em escolas
 date: 2023-08-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

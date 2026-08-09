@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde conquista sexta vitória consecutiva na Superliga"
 date: 2024-02-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

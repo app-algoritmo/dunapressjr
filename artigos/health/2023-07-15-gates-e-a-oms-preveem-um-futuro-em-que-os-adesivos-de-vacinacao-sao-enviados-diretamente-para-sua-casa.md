@@ -3,7 +3,7 @@ title: Gates e a OMS prevêem um futuro em que 'os adesivos de vacinação são 
   diretamente para sua casa'
 date: 2023-07-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

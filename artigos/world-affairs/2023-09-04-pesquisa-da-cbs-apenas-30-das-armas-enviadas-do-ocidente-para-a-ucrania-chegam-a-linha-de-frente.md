@@ -3,7 +3,7 @@ title: 'Pesquisa da CBS: ''Apenas 30% das armas enviadas do Ocidente para a Ucr�
   chegam à linha de frente!'''
 date: 2023-09-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

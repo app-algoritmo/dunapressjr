@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde abre o segundo turno da Superliga com vitória"
 date: 2024-01-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

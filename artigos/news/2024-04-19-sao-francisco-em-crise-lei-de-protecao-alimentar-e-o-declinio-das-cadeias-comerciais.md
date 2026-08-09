@@ -3,7 +3,7 @@ title: 'São Francisco em Crise: Lei de Proteção Alimentar e o Declínio das C
   Comerciais'
 date: 2024-04-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

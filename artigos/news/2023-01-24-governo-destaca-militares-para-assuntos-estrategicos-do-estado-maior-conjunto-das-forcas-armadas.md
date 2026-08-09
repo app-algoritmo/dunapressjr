@@ -3,7 +3,7 @@ title: Governo destaca militares para Assuntos Estratégicos do Estado-Maior Con
   das Forças Armadas
 date: 2023-01-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: A verdade insidiosa por trás das refeições escolares gratuitas
 date: 2023-07-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

@@ -2,7 +2,7 @@
 title: "Falta de manutenção em veículos é causa de 30% dos acidentes de trânsito"
 date: 2024-02-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
 ---

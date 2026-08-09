@@ -3,7 +3,7 @@ title: Relatório da Europol alerta para a proliferação das 'multinacionais do
   na União Europeia
 date: 2024-05-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

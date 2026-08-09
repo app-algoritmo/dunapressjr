@@ -2,7 +2,7 @@
 title: CPI das ONGs recebe mais lideranças indígenas nesta terça
 date: 2023-07-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Senado Italiano Aprova Lei de Financiamento a Grupos Pró-Vida em Centros
   Aborto
 date: 2024-04-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Emir do Catar no Brasil, será que veio ver os fogos com seus navios de guerra?
 date: 2022-12-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

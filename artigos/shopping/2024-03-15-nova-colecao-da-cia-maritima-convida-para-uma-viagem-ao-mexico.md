@@ -2,7 +2,7 @@
 title: "Nova coleção da Cia. Marítima convida para uma viagem ao México"
 date: 2024-03-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Shopping
 ---

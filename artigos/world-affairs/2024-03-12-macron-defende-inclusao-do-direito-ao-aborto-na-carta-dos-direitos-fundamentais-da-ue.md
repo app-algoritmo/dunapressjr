@@ -3,7 +3,7 @@ title: Macron Defende Inclusão do Direito ao Aborto na Carta dos Direitos Funda
   da UE
 date: 2024-03-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

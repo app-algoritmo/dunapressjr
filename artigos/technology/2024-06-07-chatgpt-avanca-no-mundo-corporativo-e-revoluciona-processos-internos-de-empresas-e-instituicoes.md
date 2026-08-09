@@ -2,7 +2,7 @@
 title: "ChatGPT avança no mundo corporativo e revoluciona processos internos de empresas e instituições"
 date: 2024-06-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Technology
 ---

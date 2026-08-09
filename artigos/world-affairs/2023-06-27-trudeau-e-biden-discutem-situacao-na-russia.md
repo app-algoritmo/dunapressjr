@@ -2,7 +2,7 @@
 title: Trudeau e Biden discutem situação na Rússia
 date: 2023-06-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

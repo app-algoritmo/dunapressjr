@@ -3,7 +3,7 @@ title: 'A Rússia não está blefando: os exercícios nucleares táticos são um
   à OTAN'
 date: 2024-05-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

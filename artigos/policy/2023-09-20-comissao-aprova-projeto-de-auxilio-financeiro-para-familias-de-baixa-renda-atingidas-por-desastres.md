@@ -3,7 +3,7 @@ title: Comissão aprova projeto de auxílio financeiro para famílias de baixa r
   atingidas por desastres
 date: 2023-09-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

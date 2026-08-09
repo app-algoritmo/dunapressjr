@@ -2,7 +2,7 @@
 title: Comissão discute possibilidade de implantação do sistema Tax Free no Brasil
 date: 2023-08-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

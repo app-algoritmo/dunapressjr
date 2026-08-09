@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde vence e faz a alegria do domingão da torcida no Liberatti"
 date: 2023-11-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

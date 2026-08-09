@@ -2,7 +2,7 @@
 title: "Beach Tennis: em final brasileira, André Baran ganha segundo ouro no Pan no Chile"
 date: 2023-10-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Pan American Games
   - Sports

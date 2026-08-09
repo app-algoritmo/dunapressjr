@@ -3,7 +3,7 @@ title: Oração fora de clínicas de aborto no Reino Unido se tornará crime sob
   lei
 date: 2023-02-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

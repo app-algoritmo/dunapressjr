@@ -2,7 +2,7 @@
 title: "Parede de escalada sustentável na periferia é presente de Natal de Aretha Duarte para Campinas"
 date: 2023-12-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

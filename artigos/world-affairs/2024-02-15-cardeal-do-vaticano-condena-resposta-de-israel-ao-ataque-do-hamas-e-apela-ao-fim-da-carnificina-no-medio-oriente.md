@@ -3,7 +3,7 @@ title: Cardeal do Vaticano Condena Resposta de Israel ao Ataque do Hamas e Apela
   Fim da 'Carnificina' no Médio Oriente
 date: 2024-02-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

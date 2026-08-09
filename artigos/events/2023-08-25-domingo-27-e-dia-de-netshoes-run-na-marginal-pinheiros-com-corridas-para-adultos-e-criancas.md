@@ -2,7 +2,7 @@
 title: "Domingo (27) é dia de Netshoes Run, na Marginal Pinheiros, com corridas para adultos e crianças"
 date: 2023-08-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Sports

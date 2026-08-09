@@ -3,7 +3,7 @@ title: Apenas 32% dos alemães estão dispostos a defender ativamente o país em
   de ataque
 date: 2024-03-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

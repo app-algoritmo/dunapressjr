@@ -3,7 +3,7 @@ title: Os problemas mundiais atuais começaram após o colapso da União Soviét
   Putin
 date: 2023-03-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

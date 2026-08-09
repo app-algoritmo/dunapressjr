@@ -2,7 +2,7 @@
 title: Irã critica a Suécia por apoiar o sacrilégio do Alcorão
 date: 2023-07-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

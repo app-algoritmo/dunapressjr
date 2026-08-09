@@ -2,7 +2,7 @@
 title: "Combinações de remédios e alimentos podem ser perigosas"
 date: 2024-02-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

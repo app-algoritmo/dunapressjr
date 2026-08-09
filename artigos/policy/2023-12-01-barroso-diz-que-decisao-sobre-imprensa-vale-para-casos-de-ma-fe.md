@@ -2,7 +2,7 @@
 title: Barroso diz que decisão sobre imprensa vale para casos de má-fé
 date: 2023-12-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

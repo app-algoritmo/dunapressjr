@@ -2,7 +2,7 @@
 title: "Os 4 Malfeitores: O filme de ação e comédia em destaque na Netflix"
 date: 2022-12-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

@@ -2,7 +2,7 @@
 title: "Cinemas no Paraná exibem vídeo da campanha 'Defenda-se'"
 date: 2024-05-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

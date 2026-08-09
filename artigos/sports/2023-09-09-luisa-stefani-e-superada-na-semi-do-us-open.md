@@ -2,7 +2,7 @@
 title: "Luisa Stefani é superada na semi do US Open"
 date: 2023-09-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

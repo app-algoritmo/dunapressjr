@@ -2,7 +2,7 @@
 title: Exército conduz exercício com 3 mil militares na região Centro-Oeste
 date: 2023-10-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

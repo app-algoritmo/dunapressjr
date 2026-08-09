@@ -2,7 +2,7 @@
 title: "Passeio ciclístico, prova de MTB e muitas atrações marcam último dia do Shimano Fest"
 date: 2023-08-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

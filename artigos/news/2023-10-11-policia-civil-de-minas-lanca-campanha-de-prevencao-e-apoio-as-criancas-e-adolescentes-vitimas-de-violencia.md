@@ -3,7 +3,7 @@ title: Polícia Civil de Minas lança campanha de prevenção e apoio às crian�
   vítimas de violência
 date: 2023-10-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

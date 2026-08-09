@@ -3,7 +3,7 @@ title: 'Recorde de temperatura de 52,2 °C em Sanbao, na China: o que realmente 
   por trás disso quando visto sobriamente?'
 date: 2023-07-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Environment
 - Social networks

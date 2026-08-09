@@ -3,7 +3,7 @@ title: Itália pede “não subestimar” possíveis ataques de “lobos solitá
   medidas
 date: 2024-01-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

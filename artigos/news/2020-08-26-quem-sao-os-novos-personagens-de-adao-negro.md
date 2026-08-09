@@ -2,7 +2,7 @@
 title: "Quem são os novos personagens de Adão Negro?"
 date: 2020-08-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Video library

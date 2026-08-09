@@ -3,7 +3,7 @@ title: Grupos que promovem passaportes de imunização e vacinas obrigatórias f
   secretamente financiados pela Pfizer
 date: 2023-04-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 - Health

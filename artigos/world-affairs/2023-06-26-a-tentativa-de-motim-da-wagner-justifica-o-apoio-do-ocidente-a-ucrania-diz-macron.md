@@ -3,7 +3,7 @@ title: A tentativa de motim da Wagner justifica o apoio do Ocidente à Ucrânia,
   Macron
 date: 2023-06-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

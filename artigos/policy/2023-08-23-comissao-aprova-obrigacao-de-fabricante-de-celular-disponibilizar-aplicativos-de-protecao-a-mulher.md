@@ -3,7 +3,7 @@ title: Comissão aprova obrigação de fabricante de celular disponibilizar apli
   de proteção à mulher
 date: 2023-08-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Vice-Primeiro-Ministro Chinês e Ministro Francês Discutem Cooperação Econômica
 date: 2024-03-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: Petrobras assina aditivo de compra de gás de estatal da Bolívia
 date: 2023-12-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

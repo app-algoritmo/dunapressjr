@@ -3,7 +3,7 @@ title: Papa Francisco destaca o papel do Estado na justiça social em mensagem a
   juízes argentinos
 date: 2024-02-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

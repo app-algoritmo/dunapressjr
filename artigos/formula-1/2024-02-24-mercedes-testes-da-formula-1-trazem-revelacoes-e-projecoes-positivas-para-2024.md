@@ -2,7 +2,7 @@
 title: "Mercedes: Testes da Fórmula 1 trazem revelações e projeções positivas para 2024"
 date: 2024-02-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Formula 1
   - Sports

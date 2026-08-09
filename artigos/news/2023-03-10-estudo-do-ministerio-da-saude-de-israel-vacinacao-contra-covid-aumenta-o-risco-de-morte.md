@@ -3,7 +3,7 @@ title: 'Estudo do Ministério da Saúde de Israel: vacinação contra COVID aume
   risco de morte'
 date: 2023-03-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

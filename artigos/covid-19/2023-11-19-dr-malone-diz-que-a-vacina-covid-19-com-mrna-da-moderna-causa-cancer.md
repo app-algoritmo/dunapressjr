@@ -2,7 +2,7 @@
 title: Dr. Malone diz que a vacina COVID-19 com mRNA da Moderna, causa câncer
 date: 2023-11-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

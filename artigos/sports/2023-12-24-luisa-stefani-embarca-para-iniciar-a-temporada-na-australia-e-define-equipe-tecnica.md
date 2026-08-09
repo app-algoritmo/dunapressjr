@@ -2,7 +2,7 @@
 title: "Luisa Stefani embarca para iniciar a temporada na Austrália e define equipe técnica"
 date: 2023-12-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

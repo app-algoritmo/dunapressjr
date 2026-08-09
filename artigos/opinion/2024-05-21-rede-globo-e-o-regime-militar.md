@@ -2,7 +2,7 @@
 title: Rede Globo e o Regime Militar
 date: 2024-05-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Opinion
 ---

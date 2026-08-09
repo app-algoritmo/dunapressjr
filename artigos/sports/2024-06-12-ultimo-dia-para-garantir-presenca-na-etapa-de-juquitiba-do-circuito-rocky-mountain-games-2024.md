@@ -2,7 +2,7 @@
 title: "Último dia para garantir presença na etapa de Juquitiba do circuito Rocky Mountain Games 2024"
 date: 2024-06-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

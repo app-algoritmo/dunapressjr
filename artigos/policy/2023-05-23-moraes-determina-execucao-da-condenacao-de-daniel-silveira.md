@@ -2,7 +2,7 @@
 title: Moraes determina execução da condenação de Daniel Silveira
 date: 2023-05-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

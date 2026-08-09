@@ -2,7 +2,7 @@
 title: "De Libras à logística: cursos gratuitos são oportunidade de capacitação com certificado"
 date: 2024-04-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Courses and Careers
   - Education

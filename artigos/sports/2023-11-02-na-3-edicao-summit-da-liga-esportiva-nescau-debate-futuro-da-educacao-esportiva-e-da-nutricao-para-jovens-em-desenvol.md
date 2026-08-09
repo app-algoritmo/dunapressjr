@@ -2,7 +2,7 @@
 title: "Na 3ª edição, Summit da Liga Esportiva NESCAU® debate futuro da educação esportiva e da nutrição para jovens em desenvol"
 date: 2023-11-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

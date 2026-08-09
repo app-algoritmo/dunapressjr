@@ -2,7 +2,7 @@
 title: "Bangu Shopping presenteia clientes com vinhos argentinos no Dia dos Namorados"
 date: 2023-06-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

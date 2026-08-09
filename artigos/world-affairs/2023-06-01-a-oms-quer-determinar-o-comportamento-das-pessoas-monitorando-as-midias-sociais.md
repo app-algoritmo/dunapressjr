@@ -2,7 +2,7 @@
 title: A OMS quer determinar o comportamento das pessoas monitorando as mídias sociais
 date: 2023-06-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

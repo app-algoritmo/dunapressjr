@@ -2,7 +2,7 @@
 title: "Hospital 100% SUS utiliza inteligência artificial para transformar cuidado em melodia"
 date: 2024-06-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

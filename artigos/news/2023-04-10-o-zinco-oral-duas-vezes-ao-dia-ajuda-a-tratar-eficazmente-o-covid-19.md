@@ -2,7 +2,7 @@
 title: O zinco oral duas vezes ao dia ajuda a tratar eficazmente o COVID-19
 date: 2023-04-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

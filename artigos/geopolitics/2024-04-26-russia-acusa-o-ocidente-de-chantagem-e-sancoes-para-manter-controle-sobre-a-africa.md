@@ -3,7 +3,7 @@ title: Rússia Acusa o Ocidente de Chantagem e Sanções para Manter Controle so
   África
 date: 2024-04-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

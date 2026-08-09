@@ -2,7 +2,7 @@
 title: Recusa da Grã-Bretanha em Assinar Tratado Pandêmico da OMS
 date: 2024-05-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

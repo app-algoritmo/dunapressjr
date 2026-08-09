@@ -2,7 +2,7 @@
 title: Irã alerta para responder a qualquer possível ameaça
 date: 2023-11-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

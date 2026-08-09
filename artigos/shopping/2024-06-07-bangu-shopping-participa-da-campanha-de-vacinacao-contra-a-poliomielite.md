@@ -2,7 +2,7 @@
 title: "Bangu Shopping participa da campanha de vacinação contra a Poliomielite"
 date: 2024-06-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Shopping
 ---

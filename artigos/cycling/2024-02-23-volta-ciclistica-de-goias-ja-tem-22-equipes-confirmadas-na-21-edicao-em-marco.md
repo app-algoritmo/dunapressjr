@@ -2,7 +2,7 @@
 title: "Volta Ciclística de Goiás já tem 22 equipes confirmadas na 21ª edição, em março"
 date: 2024-02-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

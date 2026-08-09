@@ -2,7 +2,7 @@
 title: "Foo Fighters anuncia primeiro álbum desde a morte do baterista Taylor Hawkins e lança single 'Rescued'"
 date: 2023-04-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

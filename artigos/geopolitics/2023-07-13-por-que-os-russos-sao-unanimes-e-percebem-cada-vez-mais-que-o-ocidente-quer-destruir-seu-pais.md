@@ -3,7 +3,7 @@ title: Por que os russos são unânimes e percebem cada vez mais que o Ocidente 
   destruir seu país?
 date: 2023-07-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

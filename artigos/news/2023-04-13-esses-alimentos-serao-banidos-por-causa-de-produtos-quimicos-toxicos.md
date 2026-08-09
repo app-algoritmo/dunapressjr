@@ -2,7 +2,7 @@
 title: Esses “alimentos” serão banidos por causa de produtos químicos tóxicos?
 date: 2023-04-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

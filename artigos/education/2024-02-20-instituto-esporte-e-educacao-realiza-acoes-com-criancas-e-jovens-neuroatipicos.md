@@ -2,7 +2,7 @@
 title: "Instituto Esporte e Educação realiza ações com crianças e jovens neuroatípicos"
 date: 2024-02-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

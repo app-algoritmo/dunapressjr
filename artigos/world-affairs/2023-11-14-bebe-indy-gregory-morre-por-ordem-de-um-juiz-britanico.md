@@ -2,7 +2,7 @@
 title: Bebê Indy Gregory morre por ordem de um juiz britânico
 date: 2023-11-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

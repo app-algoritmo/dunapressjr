@@ -2,7 +2,7 @@
 title: 'Ascensão da China na Indústria de Semicondutores: Um Desafio para os EUA'
 date: 2024-06-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: "Instituto Esporte e Educação impacta práticas ESG e ODS da ONU"
 date: 2023-09-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

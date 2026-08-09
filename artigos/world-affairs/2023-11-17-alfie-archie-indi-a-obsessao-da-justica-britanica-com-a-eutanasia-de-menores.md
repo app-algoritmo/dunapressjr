@@ -2,7 +2,7 @@
 title: Alfie, Archie, Indi… a obsessão da Justiça britânica com a eutanásia de menores
 date: 2023-11-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

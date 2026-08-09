@@ -3,7 +3,7 @@ title: A 'carne' cultivada por Bill Gates em laboratório é 25 vezes pior para 
   do que a bovina
 date: 2023-05-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

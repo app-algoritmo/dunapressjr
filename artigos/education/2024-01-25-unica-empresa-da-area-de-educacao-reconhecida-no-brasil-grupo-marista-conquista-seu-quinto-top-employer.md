@@ -2,7 +2,7 @@
 title: "Única empresa da área de educação reconhecida no Brasil, Grupo Marista conquista seu quinto Top Employer"
 date: 2024-01-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

@@ -3,7 +3,7 @@ title: Os principais cientistas climáticos dizem que receberam ordens para enco
   a verdade
 date: 2023-07-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Environment
 ---

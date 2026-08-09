@@ -2,7 +2,7 @@
 title: Seif critica descriminalização do porte de drogas para consumo próprio
 date: 2023-06-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

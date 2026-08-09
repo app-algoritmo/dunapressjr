@@ -2,7 +2,7 @@
 title: Confúcio lamenta seca na Amazônia e aponta importância da proteção ambiental
 date: 2023-12-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

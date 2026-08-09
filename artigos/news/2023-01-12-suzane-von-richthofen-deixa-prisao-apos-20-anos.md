@@ -2,7 +2,7 @@
 title: "Suzane Von Richthofen deixa prisão após 20 anos"
 date: 2023-01-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

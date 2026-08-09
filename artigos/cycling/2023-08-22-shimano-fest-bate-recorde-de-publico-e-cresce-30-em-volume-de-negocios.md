@@ -2,7 +2,7 @@
 title: "Shimano Fest bate recorde de público e cresce 30% em volume de negócios"
 date: 2023-08-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

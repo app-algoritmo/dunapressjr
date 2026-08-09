@@ -2,7 +2,7 @@
 title: "Liga Esportiva NESCAU® chega ao Clube Espéria, em São Paulo, e recebe Falcão e Veronica Hipólito neste final de semana"
 date: 2023-09-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

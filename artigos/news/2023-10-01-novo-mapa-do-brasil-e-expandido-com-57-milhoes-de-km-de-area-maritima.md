@@ -2,7 +2,7 @@
 title: Novo mapa do Brasil é expandido com 5,7 milhões de km² de área marítima
 date: 2023-10-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

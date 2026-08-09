@@ -2,7 +2,7 @@
 title: "Dani Freitas e Mariana Nogueira, estrelas do bodyboarding mundial nos anos 90, revivem rivalidade no Wahine 2024"
 date: 2024-04-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

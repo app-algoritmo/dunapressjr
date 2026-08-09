@@ -3,7 +3,7 @@ title: Estado do Rio reduz letalidade violenta e chega ao menor número de víti
   em 32 anos
 date: 2023-11-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

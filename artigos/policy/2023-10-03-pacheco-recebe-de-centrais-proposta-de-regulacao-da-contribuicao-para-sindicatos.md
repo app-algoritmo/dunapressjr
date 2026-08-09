@@ -2,7 +2,7 @@
 title: Pacheco recebe de centrais proposta de regulação da contribuição para sindicatos
 date: 2023-10-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

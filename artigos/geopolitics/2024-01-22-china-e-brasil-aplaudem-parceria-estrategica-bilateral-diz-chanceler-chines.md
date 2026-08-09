@@ -2,7 +2,7 @@
 title: China e Brasil aplaudem parceria estratégica bilateral, diz chanceler chinês
 date: 2024-01-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

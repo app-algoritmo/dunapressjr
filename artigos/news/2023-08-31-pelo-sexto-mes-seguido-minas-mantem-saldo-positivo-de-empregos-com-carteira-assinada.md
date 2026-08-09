@@ -3,7 +3,7 @@ title: Pelo sexto mês seguido, Minas mantém saldo positivo de empregos com car
   assinada
 date: 2023-08-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

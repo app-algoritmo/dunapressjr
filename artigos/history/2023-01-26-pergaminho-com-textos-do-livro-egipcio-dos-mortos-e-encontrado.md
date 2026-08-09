@@ -2,7 +2,7 @@
 title: "Pergaminho com textos do Livro Egípcio dos Mortos é encontrado"
 date: 2023-01-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - History
   - News

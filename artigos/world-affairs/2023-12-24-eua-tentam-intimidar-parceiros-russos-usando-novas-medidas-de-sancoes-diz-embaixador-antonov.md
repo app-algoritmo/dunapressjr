@@ -3,7 +3,7 @@ title: EUA tentam intimidar parceiros russos usando novas medidas de sanções, 
   embaixador Antonov
 date: 2023-12-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

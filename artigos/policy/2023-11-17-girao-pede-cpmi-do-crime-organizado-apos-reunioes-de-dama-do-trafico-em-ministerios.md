@@ -2,7 +2,7 @@
 title: Girão pede CPMI do crime organizado após reuniões de 'dama do tráfico' em ministérios
 date: 2023-11-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

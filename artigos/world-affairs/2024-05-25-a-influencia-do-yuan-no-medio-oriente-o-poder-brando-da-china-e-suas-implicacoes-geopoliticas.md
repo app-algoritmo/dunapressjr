@@ -3,7 +3,7 @@ title: 'A Influência do Yuan no Médio Oriente: O Poder Brando da China e Suas 
   Geopolíticas'
 date: 2024-05-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Chico Rodrigues defende investimentos na educação técnica para jovens
 date: 2023-10-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

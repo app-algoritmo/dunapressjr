@@ -2,7 +2,7 @@
 title: '''A Guerra dos Chips'': O Ocidente x China'
 date: 2023-08-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

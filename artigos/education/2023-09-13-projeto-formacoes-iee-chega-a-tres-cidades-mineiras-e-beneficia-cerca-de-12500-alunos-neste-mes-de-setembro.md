@@ -2,7 +2,7 @@
 title: "Projeto Formações IEE chega a três cidades mineiras e beneficia cerca de 12.500 alunos neste mês de setembro"
 date: 2023-09-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

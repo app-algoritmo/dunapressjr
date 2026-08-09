@@ -2,7 +2,7 @@
 title: Impacto da Imigração em Massa na Segurança Alimentar dos EUA
 date: 2024-03-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

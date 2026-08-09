@@ -2,7 +2,7 @@
 title: Estados Unidos e Paraguai Reforçam Parceria Estratégica em Reunião Diplomática
 date: 2024-03-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

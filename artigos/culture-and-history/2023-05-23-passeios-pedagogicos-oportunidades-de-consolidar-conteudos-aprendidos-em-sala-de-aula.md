@@ -2,7 +2,7 @@
 title: "Passeios pedagógicos: oportunidades de consolidar conteúdos aprendidos em sala de aula"
 date: 2023-05-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Culture and History
   - Education

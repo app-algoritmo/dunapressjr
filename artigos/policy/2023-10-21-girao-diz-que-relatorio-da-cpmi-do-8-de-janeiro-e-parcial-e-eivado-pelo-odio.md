@@ -3,7 +3,7 @@ title: Girão diz que relatório da CPMI do 8 de Janeiro é 'parcial' e 'eivado 
   ódio'
 date: 2023-10-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

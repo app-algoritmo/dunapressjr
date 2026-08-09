@@ -2,7 +2,7 @@
 title: "Escola do IEE inicia atividades em 2024 com dois cursos para estudantes universitários"
 date: 2024-03-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

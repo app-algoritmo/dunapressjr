@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde vence o Minas de virada, segue vice-líder e invicto a 12 rodadas na Superliga"
 date: 2024-03-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

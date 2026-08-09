@@ -2,7 +2,7 @@
 title: Plenário do STF reverte condenação de ex-deputado Paulinho da Força
 date: 2023-11-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

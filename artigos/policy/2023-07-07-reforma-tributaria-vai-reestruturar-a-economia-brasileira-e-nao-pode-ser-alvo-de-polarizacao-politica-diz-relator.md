@@ -3,7 +3,7 @@ title: Reforma tributária vai reestruturar a economia brasileira e não pode se
   de polarização política, diz relator
 date: 2023-07-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

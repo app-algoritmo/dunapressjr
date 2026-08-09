@@ -2,7 +2,7 @@
 title: "Urgente: TSE reestabelece monetização de canais opositores"
 date: 2023-03-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

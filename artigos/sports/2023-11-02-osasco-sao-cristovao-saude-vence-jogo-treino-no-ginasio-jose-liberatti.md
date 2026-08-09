@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde vence jogo-treino no ginásio José Liberatti"
 date: 2023-11-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

@@ -3,7 +3,7 @@ title: Ministro das Relações Exteriores da China Afirma que o País Desempenha
   Fundamental na Estabilização Global
 date: 2024-02-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

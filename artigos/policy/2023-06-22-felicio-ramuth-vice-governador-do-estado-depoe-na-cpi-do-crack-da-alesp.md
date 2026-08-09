@@ -2,7 +2,7 @@
 title: Felício Ramuth, vice-governador do Estado, depõe na CPI do Crack da Alesp
 date: 2023-06-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

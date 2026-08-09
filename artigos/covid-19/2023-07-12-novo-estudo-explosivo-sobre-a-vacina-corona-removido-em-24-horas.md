@@ -2,7 +2,7 @@
 title: Novo estudo explosivo sobre a vacina corona removido em 24 horas
 date: 2023-07-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

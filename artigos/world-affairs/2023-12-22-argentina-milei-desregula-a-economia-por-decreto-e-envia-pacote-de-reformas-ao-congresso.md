@@ -3,7 +3,7 @@ title: 'Argentina: Milei desregula a economia por decreto e envia pacote de refo
   ao Congresso'
 date: 2023-12-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

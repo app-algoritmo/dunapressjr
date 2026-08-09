@@ -2,7 +2,7 @@
 title: O incrível encolhimento da OTAN
 date: 2023-07-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

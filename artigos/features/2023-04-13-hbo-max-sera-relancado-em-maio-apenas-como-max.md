@@ -2,7 +2,7 @@
 title: "HBO Max será relançado em maio apenas como 'Max'"
 date: 2023-04-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

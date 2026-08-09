@@ -3,7 +3,7 @@ title: Buscamos o máximo benefício para os paraguaios, diz Peña sobre negocia
   com o Brasil
 date: 2024-01-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

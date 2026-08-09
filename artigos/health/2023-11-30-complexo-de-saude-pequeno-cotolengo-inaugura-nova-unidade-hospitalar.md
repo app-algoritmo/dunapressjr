@@ -2,7 +2,7 @@
 title: "Complexo de Saúde Pequeno Cotolengo inaugura nova Unidade Hospitalar"
 date: 2023-11-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

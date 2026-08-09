@@ -2,7 +2,7 @@
 title: Policiais federais prendem dois suspeitos de planejar atos terroristas
 date: 2023-11-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

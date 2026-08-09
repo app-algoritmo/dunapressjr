@@ -2,7 +2,7 @@
 title: 'Historiador francês: a Terceira Guerra Mundial já começou'
 date: 2023-02-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

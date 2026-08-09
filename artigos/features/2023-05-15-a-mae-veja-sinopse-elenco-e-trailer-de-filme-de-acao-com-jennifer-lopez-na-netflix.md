@@ -2,7 +2,7 @@
 title: "A Mãe: veja sinopse, elenco e trailer de filme de ação com Jennifer Lopez na Netflix"
 date: 2023-05-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

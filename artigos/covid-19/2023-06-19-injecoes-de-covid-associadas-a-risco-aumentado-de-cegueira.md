@@ -2,7 +2,7 @@
 title: Injeções de COVID associadas a risco aumentado de cegueira
 date: 2023-06-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

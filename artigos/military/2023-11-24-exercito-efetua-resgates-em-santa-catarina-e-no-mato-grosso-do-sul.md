@@ -2,7 +2,7 @@
 title: Exército efetua resgates em Santa Catarina e no Mato Grosso do Sul
 date: 2023-11-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

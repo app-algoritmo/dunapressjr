@@ -3,7 +3,7 @@ title: 'Ex-vice-presidente da Pfizer: Existe um plano para matar milhões, senã
   de pessoas'
 date: 2023-05-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

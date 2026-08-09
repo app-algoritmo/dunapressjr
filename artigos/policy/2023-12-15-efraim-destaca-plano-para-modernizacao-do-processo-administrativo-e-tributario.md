@@ -2,7 +2,7 @@
 title: Efraim destaca plano para modernização do processo administrativo e tributário
 date: 2023-12-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

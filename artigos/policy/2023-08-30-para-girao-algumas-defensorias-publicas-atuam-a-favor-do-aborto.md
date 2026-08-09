@@ -2,7 +2,7 @@
 title: Para Girão, algumas defensorias públicas atuam 'a favor do aborto'
 date: 2023-08-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: "Parceria IEE e SESC capacita 750 educadores do litoral sul paulista para atender crianças neuroatípicas"
 date: 2024-05-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

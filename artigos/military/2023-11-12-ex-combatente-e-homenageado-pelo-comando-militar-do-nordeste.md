@@ -2,7 +2,7 @@
 title: Ex-combatente é homenageado pelo Comando Militar do Nordeste
 date: 2023-11-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

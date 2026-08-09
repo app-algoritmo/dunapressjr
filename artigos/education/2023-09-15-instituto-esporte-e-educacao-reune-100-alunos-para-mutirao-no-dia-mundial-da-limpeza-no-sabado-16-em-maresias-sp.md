@@ -2,7 +2,7 @@
 title: "Instituto Esporte e Educação reúne 100 alunos para mutirão no Dia Mundial da Limpeza, no sábado (16), em Maresias (SP)"
 date: 2023-09-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

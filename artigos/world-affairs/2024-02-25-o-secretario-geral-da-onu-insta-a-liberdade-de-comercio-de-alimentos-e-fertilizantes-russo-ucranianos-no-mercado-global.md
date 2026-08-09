@@ -3,7 +3,7 @@ title: O Secretário-Geral da ONU insta à Liberdade de Comércio de Alimentos e
   Russo-Ucranianos no Mercado Global
 date: 2024-02-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Lira assume comando do grupo de presidentes de parlamentos do G-20
 date: 2023-10-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

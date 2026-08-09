@@ -2,7 +2,7 @@
 title: Os Detalhes Ocultos do Incêndio em Maui
 date: 2023-08-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

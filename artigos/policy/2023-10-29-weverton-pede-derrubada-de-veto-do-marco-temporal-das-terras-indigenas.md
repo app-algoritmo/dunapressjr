@@ -2,7 +2,7 @@
 title: Weverton pede derrubada de veto do marco temporal das terras indígenas
 date: 2023-10-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

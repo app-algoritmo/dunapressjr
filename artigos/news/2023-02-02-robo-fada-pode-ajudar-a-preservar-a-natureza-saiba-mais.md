@@ -2,7 +2,7 @@
 title: "Robô-fada pode ajudar a preservar a natureza; saiba mais"
 date: 2023-02-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Technology

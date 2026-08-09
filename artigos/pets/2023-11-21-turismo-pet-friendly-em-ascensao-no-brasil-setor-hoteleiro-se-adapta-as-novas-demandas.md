@@ -2,7 +2,7 @@
 title: "Turismo pet friendly em ascensão no Brasil: setor hoteleiro se adapta às novas demandas"
 date: 2023-11-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Pets
 ---

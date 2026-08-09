@@ -2,7 +2,7 @@
 title: 'Parceria Sino-Russa: Uma Escolha Estratégica Baseada nos Interesses Fundamentais'
 date: 2024-03-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: Declínio alarmante nas relações sociais e aumento do isolamento
 date: 2023-06-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

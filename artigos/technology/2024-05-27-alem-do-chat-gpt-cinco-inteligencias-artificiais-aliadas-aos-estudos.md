@@ -2,7 +2,7 @@
 title: "Além do Chat GPT: cinco inteligências artificiais aliadas aos estudos"
 date: 2024-05-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Technology
 ---

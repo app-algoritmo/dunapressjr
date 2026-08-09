@@ -3,7 +3,7 @@ title: O Japão agora está usando a tecnologia de 'detecção comportamental' p
   o crime com antecedência
 date: 2023-07-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Medvedev levanta espectro da Polônia usando armas nucleares
 date: 2023-07-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

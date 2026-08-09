@@ -2,7 +2,7 @@
 title: Quem pode dar garantias de segurança à Ucrânia?
 date: 2023-07-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

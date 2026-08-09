@@ -2,7 +2,7 @@
 title: "Luisa Stefani estreia nesta quinta-feira em Indian Wells"
 date: 2024-03-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

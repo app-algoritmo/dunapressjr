@@ -2,7 +2,7 @@
 title: A guerra por procuração ucraniana é um desastre total para os EUA/OTAN
 date: 2023-07-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

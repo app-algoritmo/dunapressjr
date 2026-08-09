@@ -3,7 +3,7 @@ title: 'Julgamento de Paivi Rasanen: Defesa da Liberdade de Expressão e Religi�
   Finlândia'
 date: 2024-06-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

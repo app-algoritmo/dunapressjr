@@ -3,7 +3,7 @@ title: Educação de SP divulga regra de Provão Paulista que dá acesso a unive
   estaduais
 date: 2023-10-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

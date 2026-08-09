@@ -2,7 +2,7 @@
 title: "Aprende Brasil Educação vence prêmio Top Educação pela 10ª vez e é sistema de ensino para rede pública mais lembrado do país"
 date: 2023-09-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

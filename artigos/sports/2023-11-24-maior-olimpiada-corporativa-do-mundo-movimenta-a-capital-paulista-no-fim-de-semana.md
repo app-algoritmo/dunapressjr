@@ -2,7 +2,7 @@
 title: "Maior olimpíada corporativa do mundo movimenta a capital paulista no fim de semana"
 date: 2023-11-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

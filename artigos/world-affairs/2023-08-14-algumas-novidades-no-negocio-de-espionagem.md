@@ -2,7 +2,7 @@
 title: Algumas novidades no negócio de espionagem
 date: 2023-08-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

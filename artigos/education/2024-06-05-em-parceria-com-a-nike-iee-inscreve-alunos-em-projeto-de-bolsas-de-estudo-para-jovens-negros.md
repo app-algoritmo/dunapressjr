@@ -2,7 +2,7 @@
 title: "Em parceria com a Nike, IEE inscreve alunos em projeto de bolsas de estudo para jovens negros"
 date: 2024-06-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

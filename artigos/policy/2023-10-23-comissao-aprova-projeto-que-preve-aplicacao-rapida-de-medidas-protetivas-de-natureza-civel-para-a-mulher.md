@@ -3,7 +3,7 @@ title: Comissão aprova projeto que prevê aplicação rápida de medidas protet
   natureza cível para a mulher
 date: 2023-10-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

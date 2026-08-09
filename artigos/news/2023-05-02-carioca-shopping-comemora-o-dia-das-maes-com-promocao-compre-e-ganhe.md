@@ -2,7 +2,7 @@
 title: "Carioca Shopping comemora o Dia das Mães com promoção Compre e Ganhe"
 date: 2023-05-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

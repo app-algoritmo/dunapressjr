@@ -2,7 +2,7 @@
 title: "Cuidados com crianças nas férias devem ser dobrados, afirma especialista"
 date: 2023-12-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

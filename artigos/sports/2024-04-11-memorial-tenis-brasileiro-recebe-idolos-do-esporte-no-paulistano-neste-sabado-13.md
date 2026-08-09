@@ -2,7 +2,7 @@
 title: "Memorial Tênis Brasileiro recebe ídolos do esporte no Paulistano, neste sábado (13)"
 date: 2024-04-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

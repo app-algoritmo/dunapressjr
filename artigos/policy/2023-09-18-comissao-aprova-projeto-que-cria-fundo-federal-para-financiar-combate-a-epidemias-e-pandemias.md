@@ -3,7 +3,7 @@ title: Comissão aprova projeto que cria fundo federal para financiar combate a 
   e pandemias
 date: 2023-09-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

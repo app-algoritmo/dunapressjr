@@ -2,7 +2,7 @@
 title: "Shimano Fest transforma São Paulo na capital da bike na América Latina neste mês"
 date: 2023-08-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

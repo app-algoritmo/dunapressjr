@@ -2,7 +2,7 @@
 title: "SUVs representam 46% das vendas de automóveis no Brasil"
 date: 2023-09-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Global Economy
 ---

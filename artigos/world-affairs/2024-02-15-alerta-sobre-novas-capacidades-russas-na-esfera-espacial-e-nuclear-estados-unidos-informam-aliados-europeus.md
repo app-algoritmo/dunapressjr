@@ -3,7 +3,7 @@ title: 'Alerta sobre Novas Capacidades Russas na Esfera Espacial e Nuclear: Esta
   Unidos Informam Aliados Europeus'
 date: 2024-02-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

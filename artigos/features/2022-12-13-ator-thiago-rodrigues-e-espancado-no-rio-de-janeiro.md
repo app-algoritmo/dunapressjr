@@ -2,7 +2,7 @@
 title: "Ator Thiago Rodrigues é espancado no Rio de Janeiro"
 date: 2022-12-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

@@ -2,7 +2,7 @@
 title: "Caxias Shopping recebe campeonato de futebol de mesa: participe e concorra a prêmios!"
 date: 2023-07-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Soccer

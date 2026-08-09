@@ -3,7 +3,7 @@ title: Donald Trump Ordenado a Pagar Multa de 355 Milhões de Dólares por Fraud
   em Nova Iorque
 date: 2024-02-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

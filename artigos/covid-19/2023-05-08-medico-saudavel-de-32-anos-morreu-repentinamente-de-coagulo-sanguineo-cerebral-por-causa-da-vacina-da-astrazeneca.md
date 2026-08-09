@@ -3,7 +3,7 @@ title: Médico saudável de 32 anos morreu repentinamente de coágulo sanguíneo
   por causa da vacina da AstraZeneca
 date: 2023-05-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

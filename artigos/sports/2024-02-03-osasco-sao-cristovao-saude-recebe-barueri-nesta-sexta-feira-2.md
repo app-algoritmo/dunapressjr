@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde recebe Barueri nesta sexta-feira (2)"
 date: 2024-02-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

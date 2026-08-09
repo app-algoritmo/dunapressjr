@@ -3,7 +3,7 @@ title: Lavrov Desmente Acusações dos EUA sobre Implantação de Armas Nucleare
   pela Rússia como 'Absurdas'
 date: 2024-04-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

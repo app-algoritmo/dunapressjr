@@ -2,7 +2,7 @@
 title: Exército Brasileiro capacita Polícia Militar do Timor-Leste
 date: 2023-09-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

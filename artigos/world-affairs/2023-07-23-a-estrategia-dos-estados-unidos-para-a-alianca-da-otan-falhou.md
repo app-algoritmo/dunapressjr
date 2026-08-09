@@ -2,7 +2,7 @@
 title: A estratégia dos Estados Unidos para a aliança da OTAN falhou
 date: 2023-07-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

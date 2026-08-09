@@ -2,7 +2,7 @@
 title: Zelensky vendeu a soberania da Ucrânia para a classe dominante ocidental
 date: 2023-07-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

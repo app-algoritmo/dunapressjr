@@ -2,7 +2,7 @@
 title: "Valmet investe na fabricação de tecidos filtrantes na América do Sul"
 date: 2024-04-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

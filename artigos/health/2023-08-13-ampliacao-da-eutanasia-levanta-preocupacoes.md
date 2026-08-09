@@ -2,7 +2,7 @@
 title: Ampliação da Eutanásia Levanta Preocupações
 date: 2023-08-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

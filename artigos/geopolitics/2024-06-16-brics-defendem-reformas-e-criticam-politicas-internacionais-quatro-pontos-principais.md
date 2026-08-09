@@ -3,7 +3,7 @@ title: 'BRICS Defendem Reformas e Criticam Políticas Internacionais: Quatro Pon
   Principais'
 date: 2024-06-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

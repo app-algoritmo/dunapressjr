@@ -2,7 +2,7 @@
 title: Exército homenageia paraquedistas que completaram 50 e 25 anos de formados
 date: 2023-12-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

@@ -2,7 +2,7 @@
 title: Estudo sobre máscaras demonstra erro científico
 date: 2023-08-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

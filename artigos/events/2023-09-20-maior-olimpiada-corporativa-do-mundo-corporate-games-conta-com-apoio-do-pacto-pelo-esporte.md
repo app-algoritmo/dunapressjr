@@ -2,7 +2,7 @@
 title: "Maior olimpíada corporativa do mundo, Corporate Games conta com apoio do Pacto pelo Esporte"
 date: 2023-09-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Sports

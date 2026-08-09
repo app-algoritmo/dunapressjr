@@ -2,7 +2,7 @@
 title: "André Baran é convocado para a Copa do Mundo de Beach Tennis, em dezembro"
 date: 2023-10-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

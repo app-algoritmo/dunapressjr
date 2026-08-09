@@ -2,7 +2,7 @@
 title: "Instituto Esporte e Educação promove impactos positivos com práticas alinhadas aos ODS da ONU"
 date: 2023-11-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

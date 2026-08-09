@@ -3,7 +3,7 @@ title: Tribunal argentino rejeita recurso e confirma continuidade de investigaç
   contra Cristina Kirchner
 date: 2024-02-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

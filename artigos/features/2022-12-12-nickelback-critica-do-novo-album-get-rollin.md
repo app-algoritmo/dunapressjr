@@ -2,7 +2,7 @@
 title: "Nickelback | Crítica do novo álbum 'Get Rollin'."
 date: 2022-12-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

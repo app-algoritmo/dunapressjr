@@ -2,7 +2,7 @@
 title: 'Aumento Alarmante: Mesquitas Clandestinas em Roma Quase Dobram em uma Década'
 date: 2024-04-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

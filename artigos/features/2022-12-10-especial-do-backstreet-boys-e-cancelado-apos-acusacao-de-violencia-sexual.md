@@ -2,7 +2,7 @@
 title: "Especial do Backstreet Boys é cancelado após acusação de violência sexual"
 date: 2022-12-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

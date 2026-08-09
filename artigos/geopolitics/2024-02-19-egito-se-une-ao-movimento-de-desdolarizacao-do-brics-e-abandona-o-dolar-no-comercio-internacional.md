@@ -3,7 +3,7 @@ title: Egito se Une ao Movimento de Desdolarização do BRICS e Abandona o Dóla
   Comércio Internacional
 date: 2024-02-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

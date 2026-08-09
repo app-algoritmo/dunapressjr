@@ -3,7 +3,7 @@ title: Florida rejeita mandatos de máscaras e bloqueios após relatório do gra
   estadual
 date: 2024-02-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

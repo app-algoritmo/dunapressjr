@@ -3,7 +3,7 @@ title: Jatos da Força Aérea Israelense realizam mais ataques contra postos ava
   do Hezbollah no sul do Líbano
 date: 2024-01-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

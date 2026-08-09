@@ -3,7 +3,7 @@ title: Erdogan sinaliza que a Turquia está pronta para revigorar a mediação n
   sobre acordos na Ucrânia
 date: 2023-12-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

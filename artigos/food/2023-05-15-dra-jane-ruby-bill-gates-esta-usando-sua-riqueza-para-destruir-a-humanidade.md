@@ -2,7 +2,7 @@
 title: 'Dra. Jane Ruby: Bill Gates está usando sua riqueza para destruir a humanidade'
 date: 2023-05-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

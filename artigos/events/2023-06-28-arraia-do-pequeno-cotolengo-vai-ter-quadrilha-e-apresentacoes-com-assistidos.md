@@ -2,7 +2,7 @@
 title: "Arraiá do Pequeno Cotolengo vai ter quadrilha e apresentações com Assistidos"
 date: 2023-06-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

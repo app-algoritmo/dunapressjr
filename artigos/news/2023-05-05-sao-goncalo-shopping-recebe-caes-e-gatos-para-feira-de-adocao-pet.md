@@ -2,7 +2,7 @@
 title: "São Gonçalo Shopping recebe cães e gatos para Feira de Adoção PET"
 date: 2023-05-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Pets

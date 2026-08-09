@@ -2,7 +2,7 @@
 title: "Em breve nos cinemas | ‘Morte no Nilo’, filme que adapta livro de Agatha Christie"
 date: 2020-08-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
 ---

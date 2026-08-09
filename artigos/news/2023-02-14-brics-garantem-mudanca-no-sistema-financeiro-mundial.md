@@ -2,7 +2,7 @@
 title: BRICS garantem mudança no sistema financeiro mundial
 date: 2023-02-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

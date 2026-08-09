@@ -2,7 +2,7 @@
 title: EUA 'caçam' especialistas em armas biológicas que escaparam da Ucrânia
 date: 2023-04-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

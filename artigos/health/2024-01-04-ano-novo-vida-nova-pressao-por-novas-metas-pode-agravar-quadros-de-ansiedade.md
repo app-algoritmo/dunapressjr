@@ -2,7 +2,7 @@
 title: "Ano novo, vida nova: pressão por novas metas pode agravar quadros de ansiedade"
 date: 2024-01-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

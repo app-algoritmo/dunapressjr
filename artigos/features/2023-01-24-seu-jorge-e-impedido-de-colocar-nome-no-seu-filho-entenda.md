@@ -2,7 +2,7 @@
 title: "Seu Jorge é impedido de colocar nome no seu filho, entenda"
 date: 2023-01-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

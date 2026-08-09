@@ -2,7 +2,7 @@
 title: '''Catástrofe'': Putin sobre a situação na Faixa de Gaza'
 date: 2023-12-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

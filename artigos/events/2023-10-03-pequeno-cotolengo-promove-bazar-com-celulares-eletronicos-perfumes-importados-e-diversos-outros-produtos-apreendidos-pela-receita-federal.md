@@ -2,7 +2,7 @@
 title: "Pequeno Cotolengo promove Bazar com celulares, eletrônicos, perfumes importados e diversos outros produtos apreendidos pela Receita Federal"
 date: 2023-10-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Health

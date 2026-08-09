@@ -2,7 +2,7 @@
 title: Relatório revela a aplicação de até '40 tipos de tortura' na Nicarágua
 date: 2023-06-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

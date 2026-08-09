@@ -3,7 +3,7 @@ title: 'A Distopia de 1984 e os Paradoxos do Presente: Um Olhar Crítico sobre a
   Atual'
 date: 2024-05-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Opinion
 ---

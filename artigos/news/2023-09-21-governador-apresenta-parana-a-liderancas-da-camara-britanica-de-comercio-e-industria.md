@@ -3,7 +3,7 @@ title: Governador apresenta Paraná a lideranças da Câmara Britânica de Comé
   Indústria
 date: 2023-09-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

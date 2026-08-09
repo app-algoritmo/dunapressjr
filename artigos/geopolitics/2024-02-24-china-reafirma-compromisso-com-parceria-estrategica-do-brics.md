@@ -2,7 +2,7 @@
 title: China reafirma compromisso com parceria estratégica do BRICS
 date: 2024-02-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

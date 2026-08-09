@@ -2,7 +2,7 @@
 title: "A bicampeã mundial Luna Hardman disputa Brasileiro de Bodyboading em Niterói (RJ)"
 date: 2024-06-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

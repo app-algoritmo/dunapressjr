@@ -3,7 +3,7 @@ title: Adolescente de 16 anos preso na França por suspeita de planejar ataque d
   os Jogos Olímpicos de Paris
 date: 2024-04-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

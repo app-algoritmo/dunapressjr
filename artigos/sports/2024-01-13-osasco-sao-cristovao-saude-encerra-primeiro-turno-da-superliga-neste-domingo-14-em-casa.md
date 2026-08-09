@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde encerra primeiro turno da Superliga neste domingo (14), em casa"
 date: 2024-01-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

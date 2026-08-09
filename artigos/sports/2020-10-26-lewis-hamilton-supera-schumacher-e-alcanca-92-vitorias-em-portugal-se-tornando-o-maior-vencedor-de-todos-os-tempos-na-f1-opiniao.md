@@ -2,7 +2,7 @@
 title: "Lewis Hamilton supera Schumacher e alcança 92 vitórias em Portugal, se tornando o maior vencedor de todos os tempos na F1| Opinião"
 date: 2020-10-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

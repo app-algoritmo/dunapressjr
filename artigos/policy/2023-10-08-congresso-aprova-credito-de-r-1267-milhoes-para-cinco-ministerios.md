@@ -2,7 +2,7 @@
 title: Congresso aprova crédito de R$ 126,7 milhões para cinco ministérios
 date: 2023-10-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

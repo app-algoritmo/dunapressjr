@@ -2,7 +2,7 @@
 title: "Luisa Stefani estreia com vitória no WTA 500 de Estrasburgo"
 date: 2024-05-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

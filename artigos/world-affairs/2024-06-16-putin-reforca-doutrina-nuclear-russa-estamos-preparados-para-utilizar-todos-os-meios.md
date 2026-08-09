@@ -3,7 +3,7 @@ title: 'Putin Reforça Doutrina Nuclear Russa: ''Estamos Preparados para Utiliza
   os Meios'''
 date: 2024-06-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

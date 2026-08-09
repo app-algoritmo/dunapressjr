@@ -3,7 +3,7 @@ title: Comissão aprova projeto que veda aplicação de circunstância atenuante
   crime de violência sexual
 date: 2023-08-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

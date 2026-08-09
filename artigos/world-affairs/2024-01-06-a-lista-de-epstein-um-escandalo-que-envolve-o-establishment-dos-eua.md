@@ -2,7 +2,7 @@
 title: 'A lista de Epstein: um escândalo que envolve o establishment dos EUA'
 date: 2024-01-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

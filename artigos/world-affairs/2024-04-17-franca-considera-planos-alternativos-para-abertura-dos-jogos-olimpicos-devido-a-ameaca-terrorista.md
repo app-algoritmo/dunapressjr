@@ -3,7 +3,7 @@ title: França Considera Planos Alternativos para Abertura dos Jogos Olímpicos 
   a Ameaça Terrorista
 date: 2024-04-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

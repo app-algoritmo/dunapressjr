@@ -3,7 +3,7 @@ title: A Pfizer financiou um projeto de “mudança de comportamento” do CDC q
   críticos das vacinas
 date: 2023-04-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

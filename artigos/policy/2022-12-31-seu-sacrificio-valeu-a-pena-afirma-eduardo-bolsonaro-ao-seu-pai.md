@@ -2,7 +2,7 @@
 title: “Seu sacrifício valeu a pena”, afirma Eduardo Bolsonaro ao seu pai
 date: 2022-12-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

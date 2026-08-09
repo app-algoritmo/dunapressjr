@@ -2,7 +2,7 @@
 title: Se Lula insistir nos ataques, Temer promete “falar verdades”, diz Jornalista
 date: 2023-01-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

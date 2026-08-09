@@ -2,7 +2,7 @@
 title: "'Turistando' pelo Paraná: dicas de passeios para aproveitar o último feriado prolongado do ano"
 date: 2024-05-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Tourism and Gastronomy
 ---

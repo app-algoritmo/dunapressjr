@@ -2,7 +2,7 @@
 title: "“ANIMAL NA CONTRAMÃO”: Uma jornada teatral que rompe barreiras e inspira consciências"
 date: 2023-08-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

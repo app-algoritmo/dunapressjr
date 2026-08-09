@@ -2,7 +2,7 @@
 title: "Grupo Marista investe em pessoas e projetos para ampliar impacto social"
 date: 2023-09-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Business and Economy
   - Education

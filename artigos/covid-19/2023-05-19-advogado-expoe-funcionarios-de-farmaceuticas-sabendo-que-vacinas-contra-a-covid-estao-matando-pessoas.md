@@ -3,7 +3,7 @@ title: Advogado expõe funcionários de farmacêuticas sabendo que 'vacinas cont
   Covid' estão matando pessoas
 date: 2023-05-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

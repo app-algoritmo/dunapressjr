@@ -2,7 +2,7 @@
 title: "Minuto a minuto: entenda como bebidas energéticas agem no organismo"
 date: 2024-02-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

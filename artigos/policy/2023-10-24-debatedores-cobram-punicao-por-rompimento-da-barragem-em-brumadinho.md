@@ -2,7 +2,7 @@
 title: Debatedores cobram punição por rompimento da barragem em Brumadinho
 date: 2023-10-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

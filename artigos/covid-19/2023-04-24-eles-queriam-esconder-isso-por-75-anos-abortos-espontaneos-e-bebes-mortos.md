@@ -2,7 +2,7 @@
 title: 'Eles queriam esconder isso por 75 anos: abortos espontâneos e bebês mortos'
 date: 2023-04-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 - Health

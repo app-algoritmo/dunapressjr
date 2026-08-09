@@ -2,7 +2,7 @@
 title: Lira defende reforma administrativa e quer atenção do governo para o tema
 date: 2023-08-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

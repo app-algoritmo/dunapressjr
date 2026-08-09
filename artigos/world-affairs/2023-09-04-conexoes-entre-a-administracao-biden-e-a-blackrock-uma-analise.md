@@ -2,7 +2,7 @@
 title: 'Conexões entre a administração Biden e a BlackRock: Uma análise'
 date: 2023-09-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

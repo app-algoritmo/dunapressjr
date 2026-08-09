@@ -2,7 +2,7 @@
 title: O governo dos EUA está preparando seus cidadãos para um ataque nuclear?
 date: 2023-08-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

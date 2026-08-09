@@ -2,7 +2,7 @@
 title: "Wine Run une corrida com cultura do vinho no Caminhos de Pedra, na Serra Gaúcha, em novembro"
 date: 2023-08-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Sports

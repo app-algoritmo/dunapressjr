@@ -2,7 +2,7 @@
 title: 'Especialista: “Vemos câncer turbo após vacinação com mRNA'''
 date: 2023-03-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

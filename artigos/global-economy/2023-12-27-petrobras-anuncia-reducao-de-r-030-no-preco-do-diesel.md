@@ -2,7 +2,7 @@
 title: Petrobras anuncia redução de R$ 0,30 no preço do diesel
 date: 2023-12-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Global Economy
 ---

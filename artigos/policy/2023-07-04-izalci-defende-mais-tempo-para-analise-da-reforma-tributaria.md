@@ -2,7 +2,7 @@
 title: Izalci defende mais tempo para análise da reforma tributária
 date: 2023-07-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

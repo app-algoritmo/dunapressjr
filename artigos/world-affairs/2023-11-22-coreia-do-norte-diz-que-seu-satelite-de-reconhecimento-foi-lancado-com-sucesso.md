@@ -2,7 +2,7 @@
 title: Coreia do Norte diz que seu satélite de reconhecimento foi lançado com sucesso
 date: 2023-11-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

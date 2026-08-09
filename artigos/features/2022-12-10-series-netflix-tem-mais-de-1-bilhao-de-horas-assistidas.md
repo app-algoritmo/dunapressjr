@@ -2,7 +2,7 @@
 title: "Séries Netflix tem mais de 1 bilhão de horas assistidas"
 date: 2022-12-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - Story

@@ -3,7 +3,7 @@ title: Prontidão dos EUA para “negociar seriamente” é a chave para superar
   afirmou diplomata russo
 date: 2023-11-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

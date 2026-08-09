@@ -2,7 +2,7 @@
 title: Republicanos dizem que Obama estava ciente dos negócios da família Biden
 date: 2023-06-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

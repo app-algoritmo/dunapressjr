@@ -2,7 +2,7 @@
 title: "MSA Spa lança pacote especial para o Dia dos Namorados"
 date: 2023-05-31
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Beauty
 ---

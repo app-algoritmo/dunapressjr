@@ -2,7 +2,7 @@
 title: "O que é depressão e como combater essa doença?"
 date: 2022-08-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

@@ -2,7 +2,7 @@
 title: "Carnaval 2024: Salgueiro resgata história do povo Yanomami"
 date: 2024-02-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

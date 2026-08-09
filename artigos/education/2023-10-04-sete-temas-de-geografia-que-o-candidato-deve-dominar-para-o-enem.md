@@ -2,7 +2,7 @@
 title: "Sete temas de Geografia que o candidato deve dominar para o Enem"
 date: 2023-10-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

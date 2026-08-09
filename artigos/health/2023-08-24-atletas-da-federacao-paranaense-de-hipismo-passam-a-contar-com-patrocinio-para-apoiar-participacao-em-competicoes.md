@@ -2,7 +2,7 @@
 title: "Atletas da Federação Paranaense de Hipismo passam a contar com patrocínio para apoiar participação em competições"
 date: 2023-08-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
   - Sports

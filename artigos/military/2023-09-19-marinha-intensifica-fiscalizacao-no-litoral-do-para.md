@@ -2,7 +2,7 @@
 title: Marinha intensifica fiscalização no litoral do Pará
 date: 2023-09-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

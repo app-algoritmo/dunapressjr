@@ -2,7 +2,7 @@
 title: 'Girão: julgamento no STF dos acusados nos ataques do 8 de janeiro é político'
 date: 2023-09-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

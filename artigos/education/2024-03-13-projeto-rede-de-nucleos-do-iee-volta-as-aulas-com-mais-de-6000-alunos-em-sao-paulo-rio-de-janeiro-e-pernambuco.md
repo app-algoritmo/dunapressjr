@@ -2,7 +2,7 @@
 title: "Projeto Rede de Núcleos, do IEE, volta às aulas com mais de 6.000 alunos em São Paulo, Rio de Janeiro e Pernambuco"
 date: 2024-03-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

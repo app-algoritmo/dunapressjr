@@ -2,7 +2,7 @@
 title: 10 problemas com vacinas - e 10 soluções
 date: 2023-08-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

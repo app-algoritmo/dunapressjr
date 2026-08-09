@@ -2,7 +2,7 @@
 title: "21ª edição da Volta Ciclística de Goiás está confirmada para março"
 date: 2024-01-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

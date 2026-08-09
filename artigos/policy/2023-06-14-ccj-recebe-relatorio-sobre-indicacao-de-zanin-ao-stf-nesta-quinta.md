@@ -2,7 +2,7 @@
 title: CCJ recebe relatório sobre indicação de Zanin ao STF nesta quinta
 date: 2023-06-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

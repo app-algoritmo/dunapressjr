@@ -2,7 +2,7 @@
 title: "SÃO GONÇALO SHOPPING E HEMORIO PROMOVEM CAMPANHA DE DOAÇÃO DE SANGUE"
 date: 2023-06-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

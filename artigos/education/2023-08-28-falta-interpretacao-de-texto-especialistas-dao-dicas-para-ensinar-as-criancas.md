@@ -2,7 +2,7 @@
 title: "Falta interpretação de texto? Especialistas dão dicas para ensinar às crianças"
 date: 2023-08-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

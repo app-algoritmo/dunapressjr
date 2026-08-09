@@ -2,7 +2,7 @@
 title: SEALs da Marinha salvam crianças de traficantes de escravos sexuais infantis
 date: 2023-06-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Prefeitura de São Paulo vai processar Enel por falta de energia
 date: 2023-11-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Bolsonaro solicitou visto de turista nos EUA
 date: 2023-01-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

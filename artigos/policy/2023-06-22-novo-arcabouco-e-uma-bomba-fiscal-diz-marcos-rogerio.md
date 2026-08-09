@@ -2,7 +2,7 @@
 title: Novo arcabouço é uma 'bomba fiscal', diz Marcos Rogério
 date: 2023-06-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

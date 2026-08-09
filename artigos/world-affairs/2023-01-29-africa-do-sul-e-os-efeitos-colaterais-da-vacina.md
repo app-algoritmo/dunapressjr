@@ -2,7 +2,7 @@
 title: África do Sul e os efeitos colaterais da vacina
 date: 2023-01-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

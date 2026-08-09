@@ -2,7 +2,7 @@
 title: "Projeto Formações IEE chega a Itatiba e Jundiaí e beneficia cerca de 8 mil alunos neste mês de setembro"
 date: 2023-09-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

@@ -2,7 +2,7 @@
 title: "Thinking Digital e Cybersecurity Summit Rio 2024"
 date: 2024-06-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Technology

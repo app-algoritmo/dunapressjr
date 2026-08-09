@@ -2,7 +2,7 @@
 title: "Quatro dicas de decoração industrial em diversos espaços da casa"
 date: 2024-02-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

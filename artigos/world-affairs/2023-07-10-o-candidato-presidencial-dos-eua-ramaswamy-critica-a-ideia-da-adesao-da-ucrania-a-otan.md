@@ -3,7 +3,7 @@ title: O candidato presidencial dos EUA, Ramaswamy, critica a ideia da adesão d
   à OTAN
 date: 2023-07-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: "Bring Me The Horizon, estreia 'Kool-Aid' pelo Reino Unido e tem dueto com Noah Sebastian, do Bad Omens, no início da turnê."
 date: 2024-01-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Music
 ---

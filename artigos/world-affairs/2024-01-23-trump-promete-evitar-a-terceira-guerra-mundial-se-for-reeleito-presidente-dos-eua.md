@@ -3,7 +3,7 @@ title: Trump promete evitar a Terceira Guerra Mundial se for reeleito presidente
   EUA
 date: 2024-01-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

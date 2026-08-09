@@ -2,7 +2,7 @@
 title: 5 razões pelas quais grande parte do Sul Global não apoia o Ocidente na Ucrânia
 date: 2023-03-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

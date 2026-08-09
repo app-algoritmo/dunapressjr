@@ -2,7 +2,7 @@
 title: "Atividade física na infância: o que os pais precisam saber"
 date: 2023-10-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

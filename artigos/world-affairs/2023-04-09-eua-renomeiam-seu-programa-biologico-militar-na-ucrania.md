@@ -2,7 +2,7 @@
 title: EUA renomeiam seu programa biológico-militar na Ucrânia
 date: 2023-04-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

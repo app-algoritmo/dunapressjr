@@ -2,7 +2,7 @@
 title: "Menina de oito anos vence barreiras da epilepsia e da paralisia"
 date: 2024-03-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

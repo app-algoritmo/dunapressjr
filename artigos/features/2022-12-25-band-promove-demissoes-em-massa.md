@@ -2,7 +2,7 @@
 title: "Band promove demissões em massa"
 date: 2022-12-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

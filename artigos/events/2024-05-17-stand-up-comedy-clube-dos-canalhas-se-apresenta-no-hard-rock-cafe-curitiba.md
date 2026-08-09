@@ -2,7 +2,7 @@
 title: "Stand-up Comedy: Clube dos Canalhas se apresenta no Hard Rock Cafe Curitiba"
 date: 2024-05-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

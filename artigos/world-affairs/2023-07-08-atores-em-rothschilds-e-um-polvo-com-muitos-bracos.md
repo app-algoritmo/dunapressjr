@@ -2,7 +2,7 @@
 title: 'Atores em Rothschilds: “É um polvo com muitos braços'''
 date: 2023-07-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

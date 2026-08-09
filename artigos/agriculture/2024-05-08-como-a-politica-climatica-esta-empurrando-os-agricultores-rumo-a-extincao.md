@@ -2,7 +2,7 @@
 title: Como a Política Climática Está Empurrando os Agricultores Rumo à Extinção
 date: 2024-05-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Agriculture
 ---

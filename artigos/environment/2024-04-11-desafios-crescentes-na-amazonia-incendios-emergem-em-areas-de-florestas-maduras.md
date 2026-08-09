@@ -2,7 +2,7 @@
 title: 'Desafios Crescentes na Amazônia: Incêndios Emergem em Áreas de Florestas Maduras'
 date: 2024-04-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Environment
 ---

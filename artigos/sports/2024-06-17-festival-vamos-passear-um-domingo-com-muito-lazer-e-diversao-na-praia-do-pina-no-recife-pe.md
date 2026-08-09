@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear: um domingo com muito lazer e diversão na Praia do Pina, no Recife (PE)"
 date: 2024-06-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

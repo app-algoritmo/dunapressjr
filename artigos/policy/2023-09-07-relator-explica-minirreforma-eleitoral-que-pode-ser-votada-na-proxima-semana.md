@@ -2,7 +2,7 @@
 title: Relator explica minirreforma eleitoral, que pode ser votada na próxima semana
 date: 2023-09-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: "Nova forma de desenvolvimento e prática da língua inglesa"
 date: 2023-03-31
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

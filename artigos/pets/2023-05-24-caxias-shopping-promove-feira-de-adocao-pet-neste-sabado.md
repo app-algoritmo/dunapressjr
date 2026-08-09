@@ -2,7 +2,7 @@
 title: "Caxias Shopping promove Feira de Adoção Pet neste sábado"
 date: 2023-05-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Pets
 ---

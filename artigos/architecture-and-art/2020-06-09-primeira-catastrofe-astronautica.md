@@ -2,7 +2,7 @@
 title: Primeira catástrofe astronáutica
 date: 2020-06-09
 status: publish
-author: Jessica Jaconetti
+author: "Jéssica Jaconetti"
 categories:
 - Architecture and Art
 ---

@@ -2,7 +2,7 @@
 title: As novas regras da ONU para o futuro governo mundial
 date: 2023-03-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Governador apresenta potenciais de Minas Gerais a empresários e autorida
   em Milão
 date: 2023-09-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

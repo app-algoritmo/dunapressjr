@@ -2,7 +2,7 @@
 title: "Segunda-feira é dia de baile dançante no Caxias Shopping"
 date: 2024-05-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Shopping
 ---

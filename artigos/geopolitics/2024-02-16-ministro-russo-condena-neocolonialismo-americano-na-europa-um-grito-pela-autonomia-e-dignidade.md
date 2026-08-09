@@ -3,7 +3,7 @@ title: 'Ministro Russo Condena Neocolonialismo Americano na Europa: Um Grito pel
   Autonomia e Dignidade'
 date: 2024-02-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

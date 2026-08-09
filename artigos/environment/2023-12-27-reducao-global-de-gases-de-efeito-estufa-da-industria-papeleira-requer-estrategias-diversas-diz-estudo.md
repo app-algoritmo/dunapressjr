@@ -3,7 +3,7 @@ title: Redução global de gases de efeito estufa da indústria papeleira requer
   diversas, diz estudo
 date: 2023-12-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Environment
 ---

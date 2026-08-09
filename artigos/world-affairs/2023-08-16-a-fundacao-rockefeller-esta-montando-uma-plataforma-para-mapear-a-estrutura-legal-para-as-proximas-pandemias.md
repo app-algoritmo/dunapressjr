@@ -3,7 +3,7 @@ title: A Fundação Rockefeller está montando uma plataforma para mapear a estr
   legal para as próximas pandemias
 date: 2023-08-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

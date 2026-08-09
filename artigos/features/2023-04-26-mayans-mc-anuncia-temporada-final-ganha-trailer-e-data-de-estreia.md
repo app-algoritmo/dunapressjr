@@ -2,7 +2,7 @@
 title: "Mayans M.C. anuncia temporada final ganha trailer e data de estreia"
 date: 2023-04-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

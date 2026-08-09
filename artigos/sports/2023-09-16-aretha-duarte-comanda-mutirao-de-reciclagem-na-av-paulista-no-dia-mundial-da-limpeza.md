@@ -2,7 +2,7 @@
 title: "Aretha Duarte comanda mutirão de reciclagem na Av. Paulista no Dia Mundial da Limpeza"
 date: 2023-09-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

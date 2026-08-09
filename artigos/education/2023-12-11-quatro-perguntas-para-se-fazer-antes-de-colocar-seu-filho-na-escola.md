@@ -2,7 +2,7 @@
 title: "Quatro perguntas para se fazer antes de colocar seu filho na escola"
 date: 2023-12-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

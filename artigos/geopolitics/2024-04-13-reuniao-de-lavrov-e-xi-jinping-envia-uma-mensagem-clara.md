@@ -2,7 +2,7 @@
 title: Reunião de Lavrov e Xi Jinping envia uma mensagem clara
 date: 2024-04-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

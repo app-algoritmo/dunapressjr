@@ -2,7 +2,7 @@
 title: Lula sanciona com vetos Projeto de Lei dos Agrotóxicos
 date: 2023-12-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Architecture and Art
 ---

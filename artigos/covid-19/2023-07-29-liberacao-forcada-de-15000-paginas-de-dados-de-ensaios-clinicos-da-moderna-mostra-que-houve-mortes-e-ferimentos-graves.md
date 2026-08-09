@@ -3,7 +3,7 @@ title: Liberação forçada de 15.000 páginas de dados de ensaios clínicos da 
   mostra que houve mortes e ferimentos graves
 date: 2023-07-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

@@ -3,7 +3,7 @@ title: Consultorias de Orçamento sugerem cautela sobre perspectiva de crescimen
   em projeto do governo
 date: 2023-10-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Global Economy
 ---

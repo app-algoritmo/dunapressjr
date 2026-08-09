@@ -2,7 +2,7 @@
 title: Putin elogia parceria estratégica privilegiada entre Rússia e Índia
 date: 2024-01-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

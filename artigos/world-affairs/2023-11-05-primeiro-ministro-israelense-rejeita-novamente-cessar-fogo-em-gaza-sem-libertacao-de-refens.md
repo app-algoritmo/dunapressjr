@@ -3,7 +3,7 @@ title: Primeiro-ministro israelense rejeita novamente cessar-fogo em Gaza sem li
   de reféns
 date: 2023-11-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

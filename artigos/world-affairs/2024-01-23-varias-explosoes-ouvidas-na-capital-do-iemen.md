@@ -2,7 +2,7 @@
 title: Várias explosões ouvidas na capital do Iêmen
 date: 2024-01-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

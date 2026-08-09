@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear 2024 chega a Salvador (BA) em junho, com Passeio de Bike, Caminhada e Corrida Kids"
 date: 2024-05-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

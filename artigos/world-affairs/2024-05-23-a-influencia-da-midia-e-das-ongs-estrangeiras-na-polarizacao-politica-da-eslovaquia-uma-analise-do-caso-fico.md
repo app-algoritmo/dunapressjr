@@ -3,7 +3,7 @@ title: 'A Influência da Mídia e das ONGs Estrangeiras na Polarização Políti
   Uma Análise do Caso Fico'
 date: 2024-05-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

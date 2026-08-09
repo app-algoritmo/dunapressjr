@@ -3,7 +3,7 @@ title: 'O que eles descobriram agora sobre as chamadas injeções de corona: ''P
   muito ruim'''
 date: 2023-07-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

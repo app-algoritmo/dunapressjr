@@ -2,7 +2,7 @@
 title: "Norris diz que a autoconfiança caiu na temporada de estreia da F1"
 date: 2023-01-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

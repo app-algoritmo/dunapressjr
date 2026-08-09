@@ -2,7 +2,7 @@
 title: "Apenas 1% das empresas brasileiras concedem licenças maternidade e paternidade estendidas"
 date: 2023-12-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

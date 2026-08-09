@@ -2,7 +2,7 @@
 title: 'China e Rússia Unem Forças Contra o Ocidente: Desafio ao Poder da OTAN'
 date: 2024-06-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

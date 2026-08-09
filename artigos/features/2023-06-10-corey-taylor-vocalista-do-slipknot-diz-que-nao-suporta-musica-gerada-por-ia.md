@@ -2,7 +2,7 @@
 title: "Corey Taylor, vocalista do Slipknot diz que “não suporta” música gerada por IA"
 date: 2023-06-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

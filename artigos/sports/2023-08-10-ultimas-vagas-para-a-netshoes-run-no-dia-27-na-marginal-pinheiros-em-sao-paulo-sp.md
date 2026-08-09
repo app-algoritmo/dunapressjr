@@ -2,7 +2,7 @@
 title: "Últimas vagas para a Netshoes Run, no dia 27, na Marginal Pinheiros, em São Paulo (SP)"
 date: 2023-08-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

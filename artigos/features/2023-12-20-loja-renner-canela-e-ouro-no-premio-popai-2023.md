@@ -2,7 +2,7 @@
 title: "Loja Renner Canela é ouro no Prêmio Popai 2023"
 date: 2023-12-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

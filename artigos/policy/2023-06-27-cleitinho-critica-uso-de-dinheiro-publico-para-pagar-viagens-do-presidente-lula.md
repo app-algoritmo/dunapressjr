@@ -3,7 +3,7 @@ title: Cleitinho critica uso de dinheiro público para pagar viagens do presiden
   Lula
 date: 2023-06-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

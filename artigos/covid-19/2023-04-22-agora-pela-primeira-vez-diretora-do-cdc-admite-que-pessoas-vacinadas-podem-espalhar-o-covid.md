@@ -3,7 +3,7 @@ title: Agora, pela primeira vez, diretora do CDC admite que pessoas vacinadas po
   espalhar o COVID
 date: 2023-04-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 - Health

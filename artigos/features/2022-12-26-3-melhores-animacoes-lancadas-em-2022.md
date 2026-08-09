@@ -2,7 +2,7 @@
 title: "3 melhores animações lançadas em 2022"
 date: 2022-12-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

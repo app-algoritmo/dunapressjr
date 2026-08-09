@@ -2,7 +2,7 @@
 title: 'Acordo nos EUA: Fronteira Sul, Financiamento Estrangeiro e Compromissos Questionáveis'
 date: 2024-02-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

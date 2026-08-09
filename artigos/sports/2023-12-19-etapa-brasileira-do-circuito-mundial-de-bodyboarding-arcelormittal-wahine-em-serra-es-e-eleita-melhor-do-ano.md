@@ -2,7 +2,7 @@
 title: "Etapa brasileira do Circuito Mundial de Bodyboarding, ArcelorMittal Wahine em Serra (ES), é eleita melhor do ano"
 date: 2023-12-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

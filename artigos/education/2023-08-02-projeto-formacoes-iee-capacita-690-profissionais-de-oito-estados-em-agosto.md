@@ -2,7 +2,7 @@
 title: "Projeto Formações IEE capacita 690 profissionais de oito estados em agosto"
 date: 2023-08-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

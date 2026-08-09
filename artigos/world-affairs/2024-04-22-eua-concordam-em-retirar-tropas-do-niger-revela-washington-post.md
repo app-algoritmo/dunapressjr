@@ -2,7 +2,7 @@
 title: EUA Concordam em Retirar Tropas do Níger, Revela Washington Post
 date: 2024-04-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

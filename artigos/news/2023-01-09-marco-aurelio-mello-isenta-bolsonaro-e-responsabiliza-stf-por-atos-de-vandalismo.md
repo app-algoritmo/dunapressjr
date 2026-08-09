@@ -2,7 +2,7 @@
 title: Marco Aurélio Mello isenta Bolsonaro e responsabiliza STF por atos de vandalismo
 date: 2023-01-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

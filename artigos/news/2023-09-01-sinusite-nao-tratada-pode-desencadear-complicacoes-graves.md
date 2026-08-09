@@ -2,7 +2,7 @@
 title: "Sinusite não tratada pode desencadear complicações graves"
 date: 2023-09-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

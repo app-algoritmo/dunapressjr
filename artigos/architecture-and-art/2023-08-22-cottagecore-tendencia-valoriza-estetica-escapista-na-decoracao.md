@@ -2,7 +2,7 @@
 title: "Cottagecore: tendência valoriza estética escapista na decoração"
 date: 2023-08-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
   - Lifestyle

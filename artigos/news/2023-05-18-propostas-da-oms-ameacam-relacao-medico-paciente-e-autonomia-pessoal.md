@@ -2,7 +2,7 @@
 title: Propostas da OMS ameaçam relação médico-paciente e autonomia pessoal
 date: 2023-05-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

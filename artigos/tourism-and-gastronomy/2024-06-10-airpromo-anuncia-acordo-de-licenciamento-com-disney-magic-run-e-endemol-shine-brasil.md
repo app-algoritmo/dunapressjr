@@ -2,7 +2,7 @@
 title: "AirPromo anuncia acordo de licenciamento com Disney Magic Run e Endemol Shine Brasil"
 date: 2024-06-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Tourism and Gastronomy
 ---

@@ -3,7 +3,7 @@ title: Autoridades europeias querem que crianças menores de 5 anos sejam vacina
   contra a Covid
 date: 2023-06-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

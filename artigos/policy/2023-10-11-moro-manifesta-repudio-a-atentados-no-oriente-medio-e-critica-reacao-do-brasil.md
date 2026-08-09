@@ -2,7 +2,7 @@
 title: Moro manifesta repúdio a atentados no Oriente Médio e critica reação do Brasil
 date: 2023-10-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

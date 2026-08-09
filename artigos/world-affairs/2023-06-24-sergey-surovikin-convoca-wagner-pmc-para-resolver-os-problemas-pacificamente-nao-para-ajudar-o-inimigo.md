@@ -3,7 +3,7 @@ title: Sergey Surovikin convoca Wagner PMC para resolver os problemas pacificame
   não para ajudar o inimigo
 date: 2023-06-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

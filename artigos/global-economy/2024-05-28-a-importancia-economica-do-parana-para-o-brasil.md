@@ -2,7 +2,7 @@
 title: A Importância Econômica do Paraná para o Brasil
 date: 2024-05-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Global Economy
 ---

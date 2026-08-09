@@ -2,7 +2,7 @@
 title: Pontes sai em defesa de Marcos do Val e critica decisão do STF
 date: 2023-06-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

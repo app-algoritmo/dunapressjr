@@ -2,7 +2,7 @@
 title: "Wine Run Brasil une corrida e cultura do vinho, em sua 11ª edição no Vale dos Vinhedos, na Serra Gaúcha"
 date: 2024-04-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Sports

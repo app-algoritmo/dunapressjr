@@ -2,7 +2,7 @@
 title: Tantas pessoas 'morreram repentinamente' ultimamente, o que está acontecendo?
 date: 2023-02-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

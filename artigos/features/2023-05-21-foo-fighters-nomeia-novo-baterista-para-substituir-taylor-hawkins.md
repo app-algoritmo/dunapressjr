@@ -2,7 +2,7 @@
 title: "Foo Fighters nomeia novo baterista para substituir Taylor Hawkins"
 date: 2023-05-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

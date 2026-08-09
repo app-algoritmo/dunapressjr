@@ -3,7 +3,7 @@ title: Secretaria de Segurança Pública lança operação para intensificar pol
   em Curitiba
 date: 2023-09-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

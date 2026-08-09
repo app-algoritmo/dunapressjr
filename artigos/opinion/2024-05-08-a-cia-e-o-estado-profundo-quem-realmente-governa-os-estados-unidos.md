@@ -2,7 +2,7 @@
 title: 'A CIA e o Estado Profundo: Quem Realmente Governa os Estados Unidos?'
 date: 2024-05-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Opinion
 ---

@@ -2,7 +2,7 @@
 title: "F1: Quando as equipes apresentarão seus novos carros para 2023? Confira"
 date: 2023-02-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Sports

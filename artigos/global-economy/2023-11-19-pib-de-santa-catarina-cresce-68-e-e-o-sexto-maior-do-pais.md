@@ -2,7 +2,7 @@
 title: PIB de Santa Catarina cresce 6,8% e é o sexto maior do país
 date: 2023-11-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Global Economy
 ---

@@ -3,7 +3,7 @@ title: Lira defende ampliar turismo sustentável para geração de empregos e pr
   ambiental
 date: 2023-12-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

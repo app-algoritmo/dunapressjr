@@ -2,7 +2,7 @@
 title: Nova Tecnologia Permite Pagamentos com Scanner Ocular Biométrico
 date: 2024-06-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Technology
 ---

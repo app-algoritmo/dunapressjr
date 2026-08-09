@@ -2,7 +2,7 @@
 title: "Mesmo à distância, Etiene Medeiros participa da abertura do Festival IEM de Natação, neste sábado (21)"
 date: 2023-10-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Swimming

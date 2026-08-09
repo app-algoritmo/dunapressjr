@@ -3,7 +3,7 @@ title: A linha de frente na Ucrânia é puro “horror. Genocídio e matança”
   “Rambo”
 date: 2023-07-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

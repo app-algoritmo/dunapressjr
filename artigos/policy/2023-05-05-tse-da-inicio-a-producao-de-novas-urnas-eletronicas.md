@@ -2,7 +2,7 @@
 title: TSE dá início à produção de novas urnas eletrônicas
 date: 2023-05-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

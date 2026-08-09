@@ -2,7 +2,7 @@
 title: "Gympass é patrocinador gold do Corporate Games, maior olimpíada corporativa e de Team Building do mundo"
 date: 2023-09-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Sports

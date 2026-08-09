@@ -2,7 +2,7 @@
 title: "Carioca Shopping amplia espaço coworking"
 date: 2023-07-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

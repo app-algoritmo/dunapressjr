@@ -2,7 +2,7 @@
 title: "Mortal Kombat 1 revela data de lançamento e contará com Jean-Claude Van Damme. Assista o Trailer."
 date: 2023-05-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

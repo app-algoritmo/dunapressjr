@@ -2,7 +2,7 @@
 title: "QR Code revela 'interior das paredes' dos apartamentos e facilita manutenção"
 date: 2023-11-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

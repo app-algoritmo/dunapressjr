@@ -2,7 +2,7 @@
 title: "O que já sabemos sobre a quinta temporada de Stranger Things"
 date: 2022-12-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

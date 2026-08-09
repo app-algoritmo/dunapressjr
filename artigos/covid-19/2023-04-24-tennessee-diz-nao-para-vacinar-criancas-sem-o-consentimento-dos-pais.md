@@ -2,7 +2,7 @@
 title: Tennessee diz 'não' para vacinar crianças sem o consentimento dos pais
 date: 2023-04-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 - Health

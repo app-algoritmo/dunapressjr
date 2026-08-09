@@ -2,7 +2,7 @@
 title: "Instituto Etiene Medeiros recebe 200 alunos para o início das aulas em 2024"
 date: 2024-02-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

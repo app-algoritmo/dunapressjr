@@ -2,7 +2,7 @@
 title: Nacionalismo ucraniano como “arma da Guerra Fria”
 date: 2023-01-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: NATO Estaciona Caças F-16 Fora da Ucrânia para Evitar Ataques Russos
 date: 2024-06-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

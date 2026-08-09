@@ -2,7 +2,7 @@
 title: 'O Oculto Palco da Terceira Guerra Mundial: Um Panorama Global de Conflitos'
 date: 2024-05-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

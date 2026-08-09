@@ -2,7 +2,7 @@
 title: "Seminário Rede de Núcleos, do IEE, compartilha histórias inspiradoras"
 date: 2024-02-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

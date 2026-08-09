@@ -2,7 +2,7 @@
 title: China Prioriza Setores Emergentes para Impulsionar Modernização Industrial
 date: 2024-03-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

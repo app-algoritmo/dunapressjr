@@ -2,7 +2,7 @@
 title: "Estudantes criam trator para auxiliar comunidades quilombolas da Lapa"
 date: 2023-12-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

@@ -2,7 +2,7 @@
 title: "Bicampeã mundial de bodyboarding Luna Hardman é recebida com festa no aeroporto de Vitória (ES)"
 date: 2024-05-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

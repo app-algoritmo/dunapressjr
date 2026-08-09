@@ -2,7 +2,7 @@
 title: "Rocky Spirit: cinema ao livre, aulas esportivas e shows gratuitos no final de semana em São Paulo"
 date: 2023-09-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

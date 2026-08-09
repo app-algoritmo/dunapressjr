@@ -2,7 +2,7 @@
 title: "Representatividade feminina, equidade salarial e diversidade nas lideranças marcam encontro no mês da mulher"
 date: 2024-03-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

@@ -2,7 +2,7 @@
 title: 'Como a Mídia Pode Destruir Reputações: O Caso de Enéas Carneiro'
 date: 2024-06-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Opinion
 ---

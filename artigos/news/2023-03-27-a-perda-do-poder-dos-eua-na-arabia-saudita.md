@@ -2,7 +2,7 @@
 title: A perda do poder dos EUA na Arábia Saudita
 date: 2023-03-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

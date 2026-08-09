@@ -2,7 +2,7 @@
 title: "Home resorts: desponta tendência do mercado imobiliário de alto padrão para construção de empreendimentos com infraestru"
 date: 2023-11-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

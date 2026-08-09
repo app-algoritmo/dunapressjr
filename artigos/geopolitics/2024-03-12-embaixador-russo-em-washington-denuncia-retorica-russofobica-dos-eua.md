@@ -2,7 +2,7 @@
 title: Embaixador Russo em Washington Denuncia Retórica Russofóbica dos EUA
 date: 2024-03-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

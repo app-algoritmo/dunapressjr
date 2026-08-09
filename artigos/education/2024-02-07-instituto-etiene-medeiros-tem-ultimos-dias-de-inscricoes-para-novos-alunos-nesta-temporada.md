@@ -2,7 +2,7 @@
 title: "Instituto Etiene Medeiros tem últimos dias de inscrições para novos alunos nesta temporada"
 date: 2024-02-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

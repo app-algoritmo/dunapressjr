@@ -3,7 +3,7 @@ title: 'Internet das Coisas: serviço secreto dos EUA quer “anonimizar” conv
   em tempo real'
 date: 2023-06-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Technology
 ---

@@ -2,7 +2,7 @@
 title: NATO Ultrapassa Meta de 300 Mil Soldados em Alerta para Conter Ameaça Russa
 date: 2024-06-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: 'IRGC adverte Israel: Ameaças não ficarão sem resposta do Irã'
 date: 2024-02-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

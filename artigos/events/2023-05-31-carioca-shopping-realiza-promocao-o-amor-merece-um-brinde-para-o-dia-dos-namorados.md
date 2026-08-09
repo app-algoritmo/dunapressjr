@@ -2,7 +2,7 @@
 title: "CARIOCA SHOPPING REALIZA PROMOÇÃO ‘’O AMOR MERECE UM BRINDE” PARA O DIA DOS NAMORADOS"
 date: 2023-05-31
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

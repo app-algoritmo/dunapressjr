@@ -2,7 +2,7 @@
 title: "Luisa Stefani é porta-bandeira do Brasil nos Jogos Pan-Americanos, em Santiago"
 date: 2023-10-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

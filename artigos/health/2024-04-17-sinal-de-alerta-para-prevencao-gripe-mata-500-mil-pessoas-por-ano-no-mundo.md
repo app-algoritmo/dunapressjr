@@ -2,7 +2,7 @@
 title: "Sinal de alerta para prevenção: gripe mata 500 mil pessoas por ano no mundo"
 date: 2024-04-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

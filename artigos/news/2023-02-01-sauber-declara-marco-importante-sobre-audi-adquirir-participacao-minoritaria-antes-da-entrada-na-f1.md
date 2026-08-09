@@ -2,7 +2,7 @@
 title: "Sauber declara 'marco importante' sobre Audi adquirir participação minoritária antes da entrada na F1"
 date: 2023-02-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Sports

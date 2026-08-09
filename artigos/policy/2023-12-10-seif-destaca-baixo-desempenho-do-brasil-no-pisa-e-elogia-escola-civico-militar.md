@@ -2,7 +2,7 @@
 title: Seif destaca baixo desempenho do Brasil no Pisa e elogia escola cívico-militar
 date: 2023-12-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

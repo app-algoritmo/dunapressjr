@@ -2,7 +2,7 @@
 title: "Pequeno Cotolengo promove Festa de Natal com churrasco, apresentações e shows com artistas locais"
 date: 2023-11-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

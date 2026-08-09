@@ -2,7 +2,7 @@
 title: "Espaços e eventos se adaptam para receber pets e seus donos"
 date: 2024-04-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Pets
 ---

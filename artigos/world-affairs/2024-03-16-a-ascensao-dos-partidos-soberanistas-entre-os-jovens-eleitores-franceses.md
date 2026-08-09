@@ -2,7 +2,7 @@
 title: A Ascensão dos Partidos Soberanistas entre os Jovens Eleitores Franceses
 date: 2024-03-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

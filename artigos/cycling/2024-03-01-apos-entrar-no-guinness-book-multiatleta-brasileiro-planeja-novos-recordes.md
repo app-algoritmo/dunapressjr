@@ -2,7 +2,7 @@
 title: "Após entrar no Guinness Book, multiatleta brasileiro planeja novos recordes"
 date: 2024-03-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

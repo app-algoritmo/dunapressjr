@@ -2,7 +2,7 @@
 title: "Casal de montanhistas brasileiros tem conquista inédita no mundo no Everest e no Lhotse"
 date: 2024-06-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

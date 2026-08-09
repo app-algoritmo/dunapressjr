@@ -2,7 +2,7 @@
 title: Tabata Amaral sofre tentativa de assalto em São Paulo
 date: 2023-12-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

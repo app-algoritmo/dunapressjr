@@ -2,7 +2,7 @@
 title: EUA e Reino Unido aumentarão visitas de seus submarinos à Austrália
 date: 2023-12-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

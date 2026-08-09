@@ -2,7 +2,7 @@
 title: "Caxias Shopping recebe evento Baixada em Foco, realizado pelo SESC RJ, para celebrar o Dia da Baixada com programação especial e gratuita"
 date: 2024-04-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Shopping
 ---

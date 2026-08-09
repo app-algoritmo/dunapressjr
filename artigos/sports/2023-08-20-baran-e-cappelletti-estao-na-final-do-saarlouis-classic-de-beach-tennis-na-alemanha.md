@@ -2,7 +2,7 @@
 title: "Baran e Cappelletti estão na final do Saarlouis Classic de Beach Tennis, na Alemanha"
 date: 2023-08-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

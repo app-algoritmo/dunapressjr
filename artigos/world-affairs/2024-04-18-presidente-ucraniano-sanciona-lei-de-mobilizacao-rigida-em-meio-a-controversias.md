@@ -2,7 +2,7 @@
 title: Presidente Ucraniano Sanciona Lei de Mobilização Rígida em Meio a Controvérsias
 date: 2024-04-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

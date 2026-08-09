@@ -3,7 +3,7 @@ title: 'A crise da Bolívia atinge uma nova dimensão: o país considera um cen�
   falência'
 date: 2023-12-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

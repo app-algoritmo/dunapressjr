@@ -2,7 +2,7 @@
 title: "Inclusão em hospitais: enfermeira aprende Libras para se comunicar com familiar de paciente e farmacêutico adapta campainha com efeitos visuais"
 date: 2023-12-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

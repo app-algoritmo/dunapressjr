@@ -3,7 +3,7 @@ title: Sociedade Alemã de Nutrição quer que cada pessoa consuma apenas 10 gra
   carne diariamente para combater o “aquecimento global”
 date: 2023-06-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

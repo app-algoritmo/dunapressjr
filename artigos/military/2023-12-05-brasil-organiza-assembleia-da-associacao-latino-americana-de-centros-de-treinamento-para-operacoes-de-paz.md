@@ -3,7 +3,7 @@ title: Brasil organiza Assembleia da Associação Latino-Americana de Centros d
   para Operações de Paz
 date: 2023-12-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

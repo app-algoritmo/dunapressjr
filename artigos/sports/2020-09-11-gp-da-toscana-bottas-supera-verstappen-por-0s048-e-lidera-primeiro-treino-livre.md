@@ -2,7 +2,7 @@
 title: "GP da Toscana: Bottas supera Verstappen por 0s048 e lidera primeiro treino livre"
 date: 2020-09-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

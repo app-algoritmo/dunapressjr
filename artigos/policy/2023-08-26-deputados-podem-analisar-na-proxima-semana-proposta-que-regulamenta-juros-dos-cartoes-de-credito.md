@@ -3,7 +3,7 @@ title: Deputados podem analisar na próxima semana proposta que regulamenta juro
   cartões de crédito
 date: 2023-08-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

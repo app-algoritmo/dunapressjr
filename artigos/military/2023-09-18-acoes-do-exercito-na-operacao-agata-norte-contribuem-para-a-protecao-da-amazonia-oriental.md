@@ -3,7 +3,7 @@ title: Ações do Exército na Operação Ágata Norte contribuem para a proteç
   Oriental
 date: 2023-09-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

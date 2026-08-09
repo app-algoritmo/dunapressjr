@@ -2,7 +2,7 @@
 title: Marcos Rogério declara voto contrário à indicação de Flávio Dino ao STF
 date: 2023-12-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

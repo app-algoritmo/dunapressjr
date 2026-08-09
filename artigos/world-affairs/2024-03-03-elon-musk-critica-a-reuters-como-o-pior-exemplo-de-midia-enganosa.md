@@ -2,7 +2,7 @@
 title: Elon Musk Critica a Reuters como o Pior Exemplo de Mídia Enganosa
 date: 2024-03-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

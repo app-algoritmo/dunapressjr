@@ -2,7 +2,7 @@
 title: Marcos Rogério critica veto de Lula a trechos do marco temporal
 date: 2023-10-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

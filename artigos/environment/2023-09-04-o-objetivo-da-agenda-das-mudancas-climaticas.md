@@ -2,7 +2,7 @@
 title: O objetivo da agenda das “mudanças climáticas”
 date: 2023-09-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Environment
 ---

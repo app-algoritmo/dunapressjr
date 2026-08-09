@@ -2,7 +2,7 @@
 title: "Vulcão ativo do tamanho da Europa encontrado em Marte"
 date: 2022-12-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

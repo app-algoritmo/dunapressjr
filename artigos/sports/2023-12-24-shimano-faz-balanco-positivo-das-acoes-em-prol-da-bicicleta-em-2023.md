@@ -2,7 +2,7 @@
 title: "Shimano faz balanço positivo das ações em prol da bicicleta em 2023"
 date: 2023-12-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

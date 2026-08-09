@@ -2,7 +2,7 @@
 title: Cleitinho critica proposta de volta do imposto sindical obrigatório
 date: 2023-08-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

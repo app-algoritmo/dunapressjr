@@ -2,7 +2,7 @@
 title: "Shimano Fest 2023 abre as portas com a presença do bicampeão mundial Henrique Avancini"
 date: 2023-08-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

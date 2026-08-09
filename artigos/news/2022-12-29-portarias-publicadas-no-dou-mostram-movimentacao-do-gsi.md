@@ -2,7 +2,7 @@
 title: Portarias publicadas no DOU, mostram movimentação do GSI
 date: 2022-12-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

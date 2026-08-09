@@ -2,7 +2,7 @@
 title: "Em Londres, Ribeiro, Braga e Temer falam sobre as reformas no Brasil"
 date: 2023-09-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Business and Economy
   - Policy

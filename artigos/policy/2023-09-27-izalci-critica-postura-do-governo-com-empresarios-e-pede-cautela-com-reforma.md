@@ -2,7 +2,7 @@
 title: Izalci critica postura do governo com empresários e pede cautela com reforma
 date: 2023-09-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

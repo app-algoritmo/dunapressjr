@@ -3,7 +3,7 @@ title: 'Cientista do clima revela: ''Consenso esmagador'' sobre a crise da mudan
   climática é ''fabricado'''
 date: 2023-08-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Environment
 ---

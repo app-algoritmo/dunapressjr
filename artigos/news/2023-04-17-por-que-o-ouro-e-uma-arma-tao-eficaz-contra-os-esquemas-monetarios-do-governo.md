@@ -2,7 +2,7 @@
 title: Por que o ouro é uma arma tão eficaz contra os esquemas monetários do governo
 date: 2023-04-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

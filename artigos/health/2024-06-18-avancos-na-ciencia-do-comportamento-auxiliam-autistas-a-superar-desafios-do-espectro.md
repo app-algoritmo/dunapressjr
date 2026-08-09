@@ -2,7 +2,7 @@
 title: "Avanços na ciência do comportamento auxiliam autistas a superar desafios do espectro"
 date: 2024-06-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

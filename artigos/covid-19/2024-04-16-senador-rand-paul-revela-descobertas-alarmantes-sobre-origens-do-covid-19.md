@@ -2,7 +2,7 @@
 title: Senador Rand Paul Revela Descobertas Alarmantes sobre Origens do COVID-19
 date: 2024-04-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

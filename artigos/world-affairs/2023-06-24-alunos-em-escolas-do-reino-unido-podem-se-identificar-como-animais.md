@@ -2,7 +2,7 @@
 title: Alunos em escolas do Reino Unido podem se identificar como animais
 date: 2023-06-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

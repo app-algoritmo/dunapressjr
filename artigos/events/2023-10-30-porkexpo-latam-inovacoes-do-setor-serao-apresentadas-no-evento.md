@@ -2,7 +2,7 @@
 title: "PorkExpo Latam: Inovações do setor serão apresentadas no evento"
 date: 2023-10-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

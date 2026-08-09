@@ -2,7 +2,7 @@
 title: "Natal é oportunidade para ensinar consumo consciente às crianças"
 date: 2023-12-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

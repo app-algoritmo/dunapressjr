@@ -2,7 +2,7 @@
 title: EUA acusam Rússia de violar proibição de armas químicas na Ucrânia
 date: 2024-05-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Irã pede à França que pare de se intrometer nos assuntos iranianos
 date: 2023-06-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

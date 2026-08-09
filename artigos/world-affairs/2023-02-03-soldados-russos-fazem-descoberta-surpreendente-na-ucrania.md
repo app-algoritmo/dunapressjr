@@ -2,7 +2,7 @@
 title: Soldados russos fazem descoberta surpreendente na Ucrânia
 date: 2023-02-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

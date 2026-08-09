@@ -2,7 +2,7 @@
 title: Gestores criticam projeto que autoriza aluno com mais de 14 anos a fazer estágio
 date: 2023-09-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

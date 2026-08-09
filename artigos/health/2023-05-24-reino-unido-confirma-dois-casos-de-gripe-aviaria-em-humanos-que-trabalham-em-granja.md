@@ -3,7 +3,7 @@ title: Reino Unido confirma dois casos de gripe aviária em humanos que trabalha
   granja
 date: 2023-05-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

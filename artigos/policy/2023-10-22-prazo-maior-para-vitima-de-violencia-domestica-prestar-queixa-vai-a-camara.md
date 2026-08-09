@@ -2,7 +2,7 @@
 title: Prazo maior para vítima de violência doméstica prestar queixa vai à Câmara
 date: 2023-10-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

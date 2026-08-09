@@ -2,7 +2,7 @@
 title: "Crise de gás na Europa, guerra nuclear e Oppenheimer: conteúdos para estudar no Enem"
 date: 2023-10-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

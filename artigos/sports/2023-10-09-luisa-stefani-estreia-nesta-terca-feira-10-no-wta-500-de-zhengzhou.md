@@ -2,7 +2,7 @@
 title: "Luisa Stefani estreia nesta terça-feira (10) no WTA 500 de Zhengzhou"
 date: 2023-10-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

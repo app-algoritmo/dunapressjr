@@ -3,7 +3,7 @@ title: Michelle Obama lança empresa para vender água açucarada carregada de p
   químicos para crianças
 date: 2023-05-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

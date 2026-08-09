@@ -2,7 +2,7 @@
 title: Expansão do BRICS mostra sua brilhante perspectiva, diz porta-voz da chancelaria
 date: 2024-01-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

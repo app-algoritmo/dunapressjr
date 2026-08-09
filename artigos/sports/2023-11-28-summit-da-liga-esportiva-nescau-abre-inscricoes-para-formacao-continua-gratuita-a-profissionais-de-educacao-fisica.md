@@ -2,7 +2,7 @@
 title: "Summit da Liga Esportiva NESCAU® abre inscrições para formação contínua gratuita a profissionais de Educação Física"
 date: 2023-11-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

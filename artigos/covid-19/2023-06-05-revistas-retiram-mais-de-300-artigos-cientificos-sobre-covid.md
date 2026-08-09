@@ -2,7 +2,7 @@
 title: Revistas retiram mais de 300 artigos científicos sobre Covid
 date: 2023-06-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

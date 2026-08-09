@@ -2,7 +2,7 @@
 title: Pacheco critica declaração de Barroso, mas aposta na pacificação institucional
 date: 2023-07-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

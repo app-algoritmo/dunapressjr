@@ -3,7 +3,7 @@ title: Lavrov Condena Estratégias Ocidentais para Restrições de Armas Nuclear
   'Desonestas'
 date: 2024-04-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

@@ -3,7 +3,7 @@ title: A CIA, que comanda a Ucrânia, frustra Biden quando ele diz que não há 
   terrestres
 date: 2023-07-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

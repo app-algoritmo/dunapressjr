@@ -2,7 +2,7 @@
 title: "Sintomas intensos de TPM podem estar relacionados à menopausa precoce no futuro"
 date: 2023-10-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

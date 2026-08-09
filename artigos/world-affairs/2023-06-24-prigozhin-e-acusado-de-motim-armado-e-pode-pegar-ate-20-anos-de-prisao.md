@@ -2,7 +2,7 @@
 title: Prigozhin é acusado de motim armado e pode pegar até 20 anos de prisão
 date: 2023-06-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

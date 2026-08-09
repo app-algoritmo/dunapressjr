@@ -2,7 +2,7 @@
 title: Os japoneses agora devem comer insetos também
 date: 2023-03-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: "Netflix anuncia nova série Live-Action de Resident Evil"
 date: 2020-08-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Video library

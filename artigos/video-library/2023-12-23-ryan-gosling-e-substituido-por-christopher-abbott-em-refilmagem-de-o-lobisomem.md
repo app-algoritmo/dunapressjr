@@ -2,7 +2,7 @@
 title: "Ryan Gosling é substituído por Christopher Abbott em refilmagem de 'O Lobisomem'"
 date: 2023-12-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Video library
 ---

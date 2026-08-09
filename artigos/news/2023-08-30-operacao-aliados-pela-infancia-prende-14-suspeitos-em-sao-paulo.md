@@ -2,7 +2,7 @@
 title: Operação Aliados pela Infância prende 14 suspeitos em São Paulo
 date: 2023-08-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Putin está preparando uma guerra ainda maior na Ucrânia
 date: 2023-08-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

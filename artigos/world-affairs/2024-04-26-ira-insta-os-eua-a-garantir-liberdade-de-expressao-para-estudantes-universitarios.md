@@ -2,7 +2,7 @@
 title: Irã insta os EUA a garantir liberdade de expressão para estudantes universitários
 date: 2024-04-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

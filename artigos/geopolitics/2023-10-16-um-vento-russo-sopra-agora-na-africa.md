@@ -2,7 +2,7 @@
 title: Um vento russo sopra agora na África
 date: 2023-10-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

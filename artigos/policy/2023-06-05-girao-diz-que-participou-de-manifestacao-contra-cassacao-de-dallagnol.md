@@ -2,7 +2,7 @@
 title: Girão diz que participou de manifestação contra cassação de Dallagnol
 date: 2023-06-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

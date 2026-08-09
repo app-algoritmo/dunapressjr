@@ -2,7 +2,7 @@
 title: 'O Pacto de Não Agressão Nazi-Soviético: Uma Aliança de Conveniência'
 date: 2024-06-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - History
 ---

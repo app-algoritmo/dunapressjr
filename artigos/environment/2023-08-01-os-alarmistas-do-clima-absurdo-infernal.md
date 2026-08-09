@@ -2,7 +2,7 @@
 title: 'Os alarmistas do clima: absurdo infernal'
 date: 2023-08-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Environment
 ---

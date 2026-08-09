@@ -2,7 +2,7 @@
 title: As Vantagens Substanciais da Monarquia Parlamentar sobre a República Presidencialista
 date: 2024-05-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: "Summit da NFS transforma São Paulo na capital da nutrição neste final de semana"
 date: 2024-05-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

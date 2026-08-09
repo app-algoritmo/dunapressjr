@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde faz amistoso internacional nesta sexta-feira (3) no Peru"
 date: 2023-11-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

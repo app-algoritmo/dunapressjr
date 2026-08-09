@@ -3,7 +3,7 @@ title: Moraes manda Telegram apagar mensagem contra PL das Fake News sob pena de
   do app
 date: 2023-05-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

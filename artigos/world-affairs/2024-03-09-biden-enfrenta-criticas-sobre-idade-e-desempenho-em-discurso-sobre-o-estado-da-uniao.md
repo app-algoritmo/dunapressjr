@@ -3,7 +3,7 @@ title: Biden enfrenta críticas sobre idade e desempenho em discurso sobre o Est
   da União
 date: 2024-03-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

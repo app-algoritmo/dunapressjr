@@ -2,7 +2,7 @@
 title: "Crianças e Dengue: como prevenir?"
 date: 2024-02-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

@@ -3,7 +3,7 @@ title: Impostos sobre Carbono Arrecadam US$ 104 Bilhões em 2023, mas Eficácia 
   É Questionada
 date: 2024-06-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

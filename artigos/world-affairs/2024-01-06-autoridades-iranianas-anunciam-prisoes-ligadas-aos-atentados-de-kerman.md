@@ -2,7 +2,7 @@
 title: Autoridades iranianas anunciam prisões ligadas aos atentados de Kerman
 date: 2024-01-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

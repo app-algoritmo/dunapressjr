@@ -2,7 +2,7 @@
 title: Aprovado projeto que facilita instalação de antenas de telecomunicação
 date: 2023-09-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

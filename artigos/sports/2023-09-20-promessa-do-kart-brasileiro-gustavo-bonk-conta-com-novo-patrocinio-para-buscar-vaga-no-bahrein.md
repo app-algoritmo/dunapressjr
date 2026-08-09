@@ -2,7 +2,7 @@
 title: "Promessa do kart brasileiro, Gustavo Bonk conta com novo patrocínio para buscar vaga no Bahrein"
 date: 2023-09-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

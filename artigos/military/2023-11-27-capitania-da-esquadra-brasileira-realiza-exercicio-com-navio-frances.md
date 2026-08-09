@@ -2,7 +2,7 @@
 title: Capitânia da Esquadra brasileira realiza exercício com navio francês
 date: 2023-11-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

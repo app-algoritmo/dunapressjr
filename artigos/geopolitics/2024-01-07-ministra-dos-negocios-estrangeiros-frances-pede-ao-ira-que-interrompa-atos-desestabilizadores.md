@@ -3,7 +3,7 @@ title: Ministra dos Negócios Estrangeiros francês pede ao Irã que interrompa 
   desestabilizadores'
 date: 2024-01-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

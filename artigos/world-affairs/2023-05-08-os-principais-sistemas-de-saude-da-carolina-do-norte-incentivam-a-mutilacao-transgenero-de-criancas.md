@@ -3,7 +3,7 @@ title: Os principais sistemas de saúde da Carolina do Norte incentivam a mutila
   transgênero de crianças
 date: 2023-05-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: A verdadeira crise climática é uma ideologia obscura
 date: 2023-02-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

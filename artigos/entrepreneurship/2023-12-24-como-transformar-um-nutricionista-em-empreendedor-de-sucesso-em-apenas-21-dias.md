@@ -2,7 +2,7 @@
 title: "Como transformar um nutricionista em empreendedor de sucesso em apenas 21 dias"
 date: 2023-12-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Entrepreneurship
   - Health

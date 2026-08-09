@@ -2,7 +2,7 @@
 title: Ministro Lewandowski prorroga atuação da Força Nacional no Rio de Janeiro
 date: 2024-03-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

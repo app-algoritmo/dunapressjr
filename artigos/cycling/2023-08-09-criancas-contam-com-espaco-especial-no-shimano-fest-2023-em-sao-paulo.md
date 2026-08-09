@@ -2,7 +2,7 @@
 title: "Crianças contam com espaço especial no Shimano Fest 2023, em São Paulo"
 date: 2023-08-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

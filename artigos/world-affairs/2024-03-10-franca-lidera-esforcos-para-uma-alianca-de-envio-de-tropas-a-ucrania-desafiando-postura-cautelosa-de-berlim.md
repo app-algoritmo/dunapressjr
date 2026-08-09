@@ -3,7 +3,7 @@ title: França lidera esforços para uma aliança de envio de tropas à Ucrânia
   postura cautelosa de Berlim
 date: 2024-03-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

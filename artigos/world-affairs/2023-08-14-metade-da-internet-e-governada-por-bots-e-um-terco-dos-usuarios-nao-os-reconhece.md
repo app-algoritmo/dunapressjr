@@ -2,7 +2,7 @@
 title: Metade da internet é governada por bots e um terço dos usuários não os reconhece
 date: 2023-08-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: "Ministro de Lula fez uso do orçamento secreto para asfaltar acesso à sua fazenda, diz jornal"
 date: 2023-01-31
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

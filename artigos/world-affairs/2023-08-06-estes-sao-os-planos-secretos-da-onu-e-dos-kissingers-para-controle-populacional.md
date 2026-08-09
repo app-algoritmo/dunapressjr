@@ -2,7 +2,7 @@
 title: Estes são os planos (secretos) da ONU e dos Kissingers para controle populacional
 date: 2023-08-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: "André Baran joga o Macena Open de Beach Tennis em Alagoas, a partir desta quinta-feira (30)"
 date: 2023-11-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

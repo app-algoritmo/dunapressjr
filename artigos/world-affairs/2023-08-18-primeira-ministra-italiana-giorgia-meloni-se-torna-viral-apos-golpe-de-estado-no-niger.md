@@ -3,7 +3,7 @@ title: Primeira-ministra italiana Giorgia Meloni se torna viral após golpe de E
   no Níger
 date: 2023-08-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Flávio Arns repudia Hamas e ataques a Israel
 date: 2023-11-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: 'Estratégia Geopolítica Chinesa na Europa: Visão de Longo Prazo de Xi Jinping'
 date: 2024-05-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

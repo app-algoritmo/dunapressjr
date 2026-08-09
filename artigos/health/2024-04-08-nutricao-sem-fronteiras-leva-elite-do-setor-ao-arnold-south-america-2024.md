@@ -2,7 +2,7 @@
 title: "Nutrição Sem Fronteiras leva elite do setor ao Arnold South America 2024"
 date: 2024-04-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

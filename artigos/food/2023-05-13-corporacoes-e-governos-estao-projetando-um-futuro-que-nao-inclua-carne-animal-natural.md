@@ -3,7 +3,7 @@ title: Corporações e governos estão projetando um futuro que não inclua carn
   natural
 date: 2023-05-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

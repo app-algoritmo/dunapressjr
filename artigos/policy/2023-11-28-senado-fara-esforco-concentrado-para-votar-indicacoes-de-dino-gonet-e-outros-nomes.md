@@ -3,7 +3,7 @@ title: Senado fará esforço concentrado para votar indicações de Dino, Gonet 
   nomes
 date: 2023-11-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

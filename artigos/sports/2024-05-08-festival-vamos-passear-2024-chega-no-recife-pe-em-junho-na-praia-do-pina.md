@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear 2024 chega no Recife (PE) em junho, na Praia do Pina"
 date: 2024-05-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

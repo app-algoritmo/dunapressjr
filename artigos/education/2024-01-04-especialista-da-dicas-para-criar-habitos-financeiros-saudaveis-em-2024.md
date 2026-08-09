@@ -2,7 +2,7 @@
 title: "Especialista dá dicas para criar hábitos financeiros saudáveis em 2024"
 date: 2024-01-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Financial Education

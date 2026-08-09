@@ -2,7 +2,7 @@
 title: Secretário-Geral da ONU Urgi Azerbaijão e Arménia a Normalizarem Relações
 date: 2024-04-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

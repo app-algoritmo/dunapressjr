@@ -3,7 +3,7 @@ title: 'Dwayne ''The Rock'' Johnson Rompe com Biden: Não Apoiará o Presidente 
   Eleições de 2024'
 date: 2024-04-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

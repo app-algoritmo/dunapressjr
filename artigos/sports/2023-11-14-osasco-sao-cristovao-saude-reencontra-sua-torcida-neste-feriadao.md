@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde reencontra sua torcida neste feriadão"
 date: 2023-11-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

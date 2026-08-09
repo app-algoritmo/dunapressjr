@@ -2,7 +2,7 @@
 title: "Rim e coração: órgãos dependem um do outro para funcionarem bem"
 date: 2024-03-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

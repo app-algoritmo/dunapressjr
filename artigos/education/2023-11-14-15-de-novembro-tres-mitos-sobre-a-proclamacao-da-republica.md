@@ -2,7 +2,7 @@
 title: "15 de novembro: três mitos sobre a Proclamação da República"
 date: 2023-11-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

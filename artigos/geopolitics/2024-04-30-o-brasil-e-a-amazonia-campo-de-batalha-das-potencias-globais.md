@@ -2,7 +2,7 @@
 title: 'O Brasil e a Amazônia: Campo de Batalha das Potências Globais'
 date: 2024-04-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

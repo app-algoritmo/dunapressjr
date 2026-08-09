@@ -3,7 +3,7 @@ title: Impacto do Dólar Fiduciário nas Guerras e na Classe Média - Discurso d
   F. Kennedy Jr.
 date: 2024-06-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

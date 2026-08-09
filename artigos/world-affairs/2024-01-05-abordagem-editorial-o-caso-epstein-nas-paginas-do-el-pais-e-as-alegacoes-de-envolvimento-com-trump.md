@@ -3,7 +3,7 @@ title: 'Abordagem Editorial: O Caso Epstein nas Páginas do El País e as Alega�
   de Envolvimento com Trump'
 date: 2024-01-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

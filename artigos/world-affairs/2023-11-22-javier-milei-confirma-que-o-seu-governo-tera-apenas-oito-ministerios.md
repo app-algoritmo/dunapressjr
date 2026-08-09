@@ -2,7 +2,7 @@
 title: Javier Milei confirma que o seu Governo terá apenas oito ministérios
 date: 2023-11-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Revelações de Conflitos de Interesse no Julgamento de Trump
 date: 2024-04-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

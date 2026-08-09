@@ -2,7 +2,7 @@
 title: Academia Militar das Agulhas Negras forma 412 novos oficiais
 date: 2023-11-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

@@ -2,7 +2,7 @@
 title: "Lula promete incentivos à cultura e mais empregos"
 date: 2022-12-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

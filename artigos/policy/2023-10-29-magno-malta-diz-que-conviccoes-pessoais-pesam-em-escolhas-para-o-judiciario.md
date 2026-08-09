@@ -2,7 +2,7 @@
 title: Magno Malta diz que convicções pessoais pesam em escolhas para o Judiciário
 date: 2023-10-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

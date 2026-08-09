@@ -2,7 +2,7 @@
 title: Para garantir transferência de sigilos, CPMI alega ao STF que Silvinei mentiu
 date: 2023-07-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

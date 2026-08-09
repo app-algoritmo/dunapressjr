@@ -3,7 +3,7 @@ title: De acordo com os 'globalizadores' estamos a apenas uma quebra de safra do
   do sistema alimentar”
 date: 2023-07-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

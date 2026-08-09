@@ -2,7 +2,7 @@
 title: China intensifica apoio ao setor de serviços domésticos
 date: 2024-01-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

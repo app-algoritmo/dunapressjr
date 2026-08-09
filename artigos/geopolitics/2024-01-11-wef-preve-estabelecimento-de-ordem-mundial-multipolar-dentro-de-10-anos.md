@@ -2,7 +2,7 @@
 title: WEF prevê estabelecimento de ordem mundial multipolar dentro de 10 anos
 date: 2024-01-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: "Complexo de Saúde Pequeno Cotolengo realiza procissão de Corpus Christi"
 date: 2024-05-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

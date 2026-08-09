@@ -2,7 +2,7 @@
 title: "O Exorcista vai ganhar uma nova versão do clássico em 2021"
 date: 2020-08-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
 ---

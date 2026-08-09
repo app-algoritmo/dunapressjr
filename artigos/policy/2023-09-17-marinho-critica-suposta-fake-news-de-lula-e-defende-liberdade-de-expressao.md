@@ -2,7 +2,7 @@
 title: Marinho critica suposta fake news de Lula e defende liberdade de expressão
 date: 2023-09-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

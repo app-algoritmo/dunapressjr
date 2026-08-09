@@ -2,7 +2,7 @@
 title: Ministro defende revisão de concessões de registros sindicais
 date: 2023-02-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

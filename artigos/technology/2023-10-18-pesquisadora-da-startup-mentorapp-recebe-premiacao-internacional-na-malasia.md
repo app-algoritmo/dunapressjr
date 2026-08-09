@@ -2,7 +2,7 @@
 title: "Pesquisadora da startup Mentorapp recebe premiação internacional na Malásia"
 date: 2023-10-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Technology
 ---

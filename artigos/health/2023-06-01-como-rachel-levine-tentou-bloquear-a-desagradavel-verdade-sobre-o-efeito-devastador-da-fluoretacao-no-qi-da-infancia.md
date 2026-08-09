@@ -3,7 +3,7 @@ title: Como Rachel Levine tentou bloquear a desagradável verdade sobre o efeito
   da fluoretação no QI da infância
 date: 2023-06-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

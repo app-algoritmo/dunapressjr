@@ -3,7 +3,7 @@ title: 'Estudo: Consumir mais flavonoides antioxidantes retarda o declínio da m
   em adultos mais velhos'
 date: 2023-06-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

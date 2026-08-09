@@ -2,7 +2,7 @@
 title: "Instituto Etiene Medeiros abre inscrições para as Clínicas Nado Por Tudo"
 date: 2024-05-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Swimming

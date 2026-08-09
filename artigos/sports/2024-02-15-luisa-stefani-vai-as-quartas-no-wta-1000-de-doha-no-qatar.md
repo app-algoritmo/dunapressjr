@@ -2,7 +2,7 @@
 title: "Luisa Stefani vai às quartas no WTA 1000 de Doha, no Qatar"
 date: 2024-02-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

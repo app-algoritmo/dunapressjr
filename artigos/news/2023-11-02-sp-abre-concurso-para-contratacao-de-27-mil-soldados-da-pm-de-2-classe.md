@@ -2,7 +2,7 @@
 title: SP abre concurso para contratação de 2,7 mil soldados da PM de 2ª classe
 date: 2023-11-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

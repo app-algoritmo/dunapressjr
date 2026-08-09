@@ -2,7 +2,7 @@
 title: "Promessa Olímpica: projeto social revela atleta de vôlei que já sonha com jogos de 2028"
 date: 2024-04-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

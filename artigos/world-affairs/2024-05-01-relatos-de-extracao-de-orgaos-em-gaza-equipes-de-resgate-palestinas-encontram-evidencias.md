@@ -3,7 +3,7 @@ title: 'Relatos de Extração de Órgãos em Gaza: Equipes de Resgate Palestinas
   Evidências'
 date: 2024-05-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

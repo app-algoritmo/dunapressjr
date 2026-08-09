@@ -2,7 +2,7 @@
 title: Marcos do Val pede que Eliziane deixe relatoria da CPMI do 8 de janeiro
 date: 2023-06-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

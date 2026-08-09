@@ -3,7 +3,7 @@ title: Coreia do Norte considerará interferência em seus satélites como decla
   de guerra
 date: 2023-12-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Girão lamenta morte de detento e critica atuação do STF
 date: 2023-11-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

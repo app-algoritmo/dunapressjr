@@ -2,7 +2,7 @@
 title: "Wandinha não terá interesse amoroso na segunda temporada, confirma Jenna Ortega"
 date: 2023-06-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

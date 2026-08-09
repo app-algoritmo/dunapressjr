@@ -2,7 +2,7 @@
 title: "Shimano Fest vai compartilhar conhecimento com mercado e público em geral no Auditório Diversidade"
 date: 2023-08-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Events

@@ -3,7 +3,7 @@ title: Fuzileiros Navais da Marinha reúnem autoridades militares de nove paíse
   simpósio internacional
 date: 2023-12-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

@@ -2,7 +2,7 @@
 title: Família Desesperada Clama por Justiça após Assassinato Brutal em Gata de Gorgos
 date: 2024-06-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

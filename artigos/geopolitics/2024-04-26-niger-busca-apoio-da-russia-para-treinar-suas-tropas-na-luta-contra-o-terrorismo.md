@@ -2,7 +2,7 @@
 title: Níger Busca Apoio da Rússia para Treinar suas Tropas na Luta Contra o Terrorismo
 date: 2024-04-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

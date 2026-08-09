@@ -2,7 +2,7 @@
 title: A direita europeia celebra a vitória de Wilders na Holanda
 date: 2023-11-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

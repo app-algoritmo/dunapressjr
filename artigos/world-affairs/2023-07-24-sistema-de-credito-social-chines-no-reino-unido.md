@@ -2,7 +2,7 @@
 title: Sistema de crédito social chinês no Reino Unido?
 date: 2023-07-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

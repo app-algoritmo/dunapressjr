@@ -2,7 +2,7 @@
 title: Australiana com sequelas da vacina tem indenização negada
 date: 2023-05-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

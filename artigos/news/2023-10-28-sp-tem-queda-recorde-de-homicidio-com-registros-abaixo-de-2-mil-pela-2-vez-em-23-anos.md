@@ -3,7 +3,7 @@ title: SP tem queda recorde de homicídio, com registros abaixo de 2 mil pela 2�
   em 23 anos
 date: 2023-10-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

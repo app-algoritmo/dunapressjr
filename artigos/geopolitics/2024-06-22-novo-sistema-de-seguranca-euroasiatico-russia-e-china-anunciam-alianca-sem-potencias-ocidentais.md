@@ -3,7 +3,7 @@ title: 'Novo Sistema de Segurança Euroasiático: Rússia e China Anunciam Alian
   Potências Ocidentais'
 date: 2024-06-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

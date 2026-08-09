@@ -3,7 +3,7 @@ title: Ninguém se preocupou em perguntar ao público americano se eles querem a
   Kiev, diz diplomata russo
 date: 2023-12-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

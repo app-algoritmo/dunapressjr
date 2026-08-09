@@ -2,7 +2,7 @@
 title: Depressão digital e multidões solitárias
 date: 2023-06-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

@@ -2,7 +2,7 @@
 title: "Ferrari x Racing Point: O dilema do acordo “secreto'"
 date: 2020-08-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

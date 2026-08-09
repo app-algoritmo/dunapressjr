@@ -3,7 +3,7 @@ title: 7 crianças paralisadas pelo vírus da poliomielite graças a vacina fina
   por Gates
 date: 2023-03-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

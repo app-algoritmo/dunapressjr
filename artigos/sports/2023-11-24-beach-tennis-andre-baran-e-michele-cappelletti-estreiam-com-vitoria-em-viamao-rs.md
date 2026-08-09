@@ -2,7 +2,7 @@
 title: "Beach Tennis: André Baran e Michele Cappelletti estreiam com vitória em Viamão (RS)"
 date: 2023-11-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

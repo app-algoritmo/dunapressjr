@@ -2,7 +2,7 @@
 title: Macron e a Perigosa Dança com a Terceira Guerra Mundial
 date: 2024-05-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

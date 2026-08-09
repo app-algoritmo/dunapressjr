@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde se despede da Superliga Bet7K 2023/24"
 date: 2024-04-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

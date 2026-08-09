@@ -2,7 +2,7 @@
 title: Ministro envia ao TCU decisão que condena Bolsonaro à inelegibilidade
 date: 2023-07-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

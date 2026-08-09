@@ -2,7 +2,7 @@
 title: Iraque rejeita entrada de mais forças estrangeiras adicionais
 date: 2024-01-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

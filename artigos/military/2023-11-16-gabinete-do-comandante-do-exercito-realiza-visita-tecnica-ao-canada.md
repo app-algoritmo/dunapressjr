@@ -2,7 +2,7 @@
 title: Gabinete do Comandante do Exército realiza visita técnica ao Canadá
 date: 2023-11-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

@@ -2,7 +2,7 @@
 title: "Coquetel no terraço e jantar sofisticado: Festa de Réveillon 2024 no NH Curitiba The Five"
 date: 2023-11-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

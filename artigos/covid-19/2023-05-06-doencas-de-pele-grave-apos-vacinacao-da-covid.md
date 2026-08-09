@@ -2,7 +2,7 @@
 title: Doenças de pele grave após vacinação da Covid
 date: 2023-05-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

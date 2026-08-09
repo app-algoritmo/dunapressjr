@@ -2,7 +2,7 @@
 title: Ex-ajudante de ordens de Bolsonaro diz que não participava de decisões
 date: 2023-07-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

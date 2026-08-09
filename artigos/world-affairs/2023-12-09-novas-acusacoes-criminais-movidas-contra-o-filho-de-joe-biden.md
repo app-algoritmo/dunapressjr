@@ -2,7 +2,7 @@
 title: Novas acusações criminais movidas contra o filho de Joe Biden
 date: 2023-12-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

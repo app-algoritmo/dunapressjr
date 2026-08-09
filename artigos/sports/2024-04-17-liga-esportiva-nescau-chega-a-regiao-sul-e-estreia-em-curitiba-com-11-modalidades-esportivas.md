@@ -2,7 +2,7 @@
 title: "Liga Esportiva NESCAU® chega à região sul e estreia em Curitiba com 11 modalidades esportivas"
 date: 2024-04-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

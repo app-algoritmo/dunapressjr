@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear reúne 4.200 participantes neste final de semana na Praia de Copacabana, no Rio"
 date: 2023-09-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Events

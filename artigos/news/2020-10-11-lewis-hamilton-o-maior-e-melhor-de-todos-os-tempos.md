@@ -2,7 +2,7 @@
 title: "Lewis Hamilton o maior e melhor de todos os tempos!"
 date: 2020-10-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Sports

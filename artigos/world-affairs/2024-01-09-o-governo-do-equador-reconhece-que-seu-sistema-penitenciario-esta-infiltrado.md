@@ -2,7 +2,7 @@
 title: O Governo do Equador reconhece que seu sistema penitenciário está “infiltrado”
 date: 2024-01-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

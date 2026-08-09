@@ -2,7 +2,7 @@
 title: "Harry &amp; Meghan : O documentário que mostra o outro lado da história"
 date: 2023-01-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

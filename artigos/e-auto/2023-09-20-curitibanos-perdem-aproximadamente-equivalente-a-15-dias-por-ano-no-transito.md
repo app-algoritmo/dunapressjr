@@ -2,7 +2,7 @@
 title: "Curitibanos perdem aproximadamente equivalente a 15 dias por ano no trânsito"
 date: 2023-09-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
   - Features

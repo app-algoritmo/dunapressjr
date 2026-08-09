@@ -3,7 +3,7 @@ title: Flávio Dino diz que Ibaneis só liberou atuação da Força Nacional no 
   tarde do dia 8 de janeiro
 date: 2023-08-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

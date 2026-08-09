@@ -2,7 +2,7 @@
 title: Trump tem grande vantagem entre as mulheres nas primárias do Partido Republicano
 date: 2023-03-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

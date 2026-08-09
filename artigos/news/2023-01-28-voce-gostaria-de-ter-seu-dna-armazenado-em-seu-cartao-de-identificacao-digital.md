@@ -2,7 +2,7 @@
 title: Você gostaria de ter seu DNA armazenado em seu cartão de identificação digital?
 date: 2023-01-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

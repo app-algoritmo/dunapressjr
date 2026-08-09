@@ -2,7 +2,7 @@
 title: "Toto Wolff elogia desempenho de Hamilton em Miami"
 date: 2023-05-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Formula 1
   - News

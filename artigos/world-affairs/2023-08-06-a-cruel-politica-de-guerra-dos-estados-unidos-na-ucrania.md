@@ -2,7 +2,7 @@
 title: A Cruel Política de Guerra dos Estados Unidos na Ucrânia
 date: 2023-08-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

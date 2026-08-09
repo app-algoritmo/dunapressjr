@@ -2,7 +2,7 @@
 title: "Educação Física ajuda na aprendizagem de outras disciplinas"
 date: 2024-05-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

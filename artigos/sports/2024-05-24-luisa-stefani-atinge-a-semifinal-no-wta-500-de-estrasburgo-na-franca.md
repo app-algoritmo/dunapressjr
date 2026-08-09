@@ -2,7 +2,7 @@
 title: "Luisa Stefani atinge a semifinal no WTA 500 de Estrasburgo, na França"
 date: 2024-05-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

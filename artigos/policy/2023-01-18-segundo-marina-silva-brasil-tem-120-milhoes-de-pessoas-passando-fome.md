@@ -2,7 +2,7 @@
 title: Segundo Marina Silva, Brasil tem 120 milhões de pessoas passando fome
 date: 2023-01-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

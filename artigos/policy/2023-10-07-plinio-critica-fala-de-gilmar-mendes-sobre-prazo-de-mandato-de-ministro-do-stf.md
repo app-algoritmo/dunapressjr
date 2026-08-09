@@ -3,7 +3,7 @@ title: Plínio critica fala de Gilmar Mendes sobre prazo de mandato de ministro 
   STF
 date: 2023-10-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

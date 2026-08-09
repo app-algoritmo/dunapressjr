@@ -2,7 +2,7 @@
 title: "ArcelorMittal Wahine Bodyboarding Pro 2024 reúne melhores atletas do mundo, em Serra (ES), em abril"
 date: 2024-03-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

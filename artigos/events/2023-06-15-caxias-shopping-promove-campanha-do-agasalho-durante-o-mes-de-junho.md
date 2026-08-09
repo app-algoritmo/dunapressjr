@@ -2,7 +2,7 @@
 title: "Caxias Shopping promove campanha do agasalho durante o mês de junho"
 date: 2023-06-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Health

@@ -3,7 +3,7 @@ title: Presidente argentino anuncia fechamento da agência de notícias Télam a
   anos de atividade
 date: 2024-03-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

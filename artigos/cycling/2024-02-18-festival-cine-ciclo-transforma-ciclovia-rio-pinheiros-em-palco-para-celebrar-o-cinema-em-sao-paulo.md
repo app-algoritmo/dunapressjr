@@ -2,7 +2,7 @@
 title: "Festival CINE CICLO transforma Ciclovia Rio Pinheiros em palco para celebrar o cinema em São Paulo"
 date: 2024-02-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Events

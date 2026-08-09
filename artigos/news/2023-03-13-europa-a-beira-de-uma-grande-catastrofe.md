@@ -2,7 +2,7 @@
 title: Europa à beira de uma grande catástrofe
 date: 2023-03-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

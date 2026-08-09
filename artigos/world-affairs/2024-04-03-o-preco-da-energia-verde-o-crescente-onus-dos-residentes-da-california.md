@@ -2,7 +2,7 @@
 title: 'O Preço da Energia Verde: O Crescente Ônus dos Residentes da Califórnia'
 date: 2024-04-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

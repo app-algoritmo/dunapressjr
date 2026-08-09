@@ -3,7 +3,7 @@ title: Primeiro-ministro palestino diz que Israel está travando guerra contra t
   os palestinos, não apenas contra o Hamas
 date: 2023-11-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

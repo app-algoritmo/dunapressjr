@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde faz clássico de líderes nesta terça-feira (27), no Rio de Janeiro"
 date: 2024-02-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

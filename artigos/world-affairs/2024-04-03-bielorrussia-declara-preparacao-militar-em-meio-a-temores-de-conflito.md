@@ -2,7 +2,7 @@
 title: Bielorrússia Declara Preparação Militar em Meio a Temores de Conflito
 date: 2024-04-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

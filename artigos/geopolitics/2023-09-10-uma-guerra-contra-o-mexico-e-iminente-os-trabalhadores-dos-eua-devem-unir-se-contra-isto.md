@@ -3,7 +3,7 @@ title: Uma guerra contra o México é iminente: Os trabalhadores dos EUA devem 
   contra isto
 date: 2023-09-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

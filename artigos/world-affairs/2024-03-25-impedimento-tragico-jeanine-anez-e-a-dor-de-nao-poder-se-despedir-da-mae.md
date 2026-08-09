@@ -2,7 +2,7 @@
 title: 'Impedimento Trágico: Jeanine Áñez e a Dor de Não Poder se Despedir da Mãe'
 date: 2024-03-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

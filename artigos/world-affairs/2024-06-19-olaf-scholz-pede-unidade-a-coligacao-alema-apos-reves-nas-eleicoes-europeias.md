@@ -2,7 +2,7 @@
 title: Olaf Scholz Pede Unidade à Coligação Alemã Após Revés nas Eleições Europeias
 date: 2024-06-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

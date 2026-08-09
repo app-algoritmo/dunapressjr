@@ -2,7 +2,7 @@
 title: "Feira agroecológica movimenta o Caxias Shopping neste fim de semana"
 date: 2024-05-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Shopping
 ---

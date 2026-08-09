@@ -2,7 +2,7 @@
 title: Visita de Maduro 'perturba o cerne da democracia', diz Pontes
 date: 2023-05-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: "Novo trailer de 'Oppenheimer' é muito eletrizante. Assista!"
 date: 2023-05-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

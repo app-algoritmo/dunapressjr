@@ -2,7 +2,7 @@
 title: Leila comemora aprovação do projeto que regulamenta o mercado de carbono
 date: 2023-10-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

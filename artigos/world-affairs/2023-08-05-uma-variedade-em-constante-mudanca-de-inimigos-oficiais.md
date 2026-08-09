@@ -2,7 +2,7 @@
 title: Uma variedade em constante mudança de inimigos oficiais
 date: 2023-08-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

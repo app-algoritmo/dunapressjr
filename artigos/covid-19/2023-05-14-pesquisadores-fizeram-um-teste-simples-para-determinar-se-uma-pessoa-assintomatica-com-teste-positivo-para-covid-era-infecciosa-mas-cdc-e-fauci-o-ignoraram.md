@@ -3,7 +3,7 @@ title: Pesquisadores fizeram um teste simples para determinar se uma pessoa assi
   com teste positivo para COVID era infecciosa, mas CDC e Fauci o ignoraram
 date: 2023-05-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

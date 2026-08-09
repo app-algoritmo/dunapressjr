@@ -2,7 +2,7 @@
 title: A medicação forçada de todos os cidadãos
 date: 2023-03-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

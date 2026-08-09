@@ -2,7 +2,7 @@
 title: Moraes determina avaliação do estado de saúde de Roberto Jefferson
 date: 2023-07-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

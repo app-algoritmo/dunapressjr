@@ -2,7 +2,7 @@
 title: Em 2021, Anvisa alertou sobre risco de miocardite e pericardite pós-vacinação
 date: 2023-03-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

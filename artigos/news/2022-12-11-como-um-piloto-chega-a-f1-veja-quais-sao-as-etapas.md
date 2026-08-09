@@ -2,7 +2,7 @@
 title: "Como um piloto chega à F1? Veja quais são as etapas"
 date: 2022-12-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Sports

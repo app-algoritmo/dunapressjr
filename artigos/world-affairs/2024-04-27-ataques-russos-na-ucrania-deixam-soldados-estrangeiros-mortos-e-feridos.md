@@ -2,7 +2,7 @@
 title: Ataques russos na Ucrânia deixam soldados estrangeiros mortos e feridos
 date: 2024-04-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

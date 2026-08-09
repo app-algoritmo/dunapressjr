@@ -2,7 +2,7 @@
 title: "André Baran, número 1 do Brasil no Beach Tennis, é campeão em Garopaba (SC), 27º título da carreira"
 date: 2023-12-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

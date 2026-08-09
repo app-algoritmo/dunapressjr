@@ -3,7 +3,7 @@ title: Plínio pede aprovação de PEC que dá fim a mandatos vitalícios de min
   do STF
 date: 2023-05-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

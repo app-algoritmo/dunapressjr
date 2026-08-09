@@ -2,7 +2,7 @@
 title: "Famílias comemoram o Dia Nacional do Ciclista no Shimano Fest no Memorial da América Latina"
 date: 2023-08-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

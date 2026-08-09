@@ -3,7 +3,7 @@ title: Rio de Janeiro registra recorde de abertura de empresas na Junta Comercia
   em agosto
 date: 2023-09-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Medvedev acusa líderes da OTAN de cumplicidade em ataque a sala de concertos
 date: 2024-04-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: "Instituto Esporte e Educação amplia rede de núcleos em Cabo de Santo Agostinho, em Pernambuco"
 date: 2023-08-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

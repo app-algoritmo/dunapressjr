@@ -3,7 +3,7 @@ title: Frente Parlamentar da Agropecuária quer derrubar veto ao marco temporal 
   terras indígenas
 date: 2023-10-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

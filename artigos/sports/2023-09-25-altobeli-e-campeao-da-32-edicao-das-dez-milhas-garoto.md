@@ -2,7 +2,7 @@
 title: "Altobeli é campeão da 32ª edição das Dez Milhas Garoto"
 date: 2023-09-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

@@ -2,7 +2,7 @@
 title: Girão critica julgamento de réus do 8 de janeiro em sessão virtual no STF
 date: 2023-09-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

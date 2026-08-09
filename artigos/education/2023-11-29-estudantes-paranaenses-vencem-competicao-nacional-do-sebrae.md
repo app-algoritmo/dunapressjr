@@ -2,7 +2,7 @@
 title: "Estudantes paranaenses vencem competição nacional do Sebrae"
 date: 2023-11-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

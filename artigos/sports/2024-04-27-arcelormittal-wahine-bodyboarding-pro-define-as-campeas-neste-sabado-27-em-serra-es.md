@@ -2,7 +2,7 @@
 title: "ArcelorMittal Wahine Bodyboarding Pro define as campeãs neste sábado (27), em Serra (ES)"
 date: 2024-04-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

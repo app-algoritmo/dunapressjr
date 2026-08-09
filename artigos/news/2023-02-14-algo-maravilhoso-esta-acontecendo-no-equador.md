@@ -2,7 +2,7 @@
 title: Algo maravilhoso está acontecendo no Equador
 date: 2023-02-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

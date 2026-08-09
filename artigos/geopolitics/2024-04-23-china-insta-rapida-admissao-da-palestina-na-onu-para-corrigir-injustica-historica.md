@@ -2,7 +2,7 @@
 title: China Insta Rápida Admissão da Palestina na ONU para Corrigir Injustiça Histórica
 date: 2024-04-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

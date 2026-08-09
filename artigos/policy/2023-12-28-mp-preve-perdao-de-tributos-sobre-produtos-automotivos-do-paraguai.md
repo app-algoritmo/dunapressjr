@@ -2,7 +2,7 @@
 title: MP prevê perdão de tributos sobre produtos automotivos do Paraguai
 date: 2023-12-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

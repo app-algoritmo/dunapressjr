@@ -3,7 +3,7 @@ title: Dados oficiais mostram que certas vacinas contra a Covid podem triplicar 
   risco de morte súbita
 date: 2023-03-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

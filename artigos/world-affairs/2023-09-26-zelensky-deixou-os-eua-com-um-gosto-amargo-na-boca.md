@@ -2,7 +2,7 @@
 title: Zelensky deixou os EUA com um gosto amargo na boca
 date: 2023-09-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

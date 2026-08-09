@@ -2,7 +2,7 @@
 title: Kajuru lamenta os ataques do grupo Hamas a Israel e pede Estado palestino
 date: 2023-10-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

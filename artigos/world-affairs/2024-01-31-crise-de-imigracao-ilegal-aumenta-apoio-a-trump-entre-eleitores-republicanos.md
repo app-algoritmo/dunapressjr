@@ -2,7 +2,7 @@
 title: Crise de imigração ilegal aumenta apoio a Trump entre eleitores republicanos
 date: 2024-01-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

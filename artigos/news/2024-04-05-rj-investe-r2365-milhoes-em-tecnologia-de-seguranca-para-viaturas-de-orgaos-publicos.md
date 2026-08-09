@@ -3,7 +3,7 @@ title: RJ investe R$236,5 milhões em tecnologia de segurança para viaturas de 
   públicos
 date: 2024-04-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

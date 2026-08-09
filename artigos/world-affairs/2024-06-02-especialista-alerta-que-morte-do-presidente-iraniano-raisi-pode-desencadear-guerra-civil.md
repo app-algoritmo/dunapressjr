@@ -3,7 +3,7 @@ title: Especialista Alerta que Morte do Presidente Iraniano Raisi Pode Desencade
   Guerra Civil
 date: 2024-06-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

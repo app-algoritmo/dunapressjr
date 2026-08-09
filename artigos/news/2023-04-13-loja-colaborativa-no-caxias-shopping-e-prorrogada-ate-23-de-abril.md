@@ -2,7 +2,7 @@
 title: "Loja colaborativa no Caxias Shopping é prorrogada até 23 de abril"
 date: 2023-04-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

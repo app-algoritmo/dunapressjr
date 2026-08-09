@@ -2,7 +2,7 @@
 title: "'Vai e vem do trânsito': mais de 680 mil paranaenses se deslocam diariamente para trabalhar ou estudar em municípios vizinhos"
 date: 2024-03-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
 ---

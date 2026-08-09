@@ -2,7 +2,7 @@
 title: "Igor Rickli diz que aceitou 'absurdos' da Record por dinheiro."
 date: 2022-12-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

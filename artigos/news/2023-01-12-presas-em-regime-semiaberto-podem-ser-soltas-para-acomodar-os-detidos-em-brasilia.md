@@ -2,7 +2,7 @@
 title: "Presas em regime semiaberto podem ser soltas para acomodar os detidos em Brasília"
 date: 2023-01-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

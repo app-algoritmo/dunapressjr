@@ -3,7 +3,7 @@ title: Estado de SP tem queda de 2,4% dos roubos em geral nos sete primeiros mes
   do ano
 date: 2023-08-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Louisiana Aprova Lei que Criminaliza Uso de Pílulas Abortivas, Tornando-
   Substâncias Controladas
 date: 2024-05-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

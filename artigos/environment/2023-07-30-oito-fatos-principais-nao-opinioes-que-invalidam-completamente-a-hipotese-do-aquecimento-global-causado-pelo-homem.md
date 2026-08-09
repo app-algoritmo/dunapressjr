@@ -3,7 +3,7 @@ title: Oito fatos principais - NÃO opiniões - que invalidam completamente a hi
   do aquecimento global causado pelo homem
 date: 2023-07-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Environment
 ---

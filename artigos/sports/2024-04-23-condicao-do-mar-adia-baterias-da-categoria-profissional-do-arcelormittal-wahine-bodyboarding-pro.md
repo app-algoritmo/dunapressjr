@@ -2,7 +2,7 @@
 title: "Condição do mar adia baterias da categoria Profissional do ArcelorMittal Wahine Bodyboarding Pro"
 date: 2024-04-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

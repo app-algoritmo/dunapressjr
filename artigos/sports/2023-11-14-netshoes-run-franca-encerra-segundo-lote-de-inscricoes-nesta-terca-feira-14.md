@@ -2,7 +2,7 @@
 title: "Netshoes Run Franca encerra segundo lote de inscrições nesta terça-feira (14)"
 date: 2023-11-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

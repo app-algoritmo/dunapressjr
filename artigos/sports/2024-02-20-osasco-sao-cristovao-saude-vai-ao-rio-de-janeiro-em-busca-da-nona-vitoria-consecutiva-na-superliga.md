@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde vai ao Rio de Janeiro em busca da nona vitória consecutiva na Superliga"
 date: 2024-02-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

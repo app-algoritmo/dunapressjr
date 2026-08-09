@@ -2,7 +2,7 @@
 title: Pessoas vacinadas estarão mortas em 2 anos, diz médico
 date: 2023-05-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

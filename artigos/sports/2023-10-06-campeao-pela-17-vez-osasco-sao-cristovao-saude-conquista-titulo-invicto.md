@@ -2,7 +2,7 @@
 title: "Campeão pela 17ª vez, Osasco São Cristóvão Saúde conquista título invicto"
 date: 2023-10-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

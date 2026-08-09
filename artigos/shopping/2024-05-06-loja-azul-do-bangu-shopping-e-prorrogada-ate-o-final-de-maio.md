@@ -2,7 +2,7 @@
 title: "Loja Azul do Bangu Shopping é prorrogada até o final de maio"
 date: 2024-05-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Shopping
 ---

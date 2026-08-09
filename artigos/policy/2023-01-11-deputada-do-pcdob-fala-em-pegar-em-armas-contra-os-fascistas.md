@@ -2,7 +2,7 @@
 title: Deputada do PCdoB fala em 'pegar em armas contra os fascistas'
 date: 2023-01-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

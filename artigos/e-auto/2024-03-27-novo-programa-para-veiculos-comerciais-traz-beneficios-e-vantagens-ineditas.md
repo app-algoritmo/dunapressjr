@@ -2,7 +2,7 @@
 title: "Novo programa para veículos comerciais traz benefícios e vantagens inéditas"
 date: 2024-03-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
 ---

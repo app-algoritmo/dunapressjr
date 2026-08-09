@@ -2,7 +2,7 @@
 title: Parlamento polonês avança com propostas para expandir direitos ao aborto
 date: 2024-04-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

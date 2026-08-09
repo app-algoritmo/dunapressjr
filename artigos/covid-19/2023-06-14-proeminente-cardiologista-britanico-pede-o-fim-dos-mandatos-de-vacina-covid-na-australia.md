@@ -3,7 +3,7 @@ title: Proeminente cardiologista britânico pede o fim dos mandatos de vacina Co
   na Austrália
 date: 2023-06-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

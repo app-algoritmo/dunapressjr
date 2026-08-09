@@ -2,7 +2,7 @@
 title: 'Inédito: Parada cardíaca em atletas: 1.310 mortes em 2,5 anos e 574 feridos'
 date: 2023-07-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

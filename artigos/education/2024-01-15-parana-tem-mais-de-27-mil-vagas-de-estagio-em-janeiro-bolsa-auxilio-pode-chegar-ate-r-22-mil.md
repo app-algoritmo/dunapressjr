@@ -2,7 +2,7 @@
 title: "Paraná tem mais de 2,7 mil vagas de estágio em janeiro; bolsa-auxílio pode chegar até R$ 2,2 mil"
 date: 2024-01-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

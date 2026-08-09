@@ -2,7 +2,7 @@
 title: "Cinco problemas comuns no transporte de cargas e como evitá-los"
 date: 2024-06-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
 ---

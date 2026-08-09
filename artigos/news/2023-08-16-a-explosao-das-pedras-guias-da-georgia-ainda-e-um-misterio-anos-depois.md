@@ -2,7 +2,7 @@
 title: A explosão das Pedras Guias da Geórgia ainda é um mistério anos depois
 date: 2023-08-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

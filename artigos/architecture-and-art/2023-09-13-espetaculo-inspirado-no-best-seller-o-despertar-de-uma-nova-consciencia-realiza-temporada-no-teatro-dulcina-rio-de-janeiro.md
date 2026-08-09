@@ -2,7 +2,7 @@
 title: "Espetáculo inspirado no best-seller “O Despertar de Uma Nova Consciência”, realiza temporada no Teatro Dulcina, Rio de Janeiro"
 date: 2023-09-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
   - Culture and History

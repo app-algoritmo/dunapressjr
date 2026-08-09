@@ -3,7 +3,7 @@ title: 'É ainda pior: cientistas alemães revelam a verdade sombria sobre a vac
   da Pfizer'
 date: 2023-07-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

@@ -3,7 +3,7 @@ title: Senador Eduardo Girão cobra avanço em investigação sobre compra de ve
   pelo Consórcio Nordeste
 date: 2024-04-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

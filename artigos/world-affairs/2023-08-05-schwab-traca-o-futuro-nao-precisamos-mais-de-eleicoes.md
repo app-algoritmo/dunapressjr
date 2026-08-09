@@ -2,7 +2,7 @@
 title: 'Schwab traça o futuro: não precisamos mais de eleições'
 date: 2023-08-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

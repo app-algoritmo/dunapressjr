@@ -2,7 +2,7 @@
 title: "Saúde mental de quem salva vidas: espaços de descanso ganham atenção dentro de hospitais como apoio na rotina de profissionais"
 date: 2023-08-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

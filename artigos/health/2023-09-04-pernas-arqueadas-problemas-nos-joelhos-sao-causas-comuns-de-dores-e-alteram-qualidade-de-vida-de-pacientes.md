@@ -2,7 +2,7 @@
 title: "Pernas arqueadas: problemas nos joelhos são causas comuns de dores e alteram qualidade de vida de pacientes"
 date: 2023-09-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

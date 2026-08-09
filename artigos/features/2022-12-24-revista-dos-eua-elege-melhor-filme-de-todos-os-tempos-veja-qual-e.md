@@ -2,7 +2,7 @@
 title: "Revista dos EUA elege melhor filme de todos os tempos; veja qual é"
 date: 2022-12-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

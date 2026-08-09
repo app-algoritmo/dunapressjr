@@ -2,7 +2,7 @@
 title: O excesso de mortes no Reino Unido e na Alemanha
 date: 2023-04-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

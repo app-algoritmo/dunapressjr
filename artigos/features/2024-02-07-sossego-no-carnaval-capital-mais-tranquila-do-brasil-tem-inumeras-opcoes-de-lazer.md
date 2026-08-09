@@ -2,7 +2,7 @@
 title: "Sossego no Carnaval: Capital mais tranquila do Brasil tem inúmeras opções de lazer"
 date: 2024-02-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

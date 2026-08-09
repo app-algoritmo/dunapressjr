@@ -2,7 +2,7 @@
 title: Girão cobra distribuição de vacina contra dengue já aprovada pela Anvisa
 date: 2023-07-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

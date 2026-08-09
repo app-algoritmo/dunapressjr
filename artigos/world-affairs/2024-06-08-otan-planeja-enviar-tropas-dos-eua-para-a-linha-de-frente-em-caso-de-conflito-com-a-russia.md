@@ -3,7 +3,7 @@ title: OTAN Planeja Enviar Tropas dos EUA para a Linha de Frente em Caso de Conf
   com a Rússia
 date: 2024-06-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

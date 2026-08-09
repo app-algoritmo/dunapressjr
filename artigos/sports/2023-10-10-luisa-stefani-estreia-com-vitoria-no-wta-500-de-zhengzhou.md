@@ -2,7 +2,7 @@
 title: "Luisa Stefani estreia com vitória no WTA 500 de Zhengzhou"
 date: 2023-10-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

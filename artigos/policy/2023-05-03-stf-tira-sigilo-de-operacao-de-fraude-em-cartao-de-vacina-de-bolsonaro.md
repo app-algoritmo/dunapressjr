@@ -2,7 +2,7 @@
 title: STF tira sigilo de operação de fraude em cartão de vacina de Bolsonaro
 date: 2023-05-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

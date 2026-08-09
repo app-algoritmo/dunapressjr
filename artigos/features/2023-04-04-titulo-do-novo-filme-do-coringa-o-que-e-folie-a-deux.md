@@ -2,7 +2,7 @@
 title: "Título do novo filme do Coringa: O que é Folie à Deux?"
 date: 2023-04-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

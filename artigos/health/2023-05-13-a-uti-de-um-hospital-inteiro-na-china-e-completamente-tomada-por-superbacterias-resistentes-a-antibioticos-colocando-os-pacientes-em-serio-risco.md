@@ -3,7 +3,7 @@ title: A UTI de um hospital inteiro na China é completamente tomada por superba
   resistentes a antibióticos, colocando os pacientes em sério risco
 date: 2023-05-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

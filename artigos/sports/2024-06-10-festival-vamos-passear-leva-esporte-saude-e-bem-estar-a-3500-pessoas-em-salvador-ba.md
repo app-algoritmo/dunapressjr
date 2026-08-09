@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear leva esporte, saúde e bem-estar a 3.500 pessoas em Salvador (BA)"
 date: 2024-06-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

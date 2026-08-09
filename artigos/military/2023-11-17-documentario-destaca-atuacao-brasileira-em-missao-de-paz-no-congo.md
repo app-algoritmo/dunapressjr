@@ -2,7 +2,7 @@
 title: Documentário destaca atuação brasileira em Missão de Paz no Congo
 date: 2023-11-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

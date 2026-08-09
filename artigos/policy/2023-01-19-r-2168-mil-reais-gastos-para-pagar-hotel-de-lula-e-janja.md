@@ -2,7 +2,7 @@
 title: R$ 216,8 mil reais gastos para pagar hotel de Lula e Janja
 date: 2023-01-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: O totalitarismo começa com a censura
 date: 2023-08-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

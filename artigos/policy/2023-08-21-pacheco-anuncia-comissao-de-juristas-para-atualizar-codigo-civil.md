@@ -2,7 +2,7 @@
 title: Pacheco anuncia comissão de juristas para atualizar Código Civil
 date: 2023-08-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

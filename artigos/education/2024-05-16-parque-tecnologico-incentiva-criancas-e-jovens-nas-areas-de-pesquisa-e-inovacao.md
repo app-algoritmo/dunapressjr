@@ -2,7 +2,7 @@
 title: "Parque Tecnológico incentiva crianças e jovens nas áreas de pesquisa e inovação"
 date: 2024-05-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Technology

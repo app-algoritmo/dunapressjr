@@ -2,7 +2,7 @@
 title: Para Seif, Congresso deve ter palavra final sobre perda de mandato parlamentar
 date: 2023-05-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: "De Informática a Oratória: cursos de qualificação gratuitos conectam gerações"
 date: 2023-09-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Courses and Careers
   - Education

@@ -2,7 +2,7 @@
 title: "Últimas vagas para a 2ª Cachorrida da Garoto, em Vitória (ES)"
 date: 2023-08-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Sports

@@ -2,7 +2,7 @@
 title: Aumento de pedidos de mudança de sexo em menores na Europa preocupa pais
 date: 2023-06-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

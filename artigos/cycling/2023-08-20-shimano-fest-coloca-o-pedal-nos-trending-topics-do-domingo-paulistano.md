@@ -2,7 +2,7 @@
 title: "Shimano Fest coloca o pedal nos 'trending topics' do domingo paulistano"
 date: 2023-08-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

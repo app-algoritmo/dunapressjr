@@ -2,7 +2,7 @@
 title: Por que o sigilo em torno dos contratos de vacinas?
 date: 2023-10-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

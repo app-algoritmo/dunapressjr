@@ -2,7 +2,7 @@
 title: Um convidado de um programa francês disse que celebridades estão tomando adrenocromo
 date: 2023-04-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

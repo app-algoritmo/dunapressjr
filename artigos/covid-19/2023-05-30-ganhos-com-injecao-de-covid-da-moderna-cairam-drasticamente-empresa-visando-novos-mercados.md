@@ -3,7 +3,7 @@ title: Ganhos com injeção de Covid da Moderna caíram drasticamente, empresa v
   novos mercados
 date: 2023-05-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: 'Caso Samarco: dano continuado afeta renda e alimentação, aponta estudo'
 date: 2023-11-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

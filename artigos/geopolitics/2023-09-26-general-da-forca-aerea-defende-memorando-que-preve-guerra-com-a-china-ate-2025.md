@@ -2,7 +2,7 @@
 title: General da Força Aérea defende memorando que prevê guerra com a China até 2025
 date: 2023-09-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

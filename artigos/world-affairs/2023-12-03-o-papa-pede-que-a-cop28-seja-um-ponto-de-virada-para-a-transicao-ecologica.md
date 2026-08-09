@@ -2,7 +2,7 @@
 title: O Papa pede que a COP28 seja “um ponto de virada” para a transição ecológica
 date: 2023-12-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

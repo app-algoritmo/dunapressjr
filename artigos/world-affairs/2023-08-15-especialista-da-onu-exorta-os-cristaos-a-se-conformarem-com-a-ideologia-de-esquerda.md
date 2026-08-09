@@ -3,7 +3,7 @@ title: '''Especialista'' da ONU exorta os cristãos a se conformarem com a ideol
   de esquerda'
 date: 2023-08-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

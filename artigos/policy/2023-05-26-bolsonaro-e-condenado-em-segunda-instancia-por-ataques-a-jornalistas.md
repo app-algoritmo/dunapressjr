@@ -2,7 +2,7 @@
 title: Bolsonaro é condenado em segunda instância por 'ataques a jornalistas'
 date: 2023-05-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Suécia registra 100 atentados neste ano
 date: 2023-08-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

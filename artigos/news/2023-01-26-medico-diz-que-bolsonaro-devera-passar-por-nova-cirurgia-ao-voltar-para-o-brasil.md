@@ -2,7 +2,7 @@
 title: Médico diz que Bolsonaro deverá passar por nova cirurgia ao voltar para o Brasil
 date: 2023-01-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

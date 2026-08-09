@@ -2,7 +2,7 @@
 title: 'Desafios na Europa: Inverno Promete Aumento nos Preços'
 date: 2023-08-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

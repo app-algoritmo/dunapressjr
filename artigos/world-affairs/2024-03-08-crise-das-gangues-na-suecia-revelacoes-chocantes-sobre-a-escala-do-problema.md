@@ -2,7 +2,7 @@
 title: 'Crise das Gangues na Suécia: Revelações Chocantes sobre a Escala do Problema'
 date: 2024-03-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

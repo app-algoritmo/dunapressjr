@@ -2,7 +2,7 @@
 title: Lula 'desmoralizou o Congresso' na COP 28, diz Seif
 date: 2023-12-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

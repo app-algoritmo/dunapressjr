@@ -3,7 +3,7 @@ title: Texas Intensifica Esforços na Fronteira para Combater o Contrabando e a 
   Ilegal
 date: 2024-04-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

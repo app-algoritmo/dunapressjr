@@ -2,7 +2,7 @@
 title: Zimbábue Lança Moeda Lastreada em Ouro em Substituição ao Dólar Local em Colapso
 date: 2024-04-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

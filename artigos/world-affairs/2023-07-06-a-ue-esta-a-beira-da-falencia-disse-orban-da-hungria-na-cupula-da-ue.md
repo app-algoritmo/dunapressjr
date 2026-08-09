@@ -2,7 +2,7 @@
 title: A UE está à beira da falência, disse Orbán da Hungria na cúpula da UE
 date: 2023-07-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

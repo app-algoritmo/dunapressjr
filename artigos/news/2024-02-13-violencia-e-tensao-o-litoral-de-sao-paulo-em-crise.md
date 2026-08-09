@@ -2,7 +2,7 @@
 title: 'Violência e Tensão: O Litoral de São Paulo em Crise'
 date: 2024-02-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

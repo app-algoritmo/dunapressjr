@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde abre semifinal do Campeonato Paulista nesta quinta-feira (21)"
 date: 2023-09-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

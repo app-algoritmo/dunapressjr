@@ -2,7 +2,7 @@
 title: Esperidião Amin critica decisões do STF sobre Lei das Estatais
 date: 2023-12-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

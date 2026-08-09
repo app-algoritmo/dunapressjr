@@ -2,7 +2,7 @@
 title: Ou Elon Musk pensa que somos estúpidos ou o WEF o controla
 date: 2023-05-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

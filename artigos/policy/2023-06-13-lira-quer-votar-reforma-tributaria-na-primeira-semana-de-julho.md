@@ -2,7 +2,7 @@
 title: Lira quer votar reforma tributária na primeira semana de julho
 date: 2023-06-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

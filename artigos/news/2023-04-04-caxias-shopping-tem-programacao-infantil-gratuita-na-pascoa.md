@@ -2,7 +2,7 @@
 title: "Caxias Shopping tem programação infantil gratuita na Páscoa"
 date: 2023-04-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

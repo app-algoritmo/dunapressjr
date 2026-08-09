@@ -2,7 +2,7 @@
 title: "Time Nado por Tudo, do Instituto Etiene Medeiros, retorna às atividades no 1º Torneio Pernambucano de Natação"
 date: 2024-03-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Swimming

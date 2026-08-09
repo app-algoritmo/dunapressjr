@@ -2,7 +2,7 @@
 title: 'Jimmy Dore sobre o Nord Stream: ''A América é o Terrorista do Mundo''!'
 date: 2023-03-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

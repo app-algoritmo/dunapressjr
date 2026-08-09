@@ -2,7 +2,7 @@
 title: 'Compreendendo a Geopolítica Asiática: Lições de George Yeo'
 date: 2024-06-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

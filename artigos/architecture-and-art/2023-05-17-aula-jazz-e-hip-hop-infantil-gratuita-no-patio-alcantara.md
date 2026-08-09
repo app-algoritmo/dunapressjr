@@ -2,7 +2,7 @@
 title: "Aula Jazz e Hip Hop Infantil gratuita no Pátio Alcântara"
 date: 2023-05-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
   - Culture and History

@@ -2,7 +2,7 @@
 title: Revelações sobre Obama
 date: 2023-09-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

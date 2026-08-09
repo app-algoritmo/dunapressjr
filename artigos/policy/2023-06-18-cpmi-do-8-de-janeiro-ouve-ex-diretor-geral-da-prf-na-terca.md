@@ -2,7 +2,7 @@
 title: CPMI do 8 de Janeiro ouve ex-diretor-geral da PRF na terça
 date: 2023-06-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

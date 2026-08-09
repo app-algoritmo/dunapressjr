@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde sofre revés em noite que ratifica a vice-liderança da Superliga"
 date: 2024-03-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

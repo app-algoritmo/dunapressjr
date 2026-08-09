@@ -2,7 +2,7 @@
 title: "Valmet apresenta ampla oferta de soluções de automação em principais eventos do setor"
 date: 2024-04-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Technology
 ---

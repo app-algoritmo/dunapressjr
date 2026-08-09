@@ -3,7 +3,7 @@ title: Alarmismo Sobre Desinformação e IA Marca Campanha da Vice-Presidente da
   Europeia
 date: 2024-05-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

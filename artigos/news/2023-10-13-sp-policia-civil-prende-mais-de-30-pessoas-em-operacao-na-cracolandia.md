@@ -2,7 +2,7 @@
 title: 'SP: Polícia Civil prende mais de 30 pessoas em operação na Cracolândia'
 date: 2023-10-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Cinco ministérios terão crédito suplementar de R$ 1,29 bilhão
 date: 2023-10-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

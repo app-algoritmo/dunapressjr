@@ -3,7 +3,7 @@ title: 'Forças de Operações Especiais dos EUA em Taiwan: Estratégia de defes
   e cenário de resistência'
 date: 2024-03-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

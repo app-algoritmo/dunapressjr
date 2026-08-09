@@ -3,7 +3,7 @@ title: 'Arcebispo Viganò: Padres e bispos que promoveram as vacinações devem 
   contas a Deus'
 date: 2023-11-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

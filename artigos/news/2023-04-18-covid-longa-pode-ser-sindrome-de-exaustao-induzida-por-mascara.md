@@ -2,7 +2,7 @@
 title: '''Covid longa'' pode ser síndrome de exaustão induzida por máscara'
 date: 2023-04-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

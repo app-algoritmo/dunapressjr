@@ -2,7 +2,7 @@
 title: 'Mensagens subliminares: como funciona e o que você pode fazer a respeito'
 date: 2023-07-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

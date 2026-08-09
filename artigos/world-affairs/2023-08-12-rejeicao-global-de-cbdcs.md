@@ -2,7 +2,7 @@
 title: Rejeição global de CBDCs
 date: 2023-08-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Marcos do Val celebra aprovação da PEC que limita decisões monocrátic
   STF
 date: 2023-11-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

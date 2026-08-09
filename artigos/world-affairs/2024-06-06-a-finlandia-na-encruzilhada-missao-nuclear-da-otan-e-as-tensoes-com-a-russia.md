@@ -2,7 +2,7 @@
 title: 'A Finlândia na Encruzilhada: Missão Nuclear da OTAN e as Tensões com a Rússia'
 date: 2024-06-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

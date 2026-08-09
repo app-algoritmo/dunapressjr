@@ -2,7 +2,7 @@
 title: "Pedra Grande, em Atibaia, recebe a abertura do Rocky Mountain Games 2024 neste sábado (9)"
 date: 2024-03-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

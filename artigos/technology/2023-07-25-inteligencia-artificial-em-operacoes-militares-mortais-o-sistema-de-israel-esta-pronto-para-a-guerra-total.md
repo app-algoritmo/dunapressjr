@@ -3,7 +3,7 @@ title: Inteligência artificial em operações militares mortais: O sistema de 
   está pronto para a guerra total
 date: 2023-07-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Technology
 ---

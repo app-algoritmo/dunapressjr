@@ -3,7 +3,7 @@ title: Comandante do Exército inspeciona Força de Prontidão e organizações 
   do Nordeste
 date: 2023-12-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

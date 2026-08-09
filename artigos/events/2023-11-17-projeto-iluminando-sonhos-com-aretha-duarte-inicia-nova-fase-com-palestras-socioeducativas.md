@@ -2,7 +2,7 @@
 title: "Projeto Iluminando Sonhos, com Aretha Duarte, inicia nova fase com palestras socioeducativas"
 date: 2023-11-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Sports

@@ -3,7 +3,7 @@ title: Diplomata russa adverte que jornalistas alemães deixarão a Rússia se c
   russos forem alvo de Berlim
 date: 2024-03-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

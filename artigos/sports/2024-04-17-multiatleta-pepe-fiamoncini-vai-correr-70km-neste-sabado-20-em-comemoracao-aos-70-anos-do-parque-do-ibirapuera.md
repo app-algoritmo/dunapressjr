@@ -2,7 +2,7 @@
 title: "Multiatleta Pepe Fiamoncini vai correr 70km neste sábado (20) em comemoração aos 70 anos do Parque do Ibirapuera"
 date: 2024-04-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

@@ -3,7 +3,7 @@ title: Governo de SP assina novo contrato para investimentos na Linha 6-Laranja 
   Metrô
 date: 2023-10-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

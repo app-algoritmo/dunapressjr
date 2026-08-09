@@ -2,7 +2,7 @@
 title: Paraguai expressa todo seu apoio ao Equador na luta contra o crime organizado
 date: 2024-01-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: "Luisa Stefani vai à final de dupla feminina e mista nos Jogos Pan-Americanos e busca dois ouros neste sábado (28)"
 date: 2023-10-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Pan American Games
   - Sports

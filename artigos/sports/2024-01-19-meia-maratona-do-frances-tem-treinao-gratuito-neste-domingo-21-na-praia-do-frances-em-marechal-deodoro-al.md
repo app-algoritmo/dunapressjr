@@ -2,7 +2,7 @@
 title: "Meia Maratona do Francês tem treinão gratuito neste domingo (21), na Praia do Francês, em Marechal Deodoro-AL"
 date: 2024-01-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

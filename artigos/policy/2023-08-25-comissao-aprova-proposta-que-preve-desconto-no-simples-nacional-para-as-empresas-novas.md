@@ -3,7 +3,7 @@ title: Comissão aprova proposta que prevê desconto no Simples Nacional para as
   novas
 date: 2023-08-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

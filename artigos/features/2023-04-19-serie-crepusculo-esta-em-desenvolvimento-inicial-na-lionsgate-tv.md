@@ -2,7 +2,7 @@
 title: "Série 'Crepúsculo' está em desenvolvimento inicial na Lionsgate TV"
 date: 2023-04-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

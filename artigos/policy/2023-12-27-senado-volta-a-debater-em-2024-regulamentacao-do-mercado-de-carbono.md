@@ -2,7 +2,7 @@
 title: Senado volta a debater em 2024 regulamentação do mercado de carbono
 date: 2023-12-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

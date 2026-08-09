@@ -2,7 +2,7 @@
 title: Presidente turco mais uma vez descreve Israel como estado terrorista
 date: 2023-11-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

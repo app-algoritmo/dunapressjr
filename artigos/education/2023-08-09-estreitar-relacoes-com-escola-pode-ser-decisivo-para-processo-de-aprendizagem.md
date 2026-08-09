@@ -2,7 +2,7 @@
 title: "Estreitar relações com escola pode ser decisivo para processo de aprendizagem"
 date: 2023-08-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

@@ -2,7 +2,7 @@
 title: CPMI do 8 de Janeiro ouve duas testemunhas na próxima semana
 date: 2023-10-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

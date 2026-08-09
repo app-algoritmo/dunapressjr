@@ -2,7 +2,7 @@
 title: Trump Amplia Vantagem Sobre Biden nas Pesquisas
 date: 2024-05-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

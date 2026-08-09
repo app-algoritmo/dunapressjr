@@ -2,7 +2,7 @@
 title: "COMUNICADO : Wine Run - Vale dos Vinhedos 2024 é cancelada"
 date: 2024-05-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

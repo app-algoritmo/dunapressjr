@@ -2,7 +2,7 @@
 title: Ucrânia registra a maior taxa de mortalidade do mundo por bombas coletivas
 date: 2023-09-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

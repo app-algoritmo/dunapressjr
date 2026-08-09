@@ -3,7 +3,7 @@ title: Diplomata Russo Alerta para Crescente Expansão do Arsenal Nuclear do Rei
   Unido
 date: 2024-04-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

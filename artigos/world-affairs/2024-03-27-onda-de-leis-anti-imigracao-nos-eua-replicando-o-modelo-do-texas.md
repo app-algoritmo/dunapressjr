@@ -2,7 +2,7 @@
 title: 'Onda de Leis Anti-Imigração nos EUA: Replicando o Modelo do Texas'
 date: 2024-03-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

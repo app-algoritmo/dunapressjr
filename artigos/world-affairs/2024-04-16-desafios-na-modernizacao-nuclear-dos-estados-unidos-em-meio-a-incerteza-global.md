@@ -2,7 +2,7 @@
 title: Desafios na Modernização Nuclear dos Estados Unidos em Meio à Incerteza Global
 date: 2024-04-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

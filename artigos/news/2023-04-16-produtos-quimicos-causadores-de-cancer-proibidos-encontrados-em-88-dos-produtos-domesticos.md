@@ -3,7 +3,7 @@ title: Produtos químicos causadores de câncer proibidos encontrados em 88% dos
   domésticos
 date: 2023-04-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

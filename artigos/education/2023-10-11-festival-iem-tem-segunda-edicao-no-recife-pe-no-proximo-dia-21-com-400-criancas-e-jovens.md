@@ -2,7 +2,7 @@
 title: "Festival IEM tem segunda edição no Recife (PE) no próximo dia 21 com 400 crianças e jovens"
 date: 2023-10-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

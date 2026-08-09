@@ -2,7 +2,7 @@
 title: "Campeã do Circuito OAB, Dra. Dulci deve receber certificado neste domingo (17), em Belém"
 date: 2023-12-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

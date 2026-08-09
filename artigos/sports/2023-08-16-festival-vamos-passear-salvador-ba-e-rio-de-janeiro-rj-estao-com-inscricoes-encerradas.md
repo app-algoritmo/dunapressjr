@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear: Salvador (BA) e Rio de Janeiro (RJ) estão com inscrições encerradas"
 date: 2023-08-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

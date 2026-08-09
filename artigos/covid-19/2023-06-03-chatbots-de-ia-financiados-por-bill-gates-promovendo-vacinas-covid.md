@@ -2,7 +2,7 @@
 title: Chatbots de IA financiados por Bill Gates promovendo vacinas Covid
 date: 2023-06-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

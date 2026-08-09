@@ -2,7 +2,7 @@
 title: "Enem: três temas da atualidade que podem ser cobrados na prova de Ciências Humanas"
 date: 2023-10-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

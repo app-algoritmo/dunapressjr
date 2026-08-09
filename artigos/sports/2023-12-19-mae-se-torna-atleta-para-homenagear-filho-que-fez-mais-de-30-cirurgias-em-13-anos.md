@@ -2,7 +2,7 @@
 title: "Mãe se torna atleta para homenagear filho que fez mais de 30 cirurgias em 13 anos"
 date: 2023-12-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

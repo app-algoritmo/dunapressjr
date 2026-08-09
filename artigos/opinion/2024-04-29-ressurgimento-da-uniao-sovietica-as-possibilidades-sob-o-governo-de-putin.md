@@ -2,7 +2,7 @@
 title: Ressurgimento da União Soviética? As possibilidades sob o governo de Putin
 date: 2024-04-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Opinion
 ---

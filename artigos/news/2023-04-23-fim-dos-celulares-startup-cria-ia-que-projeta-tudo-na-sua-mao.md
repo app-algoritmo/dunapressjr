@@ -2,7 +2,7 @@
 title: "Fim dos celulares? Startup cria IA que projeta tudo na sua mão"
 date: 2023-04-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Technology

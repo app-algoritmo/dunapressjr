@@ -2,7 +2,7 @@
 title: A aliança entre George Soros e o Papa Francisco
 date: 2023-11-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

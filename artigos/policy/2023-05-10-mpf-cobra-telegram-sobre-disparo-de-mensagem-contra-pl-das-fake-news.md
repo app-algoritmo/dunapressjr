@@ -2,7 +2,7 @@
 title: MPF cobra Telegram sobre disparo de mensagem contra PL das Fake News
 date: 2023-05-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

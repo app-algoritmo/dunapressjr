@@ -3,7 +3,7 @@ title: A Organização Mundial da Saúde está impulsionando a mutilação de g�
   em escala global
 date: 2023-07-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

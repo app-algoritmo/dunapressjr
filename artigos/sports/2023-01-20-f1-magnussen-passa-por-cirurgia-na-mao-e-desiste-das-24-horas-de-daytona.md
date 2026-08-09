@@ -2,7 +2,7 @@
 title: "F1: Magnussen passa por cirurgia na mão e desiste das 24 Horas de Daytona"
 date: 2023-01-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

@@ -3,7 +3,7 @@ title: O novo orçamento militar de US$ 53 bilhões do Japão visa tornar o paí
   dos EUA
 date: 2023-09-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

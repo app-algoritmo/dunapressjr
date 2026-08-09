@@ -2,7 +2,7 @@
 title: "Margareth Menezes terá R$ 10 bilhões para Cultura"
 date: 2022-12-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

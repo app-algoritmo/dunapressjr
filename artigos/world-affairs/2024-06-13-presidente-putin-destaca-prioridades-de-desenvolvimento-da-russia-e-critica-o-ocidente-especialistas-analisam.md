@@ -3,7 +3,7 @@ title: 'Presidente Putin Destaca Prioridades de Desenvolvimento da Rússia e Cri
   o Ocidente: Especialistas Analisam'
 date: 2024-06-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

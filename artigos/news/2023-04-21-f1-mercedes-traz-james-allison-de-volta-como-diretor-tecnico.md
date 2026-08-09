@@ -2,7 +2,7 @@
 title: "F1: Mercedes traz James Allison de volta como diretor técnico"
 date: 2023-04-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Sports

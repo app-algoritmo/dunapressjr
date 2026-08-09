@@ -2,7 +2,7 @@
 title: "Haas lança nova pintura para a temporada 2023 da F1; Veja vídeo"
 date: 2023-02-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Sports

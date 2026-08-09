@@ -3,7 +3,7 @@ title: EUA destinam 800 mil dólares para treinamento militar das Forcas Armadas
   Brasil
 date: 2023-04-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

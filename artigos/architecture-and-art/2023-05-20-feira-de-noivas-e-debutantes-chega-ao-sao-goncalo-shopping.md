@@ -2,7 +2,7 @@
 title: "Feira de Noivas e Debutantes chega ao São Gonçalo Shopping"
 date: 2023-05-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
   - Entrepreneurship

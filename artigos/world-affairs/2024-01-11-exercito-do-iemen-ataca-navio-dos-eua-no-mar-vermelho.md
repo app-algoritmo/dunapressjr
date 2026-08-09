@@ -2,7 +2,7 @@
 title: Exército do Iêmen ataca navio dos EUA no Mar Vermelho
 date: 2024-01-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

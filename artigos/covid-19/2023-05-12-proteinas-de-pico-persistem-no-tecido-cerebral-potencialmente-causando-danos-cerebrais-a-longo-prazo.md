@@ -3,7 +3,7 @@ title: Proteínas de pico persistem no tecido cerebral, potencialmente causando 
   cerebrais a longo prazo
 date: 2023-05-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

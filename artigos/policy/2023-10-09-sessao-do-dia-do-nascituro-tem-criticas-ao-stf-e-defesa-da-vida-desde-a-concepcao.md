@@ -2,7 +2,7 @@
 title: Sessão do Dia do Nascituro tem críticas ao STF e defesa da vida desde a concepção
 date: 2023-10-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

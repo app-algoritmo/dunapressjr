@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde recebe o Gerdau Minas pela semifinal da Superliga"
 date: 2024-04-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

@@ -2,7 +2,7 @@
 title: Não há planos para um cessar-fogo com o Hamas, diz Netanyahu
 date: 2023-10-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

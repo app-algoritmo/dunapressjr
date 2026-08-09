@@ -2,7 +2,7 @@
 title: "Curitiba é referência em mobilidade urbana"
 date: 2024-05-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
 ---

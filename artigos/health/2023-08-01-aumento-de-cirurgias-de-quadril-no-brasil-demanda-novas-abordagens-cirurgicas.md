@@ -2,7 +2,7 @@
 title: "Aumento de cirurgias de quadril no Brasil demanda novas abordagens cirúrgicas"
 date: 2023-08-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

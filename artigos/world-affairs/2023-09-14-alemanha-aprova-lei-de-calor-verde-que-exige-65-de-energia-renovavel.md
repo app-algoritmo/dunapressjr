@@ -2,7 +2,7 @@
 title: Alemanha aprova lei de calor verde que exige 65% de energia renovável
 date: 2023-09-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

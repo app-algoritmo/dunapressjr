@@ -2,7 +2,7 @@
 title: Novas Evidências Desafiam Relatório do Pentágono sobre Retirada do Afeganistão
 date: 2024-05-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

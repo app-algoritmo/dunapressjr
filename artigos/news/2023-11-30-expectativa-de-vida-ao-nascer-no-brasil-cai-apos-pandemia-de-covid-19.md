@@ -2,7 +2,7 @@
 title: Expectativa de vida ao nascer no Brasil cai após pandemia de covid-19
 date: 2023-11-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

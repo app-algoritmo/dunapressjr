@@ -2,7 +2,7 @@
 title: Hungria rejeita Rutte como chefe da OTAN e apoia presidente romeno
 date: 2024-04-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Irã e China Buscam Expandir Relações Bilaterais em Diversos Setores
 date: 2024-05-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

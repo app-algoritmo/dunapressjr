@@ -3,7 +3,7 @@ title: Sefaz-SP participa de operação para desarticular esquema de sonegação
   129 milhões
 date: 2023-10-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

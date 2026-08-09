@@ -2,7 +2,7 @@
 title: "Enem 2023: participação dos pais influencia desempenho de estudantes na prova"
 date: 2023-10-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

@@ -2,7 +2,7 @@
 title: Alemanha está destruindo sua indústria automobilística, diz Putin
 date: 2024-02-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

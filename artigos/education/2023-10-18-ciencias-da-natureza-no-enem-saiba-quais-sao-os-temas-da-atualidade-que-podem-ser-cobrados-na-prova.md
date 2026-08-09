@@ -2,7 +2,7 @@
 title: "Ciências da Natureza no Enem: saiba quais são os temas da atualidade que podem ser cobrados na prova"
 date: 2023-10-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

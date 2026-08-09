@@ -2,7 +2,7 @@
 title: Carvalho Junior condena legalização do aborto e liberação de drogas
 date: 2023-10-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

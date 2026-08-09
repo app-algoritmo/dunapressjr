@@ -2,7 +2,7 @@
 title: "Red Bull e o dilema do segundo piloto | Alex Albon é bom o suficiente?"
 date: 2020-08-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Opinion
   - Sports

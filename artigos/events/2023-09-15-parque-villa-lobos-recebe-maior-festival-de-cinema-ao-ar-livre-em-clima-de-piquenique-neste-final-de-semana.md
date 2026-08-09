@@ -2,7 +2,7 @@
 title: "Parque Villa-Lobos recebe maior festival de cinema ao ar livre em clima de piquenique neste final de semana"
 date: 2023-09-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Sports

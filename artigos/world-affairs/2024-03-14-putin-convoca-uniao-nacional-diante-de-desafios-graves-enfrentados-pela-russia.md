@@ -2,7 +2,7 @@
 title: Putin convoca união nacional diante de desafios graves enfrentados pela Rússia
 date: 2024-03-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

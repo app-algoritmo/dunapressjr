@@ -2,7 +2,7 @@
 title: Contribuição sindical não obrigatória marca debate com ministro do Trabalho
 date: 2023-10-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

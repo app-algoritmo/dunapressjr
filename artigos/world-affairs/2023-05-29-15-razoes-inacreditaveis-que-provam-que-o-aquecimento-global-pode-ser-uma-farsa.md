@@ -3,7 +3,7 @@ title: 15 razões inacreditáveis ​​que provam que o aquecimento global pode
   farsa
 date: 2023-05-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

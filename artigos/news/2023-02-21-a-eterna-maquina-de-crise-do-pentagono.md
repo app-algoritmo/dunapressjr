@@ -2,7 +2,7 @@
 title: A eterna máquina de crise do Pentágono
 date: 2023-02-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

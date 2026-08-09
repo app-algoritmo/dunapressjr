@@ -3,7 +3,7 @@ title: A análise do governo do Reino Unido mostra que outra pandemia é esperad
   próximos cinco anos
 date: 2023-08-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

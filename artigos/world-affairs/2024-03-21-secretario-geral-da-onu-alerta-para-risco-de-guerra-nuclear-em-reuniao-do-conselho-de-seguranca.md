@@ -3,7 +3,7 @@ title: Secretário-Geral da ONU alerta para risco de guerra nuclear em reunião 
   de Segurança
 date: 2024-03-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

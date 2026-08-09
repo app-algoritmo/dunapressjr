@@ -2,7 +2,7 @@
 title: "As Tartarugas Ninja Run chega dia 24 de setembro ao Parque Villa-Lobos, em São Paulo, embalada pelo novo filme"
 date: 2023-08-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

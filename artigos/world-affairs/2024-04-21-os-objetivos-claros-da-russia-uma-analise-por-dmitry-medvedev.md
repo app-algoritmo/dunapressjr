@@ -2,7 +2,7 @@
 title: 'Os Objetivos Claros da Rússia: Uma Análise por Dmitry Medvedev'
 date: 2024-04-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

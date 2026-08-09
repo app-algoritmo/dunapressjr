@@ -2,7 +2,7 @@
 title: "Tudo sobre o novo filme da DC Besouro Azul"
 date: 2023-04-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

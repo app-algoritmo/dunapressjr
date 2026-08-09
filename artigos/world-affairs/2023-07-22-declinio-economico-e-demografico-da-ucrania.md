@@ -2,7 +2,7 @@
 title: Declínio econômico e demográfico da Ucrânia
 date: 2023-07-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

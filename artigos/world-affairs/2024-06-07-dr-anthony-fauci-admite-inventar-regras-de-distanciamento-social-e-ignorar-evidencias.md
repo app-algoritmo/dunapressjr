@@ -3,7 +3,7 @@ title: Dr. Anthony Fauci Admite Inventar Regras de Distanciamento Social e Ignor
   Evidências
 date: 2024-06-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

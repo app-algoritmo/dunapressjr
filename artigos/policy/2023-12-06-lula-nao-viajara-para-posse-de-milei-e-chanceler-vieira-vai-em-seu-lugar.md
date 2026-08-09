@@ -2,7 +2,7 @@
 title: Lula não viajará para posse de Milei e chanceler Vieira vai em seu lugar
 date: 2023-12-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: O Sul Global está crescendo
 date: 2023-08-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: 'O Ocultamento das Evidências: Revelações sobre o Ataque ao Capitólio
   Ações de Trump'
 date: 2024-03-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

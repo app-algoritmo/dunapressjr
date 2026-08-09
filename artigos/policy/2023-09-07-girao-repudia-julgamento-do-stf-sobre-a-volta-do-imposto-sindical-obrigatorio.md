@@ -2,7 +2,7 @@
 title: Girão repudia julgamento do STF sobre a volta do imposto sindical obrigatório
 date: 2023-09-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Ciro Nogueira defende atualização do Estatuto da Pessoa Idosa
 date: 2023-10-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

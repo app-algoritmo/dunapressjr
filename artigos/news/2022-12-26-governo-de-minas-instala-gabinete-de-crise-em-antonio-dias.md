@@ -2,7 +2,7 @@
 title: "Governo de Minas instala gabinete de crise em Antônio Dias"
 date: 2022-12-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

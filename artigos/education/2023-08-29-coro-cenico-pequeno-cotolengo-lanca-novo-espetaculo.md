@@ -2,7 +2,7 @@
 title: "Coro Cênico Pequeno Cotolengo lança novo espetáculo"
 date: 2023-08-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Events

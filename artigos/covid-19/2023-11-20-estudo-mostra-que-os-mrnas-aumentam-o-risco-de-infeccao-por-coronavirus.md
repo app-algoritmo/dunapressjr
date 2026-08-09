@@ -2,7 +2,7 @@
 title: Estudo mostra que os mRNAs aumentam o risco de infecção por coronavírus
 date: 2023-11-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

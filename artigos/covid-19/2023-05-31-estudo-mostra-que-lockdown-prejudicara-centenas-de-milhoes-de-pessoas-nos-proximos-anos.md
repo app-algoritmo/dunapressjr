@@ -3,7 +3,7 @@ title: Estudo mostra que Lockdown prejudicará centenas de milhões de pessoas n
   anos
 date: 2023-05-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

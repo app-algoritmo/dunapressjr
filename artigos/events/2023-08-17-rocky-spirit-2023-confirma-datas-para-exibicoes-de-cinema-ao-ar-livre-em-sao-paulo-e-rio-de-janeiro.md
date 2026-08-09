@@ -2,7 +2,7 @@
 title: "Rocky Spirit 2023 confirma datas para exibições de cinema ao ar livre em São Paulo e Rio de Janeiro"
 date: 2023-08-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Sports

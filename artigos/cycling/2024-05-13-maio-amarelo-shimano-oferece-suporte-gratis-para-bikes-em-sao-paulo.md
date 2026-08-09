@@ -2,7 +2,7 @@
 title: "Maio Amarelo: Shimano oferece suporte grátis para bikes em São Paulo"
 date: 2024-05-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

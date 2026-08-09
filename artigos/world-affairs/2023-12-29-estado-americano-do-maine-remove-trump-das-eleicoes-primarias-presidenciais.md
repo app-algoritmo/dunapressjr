@@ -2,7 +2,7 @@
 title: Estado americano do Maine remove Trump das eleições primárias presidenciais
 date: 2023-12-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

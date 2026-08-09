@@ -2,7 +2,7 @@
 title: "IR 2024: Veja como ajudar o Pequeno Cotolengo doando parte do imposto devido ou a restituir"
 date: 2024-04-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

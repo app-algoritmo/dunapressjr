@@ -2,7 +2,7 @@
 title: "Cobal do Leblon recebe Coletivo Balzak40 no final de semana"
 date: 2023-07-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

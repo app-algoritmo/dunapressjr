@@ -2,7 +2,7 @@
 title: FMI Aplaude Novo Pacote de Reformas Econômicas do Governo Argentino
 date: 2024-07-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

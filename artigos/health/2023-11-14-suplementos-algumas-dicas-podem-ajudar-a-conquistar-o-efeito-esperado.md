@@ -2,7 +2,7 @@
 title: "Suplementos: algumas dicas podem ajudar a conquistar o efeito esperado"
 date: 2023-11-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

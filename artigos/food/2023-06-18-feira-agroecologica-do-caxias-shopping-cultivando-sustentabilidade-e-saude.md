@@ -2,7 +2,7 @@
 title: "Feira agroecológica do Caxias Shopping: cultivando sustentabilidade e saúde"
 date: 2023-06-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Food
   - Health

@@ -2,7 +2,7 @@
 title: 'Iraque: um campo de batalha favorito para Teerã e Washington'
 date: 2024-01-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

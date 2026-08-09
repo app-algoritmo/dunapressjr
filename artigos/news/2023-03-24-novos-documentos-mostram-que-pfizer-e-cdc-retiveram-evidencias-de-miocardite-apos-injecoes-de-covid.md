@@ -3,7 +3,7 @@ title: Novos documentos mostram que Pfizer e CDC retiveram evidências de miocar
   após injeções de COVID
 date: 2023-03-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

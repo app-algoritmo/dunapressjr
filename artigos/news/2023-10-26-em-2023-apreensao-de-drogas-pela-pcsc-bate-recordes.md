@@ -2,7 +2,7 @@
 title: Em 2023, apreensão de drogas pela PCSC bate recordes
 date: 2023-10-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

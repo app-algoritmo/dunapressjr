@@ -2,7 +2,7 @@
 title: 'Colômbia em Alerta: Possibilidade de Assembleia Constituinte Gera Controvérsia'
 date: 2024-04-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

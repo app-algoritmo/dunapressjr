@@ -2,7 +2,7 @@
 title: "Sábado de esporte e diversão outdoor no Rocky Mountain Games Juquitiba"
 date: 2023-08-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Sports

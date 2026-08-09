@@ -2,7 +2,7 @@
 title: "Meia Maratona do Francês agita o turismo em Marechal Deodoro (AL), neste mês"
 date: 2024-03-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

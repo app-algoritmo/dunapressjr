@@ -2,7 +2,7 @@
 title: Alto diplomata iraniano sugere realização de referendo sobre o futuro da Palestina
 date: 2023-11-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

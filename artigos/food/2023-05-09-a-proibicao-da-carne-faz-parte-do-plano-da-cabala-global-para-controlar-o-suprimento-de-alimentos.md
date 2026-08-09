@@ -3,7 +3,7 @@ title: A proibição da carne faz parte do plano da cabala global para controlar
   de alimentos?
 date: 2023-05-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

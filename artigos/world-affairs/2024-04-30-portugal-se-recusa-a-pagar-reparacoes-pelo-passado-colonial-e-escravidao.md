@@ -2,7 +2,7 @@
 title: Portugal se Recusa a Pagar Reparações pelo Passado Colonial e Escravidão
 date: 2024-04-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

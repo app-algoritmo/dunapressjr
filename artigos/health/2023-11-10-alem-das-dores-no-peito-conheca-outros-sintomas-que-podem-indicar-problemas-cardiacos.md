@@ -2,7 +2,7 @@
 title: "Além das dores no peito: conheça outros sintomas que podem indicar problemas cardíacos"
 date: 2023-11-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

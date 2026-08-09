@@ -2,7 +2,7 @@
 title: "Custo da guerra: saiba quanto a indústria militar movimenta no mundo"
 date: 2023-12-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - World Affairs
 ---

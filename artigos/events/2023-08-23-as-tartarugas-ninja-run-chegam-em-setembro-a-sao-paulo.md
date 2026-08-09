@@ -2,7 +2,7 @@
 title: "As Tartarugas Ninja Run chegam em setembro a São Paulo"
 date: 2023-08-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Sports

@@ -2,7 +2,7 @@
 title: Celebração do Dia do Veterano reúne gerações de militares estaduais em Curitiba
 date: 2023-10-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

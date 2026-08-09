@@ -2,7 +2,7 @@
 title: Ucrânia não pode vencer, UE está ‘presa’ sem plano B, alerta Orbán
 date: 2023-12-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

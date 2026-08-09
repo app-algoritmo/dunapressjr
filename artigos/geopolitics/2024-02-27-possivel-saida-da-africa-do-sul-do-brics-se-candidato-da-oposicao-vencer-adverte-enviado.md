@@ -3,7 +3,7 @@ title: Possível Saída da África do Sul do BRICS se Candidato da Oposição Ve
   Enviado
 date: 2024-02-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

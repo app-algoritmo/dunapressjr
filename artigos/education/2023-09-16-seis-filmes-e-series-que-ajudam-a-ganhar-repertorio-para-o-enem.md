@@ -2,7 +2,7 @@
 title: "Seis filmes e séries que ajudam a ganhar repertório para o Enem"
 date: 2023-09-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

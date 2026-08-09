@@ -2,7 +2,7 @@
 title: 'Rússia-China: Nova Força Geopolítica Desafia Hegemonia Ocidental'
 date: 2024-05-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

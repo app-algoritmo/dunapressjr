@@ -2,7 +2,7 @@
 title: Rússia esperando para ver se Milei muda de tom após a eleição
 date: 2023-11-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

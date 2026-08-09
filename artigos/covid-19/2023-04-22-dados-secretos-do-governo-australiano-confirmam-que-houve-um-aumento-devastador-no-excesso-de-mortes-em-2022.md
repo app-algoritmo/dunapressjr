@@ -3,7 +3,7 @@ title: Dados secretos do governo australiano confirmam que houve um aumento deva
   no excesso de mortes em 2022
 date: 2023-04-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 - Health

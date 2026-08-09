@@ -2,7 +2,7 @@
 title: Comissão vai debater regulamentação de trabalhadores de aplicativos
 date: 2023-10-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

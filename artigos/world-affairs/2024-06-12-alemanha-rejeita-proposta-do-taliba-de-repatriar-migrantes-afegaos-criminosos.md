@@ -2,7 +2,7 @@
 title: Alemanha Rejeita Proposta do Talibã de Repatriar Migrantes Afegãos Criminosos
 date: 2024-06-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

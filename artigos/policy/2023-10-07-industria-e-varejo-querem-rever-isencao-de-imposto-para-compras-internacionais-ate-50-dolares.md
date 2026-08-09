@@ -3,7 +3,7 @@ title: Indústria e varejo querem rever isenção de imposto para compras intern
   até 50 dólares
 date: 2023-10-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

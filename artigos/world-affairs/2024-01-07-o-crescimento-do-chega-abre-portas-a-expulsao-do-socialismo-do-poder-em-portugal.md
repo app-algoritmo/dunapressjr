@@ -2,7 +2,7 @@
 title: O crescimento do CHEGA abre portas à expulsão do socialismo do poder em Portugal
 date: 2024-01-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

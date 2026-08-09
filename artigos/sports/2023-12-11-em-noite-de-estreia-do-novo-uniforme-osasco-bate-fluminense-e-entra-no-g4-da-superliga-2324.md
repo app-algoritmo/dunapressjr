@@ -2,7 +2,7 @@
 title: "Em noite de estreia do novo uniforme, Osasco bate Fluminense e entra no G4 da Superliga 23/24"
 date: 2023-12-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

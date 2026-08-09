@@ -2,7 +2,7 @@
 title: Os alimentos podem estar comprometidos por práticas ilícitas?
 date: 2023-04-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: "Últimos dias de inscrições para As Tartarugas Ninja Run, em São Paulo (SP)"
 date: 2023-09-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

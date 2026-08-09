@@ -2,7 +2,7 @@
 title: Rogério Marinho critica perspectiva de déficit fiscal neste ano
 date: 2023-12-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

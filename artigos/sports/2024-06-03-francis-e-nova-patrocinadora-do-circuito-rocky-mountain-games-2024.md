@@ -2,7 +2,7 @@
 title: "Francis é nova patrocinadora do circuito Rocky Mountain Games 2024"
 date: 2024-06-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

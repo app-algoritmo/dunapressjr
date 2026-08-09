@@ -2,7 +2,7 @@
 title: Chefe de direitos humanos do Irã chama sanções dos EUA de 'ilegais'
 date: 2023-06-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

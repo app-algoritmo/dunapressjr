@@ -3,7 +3,7 @@ title: Vice-líder do governo no Congresso apresenta emenda que altera meta fisc
   de 2024
 date: 2023-11-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Kremlin espera por equilíbrio nas relações Moscou-Helsínquia com novo
   finlandês
 date: 2024-02-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

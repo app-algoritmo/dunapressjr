@@ -3,7 +3,7 @@ title: 'EUA e Reino Unido Intensificam Ataques no Iêmen: A Realidade dos Númer
   suas Consequências Devastadoras'
 date: 2024-04-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

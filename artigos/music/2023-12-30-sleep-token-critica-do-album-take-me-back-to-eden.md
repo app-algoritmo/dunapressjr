@@ -2,7 +2,7 @@
 title: "Sleep Token | Crítica do álbum 'Take Me Back To Eden'"
 date: 2023-12-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Music
 ---

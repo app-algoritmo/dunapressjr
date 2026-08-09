@@ -3,7 +3,7 @@ title: Microsoft interromperá a renovação de licenças para empresas russas a
   de setembro
 date: 2023-08-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

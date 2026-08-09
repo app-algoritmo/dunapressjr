@@ -2,7 +2,7 @@
 title: HAARP desencadeará 'cataclismos bíblicos' para inaugurar uma 'nova ordem mundial'
 date: 2023-04-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

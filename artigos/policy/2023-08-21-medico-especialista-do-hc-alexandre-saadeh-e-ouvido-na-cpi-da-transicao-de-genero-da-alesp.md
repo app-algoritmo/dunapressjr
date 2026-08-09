@@ -3,7 +3,7 @@ title: Médico especialista do HC, Alexandre Saadeh é ouvido na CPI da Transiç
   Gênero da Alesp
 date: 2023-08-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

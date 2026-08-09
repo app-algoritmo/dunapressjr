@@ -2,7 +2,7 @@
 title: Militares debatem Comunicação Estratégica em São Paulo
 date: 2023-09-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

@@ -3,7 +3,7 @@ title: A Coreia do Norte é nomeada para o Conselho Executivo da Organização M
   da Saúde
 date: 2023-06-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

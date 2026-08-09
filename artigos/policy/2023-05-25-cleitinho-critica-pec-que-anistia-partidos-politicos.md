@@ -2,7 +2,7 @@
 title: Cleitinho critica PEC que anistia partidos políticos
 date: 2023-05-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

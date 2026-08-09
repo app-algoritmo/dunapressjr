@@ -2,7 +2,7 @@
 title: "Carioca Shopping promove atividades infantis durante os sábados e domingos"
 date: 2023-05-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
   - Culture and History

@@ -2,7 +2,7 @@
 title: "Carioca Shopping promove Feira de Adoção Pet"
 date: 2023-07-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Pets
 ---

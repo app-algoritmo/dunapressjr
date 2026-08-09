@@ -3,7 +3,7 @@ title: '''Grande vitória'' no julgamento contra o Fórum Econômico Mundial, Kl
   cede'
 date: 2023-08-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

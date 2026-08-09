@@ -2,7 +2,7 @@
 title: "Tecnologia é com elas"
 date: 2024-03-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Technology
 ---

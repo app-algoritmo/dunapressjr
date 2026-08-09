@@ -3,7 +3,7 @@ title: 'Relatório do WEF: A identidade digital no metaverso pode permitir que a
   ''melhorem sua reputação e se beneficiem social e economicamente'''
 date: 2023-07-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: O Caos da Ucrânia estrelado por Blackrock e outros interessados
 date: 2023-08-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

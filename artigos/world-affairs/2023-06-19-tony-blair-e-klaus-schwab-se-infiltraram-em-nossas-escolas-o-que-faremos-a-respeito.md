@@ -3,7 +3,7 @@ title: Tony Blair e Klaus Schwab se infiltraram em nossas escolas, o que faremos
   respeito?
 date: 2023-06-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

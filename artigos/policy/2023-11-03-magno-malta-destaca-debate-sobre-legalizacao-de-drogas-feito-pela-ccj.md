@@ -2,7 +2,7 @@
 title: Magno Malta destaca debate sobre legalização de drogas feito pela CCJ
 date: 2023-11-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

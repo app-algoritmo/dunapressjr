@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear reúne a família e os amigos em Belém no Dia dos Pais"
 date: 2023-08-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

@@ -3,7 +3,7 @@ title: Nova Versão do Tratado da OMS Propõe 'Força de Trabalho Global para Em
   de Saúde'
 date: 2024-05-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

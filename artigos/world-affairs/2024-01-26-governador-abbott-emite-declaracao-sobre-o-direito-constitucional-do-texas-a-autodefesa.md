@@ -3,7 +3,7 @@ title: Governador Abbott emite declaração sobre o direito constitucional do Te
   à autodefesa
 date: 2024-01-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

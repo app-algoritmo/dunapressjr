@@ -2,7 +2,7 @@
 title: "Videocast reúne mulheres com destaque em diversos setores para falar sobre principais desafios no mercado de trabalho"
 date: 2024-05-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Courses and Careers
   - Personal Development

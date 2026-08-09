@@ -2,7 +2,7 @@
 title: O papel do Ocidente no colapso das negociações de paz entre Rússia e Ucrânia
 date: 2024-05-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

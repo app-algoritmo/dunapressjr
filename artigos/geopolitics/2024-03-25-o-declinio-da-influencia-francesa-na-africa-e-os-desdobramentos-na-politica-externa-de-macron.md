@@ -3,7 +3,7 @@ title: O Declínio da Influência Francesa na África e os Desdobramentos na Pol
   Externa de Macron
 date: 2024-03-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

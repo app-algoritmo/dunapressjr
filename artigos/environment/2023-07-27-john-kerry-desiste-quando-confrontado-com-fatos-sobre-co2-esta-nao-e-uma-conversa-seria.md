@@ -3,7 +3,7 @@ title: 'John Kerry desiste quando confrontado com FATOS sobre Co2: ''Esta não �
   conversa séria'''
 date: 2023-07-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Environment
 ---

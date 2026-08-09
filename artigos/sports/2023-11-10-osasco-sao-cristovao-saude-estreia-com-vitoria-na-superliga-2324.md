@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde estreia com vitória na Superliga 23/24"
 date: 2023-11-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

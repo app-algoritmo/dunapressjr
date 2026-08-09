@@ -3,7 +3,7 @@ title: Andrew Bridgen Alerta sobre Possível Ataque de Bandeira Falsa da OTAN us
   'Bomba Suja' Nuclear
 date: 2024-06-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: "Investimento em pesquisa garante a Prati-Donaduzzi premiação pela Época Negócios"
 date: 2023-10-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Business and Economy
   - Financial Education

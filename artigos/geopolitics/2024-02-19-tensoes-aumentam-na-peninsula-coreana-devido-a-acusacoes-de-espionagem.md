@@ -2,7 +2,7 @@
 title: Tensões Aumentam na Península Coreana devido a Acusações de Espionagem
 date: 2024-02-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

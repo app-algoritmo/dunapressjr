@@ -2,7 +2,7 @@
 title: "Liga Esportiva NESCAU® bate recordes e reúne cerca de 20 mil pessoas na capital paulista"
 date: 2023-09-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

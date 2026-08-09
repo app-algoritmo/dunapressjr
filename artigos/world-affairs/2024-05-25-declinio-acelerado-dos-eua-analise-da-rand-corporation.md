@@ -2,7 +2,7 @@
 title: 'Declínio Acelerado dos EUA: Análise da RAND Corporation'
 date: 2024-05-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

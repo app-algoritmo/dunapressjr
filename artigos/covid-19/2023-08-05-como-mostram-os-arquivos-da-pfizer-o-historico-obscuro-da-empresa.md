@@ -2,7 +2,7 @@
 title: Como mostram os arquivos da Pfizer, o histórico obscuro da empresa
 date: 2023-08-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

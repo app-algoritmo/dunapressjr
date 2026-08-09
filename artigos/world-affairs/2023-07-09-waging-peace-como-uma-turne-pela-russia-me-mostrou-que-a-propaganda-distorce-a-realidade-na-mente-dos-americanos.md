@@ -3,7 +3,7 @@ title: '''Waging Peace'': como uma turnê pela Rússia me mostrou que a propagan
   a realidade na mente dos americanos'
 date: 2023-07-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

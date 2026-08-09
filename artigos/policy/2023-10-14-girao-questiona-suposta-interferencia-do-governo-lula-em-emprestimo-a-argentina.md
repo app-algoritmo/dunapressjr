@@ -2,7 +2,7 @@
 title: Girão questiona suposta interferência do governo Lula em empréstimo à Argentina
 date: 2023-10-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: CCJ aprova projeto que estimula a integração de todos os modais de transporte
 date: 2023-08-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

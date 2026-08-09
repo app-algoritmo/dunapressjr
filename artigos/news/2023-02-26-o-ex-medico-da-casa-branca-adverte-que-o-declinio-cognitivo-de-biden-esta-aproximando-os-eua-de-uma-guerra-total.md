@@ -3,7 +3,7 @@ title: O ex-médico da Casa Branca adverte que o declínio cognitivo de Biden es
   os EUA de uma 'guerra total'
 date: 2023-02-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

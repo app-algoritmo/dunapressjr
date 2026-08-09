@@ -2,7 +2,7 @@
 title: "Programação no Caxias Shopping para os pequenos"
 date: 2023-06-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

@@ -2,7 +2,7 @@
 title: "Tecnologia de ponta a ponta: 5 tendências que vão moldar o mercado automotivo em 2024"
 date: 2024-01-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
   - Technology

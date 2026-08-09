@@ -2,7 +2,7 @@
 title: Marcos Rogério cobra promessas de campanha do governador de Rondônia
 date: 2023-10-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

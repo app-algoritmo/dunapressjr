@@ -2,7 +2,7 @@
 title: "WhatsApp lança função para quem é ansioso"
 date: 2023-02-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

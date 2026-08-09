@@ -2,7 +2,7 @@
 title: Viana propõe incentivo fiscal para startups
 date: 2023-08-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

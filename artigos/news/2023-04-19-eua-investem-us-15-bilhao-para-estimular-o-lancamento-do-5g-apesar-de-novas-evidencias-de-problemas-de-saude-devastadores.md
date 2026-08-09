@@ -3,7 +3,7 @@ title: EUA investem US$ 1,5 bilhão para estimular o lançamento do 5G, apesar d
   evidências de problemas de saúde 'devastadores'
 date: 2023-04-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

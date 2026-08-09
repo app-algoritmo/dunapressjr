@@ -2,7 +2,7 @@
 title: França Suspende Conversações com Autoridades Russas
 date: 2024-04-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

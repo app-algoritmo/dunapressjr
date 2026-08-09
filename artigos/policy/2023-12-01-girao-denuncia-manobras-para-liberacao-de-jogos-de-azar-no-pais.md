@@ -2,7 +2,7 @@
 title: Girão denuncia manobras para liberação de jogos de azar no país
 date: 2023-12-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

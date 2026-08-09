@@ -2,7 +2,7 @@
 title: Supremo Tribunal dos EUA permite que lei de imigração do Texas entre em vigor
 date: 2024-03-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

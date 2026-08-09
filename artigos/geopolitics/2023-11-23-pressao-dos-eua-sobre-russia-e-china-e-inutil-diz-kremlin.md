@@ -2,7 +2,7 @@
 title: Pressão dos EUA sobre Rússia e China é 'inútil', diz Kremlin
 date: 2023-11-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

@@ -3,7 +3,7 @@ title: Câmara aprova projeto que aumenta penas para furto, roubo, latrocínio e
   crimes
 date: 2023-11-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

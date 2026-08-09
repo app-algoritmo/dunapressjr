@@ -3,7 +3,7 @@ title: Presidente da Comissão de Orçamento da Câmara dos Deputados Critica Me
   Econômica do Papa Francisco
 date: 2024-03-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

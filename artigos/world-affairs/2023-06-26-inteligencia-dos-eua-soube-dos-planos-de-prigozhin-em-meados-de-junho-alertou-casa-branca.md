@@ -3,7 +3,7 @@ title: Inteligência dos EUA soube dos planos de Prigozhin em meados de junho, a
   Casa Branca
 date: 2023-06-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

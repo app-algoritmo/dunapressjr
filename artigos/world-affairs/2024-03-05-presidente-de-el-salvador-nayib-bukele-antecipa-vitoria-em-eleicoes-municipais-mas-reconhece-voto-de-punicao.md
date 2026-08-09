@@ -3,7 +3,7 @@ title: Presidente de El Salvador, Nayib Bukele, Antecipa Vitória em Eleições 
   mas Reconhece Voto de Punição
 date: 2024-03-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

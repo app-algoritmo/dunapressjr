@@ -3,7 +3,7 @@ title: 'Bolsonaro se encontrou em Buenos Aires com Milei: “foi uma conversa en
   amigos”'
 date: 2023-12-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

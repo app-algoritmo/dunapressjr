@@ -2,7 +2,7 @@
 title: Congresso aprova Orçamento de 2024; redução do Fundo Eleitoral é rejeitada
 date: 2023-12-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

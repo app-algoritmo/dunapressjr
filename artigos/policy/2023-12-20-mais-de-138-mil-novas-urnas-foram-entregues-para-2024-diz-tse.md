@@ -2,7 +2,7 @@
 title: Mais de 138 mil novas urnas foram entregues para 2024, diz TSE
 date: 2023-12-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

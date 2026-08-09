@@ -3,7 +3,7 @@ title: Presidente Boluarte Envolvida em Ampliação da Investigação por Supost
   no 'Caso Rolex'
 date: 2024-04-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

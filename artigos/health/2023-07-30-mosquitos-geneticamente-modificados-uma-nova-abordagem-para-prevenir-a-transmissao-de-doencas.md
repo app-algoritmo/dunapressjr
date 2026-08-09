@@ -3,7 +3,7 @@ title: 'Mosquitos Geneticamente Modificados: Uma Nova Abordagem para Prevenir a 
   de Doenças'
 date: 2023-07-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

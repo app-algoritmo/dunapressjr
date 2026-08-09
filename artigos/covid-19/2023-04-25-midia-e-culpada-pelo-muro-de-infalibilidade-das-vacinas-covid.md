@@ -2,7 +2,7 @@
 title: Mídia é culpada pelo 'muro de infalibilidade' das vacinas COVID
 date: 2023-04-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 - Health

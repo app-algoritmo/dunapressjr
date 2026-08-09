@@ -2,7 +2,7 @@
 title: "Imagens mostram momento em que iate vira em alto-mar; VEJA VÍDEO"
 date: 2023-02-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

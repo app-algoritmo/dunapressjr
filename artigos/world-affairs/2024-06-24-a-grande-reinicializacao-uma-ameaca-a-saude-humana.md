@@ -2,7 +2,7 @@
 title: 'A Grande Reinicialização: Uma Ameaça à Saúde Humana?'
 date: 2024-06-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

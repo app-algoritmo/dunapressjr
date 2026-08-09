@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear fecha a temporada com mais de 20 mil participantes"
 date: 2023-09-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

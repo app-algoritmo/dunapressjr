@@ -2,7 +2,7 @@
 title: "Luisa Stefani busca vaga nas oitavas de dupla feminina neste sábado no US Open"
 date: 2023-09-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

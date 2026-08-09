@@ -2,7 +2,7 @@
 title: Presidente da Republika Srpska reafirma laços históricos entre sérvios e russos
 date: 2024-03-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

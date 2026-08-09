@@ -3,7 +3,7 @@ title: Petro propôs ao Papa realizar “uma rodada” de negociações com a gu
   ELN no Vaticano
 date: 2024-01-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

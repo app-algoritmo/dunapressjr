@@ -2,7 +2,7 @@
 title: "Luisa Stefani segue para o WTA 500 de Tóquio, no Japão"
 date: 2023-09-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

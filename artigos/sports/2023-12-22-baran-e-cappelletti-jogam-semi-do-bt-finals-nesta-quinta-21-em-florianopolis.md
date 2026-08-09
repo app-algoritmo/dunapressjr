@@ -2,7 +2,7 @@
 title: "Baran e Cappelletti jogam semi do BT Finals nesta quinta (21), em Florianópolis"
 date: 2023-12-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

@@ -2,7 +2,7 @@
 title: Real tem a melhor performance em 2022 entre 33 moedas globais
 date: 2023-01-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

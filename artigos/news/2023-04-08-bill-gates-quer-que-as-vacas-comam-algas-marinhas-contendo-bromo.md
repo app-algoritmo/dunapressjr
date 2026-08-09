@@ -2,7 +2,7 @@
 title: Bill Gates quer que as vacas comam algas marinhas contendo bromo
 date: 2023-04-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

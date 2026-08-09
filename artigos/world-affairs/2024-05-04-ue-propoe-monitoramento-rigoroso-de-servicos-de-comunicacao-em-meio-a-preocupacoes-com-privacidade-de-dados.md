@@ -3,7 +3,7 @@ title: UE Propõe Monitoramento Rigoroso de Serviços de Comunicação em Meio a
   com Privacidade de Dados
 date: 2024-05-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

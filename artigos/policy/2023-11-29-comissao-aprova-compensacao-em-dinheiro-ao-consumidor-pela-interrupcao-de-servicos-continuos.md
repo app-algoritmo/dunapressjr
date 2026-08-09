@@ -3,7 +3,7 @@ title: Comissão aprova compensação em dinheiro ao consumidor pela interrupç�
   contínuos
 date: 2023-11-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

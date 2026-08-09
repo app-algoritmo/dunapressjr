@@ -3,7 +3,7 @@ title: Por que os governos e as autoridades de saúde escondem e ignoram os efei
   adversos das 'vacinas'?
 date: 2023-01-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

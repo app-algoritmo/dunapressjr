@@ -3,7 +3,7 @@ title: Verdadeiros objetivos por trás da pesquisa biológica dos EUA revelados 
   diz Kirillov
 date: 2024-01-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

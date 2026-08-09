@@ -3,7 +3,7 @@ title: Como Bill Gates e seus aliados estão usando a África como campo de test
   drogas
 date: 2023-03-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

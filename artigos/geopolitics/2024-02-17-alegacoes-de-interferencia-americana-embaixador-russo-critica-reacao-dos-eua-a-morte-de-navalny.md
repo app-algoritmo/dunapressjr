@@ -3,7 +3,7 @@ title: 'Alegações de Interferência Americana: Embaixador Russo Critica Reaç�
   EUA à Morte de Navalny'
 date: 2024-02-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

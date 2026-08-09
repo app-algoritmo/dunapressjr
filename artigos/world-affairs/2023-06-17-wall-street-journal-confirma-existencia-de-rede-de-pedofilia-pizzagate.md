@@ -2,7 +2,7 @@
 title: Wall Street Journal confirma existência de rede de pedofilia “Pizzagate”
 date: 2023-06-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

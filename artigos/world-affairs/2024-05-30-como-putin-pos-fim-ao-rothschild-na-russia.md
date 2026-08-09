@@ -2,7 +2,7 @@
 title: Como Putin pôs fim ao Rothschild na Rússia
 date: 2024-05-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

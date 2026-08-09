@@ -2,7 +2,7 @@
 title: Roubos de carga caem 36% em julho na Grande São Paulo
 date: 2023-08-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

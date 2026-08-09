@@ -2,7 +2,7 @@
 title: O FBI investiga o prefeito democrata de Nova York por sua relação com a Turquia
 date: 2023-12-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

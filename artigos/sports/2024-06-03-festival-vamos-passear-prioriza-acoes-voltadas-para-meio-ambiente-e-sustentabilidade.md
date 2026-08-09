@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear prioriza ações voltadas para meio ambiente e sustentabilidade"
 date: 2024-06-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

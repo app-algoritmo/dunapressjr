@@ -2,7 +2,7 @@
 title: A OMS, soberania e realidade
 date: 2023-07-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

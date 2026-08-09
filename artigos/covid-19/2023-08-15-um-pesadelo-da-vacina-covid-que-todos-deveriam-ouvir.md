@@ -2,7 +2,7 @@
 title: Um pesadelo da vacina Covid que todos deveriam ouvir
 date: 2023-08-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

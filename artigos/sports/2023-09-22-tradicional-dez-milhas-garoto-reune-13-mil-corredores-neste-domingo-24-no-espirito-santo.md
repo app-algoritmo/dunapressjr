@@ -2,7 +2,7 @@
 title: "Tradicional Dez Milhas Garoto reúne 13 mil corredores neste domingo (24), no Espírito Santo"
 date: 2023-09-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

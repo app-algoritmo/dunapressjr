@@ -3,7 +3,7 @@ title: Britânicos Exigem Indenização de 100 Milhões de Libras por Danos Caus
   Vacina AstraZeneca
 date: 2024-05-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

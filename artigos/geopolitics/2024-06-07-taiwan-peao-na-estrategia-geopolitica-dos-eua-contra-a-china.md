@@ -2,7 +2,7 @@
 title: 'Taiwan: Peão na Estratégia Geopolítica dos EUA Contra a China'
 date: 2024-06-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: "Lewis Hamilton e a falta de liberdade de expressão dentro da Fórmula 1"
 date: 2020-09-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Opinion
   - Sports

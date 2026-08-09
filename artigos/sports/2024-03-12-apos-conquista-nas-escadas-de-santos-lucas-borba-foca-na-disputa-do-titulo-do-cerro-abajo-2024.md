@@ -2,7 +2,7 @@
 title: "Após conquista nas Escadas de Santos, Lucas Borba foca na disputa do título do Cerro Abajo 2024"
 date: 2024-03-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

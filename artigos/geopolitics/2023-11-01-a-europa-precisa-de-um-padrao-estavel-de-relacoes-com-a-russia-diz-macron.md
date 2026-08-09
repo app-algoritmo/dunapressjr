@@ -2,7 +2,7 @@
 title: A Europa precisa de um padrão estável de relações com a Rússia, diz Macron
 date: 2023-11-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: "São Paulo vai receber o maior evento de negócio para nutricionistas do Brasil em maio"
 date: 2024-03-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

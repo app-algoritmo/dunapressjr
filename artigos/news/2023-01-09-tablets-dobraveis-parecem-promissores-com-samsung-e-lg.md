@@ -2,7 +2,7 @@
 title: "Tablets dobráveis ​​parecem promissores com Samsung e LG"
 date: 2023-01-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Technology

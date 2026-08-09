@@ -2,7 +2,7 @@
 title: "Análise: GP da Toscana"
 date: 2020-09-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Opinion
   - Sports

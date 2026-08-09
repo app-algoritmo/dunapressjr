@@ -2,7 +2,7 @@
 title: "Sequência de Liam Neeson 'Missão resgate 2' vai para a Amazon por cerca de US$ 17 milhões"
 date: 2023-05-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

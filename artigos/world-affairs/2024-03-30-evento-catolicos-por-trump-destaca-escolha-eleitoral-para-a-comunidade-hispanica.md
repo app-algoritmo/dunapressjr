@@ -2,7 +2,7 @@
 title: Evento 'Católicos por Trump' Destaca Escolha Eleitoral para a Comunidade Hispânica
 date: 2024-03-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

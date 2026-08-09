@@ -2,7 +2,7 @@
 title: Os socorristas digitais da ONU – ou as camisas marrons virtuais da ONU?
 date: 2023-07-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

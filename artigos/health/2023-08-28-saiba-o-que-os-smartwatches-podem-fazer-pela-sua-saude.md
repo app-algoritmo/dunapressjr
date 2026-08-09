@@ -2,7 +2,7 @@
 title: "Saiba o que os smartwatches podem fazer pela sua saúde"
 date: 2023-08-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
   - Technology

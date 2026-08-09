@@ -2,7 +2,7 @@
 title: Marcos Rogério questiona fala de Mauro Vieira sobre resgate na Faixa de Gaza
 date: 2023-11-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

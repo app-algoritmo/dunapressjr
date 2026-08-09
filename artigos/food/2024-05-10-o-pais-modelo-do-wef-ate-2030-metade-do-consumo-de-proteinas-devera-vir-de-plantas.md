@@ -3,7 +3,7 @@ title: 'O país modelo do WEF: até 2030, metade do consumo de proteínas dever�
   de plantas'
 date: 2024-05-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

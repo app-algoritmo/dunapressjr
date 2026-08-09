@@ -2,7 +2,7 @@
 title: CPMI ouve general Gonçalves Dias e coronel que chefiava PM no dia 8 de janeiro
 date: 2023-08-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

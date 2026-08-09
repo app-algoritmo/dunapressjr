@@ -3,7 +3,7 @@ title: Carne cultivada a partir de células de frango em laboratórios deve assu
   os restaurantes e supermercados dos EUA com o início do Global Food RESET
 date: 2023-07-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

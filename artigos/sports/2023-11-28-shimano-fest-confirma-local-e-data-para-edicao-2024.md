@@ -2,7 +2,7 @@
 title: "Shimano Fest confirma local e data para edição 2024"
 date: 2023-11-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

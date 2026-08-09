@@ -2,7 +2,7 @@
 title: "Aquaman e o Reino Perdido ganha primeiro teaser na CinemaCon"
 date: 2023-04-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

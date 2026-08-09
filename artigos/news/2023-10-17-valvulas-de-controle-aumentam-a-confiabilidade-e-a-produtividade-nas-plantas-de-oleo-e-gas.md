@@ -2,7 +2,7 @@
 title: "Válvulas de controle aumentam a confiabilidade e a produtividade nas plantas de óleo e gás"
 date: 2023-10-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Technology

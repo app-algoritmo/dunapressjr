@@ -2,7 +2,7 @@
 title: "Storm Riders: bikes ocupam avenida Pacaembu, em São Paulo, em percurso inédito, neste domingo (13)"
 date: 2023-08-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

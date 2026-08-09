@@ -2,7 +2,7 @@
 title: "Churrasco do Pequeno Cotolengo completa 50 anos com grandiosa festa"
 date: 2023-11-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Health

@@ -2,7 +2,7 @@
 title: "Instituto Etiene Medeiros tem primeira aluna na disputa de um campeonato nacional de natação"
 date: 2023-12-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Swimming

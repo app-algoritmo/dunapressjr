@@ -2,7 +2,7 @@
 title: "O que as Paletas de Cores significam para os filmes e séries?"
 date: 2020-08-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Video library
 ---

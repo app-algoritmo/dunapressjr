@@ -2,7 +2,7 @@
 title: "Coração em perigo: uma a cada cinco brasileiras tem risco de sofrer um infarto"
 date: 2023-09-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

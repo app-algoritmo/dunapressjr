@@ -2,7 +2,7 @@
 title: "A importância da música na educação infantil"
 date: 2020-08-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

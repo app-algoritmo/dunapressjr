@@ -2,7 +2,7 @@
 title: "Melhor que 'café da manhã de hotel': confira nova experiência gastronômica de brunch em Curitiba"
 date: 2023-10-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Food

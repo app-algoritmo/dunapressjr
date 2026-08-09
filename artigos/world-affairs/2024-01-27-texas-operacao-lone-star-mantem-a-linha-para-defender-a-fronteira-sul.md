@@ -2,7 +2,7 @@
 title: 'Texas: Operação Lone Star mantém a linha para defender a fronteira sul'
 date: 2024-01-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

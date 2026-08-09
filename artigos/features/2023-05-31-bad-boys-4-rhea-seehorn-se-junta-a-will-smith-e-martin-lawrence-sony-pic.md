@@ -2,7 +2,7 @@
 title: "'Bad Boys 4': Rhea Seehorn se junta a Will Smith e Martin Lawrence Sony Pic"
 date: 2023-05-31
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

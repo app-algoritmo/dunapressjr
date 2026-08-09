@@ -3,7 +3,7 @@ title: Receptores de vacina COVID feridos processam governos e Big Pharma em bus
   de restituição
 date: 2023-05-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

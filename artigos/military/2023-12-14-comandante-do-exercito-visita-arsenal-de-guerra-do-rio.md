@@ -2,7 +2,7 @@
 title: Comandante do Exército visita Arsenal de Guerra do Rio
 date: 2023-12-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

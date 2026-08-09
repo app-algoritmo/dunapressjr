@@ -2,7 +2,7 @@
 title: "Estudo mostram como músicas e filmes estão relacionados a memórias antigas"
 date: 2023-01-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

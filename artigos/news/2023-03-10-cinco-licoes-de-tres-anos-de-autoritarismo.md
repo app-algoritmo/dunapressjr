@@ -2,7 +2,7 @@
 title: Cinco lições de três anos de autoritarismo
 date: 2023-03-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

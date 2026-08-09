@@ -2,7 +2,7 @@
 title: A esquerda ibero-americana lamenta a derrota do kirchnerismo
 date: 2023-11-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

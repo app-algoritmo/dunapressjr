@@ -3,7 +3,7 @@ title: 'Juiz ordena libertação de imigrantes após tumulto na fronteira do Tex
   análise detalhada'
 date: 2024-04-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

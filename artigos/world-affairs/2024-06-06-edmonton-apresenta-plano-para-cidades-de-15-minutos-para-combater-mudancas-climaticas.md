@@ -3,7 +3,7 @@ title: Edmonton Apresenta Plano para Cidades de 15 Minutos para Combater Mudanç
   Climáticas
 date: 2024-06-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

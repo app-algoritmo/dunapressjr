@@ -3,7 +3,7 @@ title: Obama sugere desenvolver 'impressões digitais' para combater 'desinforma
   online
 date: 2023-06-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

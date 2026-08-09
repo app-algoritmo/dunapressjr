@@ -2,7 +2,7 @@
 title: "Mar particular na 'onda wellness' dos empreendimentos residenciais de alto padrão"
 date: 2024-02-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

@@ -2,7 +2,7 @@
 title: Minha luta será contra a pedofilia e a legalização das drogas, diz Magno Malta
 date: 2023-02-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

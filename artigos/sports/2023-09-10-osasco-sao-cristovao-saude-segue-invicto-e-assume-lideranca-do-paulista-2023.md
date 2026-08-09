@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde segue invicto e assume liderança do Paulista 2023"
 date: 2023-09-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

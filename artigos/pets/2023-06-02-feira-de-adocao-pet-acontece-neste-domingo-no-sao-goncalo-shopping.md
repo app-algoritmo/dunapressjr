@@ -2,7 +2,7 @@
 title: "Feira de Adoção PET acontece neste domingo no São Gonçalo Shopping"
 date: 2023-06-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Pets
 ---

@@ -3,7 +3,7 @@ title: Cerca de 600 pessoas detidas na França por atos antissemitas desde o in�
   da guerra em Gaza
 date: 2023-11-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

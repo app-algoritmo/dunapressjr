@@ -2,7 +2,7 @@
 title: 'A Ascensão da Guerra Fria 2.0: Reflexões sobre a Geopolítica Contemporânea'
 date: 2024-05-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

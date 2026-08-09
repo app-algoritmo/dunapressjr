@@ -2,7 +2,7 @@
 title: Putin Declara a Emergência de uma Ordem Mundial Multipolar e Chama à Resiliência
 date: 2024-06-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

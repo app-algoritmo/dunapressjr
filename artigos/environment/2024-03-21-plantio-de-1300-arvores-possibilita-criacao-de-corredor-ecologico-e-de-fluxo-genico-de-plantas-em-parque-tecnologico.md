@@ -2,7 +2,7 @@
 title: "Plantio de 1.300 árvores possibilita criação de corredor ecológico e de fluxo gênico de plantas em parque tecnológico"
 date: 2024-03-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Environment
   - Technology

@@ -2,7 +2,7 @@
 title: Com Lei Paulo Gustavo, governo garante R$ 3,8 bilhões para a cultura
 date: 2023-05-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

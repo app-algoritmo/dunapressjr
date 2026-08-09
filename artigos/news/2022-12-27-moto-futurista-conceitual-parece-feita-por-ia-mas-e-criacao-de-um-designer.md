@@ -2,7 +2,7 @@
 title: "Moto futurista conceitual parece feita por IA, mas é criação de um designer"
 date: 2022-12-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Technology

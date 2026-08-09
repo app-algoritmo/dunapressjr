@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde apresenta o time para a temporada 2024/25 nesta quinta-feira (20)"
 date: 2024-06-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

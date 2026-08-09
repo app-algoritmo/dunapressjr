@@ -2,7 +2,7 @@
 title: 'OTAN e a Modernização da Dissuasão Nuclear: Estratégias e Controvérsias'
 date: 2024-06-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

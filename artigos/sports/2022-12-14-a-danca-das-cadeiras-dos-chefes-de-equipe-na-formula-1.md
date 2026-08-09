@@ -2,7 +2,7 @@
 title: "A 'dança das cadeiras' dos chefes de equipe na Fórmula 1"
 date: 2022-12-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

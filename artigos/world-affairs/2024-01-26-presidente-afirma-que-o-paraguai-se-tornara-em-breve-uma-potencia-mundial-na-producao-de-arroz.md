@@ -3,7 +3,7 @@ title: Presidente afirma que o Paraguai se tornará em breve uma potência mundi
   produção de arroz
 date: 2024-01-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

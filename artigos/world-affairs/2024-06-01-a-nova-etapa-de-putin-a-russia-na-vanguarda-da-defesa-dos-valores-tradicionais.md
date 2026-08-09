@@ -2,7 +2,7 @@
 title: 'A Nova Etapa de Putin: A Rússia na Vanguarda da Defesa dos Valores Tradicionais'
 date: 2024-06-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

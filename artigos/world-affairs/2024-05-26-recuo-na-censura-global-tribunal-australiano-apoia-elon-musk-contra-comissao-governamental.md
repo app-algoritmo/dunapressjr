@@ -3,7 +3,7 @@ title: 'Recuo na Censura Global: Tribunal Australiano Apoia Elon Musk contra Com
   Governamental'
 date: 2024-05-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

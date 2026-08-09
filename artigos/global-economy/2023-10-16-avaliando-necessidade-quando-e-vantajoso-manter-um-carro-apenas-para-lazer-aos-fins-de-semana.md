@@ -2,7 +2,7 @@
 title: "Avaliando necessidade: quando é vantajoso manter um carro apenas para lazer aos fins de semana?"
 date: 2023-10-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Global Economy
 ---

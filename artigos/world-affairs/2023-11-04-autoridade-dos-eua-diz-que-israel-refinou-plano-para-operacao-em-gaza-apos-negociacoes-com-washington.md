@@ -3,7 +3,7 @@ title: Autoridade dos EUA diz que Israel refinou plano para operação em Gaza a
   negociações com Washington
 date: 2023-11-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

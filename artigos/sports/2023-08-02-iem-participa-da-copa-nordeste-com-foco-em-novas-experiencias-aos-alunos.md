@@ -2,7 +2,7 @@
 title: "IEM participa da Copa Nordeste com foco em novas experiências aos alunos"
 date: 2023-08-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Swimming

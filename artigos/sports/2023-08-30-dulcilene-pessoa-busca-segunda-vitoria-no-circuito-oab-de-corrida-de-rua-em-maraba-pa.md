@@ -2,7 +2,7 @@
 title: "Dulcilene Pessoa busca segunda vitória no Circuito OAB de Corrida de Rua, em Marabá (PA)"
 date: 2023-08-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

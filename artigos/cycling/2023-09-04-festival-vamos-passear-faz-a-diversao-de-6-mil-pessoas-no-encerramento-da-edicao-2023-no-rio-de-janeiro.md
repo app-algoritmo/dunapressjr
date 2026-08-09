@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear faz a diversão de 6 mil pessoas no encerramento da edição 2023, no Rio de Janeiro"
 date: 2023-09-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Events

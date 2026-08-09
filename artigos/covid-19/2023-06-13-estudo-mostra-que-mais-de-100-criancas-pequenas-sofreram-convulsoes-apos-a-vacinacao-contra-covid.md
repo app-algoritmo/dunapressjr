@@ -3,7 +3,7 @@ title: Estudo mostra que mais de 100 crianças pequenas sofreram convulsões ap�
   vacinação contra COVID
 date: 2023-06-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

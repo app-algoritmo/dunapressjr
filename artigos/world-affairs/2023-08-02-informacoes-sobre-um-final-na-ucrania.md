@@ -2,7 +2,7 @@
 title: Informações sobre um final na Ucrânia
 date: 2023-08-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

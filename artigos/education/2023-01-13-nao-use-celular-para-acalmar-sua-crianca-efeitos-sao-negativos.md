@@ -2,7 +2,7 @@
 title: "Não use celular para acalmar sua criança: efeitos são negativos"
 date: 2023-01-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - News

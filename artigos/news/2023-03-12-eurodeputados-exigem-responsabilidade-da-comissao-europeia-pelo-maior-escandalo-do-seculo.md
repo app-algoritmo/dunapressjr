@@ -3,7 +3,7 @@ title: Eurodeputados exigem responsabilidade da Comissão Europeia pelo 'maior e
   do século'
 date: 2023-03-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

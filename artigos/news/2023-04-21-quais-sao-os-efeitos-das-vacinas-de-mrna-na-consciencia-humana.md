@@ -2,7 +2,7 @@
 title: Quais são os efeitos das 'vacinas' de mRNA na consciência humana?
 date: 2023-04-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

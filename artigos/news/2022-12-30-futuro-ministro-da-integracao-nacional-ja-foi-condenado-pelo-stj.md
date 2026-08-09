@@ -2,7 +2,7 @@
 title: "Futuro ministro da Integração Nacional já foi condenado pelo STJ"
 date: 2022-12-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

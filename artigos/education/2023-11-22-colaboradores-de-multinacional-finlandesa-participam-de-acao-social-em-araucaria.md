@@ -2,7 +2,7 @@
 title: "Colaboradores de multinacional finlandesa participam de ação social em Araucária"
 date: 2023-11-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Events

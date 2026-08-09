@@ -2,7 +2,7 @@
 title: "Pequeno Cotolengo promove exposição de obras de arte produzidas por pessoas com deficiência"
 date: 2024-06-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

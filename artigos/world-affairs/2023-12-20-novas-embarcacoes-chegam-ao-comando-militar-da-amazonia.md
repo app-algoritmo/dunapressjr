@@ -2,7 +2,7 @@
 title: Novas embarcações chegam ao Comando Militar da Amazônia
 date: 2023-12-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

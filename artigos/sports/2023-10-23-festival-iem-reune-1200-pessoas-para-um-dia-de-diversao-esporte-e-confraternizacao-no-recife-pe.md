@@ -2,7 +2,7 @@
 title: "Festival IEM reúne 1.200 pessoas para um dia de diversão, esporte e confraternização no Recife (PE)"
 date: 2023-10-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

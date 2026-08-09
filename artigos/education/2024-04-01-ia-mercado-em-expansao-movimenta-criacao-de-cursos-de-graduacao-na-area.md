@@ -2,7 +2,7 @@
 title: "IA: mercado em expansão movimenta criação de cursos de graduação na área"
 date: 2024-04-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Technology

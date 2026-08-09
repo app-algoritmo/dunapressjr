@@ -2,7 +2,7 @@
 title: "As Tartarugas Ninja Run faz a alegria de crianças e adultos em manhã de muito calor na capital paulista"
 date: 2023-09-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

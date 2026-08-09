@@ -2,7 +2,7 @@
 title: "Volta às aulas: a importância dos combinados em sala de aula"
 date: 2024-02-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

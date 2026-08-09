@@ -2,7 +2,7 @@
 title: UE pode retirar direito de voto à Hungria para selar acordo de ajuda à Ucrânia
 date: 2023-12-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

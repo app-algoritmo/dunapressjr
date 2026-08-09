@@ -2,7 +2,7 @@
 title: Bolsonaro vetou a farra das emendas feita pelo Congresso às pressas
 date: 2022-12-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: "Globo decide não renovar contrato e deixará de transmitir Fórmula 1 em 2021"
 date: 2020-08-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Sports

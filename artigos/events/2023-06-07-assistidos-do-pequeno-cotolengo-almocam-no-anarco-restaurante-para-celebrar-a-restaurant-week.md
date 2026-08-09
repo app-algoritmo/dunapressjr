@@ -2,7 +2,7 @@
 title: "Assistidos do Pequeno Cotolengo almoçam no Anarco Restaurante para celebrar a Restaurant Week"
 date: 2023-06-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

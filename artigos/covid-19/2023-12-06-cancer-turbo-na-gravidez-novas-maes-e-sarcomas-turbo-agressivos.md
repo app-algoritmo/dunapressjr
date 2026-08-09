@@ -2,7 +2,7 @@
 title: 'Câncer turbo na gravidez: novas mães e sarcomas turbo agressivos'
 date: 2023-12-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

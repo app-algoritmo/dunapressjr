@@ -3,7 +3,7 @@ title: Alemanha reforça apoio militar à Ucrânia com outro sistema de defesa a
   Patriot
 date: 2024-04-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: "'Shimano Para Você', campanha reduz preços de peças da renomada marca japonesa"
 date: 2023-10-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

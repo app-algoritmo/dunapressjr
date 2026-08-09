@@ -3,7 +3,7 @@ title: 'Putin zomba da perseguição judicial ao ex-presidente Trump: “Isso mo
   podridão do sistema político americano”'
 date: 2023-09-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

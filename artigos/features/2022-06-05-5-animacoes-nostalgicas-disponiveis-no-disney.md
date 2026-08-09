@@ -2,7 +2,7 @@
 title: "5 animações nostálgicas disponíveis no Disney+"
 date: 2022-06-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - Video library

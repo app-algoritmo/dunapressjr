@@ -2,7 +2,7 @@
 title: "Encontro de Formação, do IEE, tem nova edição em Lábrea, no interior do Amazonas"
 date: 2023-08-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

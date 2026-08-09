@@ -2,7 +2,7 @@
 title: "Irmãos de rim: doação de órgãos cria laços entre transplantados para toda vida"
 date: 2023-09-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

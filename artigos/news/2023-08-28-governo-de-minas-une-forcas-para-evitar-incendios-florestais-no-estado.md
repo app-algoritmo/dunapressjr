@@ -2,7 +2,7 @@
 title: Governo de Minas une forças para evitar incêndios florestais no estado
 date: 2023-08-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

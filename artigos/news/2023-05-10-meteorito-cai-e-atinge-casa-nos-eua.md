@@ -2,7 +2,7 @@
 title: "Meteorito cai e atinge casa nos EUA"
 date: 2023-05-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

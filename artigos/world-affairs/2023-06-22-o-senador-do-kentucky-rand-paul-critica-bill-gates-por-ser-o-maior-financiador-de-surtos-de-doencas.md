@@ -3,7 +3,7 @@ title: O senador do Kentucky, Rand Paul, critica Bill Gates por ser o maior fina
   de surtos de doenças
 date: 2023-06-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

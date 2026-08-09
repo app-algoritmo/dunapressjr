@@ -2,7 +2,7 @@
 title: "Casa organizada: confira atividades por faixa etária para ensinar crianças"
 date: 2024-03-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

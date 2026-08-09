@@ -2,7 +2,7 @@
 title: "Pequeno Cotolengo faz Churrasco especial de Dia dos Namorados neste domingo, 4"
 date: 2023-06-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

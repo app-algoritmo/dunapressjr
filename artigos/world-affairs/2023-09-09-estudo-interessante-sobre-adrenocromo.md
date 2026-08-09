@@ -2,7 +2,7 @@
 title: Estudo interessante sobre adrenocromo
 date: 2023-09-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

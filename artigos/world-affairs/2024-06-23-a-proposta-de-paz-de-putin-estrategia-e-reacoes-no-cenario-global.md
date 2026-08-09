@@ -2,7 +2,7 @@
 title: 'A Proposta de Paz de Putin: Estratégia e Reações no Cenário Global'
 date: 2024-06-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

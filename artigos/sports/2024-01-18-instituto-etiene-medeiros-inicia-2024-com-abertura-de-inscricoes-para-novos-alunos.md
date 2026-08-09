@@ -2,7 +2,7 @@
 title: "Instituto Etiene Medeiros inicia 2024 com abertura de inscrições para novos alunos"
 date: 2024-01-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

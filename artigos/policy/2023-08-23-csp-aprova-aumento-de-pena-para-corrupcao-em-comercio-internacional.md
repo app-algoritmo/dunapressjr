@@ -2,7 +2,7 @@
 title: CSP aprova aumento de pena para corrupção em comércio internacional
 date: 2023-08-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

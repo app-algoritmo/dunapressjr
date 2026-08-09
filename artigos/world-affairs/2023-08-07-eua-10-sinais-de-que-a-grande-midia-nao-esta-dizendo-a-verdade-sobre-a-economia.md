@@ -2,7 +2,7 @@
 title: 'EUA: 10 sinais de que a grande mídia não está dizendo a verdade sobre a economia'
 date: 2023-08-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

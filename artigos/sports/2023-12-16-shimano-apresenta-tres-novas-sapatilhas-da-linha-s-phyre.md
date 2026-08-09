@@ -2,7 +2,7 @@
 title: "Shimano apresenta três novas sapatilhas da linha S-PHYRE"
 date: 2023-12-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

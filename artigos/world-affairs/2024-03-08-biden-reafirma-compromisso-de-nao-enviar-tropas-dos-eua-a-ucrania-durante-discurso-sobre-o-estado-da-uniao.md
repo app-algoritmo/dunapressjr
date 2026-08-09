@@ -3,7 +3,7 @@ title: Biden reafirma compromisso de não enviar tropas dos EUA à Ucrânia dura
   sobre o Estado da União
 date: 2024-03-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

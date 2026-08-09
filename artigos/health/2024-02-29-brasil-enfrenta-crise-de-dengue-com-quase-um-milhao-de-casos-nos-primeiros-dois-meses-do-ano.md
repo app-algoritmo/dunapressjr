@@ -3,7 +3,7 @@ title: Brasil enfrenta crise de dengue com quase um milhão de casos nos primeir
   dois meses do ano
 date: 2024-02-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

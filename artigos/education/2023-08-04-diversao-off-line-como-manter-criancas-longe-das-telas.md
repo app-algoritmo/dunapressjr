@@ -2,7 +2,7 @@
 title: "Diversão off-line: como manter crianças longe das telas"
 date: 2023-08-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Health

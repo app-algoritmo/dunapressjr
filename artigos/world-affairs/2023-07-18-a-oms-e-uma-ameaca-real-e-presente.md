@@ -2,7 +2,7 @@
 title: A OMS é uma ameaça real e presente
 date: 2023-07-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

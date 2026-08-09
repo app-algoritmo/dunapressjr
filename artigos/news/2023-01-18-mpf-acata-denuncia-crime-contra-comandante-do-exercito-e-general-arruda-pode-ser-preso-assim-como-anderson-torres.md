@@ -3,7 +3,7 @@ title: MPF acata denúncia-crime contra comandante do Exército e General Arruda
   ser preso, assim como Anderson Torres
 date: 2023-01-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

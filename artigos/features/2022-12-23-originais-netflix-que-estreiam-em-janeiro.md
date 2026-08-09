@@ -2,7 +2,7 @@
 title: "Originais Netflix que estreiam em janeiro"
 date: 2022-12-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

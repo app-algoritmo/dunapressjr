@@ -2,7 +2,7 @@
 title: Governo argentino oficializou convocação de sessões extraordinárias do Congresso
 date: 2023-12-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

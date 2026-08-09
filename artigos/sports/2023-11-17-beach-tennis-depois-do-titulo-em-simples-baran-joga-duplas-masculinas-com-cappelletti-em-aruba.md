@@ -2,7 +2,7 @@
 title: "Beach Tennis: depois do título em simples, Baran joga duplas masculinas com Cappelletti, em Aruba"
 date: 2023-11-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

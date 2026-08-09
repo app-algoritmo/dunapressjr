@@ -2,7 +2,7 @@
 title: "Cultura Pop e a transformação da sociedade"
 date: 2024-02-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Culture and History
   - Opinion

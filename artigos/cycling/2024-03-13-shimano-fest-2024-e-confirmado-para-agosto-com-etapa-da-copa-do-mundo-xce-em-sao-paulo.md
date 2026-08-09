@@ -2,7 +2,7 @@
 title: "Shimano Fest 2024 é confirmado para agosto com etapa da Copa do Mundo XCE em São Paulo"
 date: 2024-03-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

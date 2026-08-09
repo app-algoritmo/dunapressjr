@@ -3,7 +3,7 @@ title: 'A Imagem Distante: Como a Mídia Britânica Molda a Política do Reino U
   em Relação à China'
 date: 2024-06-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

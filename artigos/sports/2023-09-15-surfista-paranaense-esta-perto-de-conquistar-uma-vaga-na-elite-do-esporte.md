@@ -2,7 +2,7 @@
 title: "Surfista paranaense está perto de conquistar uma vaga na elite do esporte"
 date: 2023-09-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

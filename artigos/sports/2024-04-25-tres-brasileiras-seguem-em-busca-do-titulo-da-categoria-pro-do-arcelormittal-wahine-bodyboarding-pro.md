@@ -2,7 +2,7 @@
 title: "Três brasileiras seguem em busca do título da categoria Pro do ArcelorMittal Wahine Bodyboarding Pro"
 date: 2024-04-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

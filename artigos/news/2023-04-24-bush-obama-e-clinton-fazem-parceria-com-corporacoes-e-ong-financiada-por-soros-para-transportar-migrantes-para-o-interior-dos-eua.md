@@ -3,7 +3,7 @@ title: Bush, Obama e Clinton fazem parceria com corporações e ONG financiada p
   para transportar migrantes para o interior dos EUA
 date: 2023-04-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

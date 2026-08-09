@@ -2,7 +2,7 @@
 title: Representante democrata do Texas acusado de receber subornos do Azerbaijão
 date: 2024-05-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

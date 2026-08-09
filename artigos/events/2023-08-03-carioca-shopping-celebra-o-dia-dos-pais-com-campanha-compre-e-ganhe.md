@@ -2,7 +2,7 @@
 title: "Carioca Shopping celebra o Dia dos Pais com campanha ''Compre e Ganhe''"
 date: 2023-08-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

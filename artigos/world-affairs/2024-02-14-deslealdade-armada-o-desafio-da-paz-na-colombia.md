@@ -2,7 +2,7 @@
 title: 'Deslealdade Armada: O Desafio da Paz na Colômbia'
 date: 2024-02-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

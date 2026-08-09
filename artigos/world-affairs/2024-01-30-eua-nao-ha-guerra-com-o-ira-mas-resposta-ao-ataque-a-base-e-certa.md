@@ -2,7 +2,7 @@
 title: 'EUA: Não há guerra com o Irã, mas resposta ao ataque à base é certa'
 date: 2024-01-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

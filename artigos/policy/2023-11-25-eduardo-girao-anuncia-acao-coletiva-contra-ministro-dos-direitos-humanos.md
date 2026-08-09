@@ -2,7 +2,7 @@
 title: Eduardo Girão anuncia ação coletiva contra ministro dos Direitos Humanos
 date: 2023-11-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

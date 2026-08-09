@@ -2,7 +2,7 @@
 title: 'Harmonia Divina: A Profunda Influência da Música em Nossa Espiritualidade'
 date: 2024-05-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Religiosity
 ---

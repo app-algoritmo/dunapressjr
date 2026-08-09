@@ -2,7 +2,7 @@
 title: "Meia Maratona do Francês agita Marechal Deodoro (AL) neste sábado (23) com 450 participantes"
 date: 2024-03-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

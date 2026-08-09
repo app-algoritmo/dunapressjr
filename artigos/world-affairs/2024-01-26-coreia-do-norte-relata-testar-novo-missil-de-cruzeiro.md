@@ -2,7 +2,7 @@
 title: Coreia do Norte relata testar novo míssil de cruzeiro
 date: 2024-01-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

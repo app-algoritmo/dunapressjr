@@ -2,7 +2,7 @@
 title: "Alinhado com práticas ESG, Instituto Esporte e Educação busca parceiros para transformar vidas"
 date: 2023-11-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

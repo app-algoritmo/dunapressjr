@@ -2,7 +2,7 @@
 title: Zequinha expressa preocupação com aumento da importação de laticínios
 date: 2023-09-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

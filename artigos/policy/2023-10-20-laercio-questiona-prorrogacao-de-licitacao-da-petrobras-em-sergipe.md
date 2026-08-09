@@ -2,7 +2,7 @@
 title: Laércio questiona prorrogação de licitação da Petrobras em Sergipe
 date: 2023-10-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

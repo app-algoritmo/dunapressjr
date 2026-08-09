@@ -2,7 +2,7 @@
 title: Portugal Investe 204,1 Milhões de Euros em Medidas Agroambientais
 date: 2024-02-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

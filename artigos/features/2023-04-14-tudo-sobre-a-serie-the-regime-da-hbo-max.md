@@ -2,7 +2,7 @@
 title: "Tudo sobre a série The Regime da HBO Max"
 date: 2023-04-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

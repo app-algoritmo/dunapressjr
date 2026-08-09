@@ -2,7 +2,7 @@
 title: Fauci ajudou a encobrir a origem do COVID, o que vem a seguir?
 date: 2023-03-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

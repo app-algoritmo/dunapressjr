@@ -3,7 +3,7 @@ title: 'O Conflito Agro-Populista na Europa: Desconstruindo Rótulos e Estratég
   da Esquerda'
 date: 2024-03-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: China Explica sua Ausência na Cimeira de Paz na Ucrânia
 date: 2024-06-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

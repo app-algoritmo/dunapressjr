@@ -2,7 +2,7 @@
 title: Apreensão de drogas cresce 10,3% em sete meses no Estado de São Paulo
 date: 2023-08-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

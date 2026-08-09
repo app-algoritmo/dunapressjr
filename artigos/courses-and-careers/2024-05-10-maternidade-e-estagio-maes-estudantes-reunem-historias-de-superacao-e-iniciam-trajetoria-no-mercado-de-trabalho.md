@@ -2,7 +2,7 @@
 title: "Maternidade e estágio: mães estudantes reúnem histórias de superação e iniciam trajetória no mercado de trabalho"
 date: 2024-05-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Courses and Careers
   - Personal Development

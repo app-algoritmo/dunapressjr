@@ -2,7 +2,7 @@
 title: "Projeto Formações IEE chega a Juazeiro (BA) e beneficia cerca de 4.500 alunos neste mês de setembro"
 date: 2023-09-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

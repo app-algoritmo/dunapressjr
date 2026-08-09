@@ -2,7 +2,7 @@
 title: "A arte de viver: exposição curada por Zilda Fraletti propõe reflexão sobre arte contemporânea"
 date: 2023-10-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
   - Events

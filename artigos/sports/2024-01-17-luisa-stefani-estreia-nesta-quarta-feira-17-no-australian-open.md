@@ -2,7 +2,7 @@
 title: "Luisa Stefani estreia nesta quarta-feira (17) no Australian Open"
 date: 2024-01-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

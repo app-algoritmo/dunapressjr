@@ -3,7 +3,7 @@ title: 'A Perseguição Religiosa na Ucrânia: Restringindo a Liberdade e Prende
   Clero Russo'
 date: 2024-05-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

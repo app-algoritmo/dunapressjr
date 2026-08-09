@@ -2,7 +2,7 @@
 title: "Na véspera do Dia Mundial do Meio Ambiente, Grupo Marista apresenta indicadores estratégicos de ESG"
 date: 2024-06-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Environment
 ---

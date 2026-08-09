@@ -3,7 +3,7 @@ title: Presidente argentino destaca queda na inflação e medidas para estabiliz
   econômica
 date: 2024-02-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

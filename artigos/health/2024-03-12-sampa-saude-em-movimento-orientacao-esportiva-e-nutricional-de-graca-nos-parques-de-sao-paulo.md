@@ -2,7 +2,7 @@
 title: "SAMPA Saúde em Movimento: orientação esportiva e nutricional de graça nos parques de São Paulo"
 date: 2024-03-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
   - Sports

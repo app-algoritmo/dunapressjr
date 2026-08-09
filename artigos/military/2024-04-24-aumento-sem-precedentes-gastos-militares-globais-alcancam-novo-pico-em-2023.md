@@ -2,7 +2,7 @@
 title: 'Aumento sem Precedentes: Gastos Militares Globais Alcançam Novo Pico em 2023'
 date: 2024-04-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

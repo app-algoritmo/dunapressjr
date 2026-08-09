@@ -2,7 +2,7 @@
 title: "Parceria entre empresas privadas e governo prevê investimento de R$ 50 milhões para pesquisa em alimentos saudáveis"
 date: 2023-12-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Food
   - Technology

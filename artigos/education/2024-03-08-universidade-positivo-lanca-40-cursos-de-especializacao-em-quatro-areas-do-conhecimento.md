@@ -2,7 +2,7 @@
 title: "Universidade Positivo lança 40 cursos de especialização em quatro áreas do conhecimento"
 date: 2024-03-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Health

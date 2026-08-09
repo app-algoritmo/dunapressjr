@@ -2,7 +2,7 @@
 title: 'Arábia Saudita Rompe com Acordo de Petrodólares: Um Marco na Economia Global'
 date: 2024-06-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

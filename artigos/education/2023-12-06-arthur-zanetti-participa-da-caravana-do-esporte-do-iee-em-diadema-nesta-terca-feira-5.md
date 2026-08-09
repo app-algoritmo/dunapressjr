@@ -2,7 +2,7 @@
 title: "Arthur Zanetti participa da Caravana do Esporte, do IEE, em Diadema nesta terça-feira (5)"
 date: 2023-12-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

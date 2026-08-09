@@ -2,7 +2,7 @@
 title: A Importância Econômica de Minas Gerais para o Brasil
 date: 2024-06-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Global Economy
 ---

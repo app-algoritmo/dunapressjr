@@ -2,7 +2,7 @@
 title: Prêmios Nobel Alertam para Preocupações sobre Cortes na Ciência na Argentina
 date: 2024-03-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

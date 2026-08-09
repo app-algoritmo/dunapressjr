@@ -2,7 +2,7 @@
 title: Sancionado crédito de R$ 200 milhões para combate à gripe aviária silvestre
 date: 2023-10-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

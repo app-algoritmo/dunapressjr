@@ -2,7 +2,7 @@
 title: 'Agenda da Eugenia: Quebec tem a maior taxa de eutanásia do mundo'
 date: 2023-06-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Paim diz que redução da jornada de trabalho é importante para o Brasil
 date: 2023-09-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

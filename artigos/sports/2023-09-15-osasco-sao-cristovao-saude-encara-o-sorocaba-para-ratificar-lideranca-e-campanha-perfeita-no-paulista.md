@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde encara o Sorocaba para ratificar liderança e campanha perfeita no Paulista"
 date: 2023-09-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

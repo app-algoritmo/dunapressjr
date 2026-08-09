@@ -3,7 +3,7 @@ title: 'Tensões na Fronteira: Bielorrússia Registra Sete Violações do Espa
   Ucraniano Este Ano'
 date: 2024-04-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: 'Influência da Indústria Farmacêutica: O Vínculo com Governos em Questão'
 date: 2023-08-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

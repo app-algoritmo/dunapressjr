@@ -3,7 +3,7 @@ title: Várias pessoas, incluindo cidadãos dos EUA, ficaram feridas em ataque c
   contra base militar no Iraque
 date: 2024-01-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

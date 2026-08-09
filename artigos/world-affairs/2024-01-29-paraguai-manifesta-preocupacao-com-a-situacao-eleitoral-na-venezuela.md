@@ -2,7 +2,7 @@
 title: Paraguai manifesta preocupação com a situação eleitoral na Venezuela
 date: 2024-01-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

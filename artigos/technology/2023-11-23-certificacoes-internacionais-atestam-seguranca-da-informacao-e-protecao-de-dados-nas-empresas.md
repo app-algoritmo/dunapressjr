@@ -2,7 +2,7 @@
 title: "Certificações internacionais atestam segurança da informação e proteção de dados nas empresas"
 date: 2023-11-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Technology
 ---

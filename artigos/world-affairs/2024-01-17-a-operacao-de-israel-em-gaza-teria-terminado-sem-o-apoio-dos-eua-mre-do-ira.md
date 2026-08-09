@@ -2,7 +2,7 @@
 title: A operação de Israel em Gaza teria terminado sem o apoio dos EUA, MRE do Irã
 date: 2024-01-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Autoridades dos EUA preocupadas com comentários de Macron sobre envio de
   para a Ucrânia, diz Bloomberg
 date: 2024-03-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

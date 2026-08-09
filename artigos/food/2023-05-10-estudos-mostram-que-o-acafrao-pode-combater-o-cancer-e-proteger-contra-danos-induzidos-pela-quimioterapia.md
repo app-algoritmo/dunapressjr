@@ -3,7 +3,7 @@ title: Estudos mostram que o açafrão pode combater o câncer e proteger contra
   induzidos pela quimioterapia
 date: 2023-05-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

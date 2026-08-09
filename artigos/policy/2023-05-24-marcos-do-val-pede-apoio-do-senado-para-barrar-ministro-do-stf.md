@@ -2,7 +2,7 @@
 title: Marcos do Val pede apoio do Senado para barrar ministro do STF
 date: 2023-05-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

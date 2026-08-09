@@ -2,7 +2,7 @@
 title: 'Tecnologia de leitura da mente: Orwell nos alertou'
 date: 2023-05-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

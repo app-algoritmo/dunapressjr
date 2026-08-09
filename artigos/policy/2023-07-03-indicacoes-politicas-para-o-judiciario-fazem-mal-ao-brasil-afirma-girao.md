@@ -2,7 +2,7 @@
 title: Indicações políticas para o Judiciário fazem mal ao Brasil, afirma Girão
 date: 2023-07-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

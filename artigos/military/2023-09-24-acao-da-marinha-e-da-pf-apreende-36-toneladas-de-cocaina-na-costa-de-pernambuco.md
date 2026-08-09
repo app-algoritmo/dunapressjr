@@ -2,7 +2,7 @@
 title: Ação da Marinha e da PF apreende 3,6 toneladas de cocaína na costa de Pernambuco
 date: 2023-09-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

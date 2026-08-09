@@ -2,7 +2,7 @@
 title: "Pesquisa revela impacto das redes sociais no desempenho escolar e no sono dos estudantes"
 date: 2024-06-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

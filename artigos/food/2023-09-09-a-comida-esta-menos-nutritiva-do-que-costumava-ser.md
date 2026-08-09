@@ -2,7 +2,7 @@
 title: A comida está menos nutritiva do que costumava ser
 date: 2023-09-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

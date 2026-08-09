@@ -2,7 +2,7 @@
 title: 'O Futebol como Escape: Como o Esporte Alivia os Problemas Cotidianos dos Brasileiros'
 date: 2024-05-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Opinion
 ---

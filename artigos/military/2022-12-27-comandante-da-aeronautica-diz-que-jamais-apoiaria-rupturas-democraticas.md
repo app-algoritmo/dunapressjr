@@ -2,7 +2,7 @@
 title: Comandante da Aeronáutica diz que 'jamais apoiaria rupturas democráticas'
 date: 2022-12-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

@@ -2,7 +2,7 @@
 title: 'Conflito de Valores: Rússia de Putin versus Ocidente Pós-Moderno'
 date: 2024-05-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

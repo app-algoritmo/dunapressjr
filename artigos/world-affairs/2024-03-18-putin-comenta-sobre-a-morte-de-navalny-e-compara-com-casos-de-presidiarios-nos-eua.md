@@ -3,7 +3,7 @@ title: Putin comenta sobre a morte de Navalny e compara com casos de presidiári
   nos EUA
 date: 2024-03-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

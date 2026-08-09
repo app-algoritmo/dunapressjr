@@ -2,7 +2,7 @@
 title: Brasil irá retomar programa da agenda 2030 que enviava dinheiro para Cuba
 date: 2023-01-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

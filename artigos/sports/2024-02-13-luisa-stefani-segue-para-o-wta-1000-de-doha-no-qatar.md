@@ -2,7 +2,7 @@
 title: "Luisa Stefani segue para o WTA 1000 de Doha, no Qatar"
 date: 2024-02-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

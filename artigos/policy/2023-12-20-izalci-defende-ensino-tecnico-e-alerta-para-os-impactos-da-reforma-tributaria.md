@@ -2,7 +2,7 @@
 title: Izalci defende ensino técnico e alerta para os impactos da reforma tributária
 date: 2023-12-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

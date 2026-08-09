@@ -3,7 +3,7 @@ title: “Nanobots” de óxido de grafeno recém revestido encontrados nas vaci
   COVID-19
 date: 2023-06-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

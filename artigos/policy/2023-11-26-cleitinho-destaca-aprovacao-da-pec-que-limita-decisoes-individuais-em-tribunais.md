@@ -2,7 +2,7 @@
 title: Cleitinho destaca aprovação da PEC que limita decisões individuais em tribunais
 date: 2023-11-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

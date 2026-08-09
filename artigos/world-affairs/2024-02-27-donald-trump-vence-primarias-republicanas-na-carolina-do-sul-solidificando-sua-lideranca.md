@@ -3,7 +3,7 @@ title: Donald Trump vence primárias republicanas na Carolina do Sul, solidifica
   sua liderança
 date: 2024-02-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

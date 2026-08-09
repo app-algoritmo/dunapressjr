@@ -2,7 +2,7 @@
 title: "MSA Spa adianta o projeto verão com os melhores tratamentos de beleza para fazer no inverno"
 date: 2023-06-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Beauty
   - Health

@@ -2,7 +2,7 @@
 title: "Imersão Nutrição Sem Fronteiras esgota inscrições para etapa no Rio de Janeiro"
 date: 2023-11-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

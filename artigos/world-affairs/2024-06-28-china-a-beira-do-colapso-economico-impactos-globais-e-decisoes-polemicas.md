@@ -2,7 +2,7 @@
 title: China à Beira do Colapso Econômico? Impactos Globais e Decisões Polêmicas
 date: 2024-06-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

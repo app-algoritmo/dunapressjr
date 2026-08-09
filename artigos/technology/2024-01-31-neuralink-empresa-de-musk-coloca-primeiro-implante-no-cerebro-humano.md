@@ -2,7 +2,7 @@
 title: Neuralink, empresa de Musk, coloca primeiro implante no cérebro humano
 date: 2024-01-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Technology
 ---

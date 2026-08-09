@@ -2,7 +2,7 @@
 title: "YouTube e TikTok podem causar problemas cognitivos e sociais em crianças: como combater?"
 date: 2024-03-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
   - Social networks

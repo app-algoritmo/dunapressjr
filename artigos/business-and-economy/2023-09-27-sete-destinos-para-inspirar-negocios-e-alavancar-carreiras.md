@@ -2,7 +2,7 @@
 title: "Sete destinos para inspirar negócios e alavancar carreiras"
 date: 2023-09-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Business and Economy
   - Courses and Careers

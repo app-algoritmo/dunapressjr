@@ -2,7 +2,7 @@
 title: "Saiba como a dieta certa transformou a carreira do tenista número 1 do mundo"
 date: 2024-01-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

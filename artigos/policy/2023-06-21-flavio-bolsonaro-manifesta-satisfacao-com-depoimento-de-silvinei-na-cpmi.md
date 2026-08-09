@@ -2,7 +2,7 @@
 title: Flávio Bolsonaro manifesta satisfação com depoimento de Silvinei na CPMI
 date: 2023-06-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: "O que é a 'doença do beijo', diagnosticado na cantora Anitta?"
 date: 2022-12-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

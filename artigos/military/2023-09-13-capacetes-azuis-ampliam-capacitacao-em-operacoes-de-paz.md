@@ -2,7 +2,7 @@
 title: Capacetes Azuis ampliam capacitação em Operações de Paz
 date: 2023-09-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

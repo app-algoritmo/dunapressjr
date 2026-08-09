@@ -2,7 +2,7 @@
 title: "Infância acelerada: dicas para proteger crianças da 'adultização'"
 date: 2023-10-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

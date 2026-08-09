@@ -2,7 +2,7 @@
 title: Coreia do Norte diz ter desenvolvido arma capaz de provocar tsunamis
 date: 2023-03-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

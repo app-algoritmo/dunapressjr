@@ -2,7 +2,7 @@
 title: Enviado iraniano critica política da UE de politizar direitos humanos
 date: 2023-06-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

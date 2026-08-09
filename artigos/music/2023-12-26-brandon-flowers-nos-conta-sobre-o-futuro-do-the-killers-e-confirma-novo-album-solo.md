@@ -2,7 +2,7 @@
 title: "Brandon Flowers nos conta sobre o futuro do The Killers e confirma novo álbum solo"
 date: 2023-12-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Music
 ---

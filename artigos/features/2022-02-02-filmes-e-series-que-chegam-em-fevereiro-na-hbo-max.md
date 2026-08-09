@@ -2,7 +2,7 @@
 title: "Filmes e séries que chegam em fevereiro na HBO MAX"
 date: 2022-02-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

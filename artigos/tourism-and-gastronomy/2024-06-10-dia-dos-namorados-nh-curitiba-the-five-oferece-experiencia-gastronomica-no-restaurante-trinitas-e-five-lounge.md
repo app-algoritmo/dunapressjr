@@ -2,7 +2,7 @@
 title: "Dia dos Namorados: NH Curitiba The Five oferece experiência gastronômica no Restaurante Trinitas e Five Lounge"
 date: 2024-06-10
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Tourism and Gastronomy
 ---

@@ -2,7 +2,7 @@
 title: Curta um tweet, perca seu emprego
 date: 2023-05-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

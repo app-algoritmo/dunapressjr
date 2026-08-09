@@ -2,7 +2,7 @@
 title: Enviado especial do Vaticano aponta potencial papel da China no conflito ucraniano
 date: 2023-12-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

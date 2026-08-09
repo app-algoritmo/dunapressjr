@@ -2,7 +2,7 @@
 title: Por que a guerra na Ucrânia não terminará em um ano ou dois
 date: 2023-07-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

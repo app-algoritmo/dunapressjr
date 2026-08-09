@@ -2,7 +2,7 @@
 title: '''Se você colocar Biden no comando do deserto do Saara, ele ficaria sem areia!'''
 date: 2023-03-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

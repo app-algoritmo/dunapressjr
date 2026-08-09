@@ -3,7 +3,7 @@ title: Partido Reformista de Nigel Farage Lança Manifesto com Enfoque em Sobera
   Nacional e Energia Limpa
 date: 2024-06-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

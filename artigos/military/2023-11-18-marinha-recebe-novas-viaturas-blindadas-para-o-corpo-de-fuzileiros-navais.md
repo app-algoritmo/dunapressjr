@@ -2,7 +2,7 @@
 title: Marinha recebe novas viaturas blindadas para o Corpo de Fuzileiros Navais
 date: 2023-11-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

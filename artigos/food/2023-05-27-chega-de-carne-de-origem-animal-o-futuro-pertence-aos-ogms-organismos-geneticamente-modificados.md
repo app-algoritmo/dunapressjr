@@ -3,7 +3,7 @@ title: Chega de carne de origem animal! O futuro pertence aos OGMs, organismos g
   modificados
 date: 2023-05-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

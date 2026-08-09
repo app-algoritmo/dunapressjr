@@ -2,7 +2,7 @@
 title: "Grande tecnologia atrás das grades? A Lei de Segurança Online do Reino Unido explicada"
 date: 2023-01-31
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

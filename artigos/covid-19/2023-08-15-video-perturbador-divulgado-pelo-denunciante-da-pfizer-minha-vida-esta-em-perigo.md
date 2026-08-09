@@ -3,7 +3,7 @@ title: Vídeo perturbador divulgado pelo denunciante da Pfizer - 'Minha vida est
   perigo'!
 date: 2023-08-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

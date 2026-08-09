@@ -2,7 +2,7 @@
 title: PGR pede arquivamento de investigação contra presidente da CPI do MST
 date: 2023-07-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

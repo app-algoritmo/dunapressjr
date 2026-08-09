@@ -2,7 +2,7 @@
 title: Mais razões para evitar alimentos ultraprocessados
 date: 2023-02-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

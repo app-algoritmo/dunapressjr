@@ -2,7 +2,7 @@
 title: A 'fórmula da paz' ​​de Zelensky não é apoiada pelo Brasil e países em desenvolvimento
 date: 2023-06-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

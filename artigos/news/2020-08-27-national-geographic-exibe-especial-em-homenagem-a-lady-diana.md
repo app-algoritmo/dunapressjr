@@ -2,7 +2,7 @@
 title: "National Geographic exibe especial em homenagem a Lady Diana"
 date: 2020-08-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

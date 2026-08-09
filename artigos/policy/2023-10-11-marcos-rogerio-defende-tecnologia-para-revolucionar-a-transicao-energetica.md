@@ -2,7 +2,7 @@
 title: Marcos Rogério defende tecnologia para revolucionar a transição energética
 date: 2023-10-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

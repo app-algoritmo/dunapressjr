@@ -2,7 +2,7 @@
 title: Seif critica falas de ministros do STF sobre aprovação de PEC
 date: 2023-12-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: A contaminação da vacina de mRNA é muito pior do que se pensava
 date: 2023-03-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

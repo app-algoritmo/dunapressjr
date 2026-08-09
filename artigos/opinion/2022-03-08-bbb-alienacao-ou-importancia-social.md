@@ -2,7 +2,7 @@
 title: "BBB: Alienação ou Importância Social?"
 date: 2022-03-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Opinion
 ---

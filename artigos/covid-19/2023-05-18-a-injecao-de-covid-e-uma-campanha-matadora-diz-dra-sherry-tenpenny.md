@@ -2,7 +2,7 @@
 title: A injeção de Covid é uma campanha matadora, diz Dra. Sherry Tenpenny
 date: 2023-05-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

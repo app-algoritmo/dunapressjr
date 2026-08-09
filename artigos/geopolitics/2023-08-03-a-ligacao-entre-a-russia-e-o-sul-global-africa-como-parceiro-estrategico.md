@@ -2,7 +2,7 @@
 title: 'A ligação entre a Rússia e o Sul Global: África como parceiro estratégico'
 date: 2023-08-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

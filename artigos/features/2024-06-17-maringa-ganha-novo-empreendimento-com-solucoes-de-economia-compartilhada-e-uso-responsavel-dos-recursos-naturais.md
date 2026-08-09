@@ -2,7 +2,7 @@
 title: "Maringá ganha novo empreendimento com soluções de economia compartilhada e uso responsável dos recursos naturais"
 date: 2024-06-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

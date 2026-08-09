@@ -2,7 +2,7 @@
 title: "Jovem paranaense disputa vaga para Olimpíada Internacional de Astronomia"
 date: 2024-05-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

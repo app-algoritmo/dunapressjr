@@ -3,7 +3,7 @@ title: 'Nevada: Ocorrências de rara infecção cerebral em crianças triplicara
   Lockdown'
 date: 2023-05-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

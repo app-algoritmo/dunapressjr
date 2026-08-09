@@ -2,7 +2,7 @@
 title: 'O Debate sobre a Idade de Biden: Um Desafio para os Democratas'
 date: 2024-02-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

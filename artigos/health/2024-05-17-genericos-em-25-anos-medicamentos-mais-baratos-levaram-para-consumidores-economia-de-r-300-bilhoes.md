@@ -2,7 +2,7 @@
 title: "Genéricos: em 25 anos, medicamentos mais baratos levaram para consumidores economia de R$ 300 bilhões"
 date: 2024-05-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

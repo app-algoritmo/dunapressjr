@@ -2,7 +2,7 @@
 title: Raio causou apagão na região metropolitana de Fortaleza, diz Enel
 date: 2023-08-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

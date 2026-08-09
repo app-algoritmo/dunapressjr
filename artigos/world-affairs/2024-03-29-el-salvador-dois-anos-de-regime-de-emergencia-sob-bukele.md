@@ -2,7 +2,7 @@
 title: 'El Salvador: Dois Anos de Regime de Emergência sob Bukele'
 date: 2024-03-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

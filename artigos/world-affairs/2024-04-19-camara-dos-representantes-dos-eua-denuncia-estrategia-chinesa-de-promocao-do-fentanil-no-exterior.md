@@ -3,7 +3,7 @@ title: Câmara dos Representantes dos EUA denuncia estratégia chinesa de promo�
   fentanil no exterior
 date: 2024-04-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

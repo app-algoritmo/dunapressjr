@@ -2,7 +2,7 @@
 title: "Carioca Shopping e Hemorio fazem campanha de doação de sangue"
 date: 2023-06-20
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

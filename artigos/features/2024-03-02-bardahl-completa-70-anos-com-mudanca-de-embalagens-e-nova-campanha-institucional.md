@@ -2,7 +2,7 @@
 title: "Bardahl completa 70 anos com mudança de embalagens e nova campanha institucional"
 date: 2024-03-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

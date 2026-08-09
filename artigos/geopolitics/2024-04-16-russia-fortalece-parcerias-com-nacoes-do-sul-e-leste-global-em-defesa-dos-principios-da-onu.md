@@ -3,7 +3,7 @@ title: Rússia Fortalece Parcerias com nações do Sul e Leste Global em Defesa 
   da ONU
 date: 2024-04-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

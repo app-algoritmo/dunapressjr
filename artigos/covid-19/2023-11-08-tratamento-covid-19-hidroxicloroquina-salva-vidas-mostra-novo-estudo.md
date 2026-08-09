@@ -2,7 +2,7 @@
 title: 'Tratamento COVID-19: Hidroxicloroquina salva vidas, mostra novo estudo'
 date: 2023-11-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

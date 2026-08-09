@@ -2,7 +2,7 @@
 title: 'American Graffiti: Quem nunca?'
 date: 2020-07-11
 status: publish
-author: Jessica Jaconetti
+author: "Jéssica Jaconetti"
 categories:
 - Architecture and Art
 ---

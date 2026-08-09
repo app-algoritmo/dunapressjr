@@ -3,7 +3,7 @@ title: Grupos de direitos civis pedem ao estado de Nova York que proíba o recon
   facial
 date: 2023-11-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

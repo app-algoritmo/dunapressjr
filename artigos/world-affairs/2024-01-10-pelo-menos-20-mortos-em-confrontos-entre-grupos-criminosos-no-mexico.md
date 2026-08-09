@@ -2,7 +2,7 @@
 title: Pelo menos 20 mortos em confrontos entre grupos criminosos no México
 date: 2024-01-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

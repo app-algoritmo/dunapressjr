@@ -3,7 +3,7 @@ title: Sancionada lei que abre crédito de R$ 15 bi para compensar estados por p
   com ICMS de combustíveis
 date: 2023-11-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Global Economy
 ---

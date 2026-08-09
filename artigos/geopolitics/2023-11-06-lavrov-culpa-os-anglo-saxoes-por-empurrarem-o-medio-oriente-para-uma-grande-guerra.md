@@ -3,7 +3,7 @@ title: Lavrov culpa os anglo-saxões por empurrarem o Médio Oriente para uma gr
   guerra
 date: 2023-11-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

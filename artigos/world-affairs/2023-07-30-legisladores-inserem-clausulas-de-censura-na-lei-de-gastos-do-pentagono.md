@@ -2,7 +2,7 @@
 title: Legisladores inserem cláusulas de censura na lei de gastos do Pentágono
 date: 2023-07-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde estreia na Superliga 23/24 nesta quinta-feira (9)"
 date: 2023-11-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

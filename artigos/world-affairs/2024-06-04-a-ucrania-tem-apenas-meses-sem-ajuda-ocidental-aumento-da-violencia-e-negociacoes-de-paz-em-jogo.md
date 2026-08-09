@@ -3,7 +3,7 @@ title: 'A Ucrânia Tem Apenas Meses Sem Ajuda Ocidental: Aumento da Violência e
   de Paz em Jogo'
 date: 2024-06-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

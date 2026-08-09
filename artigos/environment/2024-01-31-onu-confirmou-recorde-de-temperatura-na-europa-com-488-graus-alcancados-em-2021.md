@@ -3,7 +3,7 @@ title: ONU confirmou recorde de temperatura na Europa com 48,8 graus alcançados
   2021
 date: 2024-01-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Environment
 ---

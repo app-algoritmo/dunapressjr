@@ -2,7 +2,7 @@
 title: Marcos do Val convoca senadores a combater suposta censura do STF
 date: 2023-08-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

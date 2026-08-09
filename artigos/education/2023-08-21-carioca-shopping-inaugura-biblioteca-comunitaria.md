@@ -2,7 +2,7 @@
 title: "Carioca shopping inaugura biblioteca comunitária"
 date: 2023-08-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Shopping

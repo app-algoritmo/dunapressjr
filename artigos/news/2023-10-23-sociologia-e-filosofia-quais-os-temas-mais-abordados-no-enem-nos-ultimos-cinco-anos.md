@@ -2,7 +2,7 @@
 title: "Sociologia e Filosofia: quais os temas mais abordados no Enem nos últimos cinco anos?"
 date: 2023-10-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

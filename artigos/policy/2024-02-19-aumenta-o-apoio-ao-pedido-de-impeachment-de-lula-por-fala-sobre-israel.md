@@ -2,7 +2,7 @@
 title: Aumenta o apoio ao pedido de impeachment de Lula por fala sobre Israel
 date: 2024-02-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

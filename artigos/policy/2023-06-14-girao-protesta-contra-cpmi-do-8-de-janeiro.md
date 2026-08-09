@@ -2,7 +2,7 @@
 title: Girão protesta contra CPMI do 8 de Janeiro
 date: 2023-06-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

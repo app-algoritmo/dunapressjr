@@ -3,7 +3,7 @@ title: Agora temos 3.400 publicações mostrando que todas as vacinas contra a C
   não são seguras para uso humano
 date: 2023-05-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

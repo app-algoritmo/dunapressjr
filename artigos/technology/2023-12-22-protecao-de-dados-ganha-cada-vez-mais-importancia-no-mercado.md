@@ -2,7 +2,7 @@
 title: "Proteção de dados ganha cada vez mais importância no mercado"
 date: 2023-12-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Technology
 ---

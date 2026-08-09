@@ -2,7 +2,7 @@
 title: "Brasil vai chegar ao top 5 entre as potências paralímpicas, acredita Daniel Dias"
 date: 2023-10-04
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

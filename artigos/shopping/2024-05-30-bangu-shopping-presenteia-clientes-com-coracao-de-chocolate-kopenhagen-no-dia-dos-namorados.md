@@ -2,7 +2,7 @@
 title: "Bangu Shopping presenteia clientes com coração de chocolate Kopenhagen no Dia dos Namorados"
 date: 2024-05-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Shopping
 ---

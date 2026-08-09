@@ -2,7 +2,7 @@
 title: "Transição energética é aposta de grandes indústrias para reduzir impactos ambientais"
 date: 2024-06-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Environment
 ---

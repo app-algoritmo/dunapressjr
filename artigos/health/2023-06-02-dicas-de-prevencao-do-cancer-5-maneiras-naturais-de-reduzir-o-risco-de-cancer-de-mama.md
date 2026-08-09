@@ -3,7 +3,7 @@ title: 'Dicas de prevenção do câncer: 5 maneiras naturais de reduzir o risco 
   de mama'
 date: 2023-06-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

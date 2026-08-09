@@ -2,7 +2,7 @@
 title: O Ártico é a próxima frente na nova Guerra Fria
 date: 2023-03-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

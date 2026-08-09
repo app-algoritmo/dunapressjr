@@ -3,7 +3,7 @@ title: 'Desvendando o Potencial Econômico: O Papel Crucial da Redução de Impo
   no Desenvolvimento Brasileiro'
 date: 2024-05-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Global Economy
 ---

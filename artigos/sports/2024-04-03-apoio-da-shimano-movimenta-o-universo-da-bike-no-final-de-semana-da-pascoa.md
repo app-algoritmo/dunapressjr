@@ -2,7 +2,7 @@
 title: "Apoio da Shimano movimenta o universo da bike no final de semana da Páscoa"
 date: 2024-04-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

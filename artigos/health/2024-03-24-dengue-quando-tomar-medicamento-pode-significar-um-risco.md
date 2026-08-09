@@ -2,7 +2,7 @@
 title: "Dengue: quando tomar medicamento pode significar um risco?"
 date: 2024-03-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

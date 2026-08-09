@@ -2,7 +2,7 @@
 title: 'Viktor Orbán: O mundo caminha para uma colisão devido ao fim dos EUA'
 date: 2023-08-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

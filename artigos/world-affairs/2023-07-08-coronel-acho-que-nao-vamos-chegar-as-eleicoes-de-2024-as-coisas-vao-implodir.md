@@ -2,7 +2,7 @@
 title: 'Coronel: Acho que não vamos chegar às eleições de 2024, as coisas vão implodir'
 date: 2023-07-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

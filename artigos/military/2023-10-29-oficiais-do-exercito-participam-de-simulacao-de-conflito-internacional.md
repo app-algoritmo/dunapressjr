@@ -2,7 +2,7 @@
 title: Oficiais do Exército participam de simulação de conflito internacional
 date: 2023-10-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

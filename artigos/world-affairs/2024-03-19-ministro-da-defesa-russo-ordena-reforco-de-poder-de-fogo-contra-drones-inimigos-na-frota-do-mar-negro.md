@@ -3,7 +3,7 @@ title: Ministro da Defesa Russo Ordena Reforço de Poder de Fogo Contra Drones I
   na Frota do Mar Negro
 date: 2024-03-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

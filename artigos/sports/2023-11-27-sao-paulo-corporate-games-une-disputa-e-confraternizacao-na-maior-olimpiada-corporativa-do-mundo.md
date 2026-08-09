@@ -2,7 +2,7 @@
 title: "São Paulo Corporate Games une disputa e confraternização na maior olimpíada corporativa do mundo"
 date: 2023-11-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

@@ -3,7 +3,7 @@ title: Putin Antecipa Dificuldades na Compreensão Histórica da Entrevista com 
   pelos Americanos
 date: 2024-02-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

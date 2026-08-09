@@ -2,7 +2,7 @@
 title: 'NORAD Intercepta Balão Sobre Utah: Sem Ameaça à Segurança Nacional'
 date: 2024-02-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

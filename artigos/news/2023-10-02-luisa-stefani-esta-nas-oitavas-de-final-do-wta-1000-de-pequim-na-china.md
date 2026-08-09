@@ -2,7 +2,7 @@
 title: "Luisa Stefani está nas oitavas de final do WTA 1000 de Pequim, na China"
 date: 2023-10-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

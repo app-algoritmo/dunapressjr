@@ -2,7 +2,7 @@
 title: "Lave suas mãos por mim: entenda a importância da higienização correta"
 date: 2023-05-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
   - News

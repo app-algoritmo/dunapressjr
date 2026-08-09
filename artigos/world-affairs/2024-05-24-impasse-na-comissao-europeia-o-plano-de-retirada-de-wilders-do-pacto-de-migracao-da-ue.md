@@ -3,7 +3,7 @@ title: 'Impasse na Comissão Europeia: O Plano de Retirada de Wilders do Pacto d
   da UE'
 date: 2024-05-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

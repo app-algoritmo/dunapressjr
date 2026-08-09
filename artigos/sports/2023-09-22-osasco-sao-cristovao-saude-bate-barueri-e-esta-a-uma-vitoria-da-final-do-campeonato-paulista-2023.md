@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde bate Barueri e está a uma vitória da final do Campeonato Paulista 2023"
 date: 2023-09-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

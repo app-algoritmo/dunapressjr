@@ -2,7 +2,7 @@
 title: Brasil tem que cobrar dívida da Venezuela, diz Zequinha Marinho
 date: 2023-06-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

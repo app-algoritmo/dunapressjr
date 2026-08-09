@@ -2,7 +2,7 @@
 title: "Dor de ouvido: reclamações aumentam durante o inverno"
 date: 2023-08-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

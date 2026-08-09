@@ -2,7 +2,7 @@
 title: Alesp recebe seminário sobre legítima defesa e o desarmamento no Brasil
 date: 2023-06-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

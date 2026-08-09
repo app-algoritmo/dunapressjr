@@ -2,7 +2,7 @@
 title: Alto diplomata do Irã pede à ONU que responsabilize Israel por crimes de guerra
 date: 2023-10-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

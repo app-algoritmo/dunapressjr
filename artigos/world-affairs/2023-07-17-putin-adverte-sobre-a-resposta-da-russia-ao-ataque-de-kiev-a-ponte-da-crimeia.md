@@ -2,7 +2,7 @@
 title: Putin adverte sobre a resposta da Rússia ao ataque de Kiev à ponte da Criméia
 date: 2023-07-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

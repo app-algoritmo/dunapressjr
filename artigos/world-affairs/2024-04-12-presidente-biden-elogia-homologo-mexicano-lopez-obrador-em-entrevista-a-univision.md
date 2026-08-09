@@ -2,7 +2,7 @@
 title: Presidente Biden elogia homólogo mexicano López Obrador em entrevista à Univision
 date: 2024-04-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

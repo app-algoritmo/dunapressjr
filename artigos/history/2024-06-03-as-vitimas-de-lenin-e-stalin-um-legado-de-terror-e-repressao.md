@@ -2,7 +2,7 @@
 title: 'As Vítimas de Lenin e Stalin: Um Legado de Terror e Repressão'
 date: 2024-06-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - History
 ---

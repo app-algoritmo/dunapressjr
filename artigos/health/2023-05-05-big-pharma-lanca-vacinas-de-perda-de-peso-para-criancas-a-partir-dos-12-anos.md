@@ -2,7 +2,7 @@
 title: Big Pharma lança “vacinas” de perda de peso para crianças a partir dos 12 anos
 date: 2023-05-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

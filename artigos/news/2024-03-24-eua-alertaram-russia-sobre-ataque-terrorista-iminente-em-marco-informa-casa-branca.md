@@ -3,7 +3,7 @@ title: EUA Alertaram Rússia Sobre Ataque Terrorista Iminente em Março, Informa
   Branca
 date: 2024-03-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Girão se diz preocupado com estratégia de blindagem do governo na CPMI
 date: 2023-06-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Quatro demissões do gabinete de Kishida no Japão após alegações de corrupção
 date: 2023-12-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

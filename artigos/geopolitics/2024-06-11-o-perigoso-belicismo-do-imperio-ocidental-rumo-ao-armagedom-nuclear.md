@@ -2,7 +2,7 @@
 title: 'O Perigoso Belicismo do Império Ocidental: Rumo ao Armagedom Nuclear?'
 date: 2024-06-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

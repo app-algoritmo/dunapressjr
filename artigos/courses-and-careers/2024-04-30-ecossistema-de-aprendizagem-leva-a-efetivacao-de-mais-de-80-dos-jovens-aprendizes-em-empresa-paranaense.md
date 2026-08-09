@@ -2,7 +2,7 @@
 title: "Ecossistema de aprendizagem leva a efetivação de mais de 80% dos jovens aprendizes em empresa paranaense"
 date: 2024-04-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Courses and Careers
   - Education

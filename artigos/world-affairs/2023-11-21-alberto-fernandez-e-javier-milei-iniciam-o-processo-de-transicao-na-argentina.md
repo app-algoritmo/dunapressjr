@@ -2,7 +2,7 @@
 title: Alberto Fernández e Javier Milei iniciam o processo de transição na Argentina
 date: 2023-11-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

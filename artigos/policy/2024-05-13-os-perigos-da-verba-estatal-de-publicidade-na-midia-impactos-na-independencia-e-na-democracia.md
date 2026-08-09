@@ -3,7 +3,7 @@ title: 'Os Perigos da Verba Estatal de Publicidade na Mídia: Impactos na Indepe
   e na Democracia'
 date: 2024-05-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

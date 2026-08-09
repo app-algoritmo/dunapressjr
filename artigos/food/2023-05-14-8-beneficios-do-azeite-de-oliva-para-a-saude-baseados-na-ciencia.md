@@ -2,7 +2,7 @@
 title: 8 Benefícios do azeite de oliva para a saúde baseados na ciência
 date: 2023-05-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

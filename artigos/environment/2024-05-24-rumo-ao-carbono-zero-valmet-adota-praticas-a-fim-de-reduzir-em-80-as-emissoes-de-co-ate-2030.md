@@ -2,7 +2,7 @@
 title: "Rumo ao carbono zero: Valmet adota práticas a fim de reduzir em 80% as emissões de CO₂ até 2030"
 date: 2024-05-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Environment
 ---

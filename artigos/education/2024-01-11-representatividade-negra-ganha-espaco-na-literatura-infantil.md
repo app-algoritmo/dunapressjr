@@ -2,7 +2,7 @@
 title: "Representatividade negra ganha espaço na literatura infantil"
 date: 2024-01-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

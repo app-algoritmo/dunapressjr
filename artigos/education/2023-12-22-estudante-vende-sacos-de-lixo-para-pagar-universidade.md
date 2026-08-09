@@ -2,7 +2,7 @@
 title: "Estudante vende sacos de lixo para pagar universidade"
 date: 2023-12-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

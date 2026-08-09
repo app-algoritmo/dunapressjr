@@ -2,7 +2,7 @@
 title: 'A Emergente Ordem Mundial Sino-Russa: Um Caminho para a Paz e a Prosperidade'
 date: 2024-05-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

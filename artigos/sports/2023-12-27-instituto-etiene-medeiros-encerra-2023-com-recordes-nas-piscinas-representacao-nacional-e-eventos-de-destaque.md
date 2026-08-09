@@ -2,7 +2,7 @@
 title: "Instituto Etiene Medeiros encerra 2023 com recordes nas piscinas, representação nacional e eventos de destaque"
 date: 2023-12-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

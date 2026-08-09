@@ -2,7 +2,7 @@
 title: Augusta Brito destaca aprovação de pensão aos filhos das vítimas de feminicídio
 date: 2023-10-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

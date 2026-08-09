@@ -2,7 +2,7 @@
 title: Por que Gates e o Pentágono liberaram mosquitos 'geneticamente modificados'
 date: 2023-07-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

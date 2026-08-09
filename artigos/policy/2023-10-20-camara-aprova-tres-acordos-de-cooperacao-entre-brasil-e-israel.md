@@ -2,7 +2,7 @@
 title: Câmara aprova três acordos de cooperação entre Brasil e Israel
 date: 2023-10-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Putin pede fortalecimento de mecanismos para prevenir proliferação de a
   biológicas
 date: 2023-06-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

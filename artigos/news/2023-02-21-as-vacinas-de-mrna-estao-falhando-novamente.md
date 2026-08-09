@@ -2,7 +2,7 @@
 title: As “vacinas” de mRNA estão falhando novamente
 date: 2023-02-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: "Netflix anuncia o elenco de Pinóquio, do diretor Guillermo del Toro"
 date: 2020-08-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

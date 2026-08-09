@@ -2,7 +2,7 @@
 title: Inteligência artificial precisará ser governada, diz Kajuru
 date: 2023-11-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

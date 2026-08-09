@@ -2,7 +2,7 @@
 title: Inteligência russa acusa EUA de usar OTAN na UE
 date: 2024-04-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

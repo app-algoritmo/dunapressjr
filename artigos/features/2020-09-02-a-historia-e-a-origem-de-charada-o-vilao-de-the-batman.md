@@ -2,7 +2,7 @@
 title: "A história e a origem de Charada, o vilão de The Batman"
 date: 2020-09-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

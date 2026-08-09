@@ -2,7 +2,7 @@
 title: Combatentes iraquianos atacam posições dos EUA no leste e nordeste da Síria
 date: 2024-01-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

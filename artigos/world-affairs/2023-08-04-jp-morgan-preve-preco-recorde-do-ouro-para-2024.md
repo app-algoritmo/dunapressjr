@@ -2,7 +2,7 @@
 title: JP Morgan prevê preço recorde do ouro para 2024
 date: 2023-08-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

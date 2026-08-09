@@ -2,7 +2,7 @@
 title: "Projetos sociais oferecem oportunidade de emprego e educação para população de rua e comunidades vulneráveis"
 date: 2024-01-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Entrepreneurship

@@ -3,7 +3,7 @@ title: 'Greenpeace: um movimento ideológico transformado em uma máquina de arr
   de fundos'
 date: 2023-06-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

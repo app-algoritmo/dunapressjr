@@ -2,7 +2,7 @@
 title: Soraya Thronicke defende regulamentação para cigarros eletrônicos no Brasil
 date: 2023-12-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

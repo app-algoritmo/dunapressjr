@@ -2,7 +2,7 @@
 title: Governador Mauro Mendes pede suspensão do julgamento do Marco Temporal
 date: 2023-09-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

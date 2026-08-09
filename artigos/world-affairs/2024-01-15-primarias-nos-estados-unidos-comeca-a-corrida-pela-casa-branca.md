@@ -2,7 +2,7 @@
 title: 'Primárias nos Estados Unidos: começa a corrida pela Casa Branca'
 date: 2024-01-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

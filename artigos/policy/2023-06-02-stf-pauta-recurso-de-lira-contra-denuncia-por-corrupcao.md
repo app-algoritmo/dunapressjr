@@ -2,7 +2,7 @@
 title: STF pauta recurso de Lira contra denúncia por corrupção
 date: 2023-06-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

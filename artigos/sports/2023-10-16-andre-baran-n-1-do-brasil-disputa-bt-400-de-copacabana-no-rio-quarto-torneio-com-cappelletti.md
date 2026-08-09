@@ -2,7 +2,7 @@
 title: "André Baran, nº 1 do Brasil, disputa BT 400 de Copacabana, no Rio, quarto torneio com Cappelletti"
 date: 2023-10-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

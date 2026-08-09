@@ -3,7 +3,7 @@ title: Militares canadenses impediram médicos de relatar ferimentos da vacina, 
   advogado
 date: 2023-05-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

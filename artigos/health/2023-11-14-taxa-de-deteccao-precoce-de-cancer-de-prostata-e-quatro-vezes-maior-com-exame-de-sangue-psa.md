@@ -2,7 +2,7 @@
 title: "Taxa de detecção precoce de câncer de próstata é quatro vezes maior com exame de sangue PSA"
 date: 2023-11-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

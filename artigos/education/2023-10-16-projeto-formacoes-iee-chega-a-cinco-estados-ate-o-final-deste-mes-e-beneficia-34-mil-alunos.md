@@ -2,7 +2,7 @@
 title: "Projeto Formações IEE chega a cinco estados até o final deste mês e beneficia 34 mil alunos"
 date: 2023-10-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

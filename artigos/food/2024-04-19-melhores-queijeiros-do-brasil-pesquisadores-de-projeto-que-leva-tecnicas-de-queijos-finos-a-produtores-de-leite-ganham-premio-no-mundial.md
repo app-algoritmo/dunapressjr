@@ -2,7 +2,7 @@
 title: "Melhores queijeiros do Brasil: pesquisadores de projeto que leva técnicas de queijos finos a produtores de leite ganham prêmio no Mundial"
 date: 2024-04-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Food
   - Technology

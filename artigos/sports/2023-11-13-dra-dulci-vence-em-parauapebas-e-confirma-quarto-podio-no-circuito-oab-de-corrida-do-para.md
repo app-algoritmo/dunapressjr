@@ -2,7 +2,7 @@
 title: "Dra. Dulci vence em Parauapebas e confirma quarto pódio no Circuito OAB de Corrida do Pará"
 date: 2023-11-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

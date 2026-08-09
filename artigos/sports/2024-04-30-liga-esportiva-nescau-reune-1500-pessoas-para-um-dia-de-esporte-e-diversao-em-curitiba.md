@@ -2,7 +2,7 @@
 title: "Liga Esportiva NESCAU® reúne 1.500 pessoas para um dia de esporte e diversão em Curitiba"
 date: 2024-04-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

@@ -2,7 +2,7 @@
 title: "Lojas Americanas vai fechar? Descoberto rombo de 20 Bilhões"
 date: 2023-01-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

@@ -2,7 +2,7 @@
 title: "O Fenômeno das séries coreanas"
 date: 2024-02-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Video library
 ---

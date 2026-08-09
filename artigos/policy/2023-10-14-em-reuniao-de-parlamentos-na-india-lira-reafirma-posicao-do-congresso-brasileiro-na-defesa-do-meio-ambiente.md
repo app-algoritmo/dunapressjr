@@ -3,7 +3,7 @@ title: Em reunião de parlamentos na Índia, Lira reafirma posição do Congress
   na defesa do meio ambiente
 date: 2023-10-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

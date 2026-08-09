@@ -2,7 +2,7 @@
 title: "Festival Vamos Passear chega a Porto Alegre (RS) em maio na abertura da edição 2024"
 date: 2024-04-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

@@ -3,7 +3,7 @@ title: Carne cultivada em laboratório pode causar câncer? Especialistas levant
   sobre novas tecnologias alimentares
 date: 2023-02-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

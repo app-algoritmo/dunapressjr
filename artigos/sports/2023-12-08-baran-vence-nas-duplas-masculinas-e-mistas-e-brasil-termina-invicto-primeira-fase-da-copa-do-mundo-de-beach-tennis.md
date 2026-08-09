@@ -2,7 +2,7 @@
 title: "Baran vence nas duplas masculinas e mistas e Brasil termina invicto primeira fase da Copa do Mundo de Beach Tennis"
 date: 2023-12-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

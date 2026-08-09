@@ -2,7 +2,7 @@
 title: Primeira vacina para controle de natalidade agora em ensaios clínicos
 date: 2023-05-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

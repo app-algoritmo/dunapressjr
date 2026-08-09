@@ -2,7 +2,7 @@
 title: "Doação de bicicletas infantis BTWN, organizada pela Shimano, alegra crianças em Queimados, no Rio de Janeiro"
 date: 2023-10-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

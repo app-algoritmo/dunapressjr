@@ -2,7 +2,7 @@
 title: "Sereias brasileiras enfrentam as melhores do mundo no ArcelorMittal Wahine Bodyboarding Pro, em Serra (ES)"
 date: 2024-04-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

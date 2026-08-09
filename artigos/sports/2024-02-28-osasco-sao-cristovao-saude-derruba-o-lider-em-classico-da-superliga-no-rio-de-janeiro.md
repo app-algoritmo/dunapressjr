@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde derruba o líder em clássico da Superliga no Rio de Janeiro"
 date: 2024-02-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

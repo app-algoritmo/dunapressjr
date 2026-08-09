@@ -2,7 +2,7 @@
 title: Aumento do Salário Mínimo na Argentina Desencadeia Controvérsia e Protestos
 date: 2024-02-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

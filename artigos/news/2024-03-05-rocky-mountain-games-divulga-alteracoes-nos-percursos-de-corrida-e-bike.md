@@ -2,7 +2,7 @@
 title: "Rocky Mountain Games divulga alterações nos percursos de corrida e bike"
 date: 2024-03-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

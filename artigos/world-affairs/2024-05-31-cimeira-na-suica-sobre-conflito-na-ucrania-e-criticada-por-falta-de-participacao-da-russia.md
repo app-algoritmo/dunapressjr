@@ -3,7 +3,7 @@ title: Cimeira na Suíça sobre Conflito na Ucrânia é Criticada por Falta de P
   da Rússia
 date: 2024-05-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Lula e Maduro conversam sobre eleições na Venezuela
 date: 2023-10-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

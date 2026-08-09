@@ -2,7 +2,7 @@
 title: Putin destrói 60% das vacinas da Covid-19 na Rússia
 date: 2023-03-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

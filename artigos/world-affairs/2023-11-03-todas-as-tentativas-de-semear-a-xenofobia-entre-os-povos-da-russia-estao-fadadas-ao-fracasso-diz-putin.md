@@ -3,7 +3,7 @@ title: Todas as tentativas de semear a xenofobia entre os povos da Rússia estã
   ao fracasso, diz Putin
 date: 2023-11-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

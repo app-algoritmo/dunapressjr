@@ -2,7 +2,7 @@
 title: Plínio Valério destaca atuação da CPI das ONGs ao ouvir indígenas e ribeirinhos
 date: 2023-07-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

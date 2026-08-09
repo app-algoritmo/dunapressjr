@@ -2,7 +2,7 @@
 title: "'Deadpool 3': Rob Delaney retornará como membro humano da X-Force"
 date: 2023-05-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

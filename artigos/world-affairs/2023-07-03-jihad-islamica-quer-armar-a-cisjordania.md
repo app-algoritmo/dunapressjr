@@ -2,7 +2,7 @@
 title: Jihad islâmica quer armar a Cisjordânia
 date: 2023-07-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

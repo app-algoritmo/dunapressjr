@@ -3,7 +3,7 @@ title: 'Texas: Mais de Meio Milhão de Detenções e Apreensões desde o Lançam
   Operação Lone Star'
 date: 2024-04-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

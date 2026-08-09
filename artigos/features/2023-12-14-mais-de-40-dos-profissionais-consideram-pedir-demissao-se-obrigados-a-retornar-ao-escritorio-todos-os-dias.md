@@ -2,7 +2,7 @@
 title: "Mais de 40% dos profissionais consideram pedir demissão se obrigados a retornar ao escritório todos os dias"
 date: 2023-12-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

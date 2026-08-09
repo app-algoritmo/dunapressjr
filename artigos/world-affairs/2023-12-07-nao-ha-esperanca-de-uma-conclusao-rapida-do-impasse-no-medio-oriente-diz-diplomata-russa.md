@@ -3,7 +3,7 @@ title: Não há esperança de uma conclusão rápida do impasse no Médio Orient
   russa
 date: 2023-12-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

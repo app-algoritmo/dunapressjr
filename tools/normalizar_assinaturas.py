@@ -33,6 +33,13 @@ NOMES = {
     "Vitor Guerino": "Vítor Guerino",
     "Leonardo Gabossa": "Leonardo Garbossa",
     "Hermes Rodrigues Nery": "Hermes Rodrigues Nery",
+    # Nome de usuário herdado do WordPress. Assinatura de jornal é nome de
+    # pessoa: quem escreve responde pelo que escreveu, e para isso precisa
+    # ser identificável.
+    "milah44": "Camila Honorato",
+    # Confirmados pela redação
+    "Edicleia Alves Lima": "Edicléia Alves Lima",
+    "Jessica Jaconetti": "Jéssica Jaconetti",
 }
 
 # Preposições vão em minúscula no meio do nome — norma do português.

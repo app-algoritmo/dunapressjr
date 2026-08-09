@@ -3,7 +3,7 @@ title: 'Alerta de Desastre Fiscal nos EUA: Ex-presidente do Banco Mundial Advert
   sobre Ruína em 2025'
 date: 2024-05-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

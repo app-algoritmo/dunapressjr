@@ -2,7 +2,7 @@
 title: Sistema de Fabricação do Exército revitaliza Morteiros 120 mm
 date: 2023-11-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

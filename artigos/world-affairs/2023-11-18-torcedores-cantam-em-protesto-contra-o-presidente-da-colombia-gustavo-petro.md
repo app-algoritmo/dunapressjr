@@ -2,7 +2,7 @@
 title: Torcedores cantam em protesto contra o presidente da Colômbia, Gustavo Petro
 date: 2023-11-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

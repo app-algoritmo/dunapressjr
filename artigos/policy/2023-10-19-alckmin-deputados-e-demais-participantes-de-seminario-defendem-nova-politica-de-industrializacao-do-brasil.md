@@ -3,7 +3,7 @@ title: Alckmin, deputados e demais participantes de seminário defendem nova pol
   de industrialização do Brasil
 date: 2023-10-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

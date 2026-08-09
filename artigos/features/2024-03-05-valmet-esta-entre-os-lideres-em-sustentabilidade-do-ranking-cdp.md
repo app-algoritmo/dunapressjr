@@ -2,7 +2,7 @@
 title: "Valmet está entre os líderes em sustentabilidade do ranking CDP"
 date: 2024-03-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

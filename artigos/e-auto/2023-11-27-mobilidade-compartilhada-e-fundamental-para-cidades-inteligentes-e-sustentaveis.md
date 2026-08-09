@@ -2,7 +2,7 @@
 title: "Mobilidade compartilhada é fundamental para cidades inteligentes e sustentáveis"
 date: 2023-11-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
 ---

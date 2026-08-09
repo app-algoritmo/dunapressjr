@@ -2,7 +2,7 @@
 title: "Killers Of The Flower Moon': o novo filme de Martin Scorsese com participação de Leonardo Dicaprio."
 date: 2023-06-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

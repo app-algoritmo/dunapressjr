@@ -3,7 +3,7 @@ title: Projeto de lei britânico levanta preocupações sobre supervisão financ
   privacidade de dados
 date: 2024-04-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

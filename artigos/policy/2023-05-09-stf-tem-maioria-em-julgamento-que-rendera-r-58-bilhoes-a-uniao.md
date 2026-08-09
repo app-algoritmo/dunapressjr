@@ -2,7 +2,7 @@
 title: STF tem maioria em julgamento que renderá R$ 5,8 bilhões à União
 date: 2023-05-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

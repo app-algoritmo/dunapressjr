@@ -2,7 +2,7 @@
 title: "Memorial Tênis Brasileiro recebe apoios de ídolos do tênis e projeta ações para setembro"
 date: 2023-08-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

@@ -2,7 +2,7 @@
 title: 'Tensão Crescente no Mar da China Meridional: Uma Nova ''1914'' à Vista?'
 date: 2024-06-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

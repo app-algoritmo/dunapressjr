@@ -2,7 +2,7 @@
 title: O Irã dominou todas as tecnologias de defesa complexas
 date: 2023-06-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

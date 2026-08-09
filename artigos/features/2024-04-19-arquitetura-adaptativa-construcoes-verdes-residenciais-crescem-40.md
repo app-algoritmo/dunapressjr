@@ -2,7 +2,7 @@
 title: "Arquitetura adaptativa: construções verdes residenciais crescem 40%"
 date: 2024-04-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

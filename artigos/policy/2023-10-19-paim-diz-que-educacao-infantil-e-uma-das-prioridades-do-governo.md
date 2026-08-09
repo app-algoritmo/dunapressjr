@@ -2,7 +2,7 @@
 title: Paim diz que educação infantil é uma das prioridades do governo
 date: 2023-10-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Possíveis consequências da guerra na Ucrânia
 date: 2023-06-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

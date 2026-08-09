@@ -3,7 +3,7 @@ title: Rogério Marinho critica posicionamento do governo sobre o conflito entre
   Hamas e Israel
 date: 2023-11-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Cleitinho critica volta de financiamento de obras no exterior
 date: 2023-12-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

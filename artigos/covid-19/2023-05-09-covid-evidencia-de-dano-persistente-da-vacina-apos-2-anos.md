@@ -2,7 +2,7 @@
 title: 'Covid: Evidência de dano persistente da vacina após 2 anos'
 date: 2023-05-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

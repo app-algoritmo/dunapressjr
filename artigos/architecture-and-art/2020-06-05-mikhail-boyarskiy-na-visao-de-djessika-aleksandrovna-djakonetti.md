@@ -2,7 +2,7 @@
 title: Mikhail Boyarskiy, na visão de Djessika Aleksandrovna Djakonetti
 date: 2020-06-05
 status: publish
-author: Jessica Jaconetti
+author: "Jéssica Jaconetti"
 categories:
 - Architecture and Art
 ---

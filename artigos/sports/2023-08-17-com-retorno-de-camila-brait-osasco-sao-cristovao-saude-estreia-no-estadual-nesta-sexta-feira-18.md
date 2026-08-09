@@ -2,7 +2,7 @@
 title: "Com retorno de Camila Brait, Osasco São Cristóvão Saúde estreia no Estadual nesta sexta-feira (18)"
 date: 2023-08-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

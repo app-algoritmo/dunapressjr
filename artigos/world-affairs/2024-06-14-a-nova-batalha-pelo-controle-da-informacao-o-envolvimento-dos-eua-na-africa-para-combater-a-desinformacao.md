@@ -3,7 +3,7 @@ title: 'A Nova Batalha pelo Controle da Informação: O Envolvimento dos EUA na 
   para Combater a Desinformação'
 date: 2024-06-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

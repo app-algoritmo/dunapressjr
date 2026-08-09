@@ -3,7 +3,7 @@ title: 'Paraguai: Regulamentação do CODENA Fortalece Controle de Armas e Comba
   Tráfico Ilegal'
 date: 2024-02-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

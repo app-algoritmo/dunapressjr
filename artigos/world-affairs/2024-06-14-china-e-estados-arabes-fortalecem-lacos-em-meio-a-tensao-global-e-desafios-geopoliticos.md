@@ -3,7 +3,7 @@ title: China e Estados Árabes Fortalecem Laços em Meio a Tensão Global e Desa
   Geopolíticos
 date: 2024-06-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

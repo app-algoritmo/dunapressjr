@@ -2,7 +2,7 @@
 title: Kiev confirma que o governo Biden patrocina o terrorismo, diz diplomata russa
 date: 2023-05-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

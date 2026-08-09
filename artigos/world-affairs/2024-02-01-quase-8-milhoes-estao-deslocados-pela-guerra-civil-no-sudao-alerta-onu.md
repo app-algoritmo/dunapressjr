@@ -2,7 +2,7 @@
 title: Quase 8 milhões estão deslocados pela guerra civil no Sudão, alerta ONU
 date: 2024-02-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

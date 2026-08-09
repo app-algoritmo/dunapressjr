@@ -2,7 +2,7 @@
 title: "Caso Rei Charles III: oito sinais de câncer que homens ignoram"
 date: 2024-03-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

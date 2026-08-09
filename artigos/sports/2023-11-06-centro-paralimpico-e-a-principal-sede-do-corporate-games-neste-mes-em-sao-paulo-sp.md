@@ -2,7 +2,7 @@
 title: "Centro Paralímpico é a principal sede do Corporate Games, neste mês, em São Paulo (SP)"
 date: 2023-11-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

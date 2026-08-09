@@ -2,7 +2,7 @@
 title: "Incêndio destrói loja da Havan na Bahia"
 date: 2022-12-28
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

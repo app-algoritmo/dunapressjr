@@ -2,7 +2,7 @@
 title: Projeto cria Patrulha Nacional para combater a violência doméstica contra crianças
 date: 2023-10-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

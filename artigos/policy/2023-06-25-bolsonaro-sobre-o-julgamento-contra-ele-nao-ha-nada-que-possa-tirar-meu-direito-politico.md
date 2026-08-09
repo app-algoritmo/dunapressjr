@@ -3,7 +3,7 @@ title: 'Bolsonaro sobre o julgamento contra ele: ''Não há nada que possa tirar
   direito político'''
 date: 2023-06-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

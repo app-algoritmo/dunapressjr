@@ -2,7 +2,7 @@
 title: "AS 4 MAIORES DESCOBERTAS HISTÓRICAS DE 2022"
 date: 2022-12-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - History
   - News

@@ -2,7 +2,7 @@
 title: "Caxias Shopping apoia Festa Literária do Instituto Reação"
 date: 2023-05-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
   - Culture and History

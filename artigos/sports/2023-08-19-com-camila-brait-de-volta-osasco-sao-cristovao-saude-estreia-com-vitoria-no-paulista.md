@@ -2,7 +2,7 @@
 title: "Com Camila Brait de volta, Osasco São Cristóvão Saúde estreia com vitória no Paulista"
 date: 2023-08-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

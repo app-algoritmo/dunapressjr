@@ -2,7 +2,7 @@
 title: "Oito dicas de como ajudar os filhos na reta final do Enem"
 date: 2023-10-30
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

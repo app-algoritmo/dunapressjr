@@ -2,7 +2,7 @@
 title: "Em busca de um carro por assinatura? Confira dicas para não errar na escolha do plano"
 date: 2024-02-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - E-auto
 ---

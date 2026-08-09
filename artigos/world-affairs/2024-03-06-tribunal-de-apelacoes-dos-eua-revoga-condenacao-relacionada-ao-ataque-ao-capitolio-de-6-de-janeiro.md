@@ -3,7 +3,7 @@ title: Tribunal de Apelações dos EUA revoga condenação relacionada ao ataque
   de 6 de janeiro
 date: 2024-03-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

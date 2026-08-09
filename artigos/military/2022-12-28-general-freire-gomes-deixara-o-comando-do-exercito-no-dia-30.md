@@ -2,7 +2,7 @@
 title: General Freire Gomes deixará o comando do Exército no dia 30
 date: 2022-12-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

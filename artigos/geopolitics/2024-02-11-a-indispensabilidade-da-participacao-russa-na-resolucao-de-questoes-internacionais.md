@@ -2,7 +2,7 @@
 title: A Indispensabilidade da Participação Russa na Resolução de Questões Internacionais
 date: 2024-02-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

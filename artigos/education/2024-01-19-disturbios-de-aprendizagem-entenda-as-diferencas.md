@@ -2,7 +2,7 @@
 title: "Distúrbios de aprendizagem: entenda as diferenças"
 date: 2024-01-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Health

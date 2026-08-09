@@ -3,7 +3,7 @@ title: Governador Greg Abbott Promete Recorrer Após Juiz Federal Bloquear Proje
   de Lei do Texas sobre Imigração
 date: 2024-03-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

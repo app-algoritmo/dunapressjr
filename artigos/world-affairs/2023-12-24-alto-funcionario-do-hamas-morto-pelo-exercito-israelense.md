@@ -2,7 +2,7 @@
 title: Alto funcionário do Hamas morto pelo exército israelense
 date: 2023-12-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

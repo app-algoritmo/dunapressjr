@@ -2,7 +2,7 @@
 title: "Hospital Universitário Cajuru está com vagas abertas para programa de residência médica"
 date: 2023-10-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

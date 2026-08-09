@@ -3,7 +3,7 @@ title: O regime de censura em massa da UE está agora quase totalmente operacion
   Será global?
 date: 2023-07-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

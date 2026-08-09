@@ -2,7 +2,7 @@
 title: EUA e Reino Unido concordaram secretamente em ocultar reações a vacinas
 date: 2023-05-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

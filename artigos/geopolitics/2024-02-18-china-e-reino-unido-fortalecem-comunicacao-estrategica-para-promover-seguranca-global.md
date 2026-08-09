@@ -3,7 +3,7 @@ title: China e Reino Unido fortalecem comunicação estratégica para promover s
   global
 date: 2024-02-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

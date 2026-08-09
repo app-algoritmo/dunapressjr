@@ -2,7 +2,7 @@
 title: "Caxias Shopping celebra Dia dos Pais com Tributo a Tim Maia"
 date: 2023-08-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

@@ -2,7 +2,7 @@
 title: "Luisa Stefani estreia com vitória arrasadora no WTA 1000 de Cincinnati, nos Estados Unidos"
 date: 2023-08-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

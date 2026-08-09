@@ -2,7 +2,7 @@
 title: Roberto Jefferson é transferido para hospital privado no Rio
 date: 2023-06-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Lira vai reunir líderes partidários no domingo para discutir pauta econômica
 date: 2023-07-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

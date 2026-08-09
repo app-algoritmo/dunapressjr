@@ -3,7 +3,7 @@ title: Coreia do Sul reforçará cooperação com EUA e Japão em resposta à re
   Rússia-RPDC
 date: 2024-01-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

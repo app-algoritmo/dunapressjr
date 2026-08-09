@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde joga pelo 17° título Paulista nesta quinta-feira (5)"
 date: 2023-10-05
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

@@ -2,7 +2,7 @@
 title: "Luisa Stefani é medalha de ouro com Laura Pigossi nos Jogos Pan-Americanos em Santiago, no Chile"
 date: 2023-10-29
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Pan American Games
   - Sports

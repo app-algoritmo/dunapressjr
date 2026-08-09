@@ -3,7 +3,7 @@ title: 'Transparência Internacional critica novo ministro da Integração: ''co
   por desvio de recurso público'''
 date: 2023-01-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

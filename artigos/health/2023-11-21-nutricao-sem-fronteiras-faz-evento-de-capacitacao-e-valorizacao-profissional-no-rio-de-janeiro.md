@@ -2,7 +2,7 @@
 title: "Nutrição Sem Fronteiras faz evento de capacitação e valorização profissional no Rio de Janeiro"
 date: 2023-11-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

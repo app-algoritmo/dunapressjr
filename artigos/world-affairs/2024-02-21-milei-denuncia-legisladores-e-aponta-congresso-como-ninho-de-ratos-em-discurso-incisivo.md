@@ -3,7 +3,7 @@ title: Milei Denuncia Legisladores e Aponta Congresso como 'Ninho de Ratos' em D
   Incisivo
 date: 2024-02-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

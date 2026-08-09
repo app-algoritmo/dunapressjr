@@ -2,7 +2,7 @@
 title: Moro diz que condicionou voto a favor da Bolívia à visita para ver presos políticos
 date: 2023-12-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: "André Baran disputa o River Open Petrolina de Beach Tennis, ao lado de Michele Cappelletti"
 date: 2023-09-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

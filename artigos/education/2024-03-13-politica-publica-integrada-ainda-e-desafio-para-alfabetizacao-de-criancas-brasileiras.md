@@ -2,7 +2,7 @@
 title: "Política pública integrada ainda é desafio para alfabetização de crianças brasileiras"
 date: 2024-03-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

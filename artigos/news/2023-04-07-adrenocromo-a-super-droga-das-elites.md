@@ -2,7 +2,7 @@
 title: Adrenocromo, a super droga das elites
 date: 2023-04-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

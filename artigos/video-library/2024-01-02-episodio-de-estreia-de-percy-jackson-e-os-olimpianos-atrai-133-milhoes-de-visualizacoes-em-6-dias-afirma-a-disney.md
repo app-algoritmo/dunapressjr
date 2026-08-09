@@ -2,7 +2,7 @@
 title: "Episódio de estreia de 'Percy Jackson e os Olimpianos' atrai 13,3 milhões de visualizações em 6 dias, afirma a Disney"
 date: 2024-01-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Video library
 ---

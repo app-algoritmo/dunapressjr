@@ -2,7 +2,7 @@
 title: O fim da liberdade de viajar
 date: 2023-07-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

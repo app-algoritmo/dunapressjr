@@ -2,7 +2,7 @@
 title: Paim celebra aprovação da revisão da Lei de Cotas
 date: 2023-10-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

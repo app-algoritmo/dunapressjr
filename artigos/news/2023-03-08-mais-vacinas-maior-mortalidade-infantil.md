@@ -2,7 +2,7 @@
 title: Mais vacinas, maior mortalidade infantil
 date: 2023-03-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

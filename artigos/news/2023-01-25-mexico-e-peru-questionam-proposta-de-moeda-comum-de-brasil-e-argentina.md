@@ -2,7 +2,7 @@
 title: "México e Peru questionam proposta de moeda comum de Brasil e Argentina"
 date: 2023-01-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

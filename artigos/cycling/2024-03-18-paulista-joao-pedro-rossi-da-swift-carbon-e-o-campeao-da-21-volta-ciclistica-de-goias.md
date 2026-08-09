@@ -2,7 +2,7 @@
 title: "Paulista João Pedro Rossi, da Swift Carbon, é o campeão da 21ª Volta Ciclística de Goiás"
 date: 2024-03-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

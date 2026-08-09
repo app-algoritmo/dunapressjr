@@ -2,7 +2,7 @@
 title: "Luisa Stefani e Pavlyuchenkova derrubam dupla favorita e alcançam as quartas de final em Cincinnati"
 date: 2023-08-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

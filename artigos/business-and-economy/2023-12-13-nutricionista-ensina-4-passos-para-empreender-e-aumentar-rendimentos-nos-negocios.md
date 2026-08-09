@@ -2,7 +2,7 @@
 title: "Nutricionista ensina 4 passos para empreender e aumentar rendimentos nos negócios"
 date: 2023-12-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Business and Economy
   - Entrepreneurship

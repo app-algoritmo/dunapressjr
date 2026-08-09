@@ -2,7 +2,7 @@
 title: Noboa atribui o “desastre” que o Equador vive aos níveis de desemprego juvenil
 date: 2024-01-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

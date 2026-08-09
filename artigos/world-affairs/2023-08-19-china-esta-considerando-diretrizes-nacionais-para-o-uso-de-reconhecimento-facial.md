@@ -2,7 +2,7 @@
 title: China está considerando diretrizes nacionais para o uso de reconhecimento facial
 date: 2023-08-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

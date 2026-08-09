@@ -2,7 +2,7 @@
 title: Alan Rick critica Supremo por julgar a descriminalização do porte de drogas
 date: 2023-05-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: "'Sem perrengue chique': especialista dá dicas para viagem dos sonhos"
 date: 2024-01-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

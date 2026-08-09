@@ -2,7 +2,7 @@
 title: Lula já tem reprovação maior que aprovação e assusta base do governo
 date: 2023-01-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: A tentativa dos EUA de construir um laboratório biológico secreto no Qu
   falha
 date: 2023-02-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

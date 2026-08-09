@@ -2,7 +2,7 @@
 title: Drone Valkyrie controlado por IA projetado para uso contra a China
 date: 2023-08-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

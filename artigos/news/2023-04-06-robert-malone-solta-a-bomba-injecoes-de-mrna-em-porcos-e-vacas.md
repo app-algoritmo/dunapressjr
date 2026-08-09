@@ -2,7 +2,7 @@
 title: Robert Malone solta a bomba: Injeções de mRNA em porcos e vacas
 date: 2023-04-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

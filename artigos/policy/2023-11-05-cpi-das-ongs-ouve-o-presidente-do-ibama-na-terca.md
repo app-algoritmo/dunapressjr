@@ -2,7 +2,7 @@
 title: CPI das ONGs ouve o presidente do Ibama na terça
 date: 2023-11-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: "O que é uma doença psicossomática?"
 date: 2022-08-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

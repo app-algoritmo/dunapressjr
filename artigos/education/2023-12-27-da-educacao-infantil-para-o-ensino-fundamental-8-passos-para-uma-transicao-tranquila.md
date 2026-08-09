@@ -2,7 +2,7 @@
 title: "Da Educação Infantil para o Ensino Fundamental: 8 passos para uma transição tranquila"
 date: 2023-12-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

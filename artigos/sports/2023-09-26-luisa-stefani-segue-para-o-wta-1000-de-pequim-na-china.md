@@ -2,7 +2,7 @@
 title: "Luisa Stefani segue para o WTA 1000 de Pequim, na China"
 date: 2023-09-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

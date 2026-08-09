@@ -2,7 +2,7 @@
 title: A “guerra contra a mudança climática” está chegando… de novo
 date: 2023-08-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Environment
 ---

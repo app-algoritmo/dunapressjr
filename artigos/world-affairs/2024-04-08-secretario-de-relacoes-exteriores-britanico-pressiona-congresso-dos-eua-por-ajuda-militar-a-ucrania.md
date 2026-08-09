@@ -3,7 +3,7 @@ title: Secretário de Relações Exteriores Britânico Pressiona Congresso dos E
   Ajuda Militar a Ucrânia
 date: 2024-04-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

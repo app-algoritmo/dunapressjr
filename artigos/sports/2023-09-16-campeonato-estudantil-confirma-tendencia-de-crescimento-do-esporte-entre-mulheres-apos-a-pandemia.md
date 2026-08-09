@@ -2,7 +2,7 @@
 title: "Campeonato estudantil confirma tendência de crescimento do esporte entre mulheres, após a pandemia"
 date: 2023-09-16
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

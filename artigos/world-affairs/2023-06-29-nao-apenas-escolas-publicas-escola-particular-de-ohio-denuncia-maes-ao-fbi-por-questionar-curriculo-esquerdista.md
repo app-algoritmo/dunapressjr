@@ -3,7 +3,7 @@ title: 'Não apenas escolas públicas: escola particular de Ohio denuncia mães 
   por questionar currículo esquerdista'
 date: 2023-06-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

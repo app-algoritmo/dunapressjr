@@ -2,7 +2,7 @@
 title: "Médicos se unem para remover tumor facial de rosto de jovem em cirurgia inovadora"
 date: 2024-04-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

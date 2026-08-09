@@ -2,7 +2,7 @@
 title: "Duda passa por cirurgia no joelho nesta quinta-feira (21)"
 date: 2023-09-21
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

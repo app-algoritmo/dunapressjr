@@ -2,7 +2,7 @@
 title: "As inscrições na Netflix aumentam em meio à repressão ao compartilhamento de senhas, diz relatório"
 date: 2023-06-12
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

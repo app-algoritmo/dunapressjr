@@ -2,7 +2,7 @@
 title: Grãos ucranianos perigosos inundam a Europa
 date: 2023-04-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

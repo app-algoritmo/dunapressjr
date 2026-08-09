@@ -2,7 +2,7 @@
 title: "BGS Day inicia contagem regressiva para a Brasil Game Show de 2021"
 date: 2020-10-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

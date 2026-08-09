@@ -2,7 +2,7 @@
 title: "Festa junina do Bangu Shopping promete agitar Zona Oeste do Rio"
 date: 2023-06-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

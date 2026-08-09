@@ -2,7 +2,7 @@
 title: Chico Rodrigues defende reforma tributária
 date: 2023-11-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

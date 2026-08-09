@@ -2,7 +2,7 @@
 title: "Camila Brait: a pequena gigante capitã do Osasco São Cristóvão Saúde"
 date: 2023-12-06
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

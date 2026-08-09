@@ -2,7 +2,7 @@
 title: "Dia Nacional da Saúde: 46% dos gastos com saúde são para compra de medicamentos"
 date: 2023-08-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

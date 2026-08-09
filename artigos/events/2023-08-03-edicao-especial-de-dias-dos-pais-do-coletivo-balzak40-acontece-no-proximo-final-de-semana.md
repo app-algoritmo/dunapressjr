@@ -2,7 +2,7 @@
 title: "Edição Especial de Dias dos Pais do Coletivo Balzak40 acontece no próximo final de semana"
 date: 2023-08-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

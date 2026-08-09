@@ -2,7 +2,7 @@
 title: "'Harry Potter' vai virar série no Max"
 date: 2023-04-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

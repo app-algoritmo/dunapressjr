@@ -2,7 +2,7 @@
 title: Armas biológicas nos alimentos?
 date: 2023-05-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

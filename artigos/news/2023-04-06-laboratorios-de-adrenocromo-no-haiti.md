@@ -2,7 +2,7 @@
 title: Laboratórios de Adrenocromo no Haiti
 date: 2023-04-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Novas viaturas reforçam o policiamento nas rodovias estaduais do Paraná
 date: 2023-12-10
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: "Mensagem apagada no WhatsApp pode deixar muita gente preocupada"
 date: 2023-01-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

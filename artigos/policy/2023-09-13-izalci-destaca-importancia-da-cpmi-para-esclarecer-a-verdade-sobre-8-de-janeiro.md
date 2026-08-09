@@ -2,7 +2,7 @@
 title: Izalci destaca importância da CPMI para esclarecer a verdade sobre 8 de janeiro
 date: 2023-09-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

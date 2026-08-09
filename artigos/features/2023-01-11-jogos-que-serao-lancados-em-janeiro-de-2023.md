@@ -2,7 +2,7 @@
 title: "Jogos que serão lançados em janeiro de 2023"
 date: 2023-01-11
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
   - News

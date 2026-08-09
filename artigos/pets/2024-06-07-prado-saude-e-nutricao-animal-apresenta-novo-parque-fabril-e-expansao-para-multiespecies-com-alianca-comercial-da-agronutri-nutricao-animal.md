@@ -2,7 +2,7 @@
 title: "Prado Saúde e Nutrição Animal apresenta novo parque fabril e expansão para multiespécies com aliança comercial da Agronutri Nutrição Animal"
 date: 2024-06-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Pets
 ---

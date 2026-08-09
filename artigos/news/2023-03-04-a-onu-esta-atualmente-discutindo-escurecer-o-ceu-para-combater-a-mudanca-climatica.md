@@ -2,7 +2,7 @@
 title: A ONU está atualmente discutindo escurecer o céu para combater a mudança climática
 date: 2023-03-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

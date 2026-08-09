@@ -2,7 +2,7 @@
 title: O Partido Democrata encenou uma insurreição americana?
 date: 2023-11-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: 'México Nega Morte por Gripe Aviária: Alarmismo da Mídia e Desinformação'
 date: 2024-06-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

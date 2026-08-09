@@ -2,7 +2,7 @@
 title: "Projeto Formações IEE tem ações em sete estados no mês de outubro e beneficia 46 mil alunos"
 date: 2023-10-02
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
   - Sports

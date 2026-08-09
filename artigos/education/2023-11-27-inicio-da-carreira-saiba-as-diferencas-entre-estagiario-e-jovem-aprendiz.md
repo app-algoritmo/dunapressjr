@@ -2,7 +2,7 @@
 title: "Início da carreira: saiba as diferenças entre estagiário e jovem aprendiz"
 date: 2023-11-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

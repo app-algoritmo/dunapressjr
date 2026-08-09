@@ -2,7 +2,7 @@
 title: "Cuidados básicos de higiene bucal são desconhecidos em diversas regiões do Brasil"
 date: 2024-01-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

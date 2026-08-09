@@ -2,7 +2,7 @@
 title: 'Kremlin: Ocidente tenta desestabilizar a situação em torno de Nagorno-Karabakh'
 date: 2023-11-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

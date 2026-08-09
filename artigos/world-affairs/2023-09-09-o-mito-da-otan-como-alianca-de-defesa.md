@@ -2,7 +2,7 @@
 title: O Mito da OTAN como Aliança de Defesa
 date: 2023-09-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

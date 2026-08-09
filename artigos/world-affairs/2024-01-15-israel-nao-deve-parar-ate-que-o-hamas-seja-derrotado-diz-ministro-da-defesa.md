@@ -2,7 +2,7 @@
 title: Israel não deve parar até que o Hamas seja derrotado, diz ministro da Defesa
 date: 2024-01-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

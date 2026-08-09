@@ -3,7 +3,7 @@ title: 'SP: Polícia apreende caminhão com 250 tijolos de cocaína na Castello 
   usando câmeras'
 date: 2023-08-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

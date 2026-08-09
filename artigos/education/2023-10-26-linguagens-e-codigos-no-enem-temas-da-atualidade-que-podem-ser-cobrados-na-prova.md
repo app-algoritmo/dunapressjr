@@ -2,7 +2,7 @@
 title: "Linguagens e Códigos no Enem: temas da atualidade que podem ser cobrados na prova"
 date: 2023-10-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

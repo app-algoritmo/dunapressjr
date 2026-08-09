@@ -2,7 +2,7 @@
 title: '''Nunca permita a regra do estado'''
 date: 2023-07-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

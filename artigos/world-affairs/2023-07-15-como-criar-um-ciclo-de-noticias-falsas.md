@@ -2,7 +2,7 @@
 title: Como criar um ciclo de notícias falsas
 date: 2023-07-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

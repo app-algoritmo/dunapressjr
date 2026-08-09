@@ -3,7 +3,7 @@ title: 'Estudo: Comer alimentos ricos em gorduras saudáveis ​​ajuda a comba
   de pele'
 date: 2023-05-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Food
 ---

@@ -2,7 +2,7 @@
 title: "Bangu Shopping e Caxias Shopping promovem Campanha de Arrecadação de Agasalhos em parceria com o Instituto da Criança"
 date: 2024-06-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Shopping
 ---

@@ -2,7 +2,7 @@
 title: Vários países tomam medidas de segurança diante da onda de violência no Equador
 date: 2024-01-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

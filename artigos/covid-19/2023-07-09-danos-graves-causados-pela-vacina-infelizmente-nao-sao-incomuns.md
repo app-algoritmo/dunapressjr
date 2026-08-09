@@ -2,7 +2,7 @@
 title: Danos graves causados pela vacina infelizmente não são incomuns
 date: 2023-07-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

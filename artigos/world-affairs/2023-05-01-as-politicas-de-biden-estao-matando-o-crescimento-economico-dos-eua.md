@@ -2,7 +2,7 @@
 title: As políticas de Biden estão matando o crescimento econômico dos EUA
 date: 2023-05-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: "Baile Charme anima a sexta-feira no Pátio Alcântara"
 date: 2023-06-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Architecture and Art
   - Culture and History

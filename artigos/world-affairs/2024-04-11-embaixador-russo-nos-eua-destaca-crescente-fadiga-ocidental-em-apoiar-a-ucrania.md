@@ -2,7 +2,7 @@
 title: Embaixador Russo nos EUA Destaca Crescente Fadiga Ocidental em Apoiar a Ucrânia
 date: 2024-04-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

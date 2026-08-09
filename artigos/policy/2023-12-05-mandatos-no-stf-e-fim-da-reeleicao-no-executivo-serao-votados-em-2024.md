@@ -2,7 +2,7 @@
 title: Mandatos no STF e fim da reeleição no Executivo serão votados em 2024
 date: 2023-12-05
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

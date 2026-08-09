@@ -2,7 +2,7 @@
 title: "Feira de livro Letrinha no Caxias Shopping"
 date: 2023-05-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Culture and History
   - Education

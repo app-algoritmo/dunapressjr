@@ -2,7 +2,7 @@
 title: "Mais tradicional entre as corridas de rua do Brasil, Circuito de Corridas CAIXA está de volta"
 date: 2024-06-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

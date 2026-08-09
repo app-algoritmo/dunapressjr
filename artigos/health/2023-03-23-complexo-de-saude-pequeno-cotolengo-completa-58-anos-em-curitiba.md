@@ -2,7 +2,7 @@
 title: "Complexo de Saúde Pequeno Cotolengo completa 58 anos em Curitiba"
 date: 2023-03-23
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
   - News

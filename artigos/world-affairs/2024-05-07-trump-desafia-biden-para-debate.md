@@ -2,7 +2,7 @@
 title: Trump Desafia Biden para Debate
 date: 2024-05-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

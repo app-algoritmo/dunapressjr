@@ -2,7 +2,7 @@
 title: "Rocky Mountain Games agora recebe crianças de 4 a 13 anos no Acampamento Go Outside de Aventura"
 date: 2024-02-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

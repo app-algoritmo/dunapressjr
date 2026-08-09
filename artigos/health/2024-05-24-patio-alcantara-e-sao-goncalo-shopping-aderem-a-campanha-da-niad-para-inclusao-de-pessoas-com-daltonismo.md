@@ -2,7 +2,7 @@
 title: "Pátio Alcântara e São Gonçalo Shopping aderem à campanha da NIAD para inclusão de pessoas com daltonismo"
 date: 2024-05-24
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
   - Shopping

@@ -2,7 +2,7 @@
 title: "Osasco São Cristóvão Saúde conquista terceira vitória consecutiva no Paulista 2023"
 date: 2023-09-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

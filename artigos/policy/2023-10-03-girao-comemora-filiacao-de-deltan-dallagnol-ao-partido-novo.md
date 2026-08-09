@@ -2,7 +2,7 @@
 title: Girão comemora filiação de Deltan Dallagnol ao Partido Novo
 date: 2023-10-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

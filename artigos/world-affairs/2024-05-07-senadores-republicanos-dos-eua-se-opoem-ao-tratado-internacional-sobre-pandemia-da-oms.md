@@ -3,7 +3,7 @@ title: Senadores Republicanos dos EUA se Opõem ao Tratado Internacional sobre P
   da OMS
 date: 2024-05-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

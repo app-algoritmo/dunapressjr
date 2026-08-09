@@ -2,7 +2,7 @@
 title: O que a guerra na Ucrânia e a pandemia têm em comum?
 date: 2023-02-08
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Ataque a PMs na Capital foi tema principal da Sessão Ordinária da Alesp
   sexta, 2
 date: 2023-06-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

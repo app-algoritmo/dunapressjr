@@ -2,7 +2,7 @@
 title: CPMI ouve homem que tentou explodir caminhão de querosene em Brasília
 date: 2023-09-25
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

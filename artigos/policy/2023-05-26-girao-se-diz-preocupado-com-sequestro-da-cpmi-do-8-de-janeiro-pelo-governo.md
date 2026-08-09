@@ -2,7 +2,7 @@
 title: Girão se diz preocupado com 'sequestro' da CPMI do 8 de Janeiro pelo governo
 date: 2023-05-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

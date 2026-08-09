@@ -2,7 +2,7 @@
 title: "FLORIANÓPOLIS SEDIA PRIMEIRA EDIÇÃO DO EVENTO DIREITO AMBIENTAL EXPERIENCE"
 date: 2023-04-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

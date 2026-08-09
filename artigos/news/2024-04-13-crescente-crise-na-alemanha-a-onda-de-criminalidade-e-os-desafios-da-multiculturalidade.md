@@ -2,7 +2,7 @@
 title: 'Crescente Crise na Alemanha: A Onda de Criminalidade e os Desafios da Multiculturalidade'
 date: 2024-04-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

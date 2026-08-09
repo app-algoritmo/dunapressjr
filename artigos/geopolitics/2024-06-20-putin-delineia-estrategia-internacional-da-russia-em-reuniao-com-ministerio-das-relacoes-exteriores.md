@@ -3,7 +3,7 @@ title: Putin Delineia Estratégia Internacional da Rússia em Reunião com Minis
   das Relações Exteriores
 date: 2024-06-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

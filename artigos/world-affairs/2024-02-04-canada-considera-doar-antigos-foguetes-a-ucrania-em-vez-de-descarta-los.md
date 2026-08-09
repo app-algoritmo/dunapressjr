@@ -2,7 +2,7 @@
 title: Canadá Considera Doar Antigos Foguetes à Ucrânia em Vez de Descartá-los
 date: 2024-02-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

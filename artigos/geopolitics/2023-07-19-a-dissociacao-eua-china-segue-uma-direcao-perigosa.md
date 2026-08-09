@@ -2,7 +2,7 @@
 title: A dissociação EUA-China segue uma direção perigosa
 date: 2023-07-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

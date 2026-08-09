@@ -2,7 +2,7 @@
 title: "Cinco habilidades necessárias para o professor do futuro"
 date: 2023-09-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

@@ -2,7 +2,7 @@
 title: "Festival Rocky Spirit leva cinema para a praia de Ipanema e Ilha do Governador neste final de semana"
 date: 2023-09-22
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Cycling
   - Sports

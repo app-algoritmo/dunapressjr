@@ -2,7 +2,7 @@
 title: CPMI ouve na quinta-feira sargento que movimentou dinheiro para Mauro Cid
 date: 2023-08-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

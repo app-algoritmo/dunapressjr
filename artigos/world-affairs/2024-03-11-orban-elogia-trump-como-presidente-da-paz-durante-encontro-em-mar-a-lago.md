@@ -2,7 +2,7 @@
 title: Orbán elogia Trump como 'presidente da paz' durante encontro em Mar-a-Lago
 date: 2024-03-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

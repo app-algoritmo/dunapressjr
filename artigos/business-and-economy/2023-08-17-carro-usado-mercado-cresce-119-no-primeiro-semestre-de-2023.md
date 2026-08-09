@@ -2,7 +2,7 @@
 title: "Carro usado: mercado cresce 11,9% no primeiro semestre de 2023"
 date: 2023-08-17
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Business and Economy
 ---

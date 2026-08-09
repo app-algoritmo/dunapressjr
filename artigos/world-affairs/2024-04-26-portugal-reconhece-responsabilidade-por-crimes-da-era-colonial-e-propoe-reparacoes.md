@@ -2,7 +2,7 @@
 title: Portugal Reconhece Responsabilidade por Crimes da Era Colonial e Propõe Reparações
 date: 2024-04-26
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

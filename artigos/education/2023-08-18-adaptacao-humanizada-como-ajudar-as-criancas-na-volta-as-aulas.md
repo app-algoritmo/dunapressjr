@@ -2,7 +2,7 @@
 title: "Adaptação humanizada: como ajudar as crianças na volta às aulas"
 date: 2023-08-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

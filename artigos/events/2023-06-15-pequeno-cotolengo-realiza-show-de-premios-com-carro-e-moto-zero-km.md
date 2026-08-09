@@ -2,7 +2,7 @@
 title: "Pequeno Cotolengo realiza Show de Prêmios com carro e moto zero km"
 date: 2023-06-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
 ---

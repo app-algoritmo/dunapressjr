@@ -2,7 +2,7 @@
 title: Rússia ajuda fazendeiros na África do Sul e anuncia grandes planos
 date: 2023-08-16
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

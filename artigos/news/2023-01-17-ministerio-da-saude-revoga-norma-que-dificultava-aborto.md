@@ -2,7 +2,7 @@
 title: Ministério da Saúde revoga norma que dificultava aborto
 date: 2023-01-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Desvendando a Matrix: Nova Teoria Sugere que Vivemos em uma ''Simulação Virtual'''
 date: 2024-05-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

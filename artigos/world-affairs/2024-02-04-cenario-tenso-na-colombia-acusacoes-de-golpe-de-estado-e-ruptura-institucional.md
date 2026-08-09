@@ -2,7 +2,7 @@
 title: 'Cenário Tenso na Colômbia: Acusações de Golpe de Estado e Ruptura Institucional'
 date: 2024-02-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

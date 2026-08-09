@@ -2,7 +2,7 @@
 title: 'A Visão Esquizóide dos EUA sobre Modi: De Herói a Vilão em Um Ano'
 date: 2024-06-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

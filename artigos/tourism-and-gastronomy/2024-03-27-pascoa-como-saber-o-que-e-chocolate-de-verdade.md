@@ -2,7 +2,7 @@
 title: "Páscoa: como saber o que é chocolate de verdade?"
 date: 2024-03-27
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Tourism and Gastronomy
 ---

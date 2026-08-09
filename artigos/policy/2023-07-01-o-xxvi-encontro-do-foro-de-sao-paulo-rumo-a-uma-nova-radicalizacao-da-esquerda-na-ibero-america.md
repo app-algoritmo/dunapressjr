@@ -3,7 +3,7 @@ title: 'O XXVI Encontro do Foro de São Paulo: rumo a uma nova radicalização d
   na Ibero-América'
 date: 2023-07-01
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

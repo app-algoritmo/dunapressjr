@@ -2,7 +2,7 @@
 title: Japão critica votação das eleições presidenciais russas em regiões disputadas
 date: 2024-03-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

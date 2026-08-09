@@ -2,7 +2,7 @@
 title: 'Avaliação do FMI sobre o Uruguai: Progresso Econômico e Desafios à Vista'
 date: 2024-03-17
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

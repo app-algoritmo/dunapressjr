@@ -2,7 +2,7 @@
 title: O Aumento das Tensões na Ucrânia e o Chamado à Intervenção da NATO
 date: 2024-04-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

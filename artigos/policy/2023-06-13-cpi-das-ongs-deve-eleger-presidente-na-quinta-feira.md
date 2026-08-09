@@ -2,7 +2,7 @@
 title: CPI das ONGs deve eleger presidente na quinta-feira
 date: 2023-06-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

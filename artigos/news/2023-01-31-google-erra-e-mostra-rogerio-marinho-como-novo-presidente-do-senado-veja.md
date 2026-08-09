@@ -2,7 +2,7 @@
 title: "Google erra e mostra Rogério Marinho como novo presidente do Senado; Veja"
 date: 2023-01-31
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

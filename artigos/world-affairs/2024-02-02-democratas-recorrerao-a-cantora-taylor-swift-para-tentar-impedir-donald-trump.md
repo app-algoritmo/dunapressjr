@@ -2,7 +2,7 @@
 title: Democratas recorrerão à cantora Taylor Swift para tentar impedir Donald Trump
 date: 2024-02-02
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

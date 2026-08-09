@@ -2,7 +2,7 @@
 title: Paraguai poderá ser um dos pólos mais competitivos do Mercosul em matéria têxtil
 date: 2023-08-31
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

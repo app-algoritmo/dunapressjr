@@ -3,7 +3,7 @@ title: Bukele pede permissão ao Congresso para fazer campanha pela sua reeleiç
   El Salvador
 date: 2023-11-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

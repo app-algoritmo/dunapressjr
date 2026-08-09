@@ -3,7 +3,7 @@ title: Os EUA não são mais capazes de manter uma 'ordem baseada em regras' sem
   à máfia
 date: 2023-07-21
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

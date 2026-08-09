@@ -2,7 +2,7 @@
 title: CPI das ONGs ouve diretor do Ipam na terça-feira
 date: 2023-10-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

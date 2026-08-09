@@ -2,7 +2,7 @@
 title: "Mulheres lutam para conquistar espaço na produção científica com pesquisas lideradas por elas"
 date: 2024-02-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Technology
 ---

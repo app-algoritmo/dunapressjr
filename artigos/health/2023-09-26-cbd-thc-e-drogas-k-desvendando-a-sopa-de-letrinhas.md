@@ -2,7 +2,7 @@
 title: "CBD, THC e drogas K: desvendando a sopa de letrinhas"
 date: 2023-09-26
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

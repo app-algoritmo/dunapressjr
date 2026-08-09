@@ -3,7 +3,7 @@ title: Assalto aeromóvel marca o terceiro dia de exercício combinado Brasil e 
   Unidos
 date: 2023-11-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Military
 ---

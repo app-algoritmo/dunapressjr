@@ -2,7 +2,7 @@
 title: "Sucesso no formato presencial, Imersão Nutrição Sem Fronteiras abre evento online"
 date: 2023-12-01
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Events
   - Health

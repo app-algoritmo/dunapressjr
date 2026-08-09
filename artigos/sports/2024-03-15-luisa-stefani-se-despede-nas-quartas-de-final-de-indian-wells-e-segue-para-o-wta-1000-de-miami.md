@@ -2,7 +2,7 @@
 title: "Luisa Stefani se despede nas quartas de final de Indian Wells e segue para o WTA 1000 de Miami"
 date: 2024-03-15
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Tennis

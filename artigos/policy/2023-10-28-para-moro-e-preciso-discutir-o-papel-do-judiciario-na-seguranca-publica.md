@@ -2,7 +2,7 @@
 title: Para Moro é preciso discutir o papel do Judiciário na segurança pública
 date: 2023-10-28
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

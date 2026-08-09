@@ -2,7 +2,7 @@
 title: 'Escândalo Global: Acusações Explosivas Contra Figuras de Destaque na Saúde'
 date: 2024-05-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Grupo de trabalho da minirreforma eleitoral vai analisar parecer na segunda-feira
 date: 2023-09-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

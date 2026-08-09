@@ -3,7 +3,7 @@ title: 'O Desaparecimento dos Verdadeiros Líderes na Europa: Uma Análise de Dm
   Medvedev'
 date: 2024-02-23
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

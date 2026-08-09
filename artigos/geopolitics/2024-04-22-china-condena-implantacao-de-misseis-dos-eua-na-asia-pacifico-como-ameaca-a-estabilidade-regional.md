@@ -3,7 +3,7 @@ title: China Condena Implantação de Mísseis dos EUA na Ásia-Pacífico como A
   Estabilidade Regional
 date: 2024-04-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

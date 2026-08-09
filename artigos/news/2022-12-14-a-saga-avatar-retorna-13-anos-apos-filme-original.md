@@ -2,7 +2,7 @@
 title: "A saga 'Avatar' retorna 13 anos após filme original"
 date: 2022-12-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - Video library

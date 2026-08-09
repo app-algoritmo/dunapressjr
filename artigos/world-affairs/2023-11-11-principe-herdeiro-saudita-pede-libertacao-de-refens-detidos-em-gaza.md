@@ -2,7 +2,7 @@
 title: Príncipe herdeiro saudita pede libertação de reféns detidos em Gaza
 date: 2023-11-11
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

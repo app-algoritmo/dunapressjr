@@ -3,7 +3,7 @@ title: Joe Biden Vence Eleições Primárias no Estado do Nevada Rumo às Eleiç
   de 2024
 date: 2024-02-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

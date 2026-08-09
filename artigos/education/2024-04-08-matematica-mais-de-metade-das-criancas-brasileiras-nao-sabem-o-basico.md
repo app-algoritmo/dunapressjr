@@ -2,7 +2,7 @@
 title: "Matemática: mais de metade das crianças brasileiras não sabem o básico"
 date: 2024-04-08
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Education
 ---

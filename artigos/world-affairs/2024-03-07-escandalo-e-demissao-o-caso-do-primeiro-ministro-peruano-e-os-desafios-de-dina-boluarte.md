@@ -3,7 +3,7 @@ title: 'Escândalo e Demissão: O Caso do Primeiro-Ministro Peruano e os Desafio
   Dina Boluarte'
 date: 2024-03-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

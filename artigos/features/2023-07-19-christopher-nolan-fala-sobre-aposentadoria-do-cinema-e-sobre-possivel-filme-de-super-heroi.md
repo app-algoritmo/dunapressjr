@@ -2,7 +2,7 @@
 title: "Christopher Nolan fala sobre aposentadoria do cinema e sobre possível filme de super-herói"
 date: 2023-07-19
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

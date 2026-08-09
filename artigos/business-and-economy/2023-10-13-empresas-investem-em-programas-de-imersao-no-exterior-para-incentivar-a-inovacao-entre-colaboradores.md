@@ -2,7 +2,7 @@
 title: "Empresas investem em programas de imersão no exterior para incentivar a inovação entre colaboradores"
 date: 2023-10-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Business and Economy
 ---

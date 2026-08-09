@@ -2,7 +2,7 @@
 title: "Tecnologia e IA: aliados importantes na prevenção de fraudes"
 date: 2023-11-14
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Technology
 ---

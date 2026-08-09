@@ -2,7 +2,7 @@
 title: Biden e Xi se reunirão na Califórnia
 date: 2023-11-13
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

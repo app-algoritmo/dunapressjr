@@ -3,7 +3,7 @@ title: Relator da reforma tributária diz que é hora de 'fazer cálculos' para 
   do novo imposto
 date: 2023-06-07
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

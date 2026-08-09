@@ -2,7 +2,7 @@
 title: Eduardo Girão critica gastos de Lula com viagens ao exterior
 date: 2023-06-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

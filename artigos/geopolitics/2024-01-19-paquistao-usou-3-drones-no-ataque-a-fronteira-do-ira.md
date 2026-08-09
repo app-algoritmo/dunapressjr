@@ -2,7 +2,7 @@
 title: Paquistão usou 3 drones no ataque à fronteira do Irã
 date: 2024-01-19
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

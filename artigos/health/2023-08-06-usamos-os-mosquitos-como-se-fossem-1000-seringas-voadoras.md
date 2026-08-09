@@ -2,7 +2,7 @@
 title: Usamos os mosquitos como se fossem 1000 seringas voadoras
 date: 2023-08-06
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

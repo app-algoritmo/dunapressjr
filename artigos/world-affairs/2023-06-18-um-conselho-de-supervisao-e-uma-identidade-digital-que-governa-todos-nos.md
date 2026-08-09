@@ -2,7 +2,7 @@
 title: Um “conselho de supervisão” e uma identidade digital que governa todos nós
 date: 2023-06-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

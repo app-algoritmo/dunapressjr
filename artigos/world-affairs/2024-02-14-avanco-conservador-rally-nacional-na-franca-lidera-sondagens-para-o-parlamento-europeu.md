@@ -3,7 +3,7 @@ title: 'Avanço Conservador: Rally Nacional na França Lidera Sondagens para o P
   Europeu'
 date: 2024-02-14
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

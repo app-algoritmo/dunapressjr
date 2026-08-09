@@ -2,7 +2,7 @@
 title: França suspende financiamento de agência da ONU que ajuda refugiados palestinos
 date: 2024-01-29
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

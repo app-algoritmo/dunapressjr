@@ -2,7 +2,7 @@
 title: "Turquia pressiona pela abertura de mais 2 portões para ajuda vital na Síria"
 date: 2023-02-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
   - World Affairs

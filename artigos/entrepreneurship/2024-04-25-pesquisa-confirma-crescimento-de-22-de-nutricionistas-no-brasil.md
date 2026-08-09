@@ -2,7 +2,7 @@
 title: "Pesquisa confirma crescimento de 22% de nutricionistas no Brasil"
 date: 2024-04-25
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Entrepreneurship
   - Health

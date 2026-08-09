@@ -2,7 +2,7 @@
 title: "Filme sobre conquista de Aretha Duarte no Everest tem estreia mundial no Festival do Rio 2023"
 date: 2023-10-09
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Documentaries
   - Sports

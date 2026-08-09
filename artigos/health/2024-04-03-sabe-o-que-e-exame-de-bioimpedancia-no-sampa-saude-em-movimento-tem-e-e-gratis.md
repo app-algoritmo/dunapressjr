@@ -2,7 +2,7 @@
 title: "Sabe o que é exame de bioimpedância? No SAMPA Saúde em Movimento tem e é grátis"
 date: 2024-04-03
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Health
 ---

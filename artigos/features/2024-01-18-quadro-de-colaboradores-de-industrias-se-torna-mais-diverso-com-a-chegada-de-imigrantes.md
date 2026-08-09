@@ -2,7 +2,7 @@
 title: "Quadro de colaboradores de indústrias se torna mais diverso com a chegada de imigrantes"
 date: 2024-01-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Features
 ---

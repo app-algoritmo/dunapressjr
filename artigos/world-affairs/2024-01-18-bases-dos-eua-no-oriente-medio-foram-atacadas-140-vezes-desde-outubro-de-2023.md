@@ -2,7 +2,7 @@
 title: Bases dos EUA no Oriente Médio foram atacadas 140 vezes desde outubro de 2023
 date: 2024-01-18
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

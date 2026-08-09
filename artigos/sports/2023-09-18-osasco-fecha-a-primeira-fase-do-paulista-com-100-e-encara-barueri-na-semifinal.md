@@ -2,7 +2,7 @@
 title: "Osasco fecha a primeira fase do Paulista com 100% e encara Barueri na semifinal"
 date: 2023-09-18
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
   - Volleyball

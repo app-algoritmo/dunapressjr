@@ -2,7 +2,7 @@
 title: Moraes afasta governador do Distrito Federal por 90 dias
 date: 2023-01-09
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

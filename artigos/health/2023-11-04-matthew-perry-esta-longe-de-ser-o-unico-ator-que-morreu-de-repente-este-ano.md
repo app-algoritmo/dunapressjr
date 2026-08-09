@@ -2,7 +2,7 @@
 title: Matthew Perry está longe de ser o único ator que morreu “de repente” este ano
 date: 2023-11-04
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Health
 ---

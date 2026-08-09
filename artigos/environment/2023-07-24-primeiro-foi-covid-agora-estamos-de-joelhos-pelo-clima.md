@@ -2,7 +2,7 @@
 title: Primeiro foi Covid - agora estamos de joelhos pelo clima
 date: 2023-07-24
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Environment
 ---

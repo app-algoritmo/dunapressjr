@@ -3,7 +3,7 @@ title: 'Estudo: injeção de mRNA Covid prejudica a resposta imunológica a outr
   em crianças'
 date: 2023-09-03
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Covid-19
 ---

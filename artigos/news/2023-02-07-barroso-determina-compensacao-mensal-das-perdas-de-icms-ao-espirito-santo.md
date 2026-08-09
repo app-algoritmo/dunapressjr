@@ -2,7 +2,7 @@
 title: "Barroso determina compensação mensal das perdas de ICMS ao Espírito Santo"
 date: 2023-02-07
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - News
 ---

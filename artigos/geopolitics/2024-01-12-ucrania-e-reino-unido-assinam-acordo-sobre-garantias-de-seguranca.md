@@ -2,7 +2,7 @@
 title: Ucrânia e Reino Unido assinam acordo sobre garantias de segurança
 date: 2024-01-12
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Geopolitics
 ---

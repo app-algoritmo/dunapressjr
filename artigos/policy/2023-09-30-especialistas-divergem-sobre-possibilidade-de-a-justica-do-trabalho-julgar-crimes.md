@@ -3,7 +3,7 @@ title: Especialistas divergem sobre possibilidade de a Justiça do Trabalho julg
   crimes
 date: 2023-09-30
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - Policy
 ---

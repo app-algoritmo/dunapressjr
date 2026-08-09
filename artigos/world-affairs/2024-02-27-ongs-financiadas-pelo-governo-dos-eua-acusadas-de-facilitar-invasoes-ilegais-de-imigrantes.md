@@ -3,7 +3,7 @@ title: ONGs financiadas pelo governo dos EUA acusadas de facilitar invasões ile
   de imigrantes
 date: 2024-02-27
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - World Affairs
 ---

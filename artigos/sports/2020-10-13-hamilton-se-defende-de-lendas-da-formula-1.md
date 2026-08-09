@@ -2,7 +2,7 @@
 title: "Hamilton se defende de lendas da Fórmula 1"
 date: 2020-10-13
 status: publish
-author: milah44
+author: "Camila Honorato"
 categories:
   - Sports
 ---

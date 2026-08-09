@@ -2,7 +2,7 @@
 title: O terremoto na Turquia foi feito pelo homem? Bem, a tecnologia existe
 date: 2023-02-22
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

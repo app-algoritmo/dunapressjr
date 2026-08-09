@@ -2,7 +2,7 @@
 title: Ivermectina, a História não contada de um 'medicamento milagroso'
 date: 2023-01-15
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---

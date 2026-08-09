@@ -2,7 +2,7 @@
 title: Os Estados Unidos esperam acabar com a crise aniquilando seus concorrentes
 date: 2023-02-20
 status: publish
-author: Edicleia Alves Lima
+author: "Edicléia Alves Lima"
 categories:
 - News
 ---
