@@ -605,6 +605,11 @@ def main():
     arts, eds = m["artigos"], m["editorias"]
     edicao = len({a["data"] for a in arts})
 
+    # A saída é reconstruída do zero. Sem isto, uma mudança de permalink
+    # deixa as páginas do formato antigo para trás: o site publicado passa
+    # a ter duas versões de cada matéria, e a contagem de arquivos dobra.
+    if os.path.isdir(SAIDA):
+        shutil.rmtree(SAIDA)
     os.makedirs(SAIDA, exist_ok=True)
     escritas = 0
 
