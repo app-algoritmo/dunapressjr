@@ -623,15 +623,18 @@ def montar_artigo(m, a, edicao):
     prov = a.get("proveniencia", "humano")
     revisor = a.get("revisor", "")
     if prov == "humano":
-        selo = '<span class="selo selo-h">Reportagem humana</span>'
+        selo = ('<span class="sep">|</span>'
+                '<span class="selo selo-h">Reportagem humana</span>')
     elif prov == "ia-autonomo" and not revisor:
         # Publicada por processo automático. Não afirmamos revisão que não
         # houve: o leitor merece saber, e declarar o contrário seria falso.
-        selo = ('<span class="selo selo-auto">Publicação automática</span>'
+        selo = ('<span class="sep">|</span>'
+                '<span class="selo selo-auto">Publicação automática</span>'
                 '<span class="sep">|</span>'
                 '<span>Verificada contra a fonte, sem revisão humana prévia</span>')
     else:
-        selo = ('<span class="selo selo-ia">Redigido com IA</span>'
+        selo = ('<span class="sep">|</span>'
+                '<span class="selo selo-ia">Redigido com IA</span>'
                 '<span class="sep">|</span><span>Revisão: '
                 f'<b>{e(revisor or "Paulo Fernando de Barros")}</b></span>')
     tarja = ""
@@ -666,7 +669,6 @@ def montar_artigo(m, a, edicao):
       <span>{e(a["data_extenso"])}</span>
       <span class="sep">|</span>
       <span>{minutos} min de leitura</span>
-      <span class="sep">|</span>
       {selo}
     </div>
   </div>
