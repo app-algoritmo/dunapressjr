@@ -3,8 +3,9 @@
 User-agent: *
 Allow: /
 
-# Rascunhos e ferramentas internas
+# Rascunhos, redação e ferramentas internas
 Disallow: /rascunhos/
+Disallow: /admin/
 Disallow: /api/busca.json
 
 # Busca com parâmetro gera infinitas combinações sem valor de índice

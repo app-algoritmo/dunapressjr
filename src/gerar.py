@@ -797,7 +797,7 @@ def main():
             print(f"  {i}/{len(alvo)} matérias")
 
     # assets vão para o site como estão; o hash na URL cuida do cache
-    for pasta in ("assets",):
+    for pasta in ("assets", "admin"):
         destino = os.path.join(SAIDA, pasta)
         if os.path.isdir(destino):
             shutil.rmtree(destino)

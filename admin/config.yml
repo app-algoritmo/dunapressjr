@@ -1,0 +1,187 @@
+# Duna Press — configuração da redação.
+#
+# O painel grava direto no repositório pela API do GitHub: não há servidor,
+# não há banco de dados. Publicar é fazer um commit, e o commit dispara o
+# build que reconstrói o site.
+
+backend:
+  name: github
+  repo: app-algoritmo/dunapressjr
+  branch: main
+  # Autenticação pelo Worker na Cloudflare. O GitHub não permite login
+  # direto de uma página estática — alguém precisa guardar o segredo.
+  base_url: https://dunapress.org
+  auth_endpoint: admin/auth
+
+# Sem fluxo de rascunho: para uma redação de uma pessoa, aprovar o próprio
+# texto é atrito sem ganho. Publish grava e vai ao ar.
+publish_mode: simple
+
+media_folder: imagens
+public_folder: /imagens
+
+locale: pt
+
+collections:
+  - name: materias
+    label: Matérias
+    label_singular: Matéria
+    folder: artigos
+    # A pasta sai da editoria escolhida e o nome do arquivo carrega a data,
+    # como o resto do acervo.
+    path: '{{fields.categories}}/{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{title}}'
+    create: true
+    editor:
+      preview: false
+    summary: '{{title}} — {{categories}} · {{year}}-{{month}}-{{day}}'
+    sortable_fields: [date, title, categories]
+    view_filters:
+      - label: Publicadas
+        field: status
+        pattern: publish
+      - label: Aguardando revisão
+        field: revisao_humana
+        pattern: pendente
+
+    fields:
+      - label: Título
+        name: title
+        widget: string
+        hint: >
+          Diz o que aconteceu. Sem "parece X mas é Y", sem pergunta,
+          sem promessa de revelação.
+
+      - label: Linha fina
+        name: subtitle
+        widget: string
+        required: false
+        hint: Uma frase com o dado que sustenta o título.
+
+      - label: Resumo
+        name: description
+        widget: text
+        required: false
+        pattern: ['^.{0,200}$', 'Até 200 caracteres.']
+        hint: Aparece na capa e nos buscadores. Até 200 caracteres.
+
+      - label: Data
+        name: date
+        widget: datetime
+        date_format: YYYY-MM-DD
+        time_format: false
+        format: YYYY-MM-DD
+        default: ''
+
+      - label: Editoria
+        name: categories
+        widget: select
+        options:
+          - { label: Brasil, value: brasil }
+          - { label: Mundo, value: mundo }
+          - { label: Economia, value: economia }
+          - { label: Política, value: politica }
+          - { label: 'Ciência & Saúde', value: ciencia-e-saude }
+          - { label: Tecnologia, value: tecnologia }
+          - { label: Cultura, value: cultura }
+          - { label: Esportes, value: esportes }
+          - { label: Opinião, value: opiniao }
+        default: brasil
+
+      - label: Formato
+        name: formato
+        widget: select
+        options:
+          - { label: 'Nota — 200 a 350 palavras', value: nota }
+          - { label: 'Reportagem — 700 a 1.200', value: reportagem }
+          - { label: 'Análise — 800 a 1.400', value: analise }
+          - { label: 'Explicador — 500 a 900', value: explicador }
+          - { label: 'Opinião — 600 a 1.000', value: opiniao }
+        default: reportagem
+
+      - label: Assinatura
+        name: author
+        widget: string
+        default: Paulo Fernando de Barros
+
+      - label: Proveniência
+        name: proveniencia
+        widget: hidden
+        default: humano
+
+      - label: Fonte primária
+        name: fonte_primaria
+        widget: string
+        required: false
+        hint: >
+          URL do documento, dado ou registro original — não de outra
+          reportagem sobre ele.
+
+      - label: Data do fato
+        name: data_do_fato
+        widget: datetime
+        date_format: YYYY-MM-DD
+        time_format: false
+        format: YYYY-MM-DD
+        required: false
+        hint: Quando ocorreu, não quando você escreveu.
+
+      - label: Foto de abertura
+        name: featuredImage
+        widget: image
+        required: false
+        allow_multiple: false
+
+      - label: Crédito da foto
+        name: photoAuthor
+        widget: string
+        required: false
+
+      - label: Fonte da foto
+        name: photoSource
+        widget: string
+        required: false
+        hint: 'Unsplash, Agência Brasil, arquivo pessoal…'
+
+      - label: Etiquetas
+        name: tags
+        widget: list
+        required: false
+        max: 8
+
+      - label: Situação
+        name: status
+        widget: hidden
+        default: publish
+
+      - label: Texto
+        name: body
+        widget: markdown
+        hint: >
+          Intertítulo com ## no início da linha. Termine no último fato:
+          sem arremate, sem projeção, sem pergunta ao leitor.
+
+  - name: editorial
+    label: Páginas editoriais
+    files:
+      - label: Correções
+        name: correcoes
+        file: editorial/correcoes.md
+        fields:
+          - { label: Título, name: title, widget: string }
+          - { label: Resumo, name: description, widget: text }
+          - { label: Texto, name: body, widget: markdown }
+
+      - label: Princípios editoriais
+        name: principios
+        file: editorial/principios.md
+        fields:
+          - { label: Título, name: title, widget: string }
+          - { label: Resumo, name: description, widget: text }
+          - { label: Texto, name: body, widget: markdown }
+
+      - label: Revisão pendente
+        name: revisao
+        file: editorial/revisao-pendente.md
+        fields:
+          - { label: Fila, name: body, widget: markdown }

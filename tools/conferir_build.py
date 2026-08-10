@@ -53,7 +53,7 @@ def main():
                 "cookies/index.html", "termos/index.html",
                 "newsletter/index.html", "assinatura/index.html",
                 "api/busca.json", "assets/css/jornal.css",
-                "assets/js/jornal.js"):
+                "assets/js/jornal.js", "admin/index.html", "admin/config.yml"):
         exigir(os.path.exists(os.path.join(SITE, rel)), f"faltando: {rel}")
 
     if falhas:
@@ -71,7 +71,7 @@ def main():
     # que também têm index.html mas não são matéria.
     secoes = {"autores", "principios", "correcoes", "api", "assets",
               "arquivo", "busca", "quem-somos", "contato", "privacidade",
-              "cookies", "termos", "newsletter", "assinatura",
+              "cookies", "termos", "newsletter", "assinatura", "admin",
               "brasil", "mundo", "economia", "politica", "ciencia-e-saude",
               "tecnologia", "cultura", "esportes", "opiniao"}
     materias = [f for f in glob.glob(os.path.join(SITE, "*", "index.html"))
