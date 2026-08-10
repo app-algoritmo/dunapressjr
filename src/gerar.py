@@ -16,7 +16,12 @@ MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho",
 ROMANOS = {1: "I", 2: "II", 3: "III", 4: "IV", 5: "V", 6: "VI", 7: "VII",
            8: "VIII", 9: "IX", 10: "X"}
 
-HOJE = date(2026, 8, 7)
+# A data da edição é a de hoje, não uma constante. Ficou fixa desde a
+# construção e o cabeçalho passou a anunciar 7 de agosto enquanto as
+# matérias saíam com 9 — a contradição mais visível que um jornal pode ter.
+# DP_HOJE permite congelar a data em teste, sem afetar a publicação.
+HOJE = (date.fromisoformat(os.environ["DP_HOJE"])
+        if os.environ.get("DP_HOJE") else date.today())
 
 
 def e(t):
