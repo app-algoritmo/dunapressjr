@@ -456,8 +456,24 @@ def montar_capa(m, edicao):
             "Nenhuma matéria indexável: a capa não tem o que mostrar.\n"
             "Verifique dados/indexacao.txt — provavelmente a régua de\n"
             "classificação está excluindo tudo, ou artigos/ está vazia.")
-    recentes = arts[:200]
+    # Ordem da capa. Sem peso, a manchete seria sempre a última coisa
+    # publicada — e uma nota de 220 palavras sobre alerta de vento tomaria
+    # o lugar de uma reportagem de fôlego. Recência continua mandando, mas
+    # dentro do dia o porte decide.
+    def peso(a):
+        dias = (HOJE - date.fromisoformat(a["data"])).days
+        porte = {"longa": 3, "media": 2, "curta": 0}.get(a.get("porte"), 1)
+        # Cada dia de idade custa mais que qualquer diferença de porte:
+        # jornal é cronológico, o porte só desempata o que saiu junto.
+        return (-max(dias, 0) * 10) + porte
+
+    recentes = sorted(arts[:400], key=peso, reverse=True)[:200]
     lead = recentes[0]
+    # "Em desenvolvimento" só quando a manchete é do dia. Depois disso a
+    # cobertura não está mais em andamento — está publicada.
+    do_dia = (HOJE - date.fromisoformat(lead["data"])).days <= 0
+    viva = " viva" if do_dia else ""
+    selo_lead = " · Em desenvolvimento" if do_dia else ""
     secundarias = recentes[1:4]
     ultimas = recentes[4:13]
     # Com acervo pequeno as faixas simplesmente não aparecem, em vez de
@@ -469,11 +485,25 @@ def montar_capa(m, edicao):
 
     usados = {a["url"] for a in recentes[:13]} | {a["url"] for a in opinioes}
 
-    horas = ["07h42", "07h15", "06h58", "06h30", "05h55", "05h20", "04h48", "04h10", "03h35"]
+    def marca_tempo(a):
+        """Hoje mostra "hoje"; ontem, "ontem"; antes disso, a data. Nunca
+        uma hora — o acervo não guarda hora de publicação, e inventá-la
+        numa coluna chamada Últimas seria informação falsa."""
+        d = date.fromisoformat(a["data"])
+        dias = (HOJE - d).days
+        if dias <= 0:
+            return "hoje"
+        if dias == 1:
+            return "ontem"
+        if dias < 7:
+            return "%d dias" % dias
+        return "%d %s" % (d.day, MESES[d.month - 1][:3])
+
     lista_ultimas = "".join(
-        f'<article class="ultima"><span class="hora">{horas[i % len(horas)]}</span>'
-        f'<h3 class="titulo"><a href="{a["url"]}">{e(a["titulo"])}</a></h3></article>'
-        for i, a in enumerate(ultimas))
+        '<article class="ultima"><span class="hora">%s</span>'
+        '<h3 class="titulo"><a href="%s">%s</a></h3></article>'
+        % (marca_tempo(a), a["url"], e(a["titulo"]))
+        for a in ultimas)
 
     blocos_op = "".join(
         f'<article class="colunista"><div class="retrato" aria-hidden="true">{e(iniciais(a["autor"]))}</div>'
@@ -513,7 +543,7 @@ def montar_capa(m, edicao):
     <div class="col">
       <article class="chamada manchete">
         {img(lead, prioritaria=True)}
-        <span class="chapeu viva">{e(lead["editoria_nome"])} · Em desenvolvimento</span>
+        <span class="chapeu{viva}">{e(lead["editoria_nome"])}{selo_lead}</span>
         <h2 class="titulo"><a href="{lead["url"]}">{e(lead["titulo"])}</a></h2>
         <p class="olho">{e(lead["subtitulo"] or lead["olho"])}</p>
         <div class="credito">Por <b>{e(lead["autor"])}</b> · {e(lead["data_extenso"])}</div>
