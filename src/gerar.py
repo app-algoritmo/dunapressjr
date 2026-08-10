@@ -16,6 +16,9 @@ MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho",
 ROMANOS = {1: "I", 2: "II", 3: "III", 4: "IV", 5: "V", 6: "VI", 7: "VII",
            8: "VIII", 9: "IX", 10: "X"}
 
+# Primeira publicação do acervo. Baliza o número da edição e o "Ano".
+FUNDACAO = date(2017, 9, 10)
+
 # A data da edição é a de hoje, não uma constante. Ficou fixa desde a
 # construção e o cabeçalho passou a anunciar 7 de agosto enquanto as
 # matérias saíam com 9 — a contradição mais visível que um jornal pode ter.
@@ -127,7 +130,11 @@ FONTES = ('<link rel="preconnect" href="https://fonts.googleapis.com">'
 def cabecalho(editorias, atual=None, edicao=0):
     dia = DIAS[HOJE.weekday()]
     data_txt = f"{dia}, {HOJE.day} de {MESES[HOJE.month - 1]} de {HOJE.year}"
-    ano_rom = ROMANOS.get(HOJE.year - 2016, str(HOJE.year - 2016))
+    # Ano do jornal, contado da fundação — não do ano civil.
+    anos = HOJE.year - FUNDACAO.year + 1
+    if (HOJE.month, HOJE.day) < (FUNDACAO.month, FUNDACAO.day):
+        anos -= 1
+    ano_rom = ROMANOS.get(anos, str(anos))
     atual_attr = ' aria-current="page"'
     itens = "".join(
         '<a href="/%s/"%s>%s</a>' % (s, atual_attr if s == atual else "", e(d["nome"]))
@@ -727,7 +734,12 @@ def main():
     with open(f"{DADOS}/manifesto.json", encoding="utf-8") as fh:
         m = json.load(fh)
     arts, eds = m["artigos"], m["editorias"]
-    edicao = len({a["data"] for a in arts})
+    # Número da edição: dias corridos desde a fundação, como faz jornal de
+    # papel. Contar apenas os dias em que houve publicação parecia mais
+    # honesto, mas produzia um número que não avança em dia sem matéria —
+    # e número de edição existe justamente para ser único por dia.
+    # O jornal existe desde 2017 inclusive nos dias em que não saiu.
+    edicao = (HOJE - FUNDACAO).days + 1
 
     # A saída é reconstruída do zero. Sem isto, uma mudança de permalink
     # deixa as páginas do formato antigo para trás: o site publicado passa
