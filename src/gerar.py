@@ -607,7 +607,7 @@ def montar_editoria(m, slug, edicao):
     <p style="font-family:var(--util);font-size:13px;color:var(--tinta-2);
       margin:8px 0 0">{e(ed["descricao"])} · {milhar(len(sel))} reportagens</p>
   </div>
-  <div class="capa" style="grid-template-columns:7fr .06fr 4.94fr;padding-top:0">
+  <div class="capa capa-editoria">
     <div class="col">
       <article class="chamada manchete">
         {img(lead)}

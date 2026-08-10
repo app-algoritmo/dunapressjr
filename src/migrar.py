@@ -298,12 +298,27 @@ def processar():
             })
             redirects.append((url_antiga, url_nova))
 
+    # Nomes reservados. Com permalink plano, um artigo cujo slug seja
+    # "economia" ou "autores" disputa o endereço com a página de seção — e
+    # como o artigo é escrito depois, ele vence e a seção desaparece. Foi
+    # o que apagou /economia/ do jornal.
+    RESERVADOS = set(EDITORIAS) | {
+        "autores", "arquivo", "busca", "principios", "correcoes",
+        "quem-somos", "contato", "privacidade", "cookies", "termos",
+        "newsletter", "assinatura", "api", "assets", "sitemap", "rss",
+        "index", "404", "artigo", "categoria", "feed", "tag", "tags",
+    }
+
     # Colisões. Sem data na URL, dois textos homônimos disputam o mesmo
     # endereço. Fica com ele o mais antigo — que é o que o Google indexou;
     # os demais recebem sufixo de ano.
     artigos.sort(key=lambda a: a["data"])
-    vistos, colisoes = set(), 0
+    vistos, colisoes, reservados = set(), 0, 0
     for a in artigos:
+        if a["slug"] in RESERVADOS:
+            reservados += 1
+            a["slug"] = "%s-%s" % (a["slug"], a["ano"])
+            a["url"] = "/%s/" % a["slug"]
         if a["url"] in vistos:
             colisoes += 1
             a["slug"] = "%s-%s" % (a["slug"], a["ano"])
@@ -347,6 +362,8 @@ def processar():
               f"Artigos publicados ........ {len(artigos):,}".replace(",", "."),
               f"Redirects 301 gerados ..... {len(redirects):,}".replace(",", "."),
               f"Colisões de slug ajustadas  {colisoes}",
+              f"Slugs reservados desviados  {reservados}"
+              + ("   ← disputavam endereço de seção" if reservados else ""),
               f"Categorias de origem ...... {len(origens_vistas)} → 9 editorias", "",
               "POR EDITORIA", "-" * 52]
     for slug, ed in EDITORIAS.items():

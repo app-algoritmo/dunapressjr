@@ -65,6 +65,10 @@ img{max-width:100%;display:block;background:var(--papel-3)}
 /* ── Grade da capa ───────────────────────────────────────── */
 .capa{display:grid;grid-template-columns:2.6fr .06fr 6.4fr .06fr 2.9fr;
   gap:0;padding:26px 0 0}
+/* Página de editoria: manchete à esquerda, secundárias à direita.
+   Em classe e não em style inline — inline vence media query, e a grade
+   nunca virava coluna única no telefone. */
+.capa-editoria{grid-template-columns:7fr .06fr 4.94fr;padding-top:0}
 .risco{background:var(--fio);width:1px;justify-self:center;height:100%}
 .col{padding:0 24px}
 .col:first-child{padding-left:0}
@@ -269,7 +273,8 @@ img{max-width:100%;display:block;background:var(--papel-3)}
   .linha-edicao{font-size:9.5px}
 }
 @media(max-width:1080px){
-  .capa{grid-template-columns:1fr;gap:0}
+  .capa,
+  .capa-editoria{grid-template-columns:1fr;gap:0}
   .risco{display:none}
   .col{padding:0}
   .capa>.col:not(:first-child){margin-top:30px;padding-top:26px;
@@ -312,7 +317,8 @@ img{max-width:100%;display:block;background:var(--papel-3)}
   .rodape-grade{grid-template-columns:1fr;gap:24px}
   .faixa-topo .env{font-size:10px}
   .nav .env{justify-content:flex-start;flex-wrap:nowrap;overflow-x:auto;
-    scrollbar-width:none}
+    scrollbar-width:none;align-items:stretch}
+  .nav a{white-space:nowrap;flex:0 0 auto}
   .nav .env::-webkit-scrollbar{display:none}
   .texto{font-size:18px}
   .duna-legenda{flex-direction:column;gap:5px}

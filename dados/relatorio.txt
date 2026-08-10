@@ -4,6 +4,7 @@ DUNA PRESS — DIAGNÓSTICO DO ACERVO
 Artigos publicados ........ 19.540
 Redirects 301 gerados ..... 19.540
 Colisões de slug ajustadas  141
+Slugs reservados desviados  2   ← disputavam endereço de seção
 Categorias de origem ...... 81 → 9 editorias
 
 POR EDITORIA
