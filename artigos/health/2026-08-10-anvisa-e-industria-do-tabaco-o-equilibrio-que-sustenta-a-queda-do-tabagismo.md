@@ -10,7 +10,7 @@ formato: analise
 proveniencia: humano
 fonte_primaria: "https://www.gov.br/anvisa/pt-br"
 data_do_fato: 2026-08-10
-featuredImage: "https://unsplash.com/pt-br/fotografias/campo-de-grama-verde-sob-nuvens-brancas-durante-o-dia-PvwdlXqo85k"
+featuredImage: "https://images.unsplash.com/photo-1620200423727-8127f75d7f53?w=1600&auto=format&fit=crop&q=75"
 photoAuthor: "Irewolede"
 photoSource: "Unsplash"
 tags:
