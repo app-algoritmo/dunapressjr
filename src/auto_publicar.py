@@ -27,7 +27,12 @@ entra em editorial/revisao-pendente.md para conferência posterior.
 
 Ambiente:
     ANTHROPIC_API_KEY   obrigatória
-    DP_TETO_AUTO        matérias por execução (padrão 4)
+    DP_TETO_AUTO        matérias publicadas por execução (padrão 2)
+    DP_TETO_TENTATIVAS  redações tentadas por seção (padrão 4) — é isto
+                        que limita o gasto, porque recusa também custa
+    DP_TETO_MENSAL      teto de gasto em dólares (padrão 5.00)
+    DP_MODELO           modelo de redação
+    DP_MODELO_VERIF     modelo de verificação (mais barato de propósito)
 """
 import os, re, sys, json, html, time, hashlib, subprocess
 import unicodedata, urllib.request, urllib.error
@@ -35,37 +40,101 @@ from datetime import date, datetime, timedelta, timezone
 from xml.etree import ElementTree
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-MODELO = "claude-sonnet-4-6"
-TETO = int(os.environ.get("DP_TETO_AUTO", "4"))
-JANELA_DEDUPE = 10            # dias para trás na checagem de assunto repetido
-SOBREPOSICAO_MAX = 0.14       # fração de 8-gramas em comum com a fonte
+# Redigir exige julgamento de linguagem; conferir afirmação contra fonte é
+# leitura comparada. Usar o mesmo modelo nas duas etapas dobrava o custo
+# sem ganho proporcional de rigor.
+MODELO_REDACAO = os.environ.get("DP_MODELO", "claude-sonnet-4-6")
+MODELO_VERIFICACAO = os.environ.get("DP_MODELO_VERIF", "claude-haiku-4-5-20251001")
 
-UA = "DunaPressBot/1.0 (+https://dunapress.org/principios/)"
+TETO = int(os.environ.get("DP_TETO_AUTO", "2"))
+
+# Cada tentativa custa, aprovada ou não. Sem este limite, uma sequência de
+# recusas consome o orçamento do mês sem publicar nada.
+TETO_TENTATIVAS = int(os.environ.get("DP_TETO_TENTATIVAS", "3"))
+
+# Teto de gasto mensal, em dólares. O script estima o custo de cada chamada
+# e para quando chega no limite — melhor um dia sem publicação que uma
+# fatura inesperada. O acumulado fica em dados/custo-api.json.
+TETO_MENSAL = float(os.environ.get("DP_TETO_MENSAL", "5.00"))
+
+# Preço por milhão de tokens (entrada, saída). Valores de referência para
+# estimativa: o número exato vem da fatura, este serve para frear a tempo.
+PRECOS = {
+    "claude-sonnet-4-6": (3.00, 15.00),
+    "claude-haiku-4-5-20251001": (0.80, 4.00),
+}
+JANELA_DEDUPE = 10            # dias para trás na checagem de assunto repetido
+# Fração de sequências de 8 palavras em comum com a fonte. Texto curto que
+# repete a fonte é republicação evidente; texto longo compartilha mais por
+# aritmética, não por cópia. O teto acompanha isso.
+SOBREPOSICAO_CURTA = 0.10     # até 300 palavras
+SOBREPOSICAO_LONGA = 0.18     # acima disso
+
+# Vários portais públicos recusam requisição sem cabeçalho de navegador.
+# Mantemos a identificação do bot no final, para quem inspecionar o log
+# saber quem somos e onde está a política editorial.
+CABECALHO = {
+    "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 "
+                   "Safari/537.36 DunaPressBot/1.0 "
+                   "(+https://dunapress.org/principios/)"),
+    "Accept": "application/rss+xml, application/xml, text/xml, text/html, */*",
+    "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+}
 
 # ── Fontes ───────────────────────────────────────────────────────────────
 # Feeds públicos. Servem para descobrir o fato e para verificá-lo depois —
 # não para copiar texto. A conferência de originalidade garante isso.
+# ── Fontes ───────────────────────────────────────────────────────────────
+# Princípio: só fonte primária. Nada de veículo comercial — gerar matéria a
+# partir da reportagem alheia é apropriar-se da apuração de outra redação,
+# e é o padrão que os buscadores tratam como conteúdo em escala.
+#
+# A diversidade vem do TIPO de instituição, não do número de endereços. Se
+# todas forem do Executivo, o jornal reproduz a pauta do governo. Cruzando
+# Executivo, Judiciário, reguladores, institutos de pesquisa e organismos
+# internacionais, as pautas se contradizem entre si — e é aí que aparece
+# o que merece ser apurado.
+#
+# Feeds saem do ar sem aviso. tools/conferir_fontes.py testa todos de uma
+# vez; feed que falha é ignorado e a execução segue com os que responderam.
 FONTES = {
     "nacional": {
         "editoria": "brasil",
         "feeds": [
+            # Confirmados em 10/08/2026 por tools/conferir_fontes.py.
+            # Feeds de órgãos públicos mudam de endereço com frequência;
+            # rode a conferência antes de acrescentar qualquer linha aqui.
             ("Agência Brasil", "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"),
-            ("Agência Senado", "https://www12.senado.leg.br/noticias/ultimas/rss"),
-            ("Agência Câmara", "https://www.camara.leg.br/noticias/rss/ultimas"),
-            ("IBGE", "https://agenciadenoticias.ibge.gov.br/agencia-noticias/rss.html"),
-            ("Banco Central", "https://www.bcb.gov.br/rss/noticias"),
+            ("Agência Gov", "https://agenciagov.ebc.com.br/rss.xml"),
+            ("Agência FAPESP", "https://agencia.fapesp.br/rss/"),
+            ("Fiocruz", "https://portal.fiocruz.br/rss.xml"),
         ],
     },
     "internacional": {
         "editoria": "mundo",
         "feeds": [
-            ("UN News", "https://news.un.org/feed/subscribe/en/news/all/rss.xml"),
-            ("European Commission", "https://ec.europa.eu/commission/presscorner/api/rss"),
-            ("IMF", "https://www.imf.org/en/News/RSS?Language=ENG"),
-            ("World Bank", "https://www.worldbank.org/en/news/all?format=rss"),
+            ("OMS", "https://www.who.int/rss-feeds/news-english.xml"),
         ],
     },
 }
+
+# Candidatos que falharam no teste de 10/08/2026. Ficam registrados para
+# quem for procurar o endereço novo — a instituição continua valendo como
+# fonte, só o feed mudou de lugar.
+#
+#   Agência Senado    devolveu HTML   www12.senado.leg.br/noticias/ultimas/rss
+#   Agência Câmara    404             camara.leg.br/rss/noticias
+#   STF               404             noticias.stf.jus.br/postsrss
+#   STJ               403             stj.jus.br/sites/portalp/RSS/Noticias
+#   TSE               404             tse.jus.br/rss/noticias-tse
+#   IBGE              403             agenciadenoticias.ibge.gov.br/...
+#   Banco Central     400             bcb.gov.br/api/feed/sitebcb/noticias
+#   IPEA              sem resposta    ipea.gov.br/portal/...
+#   ANVISA            feed vazio      gov.br/anvisa/.../RSS
+#   ANEEL             404             gov.br/aneel/.../RSS
+#   ONU News          404             news.un.org/pt/feed/...
+#   OIT, UNICEF, FMI, Banco Mundial, OCDE, AIE, Nature, Science
 
 
 # ── Utilidades ───────────────────────────────────────────────────────────
@@ -97,7 +166,7 @@ def slugificar(t, limite=72):
 
 
 def buscar(url, timeout=30):
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    req = urllib.request.Request(url, headers=CABECALHO)
     with urllib.request.urlopen(req, timeout=timeout) as r:
         bruto = r.read()
     return bruto.decode("utf-8", errors="replace")
@@ -144,15 +213,20 @@ def ler_feed(nome, url):
     return itens
 
 
+JANELA_RECENCIA = int(os.environ.get("DP_JANELA_DIAS", "4"))
+
+
 def recente(item):
-    """Fato com mais de dois dias não é notícia para publicação automática."""
+    """Fato antigo demais não rende notícia. A janela é maior que a de uma
+    agência porque organismos institucionais publicam com menos frequência
+    e o fato permanece novo por mais tempo."""
     for formato in ("%a, %d %b %Y %H:%M:%S %z", "%Y-%m-%dT%H:%M:%S%z",
                     "%Y-%m-%dT%H:%M:%SZ"):
         try:
             d = datetime.strptime(item["quando"].strip(), formato)
             if d.tzinfo is None:
                 d = d.replace(tzinfo=timezone.utc)
-            return (datetime.now(timezone.utc) - d) <= timedelta(days=2)
+            return (datetime.now(timezone.utc) - d) <= timedelta(days=JANELA_RECENCIA)
         except (ValueError, AttributeError):
             continue
     return True     # sem data legível, deixa passar e o dedupe resolve
@@ -204,11 +278,46 @@ def hoje_publicados():
 
 
 # ── 3. Chamada ao modelo ─────────────────────────────────────────────────
-def chamar(prompt, max_tokens=4000):
+def caminho_custo():
+    return os.path.join(RAIZ, "dados", "custo-api.json")
+
+
+def custo_do_mes():
+    """Gasto acumulado no mês corrente. Reinicia sozinho na virada."""
+    mes = date.today().strftime("%Y-%m")
+    try:
+        with open(caminho_custo(), encoding="utf-8") as fh:
+            dados = json.load(fh)
+        return mes, dados.get(mes, 0.0), dados
+    except (OSError, ValueError):
+        return mes, 0.0, {}
+
+
+def registrar_custo(modelo, entrada, saida):
+    preco_e, preco_s = PRECOS.get(modelo, (3.00, 15.00))
+    valor = (entrada / 1e6) * preco_e + (saida / 1e6) * preco_s
+    mes, acumulado, dados = custo_do_mes()
+    dados[mes] = round(acumulado + valor, 4)
+    os.makedirs(os.path.dirname(caminho_custo()), exist_ok=True)
+    with open(caminho_custo(), "w", encoding="utf-8") as fh:
+        json.dump(dados, fh, ensure_ascii=False, indent=1)
+    return valor, dados[mes]
+
+
+def chamar(prompt, max_tokens=4000, modelo=None):
     chave = os.environ.get("ANTHROPIC_API_KEY")
     if not chave:
         raise SystemExit("ANTHROPIC_API_KEY não definida")
-    corpo = json.dumps({"model": MODELO, "max_tokens": max_tokens,
+    modelo = modelo or MODELO_REDACAO
+
+    _, gasto, _ = custo_do_mes()
+    if gasto >= TETO_MENSAL:
+        raise SystemExit(
+            "Teto mensal de US$ %.2f atingido (US$ %.2f gastos).\n"
+            "A publicação para aqui. Para elevar o teto, ajuste\n"
+            "DP_TETO_MENSAL no workflow." % (TETO_MENSAL, gasto))
+
+    corpo = json.dumps({"model": modelo, "max_tokens": max_tokens,
                         "messages": [{"role": "user", "content": prompt}]}).encode()
     req = urllib.request.Request(
         "https://api.anthropic.com/v1/messages", data=corpo,
@@ -218,6 +327,9 @@ def chamar(prompt, max_tokens=4000):
         try:
             with urllib.request.urlopen(req, timeout=180) as r:
                 dados = json.loads(r.read())
+            uso = dados.get("usage", {})
+            registrar_custo(modelo, uso.get("input_tokens", 0),
+                            uso.get("output_tokens", 0))
             return "".join(b.get("text", "") for b in dados.get("content", [])
                            if b.get("type") == "text")
         except urllib.error.HTTPError as exc:
@@ -229,8 +341,52 @@ def chamar(prompt, max_tokens=4000):
 
 
 def json_de(texto):
+    """O modelo às vezes devolve JSON com quebra de linha literal dentro de
+    uma string, o que é inválido. Duas matérias por rodada se perdiam aqui —
+    falha técnica, não decisão editorial. Tentamos o parse direto e, se
+    falhar, reparamos os defeitos conhecidos antes de desistir."""
     t = re.sub(r"^```(?:json)?|```$", "", texto.strip(), flags=re.M).strip()
-    return json.loads(t)
+    try:
+        return json.loads(t)
+    except json.JSONDecodeError:
+        pass
+
+    # Quebra de linha crua dentro de string: escapar sem tocar na estrutura.
+    reparado, dentro, escape = [], False, False
+    for c in t:
+        if escape:
+            reparado.append(c); escape = False; continue
+        if c == "\\":
+            reparado.append(c); escape = True; continue
+        if c == '"':
+            dentro = not dentro
+        if dentro and c == "\n":
+            reparado.append("\\n"); continue
+        if dentro and c == "\t":
+            reparado.append("\\t"); continue
+        reparado.append(c)
+    try:
+        return json.loads("".join(reparado))
+    except json.JSONDecodeError:
+        pass
+
+    # Último recurso: extrair campo a campo. Preferimos uma matéria com um
+    # campo faltando a perder o trabalho inteiro por uma vírgula.
+    def campo(nome):
+        m = re.search(r'"%s"\s*:\s*"((?:[^"\\]|\\.)*)"' % nome, t, re.S)
+        if not m:
+            return ""
+        return (m.group(1).replace("\\n", "\n").replace('\\"', '"')
+                .replace("\\\\", "\\"))
+    corpo = campo("corpo")
+    if not corpo:
+        raise ValueError("resposta do modelo não é JSON e não tem campo corpo")
+    tags = re.search(r'"tags"\s*:\s*\[(.*?)\]', t, re.S)
+    afirma = re.search(r'"afirmacoes"\s*:\s*\[(.*?)\]', t, re.S)
+    lista = lambda m: re.findall(r'"((?:[^"\\]|\\.)*)"', m.group(1)) if m else []
+    return {"titulo": campo("titulo"), "subtitulo": campo("subtitulo"),
+            "descricao": campo("descricao"), "corpo": corpo,
+            "tags": lista(tags), "afirmacoes": lista(afirma)}
 
 
 def redigir(item, editoria, corpo_fonte):
@@ -248,7 +404,18 @@ Conteúdo:
 
 TAREFA
 Escreva uma matéria própria a partir dos fatos acima, para a editoria
-{editoria}. Entre 350 e 700 palavras.
+{editoria}.
+
+EXTENSÃO — o mínimo é 220 palavras, sem exceção. Abaixo disso o texto é
+recusado e o trabalho se perde.
+- fato simples e autocontido (resultado, número divulgado, decisão pontual):
+  220 a 350 palavras
+- fato com contexto, efeito ou mais de uma parte envolvida:
+  350 a 700 palavras
+
+Se o material de origem for curto, não invente para alcançar as 220: use o
+contexto que o próprio material fornece — quem divulgou, quando, o que essa
+instituição faz, a que se refere o dado. Não acrescente nada de fora.
 
 REGRAS, TODAS OBRIGATÓRIAS
 1. Escreva com suas próprias palavras. Não reproduza frases do material de
@@ -258,15 +425,20 @@ REGRAS, TODAS OBRIGATÓRIAS
    necessário para o texto e não está no material, omita.
 3. O título diz o que aconteceu. Sem a fórmula "parece X mas é Y", sem
    pergunta, sem promessa de revelação.
-4. Não use os subtítulos "O que está em jogo", "O que vem a seguir",
+4. Se o texto mudar de assunto, marque o intertítulo com ## no início da
+   linha — nunca com **negrito**, que vira parágrafo e não subtítulo.
+   Não use os subtítulos "O que está em jogo", "O que vem a seguir",
    "O que esperar dos próximos meses", "Conclusão", "Considerações finais".
 5. Termine no último fato. Sem arremate, sem projeção, sem pergunta ao
    leitor.
 6. Todo número vem com a fonte e o período.
 7. Nenhum link comercial.
 8. Atribua ao órgão de origem quando a informação for declaração dele.
+9. Ao reproduzir declaração textual, diga a quem ela foi dada e onde saiu.
+   Aspas sem essa indicação parecem apuração própria, e não foram.
 
-Responda SOMENTE com JSON, sem cercas:
+Responda SOMENTE com JSON válido, sem cercas. Dentro das strings, escreva
+quebra de linha como \\n — quebra literal invalida o JSON:
 {{"titulo":"...","subtitulo":"...","descricao":"até 200 caracteres","corpo":"markdown","tags":["..."],"afirmacoes":["cada afirmação factual do texto, uma por item"]}}"""
     return json_de(chamar(prompt))
 
@@ -286,14 +458,29 @@ TEXTO PRODUZIDO
 AFIRMAÇÕES A CONFERIR
 {json.dumps(artigo.get('afirmacoes', []), ensure_ascii=False, indent=1)}
 
-Para cada afirmação, diga se o material de origem a sustenta. Seja rigoroso:
-número, data, nome ou declaração que não aparece no material NÃO está
-sustentado, mesmo que pareça plausível ou seja de conhecimento geral.
+Para cada afirmação, diga se o material de origem a SUSTENTA. Sustentar não
+é repetir com as mesmas palavras.
+
+CONSIDERE SUSTENTADO
+- reformulação com outras palavras que preserva o sentido
+- sinônimo e gentílico ("escritor manauara" sustenta "natural de Manaus")
+- síntese fiel de trecho mais longo
+- conversão de unidade ou formato que preserva o valor
+
+CONSIDERE NÃO SUSTENTADO — e seja rigoroso aqui
+- número, data ou nome próprio que não aparece no material
+- declaração atribuída a alguém que não a fez no material
+- relação de causa que o material não estabelece
+- detalhe plausível mas ausente, ainda que seja conhecimento geral
+- afirmação sobre o futuro que o material não faz
+
+A pergunta é sempre: um leitor que confere a fonte encontraria base para
+isso? Se sim, está sustentado, mesmo com outras palavras.
 
 Responda SOMENTE com JSON:
 {{"aprovado": true/false, "nao_sustentadas": ["afirmação e por quê"], "observacao": "..."}}"""
     try:
-        return json_de(chamar(prompt, 2000))
+        return json_de(chamar(prompt, 2000, modelo=MODELO_VERIFICACAO))
     except Exception as exc:
         return {"aprovado": False, "nao_sustentadas": [f"verificação falhou: {exc}"]}
 
@@ -336,9 +523,12 @@ def conferir_forma(a):
     for rx, motivo in TITULOS_BANIDOS:
         if re.search(rx, titulo, re.I):
             erros.append(f"título: {motivo}")
+    # Um resultado de loteria é uma nota; um julgamento do STF é reportagem.
+    # Faixa única forçava o modelo a inflar fato pequeno — que é justamente
+    # o vício que a pauta editorial proíbe.
     n = len(corpo.split())
-    if not 300 <= n <= 850:
-        erros.append(f"extensão {n} palavras, fora da faixa 350–700")
+    if not 180 <= n <= 850:
+        erros.append("extensão %d palavras, fora da faixa 200–700" % n)
     for h in re.findall(r"^#{2,4}\s+(.+)$", corpo, re.M):
         for banido in SUBTITULOS_BANIDOS:
             if banido in sem_acento(h):
@@ -407,7 +597,13 @@ def publicar(md, a, item, editoria, ensaio):
     destino = os.path.join(RAIZ, "artigos", editoria,
                            f"{hoje.isoformat()}-{slug}.md")
     if ensaio:
-        print(f"    [ensaio] gravaria {os.path.relpath(destino, RAIZ)}")
+        rascunho = os.path.join(RAIZ, "rascunhos",
+                                "%s-%s.md" % (hoje.isoformat(), slug))
+        os.makedirs(os.path.dirname(rascunho), exist_ok=True)
+        with open(rascunho, "w", encoding="utf-8") as fh:
+            fh.write(md)
+        print("    [ensaio] em rascunhos/%s-%s.md" % (hoje.isoformat(), slug))
+        print("             publicaria em %s" % os.path.relpath(destino, RAIZ))
         return
     os.makedirs(os.path.dirname(destino), exist_ok=True)
     with open(destino, "w", encoding="utf-8") as fh:
@@ -426,11 +622,18 @@ def processar(secao, config, vistos, ensaio, restantes):
     candidatos = []
     for nome, url in config["feeds"]:
         candidatos += [i for i in ler_feed(nome, url) if recente(i)]
-    print(f"  {len(candidatos)} fatos nos feeds")
+    # Fatos mais recentes primeiro: notícia velha rende matéria pior e
+    # aumenta a chance de recusa — que custa igual.
+    candidatos.sort(key=lambda i: i.get("quando", ""), reverse=True)
+    print("  %d fatos nos feeds · até %d tentativas"
+          % (len(candidatos), TETO_TENTATIVAS))
 
-    publicadas = 0
+    publicadas = tentativas = 0
     for item in candidatos:
         if publicadas >= restantes:
+            break
+        if tentativas >= TETO_TENTATIVAS:
+            print("\n  teto de %d tentativas atingido nesta seção" % TETO_TENTATIVAS)
             break
         if assunto_repetido(item["titulo"], vistos):
             continue
@@ -445,6 +648,7 @@ def processar(secao, config, vistos, ensaio, restantes):
             print("    fonte curta demais para sustentar matéria")
             continue
 
+        tentativas += 1
         try:
             a = redigir(item, config["editoria"], corpo_fonte)
         except Exception as exc:
@@ -457,9 +661,12 @@ def processar(secao, config, vistos, ensaio, restantes):
             continue
 
         sob = sobreposicao(a["corpo"], corpo_fonte)
-        if sob > SOBREPOSICAO_MAX:
-            print(f"    recusada: {sob:.0%} de sobreposição com a fonte "
-                  "— é republicação, não texto próprio")
+        limite = (SOBREPOSICAO_CURTA if len(a["corpo"].split()) <= 300
+                  else SOBREPOSICAO_LONGA)
+        if sob > limite:
+            print("    recusada: %.0f%% de sobreposição com a fonte, acima do "
+                  "limite de %.0f%% — é republicação, não texto próprio"
+                  % (sob * 100, limite * 100))
             continue
 
         v = verificar(a, corpo_fonte)
@@ -473,8 +680,8 @@ def processar(secao, config, vistos, ensaio, restantes):
                  config["editoria"], ensaio)
         vistos.append(termos(a["titulo"]))
         publicadas += 1
-        print(f"    publicada — {len(a['corpo'].split())} palavras, "
-              f"{sob:.0%} de sobreposição")
+        print("    publicada — %d palavras, %.0f%% de sobreposição (limite %.0f%%)"
+              % (len(a["corpo"].split()), sob * 100, limite * 100))
 
     return publicadas
 
@@ -485,13 +692,19 @@ def main():
     if "--so" in sys.argv:
         so = sys.argv[sys.argv.index("--so") + 1]
 
+    mes, gasto, _ = custo_do_mes()
+    print("Gasto em %s: US$ %.2f de US$ %.2f" % (mes, gasto, TETO_MENSAL))
+    if gasto >= TETO_MENSAL:
+        raise SystemExit("Teto mensal atingido. Sem publicação hoje.")
+
     ja = hoje_publicados()
     if ja >= TETO:
         raise SystemExit(f"Teto de {TETO} por execução já atingido hoje ({ja}).")
 
     vistos = publicados_recentes()
-    print(f"Teto: {TETO} · publicadas hoje: {ja} · "
-          f"assuntos recentes na memória: {len(vistos)}")
+    print("Teto: %d por execução, %d tentativas · publicadas hoje: %d · "
+          "assuntos recentes na memória: %d"
+          % (TETO, TETO_TENTATIVAS, ja, len(vistos)))
 
     total = 0
     for secao, config in FONTES.items():
@@ -501,7 +714,9 @@ def main():
         if ja + total >= TETO:
             break
 
-    print(f"\n{total} publicada(s). {ja + total}/{TETO} hoje.")
+    _, gasto_fim, _ = custo_do_mes()
+    print("\n%d publicada(s). %d/%d hoje. Gasto no mês: US$ %.2f de US$ %.2f"
+          % (total, ja + total, TETO, gasto_fim, TETO_MENSAL))
     if total == 0:
         print("Nada passou nas conferências. Dia sem publicação é normal em jornal.")
     elif not ensaio:

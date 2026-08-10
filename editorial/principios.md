@@ -46,6 +46,10 @@ confere cada afirmação do texto contra essa fonte, recusa o que a fonte não
 sustenta, e recusa também o texto que apenas reescreve o original em vez de
 produzir texto próprio. O que não passa, não publica.
 
+Na prática, esse crivo recusa mais do que aprova: cerca de uma em cada três
+tentativas vira matéria. É o resultado esperado — preferimos publicar pouco
+e responder pelo que publicamos.
+
 O que esse processo não substitui é o julgamento humano sobre relevância,
 contexto e proporção. Por isso a publicação automática é limitada em volume,
 restrita a cobertura factual de Brasil e Mundo, e toda matéria entra numa

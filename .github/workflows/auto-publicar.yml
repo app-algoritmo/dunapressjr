@@ -10,8 +10,9 @@ name: Publicar automático
 
 on:
   schedule:
-    # 09h, 14h e 18h de Brasília (UTC-3)
-    - cron: '0 12,17,21 * * 1-5'
+    # 09h e 17h de Brasília (UTC-3). Duas execuções, não três: o volume é
+    # limitado de propósito, para caber no orçamento e na régua editorial.
+    - cron: '0 12,20 * * 1-5'
   workflow_dispatch:
     inputs:
       secao:
@@ -47,10 +48,24 @@ jobs:
       - name: Publicar
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          DP_TETO_AUTO: '4'
+          DP_TETO_AUTO: '2'
+          DP_TETO_TENTATIVAS: '3'
+          DP_TETO_MENSAL: '5.00'
+          DP_JANELA_DIAS: '4'
         run: |
           if [ "${{ inputs.secao }}" = "ambos" ] || [ -z "${{ inputs.secao }}" ]; then
             python3 src/auto_publicar.py
           else
             python3 src/auto_publicar.py --so "${{ inputs.secao }}"
+          fi
+
+      # O acumulado de gasto precisa persistir entre execuções, senão o teto
+      # nunca freia: cada rodada começaria do zero.
+      - name: Registrar o gasto
+        if: always()
+        run: |
+          if [ -n "$(git status --porcelain dados/custo-api.json)" ]; then
+            git add dados/custo-api.json
+            git commit -m "chore: gasto acumulado da API"
+            git push origin HEAD
           fi

@@ -27,6 +27,9 @@ Thumbs.db
 .env
 *.key
 
-# Slugs canonicos do WordPress: precisam ir ao repositorio,
-# senao o build no Actions gera URLs diferentes das indexadas.
-!dados/wp-canonico.json
+# Gasto acumulado com a API. Versionado de propósito: sem ele, cada
+# execução do Actions recomeça do zero e o teto mensal nunca freia.
+!dados/custo-api.json
+
+# Rascunhos do modo ensaio: para leitura, nao para publicacao
+rascunhos/
