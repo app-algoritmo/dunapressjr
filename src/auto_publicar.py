@@ -67,6 +67,11 @@ JANELA_DEDUPE = 10            # dias para trás na checagem de assunto repetido
 # Fração de sequências de 8 palavras em comum com a fonte. Texto curto que
 # repete a fonte é republicação evidente; texto longo compartilha mais por
 # aritmética, não por cópia. O teto acompanha isso.
+# Fração de afirmações sem base que ainda permite publicar. Acima disso, o
+# texto tem problema de fundo. Abaixo, é imprecisão pontual — e reprovar a
+# matéria inteira por uma linha em vinte é desperdício.
+FRACAO_NAO_SUSTENTADA = 0.15
+
 SOBREPOSICAO_CURTA = 0.10     # até 300 palavras
 SOBREPOSICAO_LONGA = 0.18     # acima disso
 
@@ -444,45 +449,82 @@ quebra de linha como \\n — quebra literal invalida o JSON:
 
 
 def verificar(artigo, corpo_fonte):
-    """Segundo passe: confere afirmação por afirmação contra a fonte. É o
-    que substitui o olho do editor na pergunta que mais importa — o texto
-    inventou alguma coisa?"""
-    prompt = f"""Confira se cada afirmação abaixo é sustentada pelo material de origem.
+    """Confere afirmação por afirmação e decide no código, não no modelo.
+
+    A versão anterior pedia ao modelo um booleano de aprovação junto com a
+    lista de problemas. Ele produzia a análise correta — "Afirmação 1:
+    SUSTENTADA, Afirmação 2: SUSTENTADA" — e devolvia aprovado: false
+    assim mesmo, porque usava o campo de problemas como espaço de anotação.
+    Matéria correta reprovada por um campo preenchido errado.
+
+    Agora o modelo só classifica cada afirmação. Contar e decidir é
+    trabalho do código, que não se confunde.
+    """
+    afirmacoes = artigo.get("afirmacoes") or []
+    if not afirmacoes:
+        return {"aprovado": True, "nao_sustentadas": [],
+                "observacao": "sem afirmações declaradas"}
+
+    numeradas = "\n".join("%d. %s" % (i, a)
+                          for i, a in enumerate(afirmacoes, 1))
+
+    prompt = """Confira cada afirmação contra o material de origem.
 
 MATERIAL DE ORIGEM
-{corpo_fonte[:6000]}
+%s
 
-TEXTO PRODUZIDO
-{artigo['corpo'][:5000]}
+AFIRMAÇÕES
+%s
 
-AFIRMAÇÕES A CONFERIR
-{json.dumps(artigo.get('afirmacoes', []), ensure_ascii=False, indent=1)}
+Para cada uma, responda SUSTENTADA ou NAO_SUSTENTADA.
 
-Para cada afirmação, diga se o material de origem a SUSTENTA. Sustentar não
-é repetir com as mesmas palavras.
+SUSTENTADA quando o material dá base para a afirmação, ainda que com
+outras palavras: reformulação, sinônimo, gentílico ("escritor manauara"
+sustenta "natural de Manaus"), síntese fiel, conversão de unidade.
+Diferença de fraseado não é divergência de fato.
 
-CONSIDERE SUSTENTADO
-- reformulação com outras palavras que preserva o sentido
-- sinônimo e gentílico ("escritor manauara" sustenta "natural de Manaus")
-- síntese fiel de trecho mais longo
-- conversão de unidade ou formato que preserva o valor
+NAO_SUSTENTADA apenas quando o material contradiz a afirmação, ou quando
+ela traz número, data, nome próprio ou declaração que não aparece ali.
+Detalhe plausível mas ausente também é NAO_SUSTENTADA.
 
-CONSIDERE NÃO SUSTENTADO — e seja rigoroso aqui
-- número, data ou nome próprio que não aparece no material
-- declaração atribuída a alguém que não a fez no material
-- relação de causa que o material não estabelece
-- detalhe plausível mas ausente, ainda que seja conhecimento geral
-- afirmação sobre o futuro que o material não faz
+Responda SOMENTE com JSON, um item por afirmação, na mesma ordem:
+{"resultados": [{"n": 1, "veredito": "SUSTENTADA", "nota": ""},
+                {"n": 2, "veredito": "NAO_SUSTENTADA", "nota": "por quê"}]}""" % (
+        corpo_fonte[:6000], numeradas)
 
-A pergunta é sempre: um leitor que confere a fonte encontraria base para
-isso? Se sim, está sustentado, mesmo com outras palavras.
-
-Responda SOMENTE com JSON:
-{{"aprovado": true/false, "nao_sustentadas": ["afirmação e por quê"], "observacao": "..."}}"""
     try:
-        return json_de(chamar(prompt, 2000, modelo=MODELO_VERIFICACAO))
+        r = json_de(chamar(prompt, 2000, modelo=MODELO_VERIFICACAO))
     except Exception as exc:
-        return {"aprovado": False, "nao_sustentadas": [f"verificação falhou: {exc}"]}
+        return {"aprovado": False,
+                "nao_sustentadas": ["a verificação falhou: %s" % exc]}
+
+    resultados = r.get("resultados") or []
+    if not resultados:
+        return {"aprovado": False,
+                "nao_sustentadas": ["a verificação não devolveu resultados"]}
+
+    problemas = []
+    for item in resultados:
+        if str(item.get("veredito", "")).upper().startswith("NAO"):
+            n = item.get("n")
+            texto = (afirmacoes[n - 1] if isinstance(n, int)
+                     and 1 <= n <= len(afirmacoes) else "afirmação %s" % n)
+            problemas.append("%s — %s" % (texto[:90],
+                                          item.get("nota", "sem base na fonte")))
+
+    fracao = len(problemas) / max(1, len(resultados))
+
+    # Proporcionalidade. Uma objeção em vinte afirmações não invalida a
+    # matéria; uma redação corta a linha duvidosa e publica o resto. Acima
+    # do limite, o texto tem problema de fundo e não vale corrigir.
+    if fracao > FRACAO_NAO_SUSTENTADA:
+        return {"aprovado": False, "nao_sustentadas": problemas,
+                "observacao": "%.0f%% das afirmações sem base" % (fracao * 100)}
+
+    return {"aprovado": True, "nao_sustentadas": problemas,
+            "observacao": ("%d de %d afirmações sem base, dentro do limite"
+                           % (len(problemas), len(resultados))
+                           if problemas else "todas sustentadas")}
 
 
 # ── 4. Originalidade ─────────────────────────────────────────────────────
@@ -581,9 +623,11 @@ def enfileirar_revisao(a, item, editoria, url_final):
                      "Matérias publicadas automaticamente, ainda sem conferência\n"
                      "humana. Ao revisar, troque `revisao_humana: pendente` por\n"
                      "`revisao_humana: <seu nome>` no artigo e risque a linha aqui.\n\n")
-        fh.write(f"- [ ] `{date.today().isoformat()}` "
-                 f"[{a['titulo'][:70]}]({url_final}) "
-                 f"— {editoria} · fonte: [{item['fonte']}]({item['url']})\n")
+        fh.write("- [ ] `%s` [%s](%s) — %s · fonte: [%s](%s)\n"
+                 % (date.today().isoformat(), a["titulo"][:70], url_final,
+                    editoria, item["fonte"], item["url"]))
+        for r in a.get("_ressalvas", [])[:3]:
+            fh.write("      - ressalva: %s\n" % str(r)[:110])
 
 
 def git(*args):
@@ -671,10 +715,17 @@ def processar(secao, config, vistos, ensaio, restantes):
 
         v = verificar(a, corpo_fonte)
         if not v.get("aprovado"):
-            print("    recusada na verificação de fatos:")
+            print("    recusada na verificação de fatos (%s):"
+                  % v.get("observacao", ""))
             for x in v.get("nao_sustentadas", [])[:3]:
-                print(f"      · {str(x)[:88]}")
+                print("      · %s" % str(x)[:88])
             continue
+        if v.get("nao_sustentadas"):
+            # Aprovada com ressalva: fica registrado na fila de revisão.
+            print("    ressalva — %s" % v.get("observacao", ""))
+            for x in v["nao_sustentadas"][:2]:
+                print("      · %s" % str(x)[:88])
+            a["_ressalvas"] = v["nao_sustentadas"]
 
         publicar(montar_md(a, item, config["editoria"]), a, item,
                  config["editoria"], ensaio)
