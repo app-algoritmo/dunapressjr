@@ -12,6 +12,9 @@ revisao_humana: pendente
 fonte_primaria: "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/rede-de-vigilancia-e-essencial-para-evitar-propagacao-de-sarampo-em-sp"
 fonte_nome: "Agência Brasil"
 data_do_fato: 2026-08-11
+featuredImage: "https://images.unsplash.com/photo-1706201763911-3ca332534efd?w=1600&auto=format&fit=crop&q=75"
+photoAuthor: "National Institute of Allergy and Infectious Diseases"
+photoSource: "Unsplash"
 tags:
   - sarampo
   - vacinação

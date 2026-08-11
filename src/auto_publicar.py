@@ -72,6 +72,14 @@ JANELA_DEDUPE = 10            # dias para trás na checagem de assunto repetido
 # matéria inteira por uma linha em vinte é desperdício.
 FRACAO_NAO_SUSTENTADA = 0.15
 
+# Abaixo disso, o Unsplash não tem o assunto e devolveu o que sobrou.
+# "measles vaccination São Paulo" trouxe 2 resultados — e a primeira foto
+# era de hipnose.
+# Piso de resultados. Busca com pouco retorno significa que o Unsplash não
+# tem o assunto e devolveu o que sobrou — foi assim que uma matéria sobre
+# sarampo quase saiu ilustrada com hipnose, a partir de 2 resultados.
+MINIMO_RESULTADOS = 60
+
 SOBREPOSICAO_CURTA = 0.10     # até 300 palavras
 SOBREPOSICAO_LONGA = 0.18     # acima disso
 
@@ -96,67 +104,30 @@ CABECALHO = {
 # Foto genérica que não conversa com o texto é pior que nenhuma: o leitor
 # vê a imagem antes do título e ela promete outro assunto.
 UNSPLASH_EDITORIA = {
-    "brasil": "brazil city government brasilia",
-    "mundo": "world map diplomacy united nations",
-    "economia": "economy finance market money",
-    "politica": "politics government democracy parliament",
-    "ciencia-e-saude": "science laboratory research healthcare",
-    "tecnologia": "technology computer innovation digital",
-    "cultura": "culture art museum heritage",
-    "esportes": "sport athlete competition stadium",
-    "opiniao": "newspaper journalism writing",
-}
-
-# Termos frequentes nas tags, em português, com o equivalente que o
-# Unsplash entende. O acervo do banco é indexado em inglês.
-TERMOS = {
-    "inteligência artificial": "artificial intelligence",
-    "saúde": "healthcare", "saúde pública": "public health",
-    "vacina": "vaccine", "vacinação": "vaccination",
-    "educação": "education", "escola": "school",
-    "economia": "economy", "inflação": "inflation", "juros": "interest rates",
-    "eleições": "election", "congresso": "parliament", "justiça": "courthouse",
-    "meio ambiente": "environment", "clima": "climate",
-    "amazônia": "amazon rainforest", "agricultura": "agriculture",
-    "energia": "energy", "petróleo": "oil industry",
-    "futebol": "football", "olimpíadas": "olympic games",
-    "cinema": "cinema film", "música": "music", "literatura": "books",
-    "tecnologia": "technology", "internet": "internet network",
-    "china": "china", "estados unidos": "united states",
-    "guerra": "war conflict", "regulação": "regulation government",
-    "tabaco": "tobacco", "tabagismo": "cigarette smoking",
-    "cigarro": "cigarette", "sarampo": "measles",
-    "surto": "epidemic outbreak", "vacinação": "vaccination",
-    "medicina": "medicine", "pesquisa": "research laboratory",
-    "universidade": "university campus", "ciência": "science",
-    "indústria": "factory industry", "comércio": "trade shipping",
-    "agronegócio": "agriculture farm", "mineração": "mining",
-    "transporte": "transport logistics", "moradia": "housing",
-    "cidade": "city urban", "trabalho": "work office",
-    "desemprego": "unemployment", "criança": "children",
-    "segurança": "security police", "violência": "urban violence",
-    "corrupção": "corruption justice", "imprensa": "press journalism",
-    "livro": "books reading", "teatro": "theatre stage",
-    "festival": "festival crowd", "orçamento": "budget finance",
+    # Em português, como as tags: a API traduz a consulta com lang=pt.
+    "brasil": "cidade brasileira",
+    "mundo": "diplomacia internacional",
+    "economia": "mercado financeiro",
+    "politica": "parlamento governo",
+    "ciencia-e-saude": "laboratório pesquisa",
+    "tecnologia": "tecnologia computador",
+    "cultura": "arte museu",
+    "esportes": "estádio atleta",
+    "opiniao": "jornal escrita",
 }
 
 
 def termos_de_busca(artigo, editoria):
-    """Monta as consultas, da mais específica à mais genérica."""
-    consultas = []
+    """Consultas para a foto de abertura, da mais específica à mais ampla.
 
-    tags = [t for t in (artigo.get("tags") or []) if t][:3]
-    if tags:
-        traduzidas = []
-        for t in tags:
-            chave = sem_acento(t).strip()
-            achado = None
-            for pt, en in TERMOS.items():
-                if sem_acento(pt) == chave:
-                    achado = en
-                    break
-            traduzidas.append(achado or t)
-        consultas.append(" ".join(traduzidas))
+    O modelo sugere os termos junto com a matéria, pensando no que ilustra
+    a cena. Antes reaproveitávamos as tags do artigo — mas elas existem
+    para indexar, e "São Paulo" ou "Anvisa" nomeiam lugar e instituição,
+    não imagem. Foi assim que uma matéria sobre sarampo recebeu a foto de
+    uma caneta.
+    """
+    consultas = [t.strip() for t in (artigo.get("imagens") or [])
+                 if t and t.strip()][:2]
 
     if UNSPLASH_EDITORIA.get(editoria):
         consultas.append(UNSPLASH_EDITORIA[editoria])
@@ -165,14 +136,11 @@ def termos_de_busca(artigo, editoria):
 
 
 def buscar_imagem(artigo, editoria):
-    """Procura no Unsplash uma foto para a matéria.
+    """Procura no Unsplash uma foto que tenha relação com a matéria.
 
-    Usa /search/photos em vez de /photos/random: a busca ordena por
-    relevância, o sorteio não. Numa matéria sobre um modelo de IA chinês,
-    aleatório dentro de "technology" traz qualquer coisa.
-
-    Sem chave configurada, ou sem resultado, devolve nada — e a matéria
-    sai sem foto, que é melhor que sair com foto errada.
+    Sem chave, sem resultado suficiente, ou sem foto cuja descrição
+    combine com a consulta, devolve nada — e a matéria sai sem imagem,
+    que é melhor que sair com imagem errada.
     """
     chave = os.environ.get("UNSPLASH_KEY", "")
     if not chave:
@@ -182,7 +150,7 @@ def buscar_imagem(artigo, editoria):
         try:
             endereco = ("https://api.unsplash.com/search/photos"
                         "?query=%s&orientation=landscape&content_filter=high"
-                        "&per_page=1" % urllib.parse.quote(consulta))
+                        "&lang=pt&per_page=10" % urllib.parse.quote(consulta))
             req = urllib.request.Request(
                 endereco, headers={"Authorization": "Client-ID %s" % chave,
                                    "Accept-Version": "v1"})
@@ -196,28 +164,30 @@ def buscar_imagem(artigo, editoria):
         except Exception:
             continue
 
+        total = dados.get("total", 0)
         resultados = dados.get("results") or []
-        if not resultados:
+
+        # Poucos resultados significam que o Unsplash não tem o assunto e
+        # devolveu o que sobrou. Foi assim que 2 fotos viraram hipnose.
+        if total < MINIMO_RESULTADOS or not resultados:
+            print("      \"%s\" descartada: %d resultados (mínimo %d)"
+                  % (consulta[:34], total, MINIMO_RESULTADOS))
             continue
 
         foto = resultados[0]
-        # A licença do Unsplash exige atribuição com link para o fotógrafo
-        # e para a plataforma. Guardamos os dois.
-        return {
-            "url": "%s&w=1600&q=75" % foto["urls"]["raw"].split("&")[0]
-                   if "?" in foto["urls"]["raw"]
-                   else "%s?w=1600&q=75" % foto["urls"]["raw"],
-            "autor": foto["user"]["name"],
-            "autor_url": foto["user"]["links"]["html"],
-            "consulta": consulta,
-        }
+        if True:
+            return {
+                "url": "%s?w=1600&q=75" % foto["urls"]["raw"].split("?")[0],
+                "autor": foto["user"]["name"],
+                "autor_url": foto["user"]["links"]["html"],
+                "consulta": consulta,
+                "descricao": (foto.get("alt_description") or "")[:60],
+                "total": total,
+            }
 
     return None
 
 
-# ── Fontes ───────────────────────────────────────────────────────────────
-# Feeds públicos. Servem para descobrir o fato e para verificá-lo depois —
-# não para copiar texto. A conferência de originalidade garante isso.
 # ── Fontes ───────────────────────────────────────────────────────────────
 # Princípio: só fonte primária. Nada de veículo comercial — gerar matéria a
 # partir da reportagem alheia é apropriar-se da apuração de outra redação,
@@ -516,10 +486,12 @@ def json_de(texto):
         raise ValueError("resposta do modelo não é JSON e não tem campo corpo")
     tags = re.search(r'"tags"\s*:\s*\[(.*?)\]', t, re.S)
     afirma = re.search(r'"afirmacoes"\s*:\s*\[(.*?)\]', t, re.S)
+    imgs = re.search(r'"imagens"\s*:\s*\[(.*?)\]', t, re.S)
     lista = lambda m: re.findall(r'"((?:[^"\\]|\\.)*)"', m.group(1)) if m else []
     return {"titulo": campo("titulo"), "subtitulo": campo("subtitulo"),
             "descricao": campo("descricao"), "corpo": corpo,
-            "tags": lista(tags), "afirmacoes": lista(afirma)}
+            "tags": lista(tags), "afirmacoes": lista(afirma),
+            "imagens": lista(imgs)}
 
 
 def redigir(item, editoria, corpo_fonte):
@@ -570,9 +542,16 @@ REGRAS, TODAS OBRIGATÓRIAS
 9. Ao reproduzir declaração textual, diga a quem ela foi dada e onde saiu.
    Aspas sem essa indicação parecem apuração própria, e não foram.
 
+IMAGENS
+Sugira dois termos de busca para a foto de abertura, em português,
+pensando no que ILUSTRA a matéria — não no que a indexa. "criança
+recebendo vacina" serve; "São Paulo" ou "Anvisa" não, porque nomeiam
+lugar e instituição, não a cena. Dois a quatro substantivos concretos
+por termo, do mais específico ao mais amplo.
+
 Responda SOMENTE com JSON válido, sem cercas. Dentro das strings, escreva
 quebra de linha como \\n — quebra literal invalida o JSON:
-{{"titulo":"...","subtitulo":"...","descricao":"até 200 caracteres","corpo":"markdown","tags":["..."],"afirmacoes":["cada afirmação factual do texto, uma por item"]}}"""
+{{"titulo":"...","subtitulo":"...","descricao":"até 200 caracteres","corpo":"markdown","tags":["..."],"imagens":["termo específico","termo mais amplo"],"afirmacoes":["cada afirmação factual do texto, uma por item"]}}"""
     return json_de(chamar(prompt))
 
 
@@ -862,10 +841,18 @@ def processar(secao, config, vistos, ensaio, restantes):
                 print("      · %s" % str(x)[:88])
             a["_ressalvas"] = v["nao_sustentadas"]
 
+        sugeridos = a.get("imagens") or []
+        if sugeridos:
+            print("    termos sugeridos: %s" % " · ".join(sugeridos[:2]))
+        else:
+            print("    o modelo não sugeriu termo de imagem")
         imagem = buscar_imagem(a, config["editoria"])
         if imagem:
-            print("    foto: %s (busca: %s)"
-                  % (imagem["autor"], imagem["consulta"][:40]))
+            print("    foto: %s · busca \"%s\" (%d resultados)"
+                  % (imagem["autor"], imagem["consulta"][:32],
+                     imagem.get("total", 0)))
+            if imagem.get("descricao"):
+                print("          %s" % imagem["descricao"])
         publicar(montar_md(a, item, config["editoria"], imagem), a, item,
                  config["editoria"], ensaio)
         vistos.append(termos(a["titulo"]))
