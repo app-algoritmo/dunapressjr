@@ -500,7 +500,7 @@ def montar_capa(m, edicao):
     def marca_tempo(a):
         """Hoje mostra "hoje"; ontem, "ontem"; antes disso, a data. Nunca
         uma hora — o acervo não guarda hora de publicação, e inventá-la
-        numa coluna chamada Últimas seria informação falsa."""
+        numa coluna de chamadas seria informação falsa."""
         d = date.fromisoformat(a["data"])
         dias = (HOJE - d).days
         if dias <= 0:
@@ -544,7 +544,7 @@ def montar_capa(m, edicao):
 <main class="env">
   <div class="capa">
     <div class="col">
-      <div class="rotulo marcado">Últimas</div>
+      <div class="rotulo marcado">Ver também</div>
       {lista_ultimas}
       <div class="opiniao-bloco">
         <div class="rotulo">Opinião</div>

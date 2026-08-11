@@ -35,7 +35,7 @@ Ambiente:
     DP_MODELO_VERIF     modelo de verificação (mais barato de propósito)
 """
 import os, re, sys, json, html, time, hashlib, subprocess
-import unicodedata, urllib.request, urllib.error
+import unicodedata, urllib.request, urllib.error, urllib.parse
 from datetime import date, datetime, timedelta, timezone
 from xml.etree import ElementTree
 
@@ -86,6 +86,134 @@ CABECALHO = {
     "Accept": "application/rss+xml, application/xml, text/xml, text/html, */*",
     "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
 }
+
+# ── Imagem de abertura ───────────────────────────────────────────────────
+# A busca vai em cascata, do específico ao genérico:
+#   1. tags da própria matéria, traduzidas   → foto daquele assunto
+#   2. termo da editoria                      → foto do tema
+#   3. nada                                   → publica sem imagem
+#
+# Foto genérica que não conversa com o texto é pior que nenhuma: o leitor
+# vê a imagem antes do título e ela promete outro assunto.
+UNSPLASH_EDITORIA = {
+    "brasil": "brazil city government brasilia",
+    "mundo": "world map diplomacy united nations",
+    "economia": "economy finance market money",
+    "politica": "politics government democracy parliament",
+    "ciencia-e-saude": "science laboratory research healthcare",
+    "tecnologia": "technology computer innovation digital",
+    "cultura": "culture art museum heritage",
+    "esportes": "sport athlete competition stadium",
+    "opiniao": "newspaper journalism writing",
+}
+
+# Termos frequentes nas tags, em português, com o equivalente que o
+# Unsplash entende. O acervo do banco é indexado em inglês.
+TERMOS = {
+    "inteligência artificial": "artificial intelligence",
+    "saúde": "healthcare", "saúde pública": "public health",
+    "vacina": "vaccine", "vacinação": "vaccination",
+    "educação": "education", "escola": "school",
+    "economia": "economy", "inflação": "inflation", "juros": "interest rates",
+    "eleições": "election", "congresso": "parliament", "justiça": "courthouse",
+    "meio ambiente": "environment", "clima": "climate",
+    "amazônia": "amazon rainforest", "agricultura": "agriculture",
+    "energia": "energy", "petróleo": "oil industry",
+    "futebol": "football", "olimpíadas": "olympic games",
+    "cinema": "cinema film", "música": "music", "literatura": "books",
+    "tecnologia": "technology", "internet": "internet network",
+    "china": "china", "estados unidos": "united states",
+    "guerra": "war conflict", "regulação": "regulation government",
+    "tabaco": "tobacco", "tabagismo": "cigarette smoking",
+    "cigarro": "cigarette", "sarampo": "measles",
+    "surto": "epidemic outbreak", "vacinação": "vaccination",
+    "medicina": "medicine", "pesquisa": "research laboratory",
+    "universidade": "university campus", "ciência": "science",
+    "indústria": "factory industry", "comércio": "trade shipping",
+    "agronegócio": "agriculture farm", "mineração": "mining",
+    "transporte": "transport logistics", "moradia": "housing",
+    "cidade": "city urban", "trabalho": "work office",
+    "desemprego": "unemployment", "criança": "children",
+    "segurança": "security police", "violência": "urban violence",
+    "corrupção": "corruption justice", "imprensa": "press journalism",
+    "livro": "books reading", "teatro": "theatre stage",
+    "festival": "festival crowd", "orçamento": "budget finance",
+}
+
+
+def termos_de_busca(artigo, editoria):
+    """Monta as consultas, da mais específica à mais genérica."""
+    consultas = []
+
+    tags = [t for t in (artigo.get("tags") or []) if t][:3]
+    if tags:
+        traduzidas = []
+        for t in tags:
+            chave = sem_acento(t).strip()
+            achado = None
+            for pt, en in TERMOS.items():
+                if sem_acento(pt) == chave:
+                    achado = en
+                    break
+            traduzidas.append(achado or t)
+        consultas.append(" ".join(traduzidas))
+
+    if UNSPLASH_EDITORIA.get(editoria):
+        consultas.append(UNSPLASH_EDITORIA[editoria])
+
+    return consultas
+
+
+def buscar_imagem(artigo, editoria):
+    """Procura no Unsplash uma foto para a matéria.
+
+    Usa /search/photos em vez de /photos/random: a busca ordena por
+    relevância, o sorteio não. Numa matéria sobre um modelo de IA chinês,
+    aleatório dentro de "technology" traz qualquer coisa.
+
+    Sem chave configurada, ou sem resultado, devolve nada — e a matéria
+    sai sem foto, que é melhor que sair com foto errada.
+    """
+    chave = os.environ.get("UNSPLASH_KEY", "")
+    if not chave:
+        return None
+
+    for consulta in termos_de_busca(artigo, editoria):
+        try:
+            endereco = ("https://api.unsplash.com/search/photos"
+                        "?query=%s&orientation=landscape&content_filter=high"
+                        "&per_page=1" % urllib.parse.quote(consulta))
+            req = urllib.request.Request(
+                endereco, headers={"Authorization": "Client-ID %s" % chave,
+                                   "Accept-Version": "v1"})
+            with urllib.request.urlopen(req, timeout=20) as r:
+                dados = json.loads(r.read())
+        except urllib.error.HTTPError as exc:
+            if exc.code == 403:
+                print("    Unsplash: chave inválida ou limite atingido")
+                return None
+            continue
+        except Exception:
+            continue
+
+        resultados = dados.get("results") or []
+        if not resultados:
+            continue
+
+        foto = resultados[0]
+        # A licença do Unsplash exige atribuição com link para o fotógrafo
+        # e para a plataforma. Guardamos os dois.
+        return {
+            "url": "%s&w=1600&q=75" % foto["urls"]["raw"].split("&")[0]
+                   if "?" in foto["urls"]["raw"]
+                   else "%s?w=1600&q=75" % foto["urls"]["raw"],
+            "autor": foto["user"]["name"],
+            "autor_url": foto["user"]["links"]["html"],
+            "consulta": consulta,
+        }
+
+    return None
+
 
 # ── Fontes ───────────────────────────────────────────────────────────────
 # Feeds públicos. Servem para descobrir o fato e para verificá-lo depois —
@@ -585,7 +713,7 @@ def conferir_forma(a):
 
 
 # ── 6. Gravar e publicar ─────────────────────────────────────────────────
-def montar_md(a, item, editoria):
+def montar_md(a, item, editoria, imagem=None):
     hoje = date.today()
     linhas = [
         "---",
@@ -604,6 +732,13 @@ def montar_md(a, item, editoria):
         f'fonte_nome: "{item["fonte"]}"',
         f"data_do_fato: {hoje.isoformat()}",
     ]
+    if imagem:
+        linhas += [
+            'featuredImage: "%s"' % imagem["url"],
+            'photoAuthor: "%s"' % imagem["autor"].replace('"', "'"),
+            'photoAuthorUrl: "%s"' % imagem["autor_url"],
+            'photoSource: "Unsplash"',
+        ]
     tags = a.get("tags", [])[:8]
     if tags:
         linhas.append("tags:")
@@ -727,7 +862,11 @@ def processar(secao, config, vistos, ensaio, restantes):
                 print("      · %s" % str(x)[:88])
             a["_ressalvas"] = v["nao_sustentadas"]
 
-        publicar(montar_md(a, item, config["editoria"]), a, item,
+        imagem = buscar_imagem(a, config["editoria"])
+        if imagem:
+            print("    foto: %s (busca: %s)"
+                  % (imagem["autor"], imagem["consulta"][:40]))
+        publicar(montar_md(a, item, config["editoria"], imagem), a, item,
                  config["editoria"], ensaio)
         vistos.append(termos(a["titulo"]))
         publicadas += 1
