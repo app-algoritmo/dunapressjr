@@ -373,10 +373,27 @@ def assunto_repetido(titulo, vistos):
 
 
 def hoje_publicados():
+    """Quantas matérias a publicação automática já pôs no ar hoje.
+
+    Contava todos os arquivos do dia, inclusive os escritos à mão — então
+    um dia produtivo do editor bloqueava a automação. O teto existe para
+    limitar o que a IA publica, não o jornal.
+    """
     hoje = date.today().isoformat()
     n = 0
-    for _, _, arquivos in os.walk(os.path.join(RAIZ, "artigos")):
-        n += sum(1 for f in arquivos if f.startswith(hoje))
+    base = os.path.join(RAIZ, "artigos")
+    for pasta, _, arquivos in os.walk(base):
+        for f in arquivos:
+            if not f.startswith(hoje) or not f.endswith(".md"):
+                continue
+            try:
+                with open(os.path.join(pasta, f), encoding="utf-8",
+                          errors="replace") as fh:
+                    cab = fh.read(900)
+            except OSError:
+                continue
+            if re.search(r"^proveniencia:\s*ia-autonomo\s*$", cab, re.M):
+                n += 1
     return n
 
 
@@ -872,11 +889,16 @@ def main():
     mes, gasto, _ = custo_do_mes()
     print("Gasto em %s: US$ %.2f de US$ %.2f" % (mes, gasto, TETO_MENSAL))
     if gasto >= TETO_MENSAL:
-        raise SystemExit("Teto mensal atingido. Sem publicação hoje.")
+        print("Teto mensal atingido. Sem publicação até a virada do mês.")
+        return
 
     ja = hoje_publicados()
     if ja >= TETO:
-        raise SystemExit(f"Teto de {TETO} por execução já atingido hoje ({ja}).")
+        # Sair com erro marcaria a execução como falha no painel, e um teto
+        # atingido não é falha — é o limite funcionando.
+        print("Teto de %d publicações automáticas já atingido hoje (%d)."
+              % (TETO, ja))
+        return
 
     vistos = publicados_recentes()
     print("Teto: %d por execução, %d tentativas · publicadas hoje: %d · "
