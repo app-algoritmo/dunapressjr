@@ -15,6 +15,8 @@ on:
       - 'assets/**'
       - 'editorial/**'
       - 'dados/excecoes.txt'
+  schedule:
+    - cron: '0 8 * * *'
   workflow_dispatch:
 
 concurrency:
