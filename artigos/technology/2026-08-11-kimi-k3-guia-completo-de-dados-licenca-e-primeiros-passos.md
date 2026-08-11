@@ -1,4 +1,3 @@
-
 ---
 title: "Kimi K3: Guia Completo de Dados, Licença e Primeiros Passos"
 subtitle: "Do tamanho dos pesos ao preço da API — tudo o que você precisa saber para começar agora"
@@ -7,9 +6,9 @@ date: 2026-08-11
 status: publish
 author: "Redação Duna Press"
 categories: "technology"
-formato: nota
-proveniencia: ia-autonomo
-revisao_humana: Revisado
+formato: explicador
+proveniencia: ia-assistido
+revisor: Paulo Fernando De Barros
 fonte_primaria: "https://arxiv.org/abs/2607.24653"
 fonte_nome: "Arxiv - Computer Science"
 data_do_fato: 2026-08-11
@@ -32,7 +31,7 @@ O sistema MoE usa **896 especialistas roteados**, dos quais apenas **16 são ati
 
 A Moonshot afirma um ganho de **2,5× em eficiência de escala** sobre o Kimi K2. O modelo tem **93 camadas** e foi pós-treinado com nove políticas de RL especializadas em três domínios (codificação, agentes gerais e raciocínio), com três níveis de esforço de raciocínio cada (baixo, alto, máximo).
 
----
+***
 
 ## 2. Benchmarks: onde ele ganha, onde perde, e por quanto
 
@@ -63,7 +62,7 @@ A Moonshot afirma um ganho de **2,5× em eficiência de escala** sobre o Kimi K2
 
 O **Intelligence Index da Artificial Analysis** posicionou o K3 em **terceiro lugar geral** (pontuação 57), atrás apenas do Claude Fable 5 e do GPT-5.6 Sol.
 
----
+***
 
 ## 3. A licença Kimi K3: o que você pode fazer (e o que não pode)
 
@@ -87,7 +86,7 @@ A **Kimi K3 License** é construída sobre a estrutura MIT, com três camadas de
 
 **Veredito prático:** para startups, pesquisadores e uso interno empresarial, a licença comporta-se como MIT. Para hyperscalers e provedores de nuvem que querem revender o K3, ela é uma porta de entrada para negociação comercial.
 
----
+***
 
 ## 4. Como começar a trabalhar com Kimi K3 hoje
 
@@ -131,7 +130,7 @@ Rode no terminal e selecione o K3 com o comando `/model`. O modelo suporta **"vi
 ### D) Kimi Enterprise
 Para empresas: privacidade de dados enterprise-grade, separação completa entre contas pessoais e organizacionais, gerenciamento de membros.
 
----
+***
 
 ## 5. Rodar localmente: a realidade dos números
 
@@ -159,7 +158,7 @@ Roda via **llama.cpp** ou **Unsloth Studio**. Há até um projeto experimental (
 
 **Veredito:** para 99,9% dos desenvolvedores, a **API oficial** é a única opção viável. Self-hosting só faz sentido em escala empresarial sustentada ou para pesquisa em infraestrutura.
 
----
+***
 
 ## 6. As três ferramentas de infraestrutura liberadas
 
@@ -174,7 +173,7 @@ Sistema de sandbox desenvolvido em parceria com a **KVCache.ai**, projetado para
 
 Essas ferramentas não são meros bônus — são **componentes críticos** que permitiram treinar o K3 em escala 2,8T. A liberação delas indica que a Moonshot quer que a comunidade não apenas use o modelo, mas também **reproduza e estenda** a stack de treinamento.
 
----
+***
 
 ## 7. Comparação direta: Kimi K3 vs. os concorrentes abertos
 
@@ -200,7 +199,7 @@ Essas ferramentas não são meros bônus — são **componentes críticos** que 
 - **Licença:** MIT do DeepSeek é mais permissiva; a licença customizada do K3 cria fricção para MaaS em escala.
 - **Tamanho de deploy:** 1,56 TB de pesos MXFP4 tornam o self-hosting inviável para a maioria.
 
----
+***
 
 ## 8. O que ainda não sabemos (lacunas do relatório técnico)
 
@@ -210,7 +209,7 @@ Apesar dos 47 páginas, o relatório técnico omite:
 - **Detalhes completos do dataset** (proporção de código, web, multimodal, sintético).
 - **Resultados de segurança independentes** — os testes de cibersegurança internos encontraram 16 vulnerabilidades desconhecidas, mas uma avaliação independente registrou **zero casos de execução arbitrária de código** em 41 tarefas.
 
----
+***
 
 ## 9. Guia de primeiros passos para você começar agora
 
@@ -236,7 +235,7 @@ A menos que você tenha acesso a um cluster com 64+ GPUs e interconexão de alta
 ### Passo 6: Leia o relatório técnico
 O PDF de 47 páginas está disponível no repositório oficial da Moonshot no Hugging Face. É leitura obrigatória se você quer entender as decisões de arquitetura.
 
----
+***
 
 ## Conclusão
 
@@ -246,6 +245,6 @@ Para você, que quer trabalhar com Kimi, a mensagem é clara: **comece pela API*
 
 A proximidade com os modelos proprietários de ponta é real. A superioridade absoluta, ainda não. Mas a velocidade com que essa proximidade foi alcançada — e a generosidade da liberação técnica — é o que torna o K3 um marco.
 
----
+***
 
 *Dados compilados a partir do relatório técnico da Moonshot, benchmarks independentes (Artificial Analysis, llm-stats.com, TokenCalculator), documentação oficial da API e análises de especialistas. Última atualização: agosto de 2026.*
