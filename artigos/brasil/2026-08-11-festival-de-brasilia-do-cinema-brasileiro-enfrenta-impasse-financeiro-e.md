@@ -12,6 +12,9 @@ revisao_humana: pendente
 fonte_primaria: "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/festival-de-cinema-de-brasilia-e-cancelado-classe-artistica-repudia"
 fonte_nome: "Agência Brasil"
 data_do_fato: 2026-08-11
+featuredImage: "https://images.unsplash.com/photo-1544989164-31dc3c645987?w=1600&auto=format&fit=crop&q=75"
+photoAuthor: "Davi Costa"
+photoSource: "Unsplash"
 tags:
   - Festival de Brasília
   - Cinema Brasileiro
