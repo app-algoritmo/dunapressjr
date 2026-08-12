@@ -10,9 +10,9 @@ name: Publicar automático
 
 on:
   schedule:
-    # 09h e 17h de Brasília (UTC-3). Duas execuções, não três: o volume é
-    # limitado de propósito, para caber no orçamento e na régua editorial.
-    - cron: '0 12,20 * * 1-5'
+    # 07h de Brasília — meio-dia em Oslo, onde o editor lê o jornal.
+    # O GitHub costuma atrasar o agendador; a segunda execução cobre isso.
+    - cron: '0 10,11 * * 1-5'
   workflow_dispatch:
     inputs:
       secao:
