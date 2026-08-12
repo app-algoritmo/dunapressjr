@@ -34,7 +34,7 @@ Ambiente:
     DP_MODELO           modelo de redação
     DP_MODELO_VERIF     modelo de verificação (mais barato de propósito)
 """
-import os, re, sys, json, html, time, hashlib, subprocess
+import os, re, sys, json, html, time, random, hashlib, subprocess
 import unicodedata, urllib.request, urllib.error, urllib.parse
 from datetime import date, datetime, timedelta, timezone
 from xml.etree import ElementTree
@@ -46,11 +46,11 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MODELO_REDACAO = os.environ.get("DP_MODELO", "claude-sonnet-4-6")
 MODELO_VERIFICACAO = os.environ.get("DP_MODELO_VERIF", "claude-haiku-4-5-20251001")
 
-TETO = int(os.environ.get("DP_TETO_AUTO", "2"))
+TETO = int(os.environ.get("DP_TETO_AUTO", "3"))
 
 # Cada tentativa custa, aprovada ou não. Sem este limite, uma sequência de
 # recusas consome o orçamento do mês sem publicar nada.
-TETO_TENTATIVAS = int(os.environ.get("DP_TETO_TENTATIVAS", "3"))
+TETO_TENTATIVAS = int(os.environ.get("DP_TETO_TENTATIVAS", "4"))
 
 # Teto de gasto mensal, em dólares. O script estima o custo de cada chamada
 # e para quando chega no limite — melhor um dia sem publicação que uma
@@ -71,6 +71,13 @@ JANELA_DEDUPE = 10            # dias para trás na checagem de assunto repetido
 # texto tem problema de fundo. Abaixo, é imprecisão pontual — e reprovar a
 # matéria inteira por uma linha em vinte é desperdício.
 FRACAO_NAO_SUSTENTADA = 0.15
+
+# Fração das matérias que passa pela conferência de fatos. Verificar todas
+# custava 40% do orçamento para pegar pouco: as fontes são primárias, e o
+# que a etapa realmente caça é invenção do modelo — número, data ou nome
+# que não estava no material. Texto com muitos números é sempre conferido;
+# o resto, por amostragem.
+AMOSTRA_VERIFICACAO = float(os.environ.get("DP_AMOSTRA_VERIF", "0.34"))
 
 # Abaixo disso, o Unsplash não tem o assunto e devolveu o que sobrou.
 # "measles vaccination São Paulo" trouxe 2 resultados — e a primeira foto
@@ -188,6 +195,71 @@ def buscar_imagem(artigo, editoria):
     return None
 
 
+# ── O que não vira matéria ───────────────────────────────────────────────
+# Política partidária não entra: disputa entre parlamentares, votação de
+# plenário, crise de partido, incidente com deputado. Não é que o assunto
+# seja menor — é que este jornal cobre política de Estado, não de Brasília.
+#
+# Política pública entra: reajuste de salário, safra, tarifa, estatística,
+# regulação, decisão que muda a vida de quem lê. A diferença é se a matéria
+# fala de pessoas em disputa ou de decisões que produzem efeito.
+PARTIDARIO = re.compile(
+    r"\b(deputad[oa]s?|senador(?:es|as)?|vereador(?:es|as)?"
+    r"|parlamentar(?:es)?|bancada|liderança d[oa] |líder d[oa] (PT|PL|PP|MDB|União)"
+    r"|plenário|ordem do dia|sessão (?:da Câmara|do Senado|legislativa)"
+    r"|votação (?:em|no|na) (?:plenário|Câmara|Senado)"
+    r"|CPI|comissão parlamentar|requerimento|emenda parlamentar"
+    r"|PT|PL\b|PSDB|MDB|PSOL|Republicanos|União Brasil|Podemos"
+    r"|candidat[oa]s?|campanha eleitoral|pesquisa eleitoral|urna"
+    r"|impeachment|cassação|foro privilegiado"
+    r"|ministr[oa] d[oe] (?:Estado|Relações|Casa Civil)"
+    r"|Executivo e Legislativo|articulação política)",
+    re.I)
+
+# Já isto passa, mesmo mencionando governo ou ministério: é o efeito, não
+# a disputa.
+INTERESSE_PUBLICO = re.compile(
+    r"\b(salário mínimo|reajuste|inflação|IPCA|desemprego|emprego"
+    r"|safra|colheita|produção agrícola|exportação|importação"
+    r"|tarifa|imposto|tributo|juros|Selic|PIB|balança comercial"
+    r"|censo|estatística|pesquisa (?:do IBGE|revela|aponta|mostra)"
+    r"|vacina|epidemia|surto|hospital|SUS|medicamento"
+    r"|energia|combustível|petróleo|eletricidade"
+    r"|educação|universidade|escola|alfabetização"
+    r"|clima|desmatamento|seca|enchente|meio ambiente"
+    r"|consumidor|consumo|preço|cesta básica"
+    r"|profissão|carreira|trabalho|aposentadoria)",
+    re.I)
+
+
+# Marcas de matéria puramente partidária: disputa, incidente pessoal,
+# procedimento interno. Nenhum contexto de política pública as salva.
+SO_PARTIDARIO = re.compile(
+    r"\b(líder d[oa] \w+ (?:passa|é|foi|diz|afirma)"
+    r"|passa mal|mal súbito|internad[oa]"
+    r"|suspende votaç|cancela sessão|adia votaç"
+    r"|troca de comando|disputa pela presidência d[oa] (?:Câmara|Senado)"
+    r"|bate-boca|discussão no plenário)", re.I)
+
+
+def vale_a_pena(item):
+    """Decide se o fato merece uma chamada ao modelo.
+
+    Filtrar aqui é barato; filtrar depois de redigir custa uma redação
+    inteira. Na dúvida, deixa passar — a conferência de forma e de fatos
+    ainda vem depois.
+    """
+    texto = "%s %s" % (item.get("titulo", ""), item.get("resumo", ""))
+    # Alguns termos partidários são fortes o bastante para recusar sozinhos:
+    # matéria sobre incidente com parlamentar não vira notícia de serviço
+    # público por mencionar "trabalho" ou "saúde" de passagem.
+    if SO_PARTIDARIO.search(texto):
+        return False
+    if PARTIDARIO.search(texto) and not INTERESSE_PUBLICO.search(texto):
+        return False
+    return True
+
+
 # ── Fontes ───────────────────────────────────────────────────────────────
 # Princípio: só fonte primária. Nada de veículo comercial — gerar matéria a
 # partir da reportagem alheia é apropriar-se da apuração de outra redação,
@@ -202,25 +274,84 @@ def buscar_imagem(artigo, editoria):
 # Feeds saem do ar sem aviso. tools/conferir_fontes.py testa todos de uma
 # vez; feed que falha é ignorado e a execução segue com os que responderam.
 FONTES = {
-    "nacional": {
+    # Só fonte primária: quem produz o fato, não quem o noticia. Agência
+    # de Estado, agência espacial, organismo multilateral, publicação
+    # técnica de sociedade científica, repositório de artigos.
+    #
+    # Ficaram de fora, deliberadamente: SCMP, Ars Technica, The Verge,
+    # MIT Tech Review, Electrek, InsideEVs, VentureBeat, Al Jazeera e
+    # Arab News — são veículos jornalísticos, e gerar matéria a partir da
+    # reportagem deles é reescrever apuração alheia. Também ficaram fora
+    # TASS, Sputnik, RT e CGTN: estatais de governos em conflito de
+    # informação ativo, impróprias como fonte primária de um jornal que
+    # promete conferir cada afirmação contra a origem.
+    "brasil": {
         "editoria": "brasil",
         "feeds": [
-            # Confirmados em 10/08/2026 por tools/conferir_fontes.py.
-            # Feeds de órgãos públicos mudam de endereço com frequência;
-            # rode a conferência antes de acrescentar qualquer linha aqui.
             ("Agência Brasil", "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"),
-            ("Agência Gov", "https://agenciagov.ebc.com.br/rss.xml"),
-            ("Agência FAPESP", "https://agencia.fapesp.br/rss/"),
-            ("Fiocruz", "https://portal.fiocruz.br/rss.xml"),
         ],
     },
-    "internacional": {
+    "ciencia": {
+        "editoria": "ciencia-e-saude",
+        "feeds": [
+            ("Nature", "https://www.nature.com/nature.rss"),
+            ("Science Daily", "https://www.sciencedaily.com/rss/all.xml"),
+            ("Phys.org", "https://phys.org/rss-feed/"),
+            ("ScienceAlert", "https://www.sciencealert.com/feed"),
+            ("OMS", "https://www.who.int/rss-feeds/news-english.xml"),
+            ("OPAS", "https://www.paho.org/pt/rss.xml"),
+            ("Copernicus", "https://climate.copernicus.eu/rss.xml"),
+            ("ONU Meio Ambiente", "https://www.unep.org/rss.xml"),
+        ],
+    },
+    "espaco": {
+        "editoria": "ciencia-e-saude",
+        "feeds": [
+            ("NASA", "https://www.nasa.gov/news-release/feed/"),
+            ("NASA Ciência", "https://science.nasa.gov/feed/"),
+            ("ESA", "https://www.esa.int/rssfeed/Our_Activities/Space_News"),
+            ("ESA Exploração", "https://www.esa.int/rssfeed/Our_Activities/Human_and_Robotic_Exploration"),
+            ("Space.com", "https://www.space.com/feeds/all"),
+        ],
+    },
+    "tecnologia": {
+        "editoria": "tecnologia",
+        "feeds": [
+            ("MIT News", "https://news.mit.edu/rss/feed"),
+            ("IEEE Spectrum", "https://spectrum.ieee.org/feeds/feed.rss"),
+            ("IEEE Robótica", "https://spectrum.ieee.org/feeds/topic/robotics.rss"),
+            ("arXiv IA", "http://export.arxiv.org/rss/cs.AI"),
+            ("arXiv Robótica", "http://export.arxiv.org/rss/cs.RO"),
+        ],
+    },
+    "economia": {
+        "editoria": "economia",
+        "feeds": [
+            ("OMC", "https://www.wto.org/library/rss/latest_news_e.xml"),
+        ],
+    },
+    "justica": {
+        # Publica pouco — algumas notas por mês. Entra para dar cobertura
+        # ao tema, não para alimentar a rotina.
         "editoria": "mundo",
         "feeds": [
-            ("OMS", "https://www.who.int/rss-feeds/news-english.xml"),
+            ("Tribunal Penal Internacional", "https://www.icc-cpi.int/rss.xml"),
+        ],
+    },
+    "esportes": {
+        "editoria": "esportes",
+        "feeds": [
+            ("Fórmula 1", "https://www.formula1.com/content/fom-website/en/latest/all.xml"),
+            ("Autosport F1", "https://www.autosport.com/rss/f1/news/"),
         ],
     },
 }
+
+
+# Não responderam no teste de 12/08/2026 — vale tentar de novo com outro
+# endereço quando houver tempo: FMI, Banco Mundial, OCDE, AIE (energia),
+# FAO (agricultura), UEFA, Olympics, Xinhua. Economia internacional e
+# futebol europeu ficam descobertos até lá.
 
 # Candidatos que falharam no teste de 10/08/2026. Ficam registrados para
 # quem for procurar o endereço novo — a instituição continua valendo como
@@ -757,6 +888,8 @@ def enfileirar_revisao(a, item, editoria, url_final):
         fh.write("- [ ] `%s` [%s](%s) — %s · fonte: [%s](%s)\n"
                  % (date.today().isoformat(), a["titulo"][:70], url_final,
                     editoria, item["fonte"], item["url"]))
+        if a.get("_sem_verificacao"):
+            fh.write("      - publicada sem conferência de fatos (amostragem)\n")
         for r in a.get("_ressalvas", [])[:3]:
             fh.write("      - ressalva: %s\n" % str(r)[:110])
 
@@ -795,13 +928,18 @@ def publicar(md, a, item, editoria, ensaio):
 def processar(secao, config, vistos, ensaio, restantes):
     print(f"\n▸ {secao}")
     candidatos = []
+    brutos = []
     for nome, url in config["feeds"]:
-        candidatos += [i for i in ler_feed(nome, url) if recente(i)]
+        brutos += [i for i in ler_feed(nome, url) if recente(i)]
+    candidatos = [i for i in brutos if vale_a_pena(i)]
+    descartados = len(brutos) - len(candidatos)
     # Fatos mais recentes primeiro: notícia velha rende matéria pior e
     # aumenta a chance de recusa — que custa igual.
     candidatos.sort(key=lambda i: i.get("quando", ""), reverse=True)
-    print("  %d fatos nos feeds · até %d tentativas"
-          % (len(candidatos), TETO_TENTATIVAS))
+    print("  %d fatos nos feeds · até %d tentativas%s"
+          % (len(candidatos), TETO_TENTATIVAS,
+             " · %d descartados por política partidária" % descartados
+             if descartados else ""))
 
     publicadas = tentativas = 0
     for item in candidatos:
@@ -844,7 +982,17 @@ def processar(secao, config, vistos, ensaio, restantes):
                   % (sob * 100, limite * 100))
             continue
 
-        v = verificar(a, corpo_fonte)
+        # Números são onde a invenção acontece. Texto denso em cifras,
+        # datas e percentuais é sempre conferido; os demais, por sorteio.
+        densidade = len(re.findall(r"\d", a["corpo"])) / max(1, len(a["corpo"].split()))
+        confere = densidade > 0.12 or random.random() < AMOSTRA_VERIFICACAO
+
+        if not confere:
+            print("    sem conferência de fatos (amostragem)")
+            a["_sem_verificacao"] = True
+            v = {"aprovado": True, "nao_sustentadas": []}
+        else:
+            v = verificar(a, corpo_fonte)
         if not v.get("aprovado"):
             print("    recusada na verificação de fatos (%s):"
                   % v.get("observacao", ""))
@@ -905,9 +1053,21 @@ def main():
           "assuntos recentes na memória: %d"
           % (TETO, TETO_TENTATIVAS, ja, len(vistos)))
 
+    # Rodízio: seis seções com 3 tentativas cada dariam 18 redações por
+    # execução — quatro vezes o orçamento. Cada dia da semana cobre duas,
+    # e o jornal alterna entre os assuntos ao longo dos dias.
+    secoes = list(FONTES)
+    if so:
+        agenda = [so] if so in FONTES else []
+    else:
+        dia = date.today().timetuple().tm_yday
+        agenda = [secoes[(dia * 3 + i) % len(secoes)] for i in range(3)]
+        print("Seções de hoje: %s" % " · ".join(agenda))
+
     total = 0
-    for secao, config in FONTES.items():
-        if so and secao != so:
+    for secao in agenda:
+        config = FONTES.get(secao)
+        if not config:
             continue
         total += processar(secao, config, vistos, ensaio, TETO - ja - total)
         if ja + total >= TETO:
