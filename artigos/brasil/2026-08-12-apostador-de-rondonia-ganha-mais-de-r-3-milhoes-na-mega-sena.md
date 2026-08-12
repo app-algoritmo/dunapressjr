@@ -4,6 +4,7 @@ subtitle: "Única aposta a acertar as seis dezenas do Concurso 3.043 foi registr
 description: "Ganhador de Alvorada D'Oeste (RO) levará R$ 3,07 milhões após acertar sozinho o sorteio desta terça-feira (11)."
 date: 2026-08-12
 status: publish
+fora_da_capa: true
 author: "Redação Duna Press"
 categories: "brasil"
 formato: nota

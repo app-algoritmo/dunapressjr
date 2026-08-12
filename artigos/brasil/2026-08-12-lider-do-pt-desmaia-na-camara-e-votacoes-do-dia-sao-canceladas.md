@@ -4,7 +4,7 @@ subtitle: "Pedro Uczai passou mal durante reunião com líderes partidários, fo
 description: "Deputado petista desmaiou durante encontro com líderes na Câmara, foi socorrido pelo presidente da Casa e levado a hospital. Sessão do plenário foi suspensa."
 date: 2026-08-12
 status: publish
-arquivo: true
+fora_da_capa: true
 author: "Redação Duna Press"
 categories: "brasil"
 formato: nota
