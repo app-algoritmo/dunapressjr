@@ -286,6 +286,11 @@ def processar():
                 "palavras": palavras,
                 "porte": "longa" if palavras >= 800 else "media" if palavras >= 300 else "curta",
                 "arquivo": os.path.relpath(caminho, RAIZ),
+                # Marcado pelo editor: sai da capa e do índice, fica no
+                # acervo. O nome evita colidir com "arquivo", que aqui já
+                # significa o caminho do ficheiro.
+                "fora_da_capa": str(meta.get("fora_da_capa", meta.get("arquivo_editorial", ""))).lower()
+                                in ("true", "sim", "1"),
                 # Proveniência declarada. Confirmado com a redação: todo o
                 # acervo anterior a 2025 é de autoria humana.
                 "proveniencia": (meta.get("proveniencia")

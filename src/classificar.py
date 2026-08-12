@@ -120,6 +120,19 @@ def classificar():
             a["motivos"] = ["vazio"]
             contas["removido"] += 1
             continue
+        # Decisão do editor tem precedência sobre a régua automática:
+        # "arquivo: true" no frontmatter tira a matéria da capa, da
+        # editoria e do sitemap, sem apagá-la do acervo. Serve para o que
+        # foi publicado e, relido, não sustenta a chamada — corrigir
+        # apagando abriria buraco no histórico.
+        if a.get("fora_da_capa"):
+            a["indexar"] = False
+            a["situacao"] = "noindex"
+            a["motivos"] = ["arquivado pelo editor"]
+            contas["noindex"] += 1
+            contas["arquivado"] += 1
+            continue
+
         if a["url"] in duplicados:
             motivos.append("duplicado")
         if a["_palavras"] < PISO_CURTO:

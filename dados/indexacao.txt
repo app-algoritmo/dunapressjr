@@ -3,8 +3,8 @@ DUNA PRESS — CLASSIFICAÇÃO DE INDEXAÇÃO
 Piso editorial: 300 palavras · vazio: <40
 
 Acervo total ............  19548
-Indexado (o jornal) .....   5209    26.6%
-noindex, follow .........  14174    72.5%
+Indexado (o jornal) .....   5208    26.6%
+noindex, follow .........  14175    72.5%
 410 Gone (vazios) .......    165     0.8%
   dos indexados, preservados por tráfego: 138
 
@@ -12,7 +12,7 @@ MOTIVOS DE EXCLUSÃO  (um artigo pode ter mais de um)
 --------------------------------------------------------------
   noticia       10064    51.5% do acervo
   agencia        8608    44.0% do acervo
-  curto          4745    24.3% do acervo
+  curto          4744    24.3% do acervo
   duplicado       101     0.5% do acervo
 
 SOBREPOSIÇÃO DOS MOTIVOS
@@ -20,7 +20,7 @@ SOBREPOSIÇÃO DOS MOTIVOS
   agencia + noticia              4616
   noticia                        2862
   agencia                        1871
-  curto                          1431
+  curto                          1430
   curto + agencia + noticia      1336
   curto + noticia                1197
   curto + agencia                 760
@@ -30,6 +30,7 @@ SOBREPOSIÇÃO DOS MOTIVOS
   duplicado + curto + noticia      13
   duplicado + curto + agencia + noticia      7
   duplicado + agencia               4
+  arquivado pelo editor             2
   duplicado + curto                 1
 
 O QUE SOBRA, POR ANO
@@ -44,11 +45,11 @@ O QUE SOBRA, POR ANO
   2023       1835    5447    ███████████████████████████████
   2024       1121    1977    ███████████████████
   2025         14      15    
-  2026        564     724    █████████
+  2026        563     724    █████████
 
 O QUE SOBRA, POR EDITORIA
 --------------------------------------------------------------
-  Brasil                 450 de 10793     4.2%
+  Brasil                 449 de 10793     4.2%
   Mundo                 1046 de 2443     42.8%
   Cultura               1219 de 1639     74.4%
   Ciência & Saúde        914 de 1340     68.2%
