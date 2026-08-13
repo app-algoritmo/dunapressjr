@@ -20,7 +20,7 @@ tags:
   - Inteligência Artificial
 ---
 
-# Kimi K3: O Que o Artigo (https://dunapress.org/moonshot-publica-os-pesos-do-kimi-k3-maior-modelo-aberto-de-ia-ja/) Não Te Contou — Guia Completo de Dados, Licença e Primeiros Passos
+# Kimi K3: O Que o Artigo [a cobertura do lançamento]([a cobertura do lançamento](https://dunapress.org/moonshot-publica-os-pesos-do-kimi-k3-maior-modelo-aberto-de-ia-ja/)) Não Te Contou — Guia Completo de Dados, Licença e Primeiros Passos
 
 ## 1. O modelo, em números concretos
 
