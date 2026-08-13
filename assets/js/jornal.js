@@ -88,3 +88,58 @@
     atualizarAno();
   }
 })();
+
+
+/* Compartilhar ─────────────────────────────────────────────────────────
+   No telefone, o sistema operacional tem uma folha de compartilhamento
+   melhor que qualquer lista de botões: abre com os aplicativos que a
+   pessoa realmente usa. Quando ela existe, usamos. Quando não, os links
+   diretos continuam valendo — por isso são links de verdade no HTML, e
+   não botões que dependem de script. */
+(function () {
+  var caixa = document.querySelector(".compartilhar");
+  if (!caixa) return;
+
+  var url = caixa.dataset.url;
+  var titulo = caixa.dataset.titulo;
+
+  var copiar = caixa.querySelector(".share-copiar");
+  if (copiar) {
+    copiar.addEventListener("click", function () {
+      var pronto = function () {
+        var antes = copiar.textContent;
+        copiar.textContent = "Link copiado";
+        copiar.setAttribute("data-copiado", "");
+        setTimeout(function () {
+          copiar.textContent = antes;
+          copiar.removeAttribute("data-copiado");
+        }, 2000);
+      };
+      if (navigator.clipboard) {
+        navigator.clipboard.writeText(url).then(pronto);
+      } else {
+        var campo = document.createElement("textarea");
+        campo.value = url;
+        document.body.appendChild(campo);
+        campo.select();
+        try { document.execCommand("copy"); pronto(); } catch (e) {}
+        document.body.removeChild(campo);
+      }
+    });
+  }
+
+  /* A folha nativa substitui a lista onde existir — em geral no telefone. */
+  if (navigator.share) {
+    var nativo = document.createElement("button");
+    nativo.className = "share-btn share-nativo";
+    nativo.type = "button";
+    nativo.textContent = "Compartilhar";
+    nativo.addEventListener("click", function () {
+      navigator.share({ title: titulo, url: url }).catch(function () {});
+    });
+    caixa.querySelectorAll("a.share-btn").forEach(function (a) {
+      a.style.display = "none";
+    });
+    caixa.insertBefore(nativo, copiar);
+  }
+})();

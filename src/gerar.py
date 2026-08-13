@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """Duna Press — gerador estático. Lê o manifesto e escreve HTML puro."""
-import os, re, json, html, unicodedata, hashlib, shutil
+import os, re, json, html, unicodedata, hashlib, shutil, urllib.parse
 from collections import Counter, defaultdict
 from datetime import date
 
@@ -260,6 +260,18 @@ def rodape(editorias, total):
       <li><a href="/arquivo/">Arquivo</a></li>
       <li><a href="/busca/">Busca</a></li>
       <li><a href="/rss.xml">RSS</a></li>
+    </ul></div>
+    <div><h3>Nas redes</h3><ul class="rodape-redes">
+      <li><a href="https://www.youtube.com/@dunapress" rel="me noopener"
+             target="_blank">YouTube</a></li>
+      <li><a href="https://www.instagram.com/dunapressjr/" rel="me noopener"
+             target="_blank">Instagram</a></li>
+      <li><a href="https://www.facebook.com/dunapressjr/" rel="me noopener"
+             target="_blank">Facebook</a></li>
+      <li><a href="https://x.com/dunapressjr" rel="me noopener"
+             target="_blank">X</a></li>
+      <li><a href="https://www.threads.com/@dunapressjr" rel="me noopener"
+             target="_blank">Threads</a></li>
     </ul></div>
   </div>
   <div class="rodape-fim">
@@ -732,6 +744,36 @@ def montar_artigo(m, a, edicao):
                      "".join(f'<a href="/busca/?t={e(t)}">{e(t)}</a>' for t in a["tags"]) +
                      "</div>")
 
+    # Compartilhar fica no fim do texto, antes das etiquetas: é ali que o
+    # leitor decide se valeu a pena. No alto, o botão pede divulgação de
+    # algo que ainda não foi lido — e ocupa o espaço da manchete.
+    endereco = "https://dunapress.org%s" % a["url"]
+    titulo_share = a["titulo"]
+    compartilhar = (
+        '<div class="compartilhar" data-url="%s" data-titulo="%s">'
+        '<span class="rotulo-share">Compartilhar</span>'
+        '<a class="share-btn" data-rede="whatsapp" target="_blank" rel="noopener"'
+        ' href="https://api.whatsapp.com/send?text=%s%%20%s"'
+        ' aria-label="Compartilhar no WhatsApp">WhatsApp</a>'
+        '<a class="share-btn" data-rede="x" target="_blank" rel="noopener"'
+        ' href="https://x.com/intent/post?text=%s&amp;url=%s"'
+        ' aria-label="Compartilhar no X">X</a>'
+        '<a class="share-btn" data-rede="facebook" target="_blank" rel="noopener"'
+        ' href="https://www.facebook.com/sharer/sharer.php?u=%s"'
+        ' aria-label="Compartilhar no Facebook">Facebook</a>'
+        '<a class="share-btn" data-rede="linkedin" target="_blank" rel="noopener"'
+        ' href="https://www.linkedin.com/sharing/share-offsite/?url=%s"'
+        ' aria-label="Compartilhar no LinkedIn">LinkedIn</a>'
+        '<button class="share-btn share-copiar" type="button"'
+        ' aria-label="Copiar o endereço">Copiar link</button>'
+        '</div>'
+        % (e(endereco), e(titulo_share),
+           urllib.parse.quote(titulo_share), urllib.parse.quote(endereco),
+           urllib.parse.quote(titulo_share), urllib.parse.quote(endereco),
+           urllib.parse.quote(endereco),
+           urllib.parse.quote(endereco)))
+
+
     relacionados = [x for x in arts if x.get("indexar", True)
                     and x["editoria"] == a["editoria"] and x["url"] != a["url"]][:4]
     minutos = max(1, round(a["palavras"] / 220))
@@ -792,6 +834,7 @@ def montar_artigo(m, a, edicao):
   {abertura}
   <div class="texto">{corpo}</div>
   {fonte_bloco}
+  {compartilhar}
   {etiquetas}
   <section class="leia-mais">
     <div class="faixa-cab"><h2>Mais em {e(a["editoria_nome"])}</h2>
