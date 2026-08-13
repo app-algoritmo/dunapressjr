@@ -10,3 +10,5 @@ humana. Ao revisar, troque `revisao_humana: pendente` por
 - [ ] `2026-08-12` [Líder do PT desmaia na Câmara e votações do dia são canceladas](/2026/08/12/lider-do-pt-desmaia-na-camara-e-votacoes-do-dia-sao-canceladas/) — brasil · fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/lider-do-pt-passa-mal-e-camara-suspende-votacoes)
       - ressalva: A ordem do dia no plenário da Câmara foi cancelada por causa do incidente. — O material diz que a ordem do dia
 - [ ] `2026-08-13` [MIT lança série de documentários sobre inovadores e exibe filme sobre ](/2026/08/13/mit-lanca-serie-de-documentarios-sobre-inovadores-e-exibe-filme-sobre/) — tecnologia · fonte: [MIT News](https://news.mit.edu/2026/featured-video-mit-story-paula-hammond-0812)
+- [ ] `2026-08-13` [MIT vai liderar centro de pesquisa em materiais financiado pela NSF co](/2026/08/13/mit-vai-liderar-centro-de-pesquisa-em-materiais-financiado-pela-nsf-com/) — tecnologia · fonte: [MIT News](https://news.mit.edu/2026/mit-to-lead-nsf-materials-research-center-0812)
+      - publicada sem conferência de fatos (amostragem)
