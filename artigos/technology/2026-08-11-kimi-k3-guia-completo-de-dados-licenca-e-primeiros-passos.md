@@ -19,9 +19,6 @@ tags:
   - KIMI
   - Inteligência Artificial
 ---
-
-# Kimi K3: O Que o Artigo [a cobertura do lançamento]([a cobertura do lançamento][a cobertura do lançamento](https://dunapress.org/moonshot-publica-os-pesos-do-kimi-k3-maior-modelo-aberto-de-ia-ja/)) Não Te Contou — Guia Completo de Dados, Licença e Primeiros Passos
-
 ## 1. O modelo, em números concretos
 
 O **Kimi K3** é um modelo de mistura de especialistas (MoE) com **2,8 trilhões de parâmetros totais** e **104 bilhões ativos por token**. Ele foi treinado com **quantização-aware** desde o estágio SFT, usando pesos em **MXFP4** e ativações em **MXFP8**.
