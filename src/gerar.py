@@ -42,10 +42,42 @@ MARCA_NUM = re.compile(r"^\s*\d+[.)]\s+")
 # ── Markdown mínimo ──────────────────────────────────────────────────────
 def md_para_html(texto):
     texto = re.sub(r"\r\n?", "\n", texto)
-    saida, lista = [], False
+
+    # Blocos de código saem do fluxo antes de qualquer outra coisa: dentro
+    # deles, # e | e * são texto, não marcação.
+    codigos = []
+
+    def guardar(m):
+        codigos.append((m.group(1) or "", m.group(2)))
+        return "\n\nCODIGO%d\n\n" % (len(codigos) - 1)
+
+    texto = re.sub(r"```(\w*)\n(.*?)```", guardar, texto, flags=re.S)
+
+    saida = []
     for bloco in re.split(r"\n\s*\n", texto):
         b = bloco.strip()
         if not b:
+            continue
+
+        m = re.fullmatch(r"CODIGO(\d+)", b)
+        if m:
+            lang, corpo = codigos[int(m.group(1))]
+            saida.append('<pre class="codigo"%s><code>%s</code></pre>'
+                         % (' data-lang="%s"' % lang if lang else "",
+                            e(corpo.rstrip())))
+            continue
+
+        # Linha divisória: --- ou *** sozinhos numa linha.
+        if re.fullmatch(r"(\*\s*){3,}|(-\s*){3,}|(_\s*){3,}", b):
+            saida.append("<hr>")
+            continue
+
+        # Tabela: a segunda linha é o separador de cabeçalho.
+        linhas_b = b.split("\n")
+        if (len(linhas_b) >= 2 and "|" in linhas_b[0]
+                and re.fullmatch(r"[\s|:-]+", linhas_b[1])
+                and "-" in linhas_b[1]):
+            saida.append(montar_tabela(linhas_b))
             continue
         if b.startswith("####"):
             saida.append(f"<h4>{inline(b.lstrip('# ').strip())}</h4>"); continue
@@ -72,6 +104,49 @@ def md_para_html(texto):
             saida.append("<ol>" + "".join(itens) + "</ol>"); continue
         saida.append(f"<p>{inline(b)}</p>")
     return "\n".join(saida)
+
+
+def montar_tabela(linhas):
+    """Converte tabela em canos para HTML.
+
+    O conversor antigo não a reconhecia, e cada linha virava um parágrafo
+    com os canos à mostra. Numa matéria com dez comparações, o texto
+    aparecia como uma sequência de símbolos.
+    """
+    def celulas(l):
+        l = l.strip()
+        if l.startswith("|"):
+            l = l[1:]
+        if l.endswith("|"):
+            l = l[:-1]
+        return [c.strip() for c in l.split("|")]
+
+    # A linha de separação pode declarar alinhamento com dois-pontos.
+    alinha = []
+    for c in celulas(linhas[1]):
+        if c.startswith(":") and c.endswith(":"):
+            alinha.append(" style=\"text-align:center\"")
+        elif c.endswith(":"):
+            alinha.append(" style=\"text-align:right\"")
+        else:
+            alinha.append("")
+
+    cab = celulas(linhas[0])
+    partes = ["<div class=\"tabela-rolagem\"><table><thead><tr>"]
+    for i, c in enumerate(cab):
+        partes.append("<th%s>%s</th>" % (alinha[i] if i < len(alinha) else "",
+                                         inline(c)))
+    partes.append("</tr></thead><tbody>")
+    for l in linhas[2:]:
+        if not l.strip():
+            continue
+        partes.append("<tr>")
+        for i, c in enumerate(celulas(l)):
+            partes.append("<td%s>%s</td>" % (alinha[i] if i < len(alinha) else "",
+                                             inline(c)))
+        partes.append("</tr>")
+    partes.append("</tbody></table></div>")
+    return "".join(partes)
 
 
 def inline(t):
@@ -143,7 +218,7 @@ def cabecalho(editorias, atual=None, edicao=0):
 <header>
   <div class="faixa-topo"><div class="env">
     <span>{e(data_txt)}</span>
-    <span>Desde 2017</span>
+    <span><b>Jornalismo independente</b> desde 2017</span>
     <a class="assine" href="/assinatura/">Assine</a>
   </div></div>
   <div class="env">

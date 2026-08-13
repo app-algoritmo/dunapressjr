@@ -205,6 +205,36 @@ img{max-width:100%;display:block;background:var(--papel-3)}
 .foto-corpo{margin:1.9em 0}
 .marca-fim{width:9px;height:9px;background:var(--tinta);display:inline-block;
   margin-left:5px;vertical-align:1px}
+/* ── Tabela, código e divisória no corpo ────────────────────────────── */
+.tabela-rolagem{max-width:760px;margin:30px auto;overflow-x:auto;
+  -webkit-overflow-scrolling:touch}
+.tabela-rolagem table{border-collapse:collapse;width:100%;
+  font-family:var(--util);font-size:13.5px;line-height:1.4}
+.tabela-rolagem th{text-align:left;font-weight:600;font-size:11px;
+  letter-spacing:.07em;text-transform:uppercase;color:var(--tinta-2);
+  border-bottom:2px solid var(--tinta);padding:9px 14px 8px;white-space:nowrap}
+.tabela-rolagem td{padding:9px 14px;border-bottom:1px solid var(--fio);
+  color:var(--tinta)}
+.tabela-rolagem tr:last-child td{border-bottom:1px solid var(--fio-2)}
+.tabela-rolagem td strong{font-weight:600}
+/* Tabela larga não deve espremer o texto: rola na horizontal no telefone. */
+@media(max-width:760px){
+  .tabela-rolagem{margin:24px 0}
+  .tabela-rolagem table{font-size:12.5px}
+  .tabela-rolagem th,.tabela-rolagem td{padding:7px 10px}
+}
+
+pre.codigo{max-width:760px;margin:26px auto;padding:16px 18px;
+  background:var(--papel-3);border-left:2px solid var(--fio-2);
+  overflow-x:auto;-webkit-overflow-scrolling:touch}
+pre.codigo code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
+  font-size:13px;line-height:1.55;color:var(--tinta);white-space:pre}
+.texto code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
+  font-size:.88em;background:var(--papel-3);padding:1px 5px}
+
+.texto hr{max-width:760px;margin:34px auto;border:0;
+  border-top:1px solid var(--fio-2)}
+
 .etiquetas{max-width:760px;margin:26px auto 0;display:flex;flex-wrap:wrap;gap:7px;
   padding-top:18px;border-top:1px solid var(--fio)}
 .etiquetas a{font-family:var(--util);font-size:11px;letter-spacing:.06em;

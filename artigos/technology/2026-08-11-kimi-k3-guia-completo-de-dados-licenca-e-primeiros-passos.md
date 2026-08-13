@@ -19,6 +19,7 @@ tags:
   - KIMI
   - Inteligência Artificial
 ---
+
 # Kimi K3: O Que o Artigo (https://dunapress.org/moonshot-publica-os-pesos-do-kimi-k3-maior-modelo-aberto-de-ia-ja/) Não Te Contou — Guia Completo de Dados, Licença e Primeiros Passos
 
 ## 1. O modelo, em números concretos
@@ -57,7 +58,9 @@ A Moonshot afirma um ganho de **2,5× em eficiência de escala** sobre o Kimi K2
 ### O que os números revelam:
 
 - O K3 é **líder entre modelos abertos** na maioria das categorias, mas ainda **fica atrás dos proprietários de ponta** (Claude Fable 5 e GPT-5.6 Sol) em tarefas de conhecimento geral.
+
 - Em **codificação de longo horizonte** (FrontierSWE, TerminalBench) e **raciocínio matemático avançado** (MATH-500, MathVision), ele empata ou supera muitos concorrentes.
+
 - No **Humanity's Last Exam** — um benchmark brutal de conhecimento de fronteira — ele marca 56,0%, um salto enorme em relação ao K2, mas ainda abaixo dos líderes proprietários.
 
 O **Intelligence Index da Artificial Analysis** posicionou o K3 em **terceiro lugar geral** (pontuação 57), atrás apenas do Claude Fable 5 e do GPT-5.6 Sol.
@@ -69,19 +72,27 @@ O **Intelligence Index da Artificial Analysis** posicionou o K3 em **terceiro lu
 A **Kimi K3 License** é construída sobre a estrutura MIT, com três camadas de restrição comerciais adicionadas:
 
 ### ✅ O que é permitido sem restrição
+
 - Uso, modificação, distribuição e criação de obras derivadas (incluindo fine-tunes).
+
 - Uso comercial em produtos finais (desde que não seja MaaS).
+
 - Uso interno em empresas de qualquer tamanho.
 
 ### ⚠️ O que exige acordo separado com a Moonshot
+
 - **Model as a Service (MaaS):** Se você oferece o K3 como serviço hospedado (API que dá ao terceiro controle sobre inputs, parâmetros ou dados de treinamento) e sua empresa (incluindo afiliadas) fatura **mais de US$ 20 milhões em qualquer período de 12 meses consecutivos**, precisa de contrato comercial separado.
+
 - **Importante:** o cálculo de receita inclui **toda a receita do licenciado e afiliadas**, não apenas a receita gerada pelo K3.
 
 ### ⚠️ O que exige atribuição visível
+
 - Se seu produto ou serviço comercial usando o K3 ultrapassar **100 milhões de usuários ativos mensais** OU **US$ 20 milhões em receita mensal**, você deve exibir **"Kimi K3" de forma proeminente na interface do usuário**.
 
 ### ✅ Isenções
+
 - Uso **interno** (que não disponibiliza o modelo a terceiros).
+
 - Uso através dos **produtos oficiais da Moonshot** ou **parceiros de inferência certificados**.
 
 **Veredito prático:** para startups, pesquisadores e uso interno empresarial, a licença comporta-se como MIT. Para hyperscalers e provedores de nuvem que querem revender o K3, ela é uma porta de entrada para negociação comercial.
@@ -91,19 +102,24 @@ A **Kimi K3 License** é construída sobre a estrutura MIT, com três camadas de
 ## 4. Como começar a trabalhar com Kimi K3 hoje
 
 ### A) API Oficial (a forma mais rápida)
+
 A API é **compatível com o formato OpenAI**, então se você já usa o SDK da OpenAI, a mudança é mínima.
 
-**Preços (oficiais):**
+## Preços (oficiais):
+
 - **Input com cache hit:** US$ 0,30 / milhão de tokens
+
 - **Input sem cache:** US$ 3,00 / milhão de tokens
+
 - **Output:** US$ 15,00 / milhão de tokens
 
 A Moonshot reporta **taxa de cache hit acima de 90%** em workloads de codificação, graças à arquitetura Mooncake de inferência desagregada.
 
 **Modelo:** `kimi-k3`  
+
 **Base URL:** `https://api.moonshot.ai/v1`
 
-**Exemplo de chamada (Python):**
+## Exemplo de chamada (Python):
 
 ```python
 import os
@@ -119,15 +135,19 @@ response = client.chat.completions.create(
     messages=[{"role": "user", "content": "Explique a arquitetura Kimi Delta Attention"}],
     reasoning_effort="max"  # ou "low", "high", ou desativado
 )
+
 ```
 
 ### B) Kimi Work (trabalho de conhecimento)
+
 Aplicativo desktop (Windows e Mac Apple Silicon) na versão 3.1.0+, com recursos de **Widgets** e **Dashboard** — componentes interativos gerados dentro do chat com conexão a dados locais ou plugins externos.
 
 ### C) Kimi Code (codificação no terminal)
+
 Rode no terminal e selecione o K3 com o comando `/model`. O modelo suporta **"vision in the loop"** — iteração entre código e screenshots ao vivo para desenvolvimento de jogos, design de chips, EDA, etc.
 
 ### D) Kimi Enterprise
+
 Para empresas: privacidade de dados enterprise-grade, separação completa entre contas pessoais e organizacionais, gerenciamento de membros.
 
 ***
@@ -135,17 +155,25 @@ Para empresas: privacidade de dados enterprise-grade, separação completa entre
 ## 5. Rodar localmente: a realidade dos números
 
 ### Pesos e armazenamento
+
 - **Pesos originais (MXFP4):** ~1,56 TB no Hugging Face
+
 - **Em BF16 (inference completa):** ~5.940 GB (quase 6 TB)
+
 - **Em INT4 (quantizado):** ~1.515 GB de VRAM
 
 ### Hardware mínimo para inferência
+
 - **Não roda em GPU única.** Nenhuma GPU individual suporta 1,56 TB de pesos.
+
 - **Nó de 8 GPUs?** Nem mesmo oito GPUs de 192 GB cada (total ~1,5 TB) cobrem os pesos + KV cache + overhead de serviço.
+
 - **Recomendação da Moonshot para produção:** **64+ aceleradores** em configuração de supernó com alta largura de banda de comunicação.
+
 - **Mínimo viável:** cluster multi-nó com ~2 TB+ de memória GPU agregada e interconexão rápida.
 
 ### Alternativas de quantização (comunidade)
+
 A Unsloth criou versões **GGUF** do K3:
 
 | Quantização | Tamanho | Acurácia top-1 |
@@ -163,12 +191,15 @@ Roda via **llama.cpp** ou **Unsloth Studio**. Há até um projeto experimental (
 ## 6. As três ferramentas de infraestrutura liberadas
 
 ### MoonEP
+
 Biblioteca de comunicação de alta performance para **expert-parallel** em MoEs de granularidade ultra-fina. Resolve o gargalo de comunicação all-to-all que tipicamente limita a eficiência de escalamento de MoEs grandes, mantendo desempenho de pico mesmo sob desbalanceamento de carga.
 
 ### FlashKDA
+
 Implementação em kernel de alta performance do **Kimi Delta Attention**. Em GPUs NVIDIA H20, entrega **1,72× a 2,22× de aceleração** na latência de prefill em comparação com a baseline flash-linear-attention, e pode ser usado como backend drop-in replacement. A Moonshot também contribuiu uma implementação de prefix caching para KDA com a comunidade vLLM.
 
 ### AgentEnv
+
 Sistema de sandbox desenvolvido em parceria com a **KVCache.ai**, projetado para treinamento de agentes em escala. Fornece sandboxes de alta fidelidade e forte isolamento, com suporte a **snapshot, restore e fork** rápidos para lidar com workflows de agente massivamente paralelos.
 
 Essas ferramentas não são meros bônus — são **componentes críticos** que permitiram treinar o K3 em escala 2,8T. A liberação delas indica que a Moonshot quer que a comunidade não apenas use o modelo, mas também **reproduza e estenda** a stack de treinamento.
@@ -188,15 +219,22 @@ Essas ferramentas não são meros bônus — são **componentes críticos** que 
 | **Inteligência Index (Artificial Analysis)** | 57 | 50 | N/A ainda |
 | **Melhor uso** | Codificação longa, agentes, pesquisa | Custo baixo, texto, MIT puro | Ecossistema Alibaba, multimodal |
 
-**Onde o K3 se destaca:**
+## Onde o K3 se destaca:
+
 - **Maior modelo aberto com pesos disponíveis** (2,8T vs. 2,4T do Qwen).
+
 - **Líder independente em benchmarks abertos** (Intelligence Index 57).
+
 - **Pesos baixáveis agora** — diferente do Qwen 3.8 Max, que ainda não liberou os pesos.
+
 - **Codificação de longo horizonte** (FrontierSWE, TerminalBench) é seu território mais forte.
 
-**Onde ele perde:**
+## Onde ele perde:
+
 - **Custo de API:** o output a $15/MTok é **53× mais caro** que o DeepSeek V4 Flash e **2,5× mais caro** que o Qwen 3.8 Max.
+
 - **Licença:** MIT do DeepSeek é mais permissiva; a licença customizada do K3 cria fricção para MaaS em escala.
+
 - **Tamanho de deploy:** 1,56 TB de pesos MXFP4 tornam o self-hosting inviável para a maioria.
 
 ***
@@ -204,9 +242,13 @@ Essas ferramentas não são meros bônus — são **componentes críticos** que 
 ## 8. O que ainda não sabemos (lacunas do relatório técnico)
 
 Apesar dos 47 páginas, o relatório técnico omite:
+
 - **Número total de tokens de pré-treinamento**
+
 - **Custo total de treinamento** (estimativas externas sugerem centenas de milhões de dólares, mas não há confirmação).
+
 - **Detalhes completos do dataset** (proporção de código, web, multimodal, sintético).
+
 - **Resultados de segurança independentes** — os testes de cibersegurança internos encontraram 16 vulnerabilidades desconhecidas, mas uma avaliação independente registrou **zero casos de execução arbitrária de código** em 41 tarefas.
 
 ***
@@ -214,25 +256,35 @@ Apesar dos 47 páginas, o relatório técnico omite:
 ## 9. Guia de primeiros passos para você começar agora
 
 ### Passo 1: API (5 minutos)
+
 1. Acesse [platform.kimi.ai](https://platform.kimi.ai) e crie uma conta.
+
 2. Gere uma API Key na seção "API Keys".
+
 3. Instale o SDK: `pip install openai`.
+
 4. Configure a `base_url` para `https://api.moonshot.ai/v1` e o modelo `kimi-k3`.
+
 5. Teste com um prompt de codificação ou raciocínio longo.
 
 ### Passo 2: Explore os modos de raciocínio
+
 O K3 tem três níveis de esforço de raciocínio: `low`, `high`, `max`. No lançamento, o modo padrão é `max`. Teste diferentes níveis para encontrar o equilíbrio entre qualidade e latência para seu caso de uso.
 
 ### Passo 3: Teste capacidades multimodais
+
 Envie imagens e vídeos junto com o prompt. O modelo processa texto, imagem e vídeo no **mesmo corpo** — não usa adaptadores visuais separados.
 
 ### Passo 4: Experimente Kimi Code
+
 Se você é desenvolvedor, instale o Kimi Code no terminal e use o comando `/model kimi-k3`. Teste workflows de "vision in the loop" — por exemplo, envie um screenshot de um bug e peça para o modelo gerar o fix.
 
 ### Passo 5: Avalie se precisa dos pesos locais
+
 A menos que você tenha acesso a um cluster com 64+ GPUs e interconexão de alta largura de banda, os pesos locais são para pesquisa, não para produção. Para produção, fique na API.
 
 ### Passo 6: Leia o relatório técnico
+
 O PDF de 47 páginas está disponível no repositório oficial da Moonshot no Hugging Face. É leitura obrigatória se você quer entender as decisões de arquitetura.
 
 ***
