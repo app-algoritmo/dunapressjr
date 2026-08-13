@@ -143,7 +143,7 @@ def cabecalho(editorias, atual=None, edicao=0):
 <header>
   <div class="faixa-topo"><div class="env">
     <span>{e(data_txt)}</span>
-    <span><b>Jornalismo independente</b> desde 2017</span>
+    <span>Desde 2017</span>
     <a class="assine" href="/assinatura/">Assine</a>
   </div></div>
   <div class="env">
