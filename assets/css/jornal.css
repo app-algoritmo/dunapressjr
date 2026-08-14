@@ -263,11 +263,16 @@ pre.codigo code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
 .etiquetas a:hover{border-color:var(--tinta);color:var(--tinta)}
 .leia-mais{margin-top:54px;border-top:2px solid var(--tinta);padding-top:16px}
 
-.selo{font-family:var(--util);font-size:10.5px;font-weight:700;
-  letter-spacing:.09em;text-transform:uppercase;padding:3px 8px;
-  border:1px solid var(--fio-2)}
-.selo-h{color:var(--marca);border-color:var(--marca)}
-.selo-ia{color:var(--tinta-2)}
+/* Proveniência. A caixa e o negrito faziam o selo competir com a
+   assinatura do autor, quando ele é apenas uma nota de procedência.
+   Continua legível para quem procura — a página de princípios promete
+   isso ao leitor — sem disputar a linha. */
+.selo{font-family:var(--util);font-size:9.5px;font-weight:400;
+  letter-spacing:.07em;text-transform:uppercase;color:var(--tinta-3);
+  padding:0;border:0}
+.selo-h,.selo-ia,.selo-auto{color:var(--tinta-3);border:0;font-weight:400}
+.assinatura .selo+.sep{opacity:.5}
+.assinatura .revisao{font-size:.92em;color:var(--tinta-3)}
 .ficha{display:grid;grid-template-columns:88px 1fr;gap:22px;align-items:start;
   border-bottom:2px solid var(--tinta);padding-bottom:24px;margin-bottom:28px}
 .ficha .retrato{width:88px;height:88px;flex:0 0 88px;font-size:27px}
