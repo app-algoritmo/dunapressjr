@@ -2,17 +2,17 @@ DUNA PRESS — CLASSIFICAÇÃO DE INDEXAÇÃO
 ==============================================================
 Piso editorial: 300 palavras · vazio: <40
 
-Acervo total ............  19557
-Indexado (o jornal) .....   5217    26.7%
-noindex, follow .........  14175    72.5%
+Acervo total ............  20335
+Indexado (o jornal) .....   5984    29.4%
+noindex, follow .........  14186    69.8%
 410 Gone (vazios) .......    165     0.8%
   dos indexados, preservados por tráfego: 138
 
 MOTIVOS DE EXCLUSÃO  (um artigo pode ter mais de um)
 --------------------------------------------------------------
-  noticia       10064    51.5% do acervo
-  agencia        8608    44.0% do acervo
-  curto          4744    24.3% do acervo
+  noticia       10064    49.5% do acervo
+  agencia        8608    42.3% do acervo
+  curto          4755    23.4% do acervo
   duplicado       101     0.5% do acervo
 
 SOBREPOSIÇÃO DOS MOTIVOS
@@ -20,7 +20,7 @@ SOBREPOSIÇÃO DOS MOTIVOS
   agencia + noticia              4616
   noticia                        2862
   agencia                        1871
-  curto                          1430
+  curto                          1441
   curto + agencia + noticia      1336
   curto + noticia                1197
   curto + agencia                 760
@@ -43,18 +43,18 @@ O QUE SOBRA, POR ANO
   2021        315    2315    █████
   2022        411    3319    ███████
   2023       1835    5447    ███████████████████████████████
-  2024       1121    1977    ███████████████████
-  2025         14      15    
-  2026        572     733    ██████████
+  2024       1182    2048    ████████████████████
+  2025        616     618    ██████████
+  2026        676     837    ███████████
 
 O QUE SOBRA, POR EDITORIA
 --------------------------------------------------------------
   Brasil                 449 de 10793     4.2%
-  Mundo                 1048 de 2445     42.9%
-  Cultura               1219 de 1639     74.4%
-  Ciência & Saúde        915 de 1341     68.2%
-  Economia               367 de 1117     32.9%
+  Mundo                 1330 de 2733     48.7%
+  Cultura               1329 de 1752     75.9%
+  Ciência & Saúde       1038 de 1465     70.9%
+  Economia               464 de 1214     38.2%
   Política               227 de 1102     20.6%
-  Esportes               577 de 630      91.6%
-  Opinião                220 de 269      81.8%
-  Tecnologia             195 de 221      88.2%
+  Esportes               583 de 636      91.7%
+  Tecnologia             342 de 369      92.7%
+  Opinião                222 de 271      81.9%

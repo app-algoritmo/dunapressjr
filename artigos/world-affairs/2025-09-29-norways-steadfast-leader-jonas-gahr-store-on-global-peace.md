@@ -1,0 +1,51 @@
+---
+title: "Norway's Steadfast Leader: Jonas Gahr Støre on Global Peace, Domestic Stability, and the Path Ahead"
+subtitle: "Dive into Norway's PM Jonas Gahr Støre's thoughts on Gaza, Trump, and Europe's future in this exclusive analysis of his interview on The Rest Is Politics."
+description: "Dive into Norway's PM Jonas Gahr Støre's thoughts on Gaza, Trump, and Europe's future in this exclusive analysis of his interview on The Rest Is Politics. A must-read for global affairs…"
+date: 2025-09-29
+status: publish
+author: "Paulo Fernando de Barros"
+categories: "mundo"
+formato: analise
+proveniencia: humano
+revisor: Paulo Fernando de Barros
+fonte_primaria: ""
+fonte_nome: "Arquivo Duna Press / The Boreal Times"
+data_do_fato: 2025-09-29
+featuredImage: "https://dunaong.wpcomstaging.com/wp-content/uploads/2025/09/norways-steadfast-leader_-jonas-gahr-store.jpeg"
+photoAuthor: ""
+photoSource: "Arquivo Duna Press"
+idioma: en
+tags:
+  - gaza conflict
+  - globalleadership
+  - international relations
+  - norway politics
+  - norwaypolitics
+---
+
+## Norway PM Jonas Gahr Støre on Gaza, Trump, and Europe's Future: Exclusive Analysis from The Rest Is Politics Interview
+
+In a world increasingly defined by geopolitical tensions, economic uncertainties, and humanitarian crises, leaders like Norwegian Prime Minister Jonas Gahr Støre stand out for their measured, principled approach. On September 1, in an engaging episode of *The Rest Is Politics: Leading* titled "The Man Standing Between Trump and a Nobel Peace Prize? | Prime Minister of Norway, Jonas Gahr Støre," hosts Rory Stewart and Alastair Campbell delved into a wide-ranging conversation with Støre. As Norway's leader since 2021, Støre shared his perspectives on everything from the Gaza conflict to relations with the United States, Europe's evolving landscape, and Norway's unique position as a small but influential nation. Drawing from the transcription of this interview, this article offers a humanized, exclusive take on Støre's insights—grounded in facts, infused with nuance, and aimed at unpacking how one Nordic leader navigates the complexities of our time.
+
+Støre's background paints a picture of a thoughtful politician who arrived at his role through a deliberate path, not a rushed ascent. Born in 1960, he didn't join the Labour Party until he was 35, after years of studying at Sciences Po in Paris and serving in various advisory roles. He reflected on his time abroad, noting how it sharpened his appreciation for Norway's social democratic model—emphasizing equality, trust, and opportunity. "I saw some of the inequality in France," he said, contrasting it with Norway's strengths. His career included stints as a special adviser to former Prime Minister Gro Harlem Brundtland and chief of staff to Jens Stoltenberg, who later became NATO Secretary General and is now back as Støre's finance minister. This continuity in Norwegian politics is striking; unlike the UK's recent carousel of leaders, Norway benefits from fixed parliamentary terms and a culture of stability. Støre himself served as foreign minister for seven years under Stoltenberg, honing his expertise in international affairs.
+
+One of the interview's most compelling threads was Støre's discussion of Norway's sovereign wealth fund, often hailed as a model of prudent resource management. With a population similar to Scotland's—around 5.5 million—Norway has transformed its North Sea oil revenues into the world's largest sovereign wealth fund, valued at over $1.7 trillion as of recent estimates. Støre explained its philosophy: "We are transferring values from under the seabed into a financial mechanism which is basically there for future generations." The fund invests in thousands of companies globally, owning about 1-2% of world equity, but avoids political interference. Norway draws only up to 3% of returns annually for its budget—currently at 2.6% for 2025—ensuring sustainability. This contrasts sharply with how other oil-rich nations have squandered resources. Yet, Støre acknowledged that wealth alone doesn't equate to happiness. Recounting a conversation with a 100-year-old woman, he noted how modern worries like social media, climate change, and wars burden younger generations more than material scarcity did in the past. It's a poignant reminder that even in a prosperous society, politics must address intangible human needs.
+
+Domestically, Støre is gearing up for reelection in a system where no party dominates overwhelmingly—Labour typically hovers in the 20-30% range. He leads a minority government and faces challenges from the populist Progress Party on the right, which he described as part of Europe's populist family but distinct from more extreme figures like Geert Wilders or Marine Le Pen. "They belong to the democratic tradition," he said, noting their past role in government. His critique of Conservative leader Erna Solberg, his predecessor, centered on her policies favoring tax breaks for the wealthy, privatization in health and education, and growing dependence on the Progress Party. Støre emphasized Labour's close ties to unions, a key difference from models like New Labour under Tony Blair, whom he admires but diverges from on this point. "The link to organized labor is important for the reform efforts of this society," he argued. On the left, smaller parties pose less of a threat, and Støre is clear on non-negotiables: NATO membership, the European Economic Area (EEA) agreement, and responsible fiscal policy.
+
+Turning to foreign policy, Støre's voice carried the weight of Norway's historical role as a mediator. Sharing a border with Russia—home to the world's largest nuclear arsenal—Norway prioritizes alliances like NATO. Støre recounted telling President Trump directly: "100 km from my border is the world's largest nuclear arsenal, and it's not directed against me, but against you." This mutual interest underscores Norway's strategic value. On Ukraine, Norway has provided substantial aid, achieving parliamentary unanimity on defense plans and support packages. Støre's optimism about transatlantic ties persists, even amid U.S. policy swings, but he warned of the risks: cuts to USAID and global health initiatives create vacuums that China fills, eroding American soft power.
+
+The Gaza discussion revealed Støre's principled stance, setting Norway apart from many European nations. He condemned Hamas's October 7 attacks as terrorism and affirmed Israel's right to self-defense, but criticized the response as disproportionate and potentially constituting war crimes. "What we are witnessing is probably the biggest humanitarian disaster in our lifetime close to us," he said, highlighting the destruction in Gaza—80% of buildings razed, starvation rampant. Norway recognized Palestine a year ago, alongside Spain, Ireland, and Slovenia, to uphold Palestinians' rights under the UN Charter and counter extremism. This builds on Norway's legacy with the Oslo Accords in the 1990s, where it chaired donor support for the Palestinian Authority. Støre believes a two-state solution remains essential, despite Netanyahu's government's opposition. He urged a ceasefire, humanitarian aid, and hostage releases, emphasizing the "day after the day after" for sustainable peace. Notably, he sees the U.S. as pivotal, having discussed Gaza with Trump and advisor Steve Witkoff, sensing Trump's sensitivity to civilian suffering.
+
+Europe's future loomed large in the conversation. Norway's EEA membership allows access to the EU's single market without full membership—70% of exports go there—despite two failed referendums in 1972 and 1994. Støre regrets the democratic deficit but sees it as workable for a small nation. He advised post-Brexit Britain against adopting a similar model, given its size and desire for sovereignty. Praising UK Prime Minister Keir Starmer's pragmatic reconnection with Europe, Støre highlighted deepening bilateral ties in defense, green energy, and industry. He envisions a broader "European political community" encompassing non-EU states like the UK, Norway, Ukraine, and Turkey to tackle migration, energy, and security. On AI, he acknowledged U.S. and Chinese dominance but called for European strategic autonomy through competitiveness reports like Mario Draghi's, focusing on telecom, energy, and capital markets. Norway's appeal to tech giants like OpenAI for data centers in the north underscores potential transatlantic collaboration.
+
+Støre's reflections on global shifts—from the post-Cold War optimism to today's populism and authoritarianism—were sobering. He rejected the notion that the world once aspired to be "Norway," instead emphasizing ongoing complexity. Citing negotiations with Russia's Sergey Lavrov in 2010, which resolved Arctic border disputes amicably, he contrasted it with Russia's current aggression. Yet, he remains hopeful: "We should believe in what we can do together." On Elon Musk, whom he debated years ago, Støre noted a shift from a reserved innovator promoting EVs—Norway leads with over 90% non-fossil new car sales—to a more polarizing figure in U.S. politics.
+
+Immigration, a hot-button issue elsewhere, is handled with nuance in Norway. Støre advocates a common European approach, noting successful integration of nearly 100,000 Ukrainians. He resists populist fear-mongering, staying true to Nordic values of openness balanced with security.
+
+Finally, on Trump's Nobel Peace Prize aspirations—tied to Alfred Nobel's will—Støre diplomatically noted the committee's independence, having weathered strains like China's backlash after awarding Liu Xiaobo. He quipped that striving for peace is laudable, but prizes go to those making genuine contributions.
+
+Jonas Gahr Støre embodies a leadership style that's reflective, value-driven, and forward-looking—rare in today's polarized arena. As Norway faces reelection, his vision offers lessons for a world grappling with division: prioritize unity, ethical investment, and international cooperation. In an era of uncertainty, Støre's steady hand reminds us that small nations can punch above their weight by staying true to their principles.
+
+Share your thoughts in the comments, and explore more insights on our Journal and Magazine. Please consider becoming a subscriber, thank you:

@@ -1,8 +1,8 @@
 DUNA PRESS — DIAGNÓSTICO DO ACERVO
 ====================================================
 
-Artigos publicados ........ 19.557
-Redirects 301 gerados ..... 19.557
+Artigos publicados ........ 20.335
+Redirects 301 gerados ..... 20.335
 Colisões de slug ajustadas  141
 Slugs reservados desviados  2   ← disputavam endereço de seção
 Categorias de origem ...... 83 → 9 editorias
@@ -10,26 +10,26 @@ Categorias de origem ...... 83 → 9 editorias
 POR EDITORIA
 ----------------------------------------------------
 Brasil              10793   (9 categorias absorvidas)
-Mundo                2445   (8 categorias absorvidas)
-Economia             1117   (8 categorias absorvidas)
+Mundo                2733   (8 categorias absorvidas)
+Economia             1214   (8 categorias absorvidas)
 Política             1102   (4 categorias absorvidas)
-Ciência & Saúde      1341   (14 categorias absorvidas)
-Tecnologia            221   (6 categorias absorvidas)
-Cultura              1639   (23 categorias absorvidas)
-Esportes              630   (7 categorias absorvidas)
-Opinião               269   (3 categorias absorvidas)
+Ciência & Saúde      1465   (14 categorias absorvidas)
+Tecnologia            369   (6 categorias absorvidas)
+Cultura              1752   (23 categorias absorvidas)
+Esportes              636   (7 categorias absorvidas)
+Opinião               271   (3 categorias absorvidas)
 
 ORIGEM DO SLUG
 ----------------------------------------------------
-wordpress: data+slug          16100   82.3%
-wordpress: título              1852    9.5%
-derivado do título             1605    8.2%
+wordpress: data+slug          16877   83.0%
+wordpress: título              1853    9.1%
+derivado do título             1605    7.9%
 
 POR PORTE
 ----------------------------------------------------
-Longa (800+ palavras)     3222
-Média (300–799)          11356
-Curta (<300)              4979   ← candidatos a arquivo
+Longa (800+ palavras)     3772
+Média (300–799)          11573
+Curta (<300)              4990   ← candidatos a arquivo
 
 POR ANO
 ----------------------------------------------------
@@ -40,6 +40,6 @@ POR ANO
 2021   2315  ███████████████████
 2022   3319  ████████████████████████████
 2023   5447  █████████████████████████████████████████████
-2024   1977  ████████████████
-2025     15  █
-2026    733  ██████
+2024   2048  █████████████████
+2025    618  █████
+2026    837  ███████
