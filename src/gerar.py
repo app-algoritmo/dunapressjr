@@ -284,11 +284,39 @@ def rodape(editorias, total):
 </div></footer>"""
 
 
+# Cartão de compartilhamento. WhatsApp, Telegram, Facebook, Instagram e
+# LinkedIn leem Open Graph; o X lê Twitter Cards e cai no Open Graph quando
+# elas faltam. Sem og:image não há cartão nenhum: o link vai cru.
+IMAGEM_PADRAO = "https://dunapress.org/assets/img/duna-share.jpg"
+
+
+def absoluta(url):
+    """Redes sociais exigem URL absoluta. Caminho relativo não renderiza."""
+    url = (url or "").strip()
+    if not url:
+        return IMAGEM_PADRAO
+    if url.startswith(("http://", "https://")):
+        return url
+    return "https://dunapress.org/" + url.lstrip("/")
+
+
 def pagina(titulo, descricao, miolo, editorias, total, atual=None, edicao=0,
-           classe="", indexar=True, canonico="/"):
+           classe="", indexar=True, canonico="/", imagem="", tipo="website",
+           publicado="", secao=""):
     robots = ('<meta name="robots" content="index, follow, max-snippet:-1, '
               'max-image-preview:large">' if indexar else
               '<meta name="robots" content="noindex, follow">')
+    # No cartão o nome do jornal já aparece embaixo; repeti-lo no título
+    # rouba espaço da manchete.
+    titulo_social = titulo.replace(" — Duna Press", "")
+    img = absoluta(imagem)
+    url_abs = f"https://dunapress.org{canonico}"
+    artigo = ""
+    if tipo == "article":
+        if publicado:
+            artigo += f'\n<meta property="article:published_time" content="{e(publicado)}">'
+        if secao:
+            artigo += f'\n<meta property="article:section" content="{e(secao)}">'
     return f"""<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -297,11 +325,20 @@ def pagina(titulo, descricao, miolo, editorias, total, atual=None, edicao=0,
 <title>{e(titulo)}</title>
 <meta name="description" content="{e(descricao)}">
 {robots}
-<meta property="og:type" content="website">
+<meta property="og:type" content="{tipo}">
 <meta property="og:site_name" content="Duna Press">
-<meta property="og:title" content="{e(titulo)}">
+<meta property="og:title" content="{e(titulo_social)}">
 <meta property="og:description" content="{e(descricao)}">
 <meta property="og:locale" content="pt_BR">
+<meta property="og:url" content="{e(url_abs)}">
+<meta property="og:image" content="{e(img)}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{e(titulo_social)}">{artigo}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{e(titulo_social)}">
+<meta name="twitter:description" content="{e(descricao)}">
+<meta name="twitter:image" content="{e(img)}">
 <link rel="preload" href="/assets/fonts/spectral-600.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/source-serif-400.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{versao('assets/css/fontes.css')}">
@@ -845,7 +882,9 @@ def montar_artigo(m, a, edicao):
 <script type="application/ld+json">{ld}</script>"""
     return pagina(f'{a["titulo"]} — Duna Press', a["olho"][:180], miolo,
                   eds, len(arts), a["editoria"], edicao,
-                  indexar=a.get("indexar", True), canonico=a["url"])
+                  indexar=a.get("indexar", True), canonico=a["url"],
+                  imagem=a.get("imagem", ""), tipo="article",
+                  publicado=a.get("data", ""), secao=a.get("editoria_nome", ""))
 
 
 def main():
