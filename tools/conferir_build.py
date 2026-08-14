@@ -24,6 +24,12 @@ MINIMO_SITEMAP = 3000
 # desgovernado; o peso em GB é a checagem que importa de fato.
 TETO_ARQUIVOS = int(os.environ.get("DP_TETO_ARQUIVOS", "250000"))
 
+# Só a meta tag conta como noindex. Procurar a palavra solta no HTML
+# reprova matéria que apenas fala do assunto — uma reportagem sobre
+# rastreadores web cita "noindex" no corpo e não está desindexada.
+META_NOINDEX = re.compile(
+    r'<meta[^>]+name=["\']robots["\'][^>]*content=["\'][^"\']*noindex', re.I)
+
 falhas, avisos = [], []
 
 
@@ -78,11 +84,15 @@ def main():
                 if os.path.basename(os.path.dirname(f)) not in secoes]
     exigir(len(materias) > 0, "nenhuma página de matéria gerada")
 
+    urls_sitemap = set(re.findall(r"<loc>https://dunapress\.org([^<]*)</loc>", sm))
+
     robots = Counter()
     sem_titulo = sem_selo = sem_ld = 0
+    conflitos = []
     for f in materias:
         h = open(f, encoding="utf-8").read()
-        robots["noindex" if "noindex" in h else "index"] += 1
+        noindex = bool(META_NOINDEX.search(h))
+        robots["noindex" if noindex else "index"] += 1
         if not re.search(r"<h1>[^<]+</h1>", h):
             sem_titulo += 1
         if "class=\"selo" not in h:
@@ -90,18 +100,21 @@ def main():
         if '"@type": "NewsArticle"' not in h:
             sem_ld += 1
 
+        # ── Só o que está no sitemap pode ser indexável ──────────────────
+        # Sem break: interromper no primeiro conflito esconde os demais e
+        # obriga a rodar o build de novo a cada correção.
+        url = "/" + os.path.relpath(f, SITE).replace("\\", "/").replace("index.html", "")
+        if noindex and url in urls_sitemap:
+            conflitos.append(url)
+
     exigir(sem_titulo == 0, f"{sem_titulo} matérias sem <h1>")
     exigir(sem_selo == 0, f"{sem_selo} matérias sem selo de proveniência")
     exigir(sem_ld == 0, f"{sem_ld} matérias sem JSON-LD")
 
-    # ── Só o que está no sitemap pode ser indexável ──────────────────────
-    urls_sitemap = set(re.findall(r"<loc>https://dunapress\.org([^<]*)</loc>", sm))
-    for f in materias:
-        h = open(f, encoding="utf-8").read()
-        url = "/" + os.path.relpath(f, SITE).replace("\\", "/").replace("index.html", "")
-        if "noindex" in h and url in urls_sitemap:
-            falhas.append(f"no sitemap mas com noindex: {url}")
-            break
+    if conflitos:
+        falhas.append(f"{len(conflitos)} no sitemap mas com noindex: "
+                      + ", ".join(conflitos[:6])
+                      + (f" (e mais {len(conflitos) - 6})" if len(conflitos) > 6 else ""))
 
     # ── Índice de busca ──────────────────────────────────────────────────
     busca = json.load(open(os.path.join(SITE, "api", "busca.json"), encoding="utf-8"))
@@ -163,16 +176,18 @@ def main():
         r'href="[^"]*(?:nubank\.com\.br/pagar|picpay\.me|pix[-_]?autorizado'
         r'|hotmart\.com|monetizze|eduzz|kiwify|braip'
         r'|[?&](?:ref|aff|afiliado)=)[^"]*"', re.I)
-    for f in materias[:600]:
+    comerciais = []
+    for f in materias:
         h = open(f, encoding="utf-8").read()
         m = CORPO.search(h)
         if not m:
             continue
         achado = LINK_COMERCIAL.search(m.group(1))
         if achado:
-            falhas.append(f"link comercial em {os.path.relpath(f, SITE)}: "
-                          f"{achado.group()[:70]}")
-            break
+            comerciais.append(f"{os.path.relpath(f, SITE)}: {achado.group()[:70]}")
+    if comerciais:
+        falhas.append(f"{len(comerciais)} link(s) comercial(is): "
+                      + "; ".join(comerciais[:4]))
 
     relatar(n, len(materias), robots, capa)
 
