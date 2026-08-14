@@ -3,6 +3,9 @@
 :root{
   --papel:#FCFCFA; --papel-2:#F2F2EE; --papel-3:#E9E9E4;
   --tinta:#15171B; --tinta-2:#5A5F67; --tinta-3:#868B92;
+  /* Tom para notas de procedência: presente para quem procura,
+     invisível para quem só lê. */
+  --tinta-4:#AEB2B8;
   --fio:#D7D8D3; --fio-2:#BFC1BB;
   --marca:#1D3B5A; --urgente:#A02D22;
   --display:"Spectral",Georgia,serif;
@@ -268,11 +271,11 @@ pre.codigo code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
    Continua legível para quem procura — a página de princípios promete
    isso ao leitor — sem disputar a linha. */
 .selo{font-family:var(--util);font-size:9.5px;font-weight:400;
-  letter-spacing:.07em;text-transform:uppercase;color:var(--tinta-3);
+  letter-spacing:.07em;text-transform:uppercase;color:var(--tinta-4);
   padding:0;border:0}
-.selo-h,.selo-ia,.selo-auto{color:var(--tinta-3);border:0;font-weight:400}
+.selo-h,.selo-ia,.selo-auto{color:var(--tinta-4);border:0;font-weight:400}
 .assinatura .selo+.sep{opacity:.5}
-.assinatura .revisao{font-size:.92em;color:var(--tinta-3)}
+.assinatura .revisao{font-size:.92em;color:var(--tinta-4)}
 .ficha{display:grid;grid-template-columns:88px 1fr;gap:22px;align-items:start;
   border-bottom:2px solid var(--tinta);padding-bottom:24px;margin-bottom:28px}
 .ficha .retrato{width:88px;height:88px;flex:0 0 88px;font-size:27px}
