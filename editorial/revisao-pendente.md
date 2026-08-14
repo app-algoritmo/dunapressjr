@@ -12,3 +12,5 @@ humana. Ao revisar, troque `revisao_humana: pendente` por
 - [ ] `2026-08-13` [MIT lança série de documentários sobre inovadores e exibe filme sobre ](/2026/08/13/mit-lanca-serie-de-documentarios-sobre-inovadores-e-exibe-filme-sobre/) — tecnologia · fonte: [MIT News](https://news.mit.edu/2026/featured-video-mit-story-paula-hammond-0812)
 - [ ] `2026-08-13` [MIT vai liderar centro de pesquisa em materiais financiado pela NSF co](/2026/08/13/mit-vai-liderar-centro-de-pesquisa-em-materiais-financiado-pela-nsf-com/) — tecnologia · fonte: [MIT News](https://news.mit.edu/2026/mit-to-lead-nsf-materials-research-center-0812)
       - publicada sem conferência de fatos (amostragem)
+- [ ] `2026-08-14` [Cadillac confirma que demissão de Lowdon foi decisão unilateral e que ](/2026/08/14/cadillac-confirma-que-demissao-de-lowdon-foi-decisao-unilateral-e-que/) — esportes · fonte: [Autosport F1](https://www.autosport.com/f1/news/cadillac-confirms-lowdons-exit-wasnt-mutual/10845973/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+      - publicada sem conferência de fatos (amostragem)
