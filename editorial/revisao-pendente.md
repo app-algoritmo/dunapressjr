@@ -16,3 +16,5 @@ humana. Ao revisar, troque `revisao_humana: pendente` por
       - publicada sem conferência de fatos (amostragem)
 - [ ] `2026-08-14` [Cadillac troca de chefe às vésperas do GP da Holanda e contrata ex-dir](/2026/08/14/cadillac-troca-de-chefe-as-vesperas-do-gp-da-holanda-e-contrata-ex/) — esportes · fonte: [Autosport F1](https://www.autosport.com/f1/news/budkowski-replaces-lowdon-as-cadillac-f1-boss/10845943/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
       - publicada sem conferência de fatos (amostragem)
+- [ ] `2026-08-15` [ESA transforma dados do eclipse solar de agosto de 2026 em composição ](/2026/08/15/esa-transforma-dados-do-eclipse-solar-de-agosto-de-2026-em-composicao/) — ciencia-e-saude · fonte: [ESA](https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse)
+      - publicada sem conferência de fatos (amostragem)
