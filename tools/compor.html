@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Compor matéria — Duna Press</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600;700&family=Libre+Franklin:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --papel:#FAF9F6;
+  --tinta:#15171B;
+  --grafite:#5A5F67;
+  --regua:#DDDAD2;
+  --campo:#FFFFFF;
+  --aviso:#B3261E;
+  --ok:#2E6B45;
+}
+
+*{box-sizing:border-box}
+
+body{
+  margin:0;
+  background:var(--papel);
+  color:var(--tinta);
+  font-family:"Libre Franklin",-apple-system,BlinkMacSystemFont,sans-serif;
+  font-size:15px;
+  line-height:1.5;
+}
+
+/* ── Cabeçalho: o mesmo da capa, em escala de ferramenta ───────────── */
+
+.cabecalho{
+  border-bottom:3px solid var(--tinta);
+  padding:20px 28px 16px;
+  display:flex;
+  align-items:baseline;
+  justify-content:space-between;
+  gap:24px;
+  flex-wrap:wrap;
+}
+
+.marca{
+  font-family:"Spectral",Georgia,serif;
+  font-weight:700;
+  font-size:30px;
+  letter-spacing:-.02em;
+  line-height:1;
+}
+
+.tarefa{
+  font-size:11px;
+  font-weight:600;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--grafite);
+}
+
+/* ── Duas colunas: formulário e prova ──────────────────────────────── */
+
+.oficina{
+  display:grid;
+  grid-template-columns:minmax(0,1fr) minmax(0,1fr);
+  gap:0;
+  align-items:start;
+}
+
+.formulario{
+  padding:26px 28px 80px;
+  border-right:1px solid var(--regua);
+}
+
+.prova{
+  padding:26px 28px 80px;
+  position:sticky;
+  top:0;
+  max-height:100vh;
+  overflow-y:auto;
+}
+
+/* ── Blocos do formulário ──────────────────────────────────────────── */
+
+.bloco{
+  border-top:1px solid var(--regua);
+  padding:20px 0 4px;
+}
+.bloco:first-of-type{border-top:0;padding-top:0}
+
+.bloco > h2{
+  font-size:11px;
+  font-weight:700;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--grafite);
+  margin:0 0 14px;
+}
+
+.linha{display:flex;gap:14px;flex-wrap:wrap}
+.linha > *{flex:1 1 150px;min-width:0}
+
+label{display:block;margin-bottom:14px}
+
+.rotulo{
+  display:block;
+  font-size:12px;
+  font-weight:600;
+  margin-bottom:5px;
+}
+
+.dica{
+  display:block;
+  font-size:11.5px;
+  font-weight:400;
+  color:var(--grafite);
+  margin-top:4px;
+  line-height:1.45;
+}
+
+input[type=text],
+input[type=date],
+input[type=url],
+select,
+textarea{
+  width:100%;
+  font-family:inherit;
+  font-size:14px;
+  color:var(--tinta);
+  background:var(--campo);
+  border:1px solid var(--regua);
+  border-radius:0;
+  padding:9px 11px;
+  transition:border-color .12s;
+}
+
+input:focus,select:focus,textarea:focus{
+  outline:none;
+  border-color:var(--tinta);
+  box-shadow:inset 0 -2px 0 var(--tinta);
+}
+
+textarea{resize:vertical;line-height:1.6}
+
+textarea#corpo{
+  font-family:"Spectral",Georgia,serif;
+  font-size:16px;
+  min-height:340px;
+}
+
+/* Contador de caracteres do resumo */
+.medida{
+  font-size:11.5px;
+  color:var(--grafite);
+  margin-top:4px;
+  font-variant-numeric:tabular-nums;
+}
+.medida.estourou{color:var(--aviso);font-weight:600}
+
+/* ── Etiquetas ─────────────────────────────────────────────────────── */
+
+.etiquetas{
+  display:flex;
+  flex-wrap:wrap;
+  gap:6px;
+  align-items:center;
+  border:1px solid var(--regua);
+  background:var(--campo);
+  padding:7px 8px;
+  min-height:40px;
+}
+
+.etiqueta{
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  background:var(--tinta);
+  color:var(--papel);
+  font-size:12px;
+  font-weight:500;
+  padding:3px 4px 3px 9px;
+}
+
+.etiqueta button{
+  border:0;background:none;color:inherit;
+  font-size:15px;line-height:1;cursor:pointer;
+  padding:0 4px;opacity:.65;
+}
+.etiqueta button:hover{opacity:1}
+
+.etiquetas input{
+  flex:1 1 110px;
+  border:0;padding:4px 2px;font-size:13px;
+  background:none;min-width:80px;
+}
+.etiquetas input:focus{outline:none;box-shadow:none}
+
+/* ── Prova ─────────────────────────────────────────────────────────── */
+
+.destino{
+  font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-size:12px;
+  background:var(--tinta);
+  color:var(--papel);
+  padding:10px 12px;
+  word-break:break-all;
+  line-height:1.5;
+}
+.destino .rotulo-destino{
+  display:block;
+  font-family:"Libre Franklin",sans-serif;
+  font-size:10px;
+  font-weight:600;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  opacity:.6;
+  margin-bottom:5px;
+}
+
+pre#saida{
+  font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-size:12.5px;
+  line-height:1.65;
+  background:var(--campo);
+  border:1px solid var(--regua);
+  padding:16px;
+  margin:14px 0 0;
+  white-space:pre-wrap;
+  word-break:break-word;
+  max-height:52vh;
+  overflow-y:auto;
+}
+
+.alertas{margin:14px 0 0;display:flex;flex-direction:column;gap:7px}
+
+.alerta{
+  font-size:12.5px;
+  line-height:1.5;
+  padding:9px 11px;
+  border-left:3px solid var(--aviso);
+  background:#FBF2F1;
+}
+.alerta.leve{border-left-color:var(--grafite);background:#F2F1ED}
+.alerta.bom{border-left-color:var(--ok);background:#EFF5F1}
+
+.acoes{
+  display:flex;gap:10px;flex-wrap:wrap;
+  margin-top:16px;
+  padding-top:16px;
+  border-top:1px solid var(--regua);
+}
+
+button.acao{
+  font-family:inherit;
+  font-size:13px;
+  font-weight:600;
+  letter-spacing:.02em;
+  padding:11px 20px;
+  border:1.5px solid var(--tinta);
+  background:var(--papel);
+  color:var(--tinta);
+  cursor:pointer;
+  transition:background .14s,color .14s;
+}
+button.acao:hover{background:var(--tinta);color:var(--papel)}
+button.acao.forte{background:var(--tinta);color:var(--papel)}
+button.acao.forte:hover{background:var(--papel);color:var(--tinta)}
+button.acao:focus-visible{outline:2px solid var(--tinta);outline-offset:2px}
+
+.comando{
+  margin-top:14px;
+  font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-size:11.5px;
+  color:var(--grafite);
+  line-height:1.7;
+  word-break:break-all;
+}
+
+@media (max-width:900px){
+  .oficina{grid-template-columns:1fr}
+  .formulario{border-right:0;border-bottom:1px solid var(--regua);padding-bottom:28px}
+  .prova{position:static;max-height:none}
+  pre#saida{max-height:none}
+}
+
+@media (prefers-reduced-motion:reduce){
+  *{transition:none!important}
+}
+</style>
+</head>
+<body>
+
+<header class="cabecalho">
+  <div class="marca">Duna Press</div>
+  <div class="tarefa">Compor matéria</div>
+</header>
+
+<div class="oficina">
+
+  <!-- ── Formulário ─────────────────────────────────────────────── -->
+  <div class="formulario">
+
+    <div class="bloco">
+      <h2>Texto</h2>
+
+      <label>
+        <span class="rotulo">Título</span>
+        <input type="text" id="title" placeholder="Diz o que aconteceu">
+        <span class="dica">Sem pergunta, sem promessa de revelação.</span>
+      </label>
+
+      <label>
+        <span class="rotulo">Linha de apoio</span>
+        <textarea id="subtitle" rows="2" placeholder="Uma frase com o dado que sustenta o título"></textarea>
+      </label>
+
+      <label>
+        <span class="rotulo">Resumo</span>
+        <textarea id="description" rows="2" placeholder="O que aparece na capa e no Google"></textarea>
+        <span class="medida" id="medida-desc">0 caracteres</span>
+      </label>
+    </div>
+
+    <div class="bloco">
+      <h2>Publicação</h2>
+
+      <div class="linha">
+        <label>
+          <span class="rotulo">Data de publicação</span>
+          <input type="date" id="date">
+        </label>
+        <label>
+          <span class="rotulo">Situação</span>
+          <select id="status">
+            <option value="publish">publish</option>
+            <option value="draft">draft</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="linha">
+        <label>
+          <span class="rotulo">Assinatura</span>
+          <input type="text" id="author" value="Redação Duna Press">
+        </label>
+        <label>
+          <span class="rotulo">Editoria</span>
+          <input type="text" id="categories" list="pastas" placeholder="nome da pasta">
+          <datalist id="pastas">
+            <option value="brasil"></option>
+            <option value="world-affairs"></option>
+            <option value="business-and-economy"></option>
+            <option value="politics-and-society"></option>
+            <option value="health"></option>
+            <option value="ciencia-e-saude"></option>
+            <option value="technology"></option>
+            <option value="tecnologia"></option>
+            <option value="culture-and-history"></option>
+            <option value="sports"></option>
+            <option value="esportes"></option>
+            <option value="opinion"></option>
+            <option value="editorial"></option>
+          </datalist>
+          <span class="dica">Tem que ser o nome exato de uma pasta em <code>artigos/</code>.</span>
+        </label>
+      </div>
+
+      <div class="linha">
+        <label>
+          <span class="rotulo">Formato</span>
+          <select id="formato">
+            <option>explicador</option>
+            <option>reportagem</option>
+            <option>analise</option>
+            <option>nota</option>
+            <option>opiniao</option>
+          </select>
+        </label>
+        <label>
+          <span class="rotulo">Proveniência</span>
+          <select id="proveniencia">
+            <option value="ia-assistido">ia-assistido</option>
+            <option value="ia-autonomo">ia-autonomo</option>
+            <option value="humano">humano</option>
+          </select>
+        </label>
+      </div>
+
+      <label id="campo-revisor">
+        <span class="rotulo">Revisor</span>
+        <input type="text" id="revisor" value="Paulo Fernando De Barros">
+      </label>
+    </div>
+
+    <div class="bloco">
+      <h2>Origem</h2>
+
+      <label>
+        <span class="rotulo">Fonte primária</span>
+        <input type="url" id="fonte_primaria" placeholder="https://">
+        <span class="dica">O documento original — não outra reportagem sobre ele.</span>
+      </label>
+
+      <div class="linha">
+        <label>
+          <span class="rotulo">Nome da fonte</span>
+          <input type="text" id="fonte_nome" placeholder="Agência Brasil, NASA, Nature…">
+        </label>
+        <label>
+          <span class="rotulo">Data do fato</span>
+          <input type="date" id="data_do_fato">
+        </label>
+      </div>
+    </div>
+
+    <div class="bloco">
+      <h2>Imagem</h2>
+
+      <label>
+        <span class="rotulo">Endereço da foto</span>
+        <input type="url" id="featuredImage" placeholder="https://images.unsplash.com/photo-…">
+      </label>
+
+      <div class="linha">
+        <label>
+          <span class="rotulo">Fotógrafo</span>
+          <input type="text" id="photoAuthor" placeholder="Nome do fotógrafo">
+        </label>
+        <label>
+          <span class="rotulo">Banco de imagem</span>
+          <input type="text" id="photoSource" value="Unsplash">
+        </label>
+      </div>
+    </div>
+
+    <div class="bloco">
+      <h2>Etiquetas</h2>
+      <div class="etiquetas" id="etiquetas">
+        <input type="text" id="entrada-tag" placeholder="Digite e tecle Enter" aria-label="Nova etiqueta">
+      </div>
+    </div>
+
+    <div class="bloco">
+      <h2>Corpo</h2>
+      <label>
+        <textarea id="corpo" placeholder="O texto da matéria, em Markdown.
+
+Intertítulo com ## no início da linha."></textarea>
+        <span class="dica" id="contagem">0 palavras</span>
+      </label>
+    </div>
+
+  </div>
+
+  <!-- ── Prova ──────────────────────────────────────────────────── -->
+  <div class="prova">
+
+    <div class="destino">
+      <span class="rotulo-destino">Onde o arquivo vai</span>
+      <span id="caminho">artigos/…/…</span>
+    </div>
+
+    <div class="alertas" id="alertas"></div>
+
+    <pre id="saida"></pre>
+
+    <div class="acoes">
+      <button class="acao forte" id="baixar">Baixar o arquivo</button>
+      <button class="acao" id="copiar">Copiar o texto</button>
+    </div>
+
+    <div class="comando" id="comando"></div>
+
+  </div>
+</div>
+
+<script>
+"use strict";
+
+// Campos simples: id do elemento = nome do campo no frontmatter.
+// A ordem aqui é a ordem em que saem no arquivo, e ela importa: o acervo
+// inteiro segue essa sequência, e manter o padrão facilita a leitura de
+// um diff no git.
+var CAMPOS = [
+  "title", "subtitle", "description", "date", "status", "author",
+  "categories", "formato", "proveniencia", "revisor",
+  "fonte_primaria", "fonte_nome", "data_do_fato",
+  "featuredImage", "photoAuthor", "photoSource"
+];
+
+// Campos que saem sem aspas — datas e valores de vocabulário fechado.
+var SEM_ASPAS = ["date", "status", "formato", "proveniencia", "data_do_fato"];
+
+var tags = [];
+
+function el(id){ return document.getElementById(id); }
+function valor(id){ var e = el(id); return e ? e.value.trim() : ""; }
+
+// Slug sem acento: nomes com acento ficam invisíveis para o migrar.py.
+function slugificar(texto){
+  return texto
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, "")
+    .trim()
+    .replace(/\s+/g, "-")
+    .replace(/-+/g, "-")
+    .slice(0, 70)
+    .replace(/-$/, "");
+}
+
+// Aspas duplas dentro de um valor entre aspas duplas quebram o YAML.
+function escapar(texto){
+  return texto.replace(/\\/g, "\\\\").replace(/"/g, '\\"');
+}
+
+function nomeDoArquivo(){
+  var d = valor("date") || new Date().toISOString().slice(0, 10);
+  var s = slugificar(valor("title")) || "sem-titulo";
+  return d + "-" + s + ".md";
+}
+
+function montar(){
+  var linhas = ["---"];
+
+  CAMPOS.forEach(function(campo){
+    var v = valor(campo);
+
+    // Revisor só faz sentido quando houve revisão de uma pessoa.
+    if (campo === "revisor" && valor("proveniencia") === "humano") return;
+
+    if (!v) {
+      // Campos de imagem entram vazios de propósito: o gerar.py espera
+      // encontrá-los, e um campo ausente é diferente de um campo vazio.
+      if (campo === "featuredImage" || campo === "photoAuthor" || campo === "photoSource") {
+        linhas.push(campo + ': ""');
+      }
+      return;
+    }
+
+    if (SEM_ASPAS.indexOf(campo) >= 0) {
+      linhas.push(campo + ": " + v);
+    } else {
+      linhas.push(campo + ': "' + escapar(v) + '"');
+    }
+  });
+
+  if (tags.length) {
+    linhas.push("tags:");
+    tags.forEach(function(t){ linhas.push("  - " + t); });
+  }
+
+  linhas.push("---");
+  linhas.push("");
+
+  var corpo = el("corpo").value.trim();
+  if (corpo) linhas.push(corpo, "");
+
+  return linhas.join("\n");
+}
+
+function conferir(){
+  var avisos = [];
+  var corpo = el("corpo").value.trim();
+  var palavras = corpo ? corpo.split(/\s+/).length : 0;
+
+  if (!valor("title")) avisos.push(["Sem título — o arquivo sai como sem-titulo.md.", ""]);
+  if (!valor("categories")) avisos.push(["Sem editoria. O arquivo não tem para onde ir.", ""]);
+  if (!valor("date")) avisos.push(["Sem data. Vai entrar a de hoje no nome do arquivo, mas o campo fica de fora.", ""]);
+
+  // O corpo não pode conter --- sozinho numa linha: o conversor lê como
+  // fim do frontmatter e trunca a matéria.
+  if (/^---\s*$/m.test(corpo)) {
+    avisos.push(["Há uma linha só com --- no corpo. Troque por *** ou o texto será cortado ali.", ""]);
+  }
+
+  if (palavras > 0 && palavras < 300) {
+    avisos.push(["Com " + palavras + " palavras, entra como curta e sai do índice. O piso é 300.", "leve"]);
+  }
+
+  var desc = valor("description").length;
+  if (desc > 200) avisos.push(["Resumo com " + desc + " caracteres. O corte é em 200.", "leve"]);
+
+  if (!valor("fonte_primaria")) avisos.push(["Sem fonte primária.", "leve"]);
+
+  if (!avisos.length && palavras >= 300) {
+    avisos.push(["Pronto para publicar.", "bom"]);
+  }
+
+  var caixa = el("alertas");
+  caixa.innerHTML = "";
+  avisos.forEach(function(a){
+    var d = document.createElement("div");
+    d.className = "alerta" + (a[1] ? " " + a[1] : "");
+    d.textContent = a[0];
+    caixa.appendChild(d);
+  });
+
+  el("contagem").textContent = palavras + (palavras === 1 ? " palavra" : " palavras");
+
+  var m = el("medida-desc");
+  m.textContent = desc + " caracteres";
+  m.className = "medida" + (desc > 200 ? " estourou" : "");
+}
+
+function atualizar(){
+  el("saida").textContent = montar();
+
+  var pasta = valor("categories") || "…";
+  var caminho = "artigos/" + pasta + "/" + nomeDoArquivo();
+  el("caminho").textContent = caminho;
+
+  el("comando").textContent =
+    "mv ~/Downloads/" + nomeDoArquivo() + " " + caminho;
+
+  el("campo-revisor").style.display =
+    valor("proveniencia") === "humano" ? "none" : "block";
+
+  conferir();
+}
+
+// ── Etiquetas ──────────────────────────────────────────────────────
+
+function desenharTags(){
+  var caixa = el("etiquetas");
+  var entrada = el("entrada-tag");
+  Array.prototype.slice.call(caixa.querySelectorAll(".etiqueta"))
+    .forEach(function(e){ e.remove(); });
+
+  tags.forEach(function(t, i){
+    var span = document.createElement("span");
+    span.className = "etiqueta";
+    span.appendChild(document.createTextNode(t));
+    var b = document.createElement("button");
+    b.type = "button";
+    b.textContent = "×";
+    b.setAttribute("aria-label", "Remover " + t);
+    b.onclick = function(){ tags.splice(i, 1); desenharTags(); atualizar(); };
+    span.appendChild(b);
+    caixa.insertBefore(span, entrada);
+  });
+}
+
+el("entrada-tag").addEventListener("keydown", function(ev){
+  if (ev.key === "Enter" || ev.key === ",") {
+    ev.preventDefault();
+    var t = this.value.trim().replace(/,$/, "");
+    if (t && tags.indexOf(t) < 0) { tags.push(t); desenharTags(); atualizar(); }
+    this.value = "";
+  } else if (ev.key === "Backspace" && !this.value && tags.length) {
+    tags.pop(); desenharTags(); atualizar();
+  }
+});
+
+// ── Ações ──────────────────────────────────────────────────────────
+
+el("baixar").addEventListener("click", function(){
+  var blob = new Blob([montar()], {type:"text/markdown;charset=utf-8"});
+  var a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = nomeDoArquivo();
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  setTimeout(function(){ URL.revokeObjectURL(a.href); }, 1000);
+});
+
+el("copiar").addEventListener("click", function(){
+  var botao = this;
+  var texto = montar();
+  function feito(){
+    botao.textContent = "Copiado";
+    setTimeout(function(){ botao.textContent = "Copiar o texto"; }, 1600);
+  }
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(texto).then(feito, function(){});
+  } else {
+    var t = document.createElement("textarea");
+    t.value = texto; document.body.appendChild(t); t.select();
+    document.execCommand("copy"); document.body.removeChild(t); feito();
+  }
+});
+
+// ── Início ─────────────────────────────────────────────────────────
+
+document.addEventListener("input", atualizar);
+document.addEventListener("change", atualizar);
+
+var hoje = new Date().toISOString().slice(0, 10);
+el("date").value = hoje;
+el("data_do_fato").value = hoje;
+atualizar();
+</script>
+
+</body>
+</html>
