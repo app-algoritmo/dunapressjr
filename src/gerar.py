@@ -211,9 +211,11 @@ def cabecalho(editorias, atual=None, edicao=0):
         anos -= 1
     ano_rom = ROMANOS.get(anos, str(anos))
     atual_attr = ' aria-current="page"'
+    # Brasil sai do menu superior por decisão editorial. A editoria continua
+    # existindo: a página /brasil/ é gerada, aparece no rodapé e no arquivo.
     itens = "".join(
         '<a href="/%s/"%s>%s</a>' % (s, atual_attr if s == atual else "", e(d["nome"]))
-        for s, d in editorias.items())
+        for s, d in editorias.items() if s != "brasil")
     return f"""
 <header>
   <div class="faixa-topo"><div class="env">
@@ -225,7 +227,7 @@ def cabecalho(editorias, atual=None, edicao=0):
     <div class="masthead">
       <h1 class="marca"><a href="/"><span>Duna</span> <span>Press</span></a></h1>
       <div class="linha-edicao">
-        Ano {ano_rom}<i>·</i>Nº {milhar(edicao)}<i>·</i>Edição de {HOJE.day} de {MESES[HOJE.month-1]}<i>·</i>São Paulo
+        Ano {ano_rom}<i>·</i>Nº {milhar(edicao)}<i>·</i>Edição de {HOJE.day} de {MESES[HOJE.month-1]}
       </div>
     </div>
   </div>
