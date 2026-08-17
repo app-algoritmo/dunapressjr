@@ -300,6 +300,23 @@ def absoluta(url):
     return "https://dunapress.org/" + url.lstrip("/")
 
 
+# Google Analytics 4. O ID vem do fluxo "Duna Press ORG" no painel do
+# Analytics; trocar aqui basta para valer nas 20 mil páginas.
+GA_MEDIDA = "G-5QG9N24BHH"
+
+# A tag entra com async e no fim do <head>: medição não pode competir com o
+# primeiro render. Concatenação em vez de f-string porque o corpo tem chaves
+# de JavaScript, que a f-string interpretaria como campo de substituição.
+GA_TAG = (
+    '<script async src="https://www.googletagmanager.com/gtag/js?id='
+    + GA_MEDIDA + '"></script>\n'
+    '<script>window.dataLayer=window.dataLayer||[];'
+    'function gtag(){dataLayer.push(arguments);}'
+    'gtag("js",new Date());'
+    'gtag("config","' + GA_MEDIDA + '");</script>'
+)
+
+
 def pagina(titulo, descricao, miolo, editorias, total, atual=None, edicao=0,
            classe="", indexar=True, canonico="/", imagem="", tipo="website",
            publicado="", secao=""):
@@ -348,6 +365,7 @@ def pagina(titulo, descricao, miolo, editorias, total, atual=None, edicao=0,
 <link rel="manifest" href="/site.webmanifest">
 <link rel="alternate" type="application/rss+xml" title="Duna Press" href="/rss.xml">
 <link rel="canonical" href="https://dunapress.org{canonico}">
+{GA_TAG}
 </head>
 <body class="{classe}">
 {cabecalho(editorias, atual, edicao)}
