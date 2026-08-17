@@ -12,26 +12,22 @@
  * certo por JavaScript, mas não transfere a autoridade de link acumulada — e
  * é justamente ela que sustenta o ranqueamento de um acervo de nove anos.
  *
- * Três formatos legados, todos resolvidos aqui com 301 permanente:
+ * Formatos legados resolvidos aqui com 301 permanente:
  *
  *   /artigo.html?file=/artigos/{cat}/{arq}.md   consulta o mapa publicado
  *   /categoria.html?cat={slug}                  79 categorias → 9 editorias
  *   /AAAA/MM/DD/{slug}/                         permalink usado até 2024
+ *   /category/{slug}/                           categoria nativa do WordPress
+ *   /tag/{slug}/                                etiqueta → busca
+ *   /author/{slug}/                             autor
+ *   /AAAA/MM/ e /page/N/                        arquivo e paginação
+ *   ?amp, ?noamp, ?currency, ?fbclid            URL duplicada → limpa
  *
- * O terceiro é o mais valioso: até 2024 o site usava data no permalink, e os
- * backlinks daquele período ainda apontam para lá.
+ * O permalink com data é o mais valioso: até 2024 o site usava data no
+ * endereço, e os backlinks daquele período ainda apontam para lá.
  */
 
 const SITE = "https://dunapress.org";
-
-// ── Autenticação da redação ──────────────────────────────────────────────
-// O painel em /admin/ grava no repositório pela API do GitHub, mas o GitHub
-// não permite login direto de uma página estática: o segredo do aplicativo
-// precisa ficar em algum lugar que o navegador não enxergue. É aqui.
-//
-// Duas variáveis de ambiente no Worker, marcadas como secretas:
-//   GITHUB_CLIENT_ID, GITHUB_CLIENT_SECRET
-const ESCOPO_GITHUB = "repo";
 const MAPA = `${SITE}/api/legado.json`;
 
 // O mapa muda a cada publicação, mas raramente. Uma hora de cache evita ida
@@ -125,61 +121,6 @@ function permanente(destino, origem) {
     },
   });
 }
-
-/** Envia ao GitHub para o dono do site autorizar o acesso ao repositório. */
-function iniciarLogin(url, env) {
-  const destino = new URL("https://github.com/login/oauth/authorize");
-  destino.searchParams.set("client_id", env.GITHUB_CLIENT_ID);
-  destino.searchParams.set("scope", ESCOPO_GITHUB);
-  destino.searchParams.set("redirect_uri", `${url.origin}/admin/callback`);
-  return Response.redirect(destino.toString(), 302);
-}
-
-/**
- * O GitHub devolve um código; trocamos por um token e o entregamos à janela
- * que abriu o login. O token nunca passa pela URL — só por postMessage para
- * a origem do próprio site.
- */
-async function concluirLogin(url, env) {
-  const codigo = url.searchParams.get("code");
-  if (!codigo) return new Response("Código ausente", { status: 400 });
-
-  const r = await fetch("https://github.com/login/oauth/access_token", {
-    method: "POST",
-    headers: { "Content-Type": "application/json", Accept: "application/json" },
-    body: JSON.stringify({
-      client_id: env.GITHUB_CLIENT_ID,
-      client_secret: env.GITHUB_CLIENT_SECRET,
-      code: codigo,
-    }),
-  });
-  const dados = await r.json();
-
-  const carga = dados.access_token
-    ? { token: dados.access_token, provider: "github" }
-    : { error: dados.error_description || "falha ao autenticar" };
-
-  // O painel espera exatamente este formato de mensagem.
-  const html = `<!DOCTYPE html><html><body><script>
-(function () {
-  function avisar(e) {
-    window.opener.postMessage(
-      'authorization:github:${dados.access_token ? "success" : "error"}:' +
-      ${JSON.stringify(JSON.stringify(carga))},
-      e.origin
-    );
-    window.removeEventListener("message", avisar, false);
-  }
-  window.addEventListener("message", avisar, false);
-  window.opener.postMessage("authorizing:github", "*");
-})();
-<\/script><p>Autenticado. Pode fechar esta janela.</p></body></html>`;
-
-  return new Response(html, {
-    headers: { "content-type": "text/html;charset=UTF-8" },
-  });
-}
-
 // ── Rotas nativas do WordPress ───────────────────────────────────────────
 // O site intermediário usava /categoria.html?cat=x; o WordPress original
 // usava /category/x/. O Google indexou os dois, e só o primeiro tinha
@@ -187,17 +128,17 @@ async function concluirLogin(url, env) {
 const EDITORIA_SLUG = new Set(["brasil", "mundo", "economia", "politica",
   "ciencia-e-saude", "tecnologia", "cultura", "esportes", "opiniao"]);
 
-// Parâmetros que o WordPress e as redes sociais penduram na URL sem mudar
-// o conteúdo. Cada um cria um endereço duplicado aos olhos do buscador.
+// Parâmetros que o WordPress e as redes sociais penduram na URL sem mudar o
+// conteúdo. Cada um cria um endereço duplicado aos olhos do buscador.
 // utm_ fica de fora: é medição de campanha e sobrevive ao 301.
 const LIXO_QUERY = /^(amp|noamp|currency|fbclid|gclid|msclkid|replytocom|share|like_comment|_ga)$/i;
 
 /**
- * Devolve o 301 para as rotas legadas, ou nulo se a URL não for de nenhuma
- * delas — nesse caso o chamador segue o fluxo normal.
+ * Devolve o 301 das rotas legadas do WordPress, ou nulo quando a URL não é
+ * de nenhuma delas — nesse caso o chamador segue para a origem.
  */
 function rotaLegada(url, requestUrl) {
-  // Parâmetro herdado que só duplica a URL: remove e redireciona ao limpo.
+  // Parâmetro herdado que só duplica a URL: remove e manda para a limpa.
   const sujos = [...url.searchParams.keys()].filter((k) => LIXO_QUERY.test(k));
   if (sujos.length) {
     const limpo = new URL(url);
@@ -240,12 +181,8 @@ function rotaLegada(url, requestUrl) {
 }
 
 export default {
-  async fetch(request, env) {
+  async fetch(request) {
     const url = new URL(request.url);
-
-    // Redação: login e retorno do GitHub.
-    if (url.pathname === "/admin/auth") return iniciarLogin(url, env);
-    if (url.pathname === "/admin/callback") return concluirLogin(url, env);
 
     // 1. Matéria no formato de página estática com JavaScript.
     if (url.pathname === "/artigo.html") {
