@@ -180,65 +180,6 @@ async function concluirLogin(url, env) {
   });
 }
 
-// ── Rotas nativas do WordPress ───────────────────────────────────────────
-// O site intermediário usava /categoria.html?cat=x; o WordPress original
-// usava /category/x/. O Google indexou os dois, e só o primeiro tinha
-// tratamento aqui — daí o volume de 404 em /category/, /tag/ e /author/.
-const EDITORIA_SLUG = new Set(["brasil", "mundo", "economia", "politica",
-  "ciencia-e-saude", "tecnologia", "cultura", "esportes", "opiniao"]);
-
-// Parâmetros que o WordPress e as redes sociais penduram na URL sem mudar
-// o conteúdo. Cada um cria um endereço duplicado aos olhos do buscador.
-// utm_ fica de fora: é medição de campanha e sobrevive ao 301.
-const LIXO_QUERY = /^(amp|noamp|currency|fbclid|gclid|msclkid|replytocom|share|like_comment|_ga)$/i;
-
-/**
- * Devolve o 301 para as rotas legadas, ou nulo se a URL não for de nenhuma
- * delas — nesse caso o chamador segue o fluxo normal.
- */
-function rotaLegada(url, requestUrl) {
-  // Parâmetro herdado que só duplica a URL: remove e redireciona ao limpo.
-  const sujos = [...url.searchParams.keys()].filter((k) => LIXO_QUERY.test(k));
-  if (sujos.length) {
-    const limpo = new URL(url);
-    for (const k of sujos) limpo.searchParams.delete(k);
-    return permanente(limpo.pathname + limpo.search, requestUrl);
-  }
-
-  // Arquivo mensal ou anual: /2022/05/ e /2022/.
-  if (/^\/\d{4}\/(\d{2}\/)?$/.test(url.pathname)) {
-    return permanente("/arquivo/", requestUrl);
-  }
-
-  // Categoria nativa, inclusive aninhada: /category/a/b/ usa o último nível.
-  const cat = url.pathname.match(/^\/category\/(?:[^/]+\/)*([^/]+)\/?$/);
-  if (cat) {
-    const s = cat[1];
-    const ed = EDITORIA_SLUG.has(s)
-      ? s
-      : (EDITORIAS[s] || EDITORIAS[s.replace(/-en$/, "")]);
-    return permanente(ed ? `/${ed}/` : "/arquivo/", requestUrl);
-  }
-
-  // Etiquetas não têm equivalente no site novo. A busca é o destino honesto:
-  // entrega o que existe sobre o assunto em vez de fingir uma página.
-  const tag = url.pathname.match(/^\/tag\/(?:[^/]+\/)*([^/]+)\/?$/);
-  if (tag) {
-    const termo = tag[1].replace(/-/g, " ");
-    return permanente(`/busca/?q=${encodeURIComponent(termo)}`, requestUrl);
-  }
-
-  const autor = url.pathname.match(/^\/author\/([^/]+)\/?$/);
-  if (autor) return permanente(`/autores/${autor[1]}/`, requestUrl);
-
-  if (/^\/page\/\d+\/?$/.test(url.pathname)) {
-    return permanente("/arquivo/", requestUrl);
-  }
-  if (url.pathname === "/home/") return permanente("/", requestUrl);
-
-  return null;
-}
-
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -271,11 +212,6 @@ export default {
     //    o prefixo saiu quando o permalink foi reconfigurado.
     const datado = url.pathname.match(/^\/\d{4}\/\d{2}\/\d{2}\/([^/]+)\/?$/);
     if (datado) return permanente(`/${datado[1]}/`, request.url);
-
-    // 4. Demais rotas nativas do WordPress: /category/, /tag/, /author/,
-    //    arquivo por data, paginação e parâmetros duplicadores.
-    const legada = rotaLegada(url, request.url);
-    if (legada) return legada;
 
     // Qualquer outra coisa segue para a origem.
     return fetch(request);
