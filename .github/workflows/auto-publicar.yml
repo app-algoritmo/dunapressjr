@@ -1,10 +1,12 @@
-# Duna Press — publicação automática de Brasil e Mundo.
+# Duna Press — publicação automática: educação escandinava.
 #
-# Roda sozinho, sem revisão humana prévia. As barreiras estão em
-# src/auto_publicar.py: fonte real buscada na hora, verificação de cada
-# afirmação contra a fonte, recusa de texto que só reescreve o original, e
-# conferência de forma. Nada disso substitui julgamento editorial sobre
-# relevância — por isso o volume é baixo e tudo entra em fila de conferência.
+# Uma matéria por dia útil, de fonte institucional nórdica, publicada fora
+# da capa: entra no acervo, não no índice. Roda sozinho, sem revisão humana
+# prévia. As barreiras estão em src/auto_publicar.py: fato filtrado por
+# tema e região antes de qualquer chamada, fonte real buscada na hora,
+# verificação de cada afirmação contra a fonte, recusa de texto que só
+# reescreve o original, e conferência de forma. Tudo entra em fila de
+# conferência posterior.
 
 name: Publicar automático
 
@@ -12,13 +14,9 @@ on:
   schedule:
     # 07h de Brasília — meio-dia em Oslo, onde o editor lê o jornal.
     # O GitHub costuma atrasar o agendador; a segunda execução cobre isso.
+    # Com teto de 1, a segunda só age se a primeira não publicou.
     - cron: '0 10,11 * * 1-5'
   workflow_dispatch:
-    inputs:
-      secao:
-        description: 'nacional, internacional ou ambos'
-        required: false
-        default: 'ambos'
 
 concurrency:
   group: auto-publicar
@@ -48,16 +46,17 @@ jobs:
       - name: Publicar
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          DP_TETO_AUTO: '2'
+          UNSPLASH_KEY: ${{ secrets.UNSPLASH_KEY }}
+          # Uma matéria por dia. O teto conta só publicação automática.
+          DP_TETO_AUTO: '1'
+          # Cada tentativa custa, aprovada ou não.
           DP_TETO_TENTATIVAS: '3'
           DP_TETO_MENSAL: '5.00'
-          DP_JANELA_DIAS: '4'
-        run: |
-          if [ "${{ inputs.secao }}" = "ambos" ] || [ -z "${{ inputs.secao }}" ]; then
-            python3 src/auto_publicar.py
-          else
-            python3 src/auto_publicar.py --so "${{ inputs.secao }}"
-          fi
+          # Ministério de educação não publica todo dia: janela larga.
+          DP_JANELA_DIAS: '14'
+          # Uma matéria por dia cabe conferir inteira.
+          DP_AMOSTRA_VERIF: '1.0'
+        run: python3 src/auto_publicar.py
 
       # O acumulado de gasto precisa persistir entre execuções, senão o teto
       # nunca freia: cada rodada começaria do zero.
