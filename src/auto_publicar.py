@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Duna Press — publicação automática, editorias Brasil e Mundo.
+Duna Press — publicação automática, educação escandinava.
+
+Uma matéria por dia, de fonte institucional nórdica, publicada fora da
+capa: entra no arquivo, não no índice. Quem chega por busca ou por link
+encontra; quem abre a home lê o jornal que o editor montou.
 
 Diferente de src/publicar.py, que abre Pull Request e espera aprovação,
 aqui a matéria vai ao ar sozinha. A revisão humana prévia foi substituída
@@ -21,16 +25,17 @@ Reprovou em qualquer etapa, não publica. Reprovar é o sistema funcionando.
 Toda matéria daqui sai marcada como publicada sem revisão humana prévia, e
 entra em editorial/revisao-pendente.md para conferência posterior.
 
-    python3 src/auto_publicar.py                  # nacional + internacional
-    python3 src/auto_publicar.py --so nacional
-    python3 src/auto_publicar.py --ensaio         # não publica, só mostra
+    python3 src/auto_publicar.py              # publica, se houver pauta
+    python3 src/auto_publicar.py --ensaio     # não publica, só mostra
 
 Ambiente:
     ANTHROPIC_API_KEY   obrigatória
-    DP_TETO_AUTO        matérias publicadas por execução (padrão 2)
-    DP_TETO_TENTATIVAS  redações tentadas por seção (padrão 4) — é isto
+    DP_TETO_AUTO        matérias publicadas por execução (padrão 1)
+    DP_TETO_TENTATIVAS  redações tentadas por seção (padrão 3) — é isto
                         que limita o gasto, porque recusa também custa
     DP_TETO_MENSAL      teto de gasto em dólares (padrão 5.00)
+    DP_JANELA_DIAS      idade máxima do fato, em dias (padrão 14)
+    DP_AMOSTRA_VERIF    fração conferida contra a fonte (padrão 1.0)
     DP_MODELO           modelo de redação
     DP_MODELO_VERIF     modelo de verificação (mais barato de propósito)
 """
@@ -43,14 +48,16 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Redigir exige julgamento de linguagem; conferir afirmação contra fonte é
 # leitura comparada. Usar o mesmo modelo nas duas etapas dobrava o custo
 # sem ganho proporcional de rigor.
-MODELO_REDACAO = os.environ.get("DP_MODELO", "claude-sonnet-4-6")
+MODELO_REDACAO = os.environ.get("DP_MODELO", "claude-sonnet-5")
 MODELO_VERIFICACAO = os.environ.get("DP_MODELO_VERIF", "claude-haiku-4-5-20251001")
 
-TETO = int(os.environ.get("DP_TETO_AUTO", "3"))
+# Uma materia por dia. O teto conta so o que a IA publica; o que o editor
+# escreve a mao nao entra na conta.
+TETO = int(os.environ.get("DP_TETO_AUTO", "1"))
 
 # Cada tentativa custa, aprovada ou não. Sem este limite, uma sequência de
 # recusas consome o orçamento do mês sem publicar nada.
-TETO_TENTATIVAS = int(os.environ.get("DP_TETO_TENTATIVAS", "4"))
+TETO_TENTATIVAS = int(os.environ.get("DP_TETO_TENTATIVAS", "3"))
 
 # Teto de gasto mensal, em dólares. O script estima o custo de cada chamada
 # e para quando chega no limite — melhor um dia sem publicação que uma
@@ -59,11 +66,16 @@ TETO_MENSAL = float(os.environ.get("DP_TETO_MENSAL", "5.00"))
 
 # Preço por milhão de tokens (entrada, saída). Valores de referência para
 # estimativa: o número exato vem da fatura, este serve para frear a tempo.
+# Conferido em 20/08/2026 na tabela de precos da API. Numero errado aqui
+# nao quebra nada, mas faz o teto mensal frear na hora errada.
 PRECOS = {
-    "claude-sonnet-4-6": (3.00, 15.00),
-    "claude-haiku-4-5-20251001": (0.80, 4.00),
+    "claude-sonnet-5": (2.00, 10.00),
+    "claude-haiku-4-5-20251001": (1.00, 5.00),
 }
-JANELA_DEDUPE = 10            # dias para trás na checagem de assunto repetido
+
+# Assunto único exige memória longa: em pauta estreita, o mesmo relatório
+# reaparece em mais de um feed em questão de dias.
+JANELA_DEDUPE = 21            # dias para trás na checagem de assunto repetido
 # Fração de sequências de 8 palavras em comum com a fonte. Texto curto que
 # repete a fonte é republicação evidente; texto longo compartilha mais por
 # aritmética, não por cópia. O teto acompanha isso.
@@ -72,12 +84,11 @@ JANELA_DEDUPE = 10            # dias para trás na checagem de assunto repetido
 # matéria inteira por uma linha em vinte é desperdício.
 FRACAO_NAO_SUSTENTADA = 0.15
 
-# Fração das matérias que passa pela conferência de fatos. Verificar todas
-# custava 40% do orçamento para pegar pouco: as fontes são primárias, e o
-# que a etapa realmente caça é invenção do modelo — número, data ou nome
-# que não estava no material. Texto com muitos números é sempre conferido;
-# o resto, por amostragem.
-AMOSTRA_VERIFICACAO = float(os.environ.get("DP_AMOSTRA_VERIF", "0.34"))
+# Fração das matérias que passa pela conferência de fatos. Com uma matéria
+# por dia, conferir todas custa centavos — o que a etapa caça é invenção
+# do modelo: número, data ou nome que não estava no material. A variável
+# existe para reduzir a amostra se um dia o volume crescer.
+AMOSTRA_VERIFICACAO = float(os.environ.get("DP_AMOSTRA_VERIF", "1.0"))
 
 # Abaixo disso, o Unsplash não tem o assunto e devolveu o que sobrou.
 # "measles vaccination São Paulo" trouxe 2 resultados — e a primeira foto
@@ -104,45 +115,29 @@ CABECALHO = {
 
 # ── Imagem de abertura ───────────────────────────────────────────────────
 # A busca vai em cascata, do específico ao genérico:
-#   1. tags da própria matéria, traduzidas   → foto daquele assunto
-#   2. termo da editoria                      → foto do tema
-#   3. nada                                   → publica sem imagem
+#   1. termos que o modelo sugeriu com a matéria  → foto daquela cena
+#   2. termo amplo da seção                       → foto do tema
+#   3. nada                                       → publica sem imagem
 #
 # Foto genérica que não conversa com o texto é pior que nenhuma: o leitor
 # vê a imagem antes do título e ela promete outro assunto.
-UNSPLASH_EDITORIA = {
-    # Em português, como as tags: a API traduz a consulta com lang=pt.
-    "brasil": "cidade brasileira",
-    "mundo": "diplomacia internacional",
-    "economia": "mercado financeiro",
-    "politica": "parlamento governo",
-    "ciencia-e-saude": "laboratório pesquisa",
-    "tecnologia": "tecnologia computador",
-    "cultura": "arte museu",
-    "esportes": "estádio atleta",
-    "opiniao": "jornal escrita",
-}
-
-
-def termos_de_busca(artigo, editoria):
+def termos_de_busca(artigo, padrao=None):
     """Consultas para a foto de abertura, da mais específica à mais ampla.
 
     O modelo sugere os termos junto com a matéria, pensando no que ilustra
-    a cena. Antes reaproveitávamos as tags do artigo — mas elas existem
-    para indexar, e "São Paulo" ou "Anvisa" nomeiam lugar e instituição,
-    não imagem. Foi assim que uma matéria sobre sarampo recebeu a foto de
-    uma caneta.
+    a cena. As tags do artigo não servem: elas existem para indexar, e
+    "Skolverket" ou "Oslo" nomeiam instituição e lugar, não imagem.
     """
     consultas = [t.strip() for t in (artigo.get("imagens") or [])
                  if t and t.strip()][:2]
 
-    if UNSPLASH_EDITORIA.get(editoria):
-        consultas.append(UNSPLASH_EDITORIA[editoria])
+    if padrao:
+        consultas.append(padrao)
 
     return consultas
 
 
-def buscar_imagem(artigo, editoria):
+def buscar_imagem(artigo, padrao=None):
     """Procura no Unsplash uma foto que tenha relação com a matéria.
 
     Sem chave, sem resultado suficiente, ou sem foto cuja descrição
@@ -153,7 +148,7 @@ def buscar_imagem(artigo, editoria):
     if not chave:
         return None
 
-    for consulta in termos_de_busca(artigo, editoria):
+    for consulta in termos_de_busca(artigo, padrao):
         try:
             endereco = ("https://api.unsplash.com/search/photos"
                         "?query=%s&orientation=landscape&content_filter=high"
@@ -195,180 +190,78 @@ def buscar_imagem(artigo, editoria):
     return None
 
 
-# ── O que não vira matéria ───────────────────────────────────────────────
-# Política partidária não entra: disputa entre parlamentares, votação de
-# plenário, crise de partido, incidente com deputado. Não é que o assunto
-# seja menor — é que este jornal cobre política de Estado, não de Brasília.
+# ── Pertinência: educação E Escandinávia ─────────────────────────────────
+# Nenhum feed garante as duas coisas ao mesmo tempo. O Conselho Nórdico é
+# nórdico mas cobre clima, cultura e economia; a UNESCO cobre educação mas
+# no mundo inteiro. Cada feed declara o que lhe falta, e o filtro cobra só
+# isso — exigir "Suécia" de um comunicado do Skolverket, escrito em sueco
+# para leitor sueco, descartaria a fonte inteira.
 #
-# Política pública entra: reajuste de salário, safra, tarifa, estatística,
-# regulação, decisão que muda a vida de quem lê. A diferença é se a matéria
-# fala de pessoas em disputa ou de decisões que produzem efeito.
-PARTIDARIO = re.compile(
-    r"\b(deputad[oa]s?|senador(?:es|as)?|vereador(?:es|as)?"
-    r"|parlamentar(?:es)?|bancada|liderança d[oa] |líder d[oa] (PT|PL|PP|MDB|União)"
-    r"|plenário|ordem do dia|sessão (?:da Câmara|do Senado|legislativa)"
-    r"|votação (?:em|no|na) (?:plenário|Câmara|Senado)"
-    r"|CPI|comissão parlamentar|requerimento|emenda parlamentar"
-    r"|PT|PL\b|PSDB|MDB|PSOL|Republicanos|União Brasil|Podemos"
-    r"|candidat[oa]s?|campanha eleitoral|pesquisa eleitoral|urna"
-    r"|impeachment|cassação|foro privilegiado"
-    r"|ministr[oa] d[oe] (?:Estado|Relações|Casa Civil)"
-    r"|Executivo e Legislativo|articulação política)",
-    re.I)
+# Os termos vão em inglês e nas línguas nórdicas porque o filtro roda
+# ANTES da tradução: ele lê o título e o resumo do feed, no original.
+TEMA_EDUCACAO = re.compile(
+    r"\b(educat\w*|school\w*|teacher\w*|student\w*|pupil\w*|curricul\w*"
+    r"|kindergarten|preschool|universit\w*|vocational|literacy|numeracy"
+    r"|PISA|early childhood|higher education|lifelong learning"
+    # sueco
+    r"|utbildning\w*|skol\w*|l[äa]rar\w*|elev\w*|f[öo]rskol\w*|gymnasi\w*"
+    # norueguês e dinamarquês
+    r"|oppl[æa]ring\w*|utdann\w*|uddann\w*|barnehage\w*|b[øo]rnehave\w*"
+    r"|undervisning\w*|folkeskole\w*|grunnskole\w*|l[æa]rer\w*"
+    # finlandês
+    r"|koulutu\w*|opetu\w*|peruskoulu\w*|varhaiskasvatu\w*)", re.I)
 
-# Já isto passa, mesmo mencionando governo ou ministério: é o efeito, não
-# a disputa.
-INTERESSE_PUBLICO = re.compile(
-    r"\b(salário mínimo|reajuste|inflação|IPCA|desemprego|emprego"
-    r"|safra|colheita|produção agrícola|exportação|importação"
-    r"|tarifa|imposto|tributo|juros|Selic|PIB|balança comercial"
-    r"|censo|estatística|pesquisa (?:do IBGE|revela|aponta|mostra)"
-    r"|vacina|epidemia|surto|hospital|SUS|medicamento"
-    r"|energia|combustível|petróleo|eletricidade"
-    r"|educação|universidade|escola|alfabetização"
-    r"|clima|desmatamento|seca|enchente|meio ambiente"
-    r"|consumidor|consumo|preço|cesta básica"
-    r"|profissão|carreira|trabalho|aposentadoria)",
-    re.I)
+REGIAO_NORDICA = re.compile(
+    r"\b(nordic\w*|scandinavi\w*|norden"
+    r"|sweden|swedish|sverige|svensk\w*"
+    r"|norway|norwegian|norge|norsk\w*"
+    r"|denmark|danish|danmark|dansk\w*"
+    r"|finland|finnish|suomi|suomen|finsk\w*"
+    r"|iceland\w*|island|islensk\w*"
+    r"|stockholm|oslo|copenhagen|k[øo]benhavn|helsinki|reykjav[ií]k)", re.I)
 
 
-# Marcas de matéria puramente partidária: disputa, incidente pessoal,
-# procedimento interno. Nenhum contexto de política pública as salva.
-SO_PARTIDARIO = re.compile(
-    r"\b(líder d[oa] \w+ (?:passa|é|foi|diz|afirma)"
-    r"|passa mal|mal súbito|internad[oa]"
-    r"|suspende votaç|cancela sessão|adia votaç"
-    r"|troca de comando|disputa pela presidência d[oa] (?:Câmara|Senado)"
-    r"|bate-boca|discussão no plenário)", re.I)
-
-
-def vale_a_pena(item):
-    """Decide se o fato merece uma chamada ao modelo.
-
-    Filtrar aqui é barato; filtrar depois de redigir custa uma redação
-    inteira. Na dúvida, deixa passar — a conferência de forma e de fatos
-    ainda vem depois.
-    """
+def pertinente(item, exige):
+    """Cobra do fato o que o feed dele não garante sozinho."""
     texto = "%s %s" % (item.get("titulo", ""), item.get("resumo", ""))
-    # Alguns termos partidários são fortes o bastante para recusar sozinhos:
-    # matéria sobre incidente com parlamentar não vira notícia de serviço
-    # público por mencionar "trabalho" ou "saúde" de passagem.
-    if SO_PARTIDARIO.search(texto):
+    if "tema" in exige and not TEMA_EDUCACAO.search(texto):
         return False
-    if PARTIDARIO.search(texto) and not INTERESSE_PUBLICO.search(texto):
+    if "regiao" in exige and not REGIAO_NORDICA.search(texto):
         return False
     return True
 
 
-# ── Fontes ───────────────────────────────────────────────────────────────
-# Princípio: só fonte primária. Nada de veículo comercial — gerar matéria a
-# partir da reportagem alheia é apropriar-se da apuração de outra redação,
-# e é o padrão que os buscadores tratam como conteúdo em escala.
+# ── Fonte ────────────────────────────────────────────────────────────────
+# Princípio: só fonte primária — quem produz o fato, não quem o noticia.
+# Ministério, agência nacional de ensino, conselho intergovernamental,
+# organismo multilateral. Nenhum jornal: gerar matéria a partir da
+# reportagem alheia é apropriar-se da apuração de outra redação.
 #
-# A diversidade vem do TIPO de instituição, não do número de endereços. Se
-# todas forem do Executivo, o jornal reproduz a pauta do governo. Cruzando
-# Executivo, Judiciário, reguladores, institutos de pesquisa e organismos
-# internacionais, as pautas se contradizem entre si — e é aí que aparece
-# o que merece ser apurado.
-#
-# Feeds saem do ar sem aviso. tools/conferir_fontes.py testa todos de uma
-# vez; feed que falha é ignorado e a execução segue com os que responderam.
-FONTES = {
-    # Só fonte primária: quem produz o fato, não quem o noticia. Agência
-    # de Estado, agência espacial, organismo multilateral, publicação
-    # técnica de sociedade científica, repositório de artigos.
-    #
-    # Ficaram de fora, deliberadamente: SCMP, Ars Technica, The Verge,
-    # MIT Tech Review, Electrek, InsideEVs, VentureBeat, Al Jazeera e
-    # Arab News — são veículos jornalísticos, e gerar matéria a partir da
-    # reportagem deles é reescrever apuração alheia. Também ficaram fora
-    # TASS, Sputnik, RT e CGTN: estatais de governos em conflito de
-    # informação ativo, impróprias como fonte primária de um jornal que
-    # promete conferir cada afirmação contra a origem.
-    "brasil": {
-        "editoria": "brasil",
-        "feeds": [
-            ("Agência Brasil", "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"),
-        ],
-    },
-    "ciencia": {
-        "editoria": "ciencia-e-saude",
-        "feeds": [
-            ("Nature", "https://www.nature.com/nature.rss"),
-            ("Science Daily", "https://www.sciencedaily.com/rss/all.xml"),
-            ("Phys.org", "https://phys.org/rss-feed/"),
-            ("ScienceAlert", "https://www.sciencealert.com/feed"),
-            ("OMS", "https://www.who.int/rss-feeds/news-english.xml"),
-            ("OPAS", "https://www.paho.org/pt/rss.xml"),
-            ("Copernicus", "https://climate.copernicus.eu/rss.xml"),
-            ("ONU Meio Ambiente", "https://www.unep.org/rss.xml"),
-        ],
-    },
-    "espaco": {
-        "editoria": "ciencia-e-saude",
-        "feeds": [
-            ("NASA", "https://www.nasa.gov/news-release/feed/"),
-            ("NASA Ciência", "https://science.nasa.gov/feed/"),
-            ("ESA", "https://www.esa.int/rssfeed/Our_Activities/Space_News"),
-            ("ESA Exploração", "https://www.esa.int/rssfeed/Our_Activities/Human_and_Robotic_Exploration"),
-            ("Space.com", "https://www.space.com/feeds/all"),
-        ],
-    },
-    "tecnologia": {
-        "editoria": "tecnologia",
-        "feeds": [
-            ("MIT News", "https://news.mit.edu/rss/feed"),
-            ("IEEE Spectrum", "https://spectrum.ieee.org/feeds/feed.rss"),
-            ("IEEE Robótica", "https://spectrum.ieee.org/feeds/topic/robotics.rss"),
-            ("arXiv IA", "http://export.arxiv.org/rss/cs.AI"),
-            ("arXiv Robótica", "http://export.arxiv.org/rss/cs.RO"),
-        ],
-    },
-    "economia": {
-        "editoria": "economia",
-        "feeds": [
-            ("OMC", "https://www.wto.org/library/rss/latest_news_e.xml"),
-        ],
-    },
-    "justica": {
-        # Publica pouco — algumas notas por mês. Entra para dar cobertura
-        # ao tema, não para alimentar a rotina.
-        "editoria": "mundo",
-        "feeds": [
-            ("Tribunal Penal Internacional", "https://www.icc-cpi.int/rss.xml"),
-        ],
-    },
-    "esportes": {
-        "editoria": "esportes",
-        "feeds": [
-            ("Fórmula 1", "https://www.formula1.com/content/fom-website/en/latest/all.xml"),
-            ("Autosport F1", "https://www.autosport.com/rss/f1/news/"),
-        ],
-    },
+# ATENÇÃO: os endereços abaixo NÃO foram testados. Rode
+# tools/conferir_fontes.py antes de confiar em qualquer um deles e troque
+# o que não responder. Feed morto o script ignora sozinho, mas cinco
+# feeds mortos são cinco dias sem publicação.
+CONFIG = {
+    # Pasta existente do acervo onde a matéria é gravada. A identidade do
+    # tema fica nas tags e no chapéu da fila de revisão — criar
+    # artigos/educacao/ exigiria registrar a editoria no migrar.py, e uma
+    # editoria cujo conteúdo é todo fora da capa teria página vazia.
+    "editoria": "mundo",
+    # Termo amplo de imagem, quando o modelo não sugerir nada usável.
+    "imagem_padrao": "sala de aula escola",
+    # O terceiro campo diz o que o feed NÃO garante e o filtro cobra:
+    #   ""             agência nacional de ensino — tema e região implícitos
+    #   "tema"         fonte nórdica que fala de tudo — cobrar educação
+    #   "regiao"       fonte de educação que cobre o mundo — cobrar o Norte
+    #   "tema+regiao"  fonte ampla nos dois eixos — cobrar os dois
+    "feeds": [
+        ("Conselho Nórdico", "https://www.norden.org/en/rss.xml", "tema"),
+        ("Skolverket", "https://www.skolverket.se/rss", ""),
+        ("Udir", "https://www.udir.no/rss/", ""),
+        ("Eurydice", "https://eurydice.eacea.ec.europa.eu/rss.xml", "regiao"),
+        ("UNESCO", "https://www.unesco.org/en/rss.xml", "tema+regiao"),
+    ],
 }
-
-
-# Não responderam no teste de 12/08/2026 — vale tentar de novo com outro
-# endereço quando houver tempo: FMI, Banco Mundial, OCDE, AIE (energia),
-# FAO (agricultura), UEFA, Olympics, Xinhua. Economia internacional e
-# futebol europeu ficam descobertos até lá.
-
-# Candidatos que falharam no teste de 10/08/2026. Ficam registrados para
-# quem for procurar o endereço novo — a instituição continua valendo como
-# fonte, só o feed mudou de lugar.
-#
-#   Agência Senado    devolveu HTML   www12.senado.leg.br/noticias/ultimas/rss
-#   Agência Câmara    404             camara.leg.br/rss/noticias
-#   STF               404             noticias.stf.jus.br/postsrss
-#   STJ               403             stj.jus.br/sites/portalp/RSS/Noticias
-#   TSE               404             tse.jus.br/rss/noticias-tse
-#   IBGE              403             agenciadenoticias.ibge.gov.br/...
-#   Banco Central     400             bcb.gov.br/api/feed/sitebcb/noticias
-#   IPEA              sem resposta    ipea.gov.br/portal/...
-#   ANVISA            feed vazio      gov.br/anvisa/.../RSS
-#   ANEEL             404             gov.br/aneel/.../RSS
-#   ONU News          404             news.un.org/pt/feed/...
-#   OIT, UNICEF, FMI, Banco Mundial, OCDE, AIE, Nature, Science
 
 
 # ── Utilidades ───────────────────────────────────────────────────────────
@@ -447,7 +340,9 @@ def ler_feed(nome, url):
     return itens
 
 
-JANELA_RECENCIA = int(os.environ.get("DP_JANELA_DIAS", "4"))
+# Ministério de educação não publica todo dia. Com janela curta, a falta
+# de matéria vem de escassez de fato, não de rigor editorial.
+JANELA_RECENCIA = int(os.environ.get("DP_JANELA_DIAS", "14"))
 
 
 def recente(item):
@@ -587,7 +482,16 @@ def chamar(prompt, max_tokens=4000, modelo=None):
             if exc.code in (429, 529) and tentativa < 2:
                 time.sleep(8 * (tentativa + 1))
                 continue
-            raise
+            # O motivo do 400 vem no corpo da resposta, e o urllib o
+            # descarta ao levantar a exceção. Sem isto, o log dizia apenas
+            # "HTTP Error 400: Bad Request" — e um modelo aposentado
+            # passou dias parecendo problema de algoritmo.
+            try:
+                detalhe = exc.read().decode("utf-8", "replace")[:400]
+            except Exception:
+                detalhe = "(sem corpo)"
+            raise RuntimeError("HTTP %d · modelo %s · %s"
+                               % (exc.code, modelo, detalhe))
     return ""
 
 
@@ -643,8 +547,10 @@ def json_de(texto):
 
 
 def redigir(item, editoria, corpo_fonte):
-    idioma = ("O material de origem está em inglês. Escreva em português do "
-              "Brasil." if editoria == "mundo" else "")
+    idioma = ("O material de origem está em inglês ou em língua nórdica "
+              "(sueco, norueguês, dinamarquês, finlandês). Escreva em "
+              "português do Brasil. Nomes de instituições vão no original, "
+              "com tradução entre parênteses na primeira menção.")
     prompt = f"""Você redige para o Duna Press, jornal digital em português do Brasil.
 
 MATERIAL DE ORIGEM ({item['fonte']})
@@ -692,10 +598,11 @@ REGRAS, TODAS OBRIGATÓRIAS
 
 IMAGENS
 Sugira dois termos de busca para a foto de abertura, em português,
-pensando no que ILUSTRA a matéria — não no que a indexa. "criança
-recebendo vacina" serve; "São Paulo" ou "Anvisa" não, porque nomeiam
-lugar e instituição, não a cena. Dois a quatro substantivos concretos
-por termo, do mais específico ao mais amplo.
+pensando no que ILUSTRA a matéria — não no que a indexa. "crianças em
+sala de aula" ou "biblioteca escolar inverno" servem; "Skolverket" ou
+"Oslo" não, porque nomeiam instituição e lugar, não a cena. Dois a
+quatro substantivos concretos por termo, do mais específico ao mais
+amplo.
 
 Responda SOMENTE com JSON válido, sem cercas. Dentro das strings, escreva
 quebra de linha como \\n — quebra literal invalida o JSON:
@@ -734,8 +641,9 @@ AFIRMAÇÕES
 Para cada uma, responda SUSTENTADA ou NAO_SUSTENTADA.
 
 SUSTENTADA quando o material dá base para a afirmação, ainda que com
-outras palavras: reformulação, sinônimo, gentílico ("escritor manauara"
-sustenta "natural de Manaus"), síntese fiel, conversão de unidade.
+outras palavras: reformulação, sinônimo, tradução ("Utdanningsdirektoratet"
+sustenta "Direção de Educação da Noruega"), gentílico, síntese fiel,
+conversão de unidade ou de moeda (coroa para real, com a taxa do material).
 Diferença de fraseado não é divergência de fato.
 
 NAO_SUSTENTADA apenas quando o material contradiz a afirmação, ou quando
@@ -858,6 +766,9 @@ def montar_md(a, item, editoria, imagem=None):
         f'fonte_primaria: "{item["url"]}"',
         f'fonte_nome: "{item["fonte"]}"',
         f"data_do_fato: {hoje.isoformat()}",
+        # Tudo desta rotina nasce fora da capa: entra no arquivo e sai do
+        # índice, sem deixar de existir. classificar.py lê este campo.
+        "fora_da_capa: true",
     ]
     if imagem:
         linhas += [
@@ -925,21 +836,25 @@ def publicar(md, a, item, editoria, ensaio):
 
 
 # ── Execução ─────────────────────────────────────────────────────────────
-def processar(secao, config, vistos, ensaio, restantes):
-    print(f"\n▸ {secao}")
+def processar(config, vistos, ensaio, restantes):
+    print("\n▸ educação escandinava")
     candidatos = []
-    brutos = []
-    for nome, url in config["feeds"]:
-        brutos += [i for i in ler_feed(nome, url) if recente(i)]
-    candidatos = [i for i in brutos if vale_a_pena(i)]
-    descartados = len(brutos) - len(candidatos)
+    fora_do_tema = 0
+    for nome, url, exige in config["feeds"]:
+        itens = [i for i in ler_feed(nome, url) if recente(i)]
+        if exige:
+            aptos = [i for i in itens if pertinente(i, exige)]
+            fora_do_tema += len(itens) - len(aptos)
+            itens = aptos
+        candidatos += itens
+    if fora_do_tema:
+        print("  %d fato(s) fora de educação escandinava, descartado(s) "
+              "antes de qualquer chamada" % fora_do_tema)
     # Fatos mais recentes primeiro: notícia velha rende matéria pior e
     # aumenta a chance de recusa — que custa igual.
     candidatos.sort(key=lambda i: i.get("quando", ""), reverse=True)
-    print("  %d fatos nos feeds · até %d tentativas%s"
-          % (len(candidatos), TETO_TENTATIVAS,
-             " · %d descartados por política partidária" % descartados
-             if descartados else ""))
+    print("  %d fatos nos feeds · até %d tentativas"
+          % (len(candidatos), TETO_TENTATIVAS))
 
     publicadas = tentativas = 0
     for item in candidatos:
@@ -1011,18 +926,19 @@ def processar(secao, config, vistos, ensaio, restantes):
             print("    termos sugeridos: %s" % " · ".join(sugeridos[:2]))
         else:
             print("    o modelo não sugeriu termo de imagem")
-        imagem = buscar_imagem(a, config["editoria"])
+        imagem = buscar_imagem(a, config.get("imagem_padrao"))
         if imagem:
             print("    foto: %s · busca \"%s\" (%d resultados)"
                   % (imagem["autor"], imagem["consulta"][:32],
                      imagem.get("total", 0)))
             if imagem.get("descricao"):
                 print("          %s" % imagem["descricao"])
-        publicar(montar_md(a, item, config["editoria"], imagem), a, item,
-                 config["editoria"], ensaio)
+        publicar(montar_md(a, item, config["editoria"], imagem),
+                 a, item, config["editoria"], ensaio)
         vistos.append(termos(a["titulo"]))
         publicadas += 1
-        print("    publicada — %d palavras, %.0f%% de sobreposição (limite %.0f%%)"
+        print("    publicada fora da capa — %d palavras, %.0f%% de "
+              "sobreposição (limite %.0f%%)"
               % (len(a["corpo"].split()), sob * 100, limite * 100))
 
     return publicadas
@@ -1030,9 +946,6 @@ def processar(secao, config, vistos, ensaio, restantes):
 
 def main():
     ensaio = "--ensaio" in sys.argv
-    so = None
-    if "--so" in sys.argv:
-        so = sys.argv[sys.argv.index("--so") + 1]
 
     mes, gasto, _ = custo_do_mes()
     print("Gasto em %s: US$ %.2f de US$ %.2f" % (mes, gasto, TETO_MENSAL))
@@ -1053,25 +966,7 @@ def main():
           "assuntos recentes na memória: %d"
           % (TETO, TETO_TENTATIVAS, ja, len(vistos)))
 
-    # Rodízio: seis seções com 3 tentativas cada dariam 18 redações por
-    # execução — quatro vezes o orçamento. Cada dia da semana cobre duas,
-    # e o jornal alterna entre os assuntos ao longo dos dias.
-    secoes = list(FONTES)
-    if so:
-        agenda = [so] if so in FONTES else []
-    else:
-        dia = date.today().timetuple().tm_yday
-        agenda = [secoes[(dia * 3 + i) % len(secoes)] for i in range(3)]
-        print("Seções de hoje: %s" % " · ".join(agenda))
-
-    total = 0
-    for secao in agenda:
-        config = FONTES.get(secao)
-        if not config:
-            continue
-        total += processar(secao, config, vistos, ensaio, TETO - ja - total)
-        if ja + total >= TETO:
-            break
+    total = processar(CONFIG, vistos, ensaio, TETO - ja)
 
     _, gasto_fim, _ = custo_do_mes()
     print("\n%d publicada(s). %d/%d hoje. Gasto no mês: US$ %.2f de US$ %.2f"
