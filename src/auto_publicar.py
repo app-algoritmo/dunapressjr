@@ -4,8 +4,8 @@
 Duna Press — publicação automática, educação escandinava.
 
 Uma matéria por dia, de fonte institucional nórdica, publicada fora da
-capa: entra no arquivo, não no índice. Quem chega por busca ou por link
-encontra; quem abre a home lê o jornal que o editor montou.
+capa: entra no arquivo, não no índice. Quem chega por link direto ou pela
+página /arquivo/ encontra; a capa, as editorias e a busca não a listam.
 
 Diferente de src/publicar.py, que abre Pull Request e espera aprovação,
 aqui a matéria vai ao ar sozinha. A revisão humana prévia foi substituída
@@ -254,14 +254,30 @@ CONFIG = {
     #   "tema"         fonte nórdica que fala de tudo — cobrar educação
     #   "regiao"       fonte de educação que cobre o mundo — cobrar o Norte
     #   "tema+regiao"  fonte ampla nos dois eixos — cobrar os dois
+    #
+    # SÓ ENTRA FEED VERIFICADO. Na execução de 20/08/2026, cinco endereços
+    # de catálogo falharam (três com erro, dois respondendo XML vazio) e o
+    # jornal ficou um dia inteiro sem pauta por isso. Endereço novo passa
+    # antes pelo tools/conferir_fontes.py e só então sobe para esta lista.
     "feeds": [
-        ("Conselho Nórdico", "https://www.norden.org/en/rss.xml", "tema"),
-        ("Skolverket", "https://www.skolverket.se/rss", ""),
-        ("Udir", "https://www.udir.no/rss/", ""),
-        ("Eurydice", "https://eurydice.eacea.ec.europa.eu/rss.xml", "regiao"),
-        ("UNESCO", "https://www.unesco.org/en/rss.xml", "tema+regiao"),
+        # Verificado em 20/08/2026: RSS 2.0 válido, datas no formato que
+        # recente() lê, títulos em inglês (o filtro de tema funciona).
+        # É o feed geral do governo norueguês — todos os ministérios —
+        # por isso o "tema" cobra educação item a item.
+        ("Governo da Noruega",
+         "https://www.regjeringen.no/en/rss/Rss/2581966/", "tema"),
     ],
 }
+
+# Candidatos a segundo e terceiro feed, AINDA NÃO TESTADOS. Aprovar no
+# tools/conferir_fontes.py antes de mover para CONFIG["feeds"] — os cinco
+# endereços que quebraram em 20/08 também pareciam razoáveis no papel.
+# Instituições que valem a busca do endereço certo:
+#   Governo da Suécia (regeringen.se — RSS por área, achar o de utbildning)
+#   Skolverket (assina comunicados via TT, não expõe RSS próprio evidente)
+#   Udir / Utdanningsdirektoratet (procurar em udir.no o caminho real)
+#   OKM Finlândia (okm.fi) · UVM Dinamarca (uvm.dk)
+#   Conselho Nórdico (norden.org — o /en/rss.xml devolve XML sem itens)
 
 
 # ── Utilidades ───────────────────────────────────────────────────────────
@@ -319,7 +335,10 @@ def ler_feed(nome, url):
 
     ns = {"atom": "http://www.w3.org/2005/Atom"}
     entradas = raiz.findall(".//item") or raiz.findall(".//atom:entry", ns)
-    for e in entradas[:12]:
+    # Num feed geral filtrado por tema, os 12 primeiros itens podem não
+    # conter educação nenhuma enquanto o 15º contém. Ler mais custa nada:
+    # o corte caro (redação) continua limitado pelo teto de tentativas.
+    for e in entradas[:40]:
         def campo(*tags):
             for t in tags:
                 achado = e.find(t) if not t.startswith("atom:") else e.find(t, ns)
