@@ -308,11 +308,40 @@ def slugificar(t, limite=72):
     return t.strip("-")
 
 
-def buscar(url, timeout=30):
-    req = urllib.request.Request(url, headers=CABECALHO)
+# Segundo cabeçalho, sem o marcador de robô. Primeira tentativa sempre se
+# identifica (transparência de quem somos); mas CDN de site institucional
+# costuma liberar o RSS — feito para robôs — e barrar páginas HTML quando
+# o User-Agent carrega marca de bot. Foi o que derrubou a matéria da NTNU
+# em 21/08/2026: feed ok, página da fonte com HTTPError. No bloqueio,
+# repete-se UMA vez como navegador comum, e o log registra que foi preciso.
+CABECALHO_NAVEGADOR = {
+    "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 "
+                   "Safari/537.36"),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en,nb;q=0.9,sv;q=0.8,da;q=0.7,pt;q=0.6",
+}
+
+
+def buscar(url, timeout=30, cabecalho=None):
+    req = urllib.request.Request(url, headers=cabecalho or CABECALHO)
     with urllib.request.urlopen(req, timeout=timeout) as r:
         bruto = r.read()
     return bruto.decode("utf-8", errors="replace")
+
+
+def buscar_fonte(url, timeout=30):
+    """Baixa a página da matéria, insistindo uma vez se o bloqueio for
+    de User-Agent. Erro final sai com o código HTTP, não só o nome da
+    classe — "HTTPError" sem número já custou dois diagnósticos."""
+    try:
+        return buscar(url, timeout)
+    except urllib.error.HTTPError as exc:
+        if exc.code in (401, 403, 406, 429):
+            print("    HTTP %d com UA identificado; tentando como navegador"
+                  % exc.code)
+            return buscar(url, timeout, CABECALHO_NAVEGADOR)
+        raise RuntimeError("HTTP %d ao baixar a fonte" % exc.code)
 
 
 def limpar_html(t):
@@ -885,11 +914,16 @@ def processar(config, vistos, ensaio, restantes):
         if assunto_repetido(item["titulo"], vistos):
             continue
 
+        # O feed anexa rastreadores (?utm_source=...) ao link. Fora eles:
+        # a fonte_primaria gravada no frontmatter fica limpa e a URL não
+        # carrega parâmetro que alguma regra de CDN possa embirrar.
+        item["url"] = item["url"].split("?utm_")[0]
+
         print(f"\n  · {item['titulo'][:64]}")
         try:
-            corpo_fonte = limpar_html(buscar(item["url"]))
+            corpo_fonte = limpar_html(buscar_fonte(item["url"]))
         except Exception as exc:
-            print(f"    fonte inacessível: {type(exc).__name__}")
+            print(f"    fonte inacessível: {exc}")
             continue
         if len(corpo_fonte.split()) < 120:
             print("    fonte curta demais para sustentar matéria")
