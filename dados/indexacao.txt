@@ -2,9 +2,9 @@ DUNA PRESS — CLASSIFICAÇÃO DE INDEXAÇÃO
 ==============================================================
 Piso editorial: 300 palavras · vazio: <40
 
-Acervo total ............  20374
-Indexado (o jornal) .....   6023    29.6%
-noindex, follow .........  14186    69.6%
+Acervo total ............  20380
+Indexado (o jornal) .....   6028    29.6%
+noindex, follow .........  14187    69.6%
 410 Gone (vazios) .......    165     0.8%
   dos indexados, preservados por tráfego: 138
 
@@ -12,7 +12,7 @@ MOTIVOS DE EXCLUSÃO  (um artigo pode ter mais de um)
 --------------------------------------------------------------
   noticia       10064    49.4% do acervo
   agencia        8608    42.2% do acervo
-  curto          4755    23.3% do acervo
+  curto          4756    23.3% do acervo
   duplicado       101     0.5% do acervo
 
 SOBREPOSIÇÃO DOS MOTIVOS
@@ -20,7 +20,7 @@ SOBREPOSIÇÃO DOS MOTIVOS
   agencia + noticia              4616
   noticia                        2862
   agencia                        1871
-  curto                          1441
+  curto                          1442
   curto + agencia + noticia      1336
   curto + noticia                1197
   curto + agencia                 760
@@ -45,15 +45,15 @@ O QUE SOBRA, POR ANO
   2023       1835    5447    ███████████████████████████████
   2024       1182    2048    ████████████████████
   2025        616     618    ██████████
-  2026        715     876    ████████████
+  2026        720     882    ████████████
 
 O QUE SOBRA, POR EDITORIA
 --------------------------------------------------------------
   Brasil                 449 de 10793     4.2%
   Mundo                 1343 de 2746     48.9%
-  Cultura               1333 de 1756     75.9%
-  Ciência & Saúde       1043 de 1470     71.0%
-  Economia               473 de 1223     38.7%
+  Cultura               1336 de 1759     76.0%
+  Ciência & Saúde       1044 de 1471     71.0%
+  Economia               474 de 1225     38.7%
   Política               227 de 1102     20.6%
   Esportes               586 de 639      91.7%
   Tecnologia             347 de 374      92.8%
