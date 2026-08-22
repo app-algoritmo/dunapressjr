@@ -671,7 +671,11 @@ def montar_capa(m, edicao):
 
     faixas = []
     for slug, ed in eds.items():
-        if slug == "opiniao":
+        # Opinião tem bloco próprio na coluna lateral. Brasil sai da grade
+        # de faixas por decisão editorial — a editoria continua existindo:
+        # /brasil/ é gerada, entra no sitemap e no arquivo, e as matérias
+        # seguem disputando manchete, secundárias e últimas por recência.
+        if slug in ("opiniao", "brasil"):
             continue
         sel = [a for a in arts if a["editoria"] == slug and a["url"] not in usados][:4]
         if len(sel) < 4:
