@@ -212,7 +212,7 @@ def cabecalho(editorias, atual=None, edicao=0):
     ano_rom = ROMANOS.get(anos, str(anos))
     atual_attr = ' aria-current="page"'
     # Brasil sai do menu superior por decisão editorial. A editoria continua
-    # existindo: a página /brasil/ é gerada, aparece no rodapé e no arquivo.
+    # existindo: a página /brasil/ é gerada normalmente e aparece no arquivo.
     itens = "".join(
         '<a href="/%s/"%s>%s</a>' % (s, atual_attr if s == atual else "", e(d["nome"]))
         for s, d in editorias.items() if s != "brasil")
@@ -238,8 +238,10 @@ def cabecalho(editorias, atual=None, edicao=0):
 
 
 def rodape(editorias, total):
+    # Brasil também sai da lista do rodapé. A editoria continua existindo:
+    # a página /brasil/ é gerada normalmente e aparece no arquivo.
     links = "".join(f'<li><a href="/{s}/">{e(d["nome"])}</a></li>'
-                    for s, d in editorias.items())
+                    for s, d in editorias.items() if s != "brasil")
     return f"""
 <footer class="rodape"><div class="env">
   <div class="rodape-grade">
