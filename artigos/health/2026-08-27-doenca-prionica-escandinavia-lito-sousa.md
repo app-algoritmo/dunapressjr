@@ -9,8 +9,8 @@ categories: "ciencia-e-saude"
 formato: reportagem
 proveniencia: humano
 revisor: Paulo Fernando de Barros
-fonte_primaria: ""
-fonte_nome: "ClinicalTrials.gov, EUROCJD, EFSA, CNN Brasil, revista Quem e canal Aviões e Músicas"
+fonte_primaria: "https://clinicaltrials.gov/study/NCT06153966"
+fonte_nome: "ClinicalTrials.gov, National Prion Disease Pathology Surveillance Center, Prion Alliance, EUROCJD, EFSA e canal Aviões e Músicas"
 data_do_fato: 2026-08-21
 featuredImage: "/assets/img/lito-sousa.jpeg"
 photoAuthor: ""
