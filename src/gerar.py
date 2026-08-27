@@ -3,7 +3,7 @@
 """Duna Press — gerador estático. Lê o manifesto e escreve HTML puro."""
 import os, re, json, html, unicodedata, hashlib, shutil, urllib.parse
 from collections import Counter, defaultdict
-from datetime import date
+from datetime import date, datetime, timedelta, timezone
 
 RAIZ = os.environ.get("DP_RAIZ", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 DADOS = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "dados")
@@ -19,12 +19,66 @@ ROMANOS = {1: "I", 2: "II", 3: "III", 4: "IV", 5: "V", 6: "VI", 7: "VII",
 # Primeira publicação do acervo. Baliza o número da edição e o "Ano".
 FUNDACAO = date(2017, 9, 10)
 
-# A data da edição é a de hoje, não uma constante. Ficou fixa desde a
-# construção e o cabeçalho passou a anunciar 7 de agosto enquanto as
-# matérias saíam com 9 — a contradição mais visível que um jornal pode ter.
+# ── O fuso do jornal ─────────────────────────────────────────────────────
+# A edição do Duna Press vira à meia-noite de Oslo, e só dela. Nenhum outro
+# fuso interessa: nem o do runner, nem o do leitor.
+#
+# date.today() lia o relógio da máquina. No GitHub Actions esse relógio é
+# UTC, que está uma ou duas horas atrás de Oslo. Resultado: toda construção
+# feita entre 00:00 e 02:00 de Oslo (01:00 no inverno) carimbava o dia
+# anterior no cabeçalho — que foi exatamente o caso do dia 27.
+#
+# Aqui a data passa a ser sempre a data civil de Oslo. Preferimos a base de
+# fusos do sistema; se ela faltar, aplicamos a regra da União Europeia à
+# mão, para que o gerador nunca dependa de um pacote opcional.
+TZ_JORNAL = "Europe/Oslo"
+
+
+def _deslocamento_oslo(agora_utc):
+    """CET (+1) ou CEST (+2) pela regra da UE: o horário de verão começa no
+    último domingo de março às 01:00 UTC e termina no último domingo de
+    outubro às 01:00 UTC."""
+    def ultimo_domingo(ano, mes):
+        d = date(ano, mes, 31)          # março e outubro têm 31 dias
+        return d - timedelta(days=(d.weekday() + 1) % 7)
+
+    ano = agora_utc.year
+    inicio = datetime(*ultimo_domingo(ano, 3).timetuple()[:3], 1, tzinfo=timezone.utc)
+    fim = datetime(*ultimo_domingo(ano, 10).timetuple()[:3], 1, tzinfo=timezone.utc)
+    return timedelta(hours=2) if inicio <= agora_utc < fim else timedelta(hours=1)
+
+
+def agora_oslo():
+    """Instante atual no fuso de Oslo, com deslocamento explícito."""
+    agora = datetime.now(timezone.utc)
+    try:
+        from zoneinfo import ZoneInfo
+        return agora.astimezone(ZoneInfo(TZ_JORNAL))
+    except Exception:
+        desloc = _deslocamento_oslo(agora)
+        return agora.astimezone(timezone(desloc))
+
+
+def carimbo_oslo(iso, hora=9):
+    """Data ISO do acervo (AAAA-MM-DD) convertida em carimbo completo no
+    fuso do jornal: 2026-08-27 → 2026-08-27T09:00:00+02:00. Usado nos
+    feeds. O deslocamento acompanha a estação da própria data, não a de
+    hoje, para que matérias antigas não mudem de hora ao serem regeradas."""
+    d = date.fromisoformat(iso)
+    try:
+        from zoneinfo import ZoneInfo
+        return datetime(d.year, d.month, d.day, hora,
+                        tzinfo=ZoneInfo(TZ_JORNAL)).isoformat()
+    except Exception:
+        referencia = datetime(d.year, d.month, d.day, hora, tzinfo=timezone.utc)
+        desloc = _deslocamento_oslo(referencia)
+        return datetime(d.year, d.month, d.day, hora,
+                        tzinfo=timezone(desloc)).isoformat()
+
+
 # DP_HOJE permite congelar a data em teste, sem afetar a publicação.
 HOJE = (date.fromisoformat(os.environ["DP_HOJE"])
-        if os.environ.get("DP_HOJE") else date.today())
+        if os.environ.get("DP_HOJE") else agora_oslo().date())
 
 
 def e(t):
@@ -202,6 +256,100 @@ FONTES = ('<link rel="preconnect" href="https://fonts.googleapis.com">'
 
 
 # ── Componentes ──────────────────────────────────────────────────────────
+# O HTML é estático: a data e o número da edição gravados aqui congelam no
+# momento da construção e só mudam quando há outro build. Como o cache do
+# edge serve a mesma página por horas, o cabeçalho podia anunciar ontem.
+#
+# Este script recalcula os dois no navegador, sempre em fuso de Oslo — não
+# no do leitor. Roda ao abrir a página, ao voltar para a aba e na virada
+# exata da meia-noite de Oslo, de modo que uma aba aberta a noite inteira
+# troca de edição sozinha. Sem JavaScript, valem os valores do build.
+#
+# As tabelas vêm das constantes do Python para que as duas contas não
+# possam divergir.
+RELOGIO_EDICAO = """<script>
+(function(){
+  var MESES = __MESES__, DIAS = __DIAS__, ROMANOS = __ROMANOS__;
+  var FUNDACAO = Date.UTC(__F_ANO__, __F_MES0__, __F_DIA__);
+  var DIA_MS = 86400000;
+
+  function campo(nome, valor){
+    var alvos = document.querySelectorAll('[data-dp="' + nome + '"]');
+    for (var i = 0; i < alvos.length; i++) alvos[i].textContent = valor;
+  }
+
+  function partesOslo(opcoes){
+    var p = {};
+    opcoes.timeZone = "__TZ__";
+    new Intl.DateTimeFormat("en-GB", opcoes).formatToParts(new Date())
+      .forEach(function(x){ p[x.type] = x.value; });
+    return p;
+  }
+
+  function milhar(n){
+    return String(n).replace(/\\B(?=(\\d{3})+(?!\\d))/g, ".");
+  }
+
+  function aplicar(){
+    var p;
+    try {
+      p = partesOslo({year: "numeric", month: "2-digit", day: "2-digit"});
+    } catch (erro) { return; }          // sem Intl, fica o valor do build
+    var ano = +p.year, mes = +p.month, dia = +p.day;
+    if (!ano || !mes || !dia) return;
+
+    var utc = Date.UTC(ano, mes - 1, dia);
+    var semana = DIAS[(new Date(utc).getUTCDay() + 6) % 7];
+    var mes_txt = MESES[mes - 1];
+
+    // Ano do jornal, contado da fundação — não do ano civil.
+    var anos = ano - __F_ANO__ + 1;
+    if (mes < __F_MES__ || (mes === __F_MES__ && dia < __F_DIA__)) anos -= 1;
+
+    // Número da edição: dias corridos desde a fundação.
+    var edicao = Math.round((utc - FUNDACAO) / DIA_MS) + 1;
+
+    campo("data-extenso", semana + ", " + dia + " de " + mes_txt + " de " + ano);
+    campo("ano-romano", ROMANOS[anos] || String(anos));
+    campo("edicao-numero", milhar(edicao));
+    campo("edicao-dia", dia + " de " + mes_txt);
+    campo("ano-civil", String(ano));
+  }
+
+  function agendar(){
+    var p;
+    try {
+      p = partesOslo({hour: "2-digit", minute: "2-digit",
+                      second: "2-digit", hourCycle: "h23"});
+    } catch (erro) { return; }
+    var falta = ((23 - +p.hour) * 3600 + (59 - +p.minute) * 60
+                 + (60 - +p.second)) * 1000 + 1500;
+    if (!(falta > 0)) falta = 60000;
+    setTimeout(function(){ aplicar(); agendar(); }, Math.min(falta, 2147483000));
+  }
+
+  aplicar();                                   // cabeçalho, ainda na análise
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", aplicar);   // rodapé
+  }
+  document.addEventListener("visibilitychange", function(){
+    if (!document.hidden) aplicar();
+  });
+  agendar();
+})();
+</script>"""
+RELOGIO_EDICAO = (RELOGIO_EDICAO
+    .replace("__MESES__", json.dumps(MESES, ensure_ascii=False))
+    .replace("__DIAS__", json.dumps(DIAS, ensure_ascii=False))
+    .replace("__ROMANOS__", json.dumps({str(k): v for k, v in ROMANOS.items()},
+                                       ensure_ascii=False))
+    .replace("__F_ANO__", str(FUNDACAO.year))
+    .replace("__F_MES0__", str(FUNDACAO.month - 1))
+    .replace("__F_MES__", str(FUNDACAO.month))
+    .replace("__F_DIA__", str(FUNDACAO.day))
+    .replace("__TZ__", TZ_JORNAL))
+
+
 def cabecalho(editorias, atual=None, edicao=0):
     dia = DIAS[HOJE.weekday()]
     data_txt = f"{dia}, {HOJE.day} de {MESES[HOJE.month - 1]} de {HOJE.year}"
@@ -219,7 +367,7 @@ def cabecalho(editorias, atual=None, edicao=0):
     return f"""
 <header>
   <div class="faixa-topo"><div class="env">
-    <span>{e(data_txt)}</span>
+    <span data-dp="data-extenso">{e(data_txt)}</span>
     <span><b>Jornalismo independente</b> desde 2017</span>
     <a class="assine" href="/assinatura/">Assine</a>
   </div></div>
@@ -227,14 +375,15 @@ def cabecalho(editorias, atual=None, edicao=0):
     <div class="masthead">
       <h1 class="marca"><a href="/"><span>Duna</span> <span>Press</span></a></h1>
       <div class="linha-edicao">
-        Ano {ano_rom}<i>·</i>Nº {milhar(edicao)}<i>·</i>Edição de {HOJE.day} de {MESES[HOJE.month-1]}
+        Ano <span data-dp="ano-romano">{ano_rom}</span><i>·</i>Nº <span data-dp="edicao-numero">{milhar(edicao)}</span><i>·</i>Edição de <span data-dp="edicao-dia">{HOJE.day} de {MESES[HOJE.month-1]}</span>
       </div>
     </div>
   </div>
   <nav class="nav" aria-label="Editorias"><div class="env">
     <a href="/"{' aria-current="page"' if atual is None else ""}>Capa</a>{itens}
   </div></nav>
-</header>"""
+</header>
+{RELOGIO_EDICAO}"""
 
 
 def rodape(editorias, total):
@@ -279,7 +428,7 @@ def rodape(editorias, total):
     </ul></div>
   </div>
   <div class="rodape-fim">
-    <span>© {HOJE.year} Duna Press ·
+    <span>© <span data-dp="ano-civil">{HOJE.year}</span> Duna Press ·
       <a href="/privacidade/">Privacidade</a> ·
       <a href="/cookies/">Cookies</a> ·
       <a href="/termos/">Termos</a></span>
@@ -1095,7 +1244,7 @@ var CAT = """ + json.dumps(de_para_cat, ensure_ascii=False) + """;
             "items": [{"id": f'https://dunapress.org{a["url"]}',
                        "url": f'https://dunapress.org{a["url"]}',
                        "title": a["titulo"], "summary": a["olho"],
-                       "date_published": a["data"] + "T09:00:00-03:00",
+                       "date_published": carimbo_oslo(a["data"]),
                        "authors": [{"name": a["autor"]}],
                        "tags": [a["editoria_nome"]]}
                       for a in indexaveis[:200]],
