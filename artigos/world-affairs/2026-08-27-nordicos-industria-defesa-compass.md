@@ -7,12 +7,12 @@ status: publish
 author: "Redação Duna Press"
 categories: "mundo"
 formato: explicador
-proveniencia: ia-assistido
+proveniencia: humano
 revisor: Paulo Fernando de Barros
 fonte_primaria: ""
 fonte_nome: "Apuração própria a partir de comunicados industriais e dados de defesa"
 data_do_fato: 2026-08-27
-featuredImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&q=75"
+featuredImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=75"
 photoAuthor: "NASA"
 photoSource: "Unsplash"
 tags:
@@ -23,7 +23,6 @@ tags:
   - suecia
   - finlandia
 ---
-
 Cinco empresas — Ericsson e Saab, da Suécia; Kongsberg, da Noruega; Nokia e Patria, da Finlândia — aderiram à trilha de defesa do Nordic Compass, aliança empresarial lançada em maio de 2026 e que reúne cerca de 30 grandes companhias da região. A primeira mesa redonda do eixo de defesa está marcada para Helsinque, com a presença prevista do presidente finlandês Alexander Stubb. O anúncio, no fim de agosto, não cria um ministério. Cria um canal em que indústria de telecomunicações, de sistemas de armas e de tecnologia tentam coordenar escala num momento de rearmamento europeu.
 
 Os países nórdicos respondem por cerca de 10% do gasto de defesa da OTAN na Europa, o que os coloca entre os quatro maiores blocos de despesa do continente. O dinheiro público cresce. A pergunta industrial é se a capacidade de produzir munição, sistemas de defesa aérea, drones, comunicações resistentes e sensores acompanha o orçamento. Sem coordenação, cada país compra no mercado internacional e compete pelos mesmos fornecedores. Com coordenação, há chance de padronizar requisitos, dividir linhas de produção e reduzir prazos.
@@ -38,4 +37,4 @@ A liderança da trilha ficou com Jyri Häkämies, ex-ministro da Defesa da Finl�
 
 Mesas empresariais fracassam quando viram cerimônia. Produção conjunta esbarra em regras de exportação, em requisitos nacionais de segurança e na recusa de cada capital de abrir mão de emprego local. A Suécia tem a Saab e uma base aeronáutica. A Noruega tem a Kongsberg e a tradição naval. A Finlândia tem a Patria e a urgência de fronteira. Sem divisão de trabalho real, o Compass vira foto.
 
-Em 26 de agosto de 2026 o gesto foi de adesão. O teste virá quando houver encomenda compartilhada com prazo e fábrica definidos. Até lá, o Norte tem orçamento, empresas e narrativa. Falta provar que consegue fabricar no ritmo da ameaça que diz enfrentar.
+Em 26 de agosto de 2026 o gesto foi de adesão. O teste virá quando houver encomenda compartilhada com prazo e fábrica definidos.

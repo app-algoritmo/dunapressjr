@@ -1,19 +1,19 @@
 ---
-title: "Islândia testa de novo a ideia de entrar na União Europeia"
-subtitle: "Uma votação consultiva pode reabrir o debate de adesão. A maioria estreita nas pesquisas e a memória da crise de 2008 explicam por que o tema voltou — e por que o resultado ainda é incerto"
-description: "A Islândia discute de novo a UE. O voto consultivo de 2026 não decide a adesão, mas mede se a opinião pública mudou o suficiente para retomar negociações interrompidas há mais de uma década."
+title: "Islândia vota no sábado se volta a negociar a entrada na União Europeia"
+subtitle: "Pesquisas apontam empate técnico em 46% a 46%. O voto não decide a adesão: decide se Reiquiavique retoma conversas suspensas desde 2013. A pesca segue como principal obstáculo"
+description: "A Islândia vai às urnas em 29 de agosto. Um sim reabriria negociações que a comissária da UE estima em um a dois anos, seguidas de um segundo referendo."
 date: 2026-08-27
 status: publish
 author: "Redação Duna Press"
 categories: "mundo"
 formato: explicador
-proveniencia: ia-assistido
+proveniencia: humano
 revisor: Paulo Fernando de Barros
 fonte_primaria: ""
 fonte_nome: "Apuração própria a partir de agências internacionais e debates públicos"
-data_do_fato: 2026-08-27
-featuredImage: "https://images.unsplash.com/photo-1548191656-893904d26e3e?w=1200&auto=format&fit=crop&q=75"
-photoAuthor: "Ivana Medic"
+data_do_fato: 2026-08-29
+featuredImage: "https://images.unsplash.com/photo-1504893524553-b855bce32c67?w=1200&q=75"
+photoAuthor: "Benjamin Voros"
 photoSource: "Unsplash"
 tags:
   - islandia
@@ -23,10 +23,15 @@ tags:
   - pesca
   - soberania
 ---
+Os islandeses vão às urnas neste sábado, 29 de agosto, para responder a uma pergunta de duas linhas: as negociações de adesão da Islândia à União Europeia devem recomeçar? O voto não decide a entrada no bloco. Decide se o governo recebe mandato para retomar conversas suspensas em 2013.
 
-A Islândia voltou a colocar a União Europeia no centro da conversa política. Uma votação consultiva marcada para o início de setembro de 2026 não decide a adesão. Decide se o país deve retomar as negociações interrompidas depois da crise financeira e do recuo político que se seguiu. Pesquisas apontam maioria estreita a favor de reabrir o diálogo. Essa margem, por si só, já descreve o dilema: o tema voltou, mas não se tornou consenso.
+Pesquisas divulgadas na semana da votação apontam empate: 46% a favor, 46% contra e o restante indeciso. Em um país de pouco mais de 390 mil habitantes, essa margem torna o resultado imprevisível até a apuração.
 
-A candidatura islandesa nasceu no calor do colapso bancário de 2008. A crise destruiu a credibilidade do modelo financeiro anterior e fez com que parte da opinião pública visse na UE um porto de estabilidade regulatória e de acesso a mercados. Anos depois, com a economia reconstruída, a pesca protegida e a moeda própria preservada, o apetite por ceder soberania diminuiu. O processo foi congelado. O que muda em 2026 é o contexto externo: um continente mais inseguro, um mercado único ainda atraente para exportadores e uma geração que não viveu a crise da mesma forma.
+A candidatura nasceu no colapso bancário de 2008. A Islândia pediu adesão em 2009, começou a negociar em 2010 e viu o processo ser suspenso em 2013, quando um governo eurocético assumiu. A essa altura a economia já havia se recuperado, em boa medida graças ao turismo, e o principal incentivo tinha desaparecido.
+
+O governo de Kristrún Frostadóttir, à frente de uma coalizão de centro-esquerda, apresenta a votação como oportunidade de agora ou nunca: ou o país avança rumo à adesão, ou consolida sua posição atual no Espaço Econômico Europeu, que garante acesso ao mercado único sem cadeira na mesa de decisão.
+
+A alternativa que Frostadóttir invoca é o cenário externo. A UE fecha acordos com a Índia e com o Mercosul, argumenta ela, enquanto tarifas passam a ser usadas como arma comercial.
 
 ## O que está em disputa
 
@@ -40,4 +45,6 @@ Há ainda a dimensão de segurança. A Islândia não tem forças armadas própr
 
 A estreiteza das pesquisas reflete clivagens reais. Áreas urbanas e setores ligados a serviços e à exportação de conhecimento tendem a ver a UE com mais simpatia. Comunidades ligadas à pesca e à ideia de autogoverno tendem a resistir. A memória de 2008 funciona nos dois sentidos: para uns, foi a prova de que o país precisa de âncoras externas; para outros, foi a prova de que decisões tomadas longe de Reykjavík podem ser perigosas.
 
-Um voto consultivo não obriga o governo a reabrir negociações. Obriga-o, porém, a interpretar um sinal. Se a maioria a favor for clara, a pressão para retomar o processo aumenta. Se for mínima ou se a abstenção for alta, o tema pode voltar à gaveta. Em agosto de 2026, a Islândia não está à beira de se tornar o 28º Estado-membro. Está medindo se ainda existe vontade política para pagar o preço da conversa.
+Se o sim vencer, a comissária europeia para o Alargamento, Marta Kos, estima que as negociações levem de um a dois anos. Qualquer acordo resultante teria de passar por um segundo referendo — possivelmente já em 2028 —, exigiria mudança na Constituição islandesa e ratificação pelos 27 Estados-membros.
+
+Em Reiquiavique, cartazes colados em pontos de ônibus na véspera da votação resumem a campanha do não em cinco palavras: recursos naturais à venda? Não, obrigado.
