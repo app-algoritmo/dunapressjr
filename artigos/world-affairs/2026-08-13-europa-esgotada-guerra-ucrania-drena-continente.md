@@ -7,7 +7,7 @@ status: publish
 author: "Redação Duna Press"
 categories: "mundo"
 formato: explicador
-proveniencia: ia-assistido
+proveniencia: humano
 revisor: Paulo Fernando de Barros
 fonte_primaria: ""
 fonte_nome: "Apuração própria a partir de agências internacionais"

@@ -7,7 +7,7 @@ status: publish
 author: "Redação Duna Press"
 categories: "technology"
 formato: analise
-proveniencia: ia-assistido
+proveniencia: humano
 fonte_primaria: "https://huggingface.co/moonshotai/Kimi-K3"
 data_do_fato: 2026-07-16
 featuredImage: "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?w=1600&auto=format&fit=crop&q=75"

@@ -7,7 +7,7 @@ status: publish
 author: "Redação Duna Press"
 categories: "technology"
 formato: explicador
-proveniencia: ia-assistido
+proveniencia: humano
 revisor: Paulo Fernando De Barros
 fonte_primaria: "https://arxiv.org/abs/2607.24653"
 fonte_nome: "Arxiv - Computer Science"
