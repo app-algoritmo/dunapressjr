@@ -1,0 +1,125 @@
+# Duna Press — publicação no GitHub Pages.
+#
+# O site é reconstruído a cada alteração em artigos/, src/, assets/ ou
+# editorial/, conferido, e só então publicado. Se a conferência reprovar,
+# o deploy não acontece e o site no ar permanece intacto.
+
+name: Publicar
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'artigos/**'
+      - 'src/**'
+      - 'assets/**'
+      - 'editorial/**'
+      - 'dados/excecoes.txt'
+
+  # A edição vira à meia-noite de Oslo. O cron do GitHub só entende UTC e
+  # não conhece horário de verão, então marcamos os dois instantes que
+  # correspondem a 00:00 em Oslo ao longo do ano:
+  #
+  #   22:00 UTC → 00:00 de Oslo no horário de verão (CEST, +2)
+  #   23:00 UTC → 00:00 de Oslo no horário padrão  (CET,  +1)
+  #
+  # Os dois rodam todo dia. O que cai fora da estação reconstrói o site com
+  # a mesma data que ele já tem — saída idêntica, nada muda no ar.
+  #
+  # A terceira marca é rede de segurança: execuções agendadas no GitHub são
+  # de melhor esforço e podem atrasar ou ser puladas em horário de pico.
+  # Se as duas primeiras falharem, esta ainda vira a data de madrugada.
+  schedule:
+    - cron: '0 22 * * *'
+    - cron: '0 23 * * *'
+    - cron: '0 2 * * *'
+
+  workflow_dispatch:
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Todo o pipeline lê o relógio em horário de Oslo, não no UTC do runner.
+# gerar.py já calcula a data da edição por conta própria; isto alinha
+# qualquer outro script que use data ou hora local.
+env:
+  TZ: Europe/Oslo
+
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Conferir o relógio da edição
+        run: |
+          echo "UTC no runner : $(date -u '+%Y-%m-%d %H:%M')"
+          echo "Oslo          : $(TZ=Europe/Oslo date '+%Y-%m-%d %H:%M %Z')"
+
+      - name: Migrar acervo
+        run: python3 src/migrar.py
+
+      - name: Classificar indexação
+        run: python3 src/classificar.py
+
+      - name: Gerar site
+        run: python3 src/gerar.py
+
+      - name: Conferir a saída
+        env:
+          # GitHub Pages não tem teto de arquivos como o Cloudflare.
+          # O limite real é 1 GB de publicação; avisamos bem antes disso.
+          DP_TETO_ARQUIVOS: '250000'
+        run: python3 tools/conferir_build.py
+
+      - name: Preparar artefato
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  publicar:
+    needs: construir
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+      # O cache do edge guarda o HTML por tempo longo, o que só é aceitável
+      # porque limpamos aqui. Sem este passo, uma notícia publicada agora
+      # levaria horas para aparecer para quem já visitou o site.
+      #
+      # Falha aqui não derruba a publicação: o site já está no ar, e cache
+      # velho é problema menor que um deploy marcado como quebrado.
+      - name: Limpar o cache do edge
+        continue-on-error: true
+        env:
+          ZONA: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+          TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          if [ -z "$ZONA" ] || [ -z "$TOKEN" ]; then
+            echo "Segredos da Cloudflare ausentes; cache não foi limpo."
+            exit 0
+          fi
+          resposta=$(curl -s -X POST \
+            "https://api.cloudflare.com/client/v4/zones/$ZONA/purge_cache" \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Content-Type: application/json" \
+            --data '{"purge_everything":true}')
+          echo "$resposta"
+          echo "$resposta" | grep -q '"success":true' \
+            && echo "Cache limpo." \
+            || { echo "Purge recusado pela Cloudflare."; exit 1; }
