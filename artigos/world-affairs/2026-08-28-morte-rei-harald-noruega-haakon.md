@@ -30,6 +30,8 @@ A bandeira real no topo do Palácio Real foi arriada no momento em que a notíci
 
 Harald estava internado desde 17 de agosto. A Casa Real informara então que ele vinha sendo tratado havia semanas com cortisona para anemia hemolítica, uma doença do sangue que provocara acúmulo de líquido no corpo. Era a primeira vez que a condição se tornava pública. Em 23 de agosto, o Palácio comunicou piora: o rei desenvolvera uma infecção bacteriana no sangue e recebia antibióticos.
 
+Foi a segunda internação de Harald neste ano. A primeira ocorreu pouco depois de seu aniversário de 89 anos, em fevereiro, quando ele recebeu tratamento em Tenerife, durante estadia privada com a rainha Sonja, por uma infecção na perna e por desidratação. Em fevereiro de 2024, durante férias na Malásia, precisou implantar um marca-passo e foi trazido de volta à Noruega em avião de evacuação médica.
+
 ## A sucessão foi imediata
 
 A Noruega não teve um instante sequer sem chefe de Estado. Pela Constituição, o trono passa automaticamente ao herdeiro no momento da morte do monarca — não há período de transição, interinidade ou aclamação prévia.
@@ -51,6 +53,10 @@ Harald assumiu em 17 de janeiro de 1991, após a morte do pai, Olav V. Tinha qua
 Nascido em Skaugum, em Asker, a sudoeste de Oslo, em 21 de fevereiro de 1937, foi o primeiro príncipe nascido em território norueguês em 567 anos — a dinastia anterior era dinamarquesa. Adotou o mesmo lema do pai e do avô: *Alt for Norge*, tudo pela Noruega.
 
 Casou-se com Sonja Haraldsen em 1968, depois de nove anos de relacionamento e da resistência da corte ao casamento com uma plebeia. A união exigiu o consentimento do pai e do governo.
+
+O casal teve dois filhos: Märtha Louise, nascida em 1971, e Haakon, em 1973. Pela ordem de sucessão vigente à época, o filho homem tinha precedência. A emenda constitucional de 1990 alterou a regra, e desde então herda o trono o primogênito, independentemente do sexo — mudança que se aplicou à geração seguinte.
+
+Foi Harald quem carregou a neta Ingrid Alexandra ao batismo, na capela do Palácio, em 2004. Naquele gesto, o rei levava aos braços a futura primeira rainha titular da Noruega.
 
 Em 22 de julho de 2011, quando 77 pessoas foram mortas no atentado ao complexo governamental de Oslo e na ilha de Utøya, a maior parte delas adolescentes, Harald tornou-se figura central de um país em choque.
 
