@@ -13,8 +13,8 @@ fonte_primaria: "https://clinicaltrials.gov/study/NCT06153966"
 fonte_nome: "ClinicalTrials.gov, National Prion Disease Pathology Surveillance Center, Prion Alliance, EUROCJD, EFSA e canal Aviões e Músicas"
 data_do_fato: 2026-08-21
 featuredImage: "/assets/img/lito-sousa.jpeg"
-photoAuthor: ""
-photoSource: "Ilustração gerada por IA — Duna Press"
+photoAuthor: "Ilustração Duna Press, gerada por IA"
+photoSource: ""
 tags:
   - doenca prionica
   - creutzfeldt-jakob
