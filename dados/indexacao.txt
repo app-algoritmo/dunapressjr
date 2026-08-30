@@ -2,28 +2,28 @@ DUNA PRESS — CLASSIFICAÇÃO DE INDEXAÇÃO
 ==============================================================
 Piso editorial: 300 palavras · vazio: <40
 
-Acervo total ............  20456
-Indexado (o jornal) .....   6101    29.8%
-noindex, follow .........  14190    69.4%
+Acervo total ............  20441
+Indexado (o jornal) .....   6097    29.8%
+noindex, follow .........  14179    69.4%
 410 Gone (vazios) .......    165     0.8%
   dos indexados, preservados por tráfego: 138
 
 MOTIVOS DE EXCLUSÃO  (um artigo pode ter mais de um)
 --------------------------------------------------------------
-  noticia       10064    49.2% do acervo
-  agencia        8608    42.1% do acervo
-  curto          4760    23.3% do acervo
+  noticia       10058    49.2% do acervo
+  agencia        8601    42.1% do acervo
+  curto          4754    23.3% do acervo
   duplicado       100     0.5% do acervo
 
 SOBREPOSIÇÃO DOS MOTIVOS
 --------------------------------------------------------------
-  agencia + noticia              4616
-  noticia                        2862
-  agencia                        1871
-  curto                          1446
-  curto + agencia + noticia      1336
-  curto + noticia                1197
-  curto + agencia                 760
+  agencia + noticia              4615
+  noticia                        2860
+  agencia                        1869
+  curto                          1445
+  curto + agencia + noticia      1334
+  curto + noticia                1196
+  curto + agencia                 758
   duplicado                        42
   duplicado + noticia              19
   duplicado + agencia + noticia     14
@@ -39,22 +39,22 @@ O QUE SOBRA, POR ANO
   2017          8      13    
   2018         95     212    ██
   2019        222     712    ████
-  2020        624    4814    ██████████
-  2021        315    2315    █████
-  2022        411    3319    ███████
-  2023       1835    5447    ███████████████████████████████
-  2024       1182    2048    ████████████████████
-  2025        616     618    ██████████
+  2020        624    4812    ██████████
+  2021        315    2314    █████
+  2022        411    3316    ███████
+  2023       1834    5442    ███████████████████████████████
+  2024       1181    2046    ████████████████████
+  2025        614     616    ██████████
   2026        793     958    █████████████
 
 O QUE SOBRA, POR EDITORIA
 --------------------------------------------------------------
-  Brasil                 449 de 10793     4.2%
-  Mundo                 1372 de 2775     49.4%
-  Cultura               1346 de 1770     76.0%
+  Brasil                 449 de 10787     4.2%
+  Mundo                 1371 de 2774     49.4%
+  Cultura               1345 de 1769     76.0%
   Ciência & Saúde       1057 de 1485     71.2%
   Economia               491 de 1243     39.5%
-  Política               227 de 1102     20.6%
+  Política               226 de 1096     20.6%
   Esportes               586 de 639      91.7%
-  Tecnologia             351 de 378      92.9%
+  Tecnologia             350 de 377      92.8%
   Opinião                222 de 271      81.9%
