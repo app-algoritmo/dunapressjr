@@ -12,8 +12,8 @@ revisor: Paulo Fernando de Barros
 fonte_primaria: ""
 fonte_nome: "Estado-Maior das Forças Armadas da Ucrânia, ISW e cronologias de 24 a 30 de agosto"
 data_do_fato: 2026-08-30
-featuredImage: "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=1200&q=75"
-photoAuthor: "Maks Nickel"
+featuredImage: "https://images.unsplash.com/photo-1647273426587-31512cdf2e50?w=1200&q=75"
+photoAuthor: "Taine Noble"
 photoSource: "Unsplash"
 tags:
   - ucrania
