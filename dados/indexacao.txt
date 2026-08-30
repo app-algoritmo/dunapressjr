@@ -2,33 +2,33 @@ DUNA PRESS — CLASSIFICAÇÃO DE INDEXAÇÃO
 ==============================================================
 Piso editorial: 300 palavras · vazio: <40
 
-Acervo total ............  20441
-Indexado (o jornal) .....   6097    29.8%
-noindex, follow .........  14179    69.4%
-410 Gone (vazios) .......    165     0.8%
-  dos indexados, preservados por tráfego: 138
+Acervo total ............  20272
+Indexado (o jornal) .....   6057    29.9%
+noindex, follow .........  14051    69.3%
+410 Gone (vazios) .......    164     0.8%
+  dos indexados, preservados por tráfego: 134
 
 MOTIVOS DE EXCLUSÃO  (um artigo pode ter mais de um)
 --------------------------------------------------------------
-  noticia       10058    49.2% do acervo
-  agencia        8601    42.1% do acervo
-  curto          4754    23.3% do acervo
-  duplicado       100     0.5% do acervo
+  noticia       10000    49.3% do acervo
+  agencia        8512    42.0% do acervo
+  curto          4703    23.2% do acervo
+  duplicado        98     0.5% do acervo
 
 SOBREPOSIÇÃO DOS MOTIVOS
 --------------------------------------------------------------
-  agencia + noticia              4615
-  noticia                        2860
-  agencia                        1869
-  curto                          1445
-  curto + agencia + noticia      1334
-  curto + noticia                1196
-  curto + agencia                 758
+  agencia + noticia              4598
+  noticia                        2842
+  agencia                        1827
+  curto                          1440
+  curto + agencia + noticia      1328
+  curto + noticia                1181
+  curto + agencia                 735
   duplicado                        42
   duplicado + noticia              19
   duplicado + agencia + noticia     14
-  duplicado + curto + noticia      13
-  duplicado + curto + agencia + noticia      7
+  duplicado + curto + noticia      12
+  duplicado + curto + agencia + noticia      6
   duplicado + agencia               4
   arquivado pelo editor             2
   duplicado + curto                 1
@@ -38,23 +38,23 @@ O QUE SOBRA, POR ANO
   ano    indexado      de    perfil                    
   2017          8      13    
   2018         95     212    ██
-  2019        222     712    ████
-  2020        624    4812    ██████████
-  2021        315    2314    █████
-  2022        411    3316    ███████
-  2023       1834    5442    ███████████████████████████████
-  2024       1181    2046    ████████████████████
-  2025        614     616    ██████████
-  2026        793     958    █████████████
+  2019        219     707    ████
+  2020        621    4798    ██████████
+  2021        315    2310    █████
+  2022        410    3291    ███████
+  2023       1828    5355    ██████████████████████████████
+  2024       1164    2025    ███████████████████
+  2025        604     606    ██████████
+  2026        793     955    █████████████
 
 O QUE SOBRA, POR EDITORIA
 --------------------------------------------------------------
-  Brasil                 449 de 10787     4.2%
-  Mundo                 1371 de 2774     49.4%
-  Cultura               1345 de 1769     76.0%
+  Brasil                 447 de 10726     4.2%
+  Mundo                 1367 de 2769     49.4%
+  Cultura               1343 de 1767     76.0%
   Ciência & Saúde       1057 de 1485     71.2%
-  Economia               491 de 1243     39.5%
-  Política               226 de 1096     20.6%
+  Economia               490 de 1241     39.5%
+  Política               204 de 1007     20.3%
   Esportes               586 de 639      91.7%
-  Tecnologia             350 de 377      92.8%
-  Opinião                222 de 271      81.9%
+  Tecnologia             343 de 369      93.0%
+  Opinião                220 de 269      81.8%
