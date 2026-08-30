@@ -27,8 +27,8 @@ derivado do título             1715    8.4%
 
 POR PORTE
 ----------------------------------------------------
-Longa (800+ palavras)     3781
-Média (300–799)          11670
+Longa (800+ palavras)     3782
+Média (300–799)          11669
 Curta (<300)              4995   ← candidatos a arquivo
 
 POR ANO
