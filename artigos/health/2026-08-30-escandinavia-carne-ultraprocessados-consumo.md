@@ -1,7 +1,7 @@
 ---
-title: "Os nórdicos comem quase o dobro da carne vermelha que recomendam a si mesmos"
-subtitle: "A diretriz oficial na Noruega e na Suécia é de 350 gramas por semana. O consumo médio norueguês é de 623 gramas; o sueco, de 521. Apenas 40% dos noruegueses ficam dentro do limite que o próprio Estado publica"
-description: "Dados oficiais de Noruega e Suécia mostram consumo de carne vermelha muito acima da recomendação. A queda recente tem mais a ver com preço e escassez do que com saúde."
+title: "O que mudou no prato escandinavo: consumo de carne em queda, preço em alta e a diretriz cada vez mais distante"
+subtitle: "A carne vermelha recuou ao menor nível em 25 anos na Noruega e 9% desde o pico sueco de 2016. Mas o consumo segue quase o dobro da recomendação oficial, e a queda recente tem mais a ver com preço do que com dieta"
+description: "Três anos de mudança no consumo de carne na Escandinávia: menos carne vermelha, mais frango, embutidos em queda longa e preços que explicam mais que a diretriz nutricional."
 date: 2026-08-30
 status: publish
 author: "Redação Duna Press"
