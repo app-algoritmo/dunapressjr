@@ -12,7 +12,7 @@ revisor: Paulo Fernando de Barros
 fonte_primaria: "https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2025-2026/king-haakon-to-take-the-oath-of-allegiance-before-the-storting-on-1st-september/"
 fonte_nome: "Stortinget, NRK, Aftenposten, TV 2, Casa Real e Reuters"
 data_do_fato: 2026-09-01
-featuredImage: "assets/img/o-rei-haakon-prestou-juramento.jpeg"
+featuredImage: "/assets/img/o-rei-haakon-prestou-juramento.jpeg"
 photoAuthor: "Lise Åserud/NTB"
 photoSource: "NTB"
 tags:
