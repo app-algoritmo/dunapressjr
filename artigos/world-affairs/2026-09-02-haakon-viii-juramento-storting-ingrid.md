@@ -13,8 +13,8 @@ fonte_primaria: "https://www.stortinget.no/en/In-English/About-the-Storting/News
 fonte_nome: "Stortinget, NRK, Aftenposten, TV 2, Casa Real e Reuters"
 data_do_fato: 2026-09-01
 featuredImage: "/assets/img/o-rei-haakon-prestou-juramento.jpeg"
-photoAuthor: "Lise Åserud/NTB"
-photoSource: "NTB"
+photoAuthor: "Lise Åserud"
+photoSource: "NTB via Kongehuset.no"
 tags:
   - noruega
   - haakon viii
