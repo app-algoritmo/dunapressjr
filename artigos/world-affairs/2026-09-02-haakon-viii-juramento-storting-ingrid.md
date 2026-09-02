@@ -45,11 +45,19 @@ Em português, na versão que o próprio Storting publica em inglês e que o rei
 
 Não há adorno. Não há segundo parágrafo no juramento. A limitação do rei é a frase inteira.
 
+![O rei entrega o juramento e a declaração por escrito ao presidente do Storting, Masud Gharahkhani, no tapete vermelho do plenário](/assets/img/o-rei-haakon-prestou-juramento-iii.jpeg)
+
+Foto: Håkon Mosvold Larsen / NTB via Kongehuset.no
+
 ## O que o rei disse depois, e a vênia
 
 Haakon não se calou no amém. Fez o discurso curto que o protocolo prevê. Hola e a Casa Real reproduziram o núcleo: neste primeiro encontro entre os representantes do povo e ele, como rei da Noruega, esperava que a boa relação que existiu entre o Storting e o pai, o avô Olav e o bisavô Haakon se mantivesse e se desenvolvesse à medida das tarefas que o país vai enfrentar. Disse ainda que ele e a rainha se colocavam à disposição para cumprir a missão pelo país e pelo povo. Adotou o lema que já era do bisavô e do pai: «Alt for Norge» — Tudo pela Noruega.
 
 A NRK fechou o título com o gesto que o texto não descreve: depois da fala, o rei fez uma vênia ao Storting. O monarca que a Constituição limita cumprimenta a assembleia que o limita. O plenário cheio de preto recebeu o gesto no silêncio que este tipo de sessão pede.
+
+![Deputados, governo e convidados de pé no plenário do Storting durante a cerimônia](/assets/img/o-rei-haakon-prestou-juramento-ii.jpeg)
+
+Foto: Lise Åserud / NTB via Kongehuset.no
 
 ## O que Gharahkhani devolveu
 
