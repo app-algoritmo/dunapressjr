@@ -388,3 +388,37 @@ pre.codigo code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
 @media print{
   .nav,.faixa-topo,.rodape,.duna{display:none}
 }
+
+/* ── Publicidade ─────────────────────────────────────────────── */
+/* Largura num ponto só. 336px é o retângulo clássico: cabe em qualquer
+   tela e não domina a coluna de texto, que tem 760px. Subir este número
+   aumenta a receita e a presença do anúncio na página, na mesma medida. */
+:root{ --anuncio-larg:336px }
+
+.publicidade{
+  display:block; max-width:var(--anuncio-larg); margin:38px auto;
+  text-align:center;
+  border-top:1px solid var(--fio); border-bottom:1px solid var(--fio);
+  /* Altura reservada antes de o anúncio chegar. Sem isso o bloco entra
+     depois do texto já desenhado e empurra o parágrafo para baixo, que é
+     o que o Core Web Vitals mede como CLS. */
+  min-height:274px;
+}
+.publicidade .rotulo-anuncio{
+  display:block; padding:5px 0;
+  font-family:var(--util); font-size:10px; font-weight:500;
+  letter-spacing:.14em; text-transform:uppercase; color:var(--tinta-3);
+}
+/* Dentro do corpo o espaçamento acompanha o ritmo dos parágrafos. */
+.texto .publicidade{ margin:34px auto }
+
+/* Bloqueador ativo ou inventário vazio: o <ins> fica com altura zero e
+   sobraria uma moldura com a palavra "Publicidade" dentro. */
+.publicidade:has(.adsbygoogle[data-ad-status="unfilled"]){ display:none }
+
+@media(max-width:640px){
+  .publicidade{ margin:30px auto }
+}
+@media print{
+  .publicidade{ display:none }
+}
