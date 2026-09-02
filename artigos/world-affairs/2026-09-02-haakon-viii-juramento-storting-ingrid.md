@@ -1,5 +1,5 @@
 ---
-title: "O rei Haakon VIII jurou. A filha futura rainha estava ao seu lado. A rainha mãe não pôde entrar"
+title: "O rei Haakon VIII jurou. A filha futura rainha estava ao seu lado"
 subtitle: "Às 13h06 de 1º de setembro, no plenário cheio do Storting, Haakon VIII pronunciou o artigo 9º da Constituição. Ingrid Alexandra, de preto e véu, ocupou o lugar que a cirurgia da mãe deixou vazio. A cerimônia durou 17 minutos. O rei, no fim, fez uma vênia ao Parlamento"
 description: "Juramento de Haakon VIII no Storting em 1/9/2026: texto constitucional, discurso, protocolo de Gharahkhani, ausência de Mette-Marit e a herdeira ao lado do trono."
 date: 2026-09-02
