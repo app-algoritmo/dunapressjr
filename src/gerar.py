@@ -440,7 +440,7 @@ def rodape(editorias, total):
 # Cartão de compartilhamento. WhatsApp, Telegram, Facebook, Instagram e
 # LinkedIn leem Open Graph; o X lê Twitter Cards e cai no Open Graph quando
 # elas faltam. Sem og:image não há cartão nenhum: o link vai cru.
-IMAGEM_PADRAO = "https://dunapress.org/assets/img/duna-share.jpg"
+IMAGEM_PADRAO = "https://dunapress.org/assets/img/og-default.jpg"
 
 
 def absoluta(url):
