@@ -34,6 +34,25 @@ def limpar(valor):
     return novo
 
 
+def desaspar(valor):
+    """Tira as aspas do YAML e desfaz o escape interno. Título com
+    dois-pontos ou apóstrofo vem entre aspas simples, com '' no lugar de ',
+    e tratá-lo como texto solto corrompe o campo."""
+    v = valor.strip()
+    if len(v) >= 2 and v[0] == v[-1] == '"':
+        return v[1:-1].replace('\\"', '"')
+    if len(v) >= 2 and v[0] == v[-1] == "'":
+        return v[1:-1].replace("''", "'")
+    return v
+
+
+def aspar(valor):
+    """Reescreve o valor com o tipo de aspas que o conteúdo permite."""
+    if '"' in valor:
+        return "'" + valor.replace("'", "''") + "'"
+    return '"' + valor + '"'
+
+
 def campos_do_frontmatter(texto):
     """Devolve (linhas, indice_de_fechamento). Frontmatter mal formado
     devolve indice None, e o arquivo é ignorado em vez de corrompido."""
@@ -72,15 +91,14 @@ def main():
             if not m:
                 continue
             campo, valor = m.group(1), m.group(2)
-            aspas = valor.startswith('"') and valor.endswith('"')
-            miolo = valor[1:-1] if aspas else valor
+            miolo = desaspar(valor)
             if not TAG.search(miolo) and "&" not in miolo:
                 continue
             novo = limpar(miolo)
             if novo == miolo:
                 continue
             sujos.append((caminho, campo, miolo, novo))
-            linhas[i] = f'{campo}: "{novo}"'
+            linhas[i] = f"{campo}: {aspar(novo)}"
             mudou = True
 
             if campo == "title":
