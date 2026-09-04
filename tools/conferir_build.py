@@ -66,7 +66,26 @@ def main():
         relatar()
 
     # ── Sitemap ──────────────────────────────────────────────────────────
+    # O gerador emite um índice de sitemaps: sitemap.xml lista os arquivos
+    # filhos e não contém URL de matéria nenhuma. Contar <loc> no índice dá
+    # o número de filhos, não de páginas, e reprovava o build por engano.
+    # Quando é índice, lemos os filhos e seguimos com o conteúdo deles —
+    # substituindo, não somando, para os próprios .xml não entrarem na conta.
     sm = open(os.path.join(SITE, "sitemap.xml"), encoding="utf-8").read()
+    if "<sitemapindex" in sm:
+        filhos = re.findall(
+            r"<loc>https://dunapress\.org/([^<]+\.xml)</loc>", sm)
+        exigir(bool(filhos), "sitemapindex sem filhos")
+        partes = []
+        for nome in filhos:
+            caminho = os.path.join(SITE, nome)
+            if not os.path.exists(caminho):
+                falhas.append(f"sitemap filho ausente: {nome}")
+                continue
+            partes.append(open(caminho, encoding="utf-8").read())
+        if partes:
+            sm = "\n".join(partes)
+
     n = sm.count("<loc>")
     exigir(n >= MINIMO_SITEMAP,
            f"sitemap com {n} URLs, abaixo do piso de {MINIMO_SITEMAP}")
