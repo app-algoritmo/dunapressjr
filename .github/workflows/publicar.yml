@@ -86,11 +86,22 @@ jobs:
             echo "Segredos da Cloudflare ausentes; cache não foi limpo."
             exit 0
           fi
+          # So o que muda a cada publicacao. A versao anterior usava
+          # purge_everything e, com 6 a 10 materias por dia mais o cron
+          # diario, o cache das 20 mil paginas nunca aquecia: era a causa
+          # dos 15% de taxa de acerto. Materia nova e URL nova, nunca
+          # esteve em cache e nao precisa de purge.
+          ALVOS='"https://dunapress.org/","https://dunapress.org/sitemap.xml","https://dunapress.org/rss.xml","https://dunapress.org/arquivo/","https://dunapress.org/autores/","https://dunapress.org/api/busca.json","https://dunapress.org/api/artigos.json"'
+          for s in brasil mundo economia politica ciencia-e-saude \
+                   tecnologia cultura esportes opiniao; do
+            ALVOS="$ALVOS,\"https://dunapress.org/$s/\""
+          done
+
           resposta=$(curl -s -X POST \
             "https://api.cloudflare.com/client/v4/zones/$ZONA/purge_cache" \
             -H "Authorization: Bearer $TOKEN" \
             -H "Content-Type: application/json" \
-            --data '{"purge_everything":true}')
+            --data "{\"files\":[$ALVOS]}")
           echo "$resposta"
           echo "$resposta" | grep -q '"success":true' \
             && echo "Cache limpo." \
