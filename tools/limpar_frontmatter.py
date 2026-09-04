@@ -13,13 +13,29 @@ Por padrão só relata. Nada é escrito sem --aplicar.
     python3 tools/limpar_frontmatter.py --duplicatas    # títulos repetidos
     python3 tools/limpar_frontmatter.py --aplicar       # grava as correções
 """
-import os, re, sys, html, glob
+import os, re, sys, html, glob, unicodedata
 from collections import defaultdict
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ARTIGOS = os.path.join(RAIZ, "artigos")
 
 CAMPOS = ("title", "subtitle", "description")
+
+# Onde migrar.py grava os mapas de redirecionamento.
+DADOS = os.path.join(RAIZ, "dados")
+MAPA = os.path.join(DADOS, "redirects-titulos.map")
+
+
+def slugificar(texto, limite=72):
+    """Cópia literal de src/migrar.py. Se divergir, o mapa aponta para
+    endereço que não existe — pior do que não ter mapa."""
+    t = unicodedata.normalize("NFKD", texto).encode("ascii", "ignore").decode()
+    t = re.sub(r"[^\w\s-]", "", t.lower())
+    t = re.sub(r"[\s_-]+", "-", t).strip("-")
+    if len(t) > limite:
+        corte = t[:limite].rsplit("-", 1)[0]
+        t = corte or t[:limite]
+    return t.strip("-")
 
 # Só tag HTML de verdade. Um título legítimo pode conter "<" solto
 # (por exemplo "PIB < 1%"), e esse não deve ser tocado.
@@ -75,7 +91,7 @@ def main():
         print(f"Nenhum .md em {ARTIGOS}")
         sys.exit(1)
 
-    sujos, ignorados = [], []
+    sujos, ignorados, mudancas_de_slug = [], [], []
     por_titulo = defaultdict(list)
 
     for caminho in arquivos:
@@ -103,6 +119,13 @@ def main():
 
             if campo == "title":
                 por_titulo[novo.lower()].append(caminho)
+                # O slug só vem do título quando o artigo não tem slug do
+                # WordPress. Não sabemos aqui qual é o caso, então
+                # registramos o par sempre: um redirect a mais é inócuo,
+                # um a menos é 404 numa URL indexada.
+                antes_slug, depois_slug = slugificar(miolo), slugificar(novo)
+                if antes_slug and depois_slug and antes_slug != depois_slug:
+                    mudancas_de_slug.append((antes_slug, depois_slug, caminho))
 
         if campo_titulo := next(
                 (re.match(r'^title:\s*"?(.*?)"?\s*$', linhas[i])
@@ -138,7 +161,22 @@ def main():
     for c in ignorados[:10]:
         print(f"  ignorado, frontmatter mal formado: {os.path.relpath(c, RAIZ)}")
 
+    if mudancas_de_slug:
+        print(f"URLs que mudam de endereço: {len(mudancas_de_slug)}")
+        for a, b, _ in mudancas_de_slug[:8]:
+            print(f"    /{a}/  ->  /{b}/")
+        if len(mudancas_de_slug) > 8:
+            print(f"    (e mais {len(mudancas_de_slug) - 8})")
+        print()
+
     if aplicar:
+        if mudancas_de_slug:
+            os.makedirs(DADOS, exist_ok=True)
+            with open(MAPA, "w", encoding="utf-8") as fh:
+                for antigo, novo_slug, _ in mudancas_de_slug:
+                    fh.write(f"/{antigo}/ /{novo_slug}/ 301\n")
+            print(f"{len(mudancas_de_slug)} redirect(s) em "
+                  f"{os.path.relpath(MAPA, RAIZ)}")
         print(f"\n{len(sujos)} campo(s) corrigido(s) e gravado(s).")
     else:
         print("\nDiagnóstico apenas. Rode com --aplicar para gravar.")
