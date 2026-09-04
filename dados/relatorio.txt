@@ -21,8 +21,8 @@ Opinião               269   (3 categorias absorvidas)
 
 ORIGEM DO SLUG
 ----------------------------------------------------
-wordpress: data+slug          16741   82.4%
-derivado do título             1933    9.5%
+wordpress: data+slug          16742   82.4%
+derivado do título             1932    9.5%
 wordpress: título              1649    8.1%
 
 POR PORTE
