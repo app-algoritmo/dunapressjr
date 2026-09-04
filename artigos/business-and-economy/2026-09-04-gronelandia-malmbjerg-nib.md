@@ -1,7 +1,7 @@
 ---
 title: "Cento e vinte milhões para um fiordo de molibdênio"
 subtitle: "A Nordic Investment Bank emitiu carta de intenções de 120 milhões de dólares para o projeto Malmbjerg, na Groenlândia. O Ártico desta edição não é cúpula. É mina de metal que a transição pede e a ilha discute"
-description: "Malmbjerg: LOI de 120 milhões de dólares da NIB à Greenland Resources. Molibdénio, autonomia de Nuuk e o banco que os cinco pagam."
+description: "Malmbjerg: LOI de 120 milhões de dólares da NIB à Greenland Resources. Molibdênio, autonomia de Nuuk e o banco que os cinco pagam."
 date: 2026-09-04
 status: publish
 author: "Redação Duna Press"
@@ -12,8 +12,8 @@ revisor: Paulo Fernando de Barros
 fonte_primaria: ""
 fonte_nome: "Mining.com e Nordic Investment Bank, carta de intenções divulgada no início de setembro de 2026"
 data_do_fato: 2026-09-03
-featuredImage: "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1600&q=75"
-photoAuthor: "Dominik Vanyi"
+featuredImage: "https://images.unsplash.com/photo-1724600011363-99c4ed64b64a?w=1200&auto=format&fit=crop&q=75"
+photoAuthor: "Mikhail | luxkstn"
 photoSource: "Unsplash"
 tags:
   - gronelandia
