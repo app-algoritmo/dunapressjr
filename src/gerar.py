@@ -607,6 +607,54 @@ def img(a, legenda=True, prioritaria=False):
             f'{cred}</figure>')
 
 
+_POOL_RELACIONADOS = {}
+
+
+def escolher_relacionados(a, arts, quantos=4):
+    """Quatro materias da mesma editoria, como antes, mas distribuidas pelo
+    acervo em vez de sempre as quatro mais recentes.
+
+    A versao anterior cortava [:4] de uma lista ordenada por data, entao
+    todas as materias de uma editoria apontavam para as mesmas quatro. Com
+    6.104 paginas indexaveis o bloco gerava 9 destinos distintos, e 85% do
+    acervo nao recebia link interno nenhum: o Google via essas paginas so
+    pelo sitemap, que e sugestao, nao voto.
+
+    A janela desliza por hash do proprio slug. E deterministico, entao o
+    build e reproduzivel e o cache do edge nao invalida a toa.
+    """
+    ed = a["editoria"]
+    pool = _POOL_RELACIONADOS.get(ed)
+    if pool is None:
+        pool = [x for x in arts if x.get("indexar", True) and x["editoria"] == ed]
+        _POOL_RELACIONADOS[ed] = pool
+
+    candidatos = [x for x in pool if x["url"] != a["url"]]
+    if len(candidatos) <= quantos:
+        return candidatos
+
+    escolhidos, vistos = [], {a["url"]}
+
+    tags = {t.lower() for t in (a.get("tags") or []) if t}
+    if tags:
+        for x in candidatos:
+            if len(escolhidos) >= quantos - 2:
+                break
+            if tags & {t.lower() for t in (x.get("tags") or []) if t}:
+                escolhidos.append(x)
+                vistos.add(x["url"])
+
+    resto = [x for x in candidatos if x["url"] not in vistos]
+    if resto:
+        semente = int(hashlib.sha1(a["slug"].encode("utf-8")).hexdigest()[:8], 16)
+        inicio = semente % len(resto)
+        i = 0
+        while len(escolhidos) < quantos and i < len(resto):
+            escolhidos.append(resto[(inicio + i) % len(resto)])
+            i += 1
+
+    return escolhidos[:quantos]
+
 def chamada(a, classe="", com_img=False, com_olho=True, limite_olho=150):
     olho = ""
     if com_olho and a.get("olho"):
@@ -1051,8 +1099,7 @@ def montar_artigo(m, a, edicao):
            urllib.parse.quote(endereco)))
 
 
-    relacionados = [x for x in arts if x.get("indexar", True)
-                    and x["editoria"] == a["editoria"] and x["url"] != a["url"]][:4]
+    relacionados = escolher_relacionados(a, arts)
     minutos = max(1, round(a["palavras"] / 220))
     # Proveniência declarada em toda matéria. É a resposta honesta à
     # pergunta que todo leitor faz em 2026 antes mesmo de ler.
