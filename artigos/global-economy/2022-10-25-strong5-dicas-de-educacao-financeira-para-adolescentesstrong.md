@@ -1,5 +1,5 @@
 ---
-title: <strong>5 dicas de educação financeira para adolescentes</strong>
+title: "5 dicas de educação financeira para adolescentes"
 date: 2022-10-25
 status: publish
 author: Fernanda Teodoro

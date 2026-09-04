@@ -1,5 +1,5 @@
 ---
-title: <strong>Ministério da Economia e BID criarão Centro Integrado de Segurança
+title: "Ministério da Economia e BID criarão Centro Integrado de Segurança"
   Cibernética do Governo Digital</strong>
 date: 2022-09-15
 status: publish

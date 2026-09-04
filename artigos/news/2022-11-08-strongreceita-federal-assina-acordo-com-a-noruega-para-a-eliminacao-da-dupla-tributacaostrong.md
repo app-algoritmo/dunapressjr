@@ -1,5 +1,5 @@
 ---
-title: <strong>Receita Federal assina acordo com a Noruega para a eliminação da dupla
+title: "Receita Federal assina acordo com a Noruega para a eliminação da dupla"
   tributação</strong>
 date: 2022-11-08
 status: publish

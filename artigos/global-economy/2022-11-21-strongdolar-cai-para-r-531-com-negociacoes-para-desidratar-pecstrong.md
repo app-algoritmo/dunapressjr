@@ -1,5 +1,5 @@
 ---
-title: <strong>Dólar cai para R$ 5,31 com negociações para desidratar PEC</strong>
+title: "Dólar cai para R$ 5,31 com negociações para desidratar PEC"
 date: 2022-11-21
 status: publish
 author: "Joabson João"

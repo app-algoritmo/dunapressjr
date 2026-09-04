@@ -1,5 +1,5 @@
 ---
-title: <strong>Maioria dos reajustes salariais em outubro ficou acima da inflação</strong>
+title: "Maioria dos reajustes salariais em outubro ficou acima da inflação"
 date: 2022-11-25
 status: publish
 author: "Joabson João"

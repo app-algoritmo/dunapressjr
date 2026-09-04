@@ -1,5 +1,5 @@
 ---
-title: <strong>Exposição da União a riscos específicos totaliza R$ 4,9 trilhões em
+title: "Exposição da União a riscos específicos totaliza R$ 4,9 trilhões em"
   2022</strong>
 date: 2022-11-25
 status: publish

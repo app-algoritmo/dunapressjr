@@ -1,5 +1,5 @@
 ---
-title: <strong>The Serpent Queen</strong>
+title: "The Serpent Queen"
 date: 2022-08-18
 status: publish
 author: Nazareth Fonseca

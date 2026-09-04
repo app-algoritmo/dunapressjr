@@ -1,5 +1,5 @@
 ---
-title: <strong>Pedro Sánchez eleito presidente da Internacional Socialista</strong>
+title: "Pedro Sánchez eleito presidente da Internacional Socialista"
 date: 2022-11-26
 status: publish
 author: "Joabson João"

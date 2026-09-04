@@ -1,5 +1,5 @@
 ---
-title: <strong>Desempregado? 9 Opções para montar um negócio com pouco dinheiro</strong>
+title: "Desempregado? 9 Opções para montar um negócio com pouco dinheiro"
 date: 2022-08-17
 status: publish
 author: Vanessa Fagundes

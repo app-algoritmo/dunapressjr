@@ -1,5 +1,5 @@
 ---
-title: <strong>BC estabelece limite de cobrança de taxas nas máquinas de cartão</strong>
+title: "BC estabelece limite de cobrança de taxas nas máquinas de cartão"
 date: 2022-09-27
 status: publish
 author: "Joabson João"

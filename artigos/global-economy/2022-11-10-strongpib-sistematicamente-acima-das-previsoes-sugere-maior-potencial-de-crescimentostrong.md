@@ -1,5 +1,5 @@
 ---
-title: <strong>PIB sistematicamente acima das previsões sugere maior potencial de
+title: "PIB sistematicamente acima das previsões sugere maior potencial de"
   crescimento</strong>
 date: 2022-11-10
 status: publish

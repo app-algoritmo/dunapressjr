@@ -1,5 +1,5 @@
 ---
-title: '<strong><em>O Predador: A Caçada</em></strong>'
+title: "O Predador: A Caçada"
 date: 2022-08-11
 status: publish
 author: Nazareth Fonseca

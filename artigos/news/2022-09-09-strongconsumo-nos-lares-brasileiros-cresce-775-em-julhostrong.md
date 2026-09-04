@@ -1,5 +1,5 @@
 ---
-title: <strong>Consumo nos lares brasileiros cresce 7,75% em julho</strong>
+title: "Consumo nos lares brasileiros cresce 7,75% em julho"
 date: 2022-09-09
 status: publish
 author: "Joabson João"

@@ -1,5 +1,5 @@
 ---
-title: <strong>IGP–10 tem deflação de 1,04% em outubro</strong>
+title: "IGP–10 tem deflação de 1,04% em outubro"
 date: 2022-10-19
 status: publish
 author: "Joabson João"

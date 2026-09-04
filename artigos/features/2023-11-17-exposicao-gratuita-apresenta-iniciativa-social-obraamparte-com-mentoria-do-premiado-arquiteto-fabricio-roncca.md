@@ -1,5 +1,5 @@
 ---
-title: "Exposição gratuita apresenta iniciativa social Obra&amp;Arte com mentoria do premiado arquiteto Fabrício Roncca"
+title: "Exposição gratuita apresenta iniciativa social Obra&Arte com mentoria do premiado arquiteto Fabrício Roncca"
 date: 2023-11-17
 status: publish
 author: "Camila Honorato"

@@ -1,5 +1,5 @@
 ---
-title: <strong>Trilogia da saúde permeia antes, durante e depois do câncer de mama</strong>
+title: "Trilogia da saúde permeia antes, durante e depois do câncer de mama"
 date: 2022-10-27
 status: publish
 author: Joice Ferreira

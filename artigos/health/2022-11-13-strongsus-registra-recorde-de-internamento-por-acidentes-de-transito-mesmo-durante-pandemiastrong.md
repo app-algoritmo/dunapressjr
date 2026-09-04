@@ -1,5 +1,5 @@
 ---
-title: <strong>SUS registra recorde de internamento por acidentes de trânsito, mesmo
+title: "SUS registra recorde de internamento por acidentes de trânsito, mesmo"
   durante pandemia</strong>
 date: 2022-11-13
 status: publish

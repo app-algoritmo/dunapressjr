@@ -1,5 +1,5 @@
 ---
-title: A Filha do Império - <a href='https://www.skoob.com.br/autor/7846-raymond-e-feist'>Raymond
+title: "A Filha do Império - Raymond"
   E. Feist</a>
 date: 2022-11-07
 status: publish

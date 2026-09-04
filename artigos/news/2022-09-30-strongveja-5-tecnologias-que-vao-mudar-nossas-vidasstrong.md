@@ -1,5 +1,5 @@
 ---
-title: <strong>Veja 5 tecnologias que vão mudar nossas vidas</strong>
+title: "Veja 5 tecnologias que vão mudar nossas vidas"
 date: 2022-09-30
 status: publish
 author: Fernanda Teodoro

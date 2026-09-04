@@ -1,5 +1,5 @@
 ---
-title: <strong>Perda de dentes aumenta em 28% riscos de demência</strong>
+title: "Perda de dentes aumenta em 28% riscos de demência"
 date: 2022-10-28
 status: publish
 author: Joice Ferreira

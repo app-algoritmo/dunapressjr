@@ -1,5 +1,5 @@
 ---
-title: '<em>Dragon Dreaming</em>: metodologia incentiva entrosamento de equipes e
+title: "'Dragon Dreaming: metodologia incentiva entrosamento de equipes e"
   ambiente saudável nas empresas'
 date: 2022-09-01
 status: publish

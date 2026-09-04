@@ -1,5 +1,5 @@
 ---
-title: '<strong>Câncer de mama: mulheres adiam diagnóstico e números de mastectomia
+title: "'Câncer de mama: mulheres adiam diagnóstico e números de mastectomia"
   crescem</strong>'
 date: 2022-11-03
 status: publish

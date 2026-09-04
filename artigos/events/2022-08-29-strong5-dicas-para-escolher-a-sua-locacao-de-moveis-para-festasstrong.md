@@ -1,5 +1,5 @@
 ---
-title: <strong>5 dicas para escolher a sua locação de móveis para festas</strong>
+title: "5 dicas para escolher a sua locação de móveis para festas"
 date: 2022-08-29
 status: publish
 author: Vanessa Fagundes

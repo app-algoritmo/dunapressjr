@@ -1,5 +1,5 @@
 ---
-title: <strong>Mercado eleva projeção para crescimento da economia em 2022</strong>
+title: "Mercado eleva projeção para crescimento da economia em 2022"
 date: 2022-10-25
 status: publish
 author: "Joabson João"

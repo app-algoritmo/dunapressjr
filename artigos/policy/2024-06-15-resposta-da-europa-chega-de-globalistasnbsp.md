@@ -1,5 +1,5 @@
 ---
-title: 'Resposta da Europa: chega de globalistas!&nbsp;'
+title: "Resposta da Europa: chega de globalistas!"
 date: 2024-06-15
 status: publish
 author: Vera Amatti

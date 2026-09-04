@@ -1,5 +1,5 @@
 ---
-title: <strong>Indicador Antecedente de Emprego sobe 1,5 ponto</strong>
+title: "Indicador Antecedente de Emprego sobe 1,5 ponto"
 date: 2022-10-06
 status: publish
 author: "Joabson João"

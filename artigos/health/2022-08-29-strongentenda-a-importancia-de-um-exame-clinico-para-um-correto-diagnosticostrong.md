@@ -1,5 +1,5 @@
 ---
-title: <strong>Entenda a importância de um exame clínico para um correto diagnóstico</strong>
+title: "Entenda a importância de um exame clínico para um correto diagnóstico"
 date: 2022-08-29
 status: publish
 author: Vanessa Fagundes

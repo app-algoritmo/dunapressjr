@@ -1,5 +1,5 @@
 ---
-title: <strong>Lançamento da Jasmine Alimentos é finalista no maior prêmio de inovação
+title: "Lançamento da Jasmine Alimentos é finalista no maior prêmio de inovação"
   da indústria alimentícia</strong>
 date: 2022-10-23
 status: publish

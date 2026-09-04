@@ -1,5 +1,5 @@
 ---
-title: <strong>Receita Federal esclarece a não incidência do Imposto de Renda sobre
+title: "Receita Federal esclarece a não incidência do Imposto de Renda sobre"
   pensão alimentícia</strong>
 date: 2022-10-08
 status: publish

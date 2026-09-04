@@ -1,5 +1,5 @@
 ---
-title: <strong>Veja como receber de volta Imposto de Renda pago em pensão alimentícia</strong>
+title: "Veja como receber de volta Imposto de Renda pago em pensão alimentícia"
 date: 2022-10-16
 status: publish
 author: "Joabson João"

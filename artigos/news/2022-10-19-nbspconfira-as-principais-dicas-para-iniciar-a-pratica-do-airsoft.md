@@ -1,5 +1,5 @@
 ---
-title: '&nbsp;Confira as principais dicas para iniciar a prática do airsoft'
+title: "Confira as principais dicas para iniciar a prática do airsoft"
 date: 2022-10-19
 status: publish
 author: Vanessa Fagundes

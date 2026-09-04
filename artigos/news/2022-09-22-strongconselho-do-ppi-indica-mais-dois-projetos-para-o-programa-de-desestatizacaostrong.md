@@ -1,5 +1,5 @@
 ---
-title: <strong>Conselho do PPI indica mais dois projetos para o programa de desestatização</strong>
+title: "Conselho do PPI indica mais dois projetos para o programa de desestatização"
 date: 2022-09-22
 status: publish
 author: "Joabson João"

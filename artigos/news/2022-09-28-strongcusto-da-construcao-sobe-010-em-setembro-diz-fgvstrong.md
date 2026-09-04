@@ -1,5 +1,5 @@
 ---
-title: <strong>Custo da construção sobe 0,10% em setembro, diz FGV</strong>
+title: "Custo da construção sobe 0,10% em setembro, diz FGV"
 date: 2022-09-28
 status: publish
 author: "Joabson João"

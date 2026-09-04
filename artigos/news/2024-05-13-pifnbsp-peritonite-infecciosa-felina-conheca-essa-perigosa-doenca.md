@@ -1,5 +1,5 @@
 ---
-title: PIF:&nbsp; Peritonite infecciosa felina, conheça essa perigosa doença
+title: "PIF: Peritonite infecciosa felina, conheça essa perigosa doença"
 date: 2024-05-13
 status: publish
 author: Joice Ferreira

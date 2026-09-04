@@ -1,5 +1,5 @@
 ---
-title: <strong>Títulos do Tesouro são opção segura de investimento</strong>
+title: "Títulos do Tesouro são opção segura de investimento"
 date: 2022-08-18
 status: publish
 author: "Joabson João"

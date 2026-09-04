@@ -1,5 +1,5 @@
 ---
-title: <strong>IGP-10 tem queda de preços de 0,69% em agosto</strong>
+title: "IGP-10 tem queda de preços de 0,69% em agosto"
 date: 2022-08-18
 status: publish
 author: "Joabson João"

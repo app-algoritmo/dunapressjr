@@ -1,5 +1,5 @@
 ---
-title: <strong>Emissão de debêntures incentivadas capta R$ 3 bilhões em julho</strong>
+title: "Emissão de debêntures incentivadas capta R$ 3 bilhões em julho"
 date: 2022-09-06
 status: publish
 author: "Joabson João"

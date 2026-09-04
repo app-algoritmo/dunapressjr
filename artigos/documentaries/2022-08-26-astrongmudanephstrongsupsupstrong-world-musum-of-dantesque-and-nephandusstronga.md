@@ -1,5 +1,5 @@
 ---
-title: <a><strong>MUDANEPH</strong><sup>®</sup><strong> - World Musēum of Dantesque
+title: "MUDANEPH® - World Musēum of Dantesque"
   and Nephandus</strong></a>
 date: 2022-08-26
 status: publish

@@ -1,5 +1,5 @@
 ---
-title: <strong>Bombeiros do DF já podem acessar a versão digital da identidade militar
+title: "Bombeiros do DF já podem acessar a versão digital da identidade militar"
   na plataforma GOV.BR</strong>
 date: 2022-10-28
 status: publish

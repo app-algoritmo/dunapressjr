@@ -1,5 +1,5 @@
 ---
-title: <strong>Movimentação de cargas cresce 2,3% no trimestre no Porto de Santos</strong>
+title: "Movimentação de cargas cresce 2,3% no trimestre no Porto de Santos"
 date: 2022-08-17
 status: publish
 author: "Joabson João"

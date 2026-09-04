@@ -1,5 +1,5 @@
 ---
-title: '<strong>Irlanda: Guia Para Viajantes</strong>'
+title: "Irlanda: Guia Para Viajantes"
 date: 2022-11-14
 status: publish
 author: Vanessa Fagundes

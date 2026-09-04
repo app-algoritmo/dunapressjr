@@ -1,5 +1,5 @@
 ---
-title: <strong>Projeção da inflação para 2022 varia de 5,60% para 5,61%</strong>
+title: "Projeção da inflação para 2022 varia de 5,60% para 5,61%"
 date: 2022-11-01
 status: publish
 author: "Joabson João"

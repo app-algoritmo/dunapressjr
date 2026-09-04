@@ -1,5 +1,5 @@
 ---
-title: <strong>Rebanho bovino nacional teve aumento de 3,1% em 2021</strong>
+title: "Rebanho bovino nacional teve aumento de 3,1% em 2021"
 date: 2022-09-23
 status: publish
 author: "Joabson João"

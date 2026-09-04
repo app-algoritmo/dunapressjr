@@ -1,5 +1,5 @@
 ---
-title: <strong>Intenção de consumo alcança maior nível desde abril de 2020</strong>
+title: "Intenção de consumo alcança maior nível desde abril de 2020"
 date: 2022-11-21
 status: publish
 author: "Joabson João"

@@ -1,5 +1,5 @@
 ---
-title: <strong>O benefício de uma vida mais saudável no controle da ansiedade</strong>
+title: "O benefício de uma vida mais saudável no controle da ansiedade"
 date: 2022-08-10
 status: publish
 author: Vanessa Fagundes

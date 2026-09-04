@@ -1,5 +1,5 @@
 ---
-title: <strong>Como manter um corpo saudável?</strong>
+title: "Como manter um corpo saudável?"
 date: 2022-08-10
 status: publish
 author: Vanessa Fagundes

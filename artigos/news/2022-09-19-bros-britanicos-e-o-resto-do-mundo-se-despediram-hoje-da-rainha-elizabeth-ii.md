@@ -1,5 +1,5 @@
 ---
-title: <br>Os britânicos e o resto do mundo se despediram hoje da rainha Elizabeth
+title: "Os britânicos e o resto do mundo se despediram hoje da rainha Elizabeth"
   II
 date: 2022-09-19
 status: publish

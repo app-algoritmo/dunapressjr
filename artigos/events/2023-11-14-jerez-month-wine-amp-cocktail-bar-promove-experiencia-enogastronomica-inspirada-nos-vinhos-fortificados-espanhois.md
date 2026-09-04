@@ -1,5 +1,5 @@
 ---
-title: "Jerez Month: wine &amp; cocktail bar promove experiência enogastronômica inspirada nos vinhos fortificados espanhóis"
+title: "Jerez Month: wine & cocktail bar promove experiência enogastronômica inspirada nos vinhos fortificados espanhóis"
 date: 2023-11-14
 status: publish
 author: "Camila Honorato"

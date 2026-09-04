@@ -1,5 +1,5 @@
 ---
-title: <strong>Por que o marketing correto faz a diferença no ROI</strong>
+title: "Por que o marketing correto faz a diferença no ROI"
 date: 2022-11-24
 status: publish
 author: Vanessa Fagundes

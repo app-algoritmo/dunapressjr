@@ -1,5 +1,5 @@
 ---
-title: <strong>Mutirão nacional de negociação de dívidas começaram nesta terça-feira</strong>
+title: "Mutirão nacional de negociação de dívidas começaram nesta terça-feira"
 date: 2022-11-02
 status: publish
 author: "Joabson João"

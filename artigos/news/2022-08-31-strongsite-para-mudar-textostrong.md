@@ -1,5 +1,5 @@
 ---
-title: <strong>Site para mudar texto</strong>
+title: "Site para mudar texto"
 date: 2022-08-31
 status: publish
 author: Vanessa Fagundes

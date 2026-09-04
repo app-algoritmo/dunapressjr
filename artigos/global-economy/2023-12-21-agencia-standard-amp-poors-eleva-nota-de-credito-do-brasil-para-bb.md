@@ -1,5 +1,5 @@
 ---
-title: Agência Standard &amp; Poors eleva nota de crédito do Brasil para BB
+title: "Agência Standard & Poors eleva nota de crédito do Brasil para BB"
 date: 2023-12-21
 status: publish
 author: "Edicléia Alves Lima"

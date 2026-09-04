@@ -1,5 +1,5 @@
 ---
-title: <strong>Novas técnicas cirúrgicas surgem no pós-pandemia</strong>
+title: "Novas técnicas cirúrgicas surgem no pós-pandemia"
 date: 2022-11-01
 status: publish
 author: Joice Ferreira

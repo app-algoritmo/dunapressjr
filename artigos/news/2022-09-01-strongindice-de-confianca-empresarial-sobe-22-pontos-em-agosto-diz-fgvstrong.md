@@ -1,5 +1,5 @@
 ---
-title: <strong>Índice de Confiança Empresarial sobe 2,2 pontos em agosto, diz FGV</strong>
+title: "Índice de Confiança Empresarial sobe 2,2 pontos em agosto, diz FGV"
 date: 2022-09-01
 status: publish
 author: "Joabson João"

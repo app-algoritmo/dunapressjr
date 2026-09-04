@@ -1,5 +1,5 @@
 ---
-title: <strong>Taxa de desemprego na Paraíba cai no 3º trimestre, revela IBGE</strong>
+title: "Taxa de desemprego na Paraíba cai no 3º trimestre, revela IBGE"
 date: 2022-11-18
 status: publish
 author: "Joabson João"

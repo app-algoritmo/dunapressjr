@@ -3,7 +3,7 @@ DUNA PRESS — DIAGNÓSTICO DO ACERVO
 
 Artigos publicados ........ 20.324
 Redirects 301 gerados ..... 20.324
-Colisões de slug ajustadas  138
+Colisões de slug ajustadas  141
 Slugs reservados desviados  2   ← disputavam endereço de seção
 Categorias de origem ...... 84 → 9 editorias
 
@@ -22,8 +22,8 @@ Opinião               269   (3 categorias absorvidas)
 ORIGEM DO SLUG
 ----------------------------------------------------
 wordpress: data+slug          16741   82.4%
-wordpress: título              1816    8.9%
-derivado do título             1767    8.7%
+derivado do título             1934    9.5%
+wordpress: título              1649    8.1%
 
 POR PORTE
 ----------------------------------------------------

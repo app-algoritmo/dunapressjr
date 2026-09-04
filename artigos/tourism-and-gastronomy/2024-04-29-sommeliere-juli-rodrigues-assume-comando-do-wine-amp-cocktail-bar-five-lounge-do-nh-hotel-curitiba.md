@@ -1,5 +1,5 @@
 ---
-title: "Sommelière Juli Rodrigues assume comando do wine &amp; cocktail bar Five Lounge do NH Hotel Curitiba"
+title: "Sommelière Juli Rodrigues assume comando do wine & cocktail bar Five Lounge do NH Hotel Curitiba"
 date: 2024-04-29
 status: publish
 author: "Camila Honorato"

@@ -1,5 +1,5 @@
 ---
-title: <strong>Elizabeth</strong>
+title: "Elizabeth"
 date: 2022-09-09
 status: publish
 author: Dan Berg

@@ -1,5 +1,5 @@
 ---
-title: <strong>Semana do Pescado incentiva temporada de consumo no segundo semestre</strong>
+title: "Semana do Pescado incentiva temporada de consumo no segundo semestre"
 date: 2022-09-02
 status: publish
 author: "Joabson João"

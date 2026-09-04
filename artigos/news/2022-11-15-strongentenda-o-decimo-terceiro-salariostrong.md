@@ -1,5 +1,5 @@
 ---
-title: <strong>Entenda o décimo terceiro salário</strong>
+title: "Entenda o décimo terceiro salário"
 date: 2022-11-15
 status: publish
 author: "Joabson João"

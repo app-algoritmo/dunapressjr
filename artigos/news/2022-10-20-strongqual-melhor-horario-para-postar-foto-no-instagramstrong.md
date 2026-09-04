@@ -1,5 +1,5 @@
 ---
-title: <strong>Qual melhor horário para postar foto no Instagram</strong>
+title: "Qual melhor horário para postar foto no Instagram"
 date: 2022-10-20
 status: publish
 author: Vanessa Fagundes

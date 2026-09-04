@@ -1,5 +1,5 @@
 ---
-title: Lockwood &amp; Co. - Você Já Ouviu Falar?
+title: "Lockwood & Co. - Você Já Ouviu Falar?"
 date: 2023-01-15
 status: publish
 author: Nazareth Fonseca

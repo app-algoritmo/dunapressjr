@@ -1,5 +1,5 @@
 ---
-title: <strong>Guedes defende instituições multilaterais para gerar benefícios globais</strong>
+title: "Guedes defende instituições multilaterais para gerar benefícios globais"
 date: 2022-10-15
 status: publish
 author: "Joabson João"

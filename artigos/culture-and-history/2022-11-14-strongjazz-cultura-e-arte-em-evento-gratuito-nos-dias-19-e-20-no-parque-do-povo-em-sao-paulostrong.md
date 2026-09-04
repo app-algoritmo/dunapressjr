@@ -1,5 +1,5 @@
 ---
-title: <strong>Jazz, cultura e arte em evento gratuito nos dias 19 e 20, no Parque
+title: "Jazz, cultura e arte em evento gratuito nos dias 19 e 20, no Parque"
   do Povo, em São Paulo</strong>
 date: 2022-11-14
 status: publish

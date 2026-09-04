@@ -1,5 +1,5 @@
 ---
-title: '<strong>''Quem quer pão?'': mitos e verdades da paixão nacional do café da
+title: "'''Quem quer pão?'': mitos e verdades da paixão nacional do café da"
   manhã ao jantar</strong>'
 date: 2022-10-27
 status: publish

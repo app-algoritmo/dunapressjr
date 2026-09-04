@@ -1,5 +1,5 @@
 ---
-title: <strong>Com vendas de carros usados em alta, startups veem oportunidade de
+title: "Com vendas de carros usados em alta, startups veem oportunidade de"
   modernização do setor</strong>
 date: 2022-11-08
 status: publish

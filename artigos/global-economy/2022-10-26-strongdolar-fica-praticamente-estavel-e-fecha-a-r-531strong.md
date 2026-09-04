@@ -1,5 +1,5 @@
 ---
-title: <strong>Dólar fica praticamente estável e fecha a R$ 5,31</strong>
+title: "Dólar fica praticamente estável e fecha a R$ 5,31"
 date: 2022-10-26
 status: publish
 author: "Joabson João"

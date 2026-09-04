@@ -1,5 +1,5 @@
 ---
-title: <strong>Fim de desonerações garantiria superávit fiscal em 2023, diz ministro</strong>
+title: "Fim de desonerações garantiria superávit fiscal em 2023, diz ministro"
 date: 2022-11-23
 status: publish
 author: "Joabson João"

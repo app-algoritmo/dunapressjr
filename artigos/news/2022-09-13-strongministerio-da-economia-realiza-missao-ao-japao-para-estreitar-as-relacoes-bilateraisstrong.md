@@ -1,5 +1,5 @@
 ---
-title: <strong>Ministério da Economia realiza missão ao Japão para estreitar as relações
+title: "Ministério da Economia realiza missão ao Japão para estreitar as relações"
   bilaterais</strong>
 date: 2022-09-13
 status: publish

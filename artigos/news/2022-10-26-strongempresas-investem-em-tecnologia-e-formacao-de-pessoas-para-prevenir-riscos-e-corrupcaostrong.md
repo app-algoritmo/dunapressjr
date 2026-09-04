@@ -1,5 +1,5 @@
 ---
-title: <strong>Empresas investem em tecnologia e formação de pessoas para prevenir
+title: "Empresas investem em tecnologia e formação de pessoas para prevenir"
   riscos e corrupção</strong>
 date: 2022-10-26
 status: publish

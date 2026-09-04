@@ -1,5 +1,5 @@
 ---
-title: <strong>IGP-10 tem queda de preços de 0,59% em novembro</strong>
+title: "IGP-10 tem queda de preços de 0,59% em novembro"
 date: 2022-11-17
 status: publish
 author: "Joabson João"

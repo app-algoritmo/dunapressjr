@@ -1,5 +1,5 @@
 ---
-title: Você é um Conservador?&nbsp;
+title: "Você é um Conservador?"
 date: 2024-06-20
 status: publish
 author: Vera Amatti

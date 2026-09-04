@@ -1,5 +1,5 @@
 ---
-title: "Bangu Shopping recebe evento “Samba, Pagode &amp; Resenha” no próximo dia 05"
+title: "Bangu Shopping recebe evento “Samba, Pagode & Resenha” no próximo dia 05"
 date: 2024-04-30
 status: publish
 author: "Camila Honorato"

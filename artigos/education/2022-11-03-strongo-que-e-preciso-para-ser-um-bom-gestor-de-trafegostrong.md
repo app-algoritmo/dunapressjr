@@ -1,5 +1,5 @@
 ---
-title: <strong>O que é preciso para ser um bom gestor de tráfego?</strong>
+title: "O que é preciso para ser um bom gestor de tráfego?"
 date: 2022-11-03
 status: publish
 author: Vanessa Fagundes

@@ -1,5 +1,5 @@
 ---
-title: "Harry &amp; Meghan : O documentário que mostra o outro lado da história"
+title: "Harry & Meghan : O documentário que mostra o outro lado da história"
 date: 2023-01-07
 status: publish
 author: "Camila Honorato"

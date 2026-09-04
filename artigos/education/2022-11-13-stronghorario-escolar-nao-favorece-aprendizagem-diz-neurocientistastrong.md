@@ -1,5 +1,5 @@
 ---
-title: <strong>Horário escolar não favorece aprendizagem, diz neurocientista</strong>
+title: "Horário escolar não favorece aprendizagem, diz neurocientista"
 date: 2022-11-13
 status: publish
 author: Joice Ferreira

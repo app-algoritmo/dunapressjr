@@ -1,5 +1,5 @@
 ---
-title: <strong>Médicos que estiveram na linha de frente do combate à covid-19 replicam
+title: "Médicos que estiveram na linha de frente do combate à covid-19 replicam"
   aprendizados e descobertas em novas formas de cuidado</strong>
 date: 2022-11-08
 status: publish

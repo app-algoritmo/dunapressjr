@@ -1,5 +1,5 @@
 ---
-title: <strong>Contas públicas têm superávit de R$ 10,7 bilhões em setembro</strong>
+title: "Contas públicas têm superávit de R$ 10,7 bilhões em setembro"
 date: 2022-11-01
 status: publish
 author: "Joabson João"

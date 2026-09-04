@@ -1,5 +1,5 @@
 ---
-title: <strong>Aretha Duarte lança biografia, da 'Da Sucata ao Everest'</strong>
+title: "Aretha Duarte lança biografia, da 'Da Sucata ao Everest'"
 date: 2022-11-04
 status: publish
 author: Joice Ferreira

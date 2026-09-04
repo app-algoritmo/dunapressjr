@@ -1,5 +1,5 @@
 ---
-title: <strong>Malha aérea internacional do Brasil atinge maior volume desde 2019</strong>
+title: "Malha aérea internacional do Brasil atinge maior volume desde 2019"
 date: 2022-09-09
 status: publish
 author: "Joabson João"

@@ -1,5 +1,5 @@
 ---
-title: '<strong>FGV: aluguéis residenciais ficam 1,76% mais caros em agosto</strong>'
+title: "FGV: aluguéis residenciais ficam 1,76% mais caros em agosto"
 date: 2022-09-07
 status: publish
 author: "Joabson João"

@@ -1,5 +1,5 @@
 ---
-title: <strong>Inflação muda comportamento dos brasileiros, mostra pesquisa</strong>
+title: "Inflação muda comportamento dos brasileiros, mostra pesquisa"
 date: 2022-08-09
 status: publish
 author: "Joabson João"

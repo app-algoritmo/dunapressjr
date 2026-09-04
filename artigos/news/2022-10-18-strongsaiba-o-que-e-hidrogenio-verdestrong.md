@@ -1,5 +1,5 @@
 ---
-title: <strong>Saiba o que é hidrogênio verde</strong>
+title: "Saiba o que é hidrogênio verde"
 date: 2022-10-18
 status: publish
 author: "Joabson João"

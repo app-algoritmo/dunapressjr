@@ -1,5 +1,5 @@
 ---
-title: <strong>O Primeiro Concerto Musical Público</strong>
+title: "O Primeiro Concerto Musical Público"
 date: 2021-01-30
 status: publish
 author: "Vítor Guerino"

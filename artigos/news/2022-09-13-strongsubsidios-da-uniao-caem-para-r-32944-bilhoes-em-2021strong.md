@@ -1,5 +1,5 @@
 ---
-title: <strong>Subsídios da União caem para R$ 329,44 bilhões em 2021</strong>
+title: "Subsídios da União caem para R$ 329,44 bilhões em 2021"
 date: 2022-09-13
 status: publish
 author: "Joabson João"

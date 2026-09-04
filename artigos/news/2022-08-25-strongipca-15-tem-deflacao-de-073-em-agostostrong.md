@@ -1,5 +1,5 @@
 ---
-title: <strong>IPCA-15 tem deflação de 0,73% em agosto</strong>
+title: "IPCA-15 tem deflação de 0,73% em agosto"
 date: 2022-08-25
 status: publish
 author: "Joabson João"

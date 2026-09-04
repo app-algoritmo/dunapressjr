@@ -1,5 +1,5 @@
 ---
-title: <strong>Intenção de Consumo das Famílias cresce 2,1% em outubro</strong>
+title: "Intenção de Consumo das Famílias cresce 2,1% em outubro"
 date: 2022-10-21
 status: publish
 author: "Joabson João"

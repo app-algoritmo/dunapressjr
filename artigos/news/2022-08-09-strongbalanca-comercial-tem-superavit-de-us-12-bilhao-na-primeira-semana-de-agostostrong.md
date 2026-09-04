@@ -1,5 +1,5 @@
 ---
-title: <strong>Balança comercial tem superávit de US$ 1,2 bilhão na primeira semana
+title: "Balança comercial tem superávit de US$ 1,2 bilhão na primeira semana"
   de agosto</strong>
 date: 2022-08-09
 status: publish

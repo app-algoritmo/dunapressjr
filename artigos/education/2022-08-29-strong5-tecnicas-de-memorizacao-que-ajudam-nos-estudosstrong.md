@@ -1,5 +1,5 @@
 ---
-title: <strong>5 técnicas de memorização que ajudam nos estudos</strong>
+title: "5 técnicas de memorização que ajudam nos estudos"
 date: 2022-08-29
 status: publish
 author: Vanessa Fagundes

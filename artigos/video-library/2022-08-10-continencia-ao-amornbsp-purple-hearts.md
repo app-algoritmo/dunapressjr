@@ -1,5 +1,5 @@
 ---
-title: Continência ao Amor&nbsp;- Purple Hearts
+title: "Continência ao Amor - Purple Hearts"
 date: 2022-08-10
 status: publish
 author: Nazareth Fonseca

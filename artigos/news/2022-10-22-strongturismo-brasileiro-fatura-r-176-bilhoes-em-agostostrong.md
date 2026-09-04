@@ -1,5 +1,5 @@
 ---
-title: <strong>Turismo brasileiro fatura R$ 17,6 bilhões em agosto</strong>
+title: "Turismo brasileiro fatura R$ 17,6 bilhões em agosto"
 date: 2022-10-22
 status: publish
 author: "Joabson João"

@@ -1,5 +1,5 @@
 ---
-title: <strong>Ensino internacional vai além de línguas e universidades estrangeiras</strong>
+title: "Ensino internacional vai além de línguas e universidades estrangeiras"
 date: 2022-11-14
 status: publish
 author: Joice Ferreira

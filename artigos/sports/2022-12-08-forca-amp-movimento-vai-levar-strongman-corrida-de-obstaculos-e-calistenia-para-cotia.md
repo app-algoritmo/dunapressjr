@@ -1,5 +1,5 @@
 ---
-title: Força &amp; Movimento vai levar Strongman, Corrida de Obstáculos e Calistenia
+title: "Força & Movimento vai levar Strongman, Corrida de Obstáculos e Calistenia"
   para Cotia
 date: 2022-12-08
 status: publish

@@ -1,5 +1,5 @@
 ---
-title: <strong>Para acompanhar mudanças do setor automotivo, startup investe em novo
+title: "Para acompanhar mudanças do setor automotivo, startup investe em novo"
   posicionamento de marca</strong>
 date: 2022-11-12
 status: publish

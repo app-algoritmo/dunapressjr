@@ -1,5 +1,5 @@
 ---
-title: '<strong>Decoração Floral: confira quatro dicas para levar frescor primaveril
+title: "'Decoração Floral: confira quatro dicas para levar frescor primaveril"
   para casa</strong>'
 date: 2022-11-02
 status: publish

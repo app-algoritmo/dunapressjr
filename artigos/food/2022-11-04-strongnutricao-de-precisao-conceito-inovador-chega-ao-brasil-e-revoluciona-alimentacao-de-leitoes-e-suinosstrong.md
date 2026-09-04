@@ -1,5 +1,5 @@
 ---
-title: '<strong>Nutrição de Precisão: conceito inovador chega ao Brasil e revoluciona
+title: "'Nutrição de Precisão: conceito inovador chega ao Brasil e revoluciona"
   alimentação de leitões e suínos</strong>'
 date: 2022-11-04
 status: publish

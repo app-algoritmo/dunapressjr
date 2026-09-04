@@ -1,5 +1,5 @@
 ---
-title: Ganhar o debate, e daí? &nbsp;&nbsp;
+title: "Ganhar o debate, e daí?"
 date: 2024-08-13
 status: publish
 author: Vera Amatti

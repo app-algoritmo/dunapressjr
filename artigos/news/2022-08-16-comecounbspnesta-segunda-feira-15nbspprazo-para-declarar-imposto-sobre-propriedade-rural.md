@@ -1,5 +1,5 @@
 ---
-title: Começou&nbsp;nesta segunda-feira (15)&nbsp;prazo para declarar imposto sobre
+title: "Começou nesta segunda-feira (15) prazo para declarar imposto sobre"
   propriedade rural
 date: 2022-08-16
 status: publish

@@ -1,5 +1,5 @@
 ---
-title: "Wine &amp; cocktail bar do NH Hotel renova programação com novidades em vinhos, cervejas e cardápio"
+title: "Wine & cocktail bar do NH Hotel renova programação com novidades em vinhos, cervejas e cardápio"
 date: 2024-05-30
 status: publish
 author: "Camila Honorato"

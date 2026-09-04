@@ -1,5 +1,5 @@
 ---
-title: <strong>Renata Falzoni será madrinha de passeio ciclístico do Shimano Fest
+title: "Renata Falzoni será madrinha de passeio ciclístico do Shimano Fest"
   2022</strong>
 date: 2022-07-11
 status: publish

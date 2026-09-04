@@ -1,5 +1,5 @@
 ---
-title: <strong>Highline vence leilão e arremata torres de telefonia fixa da Oi</strong>
+title: "Highline vence leilão e arremata torres de telefonia fixa da Oi"
 date: 2022-08-24
 status: publish
 author: "Joabson João"

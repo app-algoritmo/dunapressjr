@@ -1,5 +1,5 @@
 ---
-title: <strong>Vendas pela internet são alvos de campanha global neste Natal</strong>
+title: "Vendas pela internet são alvos de campanha global neste Natal"
 date: 2022-11-28
 status: publish
 author: "Joabson João"

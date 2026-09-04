@@ -1,5 +1,5 @@
 ---
-title: <strong>TSE nega pedido para tirar do ar postagens que relacionam Lula ao PCC</strong>
+title: "TSE nega pedido para tirar do ar postagens que relacionam Lula ao PCC"
 date: 2022-08-21
 status: publish
 author: "Joabson João"

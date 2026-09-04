@@ -1,5 +1,5 @@
 ---
-title: <strong>Brasil tem 1ª ponte aérea biométrica do mundo para embarque de passageiros</strong>
+title: "Brasil tem 1ª ponte aérea biométrica do mundo para embarque de passageiros"
 date: 2022-08-10
 status: publish
 author: "Joabson João"

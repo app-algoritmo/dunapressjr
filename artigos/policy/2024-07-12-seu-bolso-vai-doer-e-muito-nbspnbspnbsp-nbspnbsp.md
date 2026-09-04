@@ -1,5 +1,5 @@
 ---
-title: Seu bolso vai doer, e muito! &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+title: "Seu bolso vai doer, e muito!"
 date: 2024-07-12
 status: publish
 author: Vera Amatti

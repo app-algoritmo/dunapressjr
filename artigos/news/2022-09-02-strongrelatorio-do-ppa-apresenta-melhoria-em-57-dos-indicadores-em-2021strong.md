@@ -1,5 +1,5 @@
 ---
-title: <strong>Relatório do PPA apresenta melhoria em 57% dos indicadores em 2021</strong>
+title: "Relatório do PPA apresenta melhoria em 57% dos indicadores em 2021"
 date: 2022-09-02
 status: publish
 author: "Joabson João"

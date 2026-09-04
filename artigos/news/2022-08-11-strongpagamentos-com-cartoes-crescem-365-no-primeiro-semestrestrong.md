@@ -1,5 +1,5 @@
 ---
-title: <strong>Pagamentos com cartões crescem 36,5% no primeiro semestre</strong>
+title: "Pagamentos com cartões crescem 36,5% no primeiro semestre"
 date: 2022-08-11
 status: publish
 author: "Joabson João"

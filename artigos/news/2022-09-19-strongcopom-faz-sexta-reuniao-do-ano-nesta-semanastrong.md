@@ -1,5 +1,5 @@
 ---
-title: <strong>Copom faz sexta reunião do ano nesta semana</strong>
+title: "Copom faz sexta reunião do ano nesta semana"
 date: 2022-09-19
 status: publish
 author: "Joabson João"

@@ -1,5 +1,5 @@
 ---
-title: Vanderlan destaca crise&nbsp;na pecuária leiteira e pede freio a importações
+title: "Vanderlan destaca crise na pecuária leiteira e pede freio a importações"
 date: 2023-10-24
 status: publish
 author: "Edicléia Alves Lima"

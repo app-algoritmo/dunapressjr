@@ -1,5 +1,5 @@
 ---
-title: <strong>Mercado financeiro projeta inflação de 6% em 2022</strong>
+title: "Mercado financeiro projeta inflação de 6% em 2022"
 date: 2022-09-20
 status: publish
 author: "Joabson João"

@@ -1,5 +1,5 @@
 ---
-title: <strong>O Monumento Comemorativo do Centenário da Independência</strong>
+title: "O Monumento Comemorativo do Centenário da Independência"
 date: 2022-09-11
 status: publish
 author: Joice Ferreira

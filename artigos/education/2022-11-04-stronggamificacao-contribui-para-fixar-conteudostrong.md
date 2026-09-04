@@ -1,5 +1,5 @@
 ---
-title: <strong>Gamificação contribui para fixar conteúdo</strong>
+title: "Gamificação contribui para fixar conteúdo"
 date: 2022-11-04
 status: publish
 author: Joice Ferreira

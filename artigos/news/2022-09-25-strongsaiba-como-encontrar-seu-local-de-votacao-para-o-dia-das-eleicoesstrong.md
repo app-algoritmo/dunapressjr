@@ -1,5 +1,5 @@
 ---
-title: <strong>Saiba como encontrar seu local de votação para o dia das eleições</strong>
+title: "Saiba como encontrar seu local de votação para o dia das eleições"
 date: 2022-09-25
 status: publish
 author: "Joabson João"

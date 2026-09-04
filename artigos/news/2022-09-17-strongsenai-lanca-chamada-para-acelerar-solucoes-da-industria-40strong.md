@@ -1,5 +1,5 @@
 ---
-title: <strong>Senai lança chamada para acelerar soluções da Indústria 4.0</strong>
+title: "Senai lança chamada para acelerar soluções da Indústria 4.0"
 date: 2022-09-17
 status: publish
 author: "Joabson João"

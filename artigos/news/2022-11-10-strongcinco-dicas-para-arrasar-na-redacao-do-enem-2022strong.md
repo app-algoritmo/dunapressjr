@@ -1,5 +1,5 @@
 ---
-title: <strong>Cinco dicas para arrasar na redação do Enem 2022</strong>
+title: "Cinco dicas para arrasar na redação do Enem 2022"
 date: 2022-11-10
 status: publish
 author: Joice Ferreira

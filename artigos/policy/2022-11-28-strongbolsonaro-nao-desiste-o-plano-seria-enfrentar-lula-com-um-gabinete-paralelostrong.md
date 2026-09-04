@@ -1,5 +1,5 @@
 ---
-title: '<strong>Bolsonaro não desiste: o plano seria enfrentar Lula com um ''gabinete
+title: "'Bolsonaro não desiste: o plano seria enfrentar Lula com um ''gabinete"
   paralelo''</strong>'
 date: 2022-11-28
 status: publish

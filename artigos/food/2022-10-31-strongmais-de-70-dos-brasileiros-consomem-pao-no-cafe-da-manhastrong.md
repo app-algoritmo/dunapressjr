@@ -1,5 +1,5 @@
 ---
-title: <strong>Mais de 70% dos brasileiros consomem pão no café da manhã</strong>
+title: "Mais de 70% dos brasileiros consomem pão no café da manhã"
 date: 2022-10-31
 status: publish
 author: Joice Ferreira

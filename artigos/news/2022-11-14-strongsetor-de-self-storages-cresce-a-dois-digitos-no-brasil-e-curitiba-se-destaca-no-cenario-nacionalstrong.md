@@ -1,5 +1,5 @@
 ---
-title: <strong>Setor de self storages cresce a dois dígitos no Brasil e Curitiba se
+title: "Setor de self storages cresce a dois dígitos no Brasil e Curitiba se"
   destaca no cenário nacional</strong>
 date: 2022-11-14
 status: publish

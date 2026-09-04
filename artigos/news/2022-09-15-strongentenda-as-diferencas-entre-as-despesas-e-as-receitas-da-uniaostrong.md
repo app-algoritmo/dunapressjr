@@ -1,5 +1,5 @@
 ---
-title: <strong>Entenda as diferenças entre as despesas e as receitas da União</strong>
+title: "Entenda as diferenças entre as despesas e as receitas da União"
 date: 2022-09-15
 status: publish
 author: "Joabson João"

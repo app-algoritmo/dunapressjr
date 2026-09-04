@@ -1,5 +1,5 @@
 ---
-title: Novembro Azul recomenda exames&nbsp;da próstata&nbsp;para prevenção de câncer
+title: "Novembro Azul recomenda exames da próstata para prevenção de câncer"
 date: 2022-11-15
 status: publish
 author: Joice Ferreira

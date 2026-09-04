@@ -1,5 +1,5 @@
 ---
-title: <strong>Maioria dos reajustes salariais em setembro repôs inflação</strong>
+title: "Maioria dos reajustes salariais em setembro repôs inflação"
 date: 2022-10-26
 status: publish
 author: "Joabson João"

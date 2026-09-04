@@ -1,5 +1,5 @@
 ---
-title: '<strong>Novo Caged: Saldo em setembro registra mais de 278 mil novos postos
+title: "'Novo Caged: Saldo em setembro registra mais de 278 mil novos postos"
   formais de trabalho</strong>'
 date: 2022-10-27
 status: publish

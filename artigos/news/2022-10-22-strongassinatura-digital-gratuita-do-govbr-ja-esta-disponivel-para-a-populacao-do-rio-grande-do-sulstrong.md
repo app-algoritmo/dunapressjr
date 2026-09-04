@@ -1,5 +1,5 @@
 ---
-title: <strong>Assinatura digital gratuita do GOV.BR já está disponível para a população
+title: "Assinatura digital gratuita do GOV.BR já está disponível para a população"
   do Rio Grande do Sul</strong>
 date: 2022-10-22
 status: publish

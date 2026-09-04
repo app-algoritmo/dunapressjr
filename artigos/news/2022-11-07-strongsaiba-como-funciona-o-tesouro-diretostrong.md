@@ -1,5 +1,5 @@
 ---
-title: <strong>Saiba como funciona o Tesouro Direto</strong>
+title: "Saiba como funciona o Tesouro Direto"
 date: 2022-11-07
 status: publish
 author: "Joabson João"

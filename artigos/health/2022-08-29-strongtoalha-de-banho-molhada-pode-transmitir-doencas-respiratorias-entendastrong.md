@@ -1,5 +1,5 @@
 ---
-title: <strong>Toalha de banho molhada pode transmitir doenças respiratórias. Entenda</strong>
+title: "Toalha de banho molhada pode transmitir doenças respiratórias. Entenda"
 date: 2022-08-29
 status: publish
 author: Vanessa Fagundes

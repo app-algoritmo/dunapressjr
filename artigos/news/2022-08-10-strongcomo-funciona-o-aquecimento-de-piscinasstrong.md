@@ -1,5 +1,5 @@
 ---
-title: <strong>Como funciona o aquecimento de piscinas?</strong>
+title: "Como funciona o aquecimento de piscinas?"
 date: 2022-08-10
 status: publish
 author: Vanessa Fagundes

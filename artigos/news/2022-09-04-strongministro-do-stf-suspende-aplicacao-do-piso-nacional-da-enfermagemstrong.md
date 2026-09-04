@@ -1,5 +1,5 @@
 ---
-title: <strong>Ministro do STF suspende aplicação do piso nacional da enfermagem</strong>
+title: "Ministro do STF suspende aplicação do piso nacional da enfermagem"
 date: 2022-09-04
 status: publish
 author: "Joabson João"

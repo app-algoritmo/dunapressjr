@@ -1,5 +1,5 @@
 ---
-title: Trump foi vítima da propaganda pela ação&nbsp;
+title: "Trump foi vítima da propaganda pela ação"
 date: 2024-07-23
 status: publish
 author: Vera Amatti

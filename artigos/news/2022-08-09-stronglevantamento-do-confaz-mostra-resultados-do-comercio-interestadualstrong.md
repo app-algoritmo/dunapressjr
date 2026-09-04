@@ -1,5 +1,5 @@
 ---
-title: <strong>Levantamento do Confaz mostra resultados do comércio interestadual</strong>
+title: "Levantamento do Confaz mostra resultados do comércio interestadual"
 date: 2022-08-09
 status: publish
 author: "Joabson João"

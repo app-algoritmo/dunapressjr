@@ -1,5 +1,5 @@
 ---
-title: <strong>Acre e Roraima têm 100% dos municípios cadastrados no compras.gov.br</strong>
+title: "Acre e Roraima têm 100% dos municípios cadastrados no compras.gov.br"
 date: 2022-09-15
 status: publish
 author: "Joabson João"

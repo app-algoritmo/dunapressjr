@@ -1,5 +1,5 @@
 ---
-title: '<strong>Mordida cruzada: como ela afeta as atividades do dia a dia?</strong>'
+title: "Mordida cruzada: como ela afeta as atividades do dia a dia?"
 date: 2022-11-02
 status: publish
 author: Joice Ferreira

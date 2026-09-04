@@ -1,5 +1,5 @@
 ---
-title: <strong>Desperdício de alimentos está diretamente ligado às emissões de gases
+title: "Desperdício de alimentos está diretamente ligado às emissões de gases"
   de efeito estufa</strong>
 date: 2022-11-08
 status: publish

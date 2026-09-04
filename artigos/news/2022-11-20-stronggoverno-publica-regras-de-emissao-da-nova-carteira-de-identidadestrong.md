@@ -1,5 +1,5 @@
 ---
-title: <strong>Governo publica regras de emissão da nova carteira de identidade</strong>
+title: "Governo publica regras de emissão da nova carteira de identidade"
 date: 2022-11-20
 status: publish
 author: "Joabson João"

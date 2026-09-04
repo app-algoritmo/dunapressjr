@@ -1,5 +1,5 @@
 ---
-title: <strong>BNDES apoia capacitação de empreendedores de baixa renda</strong>
+title: "BNDES apoia capacitação de empreendedores de baixa renda"
 date: 2022-11-22
 status: publish
 author: "Joabson João"

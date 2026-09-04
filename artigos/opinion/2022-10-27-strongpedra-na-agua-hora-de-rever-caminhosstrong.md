@@ -1,5 +1,5 @@
 ---
-title: <strong>Pedra na água, hora de rever caminhos</strong>
+title: "Pedra na água, hora de rever caminhos"
 date: 2022-10-27
 status: publish
 author: "Paulo Fernando de Barros"

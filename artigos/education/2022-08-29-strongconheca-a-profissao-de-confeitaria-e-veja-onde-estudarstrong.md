@@ -1,5 +1,5 @@
 ---
-title: <strong>Conheça a profissão de confeitaria e veja onde estudar</strong>
+title: "Conheça a profissão de confeitaria e veja onde estudar"
 date: 2022-08-29
 status: publish
 author: Vanessa Fagundes

@@ -1,5 +1,5 @@
 ---
-title: <strong>Governo cria grupo para implementar Observatório das Mulheres Rurais</strong>
+title: "Governo cria grupo para implementar Observatório das Mulheres Rurais"
 date: 2022-10-19
 status: publish
 author: "Joabson João"

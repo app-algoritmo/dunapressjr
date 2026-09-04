@@ -1,5 +1,5 @@
 ---
-title: <strong>Feras do Enem dão dicas para a prova</strong>
+title: "Feras do Enem dão dicas para a prova"
 date: 2022-11-11
 status: publish
 author: Joice Ferreira

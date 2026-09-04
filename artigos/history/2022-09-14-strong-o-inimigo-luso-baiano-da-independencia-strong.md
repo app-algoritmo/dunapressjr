@@ -1,5 +1,5 @@
 ---
-title: <strong> O inimigo Luso-baiano da Independência </strong>
+title: "O inimigo Luso-baiano da Independência"
 date: 2022-09-14
 status: publish
 author: Joice Ferreira

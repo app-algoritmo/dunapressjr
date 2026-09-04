@@ -1,5 +1,5 @@
 ---
-title: <strong>Presença feminina rompe preconceitos e ganha força no agronegócio</strong>
+title: "Presença feminina rompe preconceitos e ganha força no agronegócio"
 date: 2022-11-11
 status: publish
 author: Joice Ferreira

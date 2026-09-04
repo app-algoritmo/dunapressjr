@@ -1,5 +1,5 @@
 ---
-title: <strong>Sinal do 5G chega a capitais da Região Norte</strong>
+title: "Sinal do 5G chega a capitais da Região Norte"
 date: 2022-10-07
 status: publish
 author: "Joabson João"

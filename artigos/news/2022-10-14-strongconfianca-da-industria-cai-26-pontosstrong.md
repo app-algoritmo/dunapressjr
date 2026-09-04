@@ -1,5 +1,5 @@
 ---
-title: <strong>Confiança da indústria cai 2,6 pontos</strong>
+title: "Confiança da indústria cai 2,6 pontos"
 date: 2022-10-14
 status: publish
 author: "Joabson João"

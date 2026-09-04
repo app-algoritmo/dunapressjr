@@ -1,5 +1,5 @@
 ---
-title: <strong>Decreto presidencial qualifica no PPI o Aeroporto do Galeão, no Rio,
+title: "Decreto presidencial qualifica no PPI o Aeroporto do Galeão, no Rio,"
   para relicitação</strong>
 date: 2022-08-16
 status: publish

@@ -1,5 +1,5 @@
 ---
-title: <strong>Receita abre nesta quarta-feira (23) consulta ao lote residual de restituição
+title: "Receita abre nesta quarta-feira (23) consulta ao lote residual de restituição"
   do imposto de renda de novembro</strong>
 date: 2022-11-23
 status: publish

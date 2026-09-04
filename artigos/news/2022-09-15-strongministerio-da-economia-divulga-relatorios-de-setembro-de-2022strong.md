@@ -1,5 +1,5 @@
 ---
-title: <strong>Ministério da Economia divulga relatórios de setembro de 2022</strong>
+title: "Ministério da Economia divulga relatórios de setembro de 2022"
 date: 2022-09-15
 status: publish
 author: "Joabson João"

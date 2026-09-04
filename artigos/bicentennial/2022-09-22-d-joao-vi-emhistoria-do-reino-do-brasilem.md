@@ -1,5 +1,5 @@
 ---
-title: D. João VI, <em>História do Reino do Brasil</em>
+title: "D. João VI, História do Reino do Brasil"
 date: 2022-09-22
 status: publish
 author: Joice Ferreira

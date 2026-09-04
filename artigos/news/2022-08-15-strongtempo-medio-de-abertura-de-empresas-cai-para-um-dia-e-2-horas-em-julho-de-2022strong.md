@@ -1,5 +1,5 @@
 ---
-title: <strong>Tempo médio de abertura de empresas cai para um dia e 2 horas em julho
+title: "Tempo médio de abertura de empresas cai para um dia e 2 horas em julho"
   de 2022</strong>
 date: 2022-08-15
 status: publish

@@ -1,5 +1,5 @@
 ---
-title: S&amp;P 500 tem maior queda em 1 mês com ameaça de impeachment de Trump
+title: "S&P 500 tem maior queda em 1 mês com ameaça de impeachment de Trump"
 date: 2019-09-25
 status: publish
 author: "Joabson João"

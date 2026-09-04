@@ -1,5 +1,5 @@
 ---
-title: '<strong>Doenças raras: pacientes vivem angústia até diagnóstico e lutam para
+title: "'Doenças raras: pacientes vivem angústia até diagnóstico e lutam para"
   reencontrar novo olhar sobre a vida</strong>'
 date: 2022-11-07
 status: publish

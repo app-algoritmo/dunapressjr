@@ -1,5 +1,5 @@
 ---
-title: <strong>Music in the Park leva jazz ao Parque do Povo com patrocínio de grandes
+title: "Music in the Park leva jazz ao Parque do Povo com patrocínio de grandes"
   marcas</strong>
 date: 2022-11-08
 status: publish

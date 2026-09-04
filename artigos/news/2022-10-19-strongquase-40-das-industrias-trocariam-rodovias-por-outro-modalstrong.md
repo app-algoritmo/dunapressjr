@@ -1,5 +1,5 @@
 ---
-title: <strong>Quase 40% das indústrias trocariam rodovias por outro modal</strong>
+title: "Quase 40% das indústrias trocariam rodovias por outro modal"
 date: 2022-10-19
 status: publish
 author: "Joabson João"

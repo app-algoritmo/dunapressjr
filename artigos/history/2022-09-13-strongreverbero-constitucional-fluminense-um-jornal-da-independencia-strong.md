@@ -1,5 +1,5 @@
 ---
-title: '<strong>Revérbero Constitucional Fluminense: Um Jornal da Independência </strong>'
+title: "Revérbero Constitucional Fluminense: Um Jornal da Independência"
 date: 2022-09-13
 status: publish
 author: Joice Ferreira

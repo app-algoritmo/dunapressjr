@@ -1,5 +1,5 @@
 ---
-title: <strong>Receita abre na segunda consulta a lote residual do Imposto de Renda</strong>
+title: "Receita abre na segunda consulta a lote residual do Imposto de Renda"
 date: 2022-10-22
 status: publish
 author: "Joabson João"

@@ -1,5 +1,5 @@
 ---
-title: <strong>Rio Innovation Week mostra impactos da tecnologia nos negócios</strong>
+title: "Rio Innovation Week mostra impactos da tecnologia nos negócios"
 date: 2022-11-09
 status: publish
 author: "Joabson João"
