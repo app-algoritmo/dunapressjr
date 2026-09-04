@@ -440,7 +440,7 @@ def rodape(editorias, total):
 # Cartão de compartilhamento. WhatsApp, Telegram, Facebook, Instagram e
 # LinkedIn leem Open Graph; o X lê Twitter Cards e cai no Open Graph quando
 # elas faltam. Sem og:image não há cartão nenhum: o link vai cru.
-IMAGEM_PADRAO = "https://dunapress.org/assets/img/duna-share.jpg"
+IMAGEM_PADRAO = "https://dunapress.org/assets/img/og-default.jpg"
 
 
 def absoluta(url):
@@ -605,6 +605,63 @@ def img(a, legenda=True, prioritaria=False):
         cred = f'<figcaption class="legenda">Foto: {e(a["credito_foto"])}{fonte}</figcaption>'
     return (f'<figure><img src="{e(a["imagem"])}" alt="" {carga}>'
             f'{cred}</figure>')
+
+
+_POOL_RELACIONADOS = {}
+
+
+def escolher_relacionados(a, arts, quantos=4):
+    """Quatro matérias da mesma editoria, como antes — mas distribuídas pelo
+    acervo em vez de sempre as quatro mais recentes.
+
+    A versão anterior cortava `[:4]` de uma lista ordenada por data, então
+    todas as matérias de uma editoria apontavam para as mesmas quatro. Com
+    6.104 páginas indexáveis, o bloco inteiro gerava 9 destinos distintos e
+    85% do acervo não recebia link interno nenhum — o Google via essas
+    páginas só pelo sitemap, que é sugestão, não voto.
+
+    Aqui a janela desliza: cada matéria pega um trecho diferente da lista da
+    editoria, escolhido por hash do próprio slug. É determinístico (o mesmo
+    artigo produz sempre os mesmos vizinhos, então o build é reprodutível e
+    o cache do edge não invalida à toa), não depende de ordem de geração, e
+    cobre a editoria inteira em vez do topo dela.
+
+    Preferência para quem partilha etiqueta: relevância primeiro, cobertura
+    depois. Saída idêntica em forma — quatro dicionários de artigo.
+    """
+    ed = a["editoria"]
+    pool = _POOL_RELACIONADOS.get(ed)
+    if pool is None:
+        pool = [x for x in arts if x.get("indexar", True) and x["editoria"] == ed]
+        _POOL_RELACIONADOS[ed] = pool
+
+    candidatos = [x for x in pool if x["url"] != a["url"]]
+    if len(candidatos) <= quantos:
+        return candidatos
+
+    escolhidos, vistos = [], {a["url"]}
+
+    # 1. Vizinhança temática: mesma etiqueta. É o link mais útil ao leitor.
+    tags = {t.lower() for t in (a.get("tags") or []) if t}
+    if tags:
+        for x in candidatos:
+            if len(escolhidos) >= quantos - 2:
+                break
+            if tags & {t.lower() for t in (x.get("tags") or []) if t}:
+                escolhidos.append(x)
+                vistos.add(x["url"])
+
+    # 2. Cobertura: janela determinística sobre o resto da editoria.
+    resto = [x for x in candidatos if x["url"] not in vistos]
+    if resto:
+        semente = int(hashlib.sha1(a["slug"].encode("utf-8")).hexdigest()[:8], 16)
+        inicio = semente % len(resto)
+        i = 0
+        while len(escolhidos) < quantos and i < len(resto):
+            escolhidos.append(resto[(inicio + i) % len(resto)])
+            i += 1
+
+    return escolhidos[:quantos]
 
 
 def chamada(a, classe="", com_img=False, com_olho=True, limite_olho=150):
@@ -1051,8 +1108,7 @@ def montar_artigo(m, a, edicao):
            urllib.parse.quote(endereco)))
 
 
-    relacionados = [x for x in arts if x.get("indexar", True)
-                    and x["editoria"] == a["editoria"] and x["url"] != a["url"]][:4]
+    relacionados = escolher_relacionados(a, arts)
     minutos = max(1, round(a["palavras"] / 220))
     # Proveniência declarada em toda matéria. É a resposta honesta à
     # pergunta que todo leitor faz em 2026 antes mesmo de ler.
@@ -1224,7 +1280,8 @@ def main():
             shutil.rmtree(destino)
         shutil.copytree(os.path.join(RAIZ_PROJ, pasta), destino)
     open(os.path.join(SAIDA, ".nojekyll"), "w").close()
-    for solto in ("robots.txt", "ads.txt", "CNAME", "site.webmanifest"):
+    for solto in ("robots.txt", "ads.txt", "CNAME", "site.webmanifest",
+                  "_headers", "_redirects"):
         origem = os.path.join(RAIZ_PROJ, solto)
         if os.path.exists(origem):
             shutil.copy(origem, os.path.join(SAIDA, solto))
@@ -1360,17 +1417,57 @@ var CAT = """ + json.dumps(de_para_cat, ensure_ascii=False) + """;
                      f"{xml(a['autor'])}</dc:creator>"
                      f"</item>\n")
         fh.write("</channel>\n</rss>\n")
+    # ── Sitemaps ────────────────────────────────────────────────────────
+    # Um sitemap único de 6 mil URLs cabe no limite do Google, mas não
+    # informa o que rastrear primeiro: matéria de hoje e matéria de 2020
+    # chegam com o mesmo peso. Separado em três, o robô vê a capa e as
+    # seções num arquivo pequeno, as publicações recentes noutro, e o
+    # acervo no terceiro — e distribui o orçamento de rastreio sozinho.
+    hoje = date.today()
+    limite_recente = (hoje - timedelta(days=90)).isoformat()
+    recentes = [a for a in indexaveis if a["data"] >= limite_recente]
+    acervo = [a for a in indexaveis if a["data"] < limite_recente]
+
+    def escrever_urlset(nome, linhas):
+        with open(os.path.join(SAIDA, nome), "w", encoding="utf-8") as fh:
+            fh.write('<?xml version="1.0" encoding="UTF-8"?>\n'
+                     '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
+            for l in linhas:
+                fh.write(l)
+            fh.write("</urlset>\n")
+
+    def url_de(a, prio, freq):
+        return (f'<url><loc>https://dunapress.org{a["url"]}</loc>'
+                f'<lastmod>{a["data"]}</lastmod>'
+                f'<changefreq>{freq}</changefreq>'
+                f'<priority>{prio}</priority></url>\n')
+
+    escrever_urlset("sitemap-secoes.xml", [
+        '<url><loc>https://dunapress.org/</loc>'
+        f'<lastmod>{hoje.isoformat()}</lastmod>'
+        '<changefreq>hourly</changefreq><priority>1.0</priority></url>\n'
+    ] + [
+        f'<url><loc>https://dunapress.org/{slug}/</loc>'
+        f'<lastmod>{hoje.isoformat()}</lastmod>'
+        '<changefreq>hourly</changefreq><priority>0.9</priority></url>\n'
+        for slug in eds
+    ])
+    escrever_urlset("sitemap-recentes.xml",
+                    [url_de(a, "0.8", "daily") for a in recentes])
+    escrever_urlset("sitemap-acervo.xml",
+                    [url_de(a, "0.5", "monthly") for a in acervo])
+
     with open(os.path.join(SAIDA, "sitemap.xml"), "w", encoding="utf-8") as fh:
         fh.write('<?xml version="1.0" encoding="UTF-8"?>\n'
-                 '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
-        fh.write("<url><loc>https://dunapress.org/</loc></url>\n")
-        for slug in eds:
-            fh.write(f"<url><loc>https://dunapress.org/{slug}/</loc></url>\n")
-        for a in indexaveis:
-            fh.write(f'<url><loc>https://dunapress.org{a["url"]}</loc>'
-                     f'<lastmod>{a["data"]}</lastmod></url>\n')
-        fh.write("</urlset>\n")
-    print(f"sitemap.xml: {len(indexaveis) + len(eds) + 1} URLs")
+                 '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
+        for nome in ("sitemap-secoes.xml", "sitemap-recentes.xml",
+                     "sitemap-acervo.xml"):
+            fh.write(f"<sitemap><loc>https://dunapress.org/{nome}</loc>"
+                     f"<lastmod>{hoje.isoformat()}</lastmod></sitemap>\n")
+        fh.write("</sitemapindex>\n")
+    print(f"sitemap.xml: índice de 3 · seções {len(eds) + 1} · "
+          f"recentes {len(recentes)} · acervo {len(acervo)} · "
+          f"total {len(indexaveis) + len(eds) + 1} URLs")
     print(f"{escritas} páginas escritas em {SAIDA}")
     print(f"Capa: index.html · {len(eds)} editorias · {len(alvo)} matérias")
     print(f"Edição nº {milhar(edicao)} · acervo {milhar(len(arts))}")
