@@ -8,9 +8,12 @@ Disallow: /rascunhos/
 Disallow: /admin/
 Disallow: /api/busca.json
 
-# Busca com parâmetro gera infinitas combinações sem valor de índice
-Disallow: /busca/?
+# Busca com parâmetro gera infinitas combinações sem valor de índice.
+# O "?" não é coringa: precisa de "*" antes para casar a query string.
+Disallow: /busca/*?
 Disallow: /*?utm_
+Disallow: /*?fbclid
+Disallow: /artigo.html
 
 User-agent: Googlebot
 Allow: /
