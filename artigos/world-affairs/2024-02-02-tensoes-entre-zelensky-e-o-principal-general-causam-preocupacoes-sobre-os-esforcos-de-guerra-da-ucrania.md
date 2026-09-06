@@ -15,7 +15,7 @@ As tensões na relação Zelensky-Zaluzhniy se tornaram evidentes nesta semana, 
 
 ## *Dano Irreparável e Implicações para a Ucrânia*
 
-Autoridades ocidentais expressam preocupação de que a relação tensa entre Zelensky e Zaluzhniy possa ser irreparável, prevendo a inevitável demissão do principal oficial militar. Essas tensões exacerbam os desafios existentes da Ucrânia, incluindo retrocessos no campo de batalha após uma contraofensiva fracassada no ano passado, destinada a recuperar território ocupado. As forças russas, fortalecidas pelas deficiências do esforço militar ucraniano, representam uma ameaça renovada. Além disso, disputas políticas internas nos EUA e na União Europeia paralisaram a ajuda proposta, criando um aperto no apoio militar e financeiro à Ucrânia.
+Autoridades ocidentais expressam preocupação de que a relação tensa entre Zelensky e Zaluzhniy possa ser irreparável, prevendo a inevitável demissão do principal oficial militar. Essas tensões exacerbam os desafios existentes da Ucrânia, incluindo retrocessos no campo de batalha após uma contraofensiva fracassada no ano passado, destinada a recuperar território sob controle russo. As forças russas, fortalecidas pelas deficiências do esforço militar ucraniano, representam uma ameaça renovada. Além disso, disputas políticas internas nos EUA e na União Europeia paralisaram a ajuda proposta, criando um aperto no apoio militar e financeiro à Ucrânia.
 
 ## *Fracasso e Manobras Políticas Ameaçam a Unidade*
 

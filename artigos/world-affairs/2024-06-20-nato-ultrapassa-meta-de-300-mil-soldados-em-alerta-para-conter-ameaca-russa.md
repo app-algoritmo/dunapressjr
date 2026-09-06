@@ -8,7 +8,7 @@ categories:
 ---
 
 
-A NATO anunciou que superou significativamente sua meta de colocar 300 mil soldados em alerta, uma medida estratégica para conter a ameaça russa. Este aumento no número de tropas disponíveis para deslocamento rápido foi decidido após a invasão da Ucrânia pela Rússia em 2022.
+A NATO anunciou que superou significativamente sua meta de colocar 300 mil soldados em alerta, uma medida estratégica para conter a ameaça russa. Este aumento no número de tropas disponíveis para deslocamento rápido foi decidido após a guerra na Ucrânia pela Rússia em 2022.
 
 Expansão da Força de Resposta Rápida
 
@@ -16,7 +16,7 @@ Após a agressão russa, os líderes da NATO concordaram em expandir a capacidad
 
 Revisão dos Planos de Defesa
 
-Esta expansão faz parte de uma revisão mais ampla dos planos da NATO para dissuadir possíveis ataques russos, conforme acordado na cúpula da aliança no ano passado. Pela primeira vez desde o fim da Guerra Fria, a NATO detalhou o que cada membro faria em caso de uma invasão russa, garantindo uma resposta coordenada e eficaz.
+Esta expansão faz parte de uma revisão mais ampla dos planos da NATO para dissuadir possíveis ataques russos, conforme acordado na cúpula da aliança no ano passado. Pela primeira vez desde o fim da Guerra Fria, a NATO detalhou o que cada membro faria em caso de uma ofensiva russa, garantindo uma resposta coordenada e eficaz.
 
 Desafios e Lacunas de Capacidade
 

@@ -23,7 +23,7 @@ Os números falam por si. Os Estados Unidos lideram os investimentos militares g
 
 Os dados levantados sobre os custos da guerra nos países em foco revelam um cenário complexo. A Rússia, por exemplo, destinou cerca de US$ 101 bilhões à guerra em 2023, quase três vezes o gasto anual com defesa antes da invasão da Ucrânia, em fevereiro de 2022. “Esses gastos, embora impactem a economia russa, também impulsionam o PIB do país, evidenciando o paradoxo econômico da guerra”, avalia Nyegray.
 
-A Ucrânia, ao gastar US$ 44 bilhões, experimentou um aumento significativo de 640%, influenciando até mesmo decisões de gastos em outros países europeus, como Polônia, Suécia e Holanda, por exemplo, que decidiram incrementar os gastos militares justamente após a invasão russa. Além disso, essa ação beneficiou os Estados Unidos, impulsionando as exportações de armas em mais de 14%.
+A Ucrânia, ao gastar US$ 44 bilhões, experimentou um aumento significativo de 640%, influenciando até mesmo decisões de gastos em outros países europeus, como Polônia, Suécia e Holanda, por exemplo, que decidiram incrementar os gastos militares justamente após a ofensiva russa. Além disso, essa ação beneficiou os Estados Unidos, impulsionando as exportações de armas em mais de 14%.
 
 Em Israel, a guerra em Gaza, que já chega a três meses, teve um custo considerável de US$ 1,44 bilhão para a economia, enquanto a Palestina estima que os custos de guerra variem entre US$ 4 e 6 bilhões.
 

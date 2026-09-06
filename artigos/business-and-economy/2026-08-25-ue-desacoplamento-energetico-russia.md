@@ -25,7 +25,7 @@ tags:
 ---
 Em 2021 a Rússia respondia por cerca de 45% do gás importado pela União Europeia e por aproximadamente 26% do petróleo. Quatro anos depois, o quadro mudou de forma substancial. Em 2026 a participação do gás russo nas importações europeias caiu para cerca de 12%, a do petróleo para cerca de 2% e o carvão russo foi eliminado por sanções. A UE aprovou regulamentações que preveem o banimento progressivo do gás russo, com faseamento que aponta para eliminação completa em 2027, e planos equivalentes para o petróleo.
 
-Essa transformação não ocorreu por geração espontânea. Foi resultado de decisões políticas aceleradas após a invasão em larga escala da Ucrânia, de investimentos em terminais de GNL, de interconexões e de contratos com fornecedores alternativos — Noruega, Estados Unidos, Catar, Azerbaijão e outros. O REPowerEU e legislações subsequentes transformaram a urgência de segurança em calendário concreto.
+Essa transformação não ocorreu por geração espontânea. Foi resultado de decisões políticas aceleradas após a guerra em larga escala da Ucrânia, de investimentos em terminais de GNL, de interconexões e de contratos com fornecedores alternativos — Noruega, Estados Unidos, Catar, Azerbaijão e outros. O REPowerEU e legislações subsequentes transformaram a urgência de segurança em calendário concreto.
 
 ## O que restou e o que ainda pesa
 

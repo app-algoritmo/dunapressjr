@@ -23,7 +23,7 @@ Os outros setores com queda na confiança foram comércio, que recuou 0,2 ponto 
 
 Segundo o pesquisador da FGV Aloisio Campelo Jr., boa parte da alta da confiança no mês é explicada pela melhora dos números da pandemia de covid-19 e seus efeitos nas vendas do comércio e serviços.
 
-Ele ressalta, no entanto, que a queda das expectativas lança dúvidas sobre a continuidade da recuperação nos próximos meses diante de um cenário de incerteza com relação ao impacto da invasão russa à Ucrânia na economia mundial e ao efeito esperado das altas de juros sobre a demanda interna.
+Ele ressalta, no entanto, que a queda das expectativas lança dúvidas sobre a continuidade da recuperação nos próximos meses diante de um cenário de incerteza com relação ao impacto da ofensiva russa à Ucrânia na economia mundial e ao efeito esperado das altas de juros sobre a demanda interna.
 
 Fonte: Agencia Brasil
 

@@ -22,7 +22,7 @@ tags:
   - donbass
   - front
 ---
-No 1.649º dia da invasão em larga escala o boletim matinal de Kiev falou em 221 confrontos nas 24 horas de 29 de agosto. Quatro ataques com cinco mísseis. 79 ataques aéreos. 292 bombas guiadas. Os números mudam um pouco conforme a fonte e a hora do corte. O mapa não muda: Kostiantynivka e Pokrovsk absorvem a maior parte da pressão terrestre russa.
+No 1.649º dia da guerra em larga escala o boletim matinal de Kiev falou em 221 confrontos nas 24 horas de 29 de agosto. Quatro ataques com cinco mísseis. 79 ataques aéreos. 292 bombas guiadas. Os números mudam um pouco conforme a fonte e a hora do corte. O mapa não muda: Kostiantynivka e Pokrovsk absorvem a maior parte da pressão terrestre russa.
 
 Pokrovsk é nó logístico do Donbass ucraniano. Kostiantynivka é a porta do que ainda se chama cinturão de fortalezas. A Rússia tenta avançar. A Ucrânia tenta não ceder a estrada. O ISW registrou avanço ucraniano recente na direção de Dobropillia, com imagens geolocalizadas em Dorozhnie. Avanço tático não é virada de campanha. É um campo, uma trefilagem, um trecho de árvore que o mapa do dia seguinte pode devolver.
 

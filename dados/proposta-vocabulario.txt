@@ -1,0 +1,75 @@
+# Uma troca por linha: caminho|linha|texto atual|texto novo
+# Apague as linhas que NÃO quer trocar. Depois rode com --aplicar.
+
+artigos/business-and-economy/2026-08-25-ue-desacoplamento-energetico-russia.md|28|invasão em larga escala|guerra em larga escala
+artigos/events/2022-12-21-premio-nobel-da-paz-2022.md|87|invasão russa da Ucrânia|guerra da Rússia na Ucrânia
+artigos/geopolitica-brasil/2026-07-16-o-brasil-parece-neutro-na-pratica-esta-escolhendo-dois-times.md|27|invasão russa da Ucrânia|guerra da Rússia na Ucrânia
+artigos/geopolitics/2024-02-03-indice-de-democracia-2022-brasil-cai-4-posicoes-noruega-se-mantem-numero-1-do-ranking.md|42|invasão em larga escala|guerra em larga escala
+artigos/geopolitics/2024-02-03-indice-de-democracia-2022-brasil-cai-4-posicoes-noruega-se-mantem-numero-1-do-ranking.md|54|invasão da Ucrânia|guerra na Ucrânia
+artigos/geopolitics/2024-02-08-reestruturacao-na-lideranca-da-ucrania-zelensky-demite-principal-general-em-meio-a-reinicio-dos-esforcos-de-guerra.md|12|desde o início da invasão|desde o início da guerra
+artigos/global-economy/2022-02-25-dolar-volta-para-r-510-com-ocupacao-russa-na-ucrania.md|2|ocupação russa|controle russo
+artigos/guerra-e-conflitos/2026-05-28-a-nova-geometria-da-guerra-como-os-conflitos-de-2026-redesen.md|33|invasão em larga escala|guerra em larga escala
+artigos/guerra-e-conflitos/2026-06-04-a-guerra-das-drones-como-os-veiculos-aereos-nao-tripulados-e.md|29|Desde a invasão|desde o início da guerra
+artigos/guerra-e-conflitos/2026-06-18-o-que-mantem-a-guerra-na-ucrania-viva-quatro-anos-depois-e-q.md|25|invasão em larga escala|guerra em larga escala
+artigos/history/2021-07-21-negacionismo-onde-nasceu-esse-termo-leia-e-tenha-uma-surpresa.md|204|territórios ocupados|território sob controle russo
+artigos/international-affairs/2026-05-14-a-reconfiguracao-das-aliancas-globais-em-2026-entre-a-fragme.md|30|desde a invasão|desde o início da guerra
+artigos/military/2022-12-03-reuniao-da-otan-em-bucarest-para-novas-declaracoes-sobre-o-conflito-russia-ucrania.md|25|invasão da Ucrânia|guerra na Ucrânia
+artigos/military/2022-12-03-reuniao-da-otan-em-bucarest-para-novas-declaracoes-sobre-o-conflito-russia-ucrania.md|27|agressão russa|ofensiva russa
+artigos/news/2022-02-28-gigante-do-petroleo-da-noruega-deixara-de-operar-na-russia.md|13|invasão da Ucrânia|guerra na Ucrânia
+artigos/news/2022-03-05-bases-solidas-asseguraram-o-crescimento-sustentado-do-pib-aponta-spe.md|36|invasão russa|ofensiva russa
+artigos/news/2022-04-01-confianca-dos-empresarios-cresce-07-ponto-em-marco.md|26|invasão russa|ofensiva russa
+artigos/news/2022-04-02-ministerio-eleva-para-r-1116-bi-projecao-de-superavit-comercial.md|26|invasão da Ucrânia|guerra na Ucrânia
+artigos/news/2022-05-21-brasil-realiza-dialogo-macroeconomico-com-a-uniao-europeia.md|16|invasão russa|ofensiva russa
+artigos/news/2022-12-14-o-regime-iraniano-aprofunda-seu-isolamento-global-e-enfrenta-os-maiores-protestos-em-anos.md|64|invasão da Ucrânia|guerra na Ucrânia
+artigos/news/2022-12-31-documentos-vazados-expoem-as-tentativas-ucranianas-de-desestabilizar-a-russia-e-levar-a-otan-a-uma-guerra-em-grande-escala-com-moscou.md|61|invasão russa|ofensiva russa
+artigos/news/2023-01-12-em-2023-eles-queriam-estimulos-sem-fim-eles-tiveram-estagflacao.md|13|invasão da Ucrânia|guerra na Ucrânia
+artigos/news/2023-01-12-em-2023-eles-queriam-estimulos-sem-fim-eles-tiveram-estagflacao.md|17|invasão da Ucrânia|guerra na Ucrânia
+artigos/news/2023-01-23-petroleo-sobe-com-expectativa-de-reabertura-na-china.md|21|invasão da Ucrânia|guerra na Ucrânia
+artigos/news/2023-03-11-como-esta-se-desenrolando-o-confronto-otan-russia-no-norte-da-africa.md|37|invasão da Ucrânia|guerra na Ucrânia
+artigos/news/2023-03-11-como-esta-se-desenrolando-o-confronto-otan-russia-no-norte-da-africa.md|93|agressão russa|ofensiva russa
+artigos/news/2023-03-14-a-responsabilidade-do-ocidente-pela-persistencia-da-guerra-na-ucrania.md|10|invasão da Ucrânia|guerra na Ucrânia
+artigos/news/2023-03-22-o-ocidente-poderia-ter-evitado-a-guerra-na-ucrania-mas-nao-quis.md|61|invasão russa da Ucrânia|guerra da Rússia na Ucrânia
+artigos/news/2023-04-05-biden-celebra-adesao-da-finlandia-a-otan-e-afirma-que-organizacao-esta-mais-forte-do-que-nunca.md|16|invasão russa|ofensiva russa
+artigos/news/2023-04-10-33-anos-de-historia-que-antecederam-a-invasao-russa-da-ucrania-nao-ensinados-nas-escolas.md|2|invasão russa da Ucrânia|guerra da Rússia na Ucrânia
+artigos/news/2023-04-10-33-anos-de-historia-que-antecederam-a-invasao-russa-da-ucrania-nao-ensinados-nas-escolas.md|12|invasão da Ucrânia|guerra na Ucrânia
+artigos/news/2023-04-10-33-anos-de-historia-que-antecederam-a-invasao-russa-da-ucrania-nao-ensinados-nas-escolas.md|36|invasão da Ucrânia|guerra na Ucrânia
+artigos/news/2023-04-25-inflacao-na-argentina-e-a-terceira-pior-do-mundo-segundo-levantamento-da-revista-oeste.md|22|invasão da Ucrânia|guerra na Ucrânia
+artigos/news/2023-07-16-the-great-famine-reset-voce-nao-tera-nada-e-passara-fome.md|87|invasão da Ucrânia|guerra na Ucrânia
+artigos/technology/2024-08-19-desativacao-de-contas-adsense-baseadas-na-russia-em-2024-um-impacto-significativo-para-criadores-de-conteudo.md|12|invasão da Ucrânia|guerra na Ucrânia
+artigos/world-affairs/2022-12-04-fezes-cartas-ensanguentadas-e-pacotes-explosivos-guerra-contra-a-ucrania-chegou-as-suas-embaixadas.md|30|desde o início da invasão|desde o início da guerra
+artigos/world-affairs/2023-06-03-duma-do-estado-propoe-legislacao-para-proibir-oficialmente-os-procedimentos-de-alteracao-de-genero-na-russia.md|32|invasão da Ucrânia|guerra na Ucrânia
+artigos/world-affairs/2023-06-06-explosao-de-represa-na-ucrania-gera-temor-de-enchentes-na-regiao-ocupada-pela-russia.md|14|ocupada pela Rússia|sob controle da Rússia
+artigos/world-affairs/2023-06-06-explosao-de-represa-na-ucrania-gera-temor-de-enchentes-na-regiao-ocupada-pela-russia.md|30|ocupada pela Rússia|sob controle da Rússia
+artigos/world-affairs/2023-06-09-projeto-de-saude-global-pede-demissoes-em-massa-de-medicos-de-sistemas-de-saude-corporativos.md|20|invasão russa da Ucrânia|guerra da Rússia na Ucrânia
+artigos/world-affairs/2023-07-05-traficante-de-criancas-pego-tentando-sequestrar-bebe-de-11-meses-da-ucrania-para-vende-lo-para-transplantes-de-orgaos.md|20|invasão russa|ofensiva russa
+artigos/world-affairs/2023-07-23-a-estrategia-dos-estados-unidos-para-a-alianca-da-otan-falhou.md|25|invasão da Ucrânia|guerra na Ucrânia
+artigos/world-affairs/2023-07-23-a-estrategia-dos-estados-unidos-para-a-alianca-da-otan-falhou.md|29|invasão da Ucrânia|guerra na Ucrânia
+artigos/world-affairs/2023-07-23-a-estrategia-dos-estados-unidos-para-a-alianca-da-otan-falhou.md|31|agressão russa|ofensiva russa
+artigos/world-affairs/2023-07-26-kremlin-militares-dos-eua-queriam-fazer-experimentos-em-africanos-para-grandes-empresas-farmaceuticas.md|24|invasão russa|ofensiva russa
+artigos/world-affairs/2023-08-05-uma-variedade-em-constante-mudanca-de-inimigos-oficiais.md|53|invasão da Ucrânia|guerra na Ucrânia
+artigos/world-affairs/2023-08-10-a-analise-do-governo-do-reino-unido-mostra-que-outra-pandemia-e-esperada-nos-proximos-cinco-anos.md|26|invasão russa da Ucrânia|guerra da Rússia na Ucrânia
+artigos/world-affairs/2023-09-04-orban-avisa-tucker-a-terceira-guerra-mundial-esta-chegando-traga-trump-de-volta.md|56|invasão russa|ofensiva russa
+artigos/world-affairs/2023-09-12-ucrania-registra-a-maior-taxa-de-mortalidade-do-mundo-por-bombas-coletivas.md|19|invasão russa|ofensiva russa
+artigos/world-affairs/2023-10-02-nenhuma-bala-sequer-para-ucrania-robert-fico.md|15|desde o início da invasão|desde o início da guerra
+artigos/world-affairs/2023-12-27-custo-da-guerra-saiba-quanto-a-industria-militar-movimenta-no-mundo.md|26|invasão russa|ofensiva russa
+artigos/world-affairs/2023-12-27-ucrania-desfere-golpe-na-frota-russa-na-crimeia-sinalizando-avanco-militar-notavel.md|12|Crimeia ocupada|Crimeia sob controle russo
+artigos/world-affairs/2023-12-27-ucrania-desfere-golpe-na-frota-russa-na-crimeia-sinalizando-avanco-militar-notavel.md|18|territórios ocupados|território sob controle russo
+artigos/world-affairs/2024-01-28-biden-interrompe-construcao-de-usinas-de-gas-devido-a-ameaca-das-mudancas-climaticas.md|32|invasão da Ucrânia|guerra na Ucrânia
+artigos/world-affairs/2024-02-02-tensoes-entre-zelensky-e-o-principal-general-causam-preocupacoes-sobre-os-esforcos-de-guerra-da-ucrania.md|18|território ocupado|território sob controle russo
+artigos/world-affairs/2024-02-06-trump-insta-republicanos-a-rejeitarem-propostas-de-imigracao-e-financiamento-a-ucrania.md|12|invasão russa|ofensiva russa
+artigos/world-affairs/2024-02-06-trump-insta-republicanos-a-rejeitarem-propostas-de-imigracao-e-financiamento-a-ucrania.md|21|invasão russa|ofensiva russa
+artigos/world-affairs/2024-03-08-biden-reafirma-compromisso-de-nao-enviar-tropas-dos-eua-a-ucrania-durante-discurso-sobre-o-estado-da-uniao.md|16|agressão russa|ofensiva russa
+artigos/world-affairs/2024-03-31-primeiro-ministro-polones-adverte-sobre-era-pre-guerra-apos-invasao-russa-na-ucrania.md|2|Invasão Russa|ofensiva russa
+artigos/world-affairs/2024-04-01-militares-da-ucrania-preveem-mobilizar-menos-pessoas-para-resistir-a-invasao-russa.md|12|invasão russa|ofensiva russa
+artigos/world-affairs/2024-04-21-desafios-financeiros-na-africa-subsaariana-queda-da-divida-mas-novos-financiamentos-escassos-alerta-fmi.md|18|invasão da Ucrânia|guerra na Ucrânia
+artigos/world-affairs/2024-05-12-nato-adverte-ucrania-deve-resistir-ate-2025-para-um-contra-ataque.md|25|ocupação russa|controle russo
+artigos/world-affairs/2024-06-08-otan-planeja-enviar-tropas-dos-eua-para-a-linha-de-frente-em-caso-de-conflito-com-a-russia.md|24|agressão russa|ofensiva russa
+artigos/world-affairs/2024-06-20-nato-ultrapassa-meta-de-300-mil-soldados-em-alerta-para-conter-ameaca-russa.md|11|invasão da Ucrânia|guerra na Ucrânia
+artigos/world-affairs/2024-06-20-nato-ultrapassa-meta-de-300-mil-soldados-em-alerta-para-conter-ameaca-russa.md|19|invasão russa|ofensiva russa
+artigos/world-affairs/2025-01-11-the-new-configuration-of-the-global-geopolitical-chessboard.md|86|invasão da Ucrânia|guerra na Ucrânia
+artigos/world-affairs/2026-05-14-a-reconfiguracao-da-ordem-global-potencias-emergentes-e-o-fi.md|75|invasão russa da Ucrânia|guerra da Rússia na Ucrânia
+artigos/world-affairs/2026-08-13-europa-esgotada-guerra-ucrania-drena-continente.md|27|invasão em larga escala|guerra em larga escala
+artigos/world-affairs/2026-08-17-mundo-noruega-alto-norte-seguranca-artico.md|29|invasão da Ucrânia|guerra na Ucrânia
+artigos/world-affairs/2026-08-29-suecia-gripens-finlandia-drones.md|39|invasão da Ucrânia|guerra na Ucrânia
+artigos/world-affairs/2026-08-30-front-pokrovsk-kostiantynivka.md|25|invasão em larga escala|guerra em larga escala
+artigos/world-affairs/2026-08-30-zaporizhzhia-dez-dias-diesel.md|25|ocupada pela Rússia|sob controle da Rússia

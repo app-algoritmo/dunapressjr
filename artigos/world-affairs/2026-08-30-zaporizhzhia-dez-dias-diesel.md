@@ -22,7 +22,7 @@ tags:
   - zaporizhzhia
   - nuclear
 ---
-Rafael Grossi, diretor-geral da Agência Internacional de Energia Atômica, publicou no sábado o Update 364. A central de Zaporizhzhia, ocupada pela Rússia desde março de 2022 e com os seis reatores desligados, perdeu em 20 de agosto a última linha externa que ainda a alimentava, a Ferosplavna-1 de 330 kV, após atividade militar na margem norte do Dnipro. Desde então bombas que esfriam reatores e piscinas de combustível gasto rodam com geradores a diesel.
+Rafael Grossi, diretor-geral da Agência Internacional de Energia Atômica, publicou no sábado o Update 364. A central de Zaporizhzhia, sob controle da Rússia desde março de 2022 e com os seis reatores desligados, perdeu em 20 de agosto a última linha externa que ainda a alimentava, a Ferosplavna-1 de 330 kV, após atividade militar na margem norte do Dnipro. Desde então bombas que esfriam reatores e piscinas de combustível gasto rodam com geradores a diesel.
 
 Na sexta a usina informou à equipe da AIEA que havia no sítio o equivalente a cerca de dez dias de combustível — o mínimo que a norma pede. A última entrega ao depósito externo foi em março. Uma carga prevista para maio atrasou por causa dos combates. A agência não visita esse depósito desde março de 2025, com a administração da planta alegando segurança. Quinta e sexta a equipe observou a transferência de dezenas de toneladas de diesel de dois pontos próximos para dentro da cerca.
 

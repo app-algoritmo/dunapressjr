@@ -24,7 +24,7 @@ tags:
 
 Em julho de 2026, o Brasil ocupa uma posição rara na geopolítica global: é o único país do G20 que preside simultaneamente o bloco que desafia a ordem ocidental — o BRICS — e negocia ativamente um acordo de livre-comércio com a União Europeia, o maior tratado bilateral do planeta em valor de mercado. Essa dupla presença não é acidente diplomático. É, por ora, uma estratégia deliberada. O que está em aberto é se ela ainda funciona.
 
-A lógica original era elegante: o Brasil de Lula se apresentaria como ponte entre Sul Global e Ocidente, ganhando influência exatamente por sua ambiguidade calculada. Em 2023, quando Brasília se recusou a condenar a invasão russa da Ucrânia no Conselho de Segurança, mas manteve o canal aberto com Zelensky e Biden, o cálculo parecia funcionar. O país falava com todos e não devia favores a ninguém.
+A lógica original era elegante: o Brasil de Lula se apresentaria como ponte entre Sul Global e Ocidente, ganhando influência exatamente por sua ambiguidade calculada. Em 2023, quando Brasília se recusou a condenar a guerra da Rússia na Ucrânia no Conselho de Segurança, mas manteve o canal aberto com Zelensky e Biden, o cálculo parecia funcionar. O país falava com todos e não devia favores a ninguém.
 
 **O mapa mudou sob os pés do Itamaraty**
 

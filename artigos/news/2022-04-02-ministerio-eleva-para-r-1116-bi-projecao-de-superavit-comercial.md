@@ -23,7 +23,7 @@ As projeções oficiais estão bem mais otimistas que a do mercado. A última ed
 
 ### Impactos
 
-Apesar da melhora na balança comercial, a invasão da Ucrânia pela Rússia está produzindo impactos no comércio do Brasil com os dois países. Em março, as vendas brasileiras para a Ucrânia caíram 59% em valores na comparação com o mesmo mês de 2021. Alguns produtos, como a soja, tiveram o fluxo totalmente interrompido e não foram exportados para o país do leste europeu. As importações da Ucrânia recuaram 49%.
+Apesar da melhora na balança comercial, a guerra na Ucrânia pela Rússia está produzindo impactos no comércio do Brasil com os dois países. Em março, as vendas brasileiras para a Ucrânia caíram 59% em valores na comparação com o mesmo mês de 2021. Alguns produtos, como a soja, tiveram o fluxo totalmente interrompido e não foram exportados para o país do leste europeu. As importações da Ucrânia recuaram 49%.
 
 Em relação à Rússia, houve queda no fluxo de mercadorias, mas o encarecimento de preços garantiu o aumento dos valores comerciados. Em março, o valor das exportações brasileiras para a Rússia subiu 54%, enquanto o valor das importações aumentou 71%, pressionado pelos fertilizantes químicos, item do qual a Rússia é uma das principais produtoras globais.
 

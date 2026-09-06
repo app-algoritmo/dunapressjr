@@ -9,7 +9,7 @@ categories:
 ---
 
 
-Os militares da Ucrânia estão ajustando suas estratégias de mobilização em resposta à invasão russa em curso há dois anos, conforme revelado pelo principal general de Kiev em uma entrevista nesta sexta-feira. Embora o Presidente Volodymyr Zelenskiy tenha proposto inicialmente a mobilização de até 500 mil ucranianos para reforçar as forças armadas diante dos ataques intensificados da Rússia ao longo da linha de frente de 1.000 quilômetros, o número necessário foi reduzido significativamente após uma revisão dos recursos disponíveis.
+Os militares da Ucrânia estão ajustando suas estratégias de mobilização em resposta à ofensiva russa em curso há dois anos, conforme revelado pelo principal general de Kiev em uma entrevista nesta sexta-feira. Embora o Presidente Volodymyr Zelenskiy tenha proposto inicialmente a mobilização de até 500 mil ucranianos para reforçar as forças armadas diante dos ataques intensificados da Rússia ao longo da linha de frente de 1.000 quilômetros, o número necessário foi reduzido significativamente após uma revisão dos recursos disponíveis.
 
 O comandante-em-chefe, Oleksandr Syrskyi, destacou que, embora não tenha nomeado uma nova figura para a mobilização, o esforço visa garantir que haja pessoal suficiente capaz de defender a pátria. No entanto, o processo de mobilização tem sido afetado pela diminuição do entusiasmo, relatos de corrupção e abusos nos gabinetes de recrutamento. Um projeto de lei para aumentar o número de tropas está atualmente em tramitação no Parlamento.
 

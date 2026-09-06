@@ -10,7 +10,7 @@ categories:
 
 ## A gigante do petróleo Equinor está interrompendo novos investimentos na Rússia e se retirará das colaborações existentes no país. A empresa ressalta que espera incorrer em perdas quando eles se retirarem.
 
-- Estamos profundamente preocupados com a invasão da Ucrânia. Representa um terrível revés para o mundo, e nossos pensamentos vão para todos aqueles que sofrem como resultado do ataque militar, diz o CEO Anders Opedal, CEO da Equinor.
+- Estamos profundamente preocupados com a guerra na Ucrânia. Representa um terrível revés para o mundo, e nossos pensamentos vão para todos aqueles que sofrem como resultado do ataque militar, diz o CEO Anders Opedal, CEO da Equinor.
 
 A notícia de que a Equinor está planejando se retirar da Rússia veio pouco depois de uma e meia da noite de segunda-feira.
 

@@ -26,7 +26,7 @@ tags:
 
 Em algum momento entre 2022 e 2026, a guerra deixou definitivamente de ser travada apenas por soldados, tanques e aviões de combate de bilhões de dólares. O campo de batalha foi invadido por uma presença discreta, barulhenta e cada vez mais letal: os drones. Pequenos, relativamente baratos e extremamente adaptáveis, os veículos aéreos não tripulados (VANTs) passaram de ferramentas de reconhecimento para protagonistas absolutos dos conflitos armados modernos.
 
-A guerra na Ucrânia foi o laboratório que o mundo militar não esperava, mas do qual não pôde desviar os olhos. Desde a invasão russa em fevereiro de 2022, ambos os lados do conflito utilizaram drones em escala e sofisticação sem precedentes históricos. O que começou com o uso ucraniano do Bayraktar TB2 turco — celebrado como um divisor de águas nos primeiros meses da guerra — evoluiu para um ecossistema complexo de aeronaves autônomas, drones FPV (First Person View) adaptados de uso comercial, e enxames coordenados capazes de saturar sistemas de defesa aérea.
+A guerra na Ucrânia foi o laboratório que o mundo militar não esperava, mas do qual não pôde desviar os olhos. desde o início da guerra russa em fevereiro de 2022, ambos os lados do conflito utilizaram drones em escala e sofisticação sem precedentes históricos. O que começou com o uso ucraniano do Bayraktar TB2 turco — celebrado como um divisor de águas nos primeiros meses da guerra — evoluiu para um ecossistema complexo de aeronaves autônomas, drones FPV (First Person View) adaptados de uso comercial, e enxames coordenados capazes de saturar sistemas de defesa aérea.
 
 ### Do Comercial ao Mortal: A Democratização da Guerra Aérea
 

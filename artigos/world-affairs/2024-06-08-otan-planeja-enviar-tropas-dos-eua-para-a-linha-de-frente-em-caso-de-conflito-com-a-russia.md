@@ -21,6 +21,6 @@ Em resposta, a OTAN planeja desembarcar soldados americanos em cinco portos euro
 
 As preocupações sobre a prontidão da Europa foram destacadas pelo chefe do Estado-Maior norueguês, que alertou que o continente tem apenas dois a três anos para se preparar antes que a Rússia possa atacar realisticamente. A OTAN já acordou manter 300 mil soldados em alerta máximo, com exercícios conjuntos e implantações recentes para garantir a prontidão operacional.
 
-Além disso, o presidente francês Emmanuel Macron pediu unidade contra a agressão russa e instou a Europa a aumentar seus investimentos em defesa, enquanto a Polônia tem se preparado vigorosamente, gastando uma alta porcentagem do PIB em defesa e assinando acordos de armamento com os EUA e o Reino Unido.
+Além disso, o presidente francês Emmanuel Macron pediu unidade contra a ofensiva russa e instou a Europa a aumentar seus investimentos em defesa, enquanto a Polônia tem se preparado vigorosamente, gastando uma alta porcentagem do PIB em defesa e assinando acordos de armamento com os EUA e o Reino Unido.
 
 A intensificação da retórica russa e as ameaças de Putin sobre um possível conflito nuclear colocam pressão sobre os aliados ocidentais para aumentar suas capacidades de defesa e prontidão militar, com a OTAN tomando medidas para garantir que suas forças possam responder rapidamente a qualquer ameaça.

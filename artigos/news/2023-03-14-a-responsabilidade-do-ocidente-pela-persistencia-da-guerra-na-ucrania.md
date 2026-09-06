@@ -7,7 +7,7 @@ categories:
 - News
 ---
 
-*Com a invasão da Ucrânia em 24 de fevereiro de 2022, a Rússia causou muito sofrimento e danos materiais. Mas depois que as negociações foram sabotadas no início de abril, o Ocidente compartilhou a responsabilidade pela emergência humanitária e pela destruição em massa. Além disso, sua violação repetida de acordos e acordos anteriores levou a uma perda de confiança, o que torna difícil encontrar um acordo de paz em um futuro próximo.*
+*Com a guerra na Ucrânia em 24 de fevereiro de 2022, a Rússia causou muito sofrimento e danos materiais. Mas depois que as negociações foram sabotadas no início de abril, o Ocidente compartilhou a responsabilidade pela emergência humanitária e pela destruição em massa. Além disso, sua violação repetida de acordos e acordos anteriores levou a uma perda de confiança, o que torna difícil encontrar um acordo de paz em um futuro próximo.*
 
 Quando o ministro das Relações Exteriores da Rússia, Sergey Lavrov, disse em um evento após a reunião do G20 na Índia que o Ocidente era o culpado pela guerra na Ucrânia, houve risos na platéia, como a mídia ocidental relatou com [alegria](https://www.n-tv.de/politik/Lawrow-wird-wegen-Ukraine-Luegen-ausgelacht-article23960545.html) . Após uma breve pausa, Lavrov comprovou sua declaração, referindo-se à história do conflito e datando o início da guerra em 2014.
 

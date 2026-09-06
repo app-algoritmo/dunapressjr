@@ -50,7 +50,7 @@ Claro, o que o Pentágono tem feito durante a ocupação do Afeganistão e do Ir
 
 A ideia era que, se o Afeganistão e o Iraque fracassassem, o Pentágono poderia tornar a Rússia um inimigo oficial novamente.
 
-O plano funcionou brilhantemente. Com a invasão da Ucrânia pela Rússia em resposta às travessuras da OTAN, o estabelecimento de segurança nacional dos EUA voltou à corrida, e sua generosidade financiada pelos contribuintes está agora se aproximando de US$ 1 trilhão. 
+O plano funcionou brilhantemente. Com a guerra na Ucrânia pela Rússia em resposta às travessuras da OTAN, o estabelecimento de segurança nacional dos EUA voltou à corrida, e sua generosidade financiada pelos contribuintes está agora se aproximando de US$ 1 trilhão. 
 
 Se a Ucrânia cair de joelhos, ainda haverá a China Vermelha. Talvez a Coreia do Norte também. E em alguns anos, eles podem encontrar uma maneira de reiniciar sua "guerra contra o terrorismo".
 

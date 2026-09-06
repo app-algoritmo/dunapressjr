@@ -11,7 +11,7 @@ categories:
 
 ## Ação das forças russas causa danos à represa de Kakhovka e coloca milhões de pessoas em risco de inundação.
 
-Uma explosão ocorrida nesta terça-feira(6) resultou no dano de uma represa no rio Dnieper, no sul da Ucrânia, liberando águas de inundação na parte da região ocupada pela Rússia. O incidente tem levantado preocupações sobre enchentes generalizadas na região, lar de milhões de pessoas em ambos os lados do rio.
+Uma explosão ocorrida nesta terça-feira(6) resultou no dano de uma represa no rio Dnieper, no sul da Ucrânia, liberando águas de inundação na parte da região sob controle da Rússia. O incidente tem levantado preocupações sobre enchentes generalizadas na região, lar de milhões de pessoas em ambos os lados do rio.
 
 As Forças Armadas da Ucrânia afirmaram que a represa soviética de Kakhovka, localizada a 30 km a leste da cidade de Kherson, foi destruída pelas forças russas. No entanto, a administração apoiada pelos russos na região alegou que as forças ucranianas foram as responsáveis pelo ataque.
 
@@ -27,7 +27,7 @@ Vladimir Leontyev, chefe administrativo da região controlada pela Rússia, decl
 
 De acordo com Leontyev, o nível da água subiu 2,5 metros a jusante, mas ainda não há necessidade de evacuar a população. No entanto, as autoridades locais estão preparadas para resgatar as pessoas, se necessário. Pelo menos 300 residências podem ser afetadas pela destruição parcial da usina hidrelétrica, segundo o prefeito.
 
-De acordo com a agência de notícias Sputnik, as forças ucranianas têm como alvo a represa ao longo do último ano, como parte dos ataques contra a infraestrutura civil russa. Os danos na usina hidrelétrica podem causar problemas no abastecimento de água na região da Crimeia, que está ocupada pela Rússia.
+De acordo com a agência de notícias Sputnik, as forças ucranianas têm como alvo a represa ao longo do último ano, como parte dos ataques contra a infraestrutura civil russa. Os danos na usina hidrelétrica podem causar problemas no abastecimento de água na região da Crimeia, que está sob controle da Rússia.
 
 Leontyev afirmou que a única ameaça imediata é a escassez de água para a Crimeia. No entanto, a Ucrânia afirmou que as águas de inundação afetarão os sistemas de irrigação na área, prejudicando a produção de alimentos. Yermak destacou que isso representa um "golpe para a segurança alimentar global".
 

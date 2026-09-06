@@ -10,11 +10,11 @@ categories:
 
 Depois de mais de US$ 20 trilhões em pacotes de estímulo desde 2020, a economia está estagnada com alta inflação. Os governos mundiais anunciaram mais de US$ 12 trilhões em medidas de estímulo apenas em 2020, e os bancos centrais inflaram seus balanços em US$ 8 trilhões.
 
-O resultado foi decepcionante e com efeitos negativos duradouros. Recuperação fraca, dívida recorde e inflação alta. É claro que os governos de todo o mundo culparam a invasão da Ucrânia pelo efeito multiplicador inexistente dos planos de estímulo, mas a desculpa não fazia sentido.
+O resultado foi decepcionante e com efeitos negativos duradouros. Recuperação fraca, dívida recorde e inflação alta. É claro que os governos de todo o mundo culparam a guerra na Ucrânia pelo efeito multiplicador inexistente dos planos de estímulo, mas a desculpa não fazia sentido.
 
 Os preços das commodities subiram de fevereiro a junho de 2022 e foram corrigidos desde então. Mesmo considerando o efeito negativo da alta dos preços das matérias-primas nas economias desenvolvidas, é preciso reconhecer que estes são positivos para as economias emergentes e, mesmo com esse ímpeto, a decepcionante recuperação levou a constantes reduções nas estimativas.
 
-Se existissem multiplicadores keynesianos, a maioria das economias desenvolvidas estaria crescendo fortemente, mesmo descontando o impacto da invasão da Ucrânia, dado o número sem precedentes de planos de estímulo aprovados.
+Se existissem multiplicadores keynesianos, a maioria das economias desenvolvidas estaria crescendo fortemente, mesmo descontando o impacto da guerra na Ucrânia, dado o número sem precedentes de planos de estímulo aprovados.
 
 Agora estamos diante de um 2023 com estimativas ainda mais decepcionantes. De acordo com a economia da Bloomberg, o crescimento global diminuirá de míseros 3,2% em 2022 para preocupantes 2,4% em 2023, significativamente abaixo da tendência anterior à crise de 1919, mas com maior dívida global. A dívida global total aumentou US$ 3,3 trilhões no primeiro trimestre de 2022, para um novo recorde de mais de US$ 305 trilhões, principalmente devido à China e aos EUA, de acordo com o Institute of International Finance.
 

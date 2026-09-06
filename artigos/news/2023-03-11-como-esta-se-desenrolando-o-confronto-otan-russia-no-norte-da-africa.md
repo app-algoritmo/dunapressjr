@@ -34,7 +34,7 @@ Em primeiro lugar, os números simplesmente não batem. Do SIG:
 
 Na frente do petróleo, a mesma história está acontecendo em outras partes do norte da África, que está comprando petróleo russo e aumentando os suprimentos para a Europa para escapar das sanções. Mas voltando ao gás: a Europa, e particularmente a Itália em sua tentativa de se tornar um centro energético da UE, está tentando aumentar as importações da Argélia, mas aqui também há problemas de infraestrutura. Durante uma visita de Meloni a Argel em janeiro, a Itália e a Argélia assinaram acordos que incluem o teste e a construção de um oleoduto adicional e um cabo de energia submarino, mas ainda faltam anos para isso. Mais de Natural Gas Intelligence:
 
-*Em abril, a argelina Sonatrach e a Eni assinaram um acordo de fornecimento para reduzir a dependência do fornecimento de gás russo após a invasão da Ucrânia. A Argélia forneceria 9 bcm adicionais de gás em 2023 e 2024 através do gasoduto Transmed.*
+*Em abril, a argelina Sonatrach e a Eni assinaram um acordo de fornecimento para reduzir a dependência do fornecimento de gás russo após a guerra na Ucrânia. A Argélia forneceria 9 bcm adicionais de gás em 2023 e 2024 através do gasoduto Transmed.*
 
 *No entanto, o sistema Transmed, que liga Argélia e Itália, não está operando em plena capacidade. A Argélia tem problemas de produção. O país não investiu em novas infraestruturas para aumentar a produção nas últimas três décadas e teve de desviar o gás para atender à crescente demanda doméstica por eletricidade.*
 
@@ -90,7 +90,7 @@ Moscou escondeu da Europa o aumento na produção de gás argelino, mas muitos d
 
 Os EUA, temendo a influência russa na Argélia, planejam construir uma base militar-industrial no Marrocos. Além disso, os EUA anunciaram um acordo de venda de armas de $ 1 bilhão com o Marrocos para 2020, que também inclui drones e munições guiadas com precisão, e assinaram um acordo de cooperação militar de 10 anos e, no ano passado, os EUA entregaram sistemas táticos e de controle terrestre sem fio para Rabat.
 
-Ainda assim, o Marrocos está tentando manter um pé na porta, tanto no campo oriental quanto no ocidental. Rabat se absteve em uma recente votação da Assembleia Geral da ONU condenando a agressão russa, ignorando os esforços dos EUA para se alinhar com o campo ocidental. Este arranjo traz vantagens para o Marrocos. Olho do Oriente Médio explica:
+Ainda assim, o Marrocos está tentando manter um pé na porta, tanto no campo oriental quanto no ocidental. Rabat se absteve em uma recente votação da Assembleia Geral da ONU condenando a ofensiva russa, ignorando os esforços dos EUA para se alinhar com o campo ocidental. Este arranjo traz vantagens para o Marrocos. Olho do Oriente Médio explica:
 
 *Chtatou, professor da Universidade Mohammed V, disse ao MEE que as relações amistosas do Marrocos com a Rússia são econômicas.*
 

@@ -27,7 +27,7 @@ tags:
 
 Se há uma característica que define o cenário internacional de meados de 2026, é a velocidade com que antigas certezas geopolíticas se dissolvem. Alianças que pareciam sólidas vacilam. Rivais históricos negociam silenciosamente. E potências médias, antes relegadas à periferia das decisões globais, emergem como árbitros indispensáveis em conflitos que nenhuma grande potência consegue resolver sozinha.
 
-A narrativa do confronto binário entre Ocidente e Oriente, amplamente dominante desde a invasão russa da Ucrânia em 2022, cedeu espaço a uma geometria muito mais complexa. O que se observa hoje é menos uma nova Guerra Fria e mais uma **policrise de soberanias**, onde cada ator busca maximizar sua autonomia estratégica em um ambiente de incerteza sistêmica.
+A narrativa do confronto binário entre Ocidente e Oriente, amplamente dominante desde o início da guerra russa da Ucrânia em 2022, cedeu espaço a uma geometria muito mais complexa. O que se observa hoje é menos uma nova Guerra Fria e mais uma **policrise de soberanias**, onde cada ator busca maximizar sua autonomia estratégica em um ambiente de incerteza sistêmica.
 
 ### Washington em Transição: A Doutrina da Seletividade
 

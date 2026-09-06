@@ -39,7 +39,7 @@ Enquanto a pontuação média global viu mudanças mínimas, o ano de 2022 teste
 
 **Luta da Ucrânia por Soberania e Democracia**
 
-O relatório enfatiza o impacto da invasão em larga escala da Rússia na Ucrânia em fevereiro de 2022 nas dinâmicas globais da democracia. A violação da soberania ucraniana destacou a ligação vital entre soberania e democracia. Um ensaio especial no relatório explora como a defesa da soberania nacional é inseparável da tarefa de construir um estado-nação democrático.
+O relatório enfatiza o impacto da guerra em larga escala da Rússia na Ucrânia em fevereiro de 2022 nas dinâmicas globais da democracia. A violação da soberania ucraniana destacou a ligação vital entre soberania e democracia. Um ensaio especial no relatório explora como a defesa da soberania nacional é inseparável da tarefa de construir um estado-nação democrático.
 
 **Dilema do Sul Global: Soberania Nacional versus Sentimentos Antioeste**
 
@@ -51,7 +51,7 @@ Apesar das expectativas de uma recuperação na pontuação geral do índice à 
 
 **Melhorias e Retrocessos Notáveis**
 
-Enquanto alguns países, incluindo Tailândia, Angola e Níger, conquistaram avanços democráticos impressionantes, outros enfrentaram declínios significativos. A Rússia registrou a maior deterioração, com sua invasão da Ucrânia contribuindo para uma queda alarmante em sua pontuação. Belarus, Burkina Faso e Haiti também sofreram quedas acentuadas, refletindo desafios que vão desde repressão política até crises internas.
+Enquanto alguns países, incluindo Tailândia, Angola e Níger, conquistaram avanços democráticos impressionantes, outros enfrentaram declínios significativos. A Rússia registrou a maior deterioração, com sua guerra na Ucrânia contribuindo para uma queda alarmante em sua pontuação. Belarus, Burkina Faso e Haiti também sofreram quedas acentuadas, refletindo desafios que vão desde repressão política até crises internas.
 
 **Mudanças de Regime: Um Cenário Limitado**
 

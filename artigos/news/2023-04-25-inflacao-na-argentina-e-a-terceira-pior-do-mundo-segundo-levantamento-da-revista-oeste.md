@@ -19,6 +19,6 @@ A situação da Argentina e da Venezuela é única na América do Sul. A terceir
 
 A elevação do custo de vida dos argentinos perdeu o controle durante a pandemia de covid-19. O presidente Alberto Fernández adotou medidas severas, como toque de recolher e restrição da circulação de pessoas, para tentar conter o coronavírus. Isso dificultou a produção e pressionou os preços, agravando a crise econômica do país.
 
-Além disso, a invasão da Ucrânia pela Rússia também contribuiu para o aumento da inflação na Argentina, elevando o preço dos alimentos. A situação tem sido um desafio para o governo de Fernández, que tem enfrentado dificuldades para controlar a inflação e lidar com as consequências econômicas da pandemia e da crise global.
+Além disso, a guerra na Ucrânia pela Rússia também contribuiu para o aumento da inflação na Argentina, elevando o preço dos alimentos. A situação tem sido um desafio para o governo de Fernández, que tem enfrentado dificuldades para controlar a inflação e lidar com as consequências econômicas da pandemia e da crise global.
 
 Com informações da [Revista Oeste](https://revistaoeste.com/economia/inflacao-da-argentina-e-menor-apenas-que-a-da-venezuela-e-do-zimbabue/)

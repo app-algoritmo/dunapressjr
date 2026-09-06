@@ -29,7 +29,7 @@ Antecipando esta moratória avançada por alguns meios de comunicação norte-am
 
 No início de dezembro, à margem da conferência climática COP28, mais de 250 organizações e grupos de defesa ambiental pediram a Biden que não autorizasse novos terminais de GNL, um combustível fóssil poluente.
 
-Por sua vez, numa carta dirigida ao Secretário da Energia, diversas entidades representativas do sector energético norte-americano solicitaram que não ocorresse uma moratória. Argumentaram que esta indústria cria empregos no país e garante o abastecimento à Europa, privada de gás da Rússia devido ao embargo que se seguiu à invasão da Ucrânia.
+Por sua vez, numa carta dirigida ao Secretário da Energia, diversas entidades representativas do sector energético norte-americano solicitaram que não ocorresse uma moratória. Argumentaram que esta indústria cria empregos no país e garante o abastecimento à Europa, privada de gás da Rússia devido ao embargo que se seguiu à guerra na Ucrânia.
 
 No ano passado, cerca de metade das exportações de GNL dos EUA foram destinadas à Europa, segundo a Casa Branca.
 

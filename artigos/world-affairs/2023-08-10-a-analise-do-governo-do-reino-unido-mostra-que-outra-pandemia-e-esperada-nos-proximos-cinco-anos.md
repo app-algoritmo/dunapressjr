@@ -23,7 +23,7 @@ As ameaças mais graves foram definidas como impactos “catastróficos”. Iss
 
 Outros eventos "catastróficos" incluem ataques químicos, biológicos, radiológicos e nucleares em larga escala e a perda do fornecimento de eletricidade do Reino Unido, todos classificados com uma probabilidade "baixa" de 1-5%.O Cabinet Office disse que divulgou o material para ajudar a Grã-Bretanha a se preparar para os "piores cenários" em vez de "varrê-los para debaixo do tapete".
 
-O registro, o primeiro do gênero desde 2020, inclui pela primeira vez ameaças diretamente relacionadas à invasão russa da Ucrânia, como o risco de ataques cibernéticos e drones.
+O registro, o primeiro do gênero desde 2020, inclui pela primeira vez ameaças diretamente relacionadas à guerra da Rússia na Ucrânia, como o risco de ataques cibernéticos e drones.
 
 A ameaça ao fornecimento de gás para a Europa Ocidental proveniente da Rússia também é descrita em detalhes. Isso ocorre depois que o presidente Vladimir Putin desencadeou uma crise de energia no ano passado, quando os países europeus estavam desesperados por fontes alternativas de abastecimento em meio às sanções contra o Kremlin.
 

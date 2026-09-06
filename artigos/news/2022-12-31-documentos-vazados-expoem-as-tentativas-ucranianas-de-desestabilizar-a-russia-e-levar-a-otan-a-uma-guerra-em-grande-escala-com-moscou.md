@@ -58,7 +58,7 @@ Traduzido do idioma legal para o leigo, isso significa perseguição proposital 
 
 Ao abrir oportunidades para os residentes da Crimeia e Donbass estudarem em universidades ucranianas, Kiev se recusa a reconhecer quaisquer documentos educacionais obtidos na península. A questão de saber se essas condições farão com que os residentes da Crimeia e Donbass desejem retornar à Ucrânia é puramente retórica.
 
-Embora não se saiba se o SSO pretende continuar implementando seu plano para fomentar o sentimento pró-ucraniano entre os residentes da Crimeia e Donbass, sabemos com certeza que o lado ucraniano aumentou acentuadamente seus ataques a cidades nessas regiões após o início da invasão russa. Operação Militar Especial. Até agora, este 'Gentle Dew' só [caiu na região](https://www.youtube.com/watch?v=2AR1LLU3UUs&feature=emb_logo) na forma de projéteis MLRS Grad e mísseis Tochka U.
+Embora não se saiba se o SSO pretende continuar implementando seu plano para fomentar o sentimento pró-ucraniano entre os residentes da Crimeia e Donbass, sabemos com certeza que o lado ucraniano aumentou acentuadamente seus ataques a cidades nessas regiões após o início da ofensiva russa. Operação Militar Especial. Até agora, este 'Gentle Dew' só [caiu na região](https://www.youtube.com/watch?v=2AR1LLU3UUs&feature=emb_logo) na forma de projéteis MLRS Grad e mísseis Tochka U.
 
 ## **Nas colinas da Manchúria**
 

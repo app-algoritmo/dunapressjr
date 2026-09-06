@@ -61,7 +61,7 @@ O Irã insiste que as acusações da AIEA são injustificadas e aponta para uma 
 
 ## Drones iranianos na Ucrânia
 
-Em meio a todas essas tensões, o Irã fortaleceu seus laços com a Rússia, outro país que aprofundou seu isolamento internacional, no seu caso devido à invasão da Ucrânia.
+Em meio a todas essas tensões, o Irã fortaleceu seus laços com a Rússia, outro país que aprofundou seu isolamento internacional, no seu caso devido à guerra na Ucrânia.
 
 Os dois países vêm promovendo laços há anos e, no ano passado, Raisi visitou Moscou em janeiro para se encontrar com o presidente russo, Vladimir Putin, que por sua vez visitou Teerã em julho.
 

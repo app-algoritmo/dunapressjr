@@ -13,7 +13,7 @@ Representantes do Ministério da Economia e do Banco Central do Brasil realizara
 
 “O evento contribuiu para reforçar os laços de cooperação e amizade entre a União Europeia e o Brasil”, avaliou o secretário especial adjunto de Comércio Exterior e Assuntos Internacionais, João Luís Rossi, após a reunião. ”Os dois lados expressaram perspectivas positivas quanto ao processo de acessão do Brasil à OCDE (Organização para Cooperação e Desenvolvimento Econômico), sobre a confiança mútua e a recuperação sustentável das economias”.
 
-As conversas abordaram os efeitos da invasão russa na Ucrânia. Nesse contexto, as apresentações brasileiras trataram de temas como recuperação econômica, impulsionadores de crescimento para 2022 e reformas estruturais, além de consolidação fiscal e medidas pró-mercado. Também destacaram as perspectivas da política fiscal, as previsões inflacionárias e os riscos da normalização da política monetária norte-americana para o Brasil.
+As conversas abordaram os efeitos da ofensiva russa na Ucrânia. Nesse contexto, as apresentações brasileiras trataram de temas como recuperação econômica, impulsionadores de crescimento para 2022 e reformas estruturais, além de consolidação fiscal e medidas pró-mercado. Também destacaram as perspectivas da política fiscal, as previsões inflacionárias e os riscos da normalização da política monetária norte-americana para o Brasil.
 
 Do lado europeu, os apresentadores trouxeram as perspectivas macroeconômicas do bloco sob os efeitos da guerra na Ucrânia, a revisão da política fiscal e da governança econômica na UE, além das prioridades de sua política econômica estrutural, incluindo o plano de recuperação europeu e o pacto para sustentabilidade da UE (*Recovery Plan and the EU Green Deal*).
 

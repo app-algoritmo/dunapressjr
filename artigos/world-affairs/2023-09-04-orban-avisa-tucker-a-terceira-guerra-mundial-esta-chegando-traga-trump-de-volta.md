@@ -53,7 +53,7 @@ Então Orbán comete o maior erro entre os líderes mundiais, elogiando o ex-pre
 
 “Ele [Trump] está sendo criticado por não ter educação suficiente para entender a política externa. Esse não é o caso”, disse Orbán a Carlson.
 
-*Os factos importam e a sua política externa foi a melhor que vi o mundo passar em décadas. E se ele fosse presidente quando a invasão russa começou, não, os russos não poderiam ter feito isso. Portanto, Trump é o homem que salvará o mundo e provavelmente as pessoas do mundo.*
+*Os factos importam e a sua política externa foi a melhor que vi o mundo passar em décadas. E se ele fosse presidente quando a ofensiva russa começou, não, os russos não poderiam ter feito isso. Portanto, Trump é o homem que salvará o mundo e provavelmente as pessoas do mundo.*
 
 Comentando que o governo dos EUA está actualmente a apresentar acusações contra o ex-presidente, o primeiro-ministro húngaro franze a testa e diz:
 

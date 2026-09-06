@@ -17,7 +17,7 @@ Segundo relatos, o homem deu à mãe da criança um adiantamento de US $ 1.000, 
 
 O homem estava com uma cúmplice não identificada no momento em que foi capturado tentando atravessar a fronteira Ucrânia-Eslováquia. Felizmente, as autoridades o prenderam e salvaram a criança, no entanto, havia três outras crianças antes disso que o homem vendeu com sucesso por dinheiro.
 
-### Traficantes de crianças se aproveitando do caos da invasão russa na Ucrânia
+### Traficantes de crianças se aproveitando do caos da ofensiva russa na Ucrânia
 
 Depois de se reunir com sua mãe, o menino de 11 anos foi visto cumprimentando um soldado.
 

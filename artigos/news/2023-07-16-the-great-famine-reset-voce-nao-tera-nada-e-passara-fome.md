@@ -84,7 +84,7 @@ Somam-se a isso os massacres dos comunistas. Por exemplo, os bolcheviques de Jos
 
 A foto foi tirada em maio de 1962 e mostra refugiados chineses fazendo fila para uma refeição em Hong Kong. - Durante a fome causada pela política do "Grande Salto Adiante" da China, entre 140.000 e 200.000 pessoas entraram ilegalmente em Hong Kong. (AFP via Getty Images)
 
-A guerra na Ucrânia, combinada com as sanções econômicas ocidentais, pôs seriamente em perigo a segurança alimentar mundial. Essas sanções visam punir a Rússia por sua invasão da Ucrânia. No entanto, eles colocam seriamente em risco a capacidade do mundo de se alimentar.
+A guerra na Ucrânia, combinada com as sanções econômicas ocidentais, pôs seriamente em perigo a segurança alimentar mundial. Essas sanções visam punir a Rússia por sua guerra na Ucrânia. No entanto, eles colocam seriamente em risco a capacidade do mundo de se alimentar.
 
 Na pior das hipóteses, de acordo com Chris Barrett, economista agrícola da Cornell University, “dezenas de milhões de pessoas serão repentinamente atingidas pela fome”.
 

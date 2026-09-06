@@ -9,7 +9,7 @@ categories:
 ---
 
 
-Em 13 de agosto de 2024, o Google anunciou a desativação de todas as contas AdSense baseadas na Rússia, marcando um passo decisivo na restrição do acesso a seus serviços de monetização dentro do país. Esta medida ocorre como uma continuação das ações iniciadas em 2022, quando a empresa suspendeu a veiculação de anúncios na Rússia, em resposta às tensões geopolíticas decorrentes da invasão da Ucrânia.
+Em 13 de agosto de 2024, o Google anunciou a desativação de todas as contas AdSense baseadas na Rússia, marcando um passo decisivo na restrição do acesso a seus serviços de monetização dentro do país. Esta medida ocorre como uma continuação das ações iniciadas em 2022, quando a empresa suspendeu a veiculação de anúncios na Rússia, em resposta às tensões geopolíticas decorrentes da guerra na Ucrânia.
 
 ### Contexto e Medidas Anteriores
 

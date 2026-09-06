@@ -30,7 +30,7 @@ O que observamos hoje é uma teia de conflitos interconectados, alimentados por 
 
 ### O Teatro Europeu: Três Anos Além do Previsto
 
-Quando a Rússia lançou sua invasão em larga escala da Ucrânia em fevereiro de 2022, analistas ocidentais projetaram cenários que variavam entre semanas e poucos meses de conflito aberto. Mais de quatro anos depois, a guerra persiste — transformada, mas não encerrada.
+Quando a Rússia lançou sua guerra em larga escala da Ucrânia em fevereiro de 2022, analistas ocidentais projetaram cenários que variavam entre semanas e poucos meses de conflito aberto. Mais de quatro anos depois, a guerra persiste — transformada, mas não encerrada.
 
 O conflito ucraniano consolidou-se como o maior laboratório de guerra do século XXI. Nenhum outro teatro de operações testou, em tempo real e com tamanha intensidade, a eficácia dos sistemas de drones de ataque em massa, da guerra eletrônica de terceira geração, das redes de inteligência compartilhada entre Estado e setor privado, e das cadeias de suprimento militares sob pressão sistêmica.
 

@@ -16,7 +16,7 @@ As bombas coletivas liberam no ar numerosas pequenas submunições, que são dis
 
 Embora mais de 120 países tenham assinado um acordo da ONU contra estas munições que matam indiscriminadamente, faltam as assinaturas de Washington, Kiev e Moscovo.
 
-Tanto Kiev como Moscovo usaram bombas coletivas durante o conflito. A Casa Branca anunciou em Julho que estava a fornecer essas munições à Ucrânia, apesar de se saber que Kiev as utilizou para prejudicar civis antes e depois da invasão russa.
+Tanto Kiev como Moscovo usaram bombas coletivas durante o conflito. A Casa Branca anunciou em Julho que estava a fornecer essas munições à Ucrânia, apesar de se saber que Kiev as utilizou para prejudicar civis antes e depois da ofensiva russa.
 
 Alex Hiniker, do Fórum sobre o Comércio de Armas, expressou preocupação, observando que ele e outros pesquisadores estão "chocados com o fato de [Washington] estar fornecendo armas que foram proibidas pela maioria da comunidade global devido ao alto potencial de danos civis".
 

@@ -72,7 +72,7 @@ A Índia, em particular, consolidou em 2025-2026 sua posição como potência ge
 
 ### A Europa na Encruzilhada
 
-A Europa segue sendo o grande ponto de interrogação dessa reconfiguração. Três anos após a invasão russa da Ucrânia e seus desdobramentos, o continente realizou o maior rearmamento desde a Guerra Fria. Mas rearmar-se militarmente não equivale a desenvolver autonomia estratégica.
+A Europa segue sendo o grande ponto de interrogação dessa reconfiguração. Três anos após a guerra da Rússia na Ucrânia e seus desdobramentos, o continente realizou o maior rearmamento desde a Guerra Fria. Mas rearmar-se militarmente não equivale a desenvolver autonomia estratégica.
 
 A questão fundamental para Bruxelas, Paris e Berlim permanece a mesma: a Europa deseja ser um polo de poder autônomo nessa nova ordem multipolar, ou prefere manter-se como extensão estratégica de Washington? A resposta, em 2026, continua ambígua — e essa ambiguidade tem custos crescentes.
 

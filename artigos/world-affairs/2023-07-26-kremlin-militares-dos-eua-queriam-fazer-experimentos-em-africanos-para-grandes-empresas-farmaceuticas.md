@@ -21,7 +21,7 @@ Ele também disse que o Centro Ucraniano de Ciência e Tecnologia e outros contr
 
 Desde o início dos anos 2000, organizações não-governamentais financiadas pela Fundação Bill e Melinda Gates, entre outras, distribuem vacinas e medicamentos experimentais para populações vulneráveis ​​na África e na Índia, resultando em inúmeras mortes e ferimentos, com relatos de vacinação compulsória e consentimento desinformado. Desde então, tornou-se comum realizar ensaios clínicos em larga escala de medicamentos não testados ou não aprovados em países pobres, onde a distribuição de medicamentos é menos regulamentada e mais barata.
 
-A questão dos biolabs dos EUA na Ucrânia tornou-se controversa depois que a subsecretária de Assuntos Políticos dos EUA, Victoria Nuland, concedeu tais laboratórios dos EUA na Ucrânia após a invasão russa de fevereiro de 2022.
+A questão dos biolabs dos EUA na Ucrânia tornou-se controversa depois que a subsecretária de Assuntos Políticos dos EUA, Victoria Nuland, concedeu tais laboratórios dos EUA na Ucrânia após a ofensiva russa de fevereiro de 2022.
 
 A admissão também ocorreu em meio a evidências de que o vírus SARS-CoV-2 que causou a pandemia de Covid-19 foi projetado em um laboratório biológico financiado pelos militares dos EUA em Wuhan, China. Alguns especularam que o vírus foi desenvolvido como parte de um programa de armas biológicas dos EUA.
 

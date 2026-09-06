@@ -22,4 +22,4 @@ O apelo de Bauer destaca a importância da resistência contínua da Ucrânia e 
 
 A análise do progresso da guerra até agora revela que os sucessos da Ucrânia foram alcançados principalmente como defensores, enquanto os custos de ataques ofensivos foram altos. Isso destaca a importância de uma estratégia cuidadosamente planejada e da preparação adequada para um contra-ataque eficaz.
 
-À medida que a Ucrânia enfrenta os desafios de uma guerra prolongada, o apelo da NATO para resistir até 2025 ressalta a necessidade de determinação e preparação cuidadosa. Enquanto o país enfrenta uma ocupação russa significativa em seu território, a esperança de um contra-ataque futuro depende da capacidade de resistir e se preparar para os desafios vindouros.
+À medida que a Ucrânia enfrenta os desafios de uma guerra prolongada, o apelo da NATO para resistir até 2025 ressalta a necessidade de determinação e preparação cuidadosa. Enquanto o país enfrenta uma controle russo significativa em seu território, a esperança de um contra-ataque futuro depende da capacidade de resistir e se preparar para os desafios vindouros.

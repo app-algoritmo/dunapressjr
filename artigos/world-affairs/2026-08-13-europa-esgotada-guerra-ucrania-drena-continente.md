@@ -24,7 +24,7 @@ tags:
   - inflação
 ---
 
-Quatro anos depois do início da invasão em larga escala, a guerra na Ucrânia deixou de ser um choque e virou rotina. Uma rotina cara. Na Alemanha, o preço do gás industrial ainda oscila acima dos níveis pré-2022. Na França, o debate sobre o custo da energia nuclear e das importações de GNL divide governos e oposição. Na Europa do Leste, os orçamentos públicos continuam comprimidos entre a ajuda militar a Kiev e o atendimento às próprias populações.
+Quatro anos depois do início da guerra em larga escala, a guerra na Ucrânia deixou de ser um choque e virou rotina. Uma rotina cara. Na Alemanha, o preço do gás industrial ainda oscila acima dos níveis pré-2022. Na França, o debate sobre o custo da energia nuclear e das importações de GNL divide governos e oposição. Na Europa do Leste, os orçamentos públicos continuam comprimidos entre a ajuda militar a Kiev e o atendimento às próprias populações.
 
 O problema não é mais apenas o corte do gás russo. É o efeito acumulado. Cada inverno força novas compras de gás natural liquefeito a preços elevados. Cada pacote de sanções exige mais fiscalização e gera mais custos indiretos para empresas europeias que ainda mantêm cadeias de fornecimento complexas. E cada bilhão enviado à Ucrânia precisa ser justificado perante eleitores que veem a inflação alimentar e o aluguel subir mais rápido do que os salários.
 

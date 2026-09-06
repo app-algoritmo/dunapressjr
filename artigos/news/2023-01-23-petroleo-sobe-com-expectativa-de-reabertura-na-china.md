@@ -18,7 +18,7 @@ O preço da *commodity* está em alta consolidada nas últimas semanas e atinge 
 
 O rali do petróleo é impulsionado pela expectativa de que a China, um dos maiores destinos das exportações, siga firme na sua estratégia de reabertura econômica após anos da política restrita de Covid Zero, que levou ao fechamento de grandes centros urbanos por semanas ou meses.
 
-Para Craig Erlam, analista sênior de mercado da Oanda, o fluxo deve se manter positivo nos próximos meses, inclusive com a perspectiva do preço do barril tipo Brent superar os três dígitos, patamar visto no ano passado em meio à invasão da Ucrânia por tropas russas.
+Para Craig Erlam, analista sênior de mercado da Oanda, o fluxo deve se manter positivo nos próximos meses, inclusive com a perspectiva do preço do barril tipo Brent superar os três dígitos, patamar visto no ano passado em meio à guerra na Ucrânia por tropas russas.
 
 “Embora a reabertura em si seja sem dúvida complicada, principalmente durante a temporada de férias, as primeiras indicações sugerem que houve um aumento na atividade, o que significa que a economia pode ter um desempenho melhor durante a transição e também na recuperação”, afirmou.
 

@@ -26,7 +26,7 @@ tags:
 
 A Noruega ocupa uma posição geográfica que poucos países europeus invejam e muitos prefeririam não ter. Sua fronteira terrestre com a Rússia, no extremo norte, e o domínio sobre vastas áreas marítimas no Mar de Barents e ao redor de Svalbard colocam Oslo no centro de uma das equações de segurança mais delicadas do continente. Em 2026, o derretimento do gelo, a militarização russa na Península de Kola e a redescoberta do Ártico pelas grandes potências transformaram o Alto Norte em prioridade absoluta da política externa e de defesa norueguesa.
 
-Durante décadas, a região foi tratada com uma mistura de pragmatismo e baixa tensão. A cooperação com a Rússia em pesca, busca e salvamento e gestão de fronteira funcionava mesmo em períodos de frieza diplomática. Essa era terminou. A invasão da Ucrânia e o reforço militar russo no Ártico mudaram o cálculo. A Noruega passou a investir pesadamente em vigilância, presença e interoperabilidade com aliados da OTAN, ao mesmo tempo em que tenta preservar canais de comunicação técnica com Moscou em áreas críticas como a gestão de recursos pesqueiros.
+Durante décadas, a região foi tratada com uma mistura de pragmatismo e baixa tensão. A cooperação com a Rússia em pesca, busca e salvamento e gestão de fronteira funcionava mesmo em períodos de frieza diplomática. Essa era terminou. A guerra na Ucrânia e o reforço militar russo no Ártico mudaram o cálculo. A Noruega passou a investir pesadamente em vigilância, presença e interoperabilidade com aliados da OTAN, ao mesmo tempo em que tenta preservar canais de comunicação técnica com Moscou em áreas críticas como a gestão de recursos pesqueiros.
 
 ## Svalbard e o teste de soberania
 

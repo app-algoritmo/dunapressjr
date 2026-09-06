@@ -36,7 +36,7 @@ No mesmo dia, ministros do interior dos países do Báltico reuniram-se em Flens
 
 ## Dois novatos da Otan, um manual antigo
 
-Finlândia e Suécia chegaram à Aliança depois da invasão da Ucrânia. O reflexo agora é o da fronteira que a Suécia não tem e a Finlândia não pode encurtar. Helsinque pede sensores. Estocolmo envia o que fabrica de melhor. O gesto também fala à campanha eleitoral sueca de setembro: segurança e energia estão no topo da urna, e um destacamento visível na Finlândia é política externa que o eleitor vê.
+Finlândia e Suécia chegaram à Aliança depois da guerra na Ucrânia. O reflexo agora é o da fronteira que a Suécia não tem e a Finlândia não pode encurtar. Helsinque pede sensores. Estocolmo envia o que fabrica de melhor. O gesto também fala à campanha eleitoral sueca de setembro: segurança e energia estão no topo da urna, e um destacamento visível na Finlândia é política externa que o eleitor vê.
 
 Nada no comunicado afirma que drones russos foram identificados sobre território finlandês nesta semana. O texto fala em aumento de incursões no espaço aéreo aliado e num pedido formal. A operação começará e durará o outono. Os Gripens, se forem os E ou os C/D ainda em serviço, farão o trabalho sujo da vigilância. O comando, se o acordo for acionado no grau máximo, será finlandês. Essa frase — suecos sob comando finlandês — é a novidade institucional. Dois exércitos que passaram o século XX evitando exatamente esse tipo de subordinação agora a escrevem num press release.
 

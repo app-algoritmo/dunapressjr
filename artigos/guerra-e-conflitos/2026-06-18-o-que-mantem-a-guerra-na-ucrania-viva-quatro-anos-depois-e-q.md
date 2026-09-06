@@ -22,7 +22,7 @@ tags:
   - duna press
 ---
 
-Em fevereiro de 2022, especialistas apostavam em semanas. Em junho de 2026, a guerra na Ucrânia completa quatro anos de invasão em larga escala sem um horizonte claro de encerramento — e, mais importante, sem que o mundo tenha parado de pagar por ela. A questão não é mais se o conflito vai acabar, mas quem determina quando e em que termos.
+Em fevereiro de 2022, especialistas apostavam em semanas. Em junho de 2026, a guerra na Ucrânia completa quatro anos de guerra em larga escala sem um horizonte claro de encerramento — e, mais importante, sem que o mundo tenha parado de pagar por ela. A questão não é mais se o conflito vai acabar, mas quem determina quando e em que termos.
 
 A linha de frente mudou pouco desde o verão europeu de 2024. A Rússia controla cerca de 18% do território ucraniano reconhecido internacionalmente, incluindo partes das quatro regiões anexadas em 2022. O avanço russo no Oblast de Donetsk continuou lento e custoso — Moscou teria perdido, segundo estimativas do Instituto para o Estudo da Guerra (ISW), mais de 450.000 soldados entre mortos e feridos até maio de 2026. A Ucrânia, por sua vez, sustenta a defesa com um exército reconfigurado por dois anos de treinamento ocidental, mas enfrenta pressão demográfica severa: mobilização compulsória de homens até 60 anos entrou em vigor em novembro de 2025.
 

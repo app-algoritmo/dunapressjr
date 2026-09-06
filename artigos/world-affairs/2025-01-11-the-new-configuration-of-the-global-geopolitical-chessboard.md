@@ -83,7 +83,7 @@ O mundo vive um momento de instabilidade geopolítica que não se via desde as d
 
 ### **Europa e Ásia: Ucrânia, Taiwan e o Desafio à Soberania
 
-A invasão da Ucrânia pela Rússia em 2022 marcou um ponto de inflexão. Ao anexar territórios como a Crimeia e, mais recentemente, regiões do leste ucraniano, a Rússia redefiniu o conceito de fronteiras na Europa. Apesar de sanções e apoio militar do Ocidente, a falta de uma solução definitiva para o conflito destaca a fragilidade da ordem internacional. A longo prazo, especialistas preveem que uma eventual estabilização pode deixar a Ucrânia fragmentada, com parte de seu território efetivamente sob controle russo.
+A guerra na Ucrânia pela Rússia em 2022 marcou um ponto de inflexão. Ao anexar territórios como a Crimeia e, mais recentemente, regiões do leste ucraniano, a Rússia redefiniu o conceito de fronteiras na Europa. Apesar de sanções e apoio militar do Ocidente, a falta de uma solução definitiva para o conflito destaca a fragilidade da ordem internacional. A longo prazo, especialistas preveem que uma eventual estabilização pode deixar a Ucrânia fragmentada, com parte de seu território efetivamente sob controle russo.
 
 No Oriente, Taiwan segue como um dos maiores focos de tensão global. A China reafirma constantemente sua soberania sobre a ilha, enquanto os Estados Unidos e seus aliados oferecem suporte militar a Taiwan. Qualquer movimento militar chinês pode desencadear um conflito de proporções globais, envolvendo o Indo-Pacífico em uma disputa que ultrapassa o campo econômico e atinge diretamente questões de hegemonia militar.
 
