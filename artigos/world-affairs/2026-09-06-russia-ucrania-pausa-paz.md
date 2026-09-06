@@ -29,7 +29,7 @@ Volodymyr Zelensky, no mesmo dia, no canal oficial da Presidência, escreveu o e
 
 O Kremlin foi explícito num ponto que a manchete costuma perder: a suspensão vale para a capital, não para o resto da Ucrânia. Peskov ligou a decisão à preparação dos contatos americanos em Kiev, e disse que não havia conversa sobre ideias novas para encerrar o conflito. Kirill Dmitriev recebeu os enviados em Moscou; Putin, ao encontrá-los, observou que a situação não está fácil e que contatos assim são sempre úteis, aconteça o que acontecer.
 
-Horas antes do anúncio, mísseis russos atingiram dois aeroportos da região de Kiev, entre eles Boryspil, e um drone atingiu a sede do Serviço de Segurança da Ucrânia no centro da capital — a primeira vez desde o início da invasão. Cinco pessoas morreram num sítio industrial em outro ponto do país. Zelensky leu os ataques aos aeroportos como reação à hipótese de os americanos chegarem de avião.
+Horas antes do anúncio, mísseis russos atingiram dois aeroportos da região de Kiev, entre eles Boryspil, e um drone atingiu a sede do Serviço de Segurança da Ucrânia no centro da capital — a primeira vez desde o início da guerra. Cinco pessoas morreram num sítio industrial em outro ponto do país. Zelensky leu os ataques aos aeroportos como reação à hipótese de os americanos chegarem de avião.
 
 Setenta e duas horas. Duas capitais. Nenhum tratado.
 
@@ -55,7 +55,7 @@ Mortos militares, dos dois lados, não têm censo público independente com a me
 
 A guerra entrou no quinto ano, e a perda territorial ucraniana é fato medido, não interpretação. Não existe cartógrafo neutro desta guerra: quem mapeia é ucraniano, russo ou ocidental. Por isso vale registrar onde os adversários convergem, que é o teste mais duro que uma cifra de guerra pode passar.
 
-Convergem no total. O DeepState, mapeamento ucraniano de fontes abertas, contava 116.206 quilômetros quadrados sob ocupação russa em 6 de janeiro de 2026 — 19,25% do país. Moscou não contesta essa ordem de grandeza; ao contrário, reivindica-a. São cerca de 20% dos 603.628 quilômetros quadrados do território reconhecido, incluindo a Crimeia desde 2014, quase toda a província de Luhansk e faixas de Donetsk, Zaporíjia e Kherson. Uma frente de mais de mil quilômetros, pela conta do próprio comandante ucraniano.
+Convergem no total. O DeepState, mapeamento ucraniano de fontes abertas, contava 116.206 quilômetros quadrados sob controle russo em 6 de janeiro de 2026 — 19,25% do país. Moscou não contesta essa ordem de grandeza; ao contrário, reivindica-a. São cerca de 20% dos 603.628 quilômetros quadrados do território reconhecido, incluindo a Crimeia desde 2014, quase toda a província de Luhansk e faixas de Donetsk, Zaporíjia e Kherson. Uma frente de mais de mil quilômetros, pela conta do próprio comandante ucraniano.
 
 Divergem no ritmo, e aí a aritmética de Moscou trabalha contra o discurso de Moscou. Numa reunião com o alto comando em outubro de 2025, segundo a transcrição do Kremlin, Putin afirmou ter tomado naquele ano quase 4.900 quilômetros quadrados e 212 localidades — algo como 408 quilômetros quadrados por mês. Em 1º de setembro de 2026, o mesmo Putin disse que a Rússia acelerava e reivindicou, para todo o mês de agosto, 15 povoados e 270 quilômetros quadrados em Donetsk, o teatro principal. É menos de dois terços da média mensal que ele próprio anunciara para o ano anterior. O ISW, que é think tank americano e mede com outro método, chega a número ainda menor: 90,35 quilômetros quadrados em agosto de 2026 contra 505,55 em agosto de 2025.
 
