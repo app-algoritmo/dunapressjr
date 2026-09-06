@@ -12,7 +12,7 @@ categories:
 
 Vários drones atingem a capital russa em um raro ataque a Moscou na terça-feira (30), causando danos menores a alguns prédios na cidade, disseram autoridades.
 
-Foi um dos raros ataques à capital desde que a Rússia invadiu a Ucrânia em fevereiro do ano passado.
+Foi um dos raros ataques à capital desde que começou a guerra na Ucrânia em fevereiro do ano passado.
 
 Não se sabe quem voou com o drone carregado de explosivos sobre a cidade fortemente guardada, mas altamente vulnerável.
 

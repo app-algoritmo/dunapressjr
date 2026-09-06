@@ -9,7 +9,7 @@ categories:
 ---
 
 
-## 33 anos de história levando à invasão da Ucrânia pela Rússia que você não descobrirá nas escolas dos EUA ou na mídia ocidental.
+## 33 anos de história levando à guerra na Ucrânia pela Rússia que você não descobrirá nas escolas dos EUA ou na mídia ocidental.
 
 A Finlândia tornou-se na terça-feira o 31º membro da OTAN - um movimento antes impensável que está mudando significativamente a paisagem geopolítica da Europa, tornando-a muito mais volátil e vulnerável à guerra.
 
@@ -33,7 +33,7 @@ O complexo militar-industrial e seus apoiadores neocon em Washington começaram 
 
 Eu nunca tinha ouvido falar dessas promessas quebradas dos EUA a Gorbachev, e me formei em história com especialização em ciências políticas. Então eu não queria acreditar na palavra de Sachs. Fiz minha própria pesquisa e descobri que Sachs está certo. Em um artigo de 2017 de Larry Kummer, citando documentos originais no Arquivo de Segurança Nacional da Universidade George Washington, saiba mais sobre essa história que está sendo escondida de estudantes americanos em escolas e universidades.
 
-Ouça Sachs compartilhar a história completamente ignorada que levou à invasão da Ucrânia pela Rússia em fevereiro de 2022. Isso vai explodir sua mente. Eu tive que assistir duas vezes para processar tudo.
+Ouça Sachs compartilhar a história completamente ignorada que levou à guerra na Ucrânia pela Rússia em fevereiro de 2022. Isso vai explodir sua mente. Eu tive que assistir duas vezes para processar tudo.
 
 https://www.youtube.com/embed/WmvTknWCVF4?feature=oembed
 

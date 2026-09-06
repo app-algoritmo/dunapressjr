@@ -41,6 +41,6 @@ A eficácia das sanções é objeto de debate permanente. Elas não pararam a gu
 
 ## Uma disputa sobre a ordem de segurança
 
-A geopolítica entre a UE e a Rússia em 2026 não se resume a um conflito congelado. Trata-se de uma disputa sobre a ordem de segurança europeia. Moscou busca fragmentar a coesão do continente e limitar o apoio ocidental à Ucrânia. Bruxelas e as capitais europeias tentam demonstrar que a agressão militar tem custo permanente e crescente. O apoio à Ucrânia continua sendo o principal instrumento dessa demonstração.
+A geopolítica entre a UE e a Rússia em 2026 não se resume a um conflito congelado. Trata-se de uma disputa sobre a ordem de segurança europeia. Moscou busca fragmentar a coesão do continente e limitar o apoio ocidental à Ucrânia. Bruxelas e as capitais europeias tentam demonstrar que a ação militar tem custo permanente e crescente. O apoio à Ucrânia continua sendo o principal instrumento dessa demonstração.
 
 Em agosto de 2026, nenhuma das partes mostra sinais de capitulação estratégica. O que se observa é um desgaste mútuo, assimétrico e de duração indefinida.

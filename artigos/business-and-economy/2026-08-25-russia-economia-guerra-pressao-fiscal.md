@@ -29,7 +29,7 @@ O motor do crescimento entre 2023 e 2024 foi o Estado. Gastos com defesa e segur
 
 ## Déficit e reservas
 
-O déficit orçamentário acelerou. Nos primeiros meses de 2026 o rombo já superava a meta anual prevista. Analistas estimam que o déficit final possa ficar entre 3% e 4% do PIB, bem acima do planejado. O Fundo de Riqueza Nacional, que funcionava como colchão, viu seus ativos líquidos caírem de cerca de 6,5% do PIB antes da invasão para menos de 2% no final de 2025. Com as reservas fáceis deplecionadas, a capacidade de financiar o esforço de guerra depende cada vez mais das receitas correntes de petróleo e gás e da emissão de dívida interna absorvida pelos bancos russos.
+O déficit orçamentário acelerou. Nos primeiros meses de 2026 o rombo já superava a meta anual prevista. Analistas estimam que o déficit final possa ficar entre 3% e 4% do PIB, bem acima do planejado. O Fundo de Riqueza Nacional, que funcionava como colchão, viu seus ativos líquidos caírem de cerca de 6,5% do PIB antes da guerra para menos de 2% no final de 2025. Com as reservas fáceis deplecionadas, a capacidade de financiar o esforço de guerra depende cada vez mais das receitas correntes de petróleo e gás e da emissão de dívida interna absorvida pelos bancos russos.
 
 A alta temporária dos preços do petróleo provocada por tensões no Oriente Médio gerou um alívio pontual nas receitas de exportação. Esse alívio, no entanto, foi insuficiente para cobrir o descompasso entre gastos e receitas. Além disso, a Ucrânia intensificou ataques com drones a infraestruturas de refino e logística, reduzindo volumes exportáveis em alguns períodos e elevando custos de operação.
 

@@ -9,7 +9,7 @@ categories:
 
 **Até 1991, a Ucrânia era uma das 15 repúblicas que formavam a União Soviética (URSS). Com o colapso da URSS, em agosto daquele ano, a Ucrânia tornou-se uma nação independente e estabeleceu laços mais próximos com as potências ocidentais, o que incomodou a Rússia.**
 
-Desde então, Kiev tenta controlar seu destino, muitas vezes sem sucesso, sob a sombra de seu maior e mais poderoso vizinho. É alvo agora de uma invasão de grande escala que põe em xeque o futuro do país como nação independente.
+Desde então, Kiev tenta controlar seu destino, muitas vezes sem sucesso, sob a sombra de seu maior e mais poderoso vizinho. É alvo agora de uma guerra de grande escala que põe em xeque o futuro do país como nação independente.
 
 Segundo maior país da Europa, atrás apenas da Rússia, a Ucrânia é uma terra de amplas e férteis planícies usadas para agricultura, com grandes centros de indústria pesada em sua parte leste.
 

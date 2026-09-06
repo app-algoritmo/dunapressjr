@@ -32,7 +32,7 @@ Grossi foi explícito: sem restaurar a linha ou sem novas entregas, a estação 
 
 Reatores parados ainda precisam de refrigeração. Combustível gasto ainda precisa de bomba. Gerador a diesel resolve o imediato e cria uma dependência logística no meio de um front. Cada comboio de combustível é um alvo em potencial para quem quiser descrevê-lo como alvo. Cada drone sobre o perímetro — a AIEA registrou três incidentes nesta semana, com dois funcionários feridos — aumenta o risco operacional sem precisar acertar um reator.
 
-Moscou controla o sítio e atribui os cortes de energia a ataques ucranianos. Kiev atribui a ocupação e a atividade militar russa. A AIEA não arbitra a soberania. Mede a tensão na linha e o nível no tanque. O tanque, neste domingo, dá para dez dias se o consumo for o previsto e se ninguém furar o próximo caminhão.
+Moscou controla o sítio e atribui os cortes de energia a ataques ucranianos. Kiev atribui o controle russo e a atividade militar. A AIEA não arbitra a soberania. Mede a tensão na linha e o nível no tanque. O tanque, neste domingo, dá para dez dias se o consumo for o previsto e se ninguém furar o próximo caminhão.
 
 A usina é a maior da Europa. Seis blocos. Combustível irradiado no pátio. Uma equipe permanente da AIEA desde setembro de 2022. O Update 364 não é um alarme de fusão. É um alarme de calendário. Dez dias cabem numa semana e meia. A trégua para o eletricista ainda não foi assinada.
 

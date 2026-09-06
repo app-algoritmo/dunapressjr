@@ -22,7 +22,7 @@ Mas há outro subtexto dúbio sendo obscurecido: o fato de que a OTAN é respons
 
 Afinal, foi a OTAN que, a partir de 2008, flertou abertamente com a Ucrânia e apresentou a perspectiva de uma eventual adesão na esperança aberta de que um dia a aliança seria capaz de flexionar seus músculos militares ameaçadoramente à porta da Rússia.
 
-Foi o Reino Unido que interveio semanas após a invasão da Rússia em fevereiro de 2022, e presumivelmente sob instruções de Washington, para impedir as negociações entre Kiev e Moscou – negociações que poderiam ter encerrado a guerra em um estágio inicial, antes que a Rússia começasse a tomar territórios no leste da Ucrânia.
+Foi o Reino Unido que interveio semanas após a ofensiva da Rússia em fevereiro de 2022, e presumivelmente sob instruções de Washington, para impedir as negociações entre Kiev e Moscou – negociações que poderiam ter encerrado a guerra em um estágio inicial, antes que a Rússia começasse a tomar territórios no leste da Ucrânia.
 
 Um acordo teria sido muito mais fácil então do que é hoje. Muito provavelmente, Kiev deveria ter se comprometido com a neutralidade em vez de buscar a integração secreta na OTAN. Moscou também teria pedido o fim dos ataques políticos, legais e militares do governo ucraniano à população de língua russa no leste.
 
@@ -38,7 +38,7 @@ Em outras palavras, a mensagem da OTAN para Moscou é que a Rússia tomou a deci
 
 É a guerra que impediu a Ucrânia de ser totalmente incorporada à aliança militar ocidental. É a guerra que impediu a transformação da Ucrânia em uma base da OTAN, onde o Ocidente poderia implantar mísseis nucleares a poucos minutos de Moscou.
 
-Se a Rússia não tivesse invadido, Kiev estaria livre para acelerar o que já estava fazendo em segredo: a integração na OTAN. Então, o que Zelensky deveria concluir de sua expulsão da OTAN depois de comprometer seu país com uma guerra prolongada em vez de negociações e neutralidade?
+Se a Rússia não tivesse entrado em guerra, Kiev estaria livre para acelerar o que já estava fazendo em segredo: a integração na OTAN. Então, o que Zelensky deveria concluir de sua expulsão da OTAN depois de comprometer seu país com uma guerra prolongada em vez de negociações e neutralidade?
 
 Até agora, a tão alardeada "contra-ofensiva de primavera" da Ucrânia provou ser um fracasso, mesmo quando a mídia ocidental fala de "progresso lento". Moscou mantém os territórios ucranianos que anexou.
 
@@ -90,13 +90,13 @@ Dada esta história, seria tolice para Washington tomar pelo valor de face as ga
 
 ### Padrões duplos
 
-Em público, os líderes europeus estão tentando aliviar sua consciência sugerindo que a entrega de munições cluster a Kiev é excepcionalmente justificada. As bombas são consideradas essenciais se a Ucrânia quiser defender seu território contra a agressão e ocupação russas.
+Em público, os líderes europeus estão tentando aliviar sua consciência sugerindo que a entrega de munições cluster a Kiev é excepcionalmente justificada. As bombas são consideradas essenciais se a Ucrânia quiser defender seu território contra a ofensiva e o controle russos.
 
 Mas se essa é realmente a referência da OTAN, então há outro estado extraordinário e oprimido que não precisa menos dessa munição: a Palestina.
 
 Como a Ucrânia, os palestinos tiveram seu território tomado por um inimigo implacável. E como a Ucrânia, os palestinos enfrentam constantes ataques militares de um exército de ocupação.
 
-As tropas de ocupação sempre acabam cometendo crimes de guerra, assim como o exército russo. As Nações Unidas acusam o exército russo de estupro, assassinato e tortura, bem como de ataques a infraestruturas civis.
+As tropas russas sempre acabam cometendo crimes de guerra, assim como o exército russo. As Nações Unidas acusam o exército russo de estupro, assassinato e tortura, bem como de ataques a infraestruturas civis.
 
 Como os EUA e o Reino Unido demonstraram no Iraque e no Afeganistão, invadir o território de outro povo e subjugá-lo envolve inevitavelmente cometer crimes de guerra.
 

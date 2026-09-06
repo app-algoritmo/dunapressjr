@@ -29,6 +29,6 @@ De qualquer forma, o texto representa uma pequena vitória para Sunak, que retor
 
 Além das questões comerciais, os dois líderes reafirmaram seu compromisso com a "relação especial" que historicamente une suas nações, que são especialmente próximas não apenas em termos políticos e econômicos, mas também no campo cultural.
 
-Além disso, a relação entre Biden e Sunak tem se estreitado nos últimos meses devido às visões semelhantes sobre a guerra na Ucrânia. Washington e Londres têm liderado a entrega de ajuda militar à Ucrânia desde que a Rússia lançou sua invasão ao país vizinho em fevereiro de 2022, e têm coordenado o treinamento de pilotos ucranianos para voar em aviões de combate de quarta geração, incluindo o poderoso F-16 fabricado nos EUA.
+Além disso, a relação entre Biden e Sunak tem se estreitado nos últimos meses devido às visões semelhantes sobre a guerra na Ucrânia. Washington e Londres têm liderado a entrega de ajuda militar à Ucrânia desde que a Rússia entrou em guerra com o país vizinho em fevereiro de 2022, e têm coordenado o treinamento de pilotos ucranianos para voar em aviões de combate de quarta geração, incluindo o poderoso F-16 fabricado nos EUA.
 
 Com informações da [EFE](https://efe.com/en/latest-news/2023-06-09/biden-sunak-renew-economic-alliance-to-adapt-to-ai-climate-change/)

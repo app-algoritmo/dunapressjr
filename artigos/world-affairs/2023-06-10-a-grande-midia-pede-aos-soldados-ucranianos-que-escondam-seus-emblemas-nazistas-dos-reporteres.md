@@ -15,7 +15,7 @@ Apenas recentemente *o New York Times* foi forçado a admitir que a ideologia na
 
 As suásticas estão *por toda parte* nos equipamentos ucranianos, tanto que o *Times* sentiu a necessidade de publicar um artigo reconhecendo o que muitos já sabem há anos. O *Times* , no entanto, o girou para afirmar que a simbologia nazista na Ucrânia simplesmente destaca as “questões espinhosas” de sua “história” como país.
 
-Desde pelo menos 2014, é amplamente conhecido entre os consumidores de mídia *independente que a Ucrânia é governada por algumas pessoas questionáveis, para dizer o mínimo. *Não é nenhuma surpresa para nenhum deles, em outras palavras, que não mudou muito desde que a Rússia invadiu a terra.
+Desde pelo menos 2014, é amplamente conhecido entre os consumidores de mídia *independente que a Ucrânia é governada por algumas pessoas questionáveis, para dizer o mínimo. *Não é nenhuma surpresa para nenhum deles, em outras palavras, que não mudou muito desde que começou a guerra.
 
 Para os consumidores corporativos de mídia, no entanto, o artigo *do Times* pode ser a primeira vez que eles ouvem algo sobre o nazismo na Ucrânia. E por causa da manipulação do *Times , eles serão levados a acreditar que tais símbolos são meramente relíquias históricas, em vez de crenças atuais.*
 

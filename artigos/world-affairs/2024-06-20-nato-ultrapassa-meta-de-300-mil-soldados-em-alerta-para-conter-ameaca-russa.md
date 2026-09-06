@@ -28,4 +28,4 @@ Enquanto a NATO trabalha para aumentar sua prontidão, alguns críticos permanec
 
 Conclusão
 
-A superação da meta de 300 mil soldados em alerta demonstra o compromisso da NATO em fortalecer sua defesa coletiva contra a ameaça russa. No entanto, a aliança precisa continuar a abordar suas lacunas de capacidade para garantir que esteja totalmente preparada para qualquer contingência. A próxima fase envolverá a garantia de que todas as tropas e equipamentos necessários estejam prontos e disponíveis para uma resposta rápida e eficaz a qualquer agressão futura.
+A superação da meta de 300 mil soldados em alerta demonstra o compromisso da NATO em fortalecer sua defesa coletiva contra a ameaça russa. No entanto, a aliança precisa continuar a abordar suas lacunas de capacidade para garantir que esteja totalmente preparada para qualquer contingência. A próxima fase envolverá a garantia de que todas as tropas e equipamentos necessários estejam prontos e disponíveis para uma resposta rápida e eficaz a qualquer ofensiva futura.

@@ -37,7 +37,7 @@ Esse orçamento do ano fiscal de 2023, que inclui **US $60,4 bilhões** para o D
 
 O documento fala ainda dos compromissos com o povo ucraniano e os aliados e parceiros na Europa. Inclui apoio econômico e de segurança adicional para a Ucrânia para ajudar em seu esforço de defesa.
 
-Os ucranianos defendem seu país das ações premeditadas, não provocadas e injustificadas da invasão da Rússia, reforça ainda o documento.
+Os ucranianos defendem seu país das ações premeditadas, não provocadas e injustificadas da ofensiva da Rússia, reforça ainda o documento.
 
 Também fornece apoio significativo aos parceiros na região, apoiando-os em seus caminhos em direção à democracia, integração euro-atlântica e economias de mercado aberto enquanto constroem sua capacidade de combater ações coercitivas de atores externos. Há também uma forte ênfase em apoio financeiro no combate a doenças e epidemias.
 

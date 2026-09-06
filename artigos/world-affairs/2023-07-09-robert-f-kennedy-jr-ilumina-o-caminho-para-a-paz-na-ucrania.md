@@ -10,7 +10,7 @@ categories:
 
 Robert F. Kennedy Jr. simpatiza com os ucranianos e expressa suas preocupações sobre a expansão da OTAN, a saída dos EUA do Tratado INF e a rejeição do Ocidente a um acordo de paz em abril de 2022.
 
-Durante um painel de discussão do NewsNation com o candidato presidencial, Robert F. Kennedy Jr. expressou sua mais profunda simpatia pelo povo ucraniano e condenou veementemente a invasão de Putin à Ucrânia. 
+Durante um painel de discussão do NewsNation com o candidato presidencial, Robert F. Kennedy Jr. expressou sua mais profunda simpatia pelo povo ucraniano e condenou veementemente a ofensiva de Putin na Ucrânia. 
 
 Ele também expressa preocupação com a expansão da OTAN, a saída dos EUA do Tratado INF e a rejeição do Ocidente ao acordo de paz de abril de 2022.
 

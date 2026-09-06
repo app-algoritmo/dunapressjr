@@ -24,7 +24,7 @@ O resultado foi meio milhão de mortos e feridos na Ucrânia e pesadas perdas nu
 
 Como relatou o Epoch Times:
 
-*Não foram alcançados quaisquer sucessos significativos, provavelmente devido à necessidade de manchetes positivas nos meios de comunicação social para garantir o fluxo contínuo de dinheiro e armas.*Um acordo de paz alcançado poucas semanas depois da invasão ter sido sabotado pelos esforços da Grã-Bretanha e dos EUA para continuar o seu projecto de desestabilização na Rússia.
+*Não foram alcançados quaisquer sucessos significativos, provavelmente devido à necessidade de manchetes positivas nos meios de comunicação social para garantir o fluxo contínuo de dinheiro e armas.*Um acordo de paz alcançado poucas semanas depois do início da guerra ter sido sabotado pelos esforços da Grã-Bretanha e dos EUA para continuar o seu projecto de desestabilização na Rússia.
 
 Como mostra uma pesquisa actual da CNN, o apoio à guerra no principal país patrocinador, os EUA, está a diminuir. O apoio público à guerra na Alemanha tem diminuído desde maio de 2023. Tal como a UE descreve, numa típica inversão da realidade: “O apoio militar da Alemanha à Ucrânia é apoiado por uma maioria relativa de 47 por cento”.
 

@@ -97,7 +97,7 @@ Quando questionado sobre a sua posição em relação à Segunda Emenda, ele dis
 
 ## 'A Rússia não vai perder'
 
-Kennedy instou o presidente Biden a negociar um fim pacífico para a guerra Rússia-Ucrânia, que começou quando a Rússia invadiu o país vizinho em fevereiro de 2022.
+Kennedy instou o presidente Biden a negociar um fim pacífico para a guerra Rússia-Ucrânia, que começou quando começou a guerra em fevereiro de 2022.
 
 “A Rússia não vai perder esta guerra. A Rússia não pode pagar por isso”, disse ele. “Seria como se perdêssemos uma guerra para o México.”
 

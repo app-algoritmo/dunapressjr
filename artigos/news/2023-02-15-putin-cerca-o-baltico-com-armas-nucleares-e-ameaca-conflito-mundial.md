@@ -9,7 +9,7 @@ categories:
 ---
 
 
-A situação em torno da guerra na Ucrânia pode piorar quase um ano após seu início. Mais de 50 países que estão conversando para enviar mais armas e recursos para Kiev diante dos movimentos ordenados de Moscou com aviões, tropas e até bombas nucleares parecem concordar com isso. Ou seja, a invasão continua e fica mais complicada a cada dia.
+A situação em torno da guerra na Ucrânia pode piorar quase um ano após seu início. Mais de 50 países que estão conversando para enviar mais armas e recursos para Kiev diante dos movimentos ordenados de Moscou com aviões, tropas e até bombas nucleares parecem concordar com isso. Ou seja, a guerra continua e fica mais complicada a cada dia.
 
 Apenas a inteligência norueguesa [revelou um relatório](https://www.etterretningstjenesten.no/publikasjoner/fokus/fokus-norsk/Fokus2023%20-%20NO%20-%20Weboppslag.pdf/_/attachment/inline/16bb7650-5d01-47d9-9f46-16ddf96a6312:db85da46f08a95c6bc9eeb34472facffe5de2664/Fokus2023%20-%20NO%20-%20Weboppslag.pdf) sobre a implantação de navios com armas nucleares no Mar Báltico ordenado por Vladimir Putin. É a primeira vez que isso acontece em 30 anos. Segundo suas páginas, "a chave está nos submarinos e navios de superfície da Frota do Norte". Além disso, se uma dessas bombas detonasse, falaria em poucas palavras do início de uma guerra ainda maior, já que os países que cercam aquelas águas fazem parte da OTAN.
 

@@ -9,7 +9,7 @@ categories:
 ---
 
 
-A análise do Washington Post pintou um quadro sombrio para o futuro da Ucrânia sob a liderança do Presidente Volodymyr Zelensky, destacando a falta de opções viáveis para avançar e vencer a guerra em curso. Com a reconquista militar das áreas ocupadas pela Rússia se tornando cada vez mais improvável, e a recusa de Zelensky em negociar com Putin, o país se vê em um impasse.
+A análise do Washington Post pintou um quadro sombrio para o futuro da Ucrânia sob a liderança do Presidente Volodymyr Zelensky, destacando a falta de opções viáveis para avançar e vencer a guerra em curso. Com a reconquista militar das áreas sob controle russo pela Rússia se tornando cada vez mais improvável, e a recusa de Zelensky em negociar com Putin, o país se vê em um impasse.
 
 Enquanto a ajuda dos Estados Unidos, principal apoiador militar da Ucrânia, foi bloqueada no Congresso por meses, a perspectiva de uma paz negociada parece cada vez mais distante, especialmente depois de Zelensky proibir tal possibilidade por lei, levando o país a um beco sem saída.
 

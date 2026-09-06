@@ -3,9 +3,13 @@
 """
 Duna Press — vocabulário da guerra Rússia–Ucrânia.
 
-Localiza «invasão», «ocupação» e «agressão» APENAS em artigos sobre a guerra
-e APENAS na voz do jornal. Não toca em citação, em fala atribuída, nem em
-ocorrência sobre outro conflito.
+Localiza «invasão», «ocupação» e «agressão» APENAS em artigos sobre a guerra,
+APENAS no corpo do texto e APENAS na voz do jornal. Não toca em frontmatter,
+em citação, em fala atribuída, nem em ocorrência sobre outro conflito.
+
+O frontmatter fica de fora por um motivo prático: o slug do artigo é derivado
+do título, e trocar uma palavra no título muda o endereço público. Três URLs
+foram perdidas assim antes de esta trava existir.
 
 Por que existe: uma busca ingênua por «ocupa» casa dentro de «preocupação»,
 «preocupado» e «despreocupado», e uma busca por «ocupada» pega «a elite
@@ -39,10 +43,28 @@ ALVOS = re.compile(
 CITACAO = re.compile(r"[«»\u201c\u201d\"]|\bdisse\b|\bafirm|\bdeclar|\bsegundo\b|\bescreveu\b|"
                      r"\bcitou\b|\bacusou\b|\bchamou\b|\bsustenta\b|\bnas palavras\b", re.I)
 
+# «ocupado» no sentido de atarefado: «estará ocupada com as eleições»,
+# «ocupados mudando a imagem», «cassino extremamente ocupado».
+OCIOSO = re.compile(r"ocupad[ao]s?\s+(?:com|em|a\s|na\s|no\s|lan[çc]|desenvolv|mudan|"
+                    r"prepar|trabalh|cuidan|tentan|discut|negoci)|"
+                    r"mant[ée]m\s+ocupad|manter\s+ocupad|invad\w*\s+a\s+rede", re.I)
+
+# Fala com etiqueta de locutor: «TUCKER:», «PUTIN:», «SENHOR. FERTITTA:».
+LOCUTOR = re.compile(r"^\s*[A-ZÁÉÍÓÚÂÊÔÃÕÇ][A-ZÁÉÍÓÚÂÊÔÃÕÇ .]{2,}:", )
+
+# A linha precisa falar desta guerra, não só o arquivo.
+LINHA_TEMA = re.compile(r"ucr[âa]nia|ucranian|kiev|ky[ií]v|zelensk|donbas|donetsk|luhansk|"
+                        r"kherson|zapor|r[úu]ssia|russo|russa|moscou|kremlin|putin", re.I)
+
 # Outro conflito na mesma linha: não é desta guerra.
 OUTRO = re.compile(r"s[íi]ria|jap[ãa]o|cuba|canad[áa]|m[ée]xico|china|taiwan|iraque|i[êe]men|"
                    r"gaza|israel|palestin|afeganist|sovi[ée]tic|segunda guerra|nazist|"
-                   r"ba[íi]a dos porcos", re.I)
+                   r"ba[íi]a dos porcos|alem[ãa]es|URSS|\b193\d|\b194\d|guerra fria|"
+                   r"alemanha ocidental|pol[óo]nia|polonesa|lublin|holanda|ir[ãa]|"
+                   r"coreia do norte|hungria", re.I)
+
+# Linha que é link ou endereço: mexer aí quebra referência.
+LINK = re.compile(r"https?://|\]\(")
 
 SUGESTOES = [
     (re.compile(r"\bdesde o in[íi]cio da invas[ãa]o\b", re.I), "desde o início da guerra"),
@@ -58,6 +80,40 @@ SUGESTOES = [
     (re.compile(r"\bocupada pela R[úu]ssia\b", re.I),         "sob controle da Rússia"),
     (re.compile(r"\bocupada por for[çc]as russas\b", re.I),   "sob controle de forças russas"),
     (re.compile(r"\bagress[ãa]o russa\b", re.I),              "ofensiva russa"),
+    (re.compile(r"\ba R[úu]ssia invadiu a Ucr[âa]nia\b", re.I), "começou a guerra na Ucrânia"),
+    (re.compile(r"\binvas[ãa]o da R[úu]ssia\b", re.I),         "ofensiva da Rússia"),
+    (re.compile(r"\bocupa[çc][ãa]o da Ucr[âa]nia por tropas russas\b", re.I),
+                                                              "entrada de tropas russas na Ucrânia"),
+    (re.compile(r"\bocupa[çc][ãa]o da Ucr[âa]nia\b", re.I),    "guerra na Ucrânia"),
+    (re.compile(r"\bregi[õo]es ocupadas\b", re.I),             "regiões sob controle russo"),
+    (re.compile(r"\b[áa]reas ocupadas\b", re.I),               "áreas sob controle russo"),
+    (re.compile(r"\bzonas ocupadas\b", re.I),                  "zonas sob controle russo"),
+    (re.compile(r"\bcidades? ocupadas?\b", re.I),              "cidade sob controle russo"),
+    (re.compile(r"\bantes da invas[ãa]o\b", re.I),             "antes da guerra"),
+    (re.compile(r"\bdepois da invas[ãa]o\b", re.I),            "depois do início da guerra"),
+    (re.compile(r"\blan[çc]ou sua invas[ãa]o ao\b", re.I),     "entrou em guerra com o"),
+    (re.compile(r"\binvas[ãa]o de grande escala\b", re.I),     "guerra de grande escala"),
+    (re.compile(r"\binvas[ãa]o de territ[óo]rios ucranianos por for[çc]as russas\b", re.I),
+                                                              "entrada de forças russas em território ucraniano"),
+    (re.compile(r"\ba invas[ãa]o continua\b", re.I),           "a guerra continua"),
+    (re.compile(r"\bocupa[çc][ãa]o de alguns de seus territ[óo]rios\b", re.I),
+                                                              "controle de alguns de seus territórios"),
+    (re.compile(r"\bteria invadido a Ucr[âa]nia\b", re.I),     "teria entrado em guerra com a Ucrânia"),
+    (re.compile(r"\bn[ãa]o tivesse invadido\b", re.I),         "não tivesse entrado em guerra"),
+    (re.compile(r"\bocupada pelos russos\b", re.I),            "sob controle russo"),
+    (re.compile(r"\ba R[úu]ssia invadiu a terra\b", re.I),     "começou a guerra"),
+    (re.compile(r"\ba R[úu]ssia invadiu o pa[íi]s vizinho\b", re.I), "começou a guerra"),
+    (re.compile(r"\bagress[ãa]o e ocupa[çc][ãa]o russas\b", re.I), "ofensiva e o controle russos"),
+    (re.compile(r"\btropas de ocupa[çc][ãa]o\b", re.I),        "tropas russas"),
+    (re.compile(r"\binvas[ãa]o das for[çc]as militares russas\b", re.I),
+                                                              "entrada das forças militares russas"),
+    (re.compile(r"\bguerra de agress[ãa]o\b", re.I),           "guerra"),
+    (re.compile(r"\binvas[ãa]o de Putin [àa] Ucr[âa]nia\b", re.I), "ofensiva de Putin na Ucrânia"),
+    (re.compile(r"\bagress[ãa]o militar\b", re.I),             "ação militar"),
+    (re.compile(r"\ba ocupa[çc][ãa]o e a atividade militar russa\b", re.I),
+                                                              "o controle russo e a atividade militar"),
+    (re.compile(r"\buma invas[ãa]o limitada\b", re.I),         "uma ofensiva limitada"),
+    (re.compile(r"\bqualquer agress[ãa]o futura\b", re.I),     "qualquer ofensiva futura"),
 ]
 
 
@@ -75,8 +131,23 @@ def varrer():
         texto = open(caminho, encoding="utf-8").read()
         if not TEMA.search(texto):
             continue
-        for n, linha in enumerate(texto.split("\n"), 1):
+        linhas = texto.split("\n")
+        # O frontmatter fica fora: mexer em title muda o slug, e mudar o slug
+        # quebra o endereço público do artigo. Só o corpo é editável aqui.
+        fim_fm = 0
+        if linhas and linhas[0].strip() == "---":
+            for i, l in enumerate(linhas[1:], 1):
+                if l.strip() == "---":
+                    fim_fm = i
+                    break
+        for n, linha in enumerate(linhas, 1):
+            if n <= fim_fm + 1:
+                continue
             if not ALVOS.search(linha):
+                continue
+            if not LINHA_TEMA.search(linha):
+                continue
+            if OCIOSO.search(linha) or LOCUTOR.search(linha) or LINK.search(linha):
                 continue
             if CITACAO.search(linha) or OUTRO.search(linha):
                 citados += 1
@@ -86,7 +157,9 @@ def varrer():
             if velho:
                 achados.append((rel, n, velho, novo, linha.strip()))
             else:
-                sem_regra.append((rel, n, linha.strip()))
+                m = ALVOS.search(linha)
+                ini = max(0, m.start() - 70)
+                sem_regra.append((rel, n, "…" + linha[ini:m.end() + 70].strip() + "…"))
     return achados, sem_regra, citados
 
 
@@ -106,10 +179,10 @@ def main():
         print(f"\nProposta em {os.path.relpath(PROPOSTA, RAIZ)}")
         if sem_regra:
             print("\nSem regra automática:")
-            for rel, n, ctx in sem_regra[:25]:
-                print(f"  {rel}:{n}\n      {ctx[:150]}")
+            for rel, n, ctx in sem_regra[:40]:
+                print(f"  {rel}:{n}\n      {ctx}")
             if len(sem_regra) > 25:
-                print(f"  (e mais {len(sem_regra)-25})")
+                print(f"  (e mais {len(sem_regra)-40})")
         return
 
     if not os.path.exists(PROPOSTA):
@@ -127,8 +200,17 @@ def main():
     for rel, trocas in porarq.items():
         caminho = os.path.join(RAIZ, rel)
         linhas = open(caminho, encoding="utf-8").read().split("\n")
+        fim_fm = 0
+        if linhas and linhas[0].strip() == "---":
+            for j, l in enumerate(linhas[1:], 1):
+                if l.strip() == "---":
+                    fim_fm = j
+                    break
         for n, velho, novo in trocas:
             i = n - 1
+            if n <= fim_fm + 1:
+                print(f"  -- frontmatter, ignorado: {rel}:{n}")
+                continue
             if velho in linhas[i]:
                 linhas[i] = linhas[i].replace(velho, novo, 1)
                 total += 1

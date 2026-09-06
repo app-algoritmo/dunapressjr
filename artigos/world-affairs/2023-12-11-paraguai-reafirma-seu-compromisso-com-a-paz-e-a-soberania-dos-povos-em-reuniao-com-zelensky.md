@@ -17,6 +17,6 @@ O presidente da Ucrânia chegou este domingo à capital argentina para assistir 
 
 Zelensky postou em sua conta X sobre sua conversa com Emanuel Macron, presidente da França, sobre as necessidades de seu país na frente de guerra com a Rússia e o apoio francês. Referiu-se também às recomendações que a Ucrânia tem cumprido para a sua entrada na União Europeia, que serão discutidas na próxima cimeira dos líderes do bloco.
 
-Desde fevereiro de 2022, a invasão das forças militares russas ocorreu na região de Donbass, onde existem dois estados autoproclamados soberanos em território ucraniano. A invasão e os bombardeiros deixaram uma migração de 7,2 milhões de ucranianos no continente europeu.
+Desde fevereiro de 2022, a entrada das forças militares russas ocorreu na região de Donbass, onde existem dois estados autoproclamados soberanos em território ucraniano. A invasão e os bombardeiros deixaram uma migração de 7,2 milhões de ucranianos no continente europeu.
 
 Fonte: [Agência IP ](https://www.ip.gov.py/ip/paraguay-reafirma-su-compromiso-con-la-paz-y-soberania-de-los-pueblos-en-encuentro-con-zelenski/)

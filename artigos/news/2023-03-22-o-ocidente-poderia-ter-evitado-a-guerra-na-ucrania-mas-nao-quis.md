@@ -8,7 +8,7 @@ categories:
 ---
 
 
-## A Rússia dificilmente teria invadido a Ucrânia se uma coalizão de países da OTAN tivesse ameaçado anteriormente intervir diretamente. 
+## A Rússia dificilmente teria entrado em guerra com a Ucrânia se uma coalizão de países da OTAN tivesse ameaçado anteriormente intervir diretamente. 
 
 Aparentemente, foi uma decisão consciente não fazer isso no Ocidente. Isso foi baseado no equívoco de que a Rússia poderia ser estrangulada econômica e politicamente isolada.
 

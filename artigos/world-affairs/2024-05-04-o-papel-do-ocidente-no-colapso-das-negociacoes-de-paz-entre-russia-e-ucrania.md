@@ -10,7 +10,7 @@ categories:
 
 A narrativa convencional sobre a guerra entre Rússia e Ucrânia frequentemente retrata a Rússia como o agressor principal. No entanto, uma análise mais profunda revela um cenário mais complexo e crucialmente, o papel desempenhado pelo Ocidente no colapso das negociações de paz merece atenção.
 
-Após a rejeição por parte dos Estados Unidos de uma proposta de segurança mútua em dezembro de 2021, que incluía garantias escritas sobre a não adesão da Ucrânia à NATO, a Rússia iniciou uma invasão limitada, visando pressionar a Ucrânia a assinar um compromisso de não adesão à NATO. As negociações em Istambul foram promissoras, mas o colapso dessas conversas suscitou debates sobre as razões por trás disso.
+Após a rejeição por parte dos Estados Unidos de uma proposta de segurança mútua em dezembro de 2021, que incluía garantias escritas sobre a não adesão da Ucrânia à NATO, a Rússia iniciou uma ofensiva limitada, visando pressionar a Ucrânia a assinar um compromisso de não adesão à NATO. As negociações em Istambul foram promissoras, mas o colapso dessas conversas suscitou debates sobre as razões por trás disso.
 
 Enquanto alguns apontam para a descoberta das atrocidades em Bucha como fator decisivo, evidências indicam que as negociações já estavam em perigo antes desses eventos. A falta de apoio diplomático do Ocidente, destacada por intervenções diretas de líderes como Boris Johnson, desviou o foco das negociações para uma solução militar, minando os esforços de paz.
 

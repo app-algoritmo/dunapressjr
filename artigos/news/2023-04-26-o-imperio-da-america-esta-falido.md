@@ -32,7 +32,7 @@ O problema desse sistema é o mesmo de qualquer esquema de pirâmide: um dia voc
 
 Desde 2010, os EUA cambalearam de uma crise para outra. Isso não é coincidência. A bomba de riqueza que manteve os EUA no topo da pirâmide global vacilou à medida que um número crescente de nações encontrou maneiras de reter uma parcela maior de sua própria riqueza, expandindo seus mercados domésticos e erguendo o tipo de barreira comercial que os EUA usaram antes de 1945 para construir sua própria economia. A única questão que resta é
 
-Quando a Rússia invadiu a Ucrânia em fevereiro de 2022, os EUA e seus aliados responderam não com força militar, mas com sanções econômicas destinadas a paralisar a economia russa e colocar a Rússia de joelhos. 
+Quando começou a guerra na Ucrânia em fevereiro de 2022, os EUA e seus aliados responderam não com força militar, mas com sanções econômicas destinadas a paralisar a economia russa e colocar a Rússia de joelhos. 
 
 Aparentemente, ninguém em Washington considerou a possibilidade de que outras nações com interesse em enfraquecer o império dos EUA pudessem ter algo a dizer sobre isso. Claro que foi exatamente isso que aconteceu. A China, a maior economia do mundo em poder de compra, mostrou o dedo do meio a Washington e aumentou suas importações de petróleo, gás, grãos e outros produtos russos. O mesmo se aplica à Índia, atualmente a terceira maior economia do mundo, e a mais de 100 outros países.
 
