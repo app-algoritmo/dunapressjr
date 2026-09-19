@@ -28,7 +28,7 @@ Assinaturas são gerenciadas pela App Store e renovam automaticamente, salvo can
 
 ## Outras formas de apoiar
 
-Sem quiser apoiar sem assinar, há formas que não custam nada:
+Se quiser apoiar sem assinar, há formas que não custam nada:
 
 **Assine o [boletim diário](https://dunapress.org/newsletter/).** Leitores recorrentes são o que sustenta um jornal.
 
