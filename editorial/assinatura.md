@@ -1,34 +1,37 @@
----
-title: "Assinatura"
-description: "Como apoiar o jornalismo independente do Duna Press."
----
+## Assinatura Premium
 
-O acervo do Duna Press é aberto. Não há paywall, não há limite de textos
-por mês, não é preciso cadastro para ler.
+O acervo do Duna Press continua aberto. Não há paywall no site, não há limite de textos por mês, não é preciso cadastro para ler.
 
-Isso é uma escolha editorial: informação que só chega a quem pode pagar
-cumpre metade da função de um jornal.
+O Duna Press JR, nosso aplicativo para iOS, oferece uma camada Premium opcional para quem quer apoiar o jornal e ganhar recursos extras.
 
-## Por que assinar, então
+## O que o Premium traz
 
-Assinar não compra acesso — compra independência. Quanto maior a parcela
-da receita que vem de leitores, menor o peso da publicidade nas decisões
-do jornal.
+**100% sem anúncios.** Navegação limpa em todas as matérias.
 
-## Estado atual
+**Audiobook e leitor de voz.** Ouça qualquer notícia narrada em português.
 
-Estamos reformulando o programa de assinaturas junto com a nova plataforma
-do jornal. Enquanto isso não está no ar, há três formas de apoiar que não
-custam nada:
+**Acervo histórico completo.** Acesso a todas as publicações e matérias anteriores direto no app.
 
-**Assine o [boletim diário](/newsletter/).** Leitores recorrentes são o
-que sustenta um jornal.
+**Gerador de cards para redes.** Crie cards em alta definição para Instagram e WhatsApp.
 
-**Compartilhe as matérias.** Com link para o original, não em captura de
-tela.
+## Planos
 
-**[Aponte nossos erros](/contato/).** Um jornal corrigido é um jornal
-melhor, e a página de [correções](/correcoes/) é pública justamente para
-isso.
+| Plano | Preço |
+|---|---|
+| Semanal | R$ 4,90 |
+| Mensal | R$ 9,90 |
+| Trimestral | R$ 24,90 |
+| Semestral | R$ 49,90 |
+| Anual | R$ 79,90 |
 
-Quando as assinaturas voltarem, anunciamos aqui e no boletim.
+Assinaturas são gerenciadas pela App Store e renovam automaticamente, salvo cancelamento. [Baixe o Duna Press JR](#) para assinar.
+
+## Outras formas de apoiar
+
+Sem quiser apoiar sem assinar, há formas que não custam nada:
+
+**Assine o [boletim diário](https://dunapress.org/newsletter/).** Leitores recorrentes são o que sustenta um jornal.
+
+**Compartilhe as matérias.** Com link para o original, não em captura de tela.
+
+**[Aponte nossos erros](https://dunapress.org/contato/).** Um jornal corrigido é um jornal melhor.
