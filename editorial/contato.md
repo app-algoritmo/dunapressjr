@@ -36,6 +36,13 @@ em contato identificando o veículo e o objetivo.
 Assuntos comerciais são tratados separadamente da redação. Anunciantes não
 têm acesso à pauta, não revisam matérias e não influenciam cobertura.
 
+## Problemas com o aplicativo ou assinatura
+
+Bugs, dúvidas sobre cobrança, ou pedido de cancelamento: escreva pelos
+mesmos canais desta página. Cancelamento e reembolso de assinatura são
+feitos direto pela App Store (Ajustes do iPhone → seu nome → Assinaturas),
+já que é a Apple quem processa o pagamento.
+
 ## Endereço
 
 Redação do Duna Press

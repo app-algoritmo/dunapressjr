@@ -1,4 +1,7 @@
-## Assinatura Premium
+---
+title: "Assinatura Premium"
+description: "O acervo do Duna Press é aberto. O Premium do aplicativo Duna Press JR, para iOS, é opcional e serve para apoiar o jornal."
+---
 
 O acervo do Duna Press continua aberto. Não há paywall no site, não há limite de textos por mês, não é preciso cadastro para ler.
 
@@ -24,7 +27,7 @@ O Duna Press JR, nosso aplicativo para iOS, oferece uma camada Premium opcional 
 | Semestral | R$ 49,90 |
 | Anual | R$ 79,90 |
 
-Assinaturas são gerenciadas pela App Store e renovam automaticamente, salvo cancelamento. [Baixe o Duna Press JR](#) para assinar.
+Assinaturas são gerenciadas pela App Store e renovam automaticamente, salvo cancelamento. O aplicativo está em revisão na App Store; quando for aprovado, o link para baixar aparece aqui.
 
 ## Outras formas de apoiar
 
