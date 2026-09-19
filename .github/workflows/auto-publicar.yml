@@ -12,9 +12,13 @@ name: Publicar automático
 
 on:
   schedule:
-    # 07h de Brasília — meio-dia em Oslo, onde o editor lê o jornal.
-    # O GitHub costuma atrasar o agendador; a segunda execução cobre isso.
-    # Com teto de 1, a segunda só age se a primeira não publicou.
+    # Meio-dia em Oslo, que é o fuso do jornal. O cron do GitHub só entende
+    # UTC e não conhece horário de verão, então as duas marcas cobrem o ano:
+    #   10:00 UTC → 12:00 em Oslo no horário de verão (CEST, +2)
+    #   11:00 UTC → 12:00 em Oslo no horário padrão  (CET,  +1)
+    # A marca fora da estação também serve de segunda tentativa: o GitHub
+    # costuma atrasar o agendador em 20 a 40 minutos. Com teto de 1, a
+    # segunda execução só age se a primeira não publicou.
     - cron: '0 10,11 * * 1-5'
   workflow_dispatch:
 
@@ -24,6 +28,11 @@ concurrency:
 
 permissions:
   contents: write
+
+# O jornal opera em horário de Oslo. Sem isto, o runner lê UTC e o bot
+# calcula "hoje" com uma ou duas horas de atraso.
+env:
+  TZ: Europe/Oslo
 
 jobs:
   publicar:

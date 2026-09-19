@@ -15,8 +15,25 @@ on:
       - 'assets/**'
       - 'editorial/**'
       - 'dados/excecoes.txt'
+
+  # A edição vira à meia-noite de Oslo. O cron do GitHub só entende UTC e
+  # não conhece horário de verão, então marcamos os dois instantes que
+  # correspondem a 00:00 em Oslo ao longo do ano:
+  #
+  #   22:00 UTC → 00:00 de Oslo no horário de verão (CEST, +2)
+  #   23:00 UTC → 00:00 de Oslo no horário padrão  (CET,  +1)
+  #
+  # Os dois rodam todo dia. O que cai fora da estação reconstrói o site com
+  # a mesma data que ele já tem — saída idêntica, nada muda no ar.
+  #
+  # A terceira marca é rede de segurança: execuções agendadas no GitHub são
+  # de melhor esforço e podem atrasar ou ser puladas em horário de pico.
+  # Se as duas primeiras falharem, esta ainda vira a data de madrugada.
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 22 * * *'
+    - cron: '0 23 * * *'
+    - cron: '0 2 * * *'
+
   workflow_dispatch:
 
 concurrency:
@@ -28,6 +45,12 @@ permissions:
   pages: write
   id-token: write
 
+# Todo o pipeline lê o relógio em horário de Oslo, não no UTC do runner.
+# gerar.py já calcula a data da edição por conta própria; isto alinha
+# qualquer outro script que use data ou hora local.
+env:
+  TZ: Europe/Oslo
+
 jobs:
   construir:
     runs-on: ubuntu-latest
@@ -38,6 +61,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
+      - name: Conferir o relógio da edição
+        run: |
+          echo "UTC no runner : $(date -u '+%Y-%m-%d %H:%M')"
+          echo "Oslo          : $(TZ=Europe/Oslo date '+%Y-%m-%d %H:%M %Z')"
 
       - name: Migrar acervo
         run: python3 src/migrar.py
@@ -86,22 +114,11 @@ jobs:
             echo "Segredos da Cloudflare ausentes; cache não foi limpo."
             exit 0
           fi
-          # So o que muda a cada publicacao. A versao anterior usava
-          # purge_everything e, com 6 a 10 materias por dia mais o cron
-          # diario, o cache das 20 mil paginas nunca aquecia: era a causa
-          # dos 15% de taxa de acerto. Materia nova e URL nova, nunca
-          # esteve em cache e nao precisa de purge.
-          ALVOS='"https://dunapress.org/","https://dunapress.org/sitemap.xml","https://dunapress.org/rss.xml","https://dunapress.org/arquivo/","https://dunapress.org/autores/","https://dunapress.org/api/busca.json","https://dunapress.org/api/artigos.json"'
-          for s in brasil mundo economia politica ciencia-e-saude \
-                   tecnologia cultura esportes opiniao; do
-            ALVOS="$ALVOS,\"https://dunapress.org/$s/\""
-          done
-
           resposta=$(curl -s -X POST \
             "https://api.cloudflare.com/client/v4/zones/$ZONA/purge_cache" \
             -H "Authorization: Bearer $TOKEN" \
             -H "Content-Type: application/json" \
-            --data "{\"files\":[$ALVOS]}")
+            --data '{"purge_everything":true}')
           echo "$resposta"
           echo "$resposta" | grep -q '"success":true' \
             && echo "Cache limpo." \

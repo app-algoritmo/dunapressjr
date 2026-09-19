@@ -4,7 +4,8 @@ description: "Que dados o Duna Press coleta, por que, e quais são os seus direi
 ---
 
 Esta política descreve que dados o Duna Press coleta, para quê, e o que
-você pode exigir de nós. Vale para o site e para o boletim por e-mail.
+você pode exigir de nós. Vale para o site, para o boletim por e-mail e para
+o aplicativo Duna Press JR, para iOS.
 
 ## O que não fazemos
 
@@ -37,6 +38,23 @@ registro do consentimento. Só para enviar o boletim. Todo e-mail traz link
 de descadastro que funciona em um clique.
 
 Detalhes sobre cookies estão na [política de cookies](/cookies/).
+
+## Aplicativo Duna Press JR (iOS)
+
+Esta política também vale para o aplicativo. Alguns pontos específicos
+do app:
+
+**Publicidade no app.** Usuários sem assinatura Premium veem anúncios
+servidos pelo Google Mobile Ads (AdMob). Ao abrir o app pela primeira vez,
+você escolhe suas preferências de anúncio personalizado através do sistema
+de consentimento do Google.
+
+**Assinaturas.** Compras de assinatura Premium são processadas inteiramente
+pela Apple através da App Store. O Duna Press não recebe nem armazena dados
+de cartão ou pagamento — isso fica só com a Apple.
+
+**Notificações.** O app pode pedir permissão para enviar notificações push.
+É opcional e pode ser desativado a qualquer momento em Ajustes do iOS.
 
 ## Base legal
 
