@@ -440,7 +440,7 @@ def rodape(editorias, total):
 # Cartão de compartilhamento. WhatsApp, Telegram, Facebook, Instagram e
 # LinkedIn leem Open Graph; o X lê Twitter Cards e cai no Open Graph quando
 # elas faltam. Sem og:image não há cartão nenhum: o link vai cru.
-IMAGEM_PADRAO = "https://dunapress.org/assets/img/duna-share.jpg"
+IMAGEM_PADRAO = "https://dunapress.org/assets/img/og-default.jpg"
 
 
 def absoluta(url):
@@ -470,9 +470,73 @@ GA_TAG = (
 )
 
 
+# ── Publicidade ──────────────────────────────────────────────────────────
+# AdSense. O carregador entra uma vez só, no <head>, e apenas nas páginas
+# que de fato têm bloco: baixá-lo na capa, nas editorias e no arquivo custa
+# uma conexão a mais sem nada em troca.
+#
+# Todos os blocos são Display com rótulo visível, nunca In-article nem
+# In-feed. Esses dois herdam a tipografia do site e passam por matéria —
+# rendem mais e é exatamente por isso que ficam de fora.
+ADSENSE_CLIENTE = "ca-pub-7977428997189299"
+ADSENSE_SLOTS = {
+    "abertura": "7783602698",   # duna-apos-abertura, responsivo
+    "meio":     "7512139956",   # duna-meio-texto, responsivo
+    "fim":      "3583669086",   # duna-fim-materia, 300x250 fixo
+}
+
+ADSENSE_TAG = (
+    '<script async src="https://pagead2.googlesyndication.com/pagead/js/'
+    'adsbygoogle.js?client=' + ADSENSE_CLIENTE + '" crossorigin="anonymous"></script>'
+)
+
+
+def anuncio(chave):
+    """Bloco de display com rótulo e largura travada pelo CSS.
+
+    O rótulo não é cortesia: o anúncio de display chega como cartão com
+    imagem e título em negrito, do mesmo tamanho de uma chamada. Sem a
+    palavra 'Publicidade' em cima, o leitor confunde — e a política do
+    próprio AdSense proíbe.
+
+    Concatenação em vez de f-string: o push() tem chaves de JavaScript.
+    """
+    slot = ADSENSE_SLOTS[chave]
+    if chave == "fim":
+        # Bloco criado com tamanho fixo no painel; respeitar o que está lá.
+        estilo = "display:inline-block;width:300px;height:250px"
+        extra = ""
+    else:
+        estilo = "display:block"
+        # full-width-responsive desligado: no telefone o anúncio estouraria
+        # para a largura da tela e viraria o objeto mais alto da página.
+        extra = ' data-ad-format="auto" data-full-width-responsive="false"'
+    return (
+        '<aside class="publicidade" aria-label="Publicidade">'
+        '<span class="rotulo-anuncio">Publicidade</span>'
+        '<ins class="adsbygoogle" style="' + estilo + '"'
+        ' data-ad-client="' + ADSENSE_CLIENTE + '"'
+        ' data-ad-slot="' + slot + '"' + extra + '></ins>'
+        '<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>'
+        '</aside>'
+    )
+
+
+def antes_do_segundo_h2(corpo, bloco):
+    """Insere o bloco antes do segundo <h2> do corpo. Antes do primeiro é
+    cedo demais — o leitor ainda não passou da abertura. Se o texto não tem
+    dois intertítulos, devolve o corpo intacto e o anúncio simplesmente não
+    entra: melhor perder o espaço do que fatiar um parágrafo."""
+    pos = [m.start() for m in re.finditer(r"<h2[ >]", corpo)]
+    if len(pos) < 2:
+        return corpo
+    c = pos[1]
+    return corpo[:c] + bloco + corpo[c:]
+
+
 def pagina(titulo, descricao, miolo, editorias, total, atual=None, edicao=0,
            classe="", indexar=True, canonico="/", imagem="", tipo="website",
-           publicado="", secao=""):
+           publicado="", secao="", anuncios=False):
     robots = ('<meta name="robots" content="index, follow, max-snippet:-1, '
               'max-image-preview:large">' if indexar else
               '<meta name="robots" content="noindex, follow">')
@@ -519,6 +583,7 @@ def pagina(titulo, descricao, miolo, editorias, total, atual=None, edicao=0,
 <link rel="alternate" type="application/rss+xml" title="Duna Press" href="/rss.xml">
 <link rel="canonical" href="https://dunapress.org{canonico}">
 {GA_TAG}
+{ADSENSE_TAG if anuncios else ""}
 </head>
 <body class="{classe}">
 {cabecalho(editorias, atual, edicao)}
@@ -541,6 +606,54 @@ def img(a, legenda=True, prioritaria=False):
     return (f'<figure><img src="{e(a["imagem"])}" alt="" {carga}>'
             f'{cred}</figure>')
 
+
+_POOL_RELACIONADOS = {}
+
+
+def escolher_relacionados(a, arts, quantos=4):
+    """Quatro materias da mesma editoria, como antes, mas distribuidas pelo
+    acervo em vez de sempre as quatro mais recentes.
+
+    A versao anterior cortava [:4] de uma lista ordenada por data, entao
+    todas as materias de uma editoria apontavam para as mesmas quatro. Com
+    6.104 paginas indexaveis o bloco gerava 9 destinos distintos, e 85% do
+    acervo nao recebia link interno nenhum: o Google via essas paginas so
+    pelo sitemap, que e sugestao, nao voto.
+
+    A janela desliza por hash do proprio slug. E deterministico, entao o
+    build e reproduzivel e o cache do edge nao invalida a toa.
+    """
+    ed = a["editoria"]
+    pool = _POOL_RELACIONADOS.get(ed)
+    if pool is None:
+        pool = [x for x in arts if x.get("indexar", True) and x["editoria"] == ed]
+        _POOL_RELACIONADOS[ed] = pool
+
+    candidatos = [x for x in pool if x["url"] != a["url"]]
+    if len(candidatos) <= quantos:
+        return candidatos
+
+    escolhidos, vistos = [], {a["url"]}
+
+    tags = {t.lower() for t in (a.get("tags") or []) if t}
+    if tags:
+        for x in candidatos:
+            if len(escolhidos) >= quantos - 2:
+                break
+            if tags & {t.lower() for t in (x.get("tags") or []) if t}:
+                escolhidos.append(x)
+                vistos.add(x["url"])
+
+    resto = [x for x in candidatos if x["url"] not in vistos]
+    if resto:
+        semente = int(hashlib.sha1(a["slug"].encode("utf-8")).hexdigest()[:8], 16)
+        inicio = semente % len(resto)
+        i = 0
+        while len(escolhidos) < quantos and i < len(resto):
+            escolhidos.append(resto[(inicio + i) % len(resto)])
+            i += 1
+
+    return escolhidos[:quantos]
 
 def chamada(a, classe="", com_img=False, com_olho=True, limite_olho=150):
     olho = ""
@@ -986,8 +1099,7 @@ def montar_artigo(m, a, edicao):
            urllib.parse.quote(endereco)))
 
 
-    relacionados = [x for x in arts if x.get("indexar", True)
-                    and x["editoria"] == a["editoria"] and x["url"] != a["url"]][:4]
+    relacionados = escolher_relacionados(a, arts)
     minutos = max(1, round(a["palavras"] / 220))
     # Proveniência declarada em toda matéria. É a resposta honesta à
     # pergunta que todo leitor faz em 2026 antes mesmo de ler.
@@ -1017,6 +1129,27 @@ def montar_artigo(m, a, edicao):
         tarja = ('<aside class="tarja-acervo"><b>Acervo</b> — '
                  f'{e(razao)}. Mantido para consulta; fora do jornal do dia.</aside>')
 
+    # ── Publicidade ──────────────────────────────────────────────────
+    # Nada em página de acervo: são as curtas, duplicadas e republicadas de
+    # agência, exatamente o perfil que o AdSense trata como pouco valor.
+    #
+    # A densidade acompanha a extensão real do texto. O manual de mercado
+    # pressupõe matéria de 1.200 a 2.000 palavras; aqui a maioria é
+    # explicador de 400 a 900, onde três anúncios dariam um a cada dois
+    # parágrafos.
+    tem_anuncio = a.get("indexar", True)
+    rec_abertura = ""
+    if tem_anuncio:
+        # O bloco de abertura só entra quando existe foto. Sem ela não há
+        # fronteira no layout e o anúncio ficaria colado no assinatura,
+        # acima de todo o texto — o "top-heavy" que derruba a primeira
+        # impressão e a leitura.
+        if a.get("imagem") and a["palavras"] >= 400:
+            rec_abertura = anuncio("abertura")
+        if a["palavras"] >= 900:
+            corpo = antes_do_segundo_h2(corpo, anuncio("meio"))
+    reclame = anuncio("fim") if tem_anuncio else ""
+
     ld = json.dumps({
         "@context": "https://schema.org", "@type": "NewsArticle",
         "headline": a["titulo"], "description": a["olho"],
@@ -1044,10 +1177,12 @@ def montar_artigo(m, a, edicao):
     </div>
   </div>
   {abertura}
+  {rec_abertura}
   <div class="texto">{corpo}</div>
   {fonte_bloco}
   {compartilhar}
   {etiquetas}
+  {reclame}
   <section class="leia-mais">
     <div class="faixa-cab"><h2>Mais em {e(a["editoria_nome"])}</h2>
       <a class="tudo" href="/{a["editoria"]}/">Ver tudo →</a></div>
@@ -1059,7 +1194,8 @@ def montar_artigo(m, a, edicao):
                   eds, len(arts), a["editoria"], edicao,
                   indexar=a.get("indexar", True), canonico=a["url"],
                   imagem=a.get("imagem", ""), tipo="article",
-                  publicado=a.get("data", ""), secao=a.get("editoria_nome", ""))
+                  publicado=a.get("data", ""), secao=a.get("editoria_nome", ""),
+                  anuncios=tem_anuncio)
 
 
 def main():
