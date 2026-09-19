@@ -48,6 +48,23 @@ sempre indicada na matéria e sob responsabilidade editorial humana. Os
 Isso não altera a titularidade: o conteúdo continua protegido e as regras
 de uso acima valem igualmente.
 
+## Assinatura Premium (aplicativo)
+
+O Duna Press JR, nosso aplicativo para iOS, oferece uma assinatura Premium
+opcional com os planos Semanal, Mensal, Trimestral, Semestral e Anual,
+detalhados em [/assinatura/](/assinatura/).
+
+O pagamento é cobrado na sua conta da App Store no momento da confirmação
+da compra. A assinatura **renova automaticamente** ao fim de cada período,
+pelo mesmo preço, a menos que você a cancele pelo menos 24 horas antes do
+fim do período vigente. A cobrança da renovação é feita dentro dessas
+24 horas finais.
+
+Você gerencia ou cancela a assinatura a qualquer momento em Ajustes do
+iPhone → seu nome → Assinaturas. Se oferecermos um período de teste
+gratuito, a parte não utilizada dele é perdida ao efetivar a compra da
+assinatura paga.
+
 ## Publicidade
 
 Espaços publicitários são identificados. Anunciantes não influenciam
