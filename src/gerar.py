@@ -387,10 +387,12 @@ def cabecalho(editorias, atual=None, edicao=0):
 
 
 def rodape(editorias, total):
-    # Brasil também sai da lista do rodapé. A editoria continua existindo:
-    # a página /brasil/ é gerada normalmente e aparece no arquivo.
+    # Brasil, Política e Opinião saem da lista do rodapé. As editorias
+    # continuam existindo: as páginas /brasil/, /politica/ e /opiniao/ são
+    # geradas normalmente, aparecem no menu de cima e no arquivo.
+    FORA_DO_RODAPE = {"brasil", "politica", "opiniao"}
     links = "".join(f'<li><a href="/{s}/">{e(d["nome"])}</a></li>'
-                    for s, d in editorias.items() if s != "brasil")
+                    for s, d in editorias.items() if s not in FORA_DO_RODAPE)
     return f"""
 <footer class="rodape"><div class="env">
   <div class="rodape-grade">
@@ -422,7 +424,7 @@ def rodape(editorias, total):
       <li><a href="https://www.facebook.com/dunapressjr/" rel="me noopener"
              target="_blank">Facebook</a></li>
       <li><a href="https://x.com/dunapressjr" rel="me noopener"
-             target="_blank">X</a></li>
+             target="_blank">Twitter</a></li>
       <li><a href="https://www.threads.com/@dunapressjr" rel="me noopener"
              target="_blank">Threads</a></li>
     </ul></div>
