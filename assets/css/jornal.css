@@ -419,6 +419,27 @@ pre.codigo code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
 @media(max-width:640px){
   .publicidade{ margin:30px auto }
 }
+
+/* Capa e editorias: faixa horizontal entre blocos de chamadas. Mais larga
+   que o retângulo do texto porque ali não há coluna de leitura a proteger;
+   altura reservada para o formato horizontal (90px) mais o rótulo. */
+.publicidade-larga{ max-width:728px; min-height:120px; margin:34px auto 0 }
+
+/* Coluna lateral da matéria. Existe só em tela larga, na margem vazia à
+   direita do texto, e acompanha a rolagem até o fim do corpo. Abaixo de
+   1240px não aparece — e o gerar.py nem pede o anúncio nesse caso. */
+.texto{ position:relative }
+.trilho-lateral{ display:none }
+@media(min-width:1240px){
+  .trilho-lateral{
+    display:block; position:absolute; top:34px; bottom:0;
+    left:calc(100% + 36px); width:160px;
+  }
+  .texto .trilho-lateral .publicidade{
+    position:sticky; top:24px; margin:0; max-width:160px;
+    min-height:620px; border:0;
+  }
+}
 @media print{
   .publicidade{ display:none }
 }

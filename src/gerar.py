@@ -474,18 +474,31 @@ GA_TAG = (
 
 # ── Publicidade ──────────────────────────────────────────────────────────
 # AdSense. O carregador entra uma vez só, no <head>, e apenas nas páginas
-# que de fato têm bloco: baixá-lo na capa, nas editorias e no arquivo custa
-# uma conexão a mais sem nada em troca.
+# que de fato têm bloco.
 #
 # Todos os blocos são Display com rótulo visível, nunca In-article nem
 # In-feed. Esses dois herdam a tipografia do site e passam por matéria —
 # rendem mais e é exatamente por isso que ficam de fora.
+#
+# Densidade alta de propósito: quem não quer anúncio tem a assinatura sem
+# publicidade nos aplicativos. O limite que continua valendo é o do
+# AdSense — nunca mais anúncio que texto, nunca anúncio colado em outro.
 ADSENSE_CLIENTE = "ca-pub-7977428997189299"
 ADSENSE_SLOTS = {
     "abertura": "7783602698",   # duna-apos-abertura, responsivo
     "meio":     "7512139956",   # duna-meio-texto, responsivo
     "fim":      "3583669086",   # duna-fim-materia, 300x250 fixo
+    "lateral":  "6296596367",   # duna-lateral, 160x600 fixo
+    "listas":   "1768078439",   # duna-capa-editorias, responsivo
+    "pos":      "7114854012",   # duna-pos-leitura, responsivo
 }
+
+# Um anúncio no corpo a cada tantas palavras, no máximo tantos por texto.
+ANUNCIO_INTERVALO = 250
+ANUNCIO_TETO_TEXTO = 4
+# Não põe anúncio no corpo se sobrar menos que isto de texto depois dele:
+# o bloco do fim já vem logo abaixo.
+ANUNCIO_SOBRA_MIN = 150
 
 ADSENSE_TAG = (
     '<script async src="https://pagead2.googlesyndication.com/pagead/js/'
@@ -504,36 +517,69 @@ def anuncio(chave):
     Concatenação em vez de f-string: o push() tem chaves de JavaScript.
     """
     slot = ADSENSE_SLOTS[chave]
+    classe = "publicidade"
+    push = '<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>'
     if chave == "fim":
         # Bloco criado com tamanho fixo no painel; respeitar o que está lá.
         estilo = "display:inline-block;width:300px;height:250px"
         extra = ""
+    elif chave == "lateral":
+        # Só existe em tela larga. O push é condicional: pedir anúncio para
+        # um espaço escondido gera erro no AdSense e impressão perdida.
+        estilo = "display:inline-block;width:160px;height:600px"
+        extra = ""
+        classe = "publicidade publicidade-lateral"
+        push = ('<script>if(window.matchMedia("(min-width:1240px)").matches)'
+                '(adsbygoogle=window.adsbygoogle||[]).push({});</script>')
+    elif chave == "listas":
+        # Capa e editorias: faixa horizontal entre blocos de chamadas.
+        estilo = "display:block"
+        extra = ' data-ad-format="horizontal" data-full-width-responsive="false"'
+        classe = "publicidade publicidade-larga"
     else:
         estilo = "display:block"
         # full-width-responsive desligado: no telefone o anúncio estouraria
         # para a largura da tela e viraria o objeto mais alto da página.
         extra = ' data-ad-format="auto" data-full-width-responsive="false"'
     return (
-        '<aside class="publicidade" aria-label="Publicidade">'
+        '<aside class="' + classe + '" aria-label="Publicidade">'
         '<span class="rotulo-anuncio">Publicidade</span>'
         '<ins class="adsbygoogle" style="' + estilo + '"'
         ' data-ad-client="' + ADSENSE_CLIENTE + '"'
         ' data-ad-slot="' + slot + '"' + extra + '></ins>'
-        '<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>'
+        + push +
         '</aside>'
     )
 
 
-def antes_do_segundo_h2(corpo, bloco):
-    """Insere o bloco antes do segundo <h2> do corpo. Antes do primeiro é
-    cedo demais — o leitor ainda não passou da abertura. Se o texto não tem
-    dois intertítulos, devolve o corpo intacto e o anúncio simplesmente não
-    entra: melhor perder o espaço do que fatiar um parágrafo."""
-    pos = [m.start() for m in re.finditer(r"<h2[ >]", corpo)]
-    if len(pos) < 2:
-        return corpo
-    c = pos[1]
-    return corpo[:c] + bloco + corpo[c:]
+def _palavras_html(trecho):
+    return len(re.sub(r"<[^>]+>", " ", trecho).split())
+
+
+def distribuir_no_texto(corpo):
+    """Espalha anúncios pelo corpo, um a cada ANUNCIO_INTERVALO palavras.
+
+    Só entra depois de um parágrafo de primeiro nível — nunca dentro de
+    citação, lista, tabela ou código, e nunca entre intertítulo e o
+    parágrafo que ele abre. O md_para_html põe cada bloco numa linha que
+    começa com '<'; é por essa fronteira que o corpo é cortado.
+    """
+    blocos = re.split(r"\n(?=<)", corpo)
+    total = sum(_palavras_html(b) for b in blocos)
+    saida, desde_ultimo, lidas, postos = [], 0, 0, 0
+    for b in blocos:
+        saida.append(b)
+        n = _palavras_html(b)
+        desde_ultimo += n
+        lidas += n
+        if (postos < ANUNCIO_TETO_TEXTO
+                and b.startswith("<p")
+                and desde_ultimo >= ANUNCIO_INTERVALO
+                and total - lidas >= ANUNCIO_SOBRA_MIN):
+            saida.append(anuncio("meio"))
+            postos += 1
+            desde_ultimo = 0
+    return "\n".join(saida)
 
 
 def pagina(titulo, descricao, miolo, editorias, total, atual=None, edicao=0,
@@ -946,6 +992,9 @@ def montar_capa(m, edicao):
             continue
         usados |= {a["url"] for a in sel}
         cartoes = "".join(chamada(a, com_img=True, limite_olho=95) for a in sel)
+        # Anúncio a cada duas faixas de editoria.
+        if faixas and len([f for f in faixas if 'class="faixa"' in f]) % 2 == 0:
+            faixas.append(anuncio("listas"))
         faixas.append(f"""<section class="faixa">
   <div class="faixa-cab">
     <h2>{e(ed["nome"])}</h2>
@@ -981,12 +1030,15 @@ def montar_capa(m, edicao):
     </div>
   </div>
 
+  {anuncio("listas")}
+
   {''.join(faixas)}
 
 </main>"""
     return pagina("Duna Press — Jornal digital independente",
                   "Reportagem e análise em português sobre Brasil, mundo, economia, "
-                  "política, ciência e cultura.", miolo, eds, total, None, edicao)
+                  "política, ciência e cultura.", miolo, eds, total, None, edicao,
+                  anuncios=True)
 
 
 def montar_editoria(m, slug, edicao):
@@ -1034,13 +1086,15 @@ def montar_editoria(m, slug, edicao):
     <div class="risco" aria-hidden="true"></div>
     <div class="col">{''.join(chamada(a, "sec") for a in resto[:4])}</div>
   </div>
+  {anuncio("listas")}
   <section class="faixa">
     <div class="faixa-cab"><h2>Mais em {e(ed["nome"])}</h2></div>
     <div class="quatro">{''.join(chamada(a, com_img=True, limite_olho=95) for a in resto[4:12])}</div>
   </section>
+  {anuncio("listas") if len(resto) > 4 else ""}
 </main>"""
     return pagina(f'{ed["nome"]} — Duna Press', ed["descricao"], miolo,
-                  eds, len(arts), slug, edicao)
+                  eds, len(arts), slug, edicao, anuncios=True)
 
 
 def montar_artigo(m, a, edicao):
@@ -1140,16 +1194,20 @@ def montar_artigo(m, a, edicao):
     # explicador de 400 a 900, onde três anúncios dariam um a cada dois
     # parágrafos.
     tem_anuncio = a.get("indexar", True)
-    rec_abertura = ""
+    rec_abertura = lateral = pos_leitura = ""
     if tem_anuncio:
         # O bloco de abertura só entra quando existe foto. Sem ela não há
-        # fronteira no layout e o anúncio ficaria colado no assinatura,
+        # fronteira no layout e o anúncio ficaria colado na assinatura,
         # acima de todo o texto — o "top-heavy" que derruba a primeira
         # impressão e a leitura.
-        if a.get("imagem") and a["palavras"] >= 400:
+        if a.get("imagem") and a["palavras"] >= 300:
             rec_abertura = anuncio("abertura")
-        if a["palavras"] >= 900:
-            corpo = antes_do_segundo_h2(corpo, anuncio("meio"))
+        corpo = distribuir_no_texto(corpo)
+        # Coluna lateral fixa, só em tela larga: ocupa a margem vazia ao
+        # lado do texto e acompanha a rolagem.
+        if a["palavras"] >= 400:
+            lateral = '<div class="trilho-lateral">' + anuncio("lateral") + '</div>'
+        pos_leitura = anuncio("pos")
     reclame = anuncio("fim") if tem_anuncio else ""
 
     ld = json.dumps({
@@ -1180,7 +1238,7 @@ def montar_artigo(m, a, edicao):
   </div>
   {abertura}
   {rec_abertura}
-  <div class="texto">{corpo}</div>
+  <div class="texto">{lateral}{corpo}</div>
   {fonte_bloco}
   {compartilhar}
   {etiquetas}
@@ -1190,6 +1248,7 @@ def montar_artigo(m, a, edicao):
       <a class="tudo" href="/{a["editoria"]}/">Ver tudo →</a></div>
     <div class="quatro">{''.join(chamada(x, com_img=True, limite_olho=95) for x in relacionados)}</div>
   </section>
+  {pos_leitura}
 </main>
 <script type="application/ld+json">{ld}</script>"""
     return pagina(f'{a["titulo"]} — Duna Press', a["olho"][:180], miolo,
