@@ -488,7 +488,10 @@ ADSENSE_SLOTS = {
     "abertura": "7783602698",   # duna-apos-abertura, responsivo
     "meio":     "7512139956",   # duna-meio-texto, responsivo
     "fim":      "3583669086",   # duna-fim-materia, 300x250 fixo
-    "lateral":  "6296596367",   # duna-lateral, 160x600 fixo
+    "lateral":  "6296596367",   # duna-lateral, 160x600 fixo (direita)
+    # Esquerda usa o mesmo bloco por enquanto. Para separar o rendimento
+    # no relatório, crie duna-lateral-esquerda (160x600) e troque aqui.
+    "lateral_esq": "6296596367",
     "listas":   "1768078439",   # duna-capa-editorias, responsivo
     "pos":      "7114854012",   # duna-pos-leitura, responsivo
 }
@@ -523,7 +526,7 @@ def anuncio(chave):
         # Bloco criado com tamanho fixo no painel; respeitar o que está lá.
         estilo = "display:inline-block;width:300px;height:250px"
         extra = ""
-    elif chave == "lateral":
+    elif chave in ("lateral", "lateral_esq"):
         # Só existe em tela larga. O push é condicional: pedir anúncio para
         # um espaço escondido gera erro no AdSense e impressão perdida.
         estilo = "display:inline-block;width:160px;height:600px"
@@ -1203,10 +1206,11 @@ def montar_artigo(m, a, edicao):
         if a.get("imagem") and a["palavras"] >= 300:
             rec_abertura = anuncio("abertura")
         corpo = distribuir_no_texto(corpo)
-        # Coluna lateral fixa, só em tela larga: ocupa a margem vazia ao
-        # lado do texto e acompanha a rolagem.
+        # Duas colunas laterais fixas, uma de cada lado, só em tela larga:
+        # ocupam as margens vazias ao lado do texto e acompanham a rolagem.
         if a["palavras"] >= 400:
-            lateral = '<div class="trilho-lateral">' + anuncio("lateral") + '</div>'
+            lateral = ('<div class="trilho-lateral esquerda">' + anuncio("lateral_esq") + '</div>'
+                       '<div class="trilho-lateral direita">' + anuncio("lateral") + '</div>')
         pos_leitura = anuncio("pos")
     reclame = anuncio("fim") if tem_anuncio else ""
 
