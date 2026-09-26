@@ -22,10 +22,6 @@ tags:
   - entrevista
 ---
 
-[![Assista à conversa entre Glenn Diesen e Pascal Lottaz](https://img.youtube.com/vi/VxHeDg0xP4U/maxresdefault.jpg)](https://www.youtube.com/watch?v=VxHeDg0xP4U)
-
-*Conversa de 48 minutos, em português. Clique na imagem para assistir no canal Neutrality Studies.*
-
 Em 25 de setembro, em Istambul, às vésperas do Fórum Leste-Oeste, o suíço Pascal Lottaz entrevistou o norueguês Glenn Diesen para o canal Neutrality Studies. A conversa dura cerca de 48 minutos e trata de um único assunto: se a Europa está caminhando para uma guerra direta com a Rússia.
 
 A tese que Diesen defende é dura e vale enunciá-la sem suavizar, porque é a razão de a entrevista existir.
@@ -62,9 +58,9 @@ Lavrov declarou em 16 de setembro, em Yekaterinburgo, que a Rússia não pretend
 
 E o caso do drone de Leipzig — que os dois tratam como exemplo de retórica desproporcional — tem um elemento factual que sustenta a crítica: o artefato existe e foi periciado, mas o laudo que ligaria o objeto a um comando nunca foi publicado.
 
-## O que o argumento omite
+## Esclarecimentos para novos podcasts
 
-Três coisas, e é por isso que ele é contestado.
+Três coisas, e é por isso que o debate deve continuar.
 
 **A oferta russa tem escopo restrito.** A garantia de não agressão que Lavrov propõe cobre membros atuais da Otan e da União Europeia. Não cobre Ucrânia, Moldávia nem Geórgia — e é exatamente sobre esses países que a divergência existe. A entrevista não trata disso.
 
@@ -76,7 +72,7 @@ Há ainda uma passagem em que os dois especulam sobre eleições em outro país 
 
 ## Onde assistir e ler
 
-O vídeo em português está no alto desta página. A gravação original em inglês, a transcrição e os demais materiais estão nos canais dos autores.
+A gravação original em inglês, a transcrição e os demais materiais estão nos canais dos autores.
 
 Glenn Diesen mantém canal no [YouTube](https://www.youtube.com/@GDiesen1) e publica no [Substack](https://glenndiesen.substack.com). Participa do [East-West Forum](https://east-west-forum.com/) e colabora com a [Harici](https://harici.com.tr/en/).
 
@@ -88,4 +84,6 @@ A versão original da conversa, em inglês, está [no canal do Neutrality Studie
 
 Uma conversa presencial em Istambul, desde o início. Os líderes da Europa e a influência americana, aos 2 minutos e 50. Incidentes com drones e a retórica da guerra, aos 8 minutos e 23. Rússia, riscos nucleares e escalada descontrolada, aos 13 minutos e 59. Trump, Anchorage e terceirizar a guerra, aos 28 minutos e 55. Por que a ordem unipolar resiste à mudança, aos 34 minutos e 45. Esferas de influência e a dependência da Europa, aos 40 minutos e 44. Elites transatlânticas, liberalismo e democracia, aos 44 minutos e 4.
 
-Este jornal publica o registro da conversa e o contraponto lado a lado. Quem quiser julgar tem os dois, e tem o vídeo inteiro no alto da página.
+Este jornal publica o registro da conversa e o contraponto lado a lado. Quem quiser julgar tem os dois, e tem a conversa inteira.
+
+**[Assista agora](https://youtu.be/VxHeDg0xP4U)** — conversa de 48 minutos, em português, no canal Neutrality Studies.
