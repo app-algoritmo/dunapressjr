@@ -22,6 +22,9 @@ tags:
   - espaco
 ---
 
+**Nota de correção, publicada em 26 de setembro de 2026.** O voo descrito neste texto não aconteceu. O lançamento foi adiado e, no calendário da SpaceX, passou para não antes de 28 de setembro, pendente de aprovação regulatória. Este texto foi escrito na véspera da data prevista e o título afirmou como ocorrido o que ainda não havia ocorrido. O erro é da redação. A apuração completa, com o motivo técnico dos adiamentos, está na correção publicada em 26 de setembro.
+
+
 A janela de lançamento de 75 minutos abriu às 7h15 no horário central dos Estados Unidos — 12h15 no horário universal — em 22 de setembro, na base da SpaceX em Starbase, no sul do Texas. O veículo era o Ship 41 sobre o propulsor Booster 21.
 
 Era a primeira vez que a Starship tentava alcançar órbita terrestre.
