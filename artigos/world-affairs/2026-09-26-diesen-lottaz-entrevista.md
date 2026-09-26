@@ -68,8 +68,6 @@ Três coisas, e é por isso que o debate deve continuar.
 
 **A soberania dos que pediram para entrar.** O argumento de que a expansão da Otan provocou o conflito trata os países do Leste europeu como objeto, não como sujeito. Eles pediram adesão, por decisão de governos eleitos, invocando a Ata Final de Helsinque — que reconhece a cada Estado o direito de escolher os próprios arranjos de segurança. A entrevista discute a ameaça que isso representa para Moscou e não discute o direito que isso exerce.
 
-Há ainda uma passagem em que os dois especulam sobre eleições em outro país — a de que o presidente brasileiro poderia ser derrubado — sem apresentar base. É opinião de conversa, e é assim que deve ser lida.
-
 ## Onde assistir e ler
 
 A gravação original em inglês, a transcrição e os demais materiais estão nos canais dos autores.
