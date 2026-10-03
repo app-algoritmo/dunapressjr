@@ -2,9 +2,9 @@ DUNA PRESS — CLASSIFICAÇÃO DE INDEXAÇÃO
 ==============================================================
 Piso editorial: 300 palavras · vazio: <40
 
-Acervo total ............  20557
-Indexado (o jornal) .....   6342    30.9%
-noindex, follow .........  14051    68.4%
+Acervo total ............  20567
+Indexado (o jornal) .....   6352    30.9%
+noindex, follow .........  14051    68.3%
 410 Gone (vazios) .......    164     0.8%
   dos indexados, preservados por tráfego: 134
 
@@ -45,16 +45,16 @@ O QUE SOBRA, POR ANO
   2023       1828    5355    ██████████████████████████████
   2024       1164    2025    ███████████████████
   2025        604     606    ██████████
-  2026       1079    1241    ██████████████████
+  2026       1089    1251    ██████████████████
 
 O QUE SOBRA, POR EDITORIA
 --------------------------------------------------------------
   Brasil                 447 de 10726     4.2%
-  Mundo                 1489 de 2891     51.5%
+  Mundo                 1490 de 2892     51.5%
   Cultura               1367 de 1790     76.4%
-  Ciência & Saúde       1092 de 1520     71.8%
-  Economia               539 de 1291     41.8%
+  Ciência & Saúde       1094 de 1522     71.9%
+  Economia               542 de 1294     41.9%
   Política               212 de 1015     20.9%
   Esportes               593 de 646      91.8%
-  Tecnologia             383 de 409      93.6%
+  Tecnologia             387 de 413      93.7%
   Opinião                220 de 269      81.8%
