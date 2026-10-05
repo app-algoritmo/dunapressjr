@@ -368,7 +368,7 @@ def cabecalho(editorias, atual=None, edicao=0):
 <header>
   <div class="faixa-topo"><div class="env">
     <span data-dp="data-extenso">{e(data_txt)}</span>
-    <span><b>Jornalismo independente</b> desde 2017</span>
+    <span>Escandinávia em Português</span>
     <a class="assine" href="/assinatura/">Assine</a>
   </div></div>
   <div class="env">
@@ -398,8 +398,10 @@ def rodape(editorias, total):
   <div class="rodape-grade">
     <div>
       <div class="rodape-marca">Duna Press</div>
-      <p>Jornal digital independente, em português. Publicamos desde 2017.
-         O acervo é aberto e permanece nos endereços originais.</p>
+      <p>Jornal digital em português, publicado na Noruega. Cobrimos a
+         Escandinávia, os países nórdicos, a União Europeia e o resto do
+         mundo. Publicamos desde 2017; o acervo é aberto e permanece nos
+         endereços originais.</p>
     </div>
     <div><h3>Editorias</h3><ul>{links}</ul></div>
     <div><h3>O jornal</h3><ul>
@@ -1038,9 +1040,9 @@ def montar_capa(m, edicao):
   {''.join(faixas)}
 
 </main>"""
-    return pagina("Duna Press — Jornal digital independente",
-                  "Reportagem e análise em português sobre Brasil, mundo, economia, "
-                  "política, ciência e cultura.", miolo, eds, total, None, edicao,
+    return pagina("Duna Press — Assuntos Globais em Português",
+                  "Notícias e Análise de Assuntos dos países Nórdicos e Globais.",
+                  miolo, eds, total, None, edicao,
                   anuncios=True)
 
 
@@ -1459,7 +1461,7 @@ var CAT = """ + json.dumps(de_para_cat, ensure_ascii=False) + """;
                  '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n<channel>\n'
                  "<title>Duna Press</title>\n"
                  "<link>https://dunapress.org/</link>\n"
-                 "<description>Jornal digital independente, em português.</description>\n"
+                 "<description>Notícias e Análise de Assuntos dos países Nórdicos e Globais.</description>\n"
                  "<language>pt-BR</language>\n"
                  '<atom:link href="https://dunapress.org/rss.xml" rel="self" '
                  'type="application/rss+xml"/>\n')
