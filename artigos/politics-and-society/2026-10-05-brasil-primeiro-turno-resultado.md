@@ -12,9 +12,9 @@ revisor: Paulo Fernando de Barros
 fonte_primaria: "https://resultados.tse.jus.br/"
 fonte_nome: "Tribunal Superior Eleitoral, apuração oficial do primeiro turno de 4 de outubro de 2026; pronunciamentos de Flávio Bolsonaro e Luiz Inácio Lula da Silva na noite da apuração; cobertura de Exame, InfoMoney e Jornal do Comércio"
 data_do_fato: 2026-10-04
-featuredImage: "https://images.unsplash.com/photo-1791196365767-fe2b114dfc11?w=1200&auto=format&fit=crop&q=75"
+featuredImage: "/assets/img/urna-ue2020.jpeg"
 photoAuthor: "Antonio Augusto / Secom / TSE"
-photoSource: "Wikimedia Commons (domínio público)- Unsplash"
+photoSource: "Wikimedia Commons (domínio público)"
 tags:
   - brasil
   - eleicoes-2026
