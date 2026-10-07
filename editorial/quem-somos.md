@@ -1,14 +1,19 @@
 ---
 title: "Quem somos"
-description: "O Duna Press é um jornal digital independente, em português, publicado desde 2017."
+description: "O Duna Press é um jornal digital em português, publicado na Noruega desde 2017."
 ---
 
-O Duna Press é um jornal digital independente, escrito em português e lido
+O Duna Press é um jornal digital em português, publicado na Noruega e lido
 em vários países. Publicamos desde 2017.
 
-Cobrimos Brasil, mundo, economia, política, ciência e saúde, tecnologia,
-cultura, esportes e opinião. Não temos vínculo com partido, governo, igreja
-ou empresa.
+Cobrimos a Escandinávia, os países nórdicos, a União Europeia e o resto do
+mundo — nessa ordem. Não temos vínculo com partido, governo, igreja ou
+empresa.
+
+Escrevemos do Norte da Europa para quem lê em português. O que se decide em
+Oslo, Estocolmo, Copenhague, Helsinque e Bruxelas raramente chega ao leitor
+de língua portuguesa, e quando chega vem filtrado por agências de outros
+idiomas. É essa distância que o jornal existe para encurtar.
 
 ## Quem responde pelo jornal
 
@@ -33,7 +38,7 @@ Quando erramos, registramos em público na página de
 
 ## O acervo
 
-Mantemos publicado o que já publicamos, nos endereços originais. São quase
+Mantemos publicado o que já publicamos, nos endereços originais. São mais de
 vinte mil textos desde 2017, acessíveis pelo [arquivo](/arquivo/) e pela
 página de cada autor.
 
