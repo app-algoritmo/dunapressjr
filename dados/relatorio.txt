@@ -1,8 +1,8 @@
 DUNA PRESS — DIAGNÓSTICO DO ACERVO
 ====================================================
 
-Artigos publicados ........ 20.620
-Redirects 301 gerados ..... 20.620
+Artigos publicados ........ 20.630
+Redirects 301 gerados ..... 20.630
 Colisões de slug ajustadas  140
 Slugs reservados desviados  2   ← disputavam endereço de seção
 Categorias de origem ...... 84 → 9 editorias
@@ -10,11 +10,11 @@ Categorias de origem ...... 84 → 9 editorias
 POR EDITORIA
 ----------------------------------------------------
 Brasil              10726   (9 categorias absorvidas)
-Mundo                2902   (8 categorias absorvidas)
-Economia             1313   (8 categorias absorvidas)
-Política             1020   (4 categorias absorvidas)
-Ciência & Saúde      1532   (14 categorias absorvidas)
-Tecnologia            419   (6 categorias absorvidas)
+Mundo                2904   (8 categorias absorvidas)
+Economia             1316   (8 categorias absorvidas)
+Política             1022   (4 categorias absorvidas)
+Ciência & Saúde      1533   (14 categorias absorvidas)
+Tecnologia            421   (6 categorias absorvidas)
 Cultura              1791   (23 categorias absorvidas)
 Esportes              647   (7 categorias absorvidas)
 Opinião               270   (3 categorias absorvidas)
@@ -22,14 +22,14 @@ Opinião               270   (3 categorias absorvidas)
 ORIGEM DO SLUG
 ----------------------------------------------------
 wordpress: data+slug          16742   81.2%
-derivado do título             2229   10.8%
+derivado do título             2239   10.9%
 wordpress: título              1649    8.0%
 
 POR PORTE
 ----------------------------------------------------
 Longa (800+ palavras)     3787
-Média (300–799)          11897
-Curta (<300)              4936   ← candidatos a arquivo
+Média (300–799)          11905
+Curta (<300)              4938   ← candidatos a arquivo
 
 POR ANO
 ----------------------------------------------------
@@ -42,4 +42,4 @@ POR ANO
 2023   5355  █████████████████████████████████████████████
 2024   2025  █████████████████
 2025    606  █████
-2026   1304  ███████████
+2026   1314  ███████████
