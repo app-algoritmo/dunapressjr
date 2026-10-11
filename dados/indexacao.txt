@@ -2,9 +2,9 @@ DUNA PRESS — CLASSIFICAÇÃO DE INDEXAÇÃO
 ==============================================================
 Piso editorial: 300 palavras · vazio: <40
 
-Acervo total ............  20640
-Indexado (o jornal) .....   6421    31.1%
-noindex, follow .........  14055    68.1%
+Acervo total ............  20650
+Indexado (o jornal) .....   6427    31.1%
+noindex, follow .........  14059    68.1%
 410 Gone (vazios) .......    164     0.8%
   dos indexados, preservados por tráfego: 134
 
@@ -12,7 +12,7 @@ MOTIVOS DE EXCLUSÃO  (um artigo pode ter mais de um)
 --------------------------------------------------------------
   noticia       10000    48.4% do acervo
   agencia        8512    41.2% do acervo
-  curto          4708    22.8% do acervo
+  curto          4712    22.8% do acervo
   duplicado        97     0.5% do acervo
 
 SOBREPOSIÇÃO DOS MOTIVOS
@@ -20,7 +20,7 @@ SOBREPOSIÇÃO DOS MOTIVOS
   agencia + noticia              4598
   noticia                        2842
   agencia                        1827
-  curto                          1445
+  curto                          1449
   curto + agencia + noticia      1328
   curto + noticia                1181
   curto + agencia                 735
@@ -45,16 +45,16 @@ O QUE SOBRA, POR ANO
   2023       1828    5355    ██████████████████████████████
   2024       1164    2025    ███████████████████
   2025        604     606    ██████████
-  2026       1158    1324    ███████████████████
+  2026       1164    1334    ███████████████████
 
 O QUE SOBRA, POR EDITORIA
 --------------------------------------------------------------
   Brasil                 447 de 10726     4.2%
-  Mundo                 1506 de 2909     51.8%
+  Mundo                 1509 de 2913     51.8%
   Cultura               1368 de 1791     76.4%
-  Ciência & Saúde       1105 de 1533     72.1%
-  Economia               564 de 1318     42.8%
-  Política               221 de 1024     21.6%
+  Ciência & Saúde       1106 de 1534     72.1%
+  Economia               565 de 1320     42.8%
+  Política               221 de 1025     21.6%
   Esportes               594 de 647      91.8%
-  Tecnologia             395 de 422      93.6%
+  Tecnologia             396 de 424      93.4%
   Opinião                221 de 270      81.9%
