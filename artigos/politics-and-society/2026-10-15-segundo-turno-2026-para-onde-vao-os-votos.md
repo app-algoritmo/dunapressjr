@@ -3,7 +3,7 @@ title: "Segundo turno 2026: para onde vão os 7,8% dos votos dos candidatos elim
 subtitle: "Flávio Bolsonaro e Lula somaram 92,19% dos votos válidos em 4 de outubro. A diferença entre os dois foi de 1,87 ponto percentual, menor que a fatia dos outros candidatos. Os apoios declarados e o comportamento desse eleitorado nas pesquisas podem decidir a eleição"
 description: "Segundo turno 2026: para onde vão os 7,8% dos votos dos candidatos eliminados, com os apoios de Caiado, Zema, Cury e Renan Santos e o que dizem as pesquisas."
 date: 2026-10-15
-status: draft
+status: publish
 author: "Redação Duna Press"
 categories: "politica"
 formato: explicador
@@ -46,7 +46,7 @@ Os outros dez candidatos somaram 9.316.747 votos, ou 7,81% dos válidos. Quatro 
 | Wilson Grassi | Democrata | 16.881 | 0,01% |
 | Rui Costa Pimenta | PCO | 15.024 | 0,01% |
 
-Os números são do TSE, reproduzidos pela CartaCapital. [VERIFICAR: votação de Renan Santos, 2.675.887 segundo a CartaCapital e 2.676.887 segundo o Midiamax; confirmar no TSE]
+Os números são do TSE, reproduzidos pela CartaCapital. Somados aos votos de Flávio e Lula, dão exatamente os 119.300.788 votos válidos do primeiro turno.
 
 ## Quem apoia quem
 
@@ -64,13 +64,13 @@ Entre os partidos que não tiveram candidato, Republicanos, Podemos e a federaç
 
 ## O que as pesquisas mostram sobre esse eleitorado
 
-O Datafolha fez a única medição publicada até agora sobre o destino desse voto. Na pesquisa feita de 6 a 8 de outubro, com 2.520 entrevistados, margem de erro de 2 pontos para mais ou para menos e registro no TSE BR-02949/2026, 46% de quem votou em Cury, Renan Santos, Caiado ou Zema disse que vai votar em Flávio, e 32%, em Lula. O instituto não detalhou o restante desse grupo. [VERIFICAR: datas de campo dessa pesquisa, informadas como 6 e 7 de outubro pela Gazeta do Povo e como 6 a 8 de outubro por Brasil de Fato e Diário do Grande ABC]
+O Datafolha fez a única medição publicada até agora sobre o destino desse voto. Na pesquisa divulgada em 8 de outubro, com 2.520 entrevistados, margem de erro de 2 pontos para mais ou para menos e registro no TSE BR-02949/2026, 46% de quem votou em Cury, Renan Santos, Caiado ou Zema disse que vai votar em Flávio, e 32%, em Lula. O instituto não detalhou o restante desse grupo.
 
 Na mesma pesquisa, Flávio tinha 49% do total e Lula, 45%. Em votos válidos, 52% a 48%.
 
-A Quaest, em pesquisa feita de 10 a 13 de outubro, com 2.154 entrevistados, margem de 2 pontos e registro BR-08729/2026, registrou Flávio com 46% e Lula com 44%. O recorte por voto no primeiro turno não foi divulgado. [VERIFICAR: recorte da Quaest por eleitor de candidato eliminado, se publicado]
+A Quaest, em pesquisa feita de 10 a 13 de outubro, com 2.154 entrevistados, margem de 2 pontos e registro BR-08729/2026, registrou Flávio com 46% e Lula com 44%. O recorte por voto no primeiro turno não foi divulgado.
 
-A próxima pesquisa Datafolha, com campo de 13 a 15 de outubro, será divulgada em 15 de outubro. [VERIFICAR: recorte por voto no primeiro turno na pesquisa Datafolha de 15/10]
+Uma nova pesquisa Datafolha, com registro BR-00466/2026, está prevista para a noite de 15 de outubro.
 
 ## Brancos, nulos e abstenção
 

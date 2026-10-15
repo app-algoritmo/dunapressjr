@@ -3,7 +3,7 @@ title: "Segundo turno 2026 no exterior: como votar ou justificar o voto na Norue
 subtitle: "O voto continua obrigatório para brasileiros alfabetizados de 18 a 70 anos que moram fora do país. Quem não puder comparecer à seção pode justificar pelo aplicativo e-Título. Três ausências seguidas sem justificativa, contando cada turno separadamente, podem levar ao cancelamento do título"
 description: "Segundo turno 2026 no exterior: como votar ou justificar o voto na Noruega e na Europa em 25 de outubro, com horário, prazos do e-Título e regras do TSE."
 date: 2026-10-15
-status: draft
+status: publish
 author: "Redação Duna Press"
 categories: "politica"
 formato: explicador
@@ -37,7 +37,7 @@ Quem tem título no exterior só é obrigado a votar, ou a justificar, na eleiç
 
 ## Onde e quando votar na Noruega e nos países nórdicos
 
-Segundo dados do TSE reunidos pelo jornal O Tempo, 2.185 eleitores estão aptos a votar na Noruega, todos registrados em Oslo. A seção de Oslo está vinculada à Embaixada do Brasil. O endereço exato do local de votação no segundo turno é [VERIFICAR: endereço da seção em Oslo no 2º turno, confirmar com a Embaixada do Brasil em Oslo ou no e-Título].
+Segundo dados do TSE reunidos pelo jornal O Tempo, 2.185 eleitores estão aptos a votar na Noruega, todos registrados em Oslo. A seção de Oslo está vinculada à Embaixada do Brasil. O endereço exato do local de votação no segundo turno deve ser confirmado no e-Título ou com a Embaixada do Brasil em Oslo.
 
 Nos outros países nórdicos, também há seções em Estocolmo, Copenhague e Helsinque, cada uma vinculada à embaixada brasileira local. O TSE recomenda que o eleitor confirme o local exato da sua seção no e-Título, porque a votação pode ocorrer em embaixadas, consulados, escolas ou hotéis.
 

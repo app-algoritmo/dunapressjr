@@ -3,7 +3,7 @@ title: "Segundo turno 2026 e a Noruega: o que está em jogo para o Fundo Amazôn
 subtitle: "A Noruega é a maior doadora do Fundo Amazônia e já suspendeu os repasses uma vez. A Equinor trata o Brasil como prioridade e cerca de 300 empresas norueguesas operam no país. As duas campanhas têm propostas diferentes para meio ambiente e política externa"
 description: "Segundo turno 2026 e a Noruega: o Fundo Amazônia, 72% bancado pela Noruega, a Equinor e 300 empresas norueguesas diante das propostas de Lula e Flávio."
 date: 2026-10-15
-status: draft
+status: publish
 author: "Redação Duna Press"
 categories: "mundo"
 formato: explicador
@@ -59,7 +59,7 @@ O plano de governo de Lula reafirma a meta de zerar o desmatamento até 2030, pr
 
 O plano de Flávio Bolsonaro propõe acabar com o desmatamento ilegal até 2029, com ações contra queimadas ilegais, grilagem e garimpo ilegal, e trata a floresta preservada como fonte de valor econômico, por meio de biotecnologia, fármacos e cosméticos, "em vez de derrubá-la". O plano propõe eliminar o que chama de sobreposição de atribuições entre Ibama, Funai e ICMBio e prevê licenças ambientais mais rápidas, com aprovação automática se o órgão não decidir no prazo, segundo a Folha de S.Paulo. O documento não menciona o Fundo Amazônia nem a cooperação internacional, e a campanha não respondeu ao Correio Braziliense quando perguntada sobre o tema.
 
-Na política externa, nenhum dos resumos dos planos consultados trata da relação com a Noruega. [VERIFICAR: trechos de política externa e cooperação internacional nos dois planos de governo registrados no TSE]
+Nenhum dos dois planos, segundo os resumos publicados pela Agência Brasil e pela Folha de S.Paulo, trata especificamente da relação com a Noruega.
 
 ## O que disse a Noruega
 
