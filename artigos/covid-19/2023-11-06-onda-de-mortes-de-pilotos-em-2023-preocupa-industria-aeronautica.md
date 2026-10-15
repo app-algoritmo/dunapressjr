@@ -1,7 +1,7 @@
 ---
 title: Onda de mortes de pilotos em 2023 preocupa indústria aeronáutica
 date: 2023-11-06
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

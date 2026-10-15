@@ -2,7 +2,7 @@
 title: RFK Jr. promete punição contra todos os funcionários do governo que cometeram
   crimes contra a humanidade durante a pandemia
 date: 2023-05-04
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

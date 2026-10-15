@@ -2,7 +2,7 @@
 title: 'Revelações Chocantes: Os Horrores Ocultos nos Dados de Reações Adversas de
   Medicamentos'
 date: 2024-05-10
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

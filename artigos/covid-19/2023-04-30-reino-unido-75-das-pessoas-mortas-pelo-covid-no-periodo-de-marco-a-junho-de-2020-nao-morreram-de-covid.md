@@ -2,7 +2,7 @@
 title: 'Reino Unido: 75% das pessoas ''mortas pelo Covid'' no período de março a junho
   de 2020 não morreram de Covid'
 date: 2023-04-30
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

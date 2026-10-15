@@ -1,7 +1,7 @@
 ---
 title: 'Pesquisa: 1 em 4 conhece alguém que morreu por causa da vacina'
 date: 2023-11-07
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

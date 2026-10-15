@@ -1,7 +1,7 @@
 ---
 title: À medida que a popularidade das 'vacinas' diminui, o FDA está mudando de tática
 date: 2023-05-23
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

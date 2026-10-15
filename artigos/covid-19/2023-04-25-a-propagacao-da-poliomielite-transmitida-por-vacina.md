@@ -1,7 +1,7 @@
 ---
 title: A propagação da poliomielite transmitida por vacina
 date: 2023-04-25
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

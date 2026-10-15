@@ -2,7 +2,7 @@
 title: 'Nova Zelândia: se o governo tivesse dito a verdade sobre os danos das vacinas,
   vidas teriam sido salvas'
 date: 2023-04-30
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

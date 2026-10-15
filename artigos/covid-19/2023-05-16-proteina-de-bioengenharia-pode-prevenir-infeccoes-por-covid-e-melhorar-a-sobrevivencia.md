@@ -1,7 +1,7 @@
 ---
 title: Proteína de bioengenharia pode prevenir infecções por COVID e melhorar a sobrevivência
 date: 2023-05-16
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

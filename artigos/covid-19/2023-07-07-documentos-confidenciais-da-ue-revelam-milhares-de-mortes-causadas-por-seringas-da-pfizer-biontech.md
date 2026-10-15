@@ -2,7 +2,7 @@
 title: Documentos confidenciais da UE revelam milhares de mortes causadas por seringas
   da Pfizer BioNTech
 date: 2023-07-07
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

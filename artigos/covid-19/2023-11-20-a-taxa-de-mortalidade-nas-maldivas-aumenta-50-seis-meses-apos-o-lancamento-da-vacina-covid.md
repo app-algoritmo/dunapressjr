@@ -2,7 +2,7 @@
 title: A taxa de mortalidade nas Maldivas aumenta 50% seis meses após o lançamento
   da vacina COVID
 date: 2023-11-20
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

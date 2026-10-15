@@ -2,7 +2,7 @@
 title: 'A defesa das vacinas: prepare-se para a manipulação médica mais massiva da
   história mundial'
 date: 2023-07-31
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

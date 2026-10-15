@@ -2,7 +2,7 @@
 title: 'O que eles descobriram agora sobre as chamadas injeções de corona: ''Parece
   muito ruim'''
 date: 2023-07-23
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

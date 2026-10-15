@@ -2,7 +2,7 @@
 title: 'Dentistas: dor inexplicável, perda de dentes e problemas ósseos podem estar
   ligados à vacina COVID-19'
 date: 2023-04-23
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

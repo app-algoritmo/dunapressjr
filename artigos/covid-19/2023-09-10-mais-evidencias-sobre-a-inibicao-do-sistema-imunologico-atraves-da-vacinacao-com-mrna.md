@@ -2,7 +2,7 @@
 title: Mais evidências sobre a inibição do sistema imunológico através da vacinação
   com mRNA
 date: 2023-09-10
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

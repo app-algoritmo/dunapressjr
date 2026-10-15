@@ -1,7 +1,7 @@
 ---
 title: Como as vacinas contra a COVID afetarão as gestantes?
 date: 2023-05-01
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -2,7 +2,7 @@
 title: Receptores de vacina COVID feridos processam governos e Big Pharma em busca
   de restituição
 date: 2023-05-26
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

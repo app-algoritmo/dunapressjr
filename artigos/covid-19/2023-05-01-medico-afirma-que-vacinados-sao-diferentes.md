@@ -1,7 +1,7 @@
 ---
 title: Médico afirma que vacinados são diferentes
 date: 2023-05-01
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -2,7 +2,7 @@
 title: Dados do CDC mostram que a vacina COVID pode encurtar a vida dos homens em
   24 anos
 date: 2023-09-11
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

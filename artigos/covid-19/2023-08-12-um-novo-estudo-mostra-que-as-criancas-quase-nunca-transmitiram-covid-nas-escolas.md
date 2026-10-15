@@ -1,7 +1,7 @@
 ---
 title: Um novo estudo mostra que as crianças quase nunca transmitiram Covid nas escolas
 date: 2023-08-12
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

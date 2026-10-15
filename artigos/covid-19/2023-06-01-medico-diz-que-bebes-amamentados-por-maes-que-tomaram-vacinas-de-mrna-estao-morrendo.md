@@ -2,7 +2,7 @@
 title: Médico diz que bebês amamentados por mães que tomaram vacinas de mRNA estão
   morrendo
 date: 2023-06-01
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

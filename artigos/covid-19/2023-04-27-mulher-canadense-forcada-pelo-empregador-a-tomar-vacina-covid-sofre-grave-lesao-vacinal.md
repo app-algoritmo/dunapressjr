@@ -2,7 +2,7 @@
 title: Mulher canadense forçada pelo empregador a tomar vacina COVID sofre grave lesão
   vacinal
 date: 2023-04-27
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

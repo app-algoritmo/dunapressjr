@@ -2,7 +2,7 @@
 title: Médico australiano está processando Pfizer e Moderna por OGMs não aprovados
   em vacinas de mRNA Covid
 date: 2023-08-01
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -1,7 +1,7 @@
 ---
 title: Médicos e hospitais acusados ​​de assassinato
 date: 2023-05-06
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

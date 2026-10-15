@@ -1,7 +1,7 @@
 ---
 title: 'Canadá: PHAC Estuda Incentivos para Aumentar Vacinação Infantil contra COVID-19'
 date: 2024-06-17
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

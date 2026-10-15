@@ -917,7 +917,7 @@ def montar_busca(m, edicao):
   </div>
 </main>"""
     return pagina("Busca — Duna Press", "Busque no acervo do Duna Press.",
-                  miolo, eds, len(todos), None, edicao, canonico="/busca/")
+                  miolo, eds, len(todos), None, edicao, indexar=False, canonico="/busca/")
 
 
 def montar_capa(m, edicao):

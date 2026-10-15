@@ -2,7 +2,7 @@
 title: '''Somos o segredinho sujo sobre o qual ninguém quer falar'', diz homem ferido
   pela vacina da COVID'
 date: 2023-06-15
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

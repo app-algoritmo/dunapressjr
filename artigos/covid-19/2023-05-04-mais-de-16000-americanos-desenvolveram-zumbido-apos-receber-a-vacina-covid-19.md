@@ -1,7 +1,7 @@
 ---
 title: Mais de 16.000 americanos desenvolveram zumbido após receber a vacina COVID-19
 date: 2023-05-04
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

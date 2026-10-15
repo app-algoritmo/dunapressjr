@@ -1,7 +1,7 @@
 ---
 title: O grande fracasso
 date: 2023-04-30
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

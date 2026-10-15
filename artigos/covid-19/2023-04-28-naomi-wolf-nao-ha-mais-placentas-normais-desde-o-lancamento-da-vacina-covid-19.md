@@ -1,7 +1,7 @@
 ---
 title: 'Naomi Wolf: Não há mais placentas normais desde o lançamento da vacina COVID-19'
 date: 2023-04-28
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

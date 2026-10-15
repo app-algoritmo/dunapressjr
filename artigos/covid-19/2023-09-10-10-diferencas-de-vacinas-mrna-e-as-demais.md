@@ -1,7 +1,7 @@
 ---
 title: 10 diferenças de vacinas mRNA e as demais
 date: 2023-09-10
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -1,7 +1,7 @@
 ---
 title: 'Dr. Zelenko: Zinco é a ''arma'' que mata o vírus responsável pela COVID-19'
 date: 2023-11-11
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

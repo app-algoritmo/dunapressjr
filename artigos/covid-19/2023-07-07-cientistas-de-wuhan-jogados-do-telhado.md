@@ -1,7 +1,7 @@
 ---
 title: Cientistas de Wuhan jogados do telhado
 date: 2023-07-07
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

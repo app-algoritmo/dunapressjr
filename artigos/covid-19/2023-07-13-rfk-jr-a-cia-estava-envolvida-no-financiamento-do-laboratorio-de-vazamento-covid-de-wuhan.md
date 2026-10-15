@@ -2,7 +2,7 @@
 title: 'RFK Jr .: a CIA estava envolvida no financiamento do laboratório de vazamento
   COVID de Wuhan'
 date: 2023-07-13
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

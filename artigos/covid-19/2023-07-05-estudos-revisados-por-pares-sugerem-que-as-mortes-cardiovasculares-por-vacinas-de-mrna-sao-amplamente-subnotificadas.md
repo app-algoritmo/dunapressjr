@@ -2,7 +2,7 @@
 title: Estudos revisados por pares sugerem que as mortes cardiovasculares por vacinas
   de mRNA são amplamente subnotificadas
 date: 2023-07-05
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

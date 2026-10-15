@@ -2,7 +2,7 @@
 title: Os dados mais recentes sugerem que as vacinas da Covid mataram pelo menos 416.000
   americanos
 date: 2023-06-02
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -2,7 +2,7 @@
 title: Texas se junta à Flórida na investigação de golpe da Big Pharma e da 'Covid
   Science'
 date: 2023-05-02
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

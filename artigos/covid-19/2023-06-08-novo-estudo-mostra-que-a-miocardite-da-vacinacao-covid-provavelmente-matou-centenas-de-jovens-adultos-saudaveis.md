@@ -2,7 +2,7 @@
 title: Novo estudo mostra que a miocardite da 'vacinação' Covid provavelmente matou
   centenas de jovens adultos saudáveis
 date: 2023-06-08
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

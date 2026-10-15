@@ -2,7 +2,7 @@
 title: Pesquisadores fizeram um teste simples para determinar se uma pessoa assintomática
   com teste positivo para COVID era infecciosa, mas CDC e Fauci o ignoraram
 date: 2023-05-14
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

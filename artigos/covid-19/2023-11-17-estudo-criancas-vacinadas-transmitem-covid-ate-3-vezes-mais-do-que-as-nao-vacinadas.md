@@ -2,7 +2,7 @@
 title: 'Estudo: Crianças vacinadas transmitem COVID até 3 vezes mais do que as não
   vacinadas'
 date: 2023-11-17
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

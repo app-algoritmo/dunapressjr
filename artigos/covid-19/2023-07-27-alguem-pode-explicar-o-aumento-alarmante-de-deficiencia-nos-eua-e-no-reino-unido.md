@@ -2,7 +2,7 @@
 title: Alguém pode explicar o aumento alarmante de deficiência nos EUA e no Reino
   Unido?
 date: 2023-07-27
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

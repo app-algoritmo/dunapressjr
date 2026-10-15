@@ -2,7 +2,7 @@
 title: Os ministros do governo britânico confiaram demais nas vacinas de mRNA e “desmantelaram
   sistematicamente” os planos de preparação para pandemias
 date: 2023-06-19
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

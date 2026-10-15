@@ -2,7 +2,7 @@
 title: Fauci, Trudeau e outros tiranos cobiçosos voltam atrás em seus crimes contra
   a humanidade, afirmam que nunca fizeram nada de errado
 date: 2023-05-07
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

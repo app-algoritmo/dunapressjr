@@ -1,7 +1,7 @@
 ---
 title: 'Covid: a destruição da ética médica e da confiança na profissão médica'
 date: 2023-05-31
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

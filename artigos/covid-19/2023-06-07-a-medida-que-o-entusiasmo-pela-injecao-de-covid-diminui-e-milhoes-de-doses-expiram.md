@@ -2,7 +2,7 @@
 title: À medida que o entusiasmo pela injeção de Covid diminui e milhões de doses
   expiram
 date: 2023-06-07
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

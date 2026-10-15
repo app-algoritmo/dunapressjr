@@ -2,7 +2,7 @@
 title: Fauci mentiu: mais de 120.000 crianças morreram repentinamente após a vacinação
   contra COVID
 date: 2023-08-16
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

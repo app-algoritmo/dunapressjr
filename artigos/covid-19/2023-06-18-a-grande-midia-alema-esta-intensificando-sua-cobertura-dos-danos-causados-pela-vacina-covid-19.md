@@ -2,7 +2,7 @@
 title: A grande mídia alemã está intensificando sua cobertura dos danos causados pela
   vacina COVID-19
 date: 2023-06-18
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

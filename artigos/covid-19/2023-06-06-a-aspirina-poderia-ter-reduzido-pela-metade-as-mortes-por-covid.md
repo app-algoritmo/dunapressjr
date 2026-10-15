@@ -1,7 +1,7 @@
 ---
 title: A aspirina poderia ter reduzido pela metade as mortes por Covid?
 date: 2023-06-06
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -2,7 +2,7 @@
 title: 'Melbourne: Residentes recebem US$ 5 milhões em compensação do governo pelo
   lockdown'
 date: 2023-08-14
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

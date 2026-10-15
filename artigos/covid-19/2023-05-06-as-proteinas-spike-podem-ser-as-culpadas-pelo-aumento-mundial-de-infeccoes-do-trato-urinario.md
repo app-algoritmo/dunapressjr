@@ -2,7 +2,7 @@
 title: As proteínas spike podem ser as culpadas pelo aumento mundial de infecções
   do trato urinário?
 date: 2023-05-06
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

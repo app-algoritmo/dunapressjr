@@ -1,7 +1,7 @@
 ---
 title: Alto funcionário da saúde diz que hospitais falsificaram mortes durante pandemia
 date: 2023-11-20
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

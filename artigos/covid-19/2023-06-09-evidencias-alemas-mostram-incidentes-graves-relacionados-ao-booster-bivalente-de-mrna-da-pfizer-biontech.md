@@ -2,7 +2,7 @@
 title: Evidências alemãs mostram incidentes graves relacionados ao Booster bivalente
   de mRNA da Pfizer-BioNTech
 date: 2023-06-09
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

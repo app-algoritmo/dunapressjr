@@ -2,7 +2,7 @@
 title: Jornalista expõe o financiamento silencioso da Pfizer para grupos que fizeram
   lobby por vacinas COVID-19
 date: 2023-05-06
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

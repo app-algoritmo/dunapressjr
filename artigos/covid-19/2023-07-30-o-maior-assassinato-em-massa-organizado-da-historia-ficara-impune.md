@@ -1,7 +1,7 @@
 ---
 title: O maior assassinato em massa organizado da história ficará impune?
 date: 2023-07-30
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

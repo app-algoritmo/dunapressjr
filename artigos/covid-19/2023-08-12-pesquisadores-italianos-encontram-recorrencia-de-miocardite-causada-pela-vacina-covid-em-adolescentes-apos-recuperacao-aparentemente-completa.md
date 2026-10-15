@@ -2,7 +2,7 @@
 title: Pesquisadores italianos encontram recorrência de miocardite causada pela vacina
   Covid em adolescentes após recuperação aparentemente completa
 date: 2023-08-12
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

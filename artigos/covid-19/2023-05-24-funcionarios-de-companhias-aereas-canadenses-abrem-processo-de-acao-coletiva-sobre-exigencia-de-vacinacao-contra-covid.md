@@ -2,7 +2,7 @@
 title: Funcionários de companhias aéreas canadenses abrem processo de ação coletiva
   sobre exigência de vacinação contra Covid
 date: 2023-05-24
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

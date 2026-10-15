@@ -2,7 +2,7 @@
 title: Análise de obituários mostra aumento de 40% nas mortes entre pilotos mais jovens
   em 2021
 date: 2023-05-10
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

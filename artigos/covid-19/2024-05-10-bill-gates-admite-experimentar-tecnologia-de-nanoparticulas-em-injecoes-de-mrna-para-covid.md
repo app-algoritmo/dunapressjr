@@ -2,7 +2,7 @@
 title: Bill Gates admite experimentar tecnologia de nanopartículas em injeções de
   mRNA para Covid
 date: 2024-05-10
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

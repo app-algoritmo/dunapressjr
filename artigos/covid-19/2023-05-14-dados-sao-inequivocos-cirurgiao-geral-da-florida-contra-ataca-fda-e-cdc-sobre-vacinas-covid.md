@@ -2,7 +2,7 @@
 title: '''Dados são inequívocos'': cirurgião geral da Flórida contra-ataca FDA e CDC
   sobre vacinas COVID'
 date: 2023-05-14
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

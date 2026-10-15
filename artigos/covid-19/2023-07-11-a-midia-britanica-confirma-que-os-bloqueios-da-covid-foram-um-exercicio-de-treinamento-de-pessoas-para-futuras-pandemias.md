@@ -2,7 +2,7 @@
 title: A mídia britânica confirma que os bloqueios da Covid foram um exercício de
   treinamento de pessoas para futuras pandemias
 date: 2023-07-11
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

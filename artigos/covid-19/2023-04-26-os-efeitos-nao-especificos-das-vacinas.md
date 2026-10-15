@@ -1,7 +1,7 @@
 ---
 title: Os 'efeitos não específicos' das vacinas
 date: 2023-04-26
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -2,7 +2,7 @@
 title: Ex-enfermeira descreve protocolos hospitalares do Covid-19 como “assassinato
   médico”
 date: 2023-04-28
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

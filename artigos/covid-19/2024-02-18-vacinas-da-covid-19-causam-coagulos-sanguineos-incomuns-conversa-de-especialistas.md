@@ -1,7 +1,7 @@
 ---
 title: Vacinas da COVID-19 Causam Coágulos Sanguíneos Incomuns? - Conversa de Especialistas
 date: 2024-02-18
-status: publish
+status: draft
 author: "Paulo Fernando de Barros"
 categories:
 - Covid-19

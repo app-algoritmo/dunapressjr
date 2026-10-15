@@ -2,7 +2,7 @@
 title: 'Cientista biomédico francês: é hora de regulamentar as vacinas de mRNA como
   terapias genéticas'
 date: 2023-07-16
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

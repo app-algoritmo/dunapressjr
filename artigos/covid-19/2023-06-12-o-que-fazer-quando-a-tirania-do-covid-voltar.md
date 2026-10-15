@@ -1,7 +1,7 @@
 ---
 title: O que fazer quando a tirania do Covid voltar?
 date: 2023-06-12
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

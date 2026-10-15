@@ -1,7 +1,7 @@
 ---
 title: As vacinas de mRNA contra a COVID-19 reduzem as bactérias benéficas no intestino
 date: 2023-11-04
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

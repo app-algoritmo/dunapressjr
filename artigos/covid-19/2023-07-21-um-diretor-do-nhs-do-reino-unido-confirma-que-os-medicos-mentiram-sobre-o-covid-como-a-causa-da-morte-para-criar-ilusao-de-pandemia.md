@@ -2,7 +2,7 @@
 title: Um diretor do NHS do Reino Unido confirma que os médicos mentiram sobre o COVID
   como a causa da morte para criar ilusão de pandemia
 date: 2023-07-21
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

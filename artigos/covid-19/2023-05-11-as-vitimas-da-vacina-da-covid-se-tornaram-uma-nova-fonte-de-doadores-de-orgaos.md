@@ -1,7 +1,7 @@
 ---
 title: As vítimas da 'vacina' da Covid se tornaram uma nova fonte de doadores de órgãos?
 date: 2023-05-11
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

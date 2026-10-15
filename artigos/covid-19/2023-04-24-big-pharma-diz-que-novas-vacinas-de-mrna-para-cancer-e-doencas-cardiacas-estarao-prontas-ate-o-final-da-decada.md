@@ -2,7 +2,7 @@
 title: Big Pharma diz que novas “vacinas” de mRNA para câncer e doenças cardíacas
   estarão “prontas até o final da década”
 date: 2023-04-24
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

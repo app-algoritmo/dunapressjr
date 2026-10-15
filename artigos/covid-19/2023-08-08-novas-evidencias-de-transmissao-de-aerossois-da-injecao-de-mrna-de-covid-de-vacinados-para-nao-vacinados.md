@@ -2,7 +2,7 @@
 title: Novas evidências de transmissão de aerossóis da injeção de mRNA de COVID de
   vacinados para não vacinados
 date: 2023-08-08
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -1,7 +1,7 @@
 ---
 title: Quem é o dono da BioNTech?
 date: 2023-06-14
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -1,7 +1,7 @@
 ---
 title: CIA e a origem do COVID-19
 date: 2023-09-14
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

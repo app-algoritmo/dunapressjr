@@ -2,7 +2,7 @@
 title: Números crescentes de casos de hanseníase são relatados após a vacinação contra
   COVID
 date: 2023-08-17
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

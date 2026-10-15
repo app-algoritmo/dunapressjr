@@ -2,7 +2,7 @@
 title: O que realmente estava acontecendo no laboratório de Wuhan nas semanas que
   antecederam o surto de Covid
 date: 2023-06-16
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

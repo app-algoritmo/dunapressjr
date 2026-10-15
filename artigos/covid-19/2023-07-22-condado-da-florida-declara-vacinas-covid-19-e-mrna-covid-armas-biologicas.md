@@ -1,7 +1,7 @@
 ---
 title: Condado da Flórida declara vacinas COVID-19 e mRNA COVID armas biológicas
 date: 2023-07-22
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -2,7 +2,7 @@
 title: 'Revelações incríveis de Israel: zero mortes de Covid entre pessoas com menos
   de 50 anos'
 date: 2023-05-26
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

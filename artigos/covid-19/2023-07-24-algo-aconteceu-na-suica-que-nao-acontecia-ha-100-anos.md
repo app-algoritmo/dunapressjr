@@ -1,7 +1,7 @@
 ---
 title: Algo aconteceu na Suíça que não acontecia há 100 anos
 date: 2023-07-24
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

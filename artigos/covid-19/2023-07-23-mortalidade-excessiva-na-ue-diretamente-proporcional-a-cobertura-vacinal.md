@@ -1,7 +1,7 @@
 ---
 title: Mortalidade excessiva na UE diretamente proporcional à cobertura vacinal
 date: 2023-07-23
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

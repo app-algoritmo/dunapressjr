@@ -1,7 +1,7 @@
 ---
 title: Milhares desenvolveram zumbido após vacinas da Covid
 date: 2023-05-21
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

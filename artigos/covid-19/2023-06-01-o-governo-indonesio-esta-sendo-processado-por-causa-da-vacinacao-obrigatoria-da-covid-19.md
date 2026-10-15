@@ -2,7 +2,7 @@
 title: O governo indonésio está sendo processado por causa da vacinação obrigatória
   da Covid-19
 date: 2023-06-01
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

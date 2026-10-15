@@ -2,7 +2,7 @@
 title: O ano é 2023 e os pacientes ainda estão sem tratamento médico devido às vacinas
   COVID-19
 date: 2023-05-10
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -1,7 +1,7 @@
 ---
 title: 'Estudo revisado por pares confirma: pico de mortes após vacinas'
 date: 2023-06-22
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

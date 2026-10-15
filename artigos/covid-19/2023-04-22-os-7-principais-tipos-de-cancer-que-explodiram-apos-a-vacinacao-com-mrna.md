@@ -1,7 +1,7 @@
 ---
 title: Os 7 principais tipos de câncer que explodiram após a vacinação com mRNA
 date: 2023-04-22
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

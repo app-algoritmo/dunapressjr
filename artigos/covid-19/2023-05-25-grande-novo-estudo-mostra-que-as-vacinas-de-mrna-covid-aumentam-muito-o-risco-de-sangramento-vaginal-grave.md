@@ -2,7 +2,7 @@
 title: Grande novo estudo mostra que as vacinas de mRNA Covid aumentam muito o risco
   de sangramento vaginal grave
 date: 2023-05-25
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

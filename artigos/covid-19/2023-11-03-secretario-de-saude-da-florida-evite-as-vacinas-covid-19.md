@@ -1,7 +1,7 @@
 ---
 title: 'Secretário de Saúde da Flórida: Evite as vacinas COVID-19'
 date: 2023-11-03
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -1,7 +1,7 @@
 ---
 title: 'Dr. Pierre Kory: Catástrofe de armas biológicas CV19 é assassinato'
 date: 2023-06-06
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

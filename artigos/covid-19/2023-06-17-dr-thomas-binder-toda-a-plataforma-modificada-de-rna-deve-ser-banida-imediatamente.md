@@ -1,7 +1,7 @@
 ---
 title: 'Dr. Thomas Binder: Toda a plataforma modificada de RNA deve ser banida imediatamente'
 date: 2023-06-17
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

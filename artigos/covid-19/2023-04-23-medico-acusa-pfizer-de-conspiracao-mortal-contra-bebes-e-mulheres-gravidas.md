@@ -1,7 +1,7 @@
 ---
 title: Médico acusa Pfizer de conspiração mortal contra bebês e mulheres grávidas
 date: 2023-04-23
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

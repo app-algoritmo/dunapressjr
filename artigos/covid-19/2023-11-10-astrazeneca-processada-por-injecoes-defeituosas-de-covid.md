@@ -1,7 +1,7 @@
 ---
 title: AstraZeneca processada por injeções “defeituosas” de Covid
 date: 2023-11-10
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

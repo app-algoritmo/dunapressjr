@@ -2,7 +2,7 @@
 title: Dados oficiais mostram que as mortes por insuficiência cardíaca são 26% superiores
   aos níveis pré-pandemia
 date: 2023-10-16
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

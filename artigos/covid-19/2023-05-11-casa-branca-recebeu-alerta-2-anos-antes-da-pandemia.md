@@ -1,7 +1,7 @@
 ---
 title: Casa Branca recebeu alerta 2 anos antes da pandemia
 date: 2023-05-11
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

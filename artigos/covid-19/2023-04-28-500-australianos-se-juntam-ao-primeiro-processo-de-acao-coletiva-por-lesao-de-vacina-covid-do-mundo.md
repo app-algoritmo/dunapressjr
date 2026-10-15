@@ -2,7 +2,7 @@
 title: 500 australianos se juntam ao primeiro processo de ação coletiva por lesão
   de vacina COVID do mundo
 date: 2023-04-28
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

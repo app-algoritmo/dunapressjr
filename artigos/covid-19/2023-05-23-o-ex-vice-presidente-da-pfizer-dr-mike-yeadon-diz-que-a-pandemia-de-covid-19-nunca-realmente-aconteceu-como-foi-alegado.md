@@ -2,7 +2,7 @@
 title: O ex-vice-presidente da Pfizer, Dr. Mike Yeadon, diz que a pandemia de COVID-19
   nunca realmente aconteceu, como foi alegado
 date: 2023-05-23
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -1,7 +1,7 @@
 ---
 title: Novo estudo sobre doses de reforço mostra dado preocupante
 date: 2023-08-03
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

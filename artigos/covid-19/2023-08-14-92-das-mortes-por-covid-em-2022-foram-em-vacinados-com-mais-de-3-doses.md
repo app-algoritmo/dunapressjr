@@ -1,7 +1,7 @@
 ---
 title: 92% das mortes por Covid em 2022 foram em vacinados com mais de 3 doses
 date: 2023-08-14
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

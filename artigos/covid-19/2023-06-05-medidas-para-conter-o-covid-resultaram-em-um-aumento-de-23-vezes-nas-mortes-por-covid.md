@@ -2,7 +2,7 @@
 title: Medidas para conter o Covid resultaram em um aumento de 23 vezes nas mortes
   por Covid
 date: 2023-06-05
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -1,7 +1,7 @@
 ---
 title: Mortes Trágicas e Coágulos Desconhecidos
 date: 2024-05-25
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

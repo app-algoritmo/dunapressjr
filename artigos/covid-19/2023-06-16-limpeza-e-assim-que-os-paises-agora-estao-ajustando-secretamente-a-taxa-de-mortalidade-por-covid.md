@@ -2,7 +2,7 @@
 title: 'Limpeza: é assim que os países agora estão ajustando secretamente a ''taxa
   de mortalidade por Covid'''
 date: 2023-06-16
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

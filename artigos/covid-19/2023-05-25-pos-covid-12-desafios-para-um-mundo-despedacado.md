@@ -1,7 +1,7 @@
 ---
 title: 'Pós-Covid: 12 desafios para um mundo despedaçado'
 date: 2023-05-25
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

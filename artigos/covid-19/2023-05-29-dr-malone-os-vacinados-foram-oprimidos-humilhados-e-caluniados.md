@@ -1,7 +1,7 @@
 ---
 title: 'Dr Malone: ​​Os vacinados foram oprimidos, humilhados e caluniados'
 date: 2023-05-29
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

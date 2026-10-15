@@ -2,7 +2,7 @@
 title: O Debate Sobre as Vacinas Contra a COVID-19 e as revelações do Professor Angus
   Dalgleish
 date: 2023-09-30
-status: publish
+status: draft
 author: "Paulo Fernando de Barros"
 categories:
 - Covid-19

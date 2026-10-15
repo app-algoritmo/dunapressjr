@@ -2,7 +2,7 @@
 title: 'Ed Dowd: A arma biológica CV19 causou uma pandemia dos vacinados, mas isso
   não é tudo'
 date: 2023-05-06
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

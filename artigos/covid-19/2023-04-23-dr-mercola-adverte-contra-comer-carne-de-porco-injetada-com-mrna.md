@@ -1,7 +1,7 @@
 ---
 title: Dr. Mercola adverte contra comer carne de porco injetada com mRNA
 date: 2023-04-23
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

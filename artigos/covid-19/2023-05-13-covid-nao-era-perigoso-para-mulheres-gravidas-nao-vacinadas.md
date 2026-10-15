@@ -1,7 +1,7 @@
 ---
 title: Covid não era perigoso para mulheres grávidas não vacinadas
 date: 2023-05-13
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

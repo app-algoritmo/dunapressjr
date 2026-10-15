@@ -1,7 +1,7 @@
 ---
 title: Netanyahu está transformando Israel em um laboratório para a Pfizer
 date: 2023-05-10
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

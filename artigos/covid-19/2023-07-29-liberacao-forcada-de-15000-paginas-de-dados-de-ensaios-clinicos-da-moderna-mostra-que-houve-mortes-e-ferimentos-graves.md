@@ -2,7 +2,7 @@
 title: Liberação forçada de 15.000 páginas de dados de ensaios clínicos da Moderna
   mostra que houve mortes e ferimentos graves
 date: 2023-07-29
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

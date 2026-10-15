@@ -1,7 +1,7 @@
 ---
 title: 'Robert Malone: muito do coronavírus ainda não foi explorado'
 date: 2023-08-13
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -2,7 +2,7 @@
 title: Documento confidencial da Pfizer mostra que a empresa observou 1,6 milhão de
   eventos adversos em quase todos os sistemas de órgãos
 date: 2023-06-18
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

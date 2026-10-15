@@ -1,7 +1,7 @@
 ---
 title: A Pfizer está processando a Polônia por descartar à vacina Covid
 date: 2023-11-28
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

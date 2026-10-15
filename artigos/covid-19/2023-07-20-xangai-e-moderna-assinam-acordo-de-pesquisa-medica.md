@@ -1,7 +1,7 @@
 ---
 title: Xangai e Moderna assinam acordo de pesquisa médica
 date: 2023-07-20
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

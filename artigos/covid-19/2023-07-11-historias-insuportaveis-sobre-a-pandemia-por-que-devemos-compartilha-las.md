@@ -1,7 +1,7 @@
 ---
 title: 'Histórias ''insuportáveis'' sobre a pandemia: por que devemos compartilhá-las'
 date: 2023-07-11
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

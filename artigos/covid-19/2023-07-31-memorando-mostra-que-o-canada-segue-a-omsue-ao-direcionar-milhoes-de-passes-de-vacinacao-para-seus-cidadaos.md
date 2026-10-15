@@ -2,7 +2,7 @@
 title: Memorando mostra que o Canadá segue a OMS/UE ao direcionar milhões de passes
   de vacinação para seus cidadãos
 date: 2023-07-31
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

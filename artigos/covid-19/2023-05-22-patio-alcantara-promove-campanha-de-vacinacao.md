@@ -1,7 +1,7 @@
 ---
 title: "Pátio Alcântara promove campanha de vacinação"
 date: 2023-05-22
-status: publish
+status: draft
 author: "Camila Honorato"
 categories:
   - Covid-19

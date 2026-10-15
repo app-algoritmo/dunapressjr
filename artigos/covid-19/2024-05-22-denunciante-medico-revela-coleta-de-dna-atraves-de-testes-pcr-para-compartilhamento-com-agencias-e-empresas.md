@@ -2,7 +2,7 @@
 title: Denunciante Médico Revela Coleta de DNA Através de Testes PCR para Compartilhamento
   com Agências e Empresas
 date: 2024-05-22
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

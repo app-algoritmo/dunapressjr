@@ -2,7 +2,7 @@
 title: Partido Republicano do Arizona Aprova Resolução 'Ban the Jab' Contra Injeções
   de COVID-19
 date: 2024-05-02
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -1,7 +1,7 @@
 ---
 title: 11 crianças sofreram parada cardíaca em escolas dos EUA no mês passado
 date: 2023-11-11
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

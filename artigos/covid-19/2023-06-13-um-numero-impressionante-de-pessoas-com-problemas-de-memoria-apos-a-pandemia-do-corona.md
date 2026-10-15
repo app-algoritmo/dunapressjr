@@ -2,7 +2,7 @@
 title: Um número impressionante de pessoas com problemas de memória após a 'pandemia
   do corona'
 date: 2023-06-13
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

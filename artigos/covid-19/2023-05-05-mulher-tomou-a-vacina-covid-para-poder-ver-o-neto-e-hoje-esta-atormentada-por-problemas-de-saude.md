@@ -2,7 +2,7 @@
 title: Mulher tomou a vacina COVID para poder ver o neto, e hoje está atormentada
   por problemas de saúde
 date: 2023-05-05
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

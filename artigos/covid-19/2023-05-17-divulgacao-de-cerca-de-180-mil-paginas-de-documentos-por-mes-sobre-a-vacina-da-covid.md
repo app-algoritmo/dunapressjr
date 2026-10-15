@@ -2,7 +2,7 @@
 title: Divulgação de cerca de 180 mil páginas de documentos por mês sobre a “vacina”
   da Covid
 date: 2023-05-17
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

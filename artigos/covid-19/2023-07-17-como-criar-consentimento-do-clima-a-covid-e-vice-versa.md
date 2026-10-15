@@ -1,7 +1,7 @@
 ---
 title: 'Como criar consentimento: do clima à Covid e vice-versa'
 date: 2023-07-17
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -1,7 +1,7 @@
 ---
 title: O grande encobrimento da morte do COVID
 date: 2023-06-15
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

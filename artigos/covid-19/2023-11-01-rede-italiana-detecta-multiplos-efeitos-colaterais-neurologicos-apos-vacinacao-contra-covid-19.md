@@ -2,7 +2,7 @@
 title: Rede italiana detecta múltiplos efeitos colaterais neurológicos após vacinação
   contra COVID-19
 date: 2023-11-01
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

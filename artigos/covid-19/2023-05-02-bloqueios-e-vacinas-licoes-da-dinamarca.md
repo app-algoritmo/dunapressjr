@@ -1,7 +1,7 @@
 ---
 title: 'Bloqueios e vacinas: lições da Dinamarca'
 date: 2023-05-02
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

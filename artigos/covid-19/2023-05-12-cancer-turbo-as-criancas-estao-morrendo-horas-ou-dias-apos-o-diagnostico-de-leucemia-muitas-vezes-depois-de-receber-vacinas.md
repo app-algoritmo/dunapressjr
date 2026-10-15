@@ -2,7 +2,7 @@
 title: 'Câncer Turbo: As crianças estão morrendo horas ou dias após o diagnóstico
   de leucemia, muitas vezes depois de receber vacinas'
 date: 2023-05-12
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

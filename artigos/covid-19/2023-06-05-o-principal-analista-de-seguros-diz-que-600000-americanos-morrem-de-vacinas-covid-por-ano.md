@@ -2,7 +2,7 @@
 title: O principal analista de seguros diz que 600.000 americanos morrem de vacinas
   Covid por ano
 date: 2023-06-05
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

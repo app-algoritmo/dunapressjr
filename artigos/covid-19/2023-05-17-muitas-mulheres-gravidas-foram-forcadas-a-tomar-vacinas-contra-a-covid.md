@@ -1,7 +1,7 @@
 ---
 title: Muitas mulheres grávidas foram forçadas a tomar vacinas contra a COVID
 date: 2023-05-17
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

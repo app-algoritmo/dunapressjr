@@ -2,7 +2,7 @@
 title: Dados de Israel mostram um aumento impressionante nos diagnósticos de parada
   cardíaca
 date: 2023-07-23
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

@@ -1,7 +1,7 @@
 ---
 title: Legislador japonês admite danos da vacina
 date: 2023-05-05
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

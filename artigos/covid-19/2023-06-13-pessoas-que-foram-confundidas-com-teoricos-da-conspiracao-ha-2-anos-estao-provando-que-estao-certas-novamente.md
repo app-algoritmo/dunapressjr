@@ -2,7 +2,7 @@
 title: Pessoas que foram confundidas com 'teóricos da conspiração' há 2 anos estão
   provando que estão certas novamente
 date: 2023-06-13
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

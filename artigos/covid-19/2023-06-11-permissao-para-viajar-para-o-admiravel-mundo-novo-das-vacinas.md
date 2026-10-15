@@ -1,7 +1,7 @@
 ---
 title: Permissão para viajar para o admirável mundo novo das vacinas
 date: 2023-06-11
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19

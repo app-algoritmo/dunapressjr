@@ -1,7 +1,7 @@
 ---
 title: Todas as pessoas infectadas do surto de Covid na conferência do CDC foram vacinadas
 date: 2023-06-02
-status: publish
+status: draft
 author: "Edicléia Alves Lima"
 categories:
 - Covid-19
