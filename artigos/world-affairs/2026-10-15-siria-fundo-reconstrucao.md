@@ -34,4 +34,14 @@ O objetivo é reconstruir a infraestrutura e as instituições do Estado e fazer
 
 "Isso mostra uma Síria que assume a responsabilidade pelo próprio desenvolvimento", disse Aukrust.
 
+## O que o ministro viu
+
+Aukrust esteve na Síria no ano passado e viu, segundo o ministério, uma destruição extensa da infraestrutura e das instituições do Estado. Os sírios com quem conversou deixaram claro que eles próprios precisam liderar a reconstrução, com apoio internacional.
+
+Para o ministro, a Síria só vai se reerguer se a economia voltar a funcionar e o setor privado crescer, porque é ele que cria os empregos de que o país precisa.
+
+## A agenda de Bangcoc
+
+O anúncio fez parte da participação norueguesa na reunião anual do Banco Mundial e do FMI, em Bangcoc. Na mesma reunião, a Noruega anunciou 750 milhões de coroas para um programa do banco que ajuda a pagar salários de professores e médicos na Ucrânia e assinou acordos de 110 milhões de coroas para combater a corrupção em países de baixa renda.
+
 O comunicado norueguês não informa quais outros países vão contribuir para o fundo.

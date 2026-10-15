@@ -38,4 +38,10 @@ Enquanto o mercado interno encolhe, as exportações disparam. A China exportou 
 
 A BYD liderou as exportações de veículos de nova energia, com 174.277 unidades, seguida por Chery, com 85.990, e Geely, com 72.893. Somando os carros a combustão, a Chery foi a maior exportadora do mês, com 203.765 unidades.
 
-De janeiro a setembro, a China exportou 3,887 milhões de elétricos e híbridos, mais que o dobro do mesmo período de 2025.
+Os elétricos e híbridos já são 60,8% de todos os carros de passeio exportados pela China. As exportações respondem por 36% das vendas das montadoras chinesas.
+
+## O ano até agora
+
+De janeiro a setembro, as vendas de carros de passeio no varejo chinês somaram 13,33 milhões, queda de 21,7%. As de elétricos e híbridos foram 7,758 milhões, queda de 12,8%.
+
+No mesmo período, a China exportou 3,887 milhões de elétricos e híbridos, mais que o dobro do registrado de janeiro a setembro de 2025. A BYD respondeu por um terço desse total, com 1,3 milhão de unidades.

@@ -37,3 +37,9 @@ A Suécia ainda não tem um novo governo desde as eleições de 13 de setembro. 
 "Não era realista", disse o social-democrata Mikael Damberg, que preside a comissão de finanças. Henrik Vinge, dos Democratas Suecos, chamou a decisão de terrível e disse que ela vai deixar os suecos com menos dinheiro antes do Natal.
 
 O vice-presidente da comissão, Edward Riedl, do Partido Moderado, escreveu na rede X que o Ministério das Finanças informou ser possível baixar o preço dos combustíveis em 1º de dezembro, se a comissão quiser.
+
+## O impasse que trava tudo
+
+Os cortes de impostos são uma das vítimas do impasse político. O orçamento de 2027 precisa ser apresentado até 12 de novembro. Se até lá não houver novo governo, o governo interino apresentará um orçamento de transição, que apenas mantém o atual, sem medidas novas.
+
+O parlamento vota nesta quinta-feira, 15 de outubro, o nome da social-democrata Magdalena Andersson para primeira-ministra. O próprio presidente do parlamento, Andreas Norlén, admitiu que ela deve perder.

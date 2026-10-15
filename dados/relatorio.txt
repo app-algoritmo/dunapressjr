@@ -28,8 +28,8 @@ wordpress: título              1649    8.0%
 POR PORTE
 ----------------------------------------------------
 Longa (800+ palavras)     3788
-Média (300–799)          11926
-Curta (<300)              4966   ← candidatos a arquivo
+Média (300–799)          11936
+Curta (<300)              4956   ← candidatos a arquivo
 
 POR ANO
 ----------------------------------------------------

@@ -38,4 +38,6 @@ Medida em horas, e não em dias, a mediana de faltas subiu de 20 para 22. Em Osl
 
 O abandono escolar ficou praticamente estável: cerca de 6.200 alunos, ou 3,2%, saíram da escola, 0,1 ponto percentual a mais que no ano anterior. Cerca de 300 notas de "não avaliado" foram dadas porque o aluno passou do limite de faltas.
 
-No último ano do ensino fundamental, 45% dos alunos tiveram dez dias ou mais de falta.
+As faltas caíram em todos os condados e em todos os programas de ensino, pelo menos um dia em cada. Os cursos de cabeleireiro, floricultura, design de interiores e design de exposições tiveram a maior queda, de dez para seis dias, mas continuam com as faltas mais altas. A fatia de alunos sem nota em uma ou mais disciplinas caiu 0,2 ponto, para 2,4%.
+
+No último ano do ensino fundamental, 45% dos alunos tiveram dez dias ou mais de falta. Ali, a fatia de alunos com 20 dias ou mais de ausência caiu de 18% para 17%, mas ainda é quase o dobro da registrada no ano letivo de 2018–2019, antes da pandemia.

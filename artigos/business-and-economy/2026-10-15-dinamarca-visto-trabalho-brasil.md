@@ -34,4 +34,10 @@ A via vale para cidadãos de 16 países, numa lista publicada pelo Ministério d
 
 A empresa precisa estar coberta por um acordo coletivo com um sindicato. Segundo o escritório de imigração Fragomen, também precisa estar em atividade há pelo menos dois anos, ter ao menos dez funcionários em tempo integral na Dinamarca e obter um certificado da autoridade de imigração dinamarquesa.
 
+## O acordo por trás da lei
+
+A nova via nasceu de um acordo entre a central sindical dinamarquesa, a FH, e a confederação patronal, a DA. Pela lei, tanto a empresa quanto a vaga precisam estar cobertas por um acordo coletivo. Os sindicatos ganham o direito de verificar se salários e condições estão sendo respeitados, e um representante sindical ou o sindicato pode intervir se houver descumprimento. O empregador tem de comprovar que oferece salário e condições adequados.
+
+"A convenção coletiva vira o bilhete de entrada", disse o presidente da FH, Morten Skov Christiansen, que chamou a regra de "uma ruptura e uma vitória do modelo dinamarquês". Para ele, um passaporte estrangeiro nunca pode significar "salário pior, menos segurança ou menos respeito".
+
 Cidadãos da União Europeia não precisam de autorização de trabalho na Dinamarca.

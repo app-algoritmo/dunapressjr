@@ -37,3 +37,9 @@ O treinamento vai continuar em 2027. O governo norueguês o descreve como parte 
 ## O que a Noruega aprende
 
 Segundo Sandvik, a Noruega aprende com a experiência recente dos soldados ucranianos no campo de batalha e com a rápida evolução tecnológica, em especial no uso de drones e na defesa contra eles. Essas lições são usadas para melhorar o treinamento e para fortalecer as próprias Forças Armadas norueguesas.
+
+## Uma semana de Ucrânia e Polônia
+
+A visita fecha uma semana em que a Noruega reforçou os laços com Varsóvia e com Kiev. Na segunda-feira, 12 de outubro, o primeiro-ministro Jonas Gahr Støre e o polonês Donald Tusk assinaram uma declaração de parceria estratégica, com foco em defesa, preparação para crises e apoio à Ucrânia. No mesmo dia, Sandvik e o ministro da Defesa polonês, Władysław Kosiniak-Kamysz, anunciaram a entrada da Polônia numa iniciativa de segurança no Atlântico Norte, no Ártico e no Báltico.
+
+Na quarta-feira, 14 de outubro, o governo norueguês anunciou 750 milhões de coroas para um programa do Banco Mundial que ajuda a pagar salários de professores e médicos na Ucrânia.

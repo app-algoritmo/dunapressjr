@@ -38,4 +38,10 @@ Outros 20 bancos genéticos da Ásia, da América do Sul, da Europa e da África
 
 O cofre guarda hoje mais de 1,4 milhão de amostras de mais de 130 bancos genéticos. É o maior depósito seguro de diversidade de plantas cultivadas do mundo. Funciona como uma cópia de segurança: os bancos guardam ali, sem custo, duplicatas de suas coleções.
 
+## Um seguro para a agricultura
+
+O cofre foi escavado numa montanha perto de Longyearbyen e funciona desde 2008. As sementes ficam guardadas a cerca de 18 graus negativos. Os bancos genéticos continuam donos do material e são os únicos que podem retirá-lo.
+
+A primeira retirada aconteceu em 2015, quando o centro internacional de pesquisa agrícola ICARDA, que teve de deixar Aleppo por causa da guerra na Síria, recuperou as cópias guardadas em Svalbard para reconstruir sua coleção em outros países.
+
 O cofre foi criado e é financiado pelo Estado norueguês, que o administra com o NordGen e a Crop Trust. "O depósito de hoje mostra que esta visão é mais atual do que nunca", disse o ministro da Agricultura, Nils Kristen Sandtrøen.

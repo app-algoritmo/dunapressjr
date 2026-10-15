@@ -28,12 +28,18 @@ Foram derrubados cerca de 330 hectares de floresta em Muhos e pouco menos de 200
 
 ## A acusação
 
-A Associação Finlandesa de Conservação da Natureza acusa o Google de desmatar ilegalmente, sem as avaliações de impacto ambiental exigidas. Na semana passada, a Agência de Supervisão da Finlândia mandou a empresa suspender as obras. A polícia investiga suspeita de corte ilegal.
+A Associação Finlandesa de Conservação da Natureza acusa o Google de desmatar ilegalmente, sem as avaliações de impacto ambiental exigidas. Na semana passada, a Agência de Supervisão da Finlândia mandou a empresa suspender as obras. Segundo a Yle, a polícia também investiga suspeita de corte ilegal.
 
 O fiscal de obras de Muhos disse ao jornal Helsingin Sanomat que advogados do Google o pressionaram a autorizar os trabalhos preparatórios. Järvinen negou: segundo ele, nenhum advogado da empresa esteve na reunião em que a licença foi dada.
+
+## O tamanho do projeto
+
+O Google planeja investir 13 bilhões de euros em infraestrutura digital na Finlândia em 2027 e 2028. A empresa está no país desde 2009, quando comprou uma antiga fábrica de papel em Hamina e a transformou num data center resfriado com água do mar.
+
+Em 18 de setembro, a Agência de Licenciamento e Supervisão pediu às prefeituras de Muhos e Kajaani e à Tuike Finland Oy, gerente dos projetos, relatórios sobre as obras, as licenças e as medidas tomadas nos terrenos.
 
 ## A defesa da empresa
 
 Järvinen disse que o Google e sua subsidiária agiram de acordo com o entendimento que tinham da lei na época e que os projetos foram conduzidos com autoridades e especialistas. Ele não quis dizer quais autoridades sabiam dos planos. "Este é o nosso projeto, e assumimos total responsabilidade pelo que aconteceu", afirmou.
 
-Ele negou que a empresa tenha acelerado o corte para escapar das avaliações ambientais e que tenha agido por falta de experiência ou negligência. O Google também constrói data centers em Hamina e Vaala, que não fazem parte da acusação.
+Ele negou que a empresa tenha acelerado o corte para escapar das avaliações ambientais e que tenha agido por falta de experiência ou negligência. Um porta-voz do Google, Michiel Sallaets, já havia negado corte ilegal e dito que o desmatamento foi feito em terras da empresa "em total conformidade com a Lei Florestal".

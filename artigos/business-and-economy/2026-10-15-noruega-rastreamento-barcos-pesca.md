@@ -35,3 +35,9 @@ O VMS mostra se a pesca segue as regras, se respeita as áreas fechadas e se cad
 ## O custo para o pescador
 
 Depois de instalado, o VMS funciona sozinho, sem que o pescador precise fazer nada. Um programa de apoio administrado pela Garantikassen for fiskere, a caixa de garantia dos pescadores, cobrirá a compra e a instalação do equipamento. O ministério não informou o valor do apoio nem quantos barcos serão afetados.
+
+## Outras decisões para o mar
+
+No mesmo dia, o ministério anunciou que vai pôr em consulta pública, "o mais rápido possível", uma proposta de regra nacional para a criação de peixes com emissão zero, sem dar detalhes. O governo diz querer que a Noruega lidere o desenvolvimento da aquicultura mais produtiva e mais ecológica do mundo.
+
+Um dia antes, em 13 de outubro, o ministério cortou em 22% a cota de pesca do escamudo do nordeste do Ártico para 2027, para 127.807 toneladas, seguindo a recomendação dos cientistas do Conselho Internacional para a Exploração do Mar.

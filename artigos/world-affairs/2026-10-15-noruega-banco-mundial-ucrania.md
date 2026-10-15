@@ -39,3 +39,11 @@ Na primeira fase do SPUR, a Noruega deu 1 bilhão de coroas, o que abriu caminho
 "Se a Ucrânia vai vencer, é decisivo que as funções básicas da sociedade continuem funcionando", disse o chanceler Espen Barth Eide.
 
 Aukrust afirmou que a ajuda sozinha não basta para as necessidades ucranianas. "É sensato já agora preparar o terreno para investimentos privados", disse.
+
+## Mais 110 milhões contra a corrupção
+
+Na mesma reunião em Bangcoc, a Noruega assinou com o Banco Mundial dois acordos para melhorar a gestão do dinheiro público em países de baixa renda, num valor de 110 milhões de coroas entre 2026 e 2029, que pode ser ampliado.
+
+Um dos programas ajuda países a melhorar orçamento, contabilidade e controles. O outro inclui medidas anticorrupção em reformas do setor público, como transparência nas compras do governo, informação sobre os verdadeiros donos de empresas e controle do patrimônio e dos conflitos de interesse de servidores. O ministério não informou quais países vão receber o apoio.
+
+"A corrupção é uma das principais razões pelas quais os países não conseguem sair da pobreza", disse Aukrust.
