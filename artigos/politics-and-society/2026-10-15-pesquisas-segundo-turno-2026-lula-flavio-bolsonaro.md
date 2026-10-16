@@ -12,8 +12,8 @@ revisor: "Paulo Fernando de Barros"
 fonte_primaria: "https://www.tse.jus.br/eleicoes/pesquisa-eleitorais/consulta-as-pesquisas-registradas"
 fonte_nome: "Tribunal Superior Eleitoral (TSE); Quaest; Datafolha; Gazeta do Povo; O Tempo; Brasil de Fato; Diário do Grande ABC; CartaCapital"
 data_do_fato: 2026-10-15
-featuredImage: "https://images.unsplash.com/photo-1664799207504-d10bbdbe6281?w=1200&auto=format&fit=crop&q=75"
-photoAuthor: "igor constantino"
+featuredImage: "https://images.unsplash.com/photo-1625426078245-6911839409dd?w=1200&auto=format&fit=crop&q=75"
+photoAuthor: "Ramon Buçard"
 photoSource: "Unsplash"
 tags:
   - brasil
@@ -24,26 +24,29 @@ tags:
   - flavio-bolsonaro
 ---
 
-Atualizado em: 15 de outubro de 2026, 12h30 (horário de Brasília)
+Atualizado em: 16 de outubro de 2026, 3h20 (horário de Brasília)
 
-As pesquisas de segundo turno divulgadas até agora mostram Flávio Bolsonaro (PL) numericamente à frente de Lula (PT), mas em empate técnico dentro da margem de erro. Na Quaest de 14 de outubro, Flávio tem 46% e Lula, 44%; no Datafolha de 8 de outubro, Flávio tinha 49% e Lula, 45%.
+As pesquisas de segundo turno divulgadas até agora mostram Flávio Bolsonaro (PL) numericamente à frente de Lula (PT), mas em empate técnico dentro da margem de erro. No Datafolha de 15 de outubro, Flávio tem 51% dos votos válidos e Lula, 49%; na Quaest de 14 de outubro, Flávio tem 46% do total e Lula, 44%.
 
 O segundo turno será em 25 de outubro. Esta página é atualizada a cada nova pesquisa registrada no Tribunal Superior Eleitoral (TSE).
 
 ## Todas as pesquisas de segundo turno
 
-A tabela vai da mais recente para a mais antiga e será completada com o Datafolha de 15 de outubro assim que ele for divulgado. "Total" inclui brancos, nulos e indecisos. "Válidos" exclui esses grupos, como faz a Justiça Eleitoral na contagem oficial.
+A tabela vai da mais recente para a mais antiga. "Total" inclui brancos, nulos e indecisos. "Válidos" exclui esses grupos, como faz a Justiça Eleitoral na contagem oficial.
 
 | Instituto | Campo | Entrevistados | Margem | Registro TSE | Flávio (total) | Lula (total) | Flávio (válidos) | Lula (válidos) |
 |---|---|---|---|---|---|---|---|---|
+| Datafolha | 13 a 15/10 | 2.520 | 2 pontos | BR-00466/2026 | 47% | 45% | 51% | 49% |
 | Quaest | 10 a 13/10 | 2.154 | 2 pontos | BR-08729/2026 | 46% | 44% | não divulgado | não divulgado |
 | Datafolha | divulgada em 8/10 | 2.520 | 2 pontos | BR-02949/2026 | 49% | 45% | 52% | 48% |
 
-As duas pesquisas já divulgadas têm nível de confiança de 95%.
+As três pesquisas têm nível de confiança de 95%. No Datafolha de 15 de outubro, o campo registrado no TSE vai de 13 a 15 de outubro.
 
 ## As pesquisas, uma a uma
 
-Datafolha, 15 de outubro. O Datafolha divulga às 18h30 desta quinta-feira, 15 de outubro, nova pesquisa de segundo turno, registrada no TSE sob o número BR-00466/2026. Os números entram nesta página assim que forem publicados.
+Datafolha, 15 de outubro. A segunda pesquisa Datafolha de segundo turno ouviu 2.520 eleitores em 153 municípios, com margem de erro de 2 pontos. Flávio tem 47% do total, dois pontos a menos que na semana anterior, e Lula, 45%, o mesmo número. Brancos, nulos e nenhum somam 6%, e indecisos, 2%. Nos votos válidos, Flávio tem 51% e Lula, 49%. A diferença caiu de quatro para dois pontos.
+
+A rejeição de Lula ficou em 46%, e a de Flávio subiu de 43% para 44%. Perguntados sobre quem vai ganhar, 54% apontaram Flávio e 37%, Lula.
 
 Quaest, 14 de outubro. A primeira pesquisa Quaest de segundo turno ouviu 2.154 eleitores de 10 a 13 de outubro, com margem de erro de 2 pontos percentuais. Flávio Bolsonaro tem 46% e Lula, 44%. Brancos, nulos e quem diz que não vai votar somam 9%, e indecisos, 1%. A pesquisa foi contratada pela Rede Globo.
 

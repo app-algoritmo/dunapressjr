@@ -12,8 +12,8 @@ revisor: "Paulo Fernando de Barros"
 fonte_primaria: "https://resultados.tse.jus.br/"
 fonte_nome: "Tribunal Superior Eleitoral (TSE); Datafolha; Quaest; Agência Brasil; CartaCapital; CNN Brasil; Diario de Pernambuco; Jornal do Comércio; O Povo; A Crítica"
 data_do_fato: 2026-10-04
-featuredImage: "https://images.unsplash.com/photo-1632184078940-35a3c70996a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
-photoAuthor: "Matheus Câmara da Silva"
+featuredImage: "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=1200&auto=format&fit=crop&q=75"
+photoAuthor: "Element5 Digital"
 photoSource: "Unsplash"
 tags:
   - brasil
@@ -70,7 +70,7 @@ Na mesma pesquisa, Flávio tinha 49% do total e Lula, 45%. Em votos válidos, 52
 
 A Quaest, em pesquisa feita de 10 a 13 de outubro, com 2.154 entrevistados, margem de 2 pontos e registro BR-08729/2026, registrou Flávio com 46% e Lula com 44%. O recorte por voto no primeiro turno não foi divulgado.
 
-Uma nova pesquisa Datafolha, com registro BR-00466/2026, está prevista para a noite de 15 de outubro.
+A segunda pesquisa Datafolha, divulgada em 15 de outubro com registro BR-00466/2026, mostrou Flávio com 51% dos votos válidos e Lula com 49%. Os relatos publicados sobre ela não trazem o recorte por voto no primeiro turno.
 
 ## Brancos, nulos e abstenção
 
