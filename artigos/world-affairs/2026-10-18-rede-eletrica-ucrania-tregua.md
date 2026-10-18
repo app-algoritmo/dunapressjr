@@ -42,4 +42,4 @@ A pressão sobre a rede elétrica vem às vésperas do inverno. Em Kiev, a irrit
 
 Zelensky disse que mais da metade dos drones russos a jato derrubados foram abatidos por aviões ucranianos e que o país recebeu garantias de mais munição para seus caças F-16. A rede americana CNN informou nesta semana que a Ucrânia esgotou seus mísseis interceptadores Patriot. O governo ucraniano não confirmou a informação.
 
-Zelensky também pediu aos Estados Unidos que encerrem o que chamou de "apagão de sanções", depois que Trump suspendeu as sanções previstas na lei do senador Lindsey Graham contra o petróleo russo.
+Zelensky também pediu aos Estados Unidos que encerrem o que chamou de "apagão de sanções", depois que Trump suspendeu as sanções previstas na lei proposta pelo senador Lindsey Graham, morto em julho, contra o petróleo russo.

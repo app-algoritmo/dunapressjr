@@ -1,6 +1,6 @@
 ---
 title: "Trump suspende sanções contra o petróleo russo, e Rubio fala em pausa de até 60 dias"
-subtitle: "As tarifas e punições previstas na lei do senador Lindsey Graham entrariam em vigor na semana que vem. Zelensky chamou a decisão de errada; o próprio Graham discordou"
+subtitle: "As tarifas e punições previstas na lei proposta pelo senador Lindsey Graham, morto em julho, entrariam em vigor na semana que vem. Zelensky chamou a decisão de errada; a irmã e sucessora de Graham no Senado também discordou"
 description: "Trump suspende por decreto as sanções da Lei Graham contra o petróleo e o gás russos. Rubio diz que o governo terá até 60 dias para avaliar os efeitos."
 date: 2026-10-18
 status: publish
@@ -22,7 +22,7 @@ tags:
   - petroleo
 ---
 
-O presidente dos Estados Unidos, Donald Trump, assinou na sexta-feira, 17 de outubro, uma ordem executiva que suspende sanções e tarifas contra a Rússia previstas numa lei de autoria do senador republicano Lindsey Graham. Trump sancionou a lei no mês passado.
+O presidente dos Estados Unidos, Donald Trump, assinou na sexta-feira, 17 de outubro, uma ordem executiva que suspende sanções e tarifas contra a Rússia previstas numa lei proposta pelo senador republicano Lindsey Graham, da Carolina do Sul. Graham morreu em 11 de julho, aos 71 anos, e Trump sancionou a lei no mês passado.
 
 As medidas incluem tarifas sobre produtos russos e punições a países que compram petróleo e gás da Rússia. Elas entrariam em vigor na semana que vem. A ordem não diz por quanto tempo vale a suspensão.
 
@@ -42,6 +42,6 @@ A suspensão vem num momento de energia cara. O petróleo Brent fechou a sexta-f
 
 O presidente ucraniano, Volodimir Zelensky, chamou a decisão de "errada" e disse que ela vai encorajar Vladimir Putin e prolongar a guerra. Ele pediu a Washington que encerre o que chamou de "apagão de sanções".
 
-O senador Graham discordou da suspensão. Disse que vai tratar do assunto com Trump quando o presidente fizer campanha para ele na semana que vem. "Porque eu não confio em Putin e não confio na Rússia", afirmou.
+A senadora Darline Graham, irmã de Lindsey Graham, nomeada em julho para assumir a cadeira dele, discordou da suspensão. Ela disse que vai tratar do assunto com Trump quando o presidente fizer campanha para ela na semana que vem. "Porque eu não confio em Putin e não confio na Rússia", afirmou.
 
 Na mesma semana, uma organização de monitoramento identificou navios que transportam gás russo e criticou a suspensão, segundo a Kyiv Independent.

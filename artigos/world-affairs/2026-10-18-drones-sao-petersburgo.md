@@ -40,6 +40,6 @@ Antes de São Petersburgo, os drones ucranianos atingiram a refinaria de Ryazan,
 
 ## O contexto
 
-O ataque ocorre um dia depois de Trump suspender, por decreto, as sanções da lei de autoria do senador Lindsey Graham contra o petróleo e o gás russos. O presidente ucraniano, Volodimir Zelensky, criticou a decisão.
+O ataque ocorre um dia depois de Trump suspender, por decreto, as sanções da lei proposta pelo senador Lindsey Graham, morto em julho, contra o petróleo e o gás russos. O presidente ucraniano, Volodimir Zelensky, criticou a decisão.
 
 Na mesma noite, a Rússia atacou de novo a Ucrânia. Segundo a Kyiv Independent, ataques russos atingiram 20 localidades e deixaram 10 mortos e 73 feridos em todo o país, inclusive no oeste ucraniano.
