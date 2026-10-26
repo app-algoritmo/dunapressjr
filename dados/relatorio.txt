@@ -1,8 +1,8 @@
 DUNA PRESS — DIAGNÓSTICO DO ACERVO
 ====================================================
 
-Artigos publicados ........ 20.485
-Redirects 301 gerados ..... 20.485
+Artigos publicados ........ 20.486
+Redirects 301 gerados ..... 20.486
 Colisões de slug ajustadas  140
 Slugs reservados desviados  2   ← disputavam endereço de seção
 Categorias de origem ...... 83 → 9 editorias
@@ -11,7 +11,7 @@ POR EDITORIA
 ----------------------------------------------------
 Brasil              10728   (9 categorias absorvidas)
 Mundo                2986   (8 categorias absorvidas)
-Economia             1356   (8 categorias absorvidas)
+Economia             1357   (8 categorias absorvidas)
 Política             1042   (4 categorias absorvidas)
 Ciência & Saúde      1222   (14 categorias absorvidas)
 Tecnologia            437   (6 categorias absorvidas)
@@ -22,12 +22,12 @@ Opinião               270   (3 categorias absorvidas)
 ORIGEM DO SLUG
 ----------------------------------------------------
 wordpress: data+slug          16490   80.5%
-derivado do título             2377   11.6%
+derivado do título             2378   11.6%
 wordpress: título              1618    7.9%
 
 POR PORTE
 ----------------------------------------------------
-Longa (800+ palavras)     3671
+Longa (800+ palavras)     3672
 Média (300–799)          11901
 Curta (<300)              4913   ← candidatos a arquivo
 
@@ -42,4 +42,4 @@ POR ANO
 2023   5053  ██████████████████████████████████████████
 2024   2006  █████████████████
 2025    606  █████
-2026   1490  ████████████
+2026   1491  ████████████
